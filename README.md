@@ -84,6 +84,8 @@ python scripts/run_study.py                          # the honest verdict
 
 `data/` (filings, prices, panel) is gitignored — everything reproduces from the sources above.
 
+**Results surface.** The deliverable is a research artifact, not production infra ([DESIGN §10](DESIGN.md)): a static results page ([`docs/index.html`](docs/index.html)) with the honest verdict and charts, servable free via GitHub Pages, plus an offline, key-gated **narrator** ([`narrate/memo.py`](src/eqd/narrate/memo.py)) that turns computed result rows into grounded, cited prose — it never computes a number and never advises. Try it: `python scripts/narrate_event.py AAPL`.
+
 ---
 
 ## Repository map
@@ -103,8 +105,11 @@ src/eqd/
   study/costs.py        net-of-cost returns
   study/crosssection.py CAR ~ signal + controls, clustered SE
   study/portfolio.py    net-of-cost long-short spread
-tests/                  alignment gate, diff, returns engine, portfolio, tone
-scripts/                verify_acceptance_tz, fetch_lm_dictionary, build_panel, run_study
+  narrate/memo.py       grounded, cited, no-advice narrator (never computes/advises)
+tests/                  alignment gate, diff, returns engine, portfolio, tone, narrator
+scripts/                verify_acceptance_tz, fetch_lm_dictionary, build_panel,
+                        run_study, classify_sample, narrate_event
+docs/index.html         static results page (the honest verdict + charts) — GitHub Pages
 ```
 
 ---
