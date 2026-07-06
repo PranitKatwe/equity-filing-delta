@@ -28,11 +28,19 @@ This is codified in [`src/eqd/eventtime.py`](src/eqd/eventtime.py) and guarded b
 
 ## The result (honest, calibrated)
 
-> **Status:** sanity-scale run. In-sample / holdout split at 2022-01-01, gross **and** net of costs. Numbers below are from the current build and will be refreshed as the universe scales to the full S&P 500.
+Full S&P 500 run: **4,705 filing events across 480 names**, split in-sample (t0 < 2022-01-01, 2,529 events) vs an untouched **holdout** (2022+, 2,176 events), reported gross **and** net of a round-trip cost.
 
-- **Leakage check is clean:** mean placebo `[−5,−1]` CAR ≈ 0; the signal does not significantly predict the pre-event window.
-- **Direction reproduces "Lazy Prices":** more *net-added* risk-factor language → **lower** subsequent abnormal returns. In the sanity run the coefficient on `net_added` is negative and significant across three expected-return models (market-adjusted, sector-adjusted, market-model β), e.g. CAR`[0,+5]` ≈ −0.003 to −0.004 per 1 SD (p < 0.01).
-- **Framed correctly:** this is a *sanity check that the machinery works*, not a tradeable claim. The honest headline number is the **holdout, net-of-cost** figure, run once after specs are frozen ([`scripts/run_study.py`](scripts/run_study.py)).
+**The calibrated answer: the effect is weak and does not survive as a tradeable signal.** And that is a legitimate, credible result — the design is explicit that *"the effect is small / vanishes after costs"* is a real finding, and that a weak-but-honest answer beats a strong-but-fake one.
+
+- **No lookahead.** The signal does not predict the pre-event placebo `[−5,−1]` window (coef p = 0.65). (A uniform +0.34% *level* in the placebo window is not signal-driven — it is absorbed by the regression intercept — so it is a model-level effect, not leakage.)
+- **Holdout matches the Lazy-Prices direction, marginally.** More *net-added* risk-factor language → **lower** subsequent abnormal returns: CAR`[0,+21]` coef −0.004 (**p = 0.03**), CAR`[0,+5]` p = 0.06.
+- **…but the sign is unstable.** In-sample the *same* signal is **positive** (wrong direction, CAR`[0,+21]` p = 0.01). A signal that flips sign across periods is not robust.
+- **It does not survive costs.** The net-of-cost long-short spread is **+0.07%** after a 0.20% round trip — economically negligible and statistically insignificant (t = 0.66, **p = 0.51**).
+- **Transparent tone deltas** (Loughran-McDonald) are likewise insignificant on the holdout — a useful cross-check that the mechanical result isn't an artifact of one signal construction.
+
+The instructive part: a 30-name subsample showed a **strong, significant** holdout effect; the full 500 **washes it out** — a textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline exists. The value of this project is the harness that says so honestly.
+
+**Avenue not claimed.** `net_added` is a blunt mechanical count. The diff-grounded LLM classifier ([`risk_factors.py`](src/eqd/delta/risk_factors.py)) sharpens it into `n_substantive_added` (real new risks vs boilerplate); whether that survives is an open, documented next step — not a result asserted here.
 
 Reproduce end-to-end: `build_panel.py` → `run_study.py` (see below).
 
@@ -67,7 +75,7 @@ python -m venv .venv && .venv/Scripts/activate      # Windows; use source .venv/
 pip install -e .                                     # installs deps from pyproject.toml
 cp .env.example .env                                 # then set SEC_USER_AGENT="<app> <your-email>"
 
-pytest -q                                            # 31 tests: the alignment gate + everything else
+pytest -q                                            # 34 tests: the alignment gate + everything else
 
 python scripts/fetch_lm_dictionary.py                # cache LM tone word lists
 python scripts/build_panel.py --limit 30             # delta features + CARs (drop --limit for full S&P 500)
@@ -113,4 +121,4 @@ scripts/                verify_acceptance_tz, fetch_lm_dictionary, build_panel, 
 
 ## Status
 
-M0 (event-time spine), M1 (delta extraction), and M2/M3-lite (the harness + first honest verdict) are complete and reproducible. In progress: full-S&P-500 scale, the diff-grounded LLM risk-factor classifier, and the run-once holdout headline. See [`DESIGN.md`](DESIGN.md) for the full methodology and roadmap.
+Complete and reproducible end-to-end at full S&P 500 scale: M0 (event-time spine + ingest), M1 (mechanical diff + diff-grounded LLM classifier), M2 (event-study harness), M3 (holdout + net-of-cost verdict, run once), and M4 (Loughran-McDonald tone deltas). 4,705 events across 480 names; 34 tests. The honest headline is above. Open next steps: evaluate whether the LLM-sharpened `n_substantive_added` beats the mechanical count, and a sector-neutral portfolio with turnover. See [`DESIGN.md`](DESIGN.md) for the full methodology.
