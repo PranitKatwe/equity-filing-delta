@@ -25,6 +25,7 @@ from ..ingest.edgar import download_document, list_filings
 from ..ingest.prices import SECTOR_ETFS
 from ..ingest.sections import extract_sections
 from .diff import diff_text
+from .tone import tone_features
 
 _FEATURE_COLS = [
     "n_added",
@@ -68,25 +69,25 @@ def build_company_panel(
                 label=f"{ticker} 10-K {f.accession}",
             )
             d = diff_text(prior_1a, cur_1a)
-            rows.append(
-                {
-                    "ticker": ticker,
-                    "cik": cik,
-                    "sector": sector,
-                    "sector_etf": sector_etf,
-                    "accession": f.accession,
-                    "prior_accession": prior_acc,
-                    "acceptance_datetime": f.acceptance_datetime,
-                    "filing_date": f.filing_date,
-                    "t0": cal.t0(f.acceptance_datetime).date(),
-                    "n_added": len(d.added),
-                    "n_removed": len(d.removed),
-                    "n_modified": len(d.modified),
-                    "net_added": len(d.added) - len(d.removed),
-                    "doc_similarity": round(d.doc_similarity, 4),
-                    "item1a_chars": len(cur_1a),
-                }
-            )
+            row = {
+                "ticker": ticker,
+                "cik": cik,
+                "sector": sector,
+                "sector_etf": sector_etf,
+                "accession": f.accession,
+                "prior_accession": prior_acc,
+                "acceptance_datetime": f.acceptance_datetime,
+                "filing_date": f.filing_date,
+                "t0": cal.t0(f.acceptance_datetime).date(),
+                "n_added": len(d.added),
+                "n_removed": len(d.removed),
+                "n_modified": len(d.modified),
+                "net_added": len(d.added) - len(d.removed),
+                "doc_similarity": round(d.doc_similarity, 4),
+                "item1a_chars": len(cur_1a),
+            }
+            row.update(tone_features(prior_1a, cur_1a))  # LM tone levels + YoY deltas
+            rows.append(row)
 
         if cur_1a:  # only advance prior when we have usable text
             prior = (f.accession, f.acceptance_datetime, cur_1a)

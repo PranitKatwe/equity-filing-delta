@@ -48,13 +48,24 @@ def _throttle() -> None:
     _last_request[0] = time.monotonic()
 
 
+_CLIENT: httpx.Client | None = None
+
+
+def _client() -> httpx.Client:
+    """Persistent pooled client — reuses connections (avoids per-request TLS)."""
+    global _CLIENT
+    if _CLIENT is None:
+        _CLIENT = httpx.Client(
+            headers={"User-Agent": require_user_agent(), "Accept-Encoding": "gzip"},
+            timeout=30,
+            follow_redirects=True,
+        )
+    return _CLIENT
+
+
 def _get(url: str) -> httpx.Response:
     _throttle()
-    resp = httpx.get(
-        url,
-        headers={"User-Agent": require_user_agent(), "Accept-Encoding": "gzip"},
-        timeout=30,
-    )
+    resp = _client().get(url)
     resp.raise_for_status()
     return resp
 

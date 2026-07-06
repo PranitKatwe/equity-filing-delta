@@ -15,11 +15,8 @@ enough; extraction quality is measured on a gold set in Step 3.
 from __future__ import annotations
 
 import re
-import warnings
 
-from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
-
-warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+import lxml.html
 
 # SEC-mandated section titles, used to anchor REAL headings (both the target
 # sections and their end bounds). Anchoring ends on titles too means an in-body
@@ -45,15 +42,24 @@ _HEADING_GAP = r"[\.\s:\-–—]*"
 
 
 def html_to_text(html: str) -> str:
-    """Flatten filing HTML to normalized plain text (newline-separated blocks)."""
-    soup = BeautifulSoup(html, "lxml")
-    for tag in soup(["script", "style"]):
-        tag.decompose()
-    text = soup.get_text("\n")
-    text = text.replace("\xa0", " ")
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n\s*\n+", "\n", text)
-    return text.strip()
+    """Flatten filing HTML to normalized plain text (whitespace-collapsed).
+
+    Uses lxml directly (~5x faster than BeautifulSoup on multi-MB filings).
+    Downstream section extraction is regex-based and the diff re-splits into
+    sentences, so block/newline structure is not needed — only the token
+    stream and the heading order matter.
+    """
+    # Feed bytes with a forced-UTF-8 parser: many filings carry an inline XML
+    # encoding declaration, which lxml refuses to parse from a str.
+    data = html.encode("utf-8", "replace") if isinstance(html, str) else html
+    doc = lxml.html.fromstring(data, parser=lxml.html.HTMLParser(encoding="utf-8"))
+    for el in doc.xpath("//script | //style"):
+        el.drop_tree()
+    # Join text nodes with spaces (like bs4's separator) so adjacent elements
+    # don't concatenate ("Risk Factors" + "The..." must not become "FactorsThe"),
+    # which would corrupt heading/boundary detection.
+    text = " ".join(doc.itertext()).replace("\xa0", " ")
+    return " ".join(text.split())
 
 
 def _item_starts(text: str, item: str) -> list[int]:

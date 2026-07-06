@@ -1,1 +1,116 @@
 # equity-filing-delta
+
+**A point-in-time, no-lookahead event-study harness that tests whether year-over-year changes in SEC filing text predict subsequent abnormal returns — costs included, out-of-sample, against an honest null.**
+
+The pipeline extracts *structured deltas* from consecutive 10-K filings (new / removed / reworded risk factors, tone shifts), assembles them into a **point-in-time** feature panel, and measures whether those textual changes relate to returns under a rigorous event-study harness.
+
+---
+
+## The one thing to understand about this project
+
+**The harness is the crown jewel, not the signal.** In equities, anyone can fit something that looks like alpha in-sample. Credibility lives entirely in the methodology: point-in-time data, no lookahead, transaction costs, a real benchmark, and a holdout that is looked at once. So the headline here is *not* "a model that predicts returns" — it's **"a harness that says, honestly, whether a signal survives."** A weak-but-honest result beats a strong-but-fake one, every time.
+
+**On novelty (stated plainly).** That 10-K text *changes* predict returns is a documented result — Cohen, Malloy & Nguyen, ["Lazy Prices," *Journal of Finance* 2020](https://doi.org/10.1111/jofi.12885) (most filing changes are negative and predict underperformance). This project does **not** claim to discover that. The contribution is the **end-to-end, point-in-time-honest reproduction-and-extension machinery** on a seam few occupy: LLM-ready text-delta extraction wired to market-data rigor. Reproducing the known direction is treated as a **sanity check**, not a finding.
+
+---
+
+## What "no lookahead" actually means here
+
+Lookahead — using information you couldn't really have had yet — is the silent killer of retail "alpha." The entire credibility of this project rests on one hard gate, built and tested before anything else:
+
+- Every EDGAR filing has an **acceptance datetime** (the instant it became public). `t0` = **the first trading session whose 9:30 ET open is strictly after that instant.** After-close filing → next day; weekend/holiday → next trading day; pre-market filing → *same* day (tradeable at the open). Verified against real filing headers ([`scripts/verify_acceptance_tz.py`](scripts/verify_acceptance_tz.py) — this caught and killed a latent 4–5-hour timezone bug).
+- Every feature is computable from filings dated **≤ the acceptance datetime** — enforced in code by `assert_no_lookahead`, not merely promised in prose.
+- A **placebo window `[−5, −1]`** (pre-event) is measured on every event. If a "predictive" signal shows abnormal returns *before* the filing, that's leakage, not alpha.
+
+This is codified in [`src/eqd/eventtime.py`](src/eqd/eventtime.py) and guarded by 18 tests in [`tests/test_eventtime.py`](tests/test_eventtime.py) — the single most important test in the repo.
+
+---
+
+## The result (honest, calibrated)
+
+> **Status:** sanity-scale run. In-sample / holdout split at 2022-01-01, gross **and** net of costs. Numbers below are from the current build and will be refreshed as the universe scales to the full S&P 500.
+
+- **Leakage check is clean:** mean placebo `[−5,−1]` CAR ≈ 0; the signal does not significantly predict the pre-event window.
+- **Direction reproduces "Lazy Prices":** more *net-added* risk-factor language → **lower** subsequent abnormal returns. In the sanity run the coefficient on `net_added` is negative and significant across three expected-return models (market-adjusted, sector-adjusted, market-model β), e.g. CAR`[0,+5]` ≈ −0.003 to −0.004 per 1 SD (p < 0.01).
+- **Framed correctly:** this is a *sanity check that the machinery works*, not a tradeable claim. The honest headline number is the **holdout, net-of-cost** figure, run once after specs are frozen ([`scripts/run_study.py`](scripts/run_study.py)).
+
+Reproduce end-to-end: `build_panel.py` → `run_study.py` (see below).
+
+---
+
+## Method
+
+1. **Extract deltas, not levels.** Diff consecutive 10-Ks' **Item 1A (Risk Factors)** and **Item 7 (MD&A)**. A sentence-level diff with C-accelerated similarity reconciliation isolates *added / removed / reworded* passages while neutralizing spurious churn from paragraph re-chunking and reordering ([`src/eqd/delta/diff.py`](src/eqd/delta/diff.py)). Diff **first** — so any later LLM classification only ever sees real changes and can never invent them.
+2. **Transparent tone baseline.** Loughran-McDonald negative/uncertainty proportions and their YoY deltas ([`src/eqd/delta/tone.py`](src/eqd/delta/tone.py)) — a non-LLM cross-check.
+3. **Abnormal returns, ≥2 models.** Market-adjusted, sector-adjusted, and a market-model with β estimated on a pre-event `[−120,−21]` window ([`src/eqd/study/abnormal.py`](src/eqd/study/abnormal.py)).
+4. **CARs + placebo + costs.** Windows `[0,+1] / [0,+5] / [0,+21]`, placebo `[−5,−1]`, momentum control, net-of-cost returns ([`car.py`](src/eqd/study/car.py), [`costs.py`](src/eqd/study/costs.py)).
+5. **Honest test.** Cross-section of CAR on the delta signal with controls and clustered SEs; a net-of-cost long-short spread; an in-sample/holdout split run once ([`crosssection.py`](src/eqd/study/crosssection.py), [`portfolio.py`](src/eqd/study/portfolio.py)).
+
+---
+
+## Data (all free)
+
+| Source | Use |
+|---|---|
+| **SEC EDGAR** REST APIs | Filings + **acceptance datetimes** (the event clock), as-filed text |
+| **Yahoo Finance** (`yfinance`) | Daily split/dividend-adjusted prices; benchmark + sector SPDR ETFs |
+| **Loughran-McDonald** master dictionary (Notre Dame SRAF) | Transparent tone baseline |
+
+EDGAR serves the *hard* inputs — financials **as originally filed, with a timestamp** — so point-in-time reconstruction is free, which is exactly what a no-lookahead study needs. (Stooq was the original price source but added a JS anti-bot challenge; `yfinance` is the design's listed fallback.)
+
+---
+
+## Run it
+
+```bash
+python -m venv .venv && .venv/Scripts/activate      # Windows; use source .venv/bin/activate on Unix
+pip install -e .                                     # installs deps from pyproject.toml
+cp .env.example .env                                 # then set SEC_USER_AGENT="<app> <your-email>"
+
+pytest -q                                            # 31 tests: the alignment gate + everything else
+
+python scripts/fetch_lm_dictionary.py                # cache LM tone word lists
+python scripts/build_panel.py --limit 30             # delta features + CARs (drop --limit for full S&P 500)
+python scripts/run_study.py                          # the honest verdict
+```
+
+`data/` (filings, prices, panel) is gitignored — everything reproduces from the sources above.
+
+---
+
+## Repository map
+
+```
+src/eqd/
+  eventtime.py          THE SPINE: acceptance datetime -> t0, no-lookahead audit
+  universe.py           S&P 500 constituents + ticker<->CIK
+  ingest/edgar.py       rate-limited EDGAR access; filings + acceptance; cache + SHA-256
+  ingest/prices.py      yfinance adjusted EOD + benchmark/sector ETFs; tick validation
+  ingest/sections.py    extract Item 1A / Item 7 from filing HTML
+  delta/diff.py         sentence-level YoY diff (added/removed/modified) — grounds the LLM
+  delta/tone.py         Loughran-McDonald tone deltas
+  delta/panel.py        point-in-time feature panel (assert_no_lookahead enforced)
+  study/abnormal.py     expected-return models (market/sector/market-model)
+  study/car.py          CAR windows + placebo + momentum
+  study/costs.py        net-of-cost returns
+  study/crosssection.py CAR ~ signal + controls, clustered SE
+  study/portfolio.py    net-of-cost long-short spread
+tests/                  alignment gate, diff, returns engine, portfolio, tone
+scripts/                verify_acceptance_tz, fetch_lm_dictionary, build_panel, run_study
+```
+
+---
+
+## Honest risks & how they're handled
+
+- **Lookahead** — acceptance→next-session alignment, an automated audit, and the placebo window. Non-negotiable.
+- **Multiple testing** — specs pre-registered in `run_study.py`; the holdout is a single look.
+- **Costs flip signals** — every tradeable claim is reported net of a round-trip cost.
+- **Extraction noise** — the LLM is diff-grounded; boilerplate is separated from substantive change; tone is cross-checked against the transparent LM dictionary.
+- **Survivorship** — an event study conditions on filings, so this is second-order; the universe keeps `date_added` for a point-in-time membership filter.
+
+---
+
+## Status
+
+M0 (event-time spine), M1 (delta extraction), and M2/M3-lite (the harness + first honest verdict) are complete and reproducible. In progress: full-S&P-500 scale, the diff-grounded LLM risk-factor classifier, and the run-once holdout headline. See [`DESIGN.md`](DESIGN.md) for the full methodology and roadmap.
