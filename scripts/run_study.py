@@ -33,6 +33,16 @@ CAR_WINDOWS = ["market_model__car_0_5", "market_adjusted__car_0_5", "market_mode
 PLACEBO = "market_model__placebo_pre"
 SPLIT_DATE = "2022-01-01"     # events before -> in-sample; on/after -> holdout
 
+# Each signal + the sign we expect if the Lazy-Prices intuition holds:
+#   more added risk / more negative tone / more uncertainty -> LOWER returns (neg)
+#   higher similarity (fewer changes) -> HIGHER returns (pos)
+SIGNALS = [
+    ("net_added", "neg"),
+    ("d_tone_negative", "neg"),
+    ("d_tone_uncertainty", "neg"),
+    ("doc_similarity", "pos"),
+]
+
 
 def _stars(p: float) -> str:
     return "***" if p < 0.01 else "**" if p < 0.05 else "*" if p < 0.10 else ""
@@ -83,6 +93,24 @@ def main() -> int:
 
     # 3. Holdout (run once) — the honest headline ------------------------
     _run_cross_section(holdout, "HOLDOUT (run once)")
+    print()
+
+    # 3b. Signal comparison on the holdout (mechanical vs LM-tone) --------
+    print(f"-- SIGNAL COMPARISON (holdout, {PRIMARY_Y}, controls: {' + '.join(CONTROLS)}) --")
+    for sig, expect in SIGNALS:
+        if sig not in holdout.columns or holdout[sig].notna().sum() < 20:
+            print(f"  {sig:20} unavailable / too few obs")
+            continue
+        try:
+            res = cross_section(holdout, PRIMARY_Y, [sig], CONTROLS, cluster="t0")
+        except ValueError as e:
+            print(f"  {sig:20} skipped ({e})")
+            continue
+        s = tidy(res, [sig]).iloc[0]
+        got = "neg" if s["coef"] < 0 else "pos"
+        verdict = "as expected" if got == expect else "OPPOSITE to expected"
+        print(f"  {sig:20} coef={s['coef']:+.5f}  p={s['p']:.3f} {_stars(s['p']):3}  "
+              f"(want {expect}, got {got}: {verdict})")
     print()
 
     # 4. Net-of-cost long-short spread on the holdout --------------------
