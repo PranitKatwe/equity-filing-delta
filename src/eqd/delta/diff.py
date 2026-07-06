@@ -20,6 +20,8 @@ import re
 from dataclasses import dataclass, field
 from difflib import SequenceMatcher
 
+from rapidfuzz import fuzz, process
+
 _MIN_UNIT_CHARS = 30          # drop fragments (page numbers, stray headers)
 _MODIFIED_THRESHOLD = 0.60    # matched sentences this similar count as reworded
 _IDENTICAL_THRESHOLD = 0.95   # this similar == the same sentence, merely moved
@@ -99,22 +101,46 @@ def diff_text(
             raw_added.extend(c[j1:j2])
             raw_removed.extend(p[i1:i2])
 
+    _reconcile(raw_added, raw_removed, out, modified_threshold, identical_threshold)
+    return out
+
+
+def _reconcile(
+    raw_added: list[str],
+    raw_removed: list[str],
+    out: SectionDiff,
+    modified_threshold: float,
+    identical_threshold: float,
+) -> None:
+    """Match raw-added to raw-removed passages by similarity (rapidfuzz, C-speed).
+
+    fuzz.ratio returns 0..100; we scale to 0..1. A precomputed similarity matrix
+    (process.cdist) makes this ~1000x faster than pairwise difflib, which
+    otherwise dominates panel-build time.
+    """
+    if not raw_added or not raw_removed:
+        out.added = list(raw_added)
+        out.removed = list(raw_removed)
+        return
+
+    nadd = [_norm(a) for a in raw_added]
+    nrem = [_norm(r) for r in raw_removed]
+    scores = process.cdist(nadd, nrem, scorer=fuzz.ratio)  # shape (A, R), 0..100
+
     used: set[int] = set()
-    for cur in raw_added:
-        best_i, best_ratio = None, 0.0
-        for i, pri in enumerate(raw_removed):
-            if i in used:
-                continue
-            r = SequenceMatcher(None, _norm(pri), _norm(cur)).ratio()
-            if r > best_ratio:
-                best_i, best_ratio = i, r
-        if best_i is not None and best_ratio >= identical_threshold:
+    for ai, cur in enumerate(raw_added):
+        row = scores[ai]
+        best_i, best = -1, -1.0
+        for ri in range(len(raw_removed)):
+            if ri not in used and row[ri] > best:
+                best, best_i = float(row[ri]), ri
+        ratio = best / 100.0
+        if best_i >= 0 and ratio >= identical_threshold:
             used.add(best_i)
             out.n_unchanged += 1  # same passage, merely relocated
-        elif best_i is not None and best_ratio >= modified_threshold:
+        elif best_i >= 0 and ratio >= modified_threshold:
             used.add(best_i)
-            out.modified.append((raw_removed[best_i], cur, round(best_ratio, 4)))
+            out.modified.append((raw_removed[best_i], cur, round(ratio, 4)))
         else:
             out.added.append(cur)
     out.removed = [pri for i, pri in enumerate(raw_removed) if i not in used]
-    return out

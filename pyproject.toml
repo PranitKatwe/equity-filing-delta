@@ -7,9 +7,14 @@ dependencies = [
     "pandas>=2.2",
     "pandas-market-calendars>=4.4",
     "python-dotenv>=1.0",
+    "httpx>=0.27",            # EDGAR REST access
+    "lxml>=5.0",             # HTML/XBRL parsing
+    "beautifulsoup4>=4.12",  # section extraction
+    "rapidfuzz>=3.9",        # C-accelerated diff reconciliation
+    "yfinance>=0.2",         # daily adjusted prices (Stooq is JS-gated)
+    "statsmodels>=0.14",     # market model + cross-sectional inference
     # added in later steps:
-    # "httpx", "edgartools", "rapidfuzz", "duckdb", "polars",
-    # "statsmodels", "scipy", "anthropic",
+    # "anthropic",           # diff-grounded LLM extraction
 ]
 
 [project.optional-dependencies]
