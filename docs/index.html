@@ -258,18 +258,23 @@ const NARR_EVENTS = [
     btn.disabled = true; btn.textContent = "Generating…"; note.textContent = ""; out.hidden = true;
     try {
       const r = await fetch(`/api/narrate?event=${encodeURIComponent(key)}`);
-      const d = await r.json();
-      if (!r.ok) {
-        note.textContent = d.error || `Request failed (${r.status}).`;
-      } else {
+      let d = null;
+      try { d = await r.json(); } catch (_) { /* non-JSON body: gateway/timeout page */ }
+      if (r.ok && d && d.memo) {
         const f = d.facts;
         out.innerHTML = `<div>${esc(d.memo)}</div><div class="facts">Source: accession ${esc(f.accession)}` +
           ` · net-added ${f.net_added} · CAR[0,+5] ${pct(f.car_0_5)} · CAR[0,+21] ${pct(f.car_0_21)}` +
           `${d.cached ? " · cached" : ""}</div>`;
         out.hidden = false;
+      } else if (d && d.error) {
+        note.textContent = d.error;                       // the function told us exactly what went wrong
+      } else if (r.status === 504) {
+        note.textContent = "The model took too long to respond this time (timeout). Try again — successful memos are cached, so a retry is usually instant.";
+      } else {
+        note.textContent = `Request failed (HTTP ${r.status || "?"}). Give it a few seconds and try again.`;
       }
     } catch (e) {
-      note.textContent = "The live narrator needs the Vercel deployment — the /api endpoint isn't reachable from here.";
+      note.textContent = "Couldn't reach the narrator API — confirm you're on the Vercel URL, then retry.";
     } finally {
       btn.disabled = false; btn.textContent = "Generate memo";
     }
