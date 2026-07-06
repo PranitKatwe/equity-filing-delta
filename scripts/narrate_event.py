@@ -3,7 +3,7 @@
 Picks a real event row and asks the narrator to describe it — what changed and
 how the abnormal return behaved — from the pre-computed numbers only.
 
-Requires ANTHROPIC_API_KEY in .env. Runs on your key (one short summarization call).
+Requires NVIDIA_API_KEY in .env (free on build.nvidia.com). One short call.
 
 Usage: PYTHONPATH=src .venv/Scripts/python.exe scripts/narrate_event.py [TICKER]
 """

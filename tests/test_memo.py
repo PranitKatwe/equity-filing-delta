@@ -7,20 +7,25 @@ system prompt forbids advice.
 
 from eqd.narrate.memo import event_memo
 
+# --- Minimal OpenAI-shaped mock (chat.completions.create -> choices[0].message.content) ---
 
-class _Block:
-    type = "text"
 
-    def __init__(self, t):
-        self.text = t
+class _Msg:
+    def __init__(self, content):
+        self.content = content
+
+
+class _Choice:
+    def __init__(self, content):
+        self.message = _Msg(content)
 
 
 class _Resp:
-    def __init__(self, t):
-        self.content = [_Block(t)]
+    def __init__(self, content):
+        self.choices = [_Choice(content)]
 
 
-class _Msgs:
+class _Completions:
     def __init__(self, text):
         self.text = text
         self.last = None
@@ -30,9 +35,14 @@ class _Msgs:
         return _Resp(self.text)
 
 
+class _Chat:
+    def __init__(self, text):
+        self.completions = _Completions(text)
+
+
 class _Client:
     def __init__(self, text):
-        self.messages = _Msgs(text)
+        self.chat = _Chat(text)
 
 
 def test_event_memo_is_grounded_to_whitelisted_fields():
@@ -46,8 +56,16 @@ def test_event_memo_is_grounded_to_whitelisted_fields():
     client = _Client("AAPL's Item 1A added 5 net risk sentences (0000320193-25-000079).")
     out = event_memo(row, client=client)
 
-    payload = client.messages.last["messages"][0]["content"]
+    msgs = client.chat.completions.last["messages"]
+    system = msgs[0]["content"]
+    payload = msgs[1]["content"]
     assert "net_added" in payload and "accession" in payload   # grounded facts included
     assert "leaked_future_return" not in payload               # non-whitelisted excluded
-    assert "advice" not in client.messages.last["system"].lower() or "no" in client.messages.last["system"].lower()
+    assert "no" in system.lower() and "advice" in system.lower()  # the no-advice rule is stated
     assert "0000320193" in out                                 # returns the model's text
+
+
+def test_event_memo_strips_reasoning_trace():
+    client = _Client("<think>let me reason</think>Final memo (acc 123).")
+    out = event_memo({"accession": "123"}, client=client)
+    assert out == "Final memo (acc 123)."                      # <think> block removed

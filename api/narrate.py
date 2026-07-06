@@ -11,21 +11,24 @@ Why this is safe to expose publicly:
   * A per-instance rate limiter + a warm-instance cache bound how often the key
     is actually spent (there are only ~10 possible inputs).
 
-Env: ANTHROPIC_API_KEY (set in the Vercel project, not committed).
+Model: GLM 5.2 via NVIDIA's OpenAI-compatible endpoint (free on build.nvidia.com).
+Env: NVIDIA_API_KEY (set in the Vercel project, not committed).
 """
 
 from __future__ import annotations
 
 import json
 import os
+import re
 import time
 from http.server import BaseHTTPRequestHandler
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
-import anthropic
+from openai import OpenAI
 
-MODEL = os.getenv("EQD_NARRATE_MODEL", "claude-sonnet-5")
+MODEL = os.getenv("EQD_NARRATE_MODEL", "z-ai/glm-5.2")
+BASE_URL = os.getenv("EQD_LLM_BASE_URL", "https://integrate.api.nvidia.com/v1")
 
 # Same grounding contract as src/eqd/narrate/memo.py (duplicated so the serverless
 # bundle stays self-contained and does not import pandas / the whole package).
@@ -61,15 +64,18 @@ def _memo(key: str, client=None) -> str:
     if key in _CACHE:
         return _CACHE[key]
     facts = _EVENTS[key]
-    client = client or anthropic.Anthropic()   # reads ANTHROPIC_API_KEY from the environment
-    resp = client.messages.create(
+    client = client or OpenAI(base_url=BASE_URL, api_key=os.getenv("NVIDIA_API_KEY"))
+    resp = client.chat.completions.create(
         model=MODEL,
-        max_tokens=500,
-        system=_SYSTEM,
-        messages=[{"role": "user", "content":
+        temperature=0.4,
+        top_p=1,
+        max_tokens=800,
+        messages=[{"role": "system", "content": _SYSTEM},
+                  {"role": "user", "content":
                    "Write the memo from these computed values:\n" + json.dumps(facts, default=str)}],
     )
-    text = "".join(b.text for b in resp.content if b.type == "text").strip()
+    content = resp.choices[0].message.content or ""
+    text = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL).strip()
     _CACHE[key] = text
     return text
 
@@ -100,9 +106,9 @@ class handler(BaseHTTPRequestHandler):
                              "allowed": sorted(_EVENTS.keys())})
             return
 
-        if not os.getenv("ANTHROPIC_API_KEY"):
+        if not os.getenv("NVIDIA_API_KEY"):
             self._send(503, {"error": "narrator not configured "
-                             "(ANTHROPIC_API_KEY unset on the server)"})
+                             "(NVIDIA_API_KEY unset on the server)"})
             return
 
         if _rate_limited():

@@ -8,18 +8,20 @@ that lets an LLM sit in a research pipeline without undermining its credibility:
   * Descriptive only — no buy/sell/hold, no recommendation, no prediction.
   * Cite the source (accession number) so the memo is traceable.
 
-Model: configurable via EQD_NARRATE_MODEL; defaults to claude-sonnet-5
-(DESIGN §3: Sonnet for routine summarization). Requires ANTHROPIC_API_KEY.
+Model: GLM 5.2 via NVIDIA's OpenAI-compatible endpoint (free on build.nvidia.com).
+Configurable via EQD_NARRATE_MODEL / EQD_LLM_BASE_URL. Requires NVIDIA_API_KEY.
 """
 
 from __future__ import annotations
 
 import json
 import os
+import re
 
-import anthropic
+from openai import OpenAI
 
-MODEL = os.getenv("EQD_NARRATE_MODEL", "claude-sonnet-5")
+MODEL = os.getenv("EQD_NARRATE_MODEL", "z-ai/glm-5.2")
+BASE_URL = os.getenv("EQD_LLM_BASE_URL", "https://integrate.api.nvidia.com/v1")
 
 _EVENT_SYSTEM = (
     "You write a short, factual memo about one SEC 10-K filing: what changed in its "
@@ -51,38 +53,45 @@ _EVENT_FIELDS = [
 ]
 
 
-def _client(client: anthropic.Anthropic | None) -> anthropic.Anthropic:
+def _client(client: OpenAI | None) -> OpenAI:
     if client is not None:
         return client
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        raise RuntimeError("ANTHROPIC_API_KEY not set — the narrator runs on your key.")
-    return anthropic.Anthropic()
+    key = os.getenv("NVIDIA_API_KEY")
+    if not key:
+        raise RuntimeError("NVIDIA_API_KEY not set — the narrator runs on your "
+                           "free build.nvidia.com key.")
+    return OpenAI(base_url=BASE_URL, api_key=key)
 
 
 def _text(resp) -> str:
-    return "".join(b.text for b in resp.content if b.type == "text").strip()
+    """Return the assistant text, stripping any reasoning-trace <think> block."""
+    content = resp.choices[0].message.content or ""
+    content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL)
+    return content.strip()
 
 
-def event_memo(row: dict, client: anthropic.Anthropic | None = None) -> str:
+def _chat(client: OpenAI, system: str, user: str, max_tokens: int) -> str:
+    resp = client.chat.completions.create(
+        model=MODEL,
+        temperature=0.4,          # low: these are factual restatements, not creative writing
+        top_p=1,
+        max_tokens=max_tokens,
+        messages=[{"role": "system", "content": system},
+                  {"role": "user", "content": user}],
+    )
+    return _text(resp)
+
+
+def event_memo(row: dict, client: OpenAI | None = None) -> str:
     """A grounded, cited, no-advice memo for one filing event (a panel row)."""
     facts = {k: row[k] for k in _EVENT_FIELDS if k in row and row[k] is not None}
-    resp = _client(client).messages.create(
-        model=MODEL,
-        max_tokens=500,
-        system=_EVENT_SYSTEM,
-        messages=[{"role": "user", "content":
-                   "Write the memo from these computed values:\n" + json.dumps(facts, default=str)}],
-    )
-    return _text(resp)
+    return _chat(_client(client), _EVENT_SYSTEM,
+                 "Write the memo from these computed values:\n" + json.dumps(facts, default=str),
+                 max_tokens=800)
 
 
-def verdict_memo(stats: dict, client: anthropic.Anthropic | None = None) -> str:
+def verdict_memo(stats: dict, client: OpenAI | None = None) -> str:
     """A grounded, honest prose summary of the overall study result."""
-    resp = _client(client).messages.create(
-        model=MODEL,
-        max_tokens=600,
-        system=_VERDICT_SYSTEM,
-        messages=[{"role": "user", "content":
-                   "Summarize this event-study result:\n" + json.dumps(stats, default=str)}],
-    )
-    return _text(resp)
+    return _chat(_client(client), _VERDICT_SYSTEM,
+                 "Summarize this event-study result:\n" + json.dumps(stats, default=str),
+                 max_tokens=900)

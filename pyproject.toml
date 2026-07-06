@@ -12,7 +12,8 @@ dependencies = [
     "rapidfuzz>=3.9",        # C-accelerated diff reconciliation
     "yfinance>=0.2",         # daily adjusted prices (Stooq is JS-gated)
     "statsmodels>=0.14",     # market model + cross-sectional inference
-    "anthropic>=0.40",       # diff-grounded LLM extraction + grounded narrator
+    "openai>=1.30",          # grounded narrator via GLM 5.2 (NVIDIA OpenAI-compatible endpoint)
+    "anthropic>=0.40",       # diff-grounded LLM risk-factor classifier (structured outputs)
 ]
 
 [project.optional-dependencies]
