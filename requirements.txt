@@ -1,0 +1,4 @@
+# Dependencies for the Vercel serverless function only (api/narrate.py).
+# The research pipeline's full deps live in pyproject.toml; the deployed function
+# is deliberately lightweight (no pandas) for fast cold starts.
+anthropic>=0.40

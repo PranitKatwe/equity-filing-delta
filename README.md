@@ -75,7 +75,7 @@ python -m venv .venv && .venv/Scripts/activate      # Windows; use source .venv/
 pip install -e .                                     # installs deps from pyproject.toml
 cp .env.example .env                                 # then set SEC_USER_AGENT="<app> <your-email>"
 
-pytest -q                                            # 34 tests: the alignment gate + everything else
+pytest -q                                            # 38 tests: the alignment gate + everything else
 
 python scripts/fetch_lm_dictionary.py                # cache LM tone word lists
 python scripts/build_panel.py --limit 30             # delta features + CARs (drop --limit for full S&P 500)
@@ -84,7 +84,9 @@ python scripts/run_study.py                          # the honest verdict
 
 `data/` (filings, prices, panel) is gitignored — everything reproduces from the sources above.
 
-**Results surface.** The deliverable is a research artifact, not production infra ([DESIGN §10](DESIGN.md)): a static results page ([`docs/index.html`](docs/index.html)) with the honest verdict and charts, servable free via GitHub Pages, plus an offline, key-gated **narrator** ([`narrate/memo.py`](src/eqd/narrate/memo.py)) that turns computed result rows into grounded, cited prose — it never computes a number and never advises. Try it: `python scripts/narrate_event.py AAPL`.
+**Results surface (deployed on Vercel).** The deliverable is a research artifact, not production infra ([DESIGN §10](DESIGN.md)): a static results page ([`docs/index.html`](docs/index.html)) with the honest verdict and charts, plus a **live grounded narrator**. The page calls a Vercel Python serverless function ([`api/narrate.py`](api/narrate.py)) that turns a filing event's *pre-computed* numbers into cited prose (claude-sonnet-5) — it never computes a figure and never advises. The endpoint narrates **only a fixed allowlist** of bundled events ([`api/data/events.json`](api/data/events.json)), which is both the grounding guarantee and the abuse guard: a public URL can't be coaxed into narrating arbitrary text or draining the key (plus a per-instance rate limit + warm-instance cache). The same narrator runs offline too: `python scripts/narrate_event.py AAPL`.
+
+**Deploy it yourself.** Import the repo at [vercel.com/new](https://vercel.com/new) (zero build step — [`vercel.json`](vercel.json) serves `docs/index.html` at `/` and wires `/api/narrate`), add `ANTHROPIC_API_KEY` as a project environment variable, and deploy. Regenerate the event allowlist any time with `python scripts/bundle_events.py`.
 
 ---
 
@@ -106,10 +108,13 @@ src/eqd/
   study/crosssection.py CAR ~ signal + controls, clustered SE
   study/portfolio.py    net-of-cost long-short spread
   narrate/memo.py       grounded, cited, no-advice narrator (never computes/advises)
-tests/                  alignment gate, diff, returns engine, portfolio, tone, narrator
+api/narrate.py          Vercel serverless narrator — serves a fixed event allowlist
+api/data/events.json    the bundled allowlist (grounding + abuse guard)
+tests/                  alignment gate, diff, returns engine, portfolio, tone, narrator, api
 scripts/                verify_acceptance_tz, fetch_lm_dictionary, build_panel,
-                        run_study, classify_sample, narrate_event
-docs/index.html         static results page (the honest verdict + charts) — GitHub Pages
+                        run_study, classify_sample, narrate_event, bundle_events
+docs/index.html         static results page (verdict + charts + live narrator UI)
+vercel.json             Vercel config (static page at /, serverless /api/narrate)
 ```
 
 ---
@@ -126,4 +131,4 @@ docs/index.html         static results page (the honest verdict + charts) — Gi
 
 ## Status
 
-Complete and reproducible end-to-end at full S&P 500 scale: M0 (event-time spine + ingest), M1 (mechanical diff + diff-grounded LLM classifier), M2 (event-study harness), M3 (holdout + net-of-cost verdict, run once), and M4 (Loughran-McDonald tone deltas). 4,705 events across 480 names; 34 tests. The honest headline is above. Open next steps: evaluate whether the LLM-sharpened `n_substantive_added` beats the mechanical count, and a sector-neutral portfolio with turnover. See [`DESIGN.md`](DESIGN.md) for the full methodology.
+Complete and reproducible end-to-end at full S&P 500 scale: M0 (event-time spine + ingest), M1 (mechanical diff + diff-grounded LLM classifier), M2 (event-study harness), M3 (holdout + net-of-cost verdict, run once), and M4 (Loughran-McDonald tone deltas). 4,705 events across 480 names; 38 tests. The honest headline is above. Open next steps: evaluate whether the LLM-sharpened `n_substantive_added` beats the mechanical count, and a sector-neutral portfolio with turnover. See [`DESIGN.md`](DESIGN.md) for the full methodology.

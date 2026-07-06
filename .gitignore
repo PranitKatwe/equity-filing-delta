@@ -1,6 +1,7 @@
 # --- Project-specific ---
 # Data is never committed — reproducible from EDGAR / price sources
-data/
+# (anchored to repo root so api/data/events.json — the deployed allowlist — is kept)
+/data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

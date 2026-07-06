@@ -59,6 +59,14 @@
   .muted { color: var(--text-muted); font-size: 14px; }
   footer { margin-top: 48px; padding-top: 20px; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 13px; }
   code { background: var(--surface-1); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; font-size: 13px; }
+  .narrator { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 18px 20px; margin: 16px 0; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  select, button { font: inherit; border-radius: 8px; border: 1px solid var(--border); padding: 9px 12px; }
+  select { background: var(--surface-0); color: var(--text-primary); max-width: 100%; }
+  button { cursor: pointer; background: var(--holdout); color: #fff; border-color: transparent; font-weight: 600; }
+  button:disabled { opacity: .55; cursor: default; }
+  .memo { margin-top: 14px; padding: 14px 16px; border-left: 3px solid var(--holdout); background: var(--surface-0); border-radius: 8px; }
+  .memo .facts { color: var(--text-muted); font-size: 13px; margin-top: 10px; }
 </style>
 </head>
 <body>
@@ -127,6 +135,20 @@
   </ul>
   <p class="muted">Not claimed: <code>net_added</code> is a blunt mechanical count. A diff-grounded LLM classifier
   sharpens it into "substantive new risks vs boilerplate" — whether that survives is an open, documented next step.</p>
+
+  <h2>Try it: the grounded narrator</h2>
+  <p class="muted">Pick a real filing event. A server-side model (claude-sonnet-5) writes a short memo from the
+  harness's <em>pre-computed</em> numbers only — it never computes a figure and never gives advice. It can narrate
+  only this fixed set of measured events, so a public endpoint can't be coaxed into anything it didn't measure.</p>
+  <div class="narrator">
+    <div class="controls">
+      <label for="evsel" class="muted">Event:</label>
+      <select id="evsel" aria-label="Choose a filing event"></select>
+      <button id="evgo" type="button">Generate memo</button>
+    </div>
+    <div id="evout" class="memo" hidden></div>
+    <p id="evnote" class="muted" role="status" aria-live="polite"></p>
+  </div>
 
   <footer>
     Reproduce end-to-end from free data: <code>build_panel.py → run_study.py</code>.
@@ -208,6 +230,50 @@ function txt(s, x, y, a = {}) { const t = el("text", { x, y, ...a }); t.textCont
   const tb = document.getElementById("ctbody");
   COEF.forEach(d => tb.insertAdjacentHTML("beforeend",
     `<tr><td>${d.name}</td><td>${d.coef.toFixed(3)}</td><td>${d.p.toFixed(3)}</td></tr>`));
+})();
+
+// ---- live grounded narrator (calls /api/narrate on the Vercel deployment) ----
+const NARR_EVENTS = [
+  { key: "AAPL-2025", label: "AAPL — 10-K filed 2025-10-31 · Information Technology" },
+  { key: "MSFT-2022", label: "MSFT — 10-K filed 2022-07-28 · Information Technology" },
+  { key: "JPM-2026",  label: "JPM — 10-K filed 2026-02-13 · Financials" },
+  { key: "XOM-2026",  label: "XOM — 10-K filed 2026-02-18 · Energy" },
+  { key: "JNJ-2026",  label: "JNJ — 10-K filed 2026-02-11 · Health Care" },
+  { key: "WMT-2026",  label: "WMT — 10-K filed 2026-03-13 · Consumer Staples" },
+  { key: "NVDA-2026", label: "NVDA — 10-K filed 2026-02-25 · Information Technology" },
+  { key: "KO-2026",   label: "KO — 10-K filed 2026-02-20 · Consumer Staples" },
+  { key: "BA-2026",   label: "BA — 10-K filed 2026-01-30 · Industrials" },
+  { key: "PFE-2026",  label: "PFE — 10-K filed 2026-02-26 · Health Care" },
+];
+(function () {
+  const sel = document.getElementById("evsel");
+  NARR_EVENTS.forEach(e => {
+    const o = document.createElement("option"); o.value = e.key; o.textContent = e.label; sel.appendChild(o);
+  });
+  const btn = document.getElementById("evgo"), out = document.getElementById("evout"), note = document.getElementById("evnote");
+  const esc = s => s.replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+  const pct = v => (v == null ? "n/a" : (v >= 0 ? "+" : "") + (v * 100).toFixed(2) + "%");
+  btn.addEventListener("click", async () => {
+    const key = sel.value;
+    btn.disabled = true; btn.textContent = "Generating…"; note.textContent = ""; out.hidden = true;
+    try {
+      const r = await fetch(`/api/narrate?event=${encodeURIComponent(key)}`);
+      const d = await r.json();
+      if (!r.ok) {
+        note.textContent = d.error || `Request failed (${r.status}).`;
+      } else {
+        const f = d.facts;
+        out.innerHTML = `<div>${esc(d.memo)}</div><div class="facts">Source: accession ${esc(f.accession)}` +
+          ` · net-added ${f.net_added} · CAR[0,+5] ${pct(f.car_0_5)} · CAR[0,+21] ${pct(f.car_0_21)}` +
+          `${d.cached ? " · cached" : ""}</div>`;
+        out.hidden = false;
+      }
+    } catch (e) {
+      note.textContent = "The live narrator needs the Vercel deployment — the /api endpoint isn't reachable from here.";
+    } finally {
+      btn.disabled = false; btn.textContent = "Generate memo";
+    }
+  });
 })();
 </script>
 </body>
