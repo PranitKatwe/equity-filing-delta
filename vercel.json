@@ -3,6 +3,7 @@
   "cleanUrls": true,
   "outputDirectory": "docs",
   "functions": {
-    "api/narrate.py": { "maxDuration": 60 }
+    "api/narrate.py": { "maxDuration": 60 },
+    "api/ask.py": { "maxDuration": 60 }
   }
 }

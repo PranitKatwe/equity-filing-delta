@@ -64,6 +64,7 @@
   select, button, input { font: inherit; border-radius: 8px; border: 1px solid var(--border); padding: 9px 12px; }
   select, input { background: var(--surface-0); color: var(--text-primary); max-width: 100%; }
   input { min-width: 220px; }
+  input.wide { flex: 1 1 320px; }
   select:disabled, button:disabled { opacity: .55; cursor: default; }
   button { cursor: pointer; background: var(--holdout); color: #fff; border-color: transparent; font-weight: 600; }
   button:disabled { opacity: .55; cursor: default; }
@@ -154,6 +155,21 @@
     </div>
     <div id="evout" class="memo" hidden></div>
     <p id="evnote" class="muted" role="status" aria-live="polite">Loading companies…</p>
+  </div>
+
+  <h2>Ask about the filing changes</h2>
+  <p class="muted">Ask a plain-English question about a company's <strong>most recent</strong> 10-K risk-factor changes.
+  The model answers <em>only</em> from the actual added / removed / reworded sentences the harness diffs out of that
+  filing (retrieved server-side, cited) — if the answer isn't in those changes, it says so. Descriptive only: it won't
+  predict, value, or advise.</p>
+  <div class="narrator">
+    <div class="controls">
+      <input id="qaco" list="colist" placeholder="Company — e.g. BA" autocomplete="off" aria-label="Company for the question">
+      <input id="qaq" class="wide" placeholder="e.g. What new risks were added this year?" maxlength="300" aria-label="Your question">
+      <button id="qago" type="button">Ask</button>
+    </div>
+    <div id="qaout" class="memo" hidden></div>
+    <p id="qanote" class="muted" role="status" aria-live="polite"></p>
   </div>
 
   <footer>
@@ -302,6 +318,41 @@ function txt(s, x, y, a = {}) { const t = el("text", { x, y, ...a }); t.textCont
       btn.disabled = false; btn.textContent = "Generate memo";
     }
   });
+})();
+
+// ---- Phase 2: grounded filing Q&A (RAG over real diff passages) ----
+(function () {
+  const co = document.getElementById("qaco"), q = document.getElementById("qaq");
+  const btn = document.getElementById("qago"), out = document.getElementById("qaout"), note = document.getElementById("qanote");
+  const esc = s => String(s).replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+  async function ask() {
+    const company = co.value.trim().toUpperCase(), question = q.value.trim();
+    if (!company || !question) { note.textContent = "Enter a company ticker and a question."; return; }
+    btn.disabled = true; btn.textContent = "Asking…"; note.textContent = ""; out.hidden = true;
+    try {
+      const r = await fetch(`/api/ask?company=${encodeURIComponent(company)}&q=${encodeURIComponent(question)}`);
+      let d = null;
+      try { d = await r.json(); } catch (_) { /* non-JSON: gateway/timeout */ }
+      if (r.ok && d && d.answer) {
+        out.innerHTML = `<div>${esc(d.answer)}</div><div class="facts">Grounded in ${d.counts.added} added / ` +
+          `${d.counts.removed} removed / ${d.counts.reworded} reworded sentences · accession ${esc(d.accession)} ` +
+          `(filed ${esc(d.filing_date)})</div>`;
+        out.hidden = false;
+      } else if (d && d.error) {
+        note.textContent = d.error;
+      } else if (r.status === 504) {
+        note.textContent = "The model took too long this time (timeout). Try again.";
+      } else {
+        note.textContent = `Request failed (HTTP ${r.status || "?"}). Give it a few seconds and try again.`;
+      }
+    } catch (e) {
+      note.textContent = "Couldn't reach the Q&A API — confirm you're on the Vercel URL, then retry.";
+    } finally {
+      btn.disabled = false; btn.textContent = "Ask";
+    }
+  }
+  btn.addEventListener("click", ask);
+  q.addEventListener("keydown", e => { if (e.key === "Enter") ask(); });
 })();
 </script>
 </body>
