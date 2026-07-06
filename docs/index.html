@@ -64,7 +64,7 @@
   .combo > input { width: 100%; }
   .menu { position: absolute; z-index: 30; top: calc(100% + 5px); left: 0; min-width: 250px; max-width: 340px;
     background: var(--surface-1); border: 1px solid var(--border); border-radius: 11px; box-shadow: var(--shadow);
-    max-height: 268px; overflow-y: auto; padding: 5px; animation: fadeUp .14s ease both; }
+    max-height: 320px; overflow-y: auto; padding: 5px; animation: fadeUp .14s ease both; }
   .menu .opt { display: flex; justify-content: space-between; align-items: baseline; gap: 14px;
     padding: 8px 11px; border-radius: 8px; cursor: pointer; }
   .menu .opt:hover, .menu .opt.active { background: var(--surface-2); }
@@ -266,7 +266,8 @@ function attachCombo(input, menu, onSelect) {
   };
   const filter = () => {
     const q = input.value.trim().toUpperCase(), all = Object.keys(INDEX).sort();
-    items = (q ? all.filter((t) => t.startsWith(q)).concat(all.filter((t) => !t.startsWith(q) && t.includes(q))) : all).slice(0, 8);
+    // Empty field: show the whole list to scroll. Typing: filter (prefix first, then contains).
+    items = q ? all.filter((t) => t.startsWith(q)).concat(all.filter((t) => !t.startsWith(q) && t.includes(q))) : all;
     active = -1; render();
   };
   const hide = () => { menu.hidden = true; active = -1; input.setAttribute("aria-expanded", "false"); };
