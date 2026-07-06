@@ -61,8 +61,10 @@
   code { background: var(--surface-1); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; font-size: 13px; }
   .narrator { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 18px 20px; margin: 16px 0; }
   .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
-  select, button { font: inherit; border-radius: 8px; border: 1px solid var(--border); padding: 9px 12px; }
-  select { background: var(--surface-0); color: var(--text-primary); max-width: 100%; }
+  select, button, input { font: inherit; border-radius: 8px; border: 1px solid var(--border); padding: 9px 12px; }
+  select, input { background: var(--surface-0); color: var(--text-primary); max-width: 100%; }
+  input { min-width: 220px; }
+  select:disabled, button:disabled { opacity: .55; cursor: default; }
   button { cursor: pointer; background: var(--holdout); color: #fff; border-color: transparent; font-weight: 600; }
   button:disabled { opacity: .55; cursor: default; }
   .memo { margin-top: 14px; padding: 14px 16px; border-left: 3px solid var(--holdout); background: var(--surface-0); border-radius: 8px; }
@@ -137,17 +139,21 @@
   sharpens it into "substantive new risks vs boilerplate" — whether that survives is an open, documented next step.</p>
 
   <h2>Try it: the grounded narrator</h2>
-  <p class="muted">Pick a real filing event. A server-side model (GLM&nbsp;5.2, free via NVIDIA) writes a short memo
-  from the harness's <em>pre-computed</em> numbers only — it never computes a figure and never gives advice. It can
-  narrate only this fixed set of measured events, so a public endpoint can't be coaxed into anything it didn't measure.</p>
+  <p class="muted">Search <strong>any of the 480 S&amp;P 500 companies</strong> in the study, pick one of its 10-K
+  filings, and a server-side model (GLM&nbsp;5.2, free via NVIDIA) writes a short memo from the harness's
+  <em>pre-computed</em> numbers only — it never computes a figure and never gives advice. It can narrate <em>only</em>
+  real, measured filing events (the client sends just an event ID; the numbers are looked up server-side), so a public
+  endpoint can't be coaxed into predicting, advising, or inventing anything.</p>
   <div class="narrator">
     <div class="controls">
-      <label for="evsel" class="muted">Event:</label>
-      <select id="evsel" aria-label="Choose a filing event"></select>
-      <button id="evgo" type="button">Generate memo</button>
+      <input id="evco" list="colist" placeholder="Company ticker — e.g. AAPL" autocomplete="off"
+             aria-label="Search a company by ticker">
+      <datalist id="colist"></datalist>
+      <select id="evsel" aria-label="Choose a filing year" disabled></select>
+      <button id="evgo" type="button" disabled>Generate memo</button>
     </div>
     <div id="evout" class="memo" hidden></div>
-    <p id="evnote" class="muted" role="status" aria-live="polite"></p>
+    <p id="evnote" class="muted" role="status" aria-live="polite">Loading companies…</p>
   </div>
 
   <footer>
@@ -232,29 +238,46 @@ function txt(s, x, y, a = {}) { const t = el("text", { x, y, ...a }); t.textCont
     `<tr><td>${d.name}</td><td>${d.coef.toFixed(3)}</td><td>${d.p.toFixed(3)}</td></tr>`));
 })();
 
-// ---- live grounded narrator (calls /api/narrate on the Vercel deployment) ----
-const NARR_EVENTS = [
-  { key: "AAPL-2025", label: "AAPL — 10-K filed 2025-10-31 · Information Technology" },
-  { key: "MSFT-2022", label: "MSFT — 10-K filed 2022-07-28 · Information Technology" },
-  { key: "JPM-2026",  label: "JPM — 10-K filed 2026-02-13 · Financials" },
-  { key: "XOM-2026",  label: "XOM — 10-K filed 2026-02-18 · Energy" },
-  { key: "JNJ-2026",  label: "JNJ — 10-K filed 2026-02-11 · Health Care" },
-  { key: "WMT-2026",  label: "WMT — 10-K filed 2026-03-13 · Consumer Staples" },
-  { key: "NVDA-2026", label: "NVDA — 10-K filed 2026-02-25 · Information Technology" },
-  { key: "KO-2026",   label: "KO — 10-K filed 2026-02-20 · Consumer Staples" },
-  { key: "BA-2026",   label: "BA — 10-K filed 2026-01-30 · Industrials" },
-  { key: "PFE-2026",  label: "PFE — 10-K filed 2026-02-26 · Health Care" },
-];
+// ---- live grounded narrator: search any S&P 500 name, pick a filing, narrate ----
 (function () {
-  const sel = document.getElementById("evsel");
-  NARR_EVENTS.forEach(e => {
-    const o = document.createElement("option"); o.value = e.key; o.textContent = e.label; sel.appendChild(o);
-  });
-  const btn = document.getElementById("evgo"), out = document.getElementById("evout"), note = document.getElementById("evnote");
-  const esc = s => s.replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+  const co = document.getElementById("evco"), dl = document.getElementById("colist");
+  const sel = document.getElementById("evsel"), btn = document.getElementById("evgo");
+  const out = document.getElementById("evout"), note = document.getElementById("evnote");
+  const esc = s => String(s).replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
   const pct = v => (v == null ? "n/a" : (v >= 0 ? "+" : "") + (v * 100).toFixed(2) + "%");
+  let INDEX = {};
+
+  // Populate the year picker for the currently typed company (if valid).
+  function pickCompany() {
+    const tk = co.value.trim().toUpperCase();
+    sel.innerHTML = "";
+    const c = INDEX[tk];
+    if (!c) { sel.disabled = btn.disabled = true; return; }
+    c.events.forEach(e => {
+      const o = document.createElement("option");
+      o.value = e.key;
+      o.textContent = `10-K filed ${e.filing_date} · net-added ${e.net_added} · CAR[0,+5] ${pct(e.car_0_5)}`;
+      sel.appendChild(o);
+    });
+    sel.disabled = btn.disabled = false;
+    note.textContent = `${tk} · ${c.sector} · ${c.events.length} filing${c.events.length > 1 ? "s" : ""}`;
+  }
+  co.addEventListener("change", pickCompany);
+  co.addEventListener("input", pickCompany);
+
+  fetch("panel_index.json")
+    .then(r => r.json())
+    .then(idx => {
+      INDEX = idx;
+      const tickers = Object.keys(idx).sort();
+      dl.innerHTML = tickers.map(t => `<option value="${t}">${t} · ${esc(idx[t].sector)}</option>`).join("");
+      note.textContent = `${tickers.length} companies loaded — type a ticker to begin.`;
+    })
+    .catch(() => { note.textContent = "Couldn't load the company index."; });
+
   btn.addEventListener("click", async () => {
     const key = sel.value;
+    if (!key) return;
     btn.disabled = true; btn.textContent = "Generating…"; note.textContent = ""; out.hidden = true;
     try {
       const r = await fetch(`/api/narrate?event=${encodeURIComponent(key)}`);

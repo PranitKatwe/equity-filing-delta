@@ -1,9 +1,11 @@
 """Tests for the Vercel serverless narrator (api/narrate.py) — mocked, no API call.
 
 Guards the two properties that make a public endpoint safe:
-  1. Only allowlisted events exist — an unknown key can never reach the model.
-  2. The prompt is built from the bundled pre-computed facts (grounded), and the
-     model's text is returned verbatim.
+  1. `event` must be a real key in the pre-computed panel — an unknown key can
+     never reach the model, and the client only ever sends the key (the numbers
+     are looked up server-side, so they can't be spoofed).
+  2. The prompt is built from those looked-up pre-computed facts (grounded), and
+     the model's text is returned verbatim.
 """
 
 import json
@@ -49,9 +51,11 @@ class _Client:
         self.chat = _Chat(text)
 
 
-def test_allowlist_is_closed_and_nonempty():
-    assert narrate._EVENTS                       # bundle present
-    assert "TOTALLY-FAKE" not in narrate._EVENTS  # unknown keys are rejected upstream
+def test_panel_is_full_universe_and_closed():
+    assert len(narrate._EVENTS) > 1000            # full universe, not a 10-event demo
+    tickers = {v["ticker"] for v in narrate._EVENTS.values()}
+    assert len(tickers) > 100                      # hundreds of companies
+    assert "TOTALLY-FAKE" not in narrate._EVENTS   # a fabricated key is rejected upstream
 
 
 def test_memo_is_grounded_and_verbatim():
