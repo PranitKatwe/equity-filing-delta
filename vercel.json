@@ -1,9 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
-  "rewrites": [
-    { "source": "/", "destination": "/docs/index.html" }
-  ],
+  "outputDirectory": "docs",
   "functions": {
     "api/narrate.py": { "maxDuration": 15 }
   }

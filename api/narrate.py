@@ -22,7 +22,6 @@ import os
 import re
 import time
 from http.server import BaseHTTPRequestHandler
-from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 from openai import OpenAI
@@ -43,7 +42,22 @@ _SYSTEM = (
     "expected-return model; say 'abnormal return', not 'return'."
 )
 
-_EVENTS = json.loads((Path(__file__).parent / "data" / "events.json").read_text("utf-8"))
+# The fixed event allowlist, embedded (a mirror of api/data/events.json produced
+# by scripts/bundle_events.py). Embedded rather than read from disk because
+# Vercel's Python bundler ships traced code, not arbitrary data files opened at
+# runtime — inlining guarantees the function always has its data.
+_EVENTS = {
+  "AAPL-2025": {"ticker": "AAPL", "sector": "Information Technology", "accession": "0000320193-25-000079", "filing_date": "2025-10-31", "t0": "2025-10-31", "n_added": 51, "n_removed": 50, "net_added": 1, "doc_similarity": 0.4229, "d_tone_negative": 0.001121, "d_tone_uncertainty": 0.002128, "market_model__ar_0_1": -0.0163085822449843, "market_model__car_0_5": 0.0051126519764815, "market_model__car_0_21": 0.0439553053726464, "market_model__placebo_pre": 0.0268769336406199, "beta": 1.3647},
+  "MSFT-2022": {"ticker": "MSFT", "sector": "Information Technology", "accession": "0001564590-22-026876", "filing_date": "2022-07-28", "t0": "2022-07-29", "n_added": 17, "n_removed": 15, "net_added": 2, "doc_similarity": 0.7969, "d_tone_negative": 0.000314, "d_tone_uncertainty": -0.001457, "market_model__ar_0_1": -0.0093305712305713, "market_model__car_0_5": -0.0017428880535869, "market_model__car_0_21": -0.0401241796148169, "market_model__placebo_pre": 0.0203857899186348, "beta": 1.2213},
+  "JPM-2026": {"ticker": "JPM", "sector": "Financials", "accession": "0001628280-26-008131", "filing_date": "2026-02-13", "t0": "2026-02-17", "n_added": 79, "n_removed": 129, "net_added": -50, "doc_similarity": 0.0942, "d_tone_negative": 0.003853, "d_tone_uncertainty": 0.007591, "market_model__ar_0_1": 0.0144101950059432, "market_model__car_0_5": -0.0235703424880089, "market_model__car_0_21": -0.016888307075471, "market_model__placebo_pre": -0.0499463650027324, "beta": 0.9568},
+  "XOM-2026": {"ticker": "XOM", "sector": "Energy", "accession": "0000034088-26-000045", "filing_date": "2026-02-18", "t0": "2026-02-19", "n_added": 9, "n_removed": 4, "net_added": 5, "doc_similarity": 0.5344, "d_tone_negative": 0.001125, "d_tone_uncertainty": -0.000435, "market_model__ar_0_1": -0.0261615005050279, "market_model__car_0_5": -0.0241844012537613, "market_model__car_0_21": 0.0245761070437523, "market_model__placebo_pre": -0.0061816276412195, "beta": 0.0449},
+  "JNJ-2026": {"ticker": "JNJ", "sector": "Health Care", "accession": "0000200406-26-000016", "filing_date": "2026-02-11", "t0": "2026-02-12", "n_added": 12, "n_removed": 1, "net_added": 11, "doc_similarity": 0.855, "d_tone_negative": -0.001418, "d_tone_uncertainty": 0.000868, "market_model__ar_0_1": 0.0056390117380748, "market_model__car_0_5": -0.0053701806876364, "market_model__car_0_21": -0.0311664984090124, "market_model__placebo_pre": 0.0175986510891843, "beta": -0.0759},
+  "WMT-2026": {"ticker": "WMT", "sector": "Consumer Staples", "accession": "0000104169-26-000055", "filing_date": "2026-03-13", "t0": "2026-03-16", "n_added": 61, "n_removed": 82, "net_added": -21, "doc_similarity": 0.5694, "d_tone_negative": -0.000863, "d_tone_uncertainty": 0.0009, "market_model__ar_0_1": -0.0149983971408656, "market_model__car_0_5": -0.0626401398748735, "market_model__car_0_21": -0.0622677897011976, "market_model__placebo_pre": 0.0052602698010022, "beta": -0.1656},
+  "NVDA-2026": {"ticker": "NVDA", "sector": "Information Technology", "accession": "0001045810-26-000021", "filing_date": "2026-02-25", "t0": "2026-02-26", "n_added": 65, "n_removed": 88, "net_added": -23, "doc_similarity": 0.6482, "d_tone_negative": 0.003139, "d_tone_uncertainty": 0.00163, "market_model__ar_0_1": -0.0758425470223322, "market_model__car_0_5": -0.0267052789241036, "market_model__car_0_21": 0.0217454118398588, "market_model__placebo_pre": 0.0226097795710197, "beta": 1.8912},
+  "KO-2026": {"ticker": "KO", "sector": "Consumer Staples", "accession": "0001628280-26-010047", "filing_date": "2026-02-20", "t0": "2026-02-23", "n_added": 12, "n_removed": 4, "net_added": 8, "doc_similarity": 0.8003, "d_tone_negative": 2.4e-05, "d_tone_uncertainty": -6.2e-05, "market_model__ar_0_1": 0.0082796414988827, "market_model__car_0_5": -0.0017525522239883, "market_model__car_0_21": -0.0947168421801206, "market_model__placebo_pre": 0.0099046989277091, "beta": -0.3094},
+  "BA-2026": {"ticker": "BA", "sector": "Industrials", "accession": "0001628280-26-004357", "filing_date": "2026-01-30", "t0": "2026-02-02", "n_added": 31, "n_removed": 47, "net_added": -16, "doc_similarity": 0.6496, "d_tone_negative": 0.000258, "d_tone_uncertainty": 0.000443, "market_model__ar_0_1": 0.0035285314056013, "market_model__car_0_5": 0.0499334900679297, "market_model__car_0_21": 0.0094121194640909, "market_model__placebo_pre": -0.073540987120346, "beta": 1.0516},
+  "PFE-2026": {"ticker": "PFE", "sector": "Health Care", "accession": "0000078003-26-000026", "filing_date": "2026-02-26", "t0": "2026-02-27", "n_added": 143, "n_removed": 101, "net_added": 42, "doc_similarity": 0.6, "d_tone_negative": -0.000842, "d_tone_uncertainty": 0.000515, "market_model__ar_0_1": 0.0078539911346609, "market_model__car_0_5": 0.0114968876294091, "market_model__car_0_21": 0.0683405865230474, "market_model__placebo_pre": 0.0019449437722362, "beta": 0.6343},
+}
 
 # --- Per-instance guards (module state persists across warm invocations) ---
 _CACHE: dict[str, str] = {}          # event key -> generated memo (free on repeat)
