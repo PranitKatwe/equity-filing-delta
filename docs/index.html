@@ -1,0 +1,358 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Equity Filing-Delta: Honest Verdict</title>
+<meta name="description" content="A point-in-time, no-lookahead event study across the S&P 500 testing whether year-over-year SEC filing changes predict abnormal returns. Costs included, out-of-sample, against an honest null.">
+<style>
+  :root {
+    --surface-0: #f7f7f5; --surface-1: #fcfcfb; --surface-2: #f1f0ec; --border: #e4e3de;
+    --text-primary: #0b0b0b; --text-secondary: #52514e; --text-muted: #86857f;
+    --insample: #eb6834; --holdout: #2a78d6;
+    --neg: #2a78d6; --pos: #e34948; --good: #008300; --warn: #eda100;
+    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 4px 16px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --surface-0: #131312; --surface-1: #1a1a19; --surface-2: #201f1d; --border: #34332f;
+      --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #8f8e85;
+      --insample: #d95926; --holdout: #3987e5;
+      --neg: #3987e5; --pos: #e66767; --good: #35b135; --warn: #c98500;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.28);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0; background: var(--surface-0); color: var(--text-primary);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 44px 22px 80px; }
+  .eyebrow { font-size: 12px; font-weight: 650; letter-spacing: .08em; text-transform: uppercase; color: var(--holdout); }
+  h1 { font-size: 32px; line-height: 1.15; margin: 8px 0 10px; letter-spacing: -0.02em; }
+  h2 { font-size: 21px; margin: 0 0 12px; letter-spacing: -0.01em; }
+  .sub { color: var(--text-secondary); font-size: 17px; margin: 0 0 8px; max-width: 60ch; }
+  a { color: var(--holdout); }
+  section { margin-top: 40px; }
+  .lead { color: var(--text-secondary); }
+  .muted { color: var(--text-muted); font-size: 14px; }
+  code { background: var(--surface-2); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; font-size: 13px; }
+
+  .card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 14px; box-shadow: var(--shadow); }
+  .card.pad { padding: 20px 22px; }
+
+  .divider { display: flex; align-items: center; gap: 14px; margin: 56px 0 8px; }
+  .divider::before, .divider::after { content: ""; height: 1px; background: var(--border); flex: 1; }
+  .divider span { font-size: 13px; font-weight: 650; letter-spacing: .06em; text-transform: uppercase; color: var(--text-muted); }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  input, select, button { font: inherit; border-radius: 9px; border: 1px solid var(--border); padding: 10px 13px; }
+  input, select { background: var(--surface-0); color: var(--text-primary); max-width: 100%; transition: border-color .12s, box-shadow .12s; }
+  input:focus, select:focus { outline: none; border-color: var(--holdout); box-shadow: 0 0 0 3px color-mix(in srgb, var(--holdout) 25%, transparent); }
+  input { min-width: 200px; } input.wide { flex: 1 1 300px; }
+  button { cursor: pointer; background: var(--holdout); color: #fff; border-color: transparent; font-weight: 600; display: inline-flex; align-items: center; gap: 8px; transition: filter .12s, transform .06s; }
+  button:hover:not(:disabled) { filter: brightness(1.08); }
+  button:active:not(:disabled) { transform: scale(.98); }
+  button:disabled, select:disabled { opacity: .5; cursor: default; }
+  .spinner { width: 15px; height: 15px; border-radius: 50%; border: 2px solid rgba(255,255,255,.45); border-top-color: #fff; animation: spin .7s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .out { margin-top: 15px; padding: 15px 17px; border-left: 3px solid var(--holdout); background: var(--surface-0); border-radius: 10px; animation: fadeUp .35s ease both; white-space: pre-wrap; }
+  .out .facts { color: var(--text-muted); font-size: 13px; margin-top: 11px; white-space: normal; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .note { color: var(--text-muted); font-size: 14px; margin: 12px 0 0; min-height: 1.2em; }
+
+  .verdict { border-left: 4px solid var(--warn); }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 18px 0 8px; }
+  .tile { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; padding: 15px 16px; box-shadow: var(--shadow); }
+  .tile .n { font-size: 24px; font-weight: 650; letter-spacing: -0.02em; }
+  .tile .l { color: var(--text-muted); font-size: 13px; margin-top: 3px; }
+
+  figure { margin: 16px 0 8px; }
+  figcaption { color: var(--text-muted); font-size: 13px; margin-top: 6px; }
+  .legend { display: flex; gap: 18px; font-size: 13px; color: var(--text-secondary); margin: 4px 0 10px; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .sw { width: 11px; height: 11px; border-radius: 3px; display: inline-block; }
+  svg { width: 100%; height: auto; overflow: visible; display: block; }
+  .bar { transition: opacity .12s; } .bar:hover { opacity: .8; }
+  text { fill: var(--text-secondary); font-size: 12px; }
+  ul { padding-left: 20px; } li { margin: 6px 0; }
+  details { margin: 8px 0 0; } summary { cursor: pointer; color: var(--text-muted); font-size: 13px; }
+  table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 14px; }
+  th, td { text-align: right; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  th:first-child, td:first-child { text-align: left; }
+  footer { margin-top: 52px; padding-top: 20px; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 13px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow">SEC 10-K filing deltas · S&amp;P 500</div>
+    <h1>Do year-over-year SEC filing changes predict returns?</h1>
+    <p class="sub">A point-in-time, no-lookahead event study across the S&amp;P 500, with costs included,
+    out-of-sample, and against an honest null. Try the two grounded tools first, then see what the study found.</p>
+  </header>
+
+  <!-- ============== INTERACTIVE TOOLS (top) ============== -->
+
+  <section>
+    <h2>Try it: the grounded narrator</h2>
+    <p class="lead">Search any of the 480 S&amp;P 500 companies, pick one of its 10-K filings, and a server-side
+    model (GLM&nbsp;5.2, free via NVIDIA) writes a short memo from the study's pre-computed numbers only. It never
+    computes a figure and never gives advice. It can narrate only real, measured filing events, so it can't be
+    pushed into predicting or inventing anything.</p>
+    <div class="card pad">
+      <div class="controls">
+        <input id="evco" list="colist" placeholder="Company ticker (e.g. AAPL)" autocomplete="off" aria-label="Search a company by ticker">
+        <select id="evsel" aria-label="Choose a filing year" disabled></select>
+        <button id="evgo" type="button" disabled>Generate memo</button>
+      </div>
+      <div id="evout" class="out" hidden></div>
+      <p id="evnote" class="note" role="status" aria-live="polite">Loading companies…</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Ask about the filing changes</h2>
+    <p class="lead">Ask a plain-English question about a company's most recent 10-K risk-factor changes. The model
+    answers only from the actual added, removed, and reworded sentences the study diffs out of that filing, with the
+    source cited. If the answer isn't in those changes, it says so. Descriptive only: it won't predict, value, or advise.</p>
+    <div class="card pad">
+      <div class="controls">
+        <input id="qaco" list="colist" placeholder="Company (e.g. BA)" autocomplete="off" aria-label="Company for the question">
+        <input id="qaq" class="wide" placeholder="e.g. What new risks were added this year?" maxlength="300" aria-label="Your question">
+        <button id="qago" type="button">Ask</button>
+      </div>
+      <div id="qaout" class="out" hidden></div>
+      <p id="qanote" class="note" role="status" aria-live="polite"></p>
+    </div>
+  </section>
+
+  <datalist id="colist"></datalist>
+
+  <!-- ============== FINDINGS (bottom) ============== -->
+
+  <div class="divider"><span>What we found</span></div>
+
+  <section style="margin-top:20px">
+    <div class="card pad verdict">
+      <strong>The calibrated answer: no, the effect is weak and does not survive as a tradeable signal.</strong>
+      On the full universe, point-in-time and net of costs, more added risk-factor language shows the documented
+      "Lazy Prices" direction only <em>marginally</em> on the holdout (CAR[0,+21]&nbsp;p&nbsp;=&nbsp;0.03), flips to
+      the <em>wrong</em> sign in-sample, and produces a net-of-cost long-short spread of just <strong>+0.07%</strong>
+      that is statistically insignificant (p&nbsp;=&nbsp;0.51). That is a legitimate, credible result.
+      <strong>The value is the harness that says so honestly, not a signal that doesn't hold up.</strong>
+    </div>
+
+    <div class="tiles">
+      <div class="tile"><div class="n">4,705</div><div class="l">filing events (480 names)</div></div>
+      <div class="tile"><div class="n">+0.07%</div><div class="l">net-of-cost spread (p = 0.51)</div></div>
+      <div class="tile"><div class="n">0.03</div><div class="l">holdout p-value, best window</div></div>
+      <div class="tile"><div class="n">clean</div><div class="l">placebo / no lookahead</div></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Return by amount of change: noisy, and it flips</h2>
+    <p class="muted">Mean 5-day abnormal return (CAR[0,+5]) by net-added-risk quintile, Q1 (fewest changes) to Q5
+    (most). If "Lazy Prices" held cleanly, Q5 would sit well below Q1. It doesn't. The pattern is non-monotonic,
+    and the in-sample and holdout periods disagree.</p>
+    <div class="legend">
+      <span><span class="sw" style="background:var(--insample)"></span>In-sample (pre-2022)</span>
+      <span><span class="sw" style="background:var(--holdout)"></span>Holdout (2022+)</span>
+    </div>
+    <figure><svg id="quintile" viewBox="0 0 720 300" role="img"
+      aria-label="Grouped bar chart of mean abnormal return by net-added quintile, in-sample versus holdout"></svg>
+      <figcaption>Values in %. Bars grow from the zero line; below-zero bars point down.</figcaption>
+    </figure>
+    <details><summary>Data table</summary>
+      <table><thead><tr><th>Quintile</th><th>In-sample %</th><th>Holdout %</th></tr></thead><tbody id="qtbody"></tbody></table>
+    </details>
+  </section>
+
+  <section>
+    <h2>Every signal, on the holdout: none significant</h2>
+    <p class="muted">Cross-sectional coefficient on CAR[0,+5] per 1 SD of each signal, controlling for momentum and
+    beta, with filing-date-clustered standard errors. Blue is the Lazy-Prices direction; red is against it. All
+    p-values are above 0.05, including the transparent Loughran-McDonald tone deltas, a cross-check that the null
+    isn't an artifact of one signal.</p>
+    <figure><svg id="coef" viewBox="0 0 720 220" role="img"
+      aria-label="Bar chart of holdout signal coefficients, none statistically significant"></svg>
+      <figcaption>Coefficient in % per 1 SD. Labels show p-values.</figcaption>
+    </figure>
+    <details><summary>Data table</summary>
+      <table><thead><tr><th>Signal</th><th>Coef (% / SD)</th><th>p</th></tr></thead><tbody id="ctbody"></tbody></table>
+    </details>
+  </section>
+
+  <section>
+    <h2>Why this is the credible outcome</h2>
+    <p>A 30-name subsample showed a <em>strong, significant</em> holdout effect. The full 500 washes it out, a
+    textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline exists. The methodology is
+    the point:</p>
+    <ul>
+      <li><strong>No lookahead.</strong> Each filing is aligned to the first session tradeable <em>after</em> its
+        EDGAR acceptance instant; every feature uses only data dated at or before that instant, enforced in code. A
+        pre-event placebo window confirms the signal has no leakage.</li>
+      <li><strong>Two or more expected-return models.</strong> Market-adjusted, sector-adjusted, and a market-model
+        beta estimated on a pre-event window.</li>
+      <li><strong>Costs included.</strong> Every tradeable claim is reported net of a round-trip cost. A gross-only
+        result is fiction.</li>
+      <li><strong>Run the holdout once.</strong> Signals and specs were frozen in-sample; the holdout is a single look.</li>
+    </ul>
+    <p class="muted">Not claimed: <code>net_added</code> is a blunt mechanical count. A diff-grounded LLM classifier
+    sharpens it into "substantive new risks vs boilerplate." Whether that survives is an open, documented next step.</p>
+  </section>
+
+  <footer>
+    Reproduce end-to-end from free data: <code>build_panel.py → run_study.py</code>.
+    Source and methodology: <a href="https://github.com/PranitKatwe/equity-filing-delta">github.com/PranitKatwe/equity-filing-delta</a>.
+    Research artifact, descriptive only, not investment advice.
+  </footer>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+const pct = (v) => (v == null ? "n/a" : (v >= 0 ? "+" : "") + (v * 100).toFixed(2) + "%");
+
+// Typed-ish fetch: throws an Error carrying the API's own message when possible.
+async function getJSON(url) {
+  let r;
+  try { r = await fetch(url); }
+  catch { throw new Error("Couldn't reach the API. Confirm you're on the deployed site, then retry."); }
+  let body = null;
+  try { body = await r.json(); } catch (_) { /* non-JSON gateway/timeout page */ }
+  if (!r.ok) {
+    if (body && body.error) throw new Error(body.error);
+    if (r.status === 504) throw new Error("The model took too long this time (timeout). Try again. Successful results are cached, so a retry is usually fast.");
+    throw new Error(`Request failed (HTTP ${r.status}). Give it a few seconds and try again.`);
+  }
+  return body;
+}
+function busy(btn, on, label) { btn.disabled = on; btn.innerHTML = on ? `<span class="spinner"></span>${label}` : label; }
+
+// ---------- company index + shared datalist ----------
+let INDEX = {};
+(function loadIndex() {
+  fetch("panel_index.json").then((r) => r.json()).then((idx) => {
+    INDEX = idx;
+    const tickers = Object.keys(idx).sort();
+    $("colist").innerHTML = tickers.map((t) => `<option value="${t}">${esc(idx[t].sector)}</option>`).join("");
+    $("evnote").textContent = `${tickers.length} companies loaded. Type a ticker to begin.`;
+    narrPick();
+  }).catch(() => { $("evnote").textContent = "Couldn't load the company index."; });
+})();
+
+// ---------- narrator ----------
+const evco = $("evco"), evsel = $("evsel"), evgo = $("evgo"), evout = $("evout"), evnote = $("evnote");
+function narrPick() {
+  const tk = evco.value.trim().toUpperCase();
+  const c = INDEX[tk];
+  evsel.innerHTML = "";
+  if (!c) { evsel.disabled = evgo.disabled = true; return; }
+  c.events.forEach((e) => {
+    const o = document.createElement("option");
+    o.value = e.key;
+    o.textContent = `10-K filed ${e.filing_date} · net-added ${e.net_added} · CAR[0,+5] ${pct(e.car_0_5)}`;
+    evsel.appendChild(o);
+  });
+  evsel.disabled = evgo.disabled = false;
+  evnote.textContent = `${tk} · ${c.sector} · ${c.events.length} filing${c.events.length > 1 ? "s" : ""}`;
+}
+evco.addEventListener("input", narrPick);
+evgo.addEventListener("click", async () => {
+  const key = evsel.value; if (!key) return;
+  busy(evgo, true, "Generating…"); evnote.textContent = ""; evout.hidden = true;
+  try {
+    const d = await getJSON(`/api/narrate?event=${encodeURIComponent(key)}`);
+    const f = d.facts;
+    evout.innerHTML = `${esc(d.memo)}<div class="facts">Source: accession ${esc(f.accession)} · net-added ${f.net_added} · CAR[0,+5] ${pct(f.car_0_5)} · CAR[0,+21] ${pct(f.car_0_21)}${d.cached ? " · cached" : ""}</div>`;
+    evout.hidden = false;
+  } catch (e) { evnote.textContent = e.message; }
+  finally { busy(evgo, false, "Generate memo"); }
+});
+
+// ---------- filing Q&A ----------
+const qaco = $("qaco"), qaq = $("qaq"), qago = $("qago"), qaout = $("qaout"), qanote = $("qanote");
+async function ask() {
+  const company = qaco.value.trim().toUpperCase(), question = qaq.value.trim();
+  if (!company || !question) { qanote.textContent = "Enter a company ticker and a question."; return; }
+  busy(qago, true, "Asking…"); qanote.textContent = ""; qaout.hidden = true;
+  try {
+    const d = await getJSON(`/api/ask?company=${encodeURIComponent(company)}&q=${encodeURIComponent(question)}`);
+    qaout.innerHTML = `${esc(d.answer)}<div class="facts">Grounded in ${d.counts.added} added / ${d.counts.removed} removed / ${d.counts.reworded} reworded sentences · accession ${esc(d.accession)} (filed ${esc(d.filing_date)})</div>`;
+    qaout.hidden = false;
+  } catch (e) { qanote.textContent = e.message; }
+  finally { busy(qago, false, "Ask"); }
+}
+qago.addEventListener("click", ask);
+qaq.addEventListener("keydown", (e) => { if (e.key === "Enter") ask(); });
+
+// ---------- charts ----------
+const QUINT = {
+  labels: ["Q1 (fewest)", "Q2", "Q3", "Q4", "Q5 (most)"],
+  insample: [-0.484, 0.08, 0.081, 0.375, 0.197],
+  holdout: [0.253, 0.704, 0.193, 0.538, -0.017],
+};
+const COEF = [
+  { name: "net_added", coef: -0.154, p: 0.147 },
+  { name: "Δ tone negative", coef: 0.025, p: 0.821 },
+  { name: "Δ tone uncertainty", coef: -0.004, p: 0.972 },
+  { name: "doc_similarity", coef: 0.117, p: 0.34 },
+];
+const css = (k) => getComputedStyle(document.documentElement).getPropertyValue(k).trim();
+const SVGNS = "http://www.w3.org/2000/svg";
+const el = (n, a) => { const e = document.createElementNS(SVGNS, n); for (const k in a) e.setAttribute(k, a[k]); return e; };
+const txt = (s, x, y, a = {}) => { const t = el("text", { x, y, ...a }); t.textContent = s; return t; };
+
+(function quintileChart() {
+  const svg = $("quintile"), W = 720, H = 300, L = 48, R = 16, T = 16, B = 44;
+  const iw = W - L - R, ih = H - T - B;
+  const vals = QUINT.insample.concat(QUINT.holdout);
+  const max = Math.max(...vals, 0.1), min = Math.min(...vals, -0.1);
+  const y = (v) => T + (ih * (max - v)) / (max - min), y0 = y(0);
+  [-0.4, -0.2, 0, 0.2, 0.4, 0.6].forEach((g) => {
+    svg.appendChild(el("line", { x1: L, x2: W - R, y1: y(g), y2: y(g), stroke: css("--border"), "stroke-width": 1 }));
+    svg.appendChild(txt(g.toFixed(1), L - 8, y(g) + 4, { "text-anchor": "end" }));
+  });
+  svg.appendChild(el("line", { x1: L, x2: W - R, y1: y0, y2: y0, stroke: css("--text-muted"), "stroke-width": 1 }));
+  const groupW = iw / QUINT.labels.length, bw = 26, gap = 8;
+  QUINT.labels.forEach((lab, i) => {
+    const cx = L + groupW * i + groupW / 2;
+    [["insample", "--insample"], ["holdout", "--holdout"]].forEach(([key, col], j) => {
+      const v = QUINT[key][i], yv = y(v), x = cx - bw - gap / 2 + j * (bw + gap);
+      const r = svg.appendChild(el("rect", { x, y: Math.min(yv, y0), width: bw, height: Math.max(Math.abs(yv - y0), 1), rx: 3, fill: css(col), class: "bar" }));
+      r.appendChild(el("title", {})).textContent = `${lab} · ${key}: ${v.toFixed(2)}%`;
+    });
+    svg.appendChild(txt(lab, cx, H - 22, { "text-anchor": "middle" }));
+  });
+  QUINT.labels.forEach((lab, i) => $("qtbody").insertAdjacentHTML("beforeend",
+    `<tr><td>${lab}</td><td>${QUINT.insample[i].toFixed(3)}</td><td>${QUINT.holdout[i].toFixed(3)}</td></tr>`));
+})();
+
+(function coefChart() {
+  const svg = $("coef"), W = 720, H = 220, L = 150, R = 60, T = 12, B = 24;
+  const iw = W - L - R, ih = H - T - B;
+  const m = Math.max(...COEF.map((d) => Math.abs(d.coef)), 0.2);
+  const x = (v) => L + (iw * (v + m)) / (2 * m), x0 = x(0), rh = ih / COEF.length, bh = 22;
+  [-0.2, -0.1, 0, 0.1, 0.2].forEach((g) => {
+    svg.appendChild(el("line", { x1: x(g), x2: x(g), y1: T, y2: T + ih, stroke: g === 0 ? css("--text-muted") : css("--border"), "stroke-width": 1 }));
+    svg.appendChild(txt(g.toFixed(1), x(g), T + ih + 16, { "text-anchor": "middle" }));
+  });
+  COEF.forEach((d, i) => {
+    const cy = T + rh * i + rh / 2, xv = x(d.coef);
+    const r = svg.appendChild(el("rect", { x: Math.min(xv, x0), y: cy - bh / 2, width: Math.max(Math.abs(xv - x0), 1), height: bh, rx: 3, fill: d.coef < 0 ? css("--neg") : css("--pos"), class: "bar" }));
+    r.appendChild(el("title", {})).textContent = `${d.name}: ${d.coef.toFixed(3)}% / SD, p=${d.p}`;
+    svg.appendChild(txt(d.name, L - 12, cy + 4, { "text-anchor": "end", fill: "var(--text-primary)" }));
+    svg.appendChild(txt(`p=${d.p.toFixed(2)}`, xv + (d.coef < 0 ? -6 : 6), cy + 4, { "text-anchor": d.coef < 0 ? "end" : "start" }));
+  });
+  COEF.forEach((d) => $("ctbody").insertAdjacentHTML("beforeend",
+    `<tr><td>${d.name}</td><td>${d.coef.toFixed(3)}</td><td>${d.p.toFixed(3)}</td></tr>`));
+})();
+</script>
+</body>
+</html>

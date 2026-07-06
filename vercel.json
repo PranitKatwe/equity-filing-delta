@@ -1,7 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "npm --prefix web install && npm --prefix web run build",
-  "outputDirectory": "web/dist",
+  "outputDirectory": "docs",
   "functions": {
     "api/narrate.py": { "maxDuration": 60 },
     "api/ask.py": { "maxDuration": 60 }

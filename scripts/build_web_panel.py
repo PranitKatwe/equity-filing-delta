@@ -29,7 +29,7 @@ from eqd.config import PANEL_DIR
 
 ROOT = Path(__file__).resolve().parents[1]
 PANEL_MODULE = ROOT / "api" / "_panel.py"
-INDEX_JSON = ROOT / "web" / "public" / "panel_index.json"   # served statically by Vite
+INDEX_JSON = ROOT / "docs" / "panel_index.json"   # served statically by Vercel
 
 # Whitelisted fields the narrator is allowed to see (mirror of memo._EVENT_FIELDS).
 FIELDS = [
