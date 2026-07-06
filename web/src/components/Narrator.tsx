@@ -38,7 +38,7 @@ export function Narrator() {
       ? "Loading companies…"
       : chosen
         ? `${company.trim().toUpperCase()} · ${chosen.sector} · ${events.length} filing${events.length > 1 ? "s" : ""}`
-        : `${tickers.length} companies loaded — type a ticker to begin.`;
+        : `${tickers.length} companies loaded. Type a ticker to begin.`;
 
   return (
     <Card className="mt-4 p-5">
@@ -51,7 +51,7 @@ export function Narrator() {
             setCompany(e.target.value);
             setEventKey("");
           }}
-          placeholder="Company ticker — e.g. AAPL"
+          placeholder="Company ticker (e.g. AAPL)"
           autoComplete="off"
           aria-label="Search a company by ticker"
           className={`${INPUT} min-w-[200px]`}

@@ -8,8 +8,8 @@ export function Hero() {
         Do year-over-year SEC filing changes predict returns?
       </h1>
       <p className="mt-3 text-lg text-ink-soft">
-        A point-in-time, no-lookahead event study across the S&amp;P 500 — costs included,
-        out-of-sample, against an honest null.
+        A point-in-time, no-lookahead event study across the S&amp;P 500, with costs included,
+        out-of-sample, and against an honest null.
       </p>
     </header>
   );
@@ -19,14 +19,14 @@ export function Verdict() {
   return (
     <Card className="mt-7 border-l-4 border-l-warn p-5">
       <p className="leading-relaxed">
-        <strong>The calibrated answer: no — the effect is weak and does not survive as a tradeable
+        <strong>The calibrated answer: no, the effect is weak and does not survive as a tradeable
         signal.</strong>{" "}
         On the full universe, point-in-time and net of costs, more added risk-factor language shows
         the documented “Lazy Prices” direction only <em>marginally</em> on the holdout
         (CAR[0,+21]&nbsp;p&nbsp;=&nbsp;0.03), flips to the <em>wrong</em> sign in-sample, and produces
         a net-of-cost long-short spread of just <strong>+0.07%</strong> that is statistically
-        insignificant (p&nbsp;=&nbsp;0.51). This is a legitimate, credible result —{" "}
-        <strong>the value is the harness that says so honestly, not a signal that doesn't hold up.</strong>
+        insignificant (p&nbsp;=&nbsp;0.51). This is a legitimate, credible result.{" "}
+        <strong>The value is the harness that says so honestly, not a signal that doesn't hold up.</strong>
       </p>
     </Card>
   );
@@ -52,12 +52,12 @@ export function WhyCredible() {
       "Each filing is aligned to the first session tradeable after its EDGAR acceptance instant; every feature uses only data dated ≤ that instant, enforced in code. A pre-event placebo window confirms the signal has no leakage.",
     ],
     [
-      "≥2 expected-return models.",
+      "Two or more expected-return models.",
       "Market-adjusted, sector-adjusted, and a market-model β estimated on a pre-event window.",
     ],
     [
       "Costs included.",
-      "Every tradeable claim is reported net of a round-trip cost — a gross-only result is fiction.",
+      "Every tradeable claim is reported net of a round-trip cost. A gross-only result is fiction.",
     ],
     [
       "Run the holdout once.",
@@ -68,7 +68,7 @@ export function WhyCredible() {
     <>
       <p className="leading-relaxed">
         A 30-name subsample showed a <em>strong, significant</em> holdout effect. The full 500 washes
-        it out — a textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline
+        it out, a textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline
         exists. The methodology is the point:
       </p>
       <ul className="mt-4 space-y-2.5">
@@ -81,7 +81,7 @@ export function WhyCredible() {
       <p className="mt-4 text-ink-mute">
         Not claimed: <code className="rounded bg-surface-card px-1.5 py-0.5 text-[13px]">net_added</code>{" "}
         is a blunt mechanical count. A diff-grounded LLM classifier sharpens it into “substantive new
-        risks vs boilerplate” — whether that survives is an open, documented next step.
+        risks vs boilerplate.” Whether that survives is an open, documented next step.
       </p>
     </>
   );
@@ -99,7 +99,7 @@ export function Footer() {
       >
         github.com/PranitKatwe/equity-filing-delta
       </a>
-      . Research artifact — descriptive only, not investment advice.
+      . Research artifact, descriptive only, not investment advice.
     </footer>
   );
 }

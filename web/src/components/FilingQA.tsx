@@ -50,7 +50,7 @@ export function FilingQA() {
           list="qacolist"
           value={company}
           onChange={(e) => setCompany(e.target.value)}
-          placeholder="Company — e.g. BA"
+          placeholder="Company (e.g. BA)"
           autoComplete="off"
           aria-label="Company for the question"
           className={`${INPUT} min-w-[160px]`}

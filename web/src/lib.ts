@@ -44,7 +44,7 @@ export async function getJSON<T>(url: string): Promise<T> {
     r = await fetch(url);
   } catch {
     throw new Error(
-      "Couldn't reach the API — confirm you're on the Vercel deployment, then retry.",
+      "Couldn't reach the API. Confirm you're on the Vercel deployment, then retry.",
     );
   }
   let body: unknown = null;
@@ -58,7 +58,7 @@ export async function getJSON<T>(url: string): Promise<T> {
     if (msg) throw new Error(msg);
     if (r.status === 504)
       throw new Error(
-        "The model took too long this time (timeout). Try again — successful results are cached, so a retry is usually fast.",
+        "The model took too long this time (timeout). Try again. Successful results are cached, so a retry is usually fast.",
       );
     throw new Error(`Request failed (HTTP ${r.status}). Give it a few seconds and try again.`);
   }
