@@ -59,7 +59,7 @@ Full S&P 500 run: **4,705 filing events across 480 names**, split in-sample (t0 
 
 The instructive part: a 30-name subsample showed a **strong, significant** holdout effect; the full 500 **washes it out** — a textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline exists. The value of this project is the harness that says so honestly.
 
-**Avenue not claimed.** `net_added` is a blunt mechanical count. The diff-grounded LLM classifier ([`risk_factors.py`](src/eqd/delta/risk_factors.py)) sharpens it into `n_substantive_added` (real new risks vs boilerplate); whether that survives is an open, documented next step — not a result asserted here.
+**Avenue not claimed.** `net_added` is a blunt mechanical count. The diff-grounded LLM classifier ([`risk_factors.py`](src/eqd/delta/risk_factors.py)) sharpens it into `n_substantive_added` (real new risks vs boilerplate); whether that survives is an open, documented next step, not a result asserted here. The machinery to answer it is built and tested: a resumable full-panel classification runner ([`classify_panel.py`](scripts/classify_panel.py), roughly 4,700 LLM calls, several hours on the free tier) and a frozen-spec scorer ([`run_study_llm.py`](scripts/run_study_llm.py)) that would ask the holdout this second question exactly once, with the same windows, controls, and cost model as the primary study.
 
 Reproduce end-to-end: `build_panel.py` → `run_study.py` (see below).
 
@@ -135,7 +135,8 @@ api/_panel.py           generated: server-side trusted panel (all events, ground
 api/_passages.py        generated: real Item 1A diff passages per company (Q&A grounding)
 tests/                  alignment gate, diff, returns engine, portfolio, tone, narrator, api, ask
 scripts/                verify_acceptance_tz, fetch_lm_dictionary, build_panel, run_study,
-                        classify_sample, narrate_event, build_web_panel, build_passages
+                        classify_sample, narrate_event, build_web_panel, build_passages,
+                        classify_panel + run_study_llm (ready-to-run second verdict)
 docs/index.html         static page: grounded narrator + Q&A on top, verdict + charts below
 docs/panel_index.json   generated: lightweight company/event index for the search UI
 vercel.json             Vercel config (serves docs/ statically, wires /api/narrate + /api/ask)
