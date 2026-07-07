@@ -215,81 +215,12 @@
     </div>
   </details>
 
-  <section style="margin-top:20px">
-    <div class="card pad verdict">
-      <strong>The calibrated answer: no, the effect is weak and does not survive as a tradeable signal.</strong>
-      On the full universe, point-in-time and net of costs, more added risk-factor language shows the documented
-      "Lazy Prices" direction only <em>marginally</em> on the holdout (CAR[0,+21]&nbsp;p&nbsp;=&nbsp;0.03), flips to
-      the <em>wrong</em> sign in-sample, and produces a net-of-cost long-short spread of just <strong>+0.07%</strong>
-      that is statistically insignificant (p&nbsp;=&nbsp;0.51). That is a legitimate, credible result.
-      <strong>The value is the harness that says so honestly, not a signal that doesn't hold up.</strong>
-    </div>
-
-    <div class="tiles">
-      <div class="tile"><div class="n">4,705</div><div class="l">filing events (480 names)</div></div>
-      <div class="tile"><div class="n">+0.07%</div><div class="l">net-of-cost spread (p = 0.51)</div></div>
-      <div class="tile"><div class="n">0.03</div><div class="l">holdout p-value, best window</div></div>
-      <div class="tile"><div class="n">clean</div><div class="l">placebo / no lookahead</div></div>
-    </div>
-  </section>
-
-  <section>
-    <h2>Return by amount of change: noisy, and it flips</h2>
-    <p class="muted">Mean 5-day abnormal return (CAR[0,+5]) by net-added-risk quintile, Q1 (fewest changes) to Q5
-    (most). If "Lazy Prices" held cleanly, Q5 would sit well below Q1. It doesn't. The pattern is non-monotonic,
-    and the in-sample and holdout periods disagree.</p>
-    <div class="legend">
-      <span><span class="sw" style="background:var(--insample)"></span>In-sample (pre-2022)</span>
-      <span><span class="sw" style="background:var(--holdout)"></span>Holdout (2022+)</span>
-    </div>
-    <figure><svg id="quintile" viewBox="0 0 720 300" role="img"
-      aria-label="Grouped bar chart of mean abnormal return by net-added quintile, in-sample versus holdout"></svg>
-      <figcaption>Values in %. Bars grow from the zero line; below-zero bars point down.</figcaption>
-    </figure>
-    <details><summary>Data table</summary>
-      <table><thead><tr><th>Quintile</th><th>In-sample %</th><th>Holdout %</th></tr></thead><tbody id="qtbody"></tbody></table>
-    </details>
-  </section>
-
-  <section>
-    <h2>Every signal, on the holdout: none significant</h2>
-    <p class="muted">Cross-sectional coefficient on CAR[0,+5] per 1 SD of each signal, controlling for momentum and
-    beta, with filing-date-clustered standard errors. Blue is the Lazy-Prices direction; red is against it. All
-    p-values are above 0.05, including the transparent Loughran-McDonald tone deltas, a cross-check that the null
-    isn't an artifact of one signal.</p>
-    <figure><svg id="coef" viewBox="0 0 720 220" role="img"
-      aria-label="Bar chart of holdout signal coefficients, none statistically significant"></svg>
-      <figcaption>Coefficient in % per 1 SD. Labels show p-values.</figcaption>
-    </figure>
-    <details><summary>Data table</summary>
-      <table><thead><tr><th>Signal</th><th>Coef (% / SD)</th><th>p</th></tr></thead><tbody id="ctbody"></tbody></table>
-    </details>
-  </section>
-
-  <section>
-    <h2>Why this is the credible outcome</h2>
-    <p>A 30-name subsample showed a <em>strong, significant</em> holdout effect. The full 500 washes it out, a
-    textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline exists. The methodology is
-    the point:</p>
-    <ul>
-      <li><strong>No lookahead.</strong> Each filing is aligned to the first session tradeable <em>after</em> its
-        EDGAR acceptance instant; every feature uses only data dated at or before that instant, enforced in code. A
-        pre-event placebo window confirms the signal has no leakage.</li>
-      <li><strong>Two or more expected-return models.</strong> Market-adjusted, sector-adjusted, and a market-model
-        beta estimated on a pre-event window.</li>
-      <li><strong>Costs included.</strong> Every tradeable claim is reported net of a round-trip cost. A gross-only
-        result is fiction.</li>
-      <li><strong>Run the holdout once.</strong> Signals and specs were frozen in-sample; the holdout is a single look.</li>
-    </ul>
-    <p class="muted">Not claimed: <code>net_added</code> is a blunt mechanical count. A diff-grounded LLM classifier
-    sharpens it into "substantive new risks vs boilerplate." Whether that survives is an open, documented next step.</p>
-  </section>
-
-  <section>
-    <h2>How it's built</h2>
-    <p class="lead">Free public data goes in one end; a calibrated verdict and two grounded tools come out the other.
-    The research pipeline runs offline and is fully reproducible from the repo; the serving layer runs on Vercel.</p>
-
+  <details class="explainer" id="how-built-src">
+    <summary>How it's built (system design)</summary>
+    <div class="body">
+      <p class="lead">Free public data goes in one end; a calibrated verdict and two grounded tools come out the
+      other. The research pipeline runs offline and is fully reproducible from the repo; the serving layer runs on
+      Vercel.</p>
     <div class="pipe" aria-label="Research pipeline, data sources through verdict">
       <div class="sources">
         <div class="source"><strong>SEC EDGAR</strong><span>10-K filings + exact public timestamps (the event clock). Rate-limited, cached.</span></div>
@@ -396,7 +327,79 @@
         </div>
       </div>
     </div>
+    </div>
+  </details>
+
+  <section style="margin-top:20px">
+    <div class="card pad verdict">
+      <strong>The calibrated answer: no, the effect is weak and does not survive as a tradeable signal.</strong>
+      On the full universe, point-in-time and net of costs, more added risk-factor language shows the documented
+      "Lazy Prices" direction only <em>marginally</em> on the holdout (CAR[0,+21]&nbsp;p&nbsp;=&nbsp;0.03), flips to
+      the <em>wrong</em> sign in-sample, and produces a net-of-cost long-short spread of just <strong>+0.07%</strong>
+      that is statistically insignificant (p&nbsp;=&nbsp;0.51). That is a legitimate, credible result.
+      <strong>The value is the harness that says so honestly, not a signal that doesn't hold up.</strong>
+    </div>
+
+    <div class="tiles">
+      <div class="tile"><div class="n">4,705</div><div class="l">filing events (480 names)</div></div>
+      <div class="tile"><div class="n">+0.07%</div><div class="l">net-of-cost spread (p = 0.51)</div></div>
+      <div class="tile"><div class="n">0.03</div><div class="l">holdout p-value, best window</div></div>
+      <div class="tile"><div class="n">clean</div><div class="l">placebo / no lookahead</div></div>
+    </div>
   </section>
+
+  <section>
+    <h2>Return by amount of change: noisy, and it flips</h2>
+    <p class="muted">Mean 5-day abnormal return (CAR[0,+5]) by net-added-risk quintile, Q1 (fewest changes) to Q5
+    (most). If "Lazy Prices" held cleanly, Q5 would sit well below Q1. It doesn't. The pattern is non-monotonic,
+    and the in-sample and holdout periods disagree.</p>
+    <div class="legend">
+      <span><span class="sw" style="background:var(--insample)"></span>In-sample (pre-2022)</span>
+      <span><span class="sw" style="background:var(--holdout)"></span>Holdout (2022+)</span>
+    </div>
+    <figure><svg id="quintile" viewBox="0 0 720 300" role="img"
+      aria-label="Grouped bar chart of mean abnormal return by net-added quintile, in-sample versus holdout"></svg>
+      <figcaption>Values in %. Bars grow from the zero line; below-zero bars point down.</figcaption>
+    </figure>
+    <details><summary>Data table</summary>
+      <table><thead><tr><th>Quintile</th><th>In-sample %</th><th>Holdout %</th></tr></thead><tbody id="qtbody"></tbody></table>
+    </details>
+  </section>
+
+  <section>
+    <h2>Every signal, on the holdout: none significant</h2>
+    <p class="muted">Cross-sectional coefficient on CAR[0,+5] per 1 SD of each signal, controlling for momentum and
+    beta, with filing-date-clustered standard errors. Blue is the Lazy-Prices direction; red is against it. All
+    p-values are above 0.05, including the transparent Loughran-McDonald tone deltas, a cross-check that the null
+    isn't an artifact of one signal.</p>
+    <figure><svg id="coef" viewBox="0 0 720 220" role="img"
+      aria-label="Bar chart of holdout signal coefficients, none statistically significant"></svg>
+      <figcaption>Coefficient in % per 1 SD. Labels show p-values.</figcaption>
+    </figure>
+    <details><summary>Data table</summary>
+      <table><thead><tr><th>Signal</th><th>Coef (% / SD)</th><th>p</th></tr></thead><tbody id="ctbody"></tbody></table>
+    </details>
+  </section>
+
+  <section>
+    <h2>Why this is the credible outcome</h2>
+    <p>A 30-name subsample showed a <em>strong, significant</em> holdout effect. The full 500 washes it out, a
+    textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline exists. The methodology is
+    the point:</p>
+    <ul>
+      <li><strong>No lookahead.</strong> Each filing is aligned to the first session tradeable <em>after</em> its
+        EDGAR acceptance instant; every feature uses only data dated at or before that instant, enforced in code. A
+        pre-event placebo window confirms the signal has no leakage.</li>
+      <li><strong>Two or more expected-return models.</strong> Market-adjusted, sector-adjusted, and a market-model
+        beta estimated on a pre-event window.</li>
+      <li><strong>Costs included.</strong> Every tradeable claim is reported net of a round-trip cost. A gross-only
+        result is fiction.</li>
+      <li><strong>Run the holdout once.</strong> Signals and specs were frozen in-sample; the holdout is a single look.</li>
+    </ul>
+    <p class="muted">Not claimed: <code>net_added</code> is a blunt mechanical count. A diff-grounded LLM classifier
+    sharpens it into "substantive new risks vs boilerplate." Whether that survives is an open, documented next step.</p>
+  </section>
+
 
   <footer>
     Reproduce end-to-end from free data: <code>build_panel.py → run_study.py</code>.
