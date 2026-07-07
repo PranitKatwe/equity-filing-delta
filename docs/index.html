@@ -112,7 +112,7 @@
   .cat.rew { color: var(--holdout); border: 1px solid var(--holdout); }
   .cat.boil { color: var(--text-muted); border: 1px solid var(--border); }
   .example { margin: 8px 0; font-size: 14.5px; color: var(--text-secondary); }
-  #clout { white-space: normal; max-height: 460px; overflow-y: auto; }
+  #clout { white-space: normal; }
   table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 14px; }
   th, td { text-align: right; padding: 6px 10px; border-bottom: 1px solid var(--border); }
   th:first-child, td:first-child { text-align: left; }
@@ -609,6 +609,7 @@ attachCombo(clco, $("clmenu"), async () => {
       `<span class="cat boil">${c.boilerplate_or_reorder} boilerplate</span></div>` +
       d.items.map((it) => `<div class="example"><span class="cat ${CLCAT[it.category][0]}" title="${esc(it.rationale).replace(/"/g, "&quot;")}">${CLCAT[it.category][1]}</span>${esc(it.text)}</div>`).join("");
     clout.hidden = false; clnote.textContent = "";
+    clout.scrollIntoView({ behavior: "smooth", block: "nearest" });
   } catch (e) { clnote.textContent = e.message; }
 }, () => CLIDX);
 
