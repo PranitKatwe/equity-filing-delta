@@ -59,7 +59,16 @@ Full S&P 500 run: **4,705 filing events across 480 names**, split in-sample (t0 
 
 The instructive part: a 30-name subsample showed a **strong, significant** holdout effect; the full 500 **washes it out** — a textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline exists. The value of this project is the harness that says so honestly.
 
-**Avenue not claimed.** `net_added` is a blunt mechanical count. The diff-grounded LLM classifier ([`risk_factors.py`](src/eqd/delta/risk_factors.py)) sharpens it into `n_substantive_added` (real new risks vs boilerplate); whether that survives is an open, documented next step — not a result asserted here.
+**Avenue not claimed, but demonstrated.** `net_added` is a blunt mechanical count. The diff-grounded LLM classifier ([`risk_factors.py`](src/eqd/delta/risk_factors.py)) sharpens it into `n_substantive_added`: real new risks vs boilerplate, labeled per added sentence, seeing only the diffed passages. Sample runs (`scripts/classify_sample.py`, one Opus call per company):
+
+| Company | 10-K | Added (mechanical) | Substantive (LLM) | Brand-new risks |
+|---|---|---:|---:|---:|
+| AAPL | 2025 | 51 | 35 | 16 |
+| BA   | 2026 | 31 | 24 | 9  |
+| NVDA | 2026 | 65 | 57 | 43 |
+| JPM  | 2026 | 79 | 55 | 18 |
+
+The labels are sensible on inspection: Apple's *"The risks and uncertainties described below are not exhaustive..."* is tagged `boilerplate_or_reorder`, while *"Beginning in the second quarter of 2025, new tariffs were announced on imports to the U.S."* is tagged `new_substantive_risk`. Roughly a quarter to a third of mechanically-added sentences are noise the classifier filters out. Whether the sharpened signal survives the full harness (all 4,705 events, holdout, net of costs) remains the open, documented next step; it is not asserted as a result here.
 
 Reproduce end-to-end: `build_panel.py` → `run_study.py` (see below).
 

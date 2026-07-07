@@ -106,6 +106,10 @@
   .explainer .rules { margin: 12px 0 0; padding-left: 0; list-style: none; }
   .explainer .rules li { margin: 10px 0; padding-left: 22px; position: relative; }
   .explainer .rules li::before { content: "\2713"; position: absolute; left: 0; top: 0; color: var(--good); font-weight: 700; }
+  .cat { display: inline-block; font-size: 11px; font-weight: 650; letter-spacing: .02em; border-radius: 999px; padding: 1px 9px; margin-right: 7px; white-space: nowrap; vertical-align: 1px; }
+  .cat.new { color: var(--pos); border: 1px solid var(--pos); }
+  .cat.boil { color: var(--text-muted); border: 1px solid var(--border); }
+  .example { margin: 8px 0; font-size: 14.5px; color: var(--text-secondary); }
   table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 14px; }
   th, td { text-align: right; padding: 6px 10px; border-bottom: 1px solid var(--border); }
   th:first-child, td:first-child { text-align: left; }
@@ -397,9 +401,36 @@
       <li><strong>Run the holdout once.</strong> Signals and specs were frozen in-sample; the holdout is a single look.</li>
     </ul>
     <p class="muted">Not claimed: <code>net_added</code> is a blunt mechanical count. A diff-grounded LLM classifier
-    sharpens it into "substantive new risks vs boilerplate." Whether that survives is an open, documented next step.</p>
+    sharpens it into "substantive new risks vs boilerplate"; a small demonstration is below, and whether the sharpened
+    signal survives the harness is the documented next step.</p>
   </section>
 
+  <section>
+    <h2>The LLM sharpening, demonstrated</h2>
+    <p class="muted"><code>net_added</code> treats every added sentence equally. A diff-grounded classifier (Claude
+    Opus, shown only the changed sentences, never the full filing) labels each one: genuinely new risk, expansion,
+    rewording, or boilerplate. Four sample runs, one model call each:</p>
+    <table>
+      <thead><tr><th>Company</th><th>10-K</th><th>Added (mechanical)</th><th>Substantive (LLM)</th><th>Brand-new risks</th></tr></thead>
+      <tbody>
+        <tr><td>AAPL</td><td>2025</td><td>51</td><td>35</td><td>16</td></tr>
+        <tr><td>BA</td><td>2026</td><td>31</td><td>24</td><td>9</td></tr>
+        <tr><td>NVDA</td><td>2026</td><td>65</td><td>57</td><td>43</td></tr>
+        <tr><td>JPM</td><td>2026</td><td>79</td><td>55</td><td>18</td></tr>
+      </tbody>
+    </table>
+    <p class="muted" style="margin-top:14px">Example labels, straight from the runs:</p>
+    <div class="example"><span class="cat boil">boilerplate</span>"The risks and uncertainties described below are not
+    exhaustive and should not be..." (AAPL 2025)</div>
+    <div class="example"><span class="cat new">new risk</span>"Beginning in the second quarter of 2025, new tariffs
+    were announced on imports to the U.S." (AAPL 2025)</div>
+    <div class="example"><span class="cat new">new risk</span>"For example, the 777X program, which launched in 2013
+    and is currently expecting first..." (BA 2026)</div>
+    <p class="muted" style="margin-top:14px">Roughly a quarter to a third of mechanically-added sentences are noise the
+    classifier filters out, and the share varies by company (NVDA 88% substantive, JPM 70%). This is a demonstration on
+    four names, not a studied signal: scoring <code>n_substantive_added</code> across all 4,705 events under the same
+    harness (holdout, net of costs) is the documented next step.</p>
+  </section>
 
   <footer>
     Reproduce end-to-end from free data: <code>build_panel.py → run_study.py</code>.
