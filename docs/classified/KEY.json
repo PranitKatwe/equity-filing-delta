@@ -1,0 +1,218 @@
+{
+ "ticker": "KEY",
+ "sector": "Financials",
+ "filing_date": "2026-02-23",
+ "accession": "0001628280-26-010546",
+ "prior_accession": "0000091576-25-000038",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 30
+ },
+ "items": [
+  {
+   "text": "The requirements applicable to Category IV firms pursuant to the Tailoring Rules are discussed below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Pure framing sentence introducing a discussion that follows; no risk content."
+  },
+  {
+   "text": "The federal banking agencies have indicated that they will be revising the Capital Proposal that was issued in July 2023, but it is uncertain what changes will be made to the proposal.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about ongoing uncertainty in the previously disclosed Capital Proposal, expanding on existing regulatory uncertainty risk."
+  },
+  {
+   "text": "The capital plan must include, among other things, an assessment of the expected uses and sources of capital over a nine-quarter planning horizon, a description of all planned capital actions over the planning horizon, a detailed description of the BHC\u2019s process for assessing capital adequacy, a discussion of any expected changes to the BHC\u2019s business plan that are likely to have a material impact on its capital adequacy or liquidity, and the BHC\u2019s capital policy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive detail of existing capital plan requirement components, not a new risk."
+  },
+  {
+   "text": "The Federal Reserve conducts a supervisory stress test of the largest BHCs on an annual basis.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic factual description of the existing stress test framework."
+  },
+  {
+   "text": "Under the Tailoring Rules, the portion of the stress capital buffer for a Category IV firm based on the Federal Reserve\u2019s stress test will be calculated biennially.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive regulatory detail about how the stress capital buffer is calculated for Category IV firms."
+  },
+  {
+   "text": "During a year in which in which a Category IV firm does not undergo a supervisory stress test, the firm will receive an updated stress capital buffer that reflects the firm\u2019s updated planned common stock dividends.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural description of how buffer updates occur in off years; not a new risk."
+  },
+  {
+   "text": "If a rule change proposed by the Federal Reserve on April 17, 2025 is adopted, a firm\u2019s stress capital buffer requirement will become effective on January 1 rather than October 1 in order to give firms more time to adjust to updated capital requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a proposed timing change to an existing capital requirement, expanding on the existing regulatory compliance risk."
+  },
+  {
+   "text": "As a Category IV banking organization subject to a supervisory stress test every other year, KeyCorp was not required to participate in the Federal Reserve\u2019s supervisory stress test in 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about company's stress test participation status, informational only."
+  },
+  {
+   "text": "KeyCorp\u2019s updated stress capital buffer is 3.2% (based on the results of KeyCorp\u2019s 2024 supervisory stress test and adjusted for KeyCorp\u2019s planned common stock dividends as set forth in KeyCorp\u2019s 2025 capital plan).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Specific factual disclosure of current buffer percentage, informational update."
+  },
+  {
+   "text": "This stress capital buffer became effective on October 1, 2025, and will remain in effect until September 30, 2026, unless KeyCorp later receives an updated stress capital buffer requirement from the Federal Reserve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual timing detail about buffer effectiveness period."
+  },
+  {
+   "text": "On October 24, 2025, the Federal Reserve issued a proposal that would codify a process under which the Federal Reserve would be required to annually disclose and seek public comment on the models and scenarios used in the supervisory stress test.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a regulatory transparency proposal, procedural/regulatory update not a business risk."
+  },
+  {
+   "text": "The Federal Reserve indicated that the proposal is intended to enhance the transparency and public accountability of the Federal Reserve\u2019s supervisory stress test framework.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates regulator's stated intent behind the proposal; no new risk."
+  },
+  {
+   "text": "The Federal Reserve also proposed revisions to reporting forms submitted by firms subject to the supervisory stress test to reduce burden and improve risk capture in the stress tests.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes additional regulatory reporting form revisions; procedural update."
+  },
+  {
+   "text": "Liquidity requirements Under final rules adopted by the federal banking agencies, the largest U.S. banking organizations are subject to a liquidity coverage ratio (\u201cLCR\u201d), calculated as the ratio of a banking organization\u2019s high-quality liquid assets to its total net cash outflows over 30 consecutive calendar days, and a net stable funding ratio (\u201cNSFR\u201d), calculated as the ratio of the amount of stable funding available to a banking organization to its required amount of stable funding 15 Table of contents over a one-year time horizon.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of existing liquidity requirement framework (LCR/NSFR)."
+  },
+  {
+   "text": "KeyCorp and KeyBank are not subject to an LCR requirement or an NSFR requirement under these rules because KeyCorp and KeyBank are Category IV banking organizations that have average weighted short-term wholesale funding of less than $50 billion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement that the company is exempt from LCR/NSFR requirements, informational."
+  },
+  {
+   "text": "On December 16, 2025, the FDIC issued an interim final rule to reduce the quarterly rate at which the special assessment will be collected from 3.36 basis points to 2.97 basis points in the eighth collection quarter (with an invoice payment date of March 30, 2026) in order to ensure that the amount collected will be approximately equal to the FDIC\u2019s current estimate of the loss to the DIF from the use of the systemic risk exception.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated specifics on the existing FDIC special assessment risk, adjusting the rate and mechanics."
+  },
+  {
+   "text": "The interim final rule also provides that the FDIC will provide an offset to IDIs\u2019 regular quarterly deposit insurance assessments if the aggregate amount collected exceeds losses following resolution of litigation between the FDIC and SVB\u2019s parent company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on the existing special assessment offset mechanism, expanding known risk."
+  },
+  {
+   "text": "The interim final rule further provides that upon the final termination of the receiverships, the FDIC will either (1) provide an offset to IDIs\u2019 regular quarterly deposit insurance assessments if the amount collected exceeds losses or (2) collect from IDIs a one-time final shortfall assessment if losses exceed the amount collected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing the existing special assessment true-up mechanism upon receivership termination."
+  },
+  {
+   "text": "Comments on the interim final rule were due by January 20, 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely procedural comment deadline, no risk substance."
+  },
+  {
+   "text": "G-SIB (including KeyBank) to submit full resolution plans every three years and more limited supplements in the off years, and (iii) expands expectations regarding engagement with the FDIC and capabilities testing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details new cadence and expectations for resolution plan submissions, expanding existing resolution planning risk."
+  },
+  {
+   "text": "In April 2025, the FDIC issued guidance to further clarify its expectations regarding resolution plan submissions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes FDIC guidance clarification; procedural update to existing resolution planning topic."
+  },
+  {
+   "text": "On December 31, 2025, the FDIC announced that it will propose changes in 2026 to the resolution plan rule to incorporate guidance it issued in April 2025 and to make additional changes to take into account lessons learned from its review of the 2025 resolution plan submissions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Signals upcoming rule changes to resolution plan requirements based on new guidance and lessons learned, expanding regulatory risk already disclosed."
+  },
+  {
+   "text": "The FDIC indicated that it wants to focus on resolution plan content requirements that will facilitate the quick resolution of a failed institution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes regulator's stated policy focus; not a new specific risk."
+  },
+  {
+   "text": "On October 21, 2024, the OCC adopted revisions to its recovery planning guidelines and lowered the threshold for the applicability of these guidelines from banks with at least $250 billion in average total consolidated assets to those with at least $100 billion in average total consolidated assets, including KeyBank.",
+   "category": "new_substantive_risk",
+   "rationale": "Lowers the asset threshold for recovery planning guidelines to include KeyBank, newly subjecting the company to additional regulatory obligations."
+  },
+  {
+   "text": "In proposing the rescission of these guidelines, the OCC said that the guidelines were overly prescriptive and imposed an unnecessary regulatory burden on the covered institutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes regulator's rationale for a proposed rescission; procedural/contextual."
+  },
+  {
+   "text": "The OCC said that if the recovery planning guidelines are rescinded, it would still expect all institutions that it regulates to have appropriate risk management processes in place to address all material risks in their operating environment and to maintain a formal contingency funding plan that considers a range of possible stress scenarios, assesses the stability of funding during periods of stress, and provides for a broad range of funding sources under adverse conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes continuing regulatory expectations even if guidelines rescinded; generic risk management language."
+  },
+  {
+   "text": "Comments on the proposal were due by December 18, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural comment deadline, no substantive risk."
+  },
+  {
+   "text": "OFAC The U.S. has imposed economic sanctions that affect transactions with designated foreign countries, foreign nationals, and others pursuant to various laws and executive orders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General background on U.S. economic sanctions framework; definitional, not company-specific risk."
+  },
+  {
+   "text": "These sanctions are administered by the Office of Foreign Assets Control (\u201cOFAC\u201d), an office within the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines OFAC; purely informational."
+  },
+  {
+   "text": "Sanctions are imposed to carry out U.S. foreign policy and national security goals and involve prohibiting trade and various types of commercial and financial transactions with sanctioned countries, individuals, organizations, and groups.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of sanctions purpose; not specific to company risk."
+  },
+  {
+   "text": "OFAC regulations require the rejection of transactions or the blocking of assets when a sanctioned country, individual, organization, or group is involved.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general OFAC regulatory requirement; generic legal background."
+  },
+  {
+   "text": "Blocked assets (e.g., property and bank deposits) cannot be paid out, withdrawn, set off, or transferred in any manner without a license from OFAC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general restriction on blocked assets; generic legal background."
+  },
+  {
+   "text": "Key is required to comply with sanctions administered by OFAC.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly states the company itself is required to comply with OFAC sanctions, introducing a specific compliance obligation not previously disclosed."
+  },
+  {
+   "text": "Failure to comply with the sanctions could have serious legal consequences, including the imposition of civil and criminal penalties.",
+   "category": "new_substantive_risk",
+   "rationale": "States that failure to comply with sanctions could lead to civil and criminal penalties, a new specific legal/compliance risk to the business."
+  },
+  {
+   "text": "Compensation-related rules and regulations Guidelines adopted by the federal banking agencies prohibit as an unsafe and unsound practice the payment by a banking organization of excessive compensation and describe compensation as \u201cexcessive\u201d when the amounts paid are unreasonable or disproportionate to the services performed by an executive officer, employee, director, or principal shareholder.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing regulatory prohibition on excessive compensation; general compliance background."
+  },
+  {
+   "text": "The federal banking agencies have also issued guidance to ensure that incentive compensation policies at banking organizations are consistent with safe and sound practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing guidance on incentive compensation practices; generic."
+  },
+  {
+   "text": "This guidance provides that such policies should (1) provide employees incentives that appropriately balance risk and reward, (2) are compatible with effective controls and risk management, and (3) are supported by strong corporate governance, including active and effective oversight by the organization\u2019s board of directors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Details components of existing incentive compensation guidance; not new risk."
+  },
+  {
+   "text": "Section 956 of the Dodd-Frank Act requires six federal agencies to jointly prescribe regulations or guidelines that prohibit any types of incentive-based payment arrangement that the agencies determine encourages inappropriate risks by financial institutions with more than $1 billion in assets (including KeyCorp and KeyBank).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing Dodd-Frank Section 956 requirement applicable to institutions including the company; already-known regulatory framework."
+  },
+  {
+   "text": "These six agencies issued proposed regulations in 2011 and 2016 to implement this provision, but these regulations have not been finalized.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes that proposed regulations from 2011/2016 remain unfinalized; status update, not new risk."
+  },
+  {
+   "text": "Also, as mandated by Section 954 of the Dodd-Frank Act, the SEC has adopted rules directing U.S. stock exchanges to establish listing standards that require listed companies to adopt policies providing for the recovery or clawback of incentive-based compensation received by current or former executive officers where such compensation is based on erroneous financial information which required an accounting restatement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing SEC clawback listing standard rules under Dodd-Frank Section 954; general regulatory background."
+  }
+ ]
+}

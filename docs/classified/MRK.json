@@ -1,0 +1,153 @@
+{
+ "ticker": "MRK",
+ "sector": "Health Care",
+ "filing_date": "2026-02-24",
+ "accession": "0000310158-26-000063",
+ "prior_accession": "0001628280-25-007732",
+ "model": "claude-sonnet-5",
+ "n_added": 27,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 18,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "The Company expects to discontinue U.S. sales of Bridion by the end of 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new fact that a major product (Bridion) will be discontinued in the U.S., a concrete new business risk."
+  },
+  {
+   "text": "In addition, Januvia and Janumet will lose market exclusivity in the U.S. in May 2026 and Janumet XR will lose market exclusivity in the U.S. in July 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new loss-of-exclusivity dates for major products, a concrete new risk detail."
+  },
+  {
+   "text": "The Company expects a significant decline in sales of Januvia in the first half of 2026 reflecting the impact of government price setting noted above and subsequently, following loss of market exclusivity in May 2026, the Company anticipates it will lose nearly all U.S. sales of Januvia and Janumet .",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the impact of the loss of exclusivity already noted, adding specific sales decline projections."
+  },
+  {
+   "text": "Also, the Company expects that sales of Keytruda will be materially negatively impacted by biosimilar competition between 2028 and 2029.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of biosimilar competition timing for a key product (Keytruda)."
+  },
+  {
+   "text": "As previously disclosed, while two patents in the Keytruda composition of matter patent family expire in May and November of 2029, respectively, the Company expects these patents to be the subject of litigation and, thus, biosimilar competition could begin in December 2028 when the primary compound patent expires.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific patent litigation and timing details to the already-known biosimilar competition risk for Keytruda."
+  },
+  {
+   "text": "Also, as noted above, in December 2025, the Company entered into the MFN Agreement with the U.S. government pursuant to which the Company will provide key products through a direct-to-patient program at affordable prices for eligible patients in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new material agreement (MFN Agreement) with the U.S. government affecting pricing, a new specific risk."
+  },
+  {
+   "text": "This currently includes Januvia , Janumet , and Janumet XR , and will be expanded in the future to include enlicitide decanoate pending FDA approval.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the scope of the MFN Agreement to include a new product pending approval, building on the previously disclosed agreement."
+  },
+  {
+   "text": "The Company also agreed to offer its existing medicines at discounted prices to Medicaid, excluding certain products.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new specific obligation to offer discounted prices to Medicaid, a new pricing risk."
+  },
+  {
+   "text": "In addition, the Company has agreed that products launched during the term of the MFN Agreement (with certain exceptions) will be subject to \u201cmost-favored-nation\u201d pricing in reference to prices for such products in the MFN Countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the mechanics of the previously disclosed MFN Agreement regarding future product pricing."
+  },
+  {
+   "text": "Also, the Company expects that U.S. states will continue their focus on pharmaceutical pricing and may shift to more aggressive price control tools.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the known pricing pressure risk to include state-level actions and more aggressive tools."
+  },
+  {
+   "text": "31 Table of Contents In addition, it is possible that as a consequence of the MFN Agreement, certain of the Company\u2019s products may not be launched in the MFN Countries or their launch may be delayed and as a result, the MFN Countries may take actions that adversely impact the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that MFN Countries could retaliate if products are delayed or not launched."
+  },
+  {
+   "text": "New legal and regulatory requirements with respect to climate-related matters, which may differ across jurisdictions, could result in the Company being subject to increased compliance burdens and costs to meet these obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new topic\u2014climate-related legal and regulatory compliance risk\u2014not previously mentioned."
+  },
+  {
+   "text": "As a consequence of the reduced sales of Gardasil/Gardasil 9 , the Company\u2019s business in China declined significantly.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new business impact: significant decline in China business due to reduced Gardasil sales."
+  },
+  {
+   "text": "The Company\u2019s business in China experienced significantly lower sales of Gardasil/Gardasil 9 in 2025.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same fact about lower Gardasil sales in China as in the prior sentence, just phrased differently."
+  },
+  {
+   "text": "Due to above normal inventory levels at the Company\u2019s commercialization partner in China, the Company made a decision to pause shipments to China beginning in February 2025 and has not resumed shipments to date.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new factual disclosure about a shipment pause to China due to inventory issues, a concrete operational risk."
+  },
+  {
+   "text": "The Company will not resume shipments until inventory levels return to normal levels and it cannot predict when shipments to China will resume nor the levels of sales that the Company will achieve and as a result, the Company expects that sales of Gardasil/Gardasil 9 in China will not materially increase in 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and quantifies the previously disclosed shipment pause risk, adding forward-looking sales impact."
+  },
+  {
+   "text": "In June 2025, a nine-valent HPV vaccine produced by a local manufacturer received regulatory approval in China for use in females 9-45 years of age.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive threat\u2014a locally approved HPV vaccine in China."
+  },
+  {
+   "text": "Any of these events could result in substantial costs. \u2022 Biologics and vaccines require long manufacturing lead times, sometimes requiring planning years in advance of demand, which could increase the risk of inventory write-downs if that demand does not materialize.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific operational risk regarding long manufacturing lead times and inventory write-downs."
+  },
+  {
+   "text": "In 2025, HHS selected Janumet and Janumet XR for government price setting, the set price for which will become effective on January 1, 2027.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new government price-setting selection for named products with effective dates."
+  },
+  {
+   "text": "In addition, in January 2026, HHS announced that Lenvima has been selected for government price setting, the set price for which will become effective on January 1, 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses another specific new government price-setting selection for a different product."
+  },
+  {
+   "text": "Changes could also impact the CDC, including how recommendations for immunizations are issued and maintained.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential CDC-related changes without specific new risk detail."
+  },
+  {
+   "text": "Changes that have been made to the CDC\u2019s recommended immunization schedule which could impact public and private coverage, as well as reduction in state-controlled school immunization requirements, could cause a decline in vaccine uptake.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding changes to CDC immunization schedules impacting vaccine uptake."
+  },
+  {
+   "text": "Alterations to the National Vaccine Injury Compensation Program also could impact how claims against vaccine manufacturers are adjudicated.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legal/regulatory risk regarding vaccine injury compensation claims."
+  },
+  {
+   "text": "The government also has discussed certain policy changes to facilitate market entry of biosimilar products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific policy risk regarding facilitated biosimilar market entry."
+  },
+  {
+   "text": "Similarly, new information that becomes available about products from other manufacturers may prompt new regulatory reviews of the Company\u2019s products, leading to actions that could negatively affect sales.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing regulatory review risk to include new triggers from competitor product information."
+  },
+  {
+   "text": "If the IRS\u2019 challenge to the Company\u2019s transition tax position is ultimately successful, the impact could be material to the Company\u2019s cash flows, results of operations and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific tax litigation risk (IRS transition tax challenge) with material financial impact potential."
+  },
+  {
+   "text": "Unauthorized use of open-source AI tools or generative AI platforms by employees or third parties could result in inadvertent disclosure of confidential information, intellectual property leakage, or regulatory violations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific cybersecurity/AI risk regarding unauthorized use of AI tools and data leakage."
+  }
+ ]
+}

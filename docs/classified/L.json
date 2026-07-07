@@ -1,0 +1,218 @@
+{
+ "ticker": "L",
+ "sector": "Financials",
+ "filing_date": "2026-02-10",
+ "accession": "0000060086-26-000008",
+ "prior_accession": "0000060086-25-000036",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "Risk Factors of this Report for additional risks associated with Boardwalk Pipelines\u2019 growth projects and the related financing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to other risk factors section, no new content."
+  },
+  {
+   "text": "(b) This project remains subject to FERC approval and receipt of environmental permits and authorizations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated regulatory status detail for an existing growth project risk."
+  },
+  {
+   "text": "(c) These projects remain subject to FERC approval, acquisition of land rights, and receipt of environmental permits and authorizations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates status of pending approvals for existing growth projects."
+  },
+  {
+   "text": "(d) This project received FERC approval in December 2025 and is expected to start construction in the first half of 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated status (approval received) for a previously disclosed project."
+  },
+  {
+   "text": "(e) This project remains subject to FERC approval, acquisition of land rights, receipt of environmental permits and authorizations and other conditions precedent.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on conditions precedent for an existing project risk."
+  },
+  {
+   "text": "(f) This project remains subject to FERC approval and is expected to add 10 Bcf of storage working gas capacity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated regulatory status and capacity detail for existing storage project risk."
+  },
+  {
+   "text": "The Eunice \u2013 Iowa project is expected to increase the capacity of Boardwalk Pipelines\u2019 pipeline system by the addition of compression facilities to the Lake Charles, Louisiana area and is supported by precedent and long-term firm transportation agreements to serve industrial and power markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific capital project (Eunice-Iowa) with associated construction and market risk."
+  },
+  {
+   "text": "The Carnation Project is expected to increase the capacity of Boardwalk Pipelines\u2019 pipeline system in Hamilton County, Ohio, through the installation of a compressor unit and auxiliary equipment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific compression project (Carnation) not previously disclosed."
+  },
+  {
+   "text": "This project is supported by a precedent agreement with an LDC and is expected to support regional energy needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds supporting detail (precedent agreement) to the newly introduced Carnation project."
+  },
+  {
+   "text": "The Northeast Texas Power Plant Project is expected to increase the delivery capacity of Boardwalk Pipelines\u2019 pipeline system in Northeast Texas, through the construction of 16 miles of natural gas pipeline and a delivery meter connected to a power plant.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new pipeline construction project (Northeast Texas Power Plant) with new capital commitment."
+  },
+  {
+   "text": "The project is supported by a precedent agreement with a utility customer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds supporting contractual detail to the newly introduced project."
+  },
+  {
+   "text": "The Kosci project is expected to increase the capacity of Boardwalk Pipelines\u2019 pipeline system through the addition of compression facilities, the installation of 110 miles of natural gas pipeline, and other system modifications.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new large-scale pipeline project (Kosci) involving substantial construction."
+  },
+  {
+   "text": "The capacity for this project is supported by precedent agreements with utility customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds contractual support detail to the newly introduced Kosci project."
+  },
+  {
+   "text": "This project is designed to connect supply from the Haynesville, Utica/Marcellus, and Fayetteville basins to markets in the southeast U.S. that are either tied into Boardwalk Pipelines\u2019 existing pipeline systems or will be served through third-party pipeline interconnects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional description of supply/market connections for a new project."
+  },
+  {
+   "text": "The Ohio Power Plant Project is expected to increase the delivery capacity of Boardwalk Pipelines\u2019 pipeline system in Hamilton County, Ohio, through the construction of seven miles of natural gas pipeline and a delivery meter connected to a power plant.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new delivery capacity project (Ohio Power Plant Project) with new construction."
+  },
+  {
+   "text": "The project is supported by a precedent agreement with a utility customer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds contractual support detail to the newly introduced Ohio project."
+  },
+  {
+   "text": "Boardwalk Pipelines executed two precedent agreements for the SECURE project, which is expected to provide additional transportation from west to east across its pipeline systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new project (SECURE) with new precedent agreements and capital commitment."
+  },
+  {
+   "text": "This project is expected to increase the peak-day transmission capacity by increasing the horsepower at three existing compressor stations and constructing a new compressor station.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds technical scope detail to the newly introduced SECURE project."
+  },
+  {
+   "text": "This project supports growing energy demand and power generation needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about supporting energy demand, no new specific risk."
+  },
+  {
+   "text": "12 Table of Contents The PLUSS project is supported by precedent agreements to serve industrial and power markets in the Mississippi River corridor.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new project (PLUSS) supported by precedent agreements, a new capital commitment."
+  },
+  {
+   "text": "As part of the project, Boardwalk Pipelines intends to add compression facilities, modify its pipelines and perform other system modifications on its pipeline systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds operational detail to an already introduced project."
+  },
+  {
+   "text": "The Texas Gateway Project is expected to increase the capacity of Boardwalk Pipelines\u2019 pipeline system through the construction of approximately 155 miles of natural gas pipeline and the addition of compression facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new large pipeline construction project (Texas Gateway) with substantial capital investment."
+  },
+  {
+   "text": "This project is designed to connect supply from the Katy and Carthage, Texas, hubs for delivery to growing demand in Southwest Louisiana near Gillis and increase liquidity, supply security and flow assurance for LNG exporters, electric utilities, industrial users and natural gas producers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional market and supply detail for the newly introduced Texas Gateway project."
+  },
+  {
+   "text": "The Petal Gas Storage Expansion project is supported by precedent agreements and is expected to increase the working gas storage capacity of Boardwalk Pipelines\u2019 Petal storage field by drilling and constructing a new natural gas storage cavern in Forrest County, Mississippi.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new storage expansion project (Petal Gas Storage Expansion) involving new construction and capital risk."
+  },
+  {
+   "text": "In addition to growth projects for which Boardwalk Pipelines has executed precedent agreements, it regularly considers other potential growth projects at earlier stages of development, and is currently evaluating additional growth projects involving substantial capital commitments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk about additional growth projects under evaluation involving substantial capital commitments."
+  },
+  {
+   "text": "Boardwalk Pipelines may from time to time make public disclosures regarding these potential projects, for instance, through announcements of open seasons for potential future capacity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about public disclosure practices, not a new risk."
+  },
+  {
+   "text": "In addition to the risks, uncertainties and contingencies described above regarding the growth projects for which Boardwalk Pipelines has executed precedent agreements, these potential growth projects at earlier stages of development are subject to a variety of additional risks and uncertainties as Boardwalk Pipelines has not reached final investment decisions or secured executed precedent agreements for them.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing risk disclosure about uncertainties of early-stage growth projects."
+  },
+  {
+   "text": "Therefore, these potential growth projects at earlier stages of development may not be consummated as contemplated in any such public disclosures or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cautionary boilerplate about potential non-consummation of projects, restates known uncertainty."
+  },
+  {
+   "text": "Refer to Subsidiaries portion of the Liquidity and Capital Resources section of MD&A in Item 7 for further discussion of capital expenditures and financing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to MD&A section, no substantive risk content."
+  },
+  {
+   "text": "Customers: Boardwalk Pipelines serves a broad mix of customers, including end-use customers, such as electric power generators, local distribution companies, industrial and petrochemical users and exporters of LNG.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business description of customer types, not a risk statement."
+  },
+  {
+   "text": "Boardwalk Pipelines also contracts with other customers, including producers and marketers of natural gas and interstate and intrastate pipelines, who, in turn, provide transportation and storage services for end-users.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of customer relationships, not a risk factor."
+  },
+  {
+   "text": "These customers are located throughout the Gulf Coast, Midwest and Northeast regions of the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Geographic description of customers, purely descriptive."
+  },
+  {
+   "text": "Boardwalk Pipelines\u2019 natural gas delivery markets continue to diversify, with increased deliveries to end-use customers, whereas, historically its natural gas delivery markets were primarily to other pipelines who then delivered to end-use customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market diversification trend, descriptive not risk-specific."
+  },
+  {
+   "text": "Governmental Regulation: The FERC regulates Boardwalk Pipelines\u2019 interstate natural gas transmission operating subsidiaries under the Natural Gas Act of 1938 (\u201cNGA\u201d) and the Natural Gas Policy Act of 1978 (\u201cNGPA\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing regulatory framework, factual not new risk."
+  },
+  {
+   "text": "The FERC regulates, among other things, the rates and charges for the transportation and storage of natural gas in interstate commerce and the construction, extension, enlargement or abandonment of facilities under its jurisdiction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of FERC regulatory authority, not new risk."
+  },
+  {
+   "text": "Where required, Boardwalk Pipelines\u2019 natural gas pipeline subsidiaries hold certificates of public convenience and necessity issued by the FERC covering certain of their facilities, activities and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing certificate requirements, factual description."
+  },
+  {
+   "text": "The maximum applicable rates that Boardwalk Pipelines\u2019 FERC-regulated subsidiaries may charge for all aspects of the natural gas transportation services they provide, are established through the FERC\u2019s cost-based rate-making process; however, the FERC also allows for discounted or negotiated rates as an alternative to cost-based rates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains rate-making process, descriptive regulatory information."
+  },
+  {
+   "text": "Key determinants in the FERC\u2019s cost-based rate-making process are the costs of providing service, the volumes of gas being transported, the rate design, the allocation of costs between services, the capital structure and the rate of return a pipeline is permitted to earn.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Details factors in rate-making process, descriptive not risk-specific."
+  },
+  {
+   "text": "The maximum applicable rates that Boardwalk Pipelines may charge for storage services on Texas Gas, except for services associated with a portion of the working gas capacity on that system, are also established through the FERC\u2019s cost-based rate-making process.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes rate-setting mechanism for storage services, factual description."
+  },
+  {
+   "text": "The FERC has authorized Boardwalk Pipelines to charge market-based rates for its firm and interruptible storage services for the majority of its other natural gas storage facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing market-based rate authorization, factual regulatory detail."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "AMT",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-24",
+ "accession": "0001053507-26-000035",
+ "prior_accession": "0001053507-25-000025",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 9,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Our business, results of operations and financial condition could be negatively impacted by disputes with our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic introductory statement about disputes with customers potentially impacting the business; framing language, not itself a specific risk."
+  },
+  {
+   "text": "For example, we are currently engaged in a legal dispute (the \u201cArbitration\u201d) with one of our customers in Mexico, AT&T Comunicaciones Digitales, S. de R.L. de C.V. and related entities (collectively, \u201cAT&T Mexico\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, previously unmentioned legal arbitration dispute with a major customer, a concrete new risk."
+  },
+  {
+   "text": "AT&T Mexico, which represented approximately $300 million of tenant revenue in 2025, is challenging the calculation of the monthly lease amount established under our Master Lease Agreement with AT&T Mexico (the \u201cMLA\u201d), as well as certain other provisions of the MLA, seeking rent abatement both retroactively and prospectively, and withheld certain tower rents during 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific financial details (revenue amount, nature of dispute) elaborating on the newly introduced AT&T Mexico arbitration risk."
+  },
+  {
+   "text": "As previously discussed, on September 23, 2025, we and AT&T Mexico reached an agreement pursuant to which AT&T Mexico has remitted payment of the majority of the withheld tower rents and has resumed monthly payments of the majority of its owed tower rents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds settlement/status details to the already-introduced AT&T Mexico dispute."
+  },
+  {
+   "text": "The remainder of the outstanding receivables and the future monthly unpaid tower rent amounts are being deposited into an irrevocable escrow account, overseen by an independent trustee, to be released in accordance with a final ruling in the Arbitration or by mutual consent of us and AT&T Mexico.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on escrow arrangement tied to the same arbitration risk."
+  },
+  {
+   "text": "We incurred approximately $30 million of reserves during the year ended December 31, 2025 related to this customer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific financial reserve figure related to the same customer dispute already introduced."
+  },
+  {
+   "text": "We expect to record future reserves until the Arbitration is settled.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of expected financial impact from the same ongoing dispute."
+  },
+  {
+   "text": "Additionally, on September 24, 2025, one of our U.S. customers, DISH Wireless L.L.C., a subsidiary of DISH Network Corporation (\u201cDISH\u201d), delivered a notice purporting to be excused from its contractual obligations under our Strategic Collocation Agreement entered into in March 2021 (the \u201cSCA\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, distinct dispute with a different major customer (DISH) not previously disclosed."
+  },
+  {
+   "text": "DISH has failed to meet its payment obligations, and as of January 2026 is in default under the SCA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific default status detail to the newly introduced DISH dispute."
+  },
+  {
+   "text": "We filed a complaint seeking a declaratory judgment that DISH has not been excused from its obligations under the SCA, that the SCA remains in full force and effect, and that DISH remains required to perform all of its obligations under the SCA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details litigation action taken regarding the same DISH dispute."
+  },
+  {
+   "text": "The outcomes of these matters are uncertain, and there can be no assurance that our positions will be upheld.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty language applicable to any litigation, not a new specific risk."
+  },
+  {
+   "text": "Adverse rulings in one or both of these disputes could have a material negative impact on our results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about potential adverse impact from litigation outcomes."
+  },
+  {
+   "text": "For example, during the second half of 2025, Echostar Corporation, parent company to DISH, announced agreements to sell a material amount of spectrum licenses, and subsequently began to abandon and decommission deployment of portions of its 5G VoNR and broadband network.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific facts about DISH's parent selling spectrum and abandoning network deployment, a material new development."
+  },
+  {
+   "text": "DISH represented approximately 2% and 4% of our total annual property revenue and total annual U.S. & Canada property revenue, respectively, for 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated concentration percentages tied to the already-disclosed DISH relationship risk."
+  },
+  {
+   "text": "During the year ended December 31, 2025, churn was approximately 2% of our tenant billings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated churn metric supporting existing churn-related risk discussion."
+  },
+  {
+   "text": "An increase in our future churn rate resulting from non-renewal, or renegotiations at less favorable terms than our current rates, from one or more of our larger customers could materially and adversely impact our growth rate and revenue.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the standard risk that churn or unfavorable renegotiation could hurt growth, consistent with prior disclosures."
+  },
+  {
+   "text": "In recent years, we have divested our Mexico fiber and Poland businesses in 2023, our Australia, India and New Zealand businesses in 2024 and our South Africa fiber business in 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual historical list of past divestitures, providing context rather than a new risk."
+  },
+  {
+   "text": "Our use of joint ventures and strategic partnerships may expose us to risks associated with jointly owned investments.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement introducing joint venture risk, consistent with typical existing risk factor language."
+  },
+  {
+   "text": "We currently operate parts of our business through joint ventures with third party partners that we believe will complement or augment our existing business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes existing use of joint ventures, background rather than new risk."
+  },
+  {
+   "text": "For example, we have joint ventures in our Europe property segment, Data Center property segment and Africa & APAC property segment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific segments where joint ventures exist, detailing the scope of the existing JV risk."
+  },
+  {
+   "text": "Additionally, we may not realize any of the anticipated benefits of our joint ventures.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard risk language about not realizing anticipated JV benefits."
+  },
+  {
+   "text": "Such investments and any future strategic partnerships and/or joint ventures subject us and the companies we manage to risks and uncertainties not otherwise present with other methods of investment.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about risks inherent in joint ventures/strategic partnerships, typical boilerplate risk language."
+  },
+  {
+   "text": "We have a substantial amount of indebtedness.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard statement about having substantial indebtedness, a recurring risk factor phrase."
+  },
+  {
+   "text": "As of December 31, 2025, we had approximately $37.2 billion of consolidated debt and the ability to borrow additional aggregate amounts of approximately $9.6 billion under our $6.0 billion senior unsecured multicurrency revolving credit facility, as amended and restated in December 2021, as further amended (the \u201c2021 Multicurrency Credit Facility\u201d) and our $4.0 billion senior unsecured revolving credit facility, as amended and restated in December 2021, as further amended (the \u201c2021 Credit Facility\u201d), net of approximately $36.8 million of outstanding undrawn letters of credit.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updated specific debt and credit facility figures elaborating on the existing indebtedness risk."
+  },
+  {
+   "text": "Additionally, our Board has approved a share repurchase program allowing us to repurchase common stock through various methods, including open market purchases.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a newly approved share repurchase program, a new corporate action with associated financial risk."
+  },
+  {
+   "text": "The program does not require any specific amount or number of shares to be repurchased, and management will determine timing and volume based on market conditions and other factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details on flexibility of the newly disclosed repurchase program."
+  },
+  {
+   "text": "Repurchases could impact stock price, liquidity and cash reserves, potentially affecting future growth opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential market impacts of the new repurchase program."
+  },
+  {
+   "text": "While intended to enhance long-term shareholder value, there is no guarantee of success, and short-term price fluctuations could reduce the program\u2019s effectiveness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about uncertain success of the repurchase program."
+  },
+  {
+   "text": "Additionally, our share repurchase program could diminish our available cash, which may impact our ability to finance future growth and pursue possible future strategic opportunities and acquisitions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential negative cash impact from the newly disclosed repurchase program."
+  },
+  {
+   "text": "Our data centers segment is also subject to various federal, state and local environmental and health and safety laws and regulations in the United States, as set forth in Item 1A of this Annual Report under the caption \u201cRisk Factors\u2014 Our data center segment contains certain operational differences from our tower leasing operations resulting in different operational risks.",
+   "category": "reworded_same_meaning",
+   "rationale": "Cross-reference to an existing risk factor caption regarding data center environmental regulations."
+  },
+  {
+   "text": "For 2025, the Under-Taxed Payments Rule (UTPR) Safe Harbor excludes all US income from the Pillar 2 Rules.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax rule detail (UTPR Safe Harbor) relevant to 2025 tax exposure."
+  },
+  {
+   "text": "In addition, substantially all of our non-excluded, non-U.S. jurisdictions qualify for other Safe Harbors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on which jurisdictions qualify for safe harbors under the newly introduced tax rule discussion."
+  },
+  {
+   "text": "The remaining jurisdictions that may not qualify would have immaterial Top-Up Taxes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further clarifies immateriality of tax impact for remaining jurisdictions, part of the same tax risk discussion."
+  },
+  {
+   "text": "Beginning in fiscal year 2026, the U.S. income of non-excluded entities may result in material Top-Up Taxes; however, on January 5, 2026, the OECD announced a comprehensive Side-by-Side Safe Harbor that, if enacted, would exempt U.S.-parented multinational companies from certain Top-Up Taxes under the Pillar 2 Rules beginning January 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific future tax risk (2026 Top-Up Taxes) and a pending OECD safe harbor development."
+  },
+  {
+   "text": "The Side-by-Side Safe Harbor is not an exemption from any qualified domestic minimum Top-Up Tax.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies limitations of the newly discussed Side-by-Side Safe Harbor."
+  },
+  {
+   "text": "The Side-by-Side Safe Harbor has yet to be enacted in any jurisdiction where we operate that has already implemented the Pillar 2 Rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds status detail (not yet enacted) to the newly discussed tax safe harbor risk."
+  },
+  {
+   "text": "Additionally, the use of AI technologies has led to increased exposure to cybersecurity threats globally.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific cybersecurity risk related to AI technology use, not previously mentioned."
+  },
+  {
+   "text": "AI systems may be used by threat actors to exploit vulnerabilities more efficiently or to facilitate increasingly sophisticated cyberattacks, any of which could result in data breaches, operational disruptions or liability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the mechanics of AI-related cybersecurity threats introduced in the prior sentence."
+  },
+  {
+   "text": "Our data center segment contains certain operational differences from our tower leasing operations, resulting in different operational risks.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates an existing risk factor heading about data center operational differences, referenced elsewhere as already existing."
+  },
+  {
+   "text": "If we do not successfully operate our data center segment or identify or manage the related operational risks, such operations may produce results that are lower than anticipated.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard risk language about potential underperformance if data center operations are not managed successfully, consistent with existing risk framing."
+  }
+ ]
+}

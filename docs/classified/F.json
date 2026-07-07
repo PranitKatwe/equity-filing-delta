@@ -1,0 +1,218 @@
+{
+ "ticker": "F",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-11",
+ "accession": "0000037996-26-000015",
+ "prior_accession": "0000037996-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 19,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Wholesales 2024 2025 2024 2025 Electric Vehicles 97,865 84,113 68,990 82,530 Hybrid Vehicles 187,426 228,072 215,735 216,599 Internal Combustion Vehicles 1,793,541 1,891,939 1,914,862 1,805,372 Total Vehicles 2,078,832 2,204,124 2,199,587 2,104,501 5 Item 1 .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a data table of wholesale vehicle volumes, not a risk statement."
+  },
+  {
+   "text": "In 2025, EPA proposed to stop regulating GHGs for all model years, and publicly announced an intention to revisit existing emissions standards for criteria pollutants.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory development (EPA proposal to stop regulating GHGs) creating new compliance uncertainty."
+  },
+  {
+   "text": "However, in 2025, federal legislation\u2014which is currently subject to legal challenge\u2014eliminated the authority of California and other states to implement and enforce most of their emissions standards (and zero-emission vehicles (\u201cZEV\u201d) sales requirements, which are discussed below).",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new federal legislation eliminating state emissions authority, a specific and material regulatory change subject to legal challenge."
+  },
+  {
+   "text": "In 2025, federal legislation\u2014which is currently subject to legal challenge\u2014eliminated the authority of California and other states to implement and enforce these ZEV sales requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates the same federal legislation from a prior sentence but applied specifically to ZEV sales requirements, expanding on the same risk."
+  },
+  {
+   "text": "In 2025, NHTSA proposed to significantly relax the stringency of the fuel economy standards for model year 2022 through 2031 light-duty vehicles.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new NHTSA proposal relaxing fuel economy standards, a concrete regulatory change."
+  },
+  {
+   "text": "In 2025, federal legislation effectively eliminated civil penalties under the light-duty vehicle CAFE program by setting the civil penalty amount at $0.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes specific new legislation eliminating CAFE civil penalties, a material regulatory change."
+  },
+  {
+   "text": "Recent proposals from EPA and NHTSA and federal legislation passed in 2025 may alleviate the misalignment, but these proposals and new legislation are subject to legal challenge.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General summary connecting prior points about proposals alleviating misalignment, without new specific detail."
+  },
+  {
+   "text": "For example, in 2025, Ford terminated some of its obligations to purchase credits as a result of the reduction in stringency of, or elimination of, compliance requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific business action (Ford terminating credit purchase obligations) tied to regulatory changes."
+  },
+  {
+   "text": "China Stage VII emission standards are in development, a draft of which is expected to be available in the first quarter of 2026, while the official standard is expected to be published at the end of 2026 and implemented in January 2029.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new timeline for China Stage VII emission standards, a concrete regulatory development."
+  },
+  {
+   "text": "The Worldwide Harmonized Light Vehicles Test Cycle remains the testing standard, some pollutant standards remain the same and other pollutants will become newly regulated, and fuel evaporation and OBD monitoring requirements will refer to relevant U.S. emission standards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides technical detail about testing standards that expands on existing regulatory risk discussion."
+  },
+  {
+   "text": "In December 2025, the EU Commission proposed revised CO 2 emission standards for cars and vans through 2035 and decarbonizing corporate fleets with binding national targets for zero- and low-emission vehicles.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new specific EU Commission proposal for revised CO2 standards, a material regulatory development."
+  },
+  {
+   "text": "Both proposals are expected to be adopted by the fourth quarter of 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple timing detail about adoption of proposals already described."
+  },
+  {
+   "text": "The United Kingdom has introduced the Vehicle Emission Trading Schemes (\u201cVETS\u201d), which is applicable to manufacturers and establishes ZEV mandates of 80% for cars and 70% for light commercial vehicles by 2030, with a ban on ICE passenger vehicles beginning in 2030 and light commercial vehicles beginning in 2035.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new UK ZEV mandates and ICE ban timeline, a material regulatory risk."
+  },
+  {
+   "text": "In December 2025, the EU Commission set a legally-binding target of 90% reduction in net GHG emissions for 2040, with the possibility to use high-quality international credits toward the 2040 target, starting in 2036.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new binding EU GHG reduction target, a material regulatory development."
+  },
+  {
+   "text": "This amount can be up to 5% of 1990 EU net GHG emissions, corresponding to a domestic reduction of net GHG emissions by 85% compared to 1990 levels by 2040.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional quantitative detail expanding on the EU GHG target described in the prior sentence."
+  },
+  {
+   "text": "The passage of secondary legislation under the EU Battery Regulation, referred to as the Battery Carbon Footprint Delegated Act, has faced significant delays due to technical issues relating to carbon footprint methodology.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about delays to an existing EU Battery Regulation risk."
+  },
+  {
+   "text": "This trend is also emerging beyond Europe, with country-specific sustainability reporting requirements in place in Australia and others forthcoming.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new sustainability reporting requirements trend outside Europe, a new compliance risk area."
+  },
+  {
+   "text": "For example, the EU Corporate Sustainability Reporting Directive and Australia\u2019s Sustainability Reporting Standard both require expanded sustainability-related disclosures, including how companies manage climate risks and align their strategies with global climate goals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples expanding on the sustainability reporting trend just introduced."
+  },
+  {
+   "text": "Due to the anticipated changes to U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete fragment lacking substantive content on its own."
+  },
+  {
+   "text": "EPA GHG standards, the Canadian federal government will end its longstanding regulatory alignment with the United States on GHG requirements, and in February 2026, Canada announced its intention to introduce GHG emission standards for light-duty vehicles to achieve a goal of 75% EV sales by 2035 and 90% by 2040.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes Canada's new divergence from U.S. GHG standards and new EV sales goals, a material new regulatory risk."
+  },
+  {
+   "text": "With such GHG standards, Canada also announced it will repeal the light-duty ZEV sales requirements that would have commenced in the 2027 model year under the Electric Vehicle Availability Standard.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about Canada repealing ZEV requirements, expanding on the Canada regulatory risk just introduced."
+  },
+  {
+   "text": "The prospect of maintaining stringent Canada-specific federal GHG requirements and provincial ZEV sales mandates presents significant challenges.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about challenges of maintaining Canadian standards, restating risk already implied by prior sentences."
+  },
+  {
+   "text": "China also released a new mandatory national standard to regulate the limits of electric energy consumption by battery EVs that was implemented in January 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific Chinese standard on EV energy consumption limits."
+  },
+  {
+   "text": "Business (Continued) Australia implemented a unique fleet CO 2 standard in 2025 for light-duty and mid-size cars, SUVs, pickups, and vans, which is expected to remain in effect until 2029.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new Australian fleet CO2 standard with implementation timeline."
+  },
+  {
+   "text": "Governmental reviews of national standards in Australia, New Zealand, and Saudi Arabia are expected to occur in 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about upcoming reviews in multiple countries, expanding on existing regulatory uncertainty discussion."
+  },
+  {
+   "text": "Ford is also subject to a consent order we entered into with NHTSA in 2024, pursuant to which we have retained an independent third party selected by NHTSA to assess the Company\u2019s adherence to the consent order and Safety Act over the term of the consent order and to report on Ford\u2019s progress to NHTSA.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific NHTSA consent order and compliance monitoring obligation, a concrete new risk."
+  },
+  {
+   "text": "Business (Continued) Other National Requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading with no substantive content."
+  },
+  {
+   "text": "In China, new standards for AECS (Accident Emergency Call System) related to electronic architecture and devices are expected to take effect in July 2027.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new Chinese AECS standards with a concrete implementation date."
+  },
+  {
+   "text": "New mandatory national standards with an accident-driven focus, including safety requirements for driver assistance systems, are under development and are expected to take effect in January 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds further detail about new mandatory safety standards under development, expanding on similar regulatory risk."
+  },
+  {
+   "text": "The next generation of e-Call regulations are expected to be expanded across the GCC region in the near future with efforts to draft a regional e-Call regulation commenced in 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new regional e-Call regulation efforts in the GCC, a new specific regulatory development."
+  },
+  {
+   "text": "In Australia and New Zealand, the Australasian NCAP published protocols that are expected to be effective from 2026 to 2028 and harmonize with other protocols adopted in the EU, but with distinct local e-Call and child restraint specifications.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on NCAP protocols expanding the e-Call/safety regulation risk discussion."
+  },
+  {
+   "text": "Some of the risks and contingencies discussed herein may have previously occurred.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing statement common in risk factor disclaimers."
+  },
+  {
+   "text": "These risk factors are not representations as to whether or not such matters have occurred in the past and instead reflect our opinions on material factors that may materially and adversely affect our business in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer language about the nature of risk factor disclosures."
+  },
+  {
+   "text": "As described elsewhere herein, global political instability and volatility in government regulations and unpredictable trade policy (including tariffs) in the United States and around the world limit our ability to conduct effective long-term planning and make capital allocation decisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific mention of tariffs and trade policy volatility affecting planning and capital allocation."
+  },
+  {
+   "text": "For example, as part of a consent order we entered into with NHTSA in 2024, we have retained an independent third party selected by NHTSA to assess the Company\u2019s adherence to the consent order and Safety Act over the term of the consent order and to report on Ford\u2019s progress to NHTSA.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same NHTSA consent order fact already described elsewhere with no new information."
+  },
+  {
+   "text": "Risk Factors (Continued) Ford is also subject to environmental regulatory compliance requirements, and in many jurisdictions (including the United States), we are required to report on and correct certain emissions-related defects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing environmental compliance risk by detailing reporting and correction obligations."
+  },
+  {
+   "text": "Similarly, where required by regulation, we are obligated to honor certain warranties on emissions-related components, which can impose additional obligations beyond our standard warranties and increase our costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about emissions-related warranty obligations, expanding an existing compliance cost risk."
+  },
+  {
+   "text": "Furthermore, launch delays, recall actions, and increased warranty costs have generated negative publicity and adversely affected and could continue to adversely affect our reputation or the public perception and market acceptance of our products and services as discussed elsewhere herein.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of known risks about launch delays, recalls, and warranty costs affecting reputation."
+  },
+  {
+   "text": "In an effort to improve quality, we have slowed down and may continue to slow down launches, which may result in lost sales, revenue, and profits and could have an adverse effect on our financial condition or results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific management decision to slow launches, a concrete new operational risk."
+  },
+  {
+   "text": "For example, in 2025, our production was disrupted by fires at one of our major aluminum suppliers, the effects of which are ongoing.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific real event\u2014fires at an aluminum supplier disrupting production\u2014introducing a concrete supply chain risk."
+  }
+ ]
+}

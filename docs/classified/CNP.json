@@ -1,0 +1,218 @@
+{
+ "ticker": "CNP",
+ "sector": "Utilities",
+ "filing_date": "2026-02-19",
+ "accession": "0001130310-26-000008",
+ "prior_accession": "0001130310-25-000040",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "ERCOT and MISO have in the past and may in the future issue directives requiring members to implement controlled outages as a result of an emergency or reliability issues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about ERCOT/MISO directives for controlled outages, elaborating on existing grid reliability risk."
+  },
+  {
+   "text": "CenterPoint Energy received various claims and lawsuits with respect to the February 2021 Winter Storm Event, alleging, among other things, wrongful death, personal injury, property damage and other injuries and damages.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new litigation exposure related to the Winter Storm Event, a concrete new legal risk."
+  },
+  {
+   "text": "If power generation capacity is severely disrupted or is inadequate for any reason in the future or in the event of significant system disturbances, Houston Electric\u2019s or Indiana Electric\u2019s transmission and distribution services may be diminished, interrupted or halted, which could lead to prolonged customer outages, and Houston Electric and Indiana Electric may not be able to promptly repair and restart their facilities, which could adversely affect our businesses, financial condition, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the pre-existing risk of transmission/distribution disruption with more specific consequences."
+  },
+  {
+   "text": "For example, in June 2022, F.B.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete fragment introducing an example, not a standalone substantive risk statement."
+  },
+  {
+   "text": "Although CenterPoint Energy currently maintains property and casualty insurance, this insurance is limited in scope and subject to exceptions, conditions and coverage limitations and may not cover the costs associated with potential hazards incident to Houston Electric and Indiana Electric\u2019s businesses, and there is no guarantee that the insurance that CenterPoint Energy currently maintains will continue to be available at rates we believe are reasonable.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing insurance limitation risk with more detail about coverage gaps and future availability."
+  },
+  {
+   "text": "For example, while Indiana Electric\u2019s 2025 IRP (similar to previous IRPs) preferred portfolios included the retirement of F.B.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on ongoing IRP planning and unit retirement risk already known."
+  },
+  {
+   "text": "Culley Unit 2, a coal-fired generation unit, by the end of 2025, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory event\u2014a DOE emergency order forcing continued operation of a unit\u2014not previously disclosed."
+  },
+  {
+   "text": "Department of Energy issued emergency order 202(c) in December 2025 directing Indiana Electric to continue operating the unit through March 23, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Details the specific DOE emergency order requiring continued operation through a set date, a concrete new regulatory risk."
+  },
+  {
+   "text": "For example, while Indiana 20 Electric\u2019s 2022/2023 IRP recommended the conversion of F.B.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on ongoing IRP-related conversion planning, an extension of existing regulatory planning risk."
+  },
+  {
+   "text": "Culley Unit 3 from coal to natural gas by 2027, the 2025 IRP re-evaluated this conversion in light of customer affordability concerns, among other things, and deferred the decision regarding F.B.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes deferral of a previously planned conversion decision, expanding existing planning risk."
+  },
+  {
+   "text": "Culley Unit 3\u2019s replacement to a future IRP.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of the same IRP deferral discussion, not a new risk category."
+  },
+  {
+   "text": "For example, due to shifting market dynamics, changing project considerations such as substantial delays in commercial operation dates (due in part to MISO interconnection delays), cost increases and concerns about customer affordability, Indiana Electric terminated several wind and solar projects in 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new event\u2014termination of several wind and solar projects due to market and cost concerns."
+  },
+  {
+   "text": "In 2023, the Texas legislature amended the law to allow wider use of TEEEF, and in response, Houston Electric has entered into contractual arrangements to facilitate access to small (200 kW to 1,250 kW) TEEEF units; the small TEEEF units represent approximately 4% of the MWs of Houston Electric\u2019s total portfolio of TEEEF assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on legislative changes affecting TEEEF contractual arrangements, expanding existing regulatory risk."
+  },
+  {
+   "text": "In 2025, following the passage of the TEEEF Rule, Houston Electric requested from the PUCT preapproval to lease small TEEEF units for a three-year term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes procedural step in ongoing TEEEF regulatory process, an extension of existing risk."
+  },
+  {
+   "text": "These proceedings remain ongoing and, until PUCT preapproval is received, Houston Electric plans to maintain the current contractual arrangement providing access to the small TEEEF units on a month-to-month basis.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of ongoing TEEEF regulatory proceedings, not a new risk type."
+  },
+  {
+   "text": "Additionally, in June 2025, the law was further amended to provide that, effective on or after the date of the amendment\u2019s passage, TDUs may only enter into, renew or extend leases for TEEEF units with a maximum generation capacity of five or fewer MW and that are rapidly deployable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new legal restriction limiting TEEEF unit capacity, a concrete regulatory change affecting operations."
+  },
+  {
+   "text": "Additionally, as further described below, the large TEEEF units (which represent approximately 91% of the MWs of Houston Electric\u2019s total portfolio of TEEEF assets as of December 31, 2025) were released to the greater San Antonio region as of June 2025 for a contractual term through March 2027 unless terminated earlier in accordance with the provisions of the ERCOT Transaction, and Houston Electric has proposed releasing the medium TEEEF units (which represent approximately 5% of the MWs of Houston Electric\u2019s total portfolio of TEEEF assets as of December 31, 2025).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on the TEEEF unit release transactions already being discussed as a risk."
+  },
+  {
+   "text": "In June 2025, Houston Electric entered into the ERCOT Transaction, subject to PUCT approval, to release its large TEEEF units to ERCOT at CPS Energy facilities to serve the greater San Antonio region until March 2027 unless terminated earlier pursuant to the provisions of the ERCOT Transaction, reduce its TEEEF fleet capacity and reduce its rates to reflect the removal of the large TEEEF units from its fleet.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a specific major transaction (ERCOT Transaction) with new business and rate implications not previously described."
+  },
+  {
+   "text": "Further, in November 2025, Houston Electric proposed to release its medium TEEEF units from its TEEEF fleet and remove the associated lease costs from its rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the ongoing TEEEF unit release discussion to medium units."
+  },
+  {
+   "text": "Houston Electric also anticipates entering into and receiving revenue from future transactions involving its medium TEEEF units.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the same TEEEF transaction narrative with anticipated future revenue."
+  },
+  {
+   "text": "There can be no assurance that the PUCT will approve the ERCOT Transaction and Houston Electric\u2019s proposal to release its medium TEEEF units.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty statement about regulatory approval, common boilerplate language."
+  },
+  {
+   "text": "For example, in 2024, the TCA filed a complaint with the PUCT requesting that it end the cost recovery and return on investment on Houston Electric\u2019s large and medium TEEEF units as previously approved, and these proceedings remain ongoing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory complaint challenging cost recovery, a concrete new risk."
+  },
+  {
+   "text": "The regional and other markets in which we purchase natural gas are competitive and can be subject to significant pricing volatility as a result of many factors, including inflation, adverse weather conditions, supply and demand changes, availability of competitively priced alternative energy sources, political and geopolitical instability, commodity production levels and storage capacity, energy and environmental legislation and regulations and economic and financial market conditions.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard commodity price volatility language, largely generic and consistent with typical risk factor wording."
+  },
+  {
+   "text": "The natural gas market has been, and may continue to be, volatile due to growing domestic demand, increased natural gas exports, weather and other factors.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates general natural gas market volatility, a common and previously implied risk."
+  },
+  {
+   "text": "For example, Houston Electric is currently seeking to recover system restoration costs associated with Hurricane Beryl and certain other significant storms through the issuance and sale of non-recourse system restoration bonds.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cost recovery effort tied to Hurricane Beryl via securitization bonds, a concrete new development."
+  },
+  {
+   "text": "The issuance of system restoration bonds or securitization bonds may be delayed due to regulatory or other actions outside of our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk regarding delays in bond issuance due to regulatory action."
+  },
+  {
+   "text": "For example, concerns about customer affordability could cause regulators to approve lesser amounts in ratemaking or cost recovery proceedings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific rationale (affordability concerns) to existing regulatory recovery risk."
+  },
+  {
+   "text": "New legislation could be adopted in any of the states in which we operate that could alter the regulatory framework and prevent us from getting timely recovery of our costs and investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential legislative changes, typical risk factor boilerplate."
+  },
+  {
+   "text": "The regulated utility businesses, and the energy industry as a whole, have experienced a period of rising costs and investments and an upward trend in spending, especially with respect to infrastructure investments (including those that have already been approved by a regulator).",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk about rising costs and infrastructure investment trends."
+  },
+  {
+   "text": "For example, Houston Electric\u2019s SRP, which was approved by the PUCT in November 2025, includes twenty-seven resiliency measures totaling approximately $2.68 billion in capital investments and an estimated $185 million in operations and maintenance expense.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new capital investment figures and program details tied to a newly approved plan."
+  },
+  {
+   "text": "Our successful execution and completion of capital projects and programs, including those within our 10-year capital plan, are subject to substantial risks, and our business, financial condition, results of operations and cash flows could be materially affected should such efforts not be executed and completed as planned.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about risks of capital project execution, largely boilerplate."
+  },
+  {
+   "text": "We are managing ongoing, and planning future, significant capital projects relating to, among other things, improvements to our electric and natural gas transmission and distribution infrastructure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of ongoing infrastructure projects, not a new specific risk."
+  },
+  {
+   "text": "The execution of our capital projects, including those within our 10-year capital plan, may not be completed in accordance with current expectations or produce the desired results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about project execution uncertainty."
+  },
+  {
+   "text": "Our ability to execute and complete our capital projects, including Houston Electric\u2019s proposed 765 kV and other transmission projects, in a timely and cost-effective manner and within budget is contingent upon many variables and subject to substantial risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mention of new 765 kV transmission projects to existing capital project risk."
+  },
+  {
+   "text": "Certain events that may be beyond our control may occur that materially affect the schedule, cost and performance of these projects, including Houston Electric\u2019s proposed 765 kV and other transmission projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on schedule/cost risks tied to specific new transmission projects."
+  },
+  {
+   "text": "For example, our failure to capitalize on the opportunities presented by these developments or potential large load customers delaying or cancelling their planned projects could lead to delays or the cancellation of the projects 25 included in our 10-year capital plan.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding large load customers delaying or cancelling projects, a concrete new factor."
+  },
+  {
+   "text": "Additionally, regulators may investigate the prudence of costs in our rates and examine, among other things, the reasonableness or prudence of our level of expenditures (including costs associated with our capital projects).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory prudence reviews, standard boilerplate."
+  },
+  {
+   "text": "If we do not execute or complete our capital projects, including those within our 10-year capital plan, in accordance with current expectations or if our capital plan does not produce the desired results, our business, financial condition, results of operations and cash flows could be materially affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General risk statement about capital plan execution failure, largely repetitive boilerplate."
+  },
+  {
+   "text": "In the future, these approvals may not be granted in a timely manner (including due to potential staffing issues at U.S. regulatory agencies) or at all or may be modified, rescinded or fail to be extended for a variety of reasons, including due to legal or regulatory changes or political, public and community relations pressure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor\u2014potential regulatory staffing issues affecting approvals\u2014not previously disclosed."
+  },
+  {
+   "text": "The level of rates and actual or perceived affordability of our services, the timing and magnitude of rate increases, and the volatility of rates can also affect the opinions of customers, legislators, regulators and other political figures of us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about rate perception affecting stakeholders, typical risk factor language."
+  }
+ ]
+}

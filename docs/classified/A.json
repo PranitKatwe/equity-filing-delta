@@ -1,0 +1,133 @@
+{
+ "ticker": "A",
+ "sector": "Health Care",
+ "filing_date": "2025-12-22",
+ "accession": "0001090872-25-000087",
+ "prior_accession": "0001090872-24-000049",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "We sell many of our products internationally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic factual statement about international sales, used as context-setting rather than describing a specific risk."
+  },
+  {
+   "text": "Our hedging programs reduce, but do not always entirely eliminate the impact of currency exchange rate movements within any given twelve-month period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on limitations of existing currency hedging program, an existing risk topic with added nuance."
+  },
+  {
+   "text": "20 Table of Contents Recent and dynamic government rule making and policy changes could increase our costs, affect our markets and customers and impact our results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic header-style sentence framing a topic without specific new risk detail."
+  },
+  {
+   "text": "The rapid increase in new government regulations, including tariffs and proposed tariffs in the geographies and markets in which we operate, could result in significant costs and require modifications in the way we and our customers conduct business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific concrete risk of tariffs and new government regulations affecting costs and operations."
+  },
+  {
+   "text": "As we and our customers respond to newly enacted rules and legislation, effects on purchasing behavior and global trade relationships could affect our revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced tariff/regulation risk by describing effects on purchasing behavior and revenue."
+  },
+  {
+   "text": "Increases in our costs and expenses related to our compliance or mitigation activities and those of our customers and suppliers could have a negative effect on our operating margin.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on cost impacts from compliance activities tied to the new regulatory risk theme."
+  },
+  {
+   "text": "If we are unable to respond to changing regulations in a timely and effective manner, our results of operations could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about failing to respond to regulatory change, lacking specific new detail."
+  },
+  {
+   "text": "In addition, geopolitical instability and evolving trade regulations, including tariffs, sanctions, and export controls, may restrict our ability to ship products globally or source critical components.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk areas: geopolitical instability, sanctions, export controls restricting shipping and sourcing."
+  },
+  {
+   "text": "These developments can increase costs, disrupt supply chains, and require operational adjustments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on operational consequences of the newly introduced geopolitical/trade risk."
+  },
+  {
+   "text": "Failure to comply with these regulations could result in penalties, loss of export privileges, and reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific concrete consequences (penalties, loss of export privileges) tied to export control compliance failures."
+  },
+  {
+   "text": "Currently, United States federal agencies are operating under a continuing resolution that is set to expire on January 30, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, time-bound new risk regarding a government continuing resolution deadline."
+  },
+  {
+   "text": "Without appropriation of additional funding to federal agencies, our business operations related to our product sales to customers receiving funding from the U.S. federal government could be impacted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces concrete new risk of business impact from lack of federal appropriations affecting customer funding."
+  },
+  {
+   "text": "Inadequate funding for government agencies, including from government shut downs, or other disruptions to these agencies\u2019 operations, such as actions to greatly reduce the size of the federal workforce, could hinder their ability to hire and retain key leadership and other personnel, prevent new products and services from being developed or commercialized in a timely manner, or otherwise prevent those agencies from performing normal business functions on which the operation of the businesses of certain of our customers and our business may rely, which could negatively impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the funding/shutdown risk with additional detail about workforce reduction and agency dysfunction."
+  },
+  {
+   "text": "The expectations and requirements of regulators and other key stakeholders, including on corporate governance and sustainability-related matters, continue to evolve and diverge, and our ability to meet these expectations and requirements could impact our risk exposure and financial conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving regulatory/stakeholder expectations without specific new risk content."
+  },
+  {
+   "text": "We are subject to rapidly changing and varied expectations and requirements, including on corporate governance and sustainability issues, from a wide range of stakeholders, such as governmental and self-regulatory organizations, including the Securities and Exchange Commission, U.S. federal and state governments, New York Stock Exchange, and the European Union, as well as our investors, customers and suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic listing of stakeholder types and general expectation changes, standard cautionary language."
+  },
+  {
+   "text": "In addition, many of our stakeholders have diverging demands, perspectives and preferences, including on topics such as climate change and diversity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about diverging stakeholder demands, no specific new risk introduced."
+  },
+  {
+   "text": "For example, U.S. federal, state and local governmental authorities, as well as governmental authorities in various jurisdictions, have proposed or implemented and are likely to continue to propose or implement, legislative and regulatory initiatives around corporate governance and environmental and social practices and disclosures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about governmental ESG rulemaking trends, framing rather than a specific new risk."
+  },
+  {
+   "text": "Compliance with such evolving expectations, rules and regulations, including any that may emerge in the future as well as those incorporated in our contractual obligations from our customers, could increase the cost and complexity of operating our business, and could adversely impact us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about cost and complexity impacts from evolving compliance requirements, expanding existing regulatory risk theme."
+  },
+  {
+   "text": "In addition, various jurisdictions have adopted or proposed laws, regulations and policies that diverge from, or potentially conflict with, those adopted or proposed in other jurisdictions, making compliance more difficult and uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory divergence across jurisdictions as a compliance challenge."
+  },
+  {
+   "text": "Failure to comply with any law, regulation or policy, including as a result of making good faith interpretations that may differ from those taken by authorities in relevant jurisdictions, could potentially result in legal, reputational and operational risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compliance failure risks, standard cautionary language."
+  },
+  {
+   "text": "Furthermore, any actual or perceived failure to achieve our current and future sustainability goals, including those which result from contractual obligations from our customers, or to act responsibly with respect to such matters or to effectively respond to new or additional sustainability-related legal or regulatory requirements, could result in adverse publicity and adversely affect our business and reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands sustainability risk disclosure with added detail about contractual obligations from customers."
+  },
+  {
+   "text": "There is no assurance that we will be able to successfully achieve any sustainability-related goal or execute on any sustainability-related strategy, or adequately meet stakeholder expectations with respect to such matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about uncertainty in achieving sustainability goals, standard cautionary language."
+  },
+  {
+   "text": "Our ability to deliver on any sustainability-related goal or strategy is subject to numerous risks, many of which are outside of our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that sustainability goals are subject to uncontrollable risks, lacking specific new content."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "CNC",
+ "sector": "Health Care",
+ "filing_date": "2026-02-17",
+ "accession": "0001071739-26-000049",
+ "prior_accession": "0001071739-25-000027",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 34,
+ "counts": {
+  "new_substantive_risk": 25,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "For example, late in the second quarter of 2025, data from an independent actuarial firm suggested a materially higher implied aggregate morbidity of the Marketplace membership as a whole than anticipated, resulting in a significant reduction of our expected net risk adjustment revenue for 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, material actuarial finding that led to a significant reduction in expected risk adjustment revenue for 2025."
+  },
+  {
+   "text": "In addition, during 2025, our Medicaid membership had higher than expected medical costs, including due to unanticipated increased costs in behavioral health, home health and high-cost drugs.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new cost drivers (behavioral health, home health, high-cost drugs) causing higher than expected Medicaid medical costs in 2025."
+  },
+  {
+   "text": "In particular, as part of the Medicaid rate setting process, state actuaries determine actuarial soundness of rates based on historical data.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of the state actuarial rate-setting process without new specific risk."
+  },
+  {
+   "text": "The delay in time between making claims payments and receiving rate adjustments when we experience an increased rate of change in medical expenses, whether due to the increased acuity profile of the membership or the increased utilization of health care services, such as behavioral health, home health and high-cost drugs, may cause the profitability of our Medicaid plans to be reduced.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing lag-in-rate-adjustment risk by adding specific cost categories."
+  },
+  {
+   "text": "In addition, we have limited ability to manage the utilization of services until continuity of care requirements expire.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about continuity of care limiting ability to manage utilization, expanding existing utilization risk."
+  },
+  {
+   "text": "For example, in 2025, we had higher utilization than we expected in several applied behavioral health services programs.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a specific 2025 example of higher-than-expected utilization in behavioral health programs, a concrete new fact."
+  },
+  {
+   "text": "The premium rates we charge are typically determined in the summer prior to the next plan year, and delays in receiving data upon which the assumptions our based may impact our ability to timely adjust and receive state approval for these rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail about timing of premium rate determination affecting existing rate-adequacy risk."
+  },
+  {
+   "text": "For example, late in the second quarter of 2025, we made a significant negative adjustment to our expected net risk adjustment revenue attributable to the 2025 Marketplace plan year.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific significant negative revenue adjustment tied to 2025 Marketplace risk adjustment, a material new fact."
+  },
+  {
+   "text": "While we have received approvals in the vast majority of states for our 2026 refiled Marketplace rates reflecting the increased medical expenses we experienced in 2025 and adjusted our benefit design and strategy, these actions may not be sufficient to maintain or increase the profitability of these products, which may unfavorably impact our results of operations and financial condition and may be material.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new information about 2026 rate refiling and potential material impact on profitability."
+  },
+  {
+   "text": "While we continue to focus on Star rating improvement, we may not be able to improve or maintain our Star ratings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty in maintaining Star ratings, no new specifics."
+  },
+  {
+   "text": "On January 26, 2026, CMS released its draft 2027 Medicare rate announcement.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory event (2027 draft rate announcement) relevant to future risk."
+  },
+  {
+   "text": "We believe these rates are insufficient to reflect the increases in continuing medical cost trend.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expresses belief that new rates are insufficient, reinforcing existing rate adequacy risk with new context."
+  },
+  {
+   "text": "Additionally in 2025, CMS announced the intent to accelerate the timing and expand the scope of risk adjustment data validation audits.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new CMS action to accelerate and expand risk adjustment audits, a specific regulatory risk."
+  },
+  {
+   "text": "For example, we are currently protesting the Texas and Georgia Medicaid reprocurements in which we were not a successful bidder.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific ongoing legal protests over lost Medicaid contracts, a concrete new business risk."
+  },
+  {
+   "text": "For example, we are currently protesting the Texas and Georgia Medicaid reprocurements in which we were not a successful bidder.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate of the same specific new risk regarding Medicaid contract protests."
+  },
+  {
+   "text": "For example, as a result of market conditions in July 2025, including the OBBBA and the decline in our stock price, we performed a quantitative impairment analysis during the third quarter to determine whether goodwill was impaired, which resulted in a non-cash goodwill impairment of $6.7 billion in the third quarter of 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material $6.7 billion goodwill impairment event."
+  },
+  {
+   "text": "The Final Rule was published in the Federal Register on June 25, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual publication date of a rule, no risk substance."
+  },
+  {
+   "text": "The Final Rule makes changes to policies to strengthen program integrity measures in the Marketplace.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of rule's purpose without specific risk detail."
+  },
+  {
+   "text": "For example, the Special Enrollment Period for those under 150% of the FPL has been repealed beginning August 25, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific regulatory change (SEP repeal) with concrete effective date and membership impact."
+  },
+  {
+   "text": "Several of the provisions of the Final Rule have been stayed due to ongoing litigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural/legal status update with no new substantive risk detail."
+  },
+  {
+   "text": "These include a requirement for certain consumers who automatically re-enroll into a fully subsidized Marketplace plan to be re-enrolled into the same plan with a $5 premium until the consumer updates their exchange application to confirm APTC eligibility.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new policy mechanic affecting subsidized plan enrollment and premiums."
+  },
+  {
+   "text": "Additionally, exchanges may no longer accept a consumer's self-attestation of projected annual household income when the IRS cannot verify it due to lack of tax return data; rather, exchanges must verify household income using other trusted data sources.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new income verification requirement change affecting subsidy eligibility, a specific new regulatory risk."
+  },
+  {
+   "text": "29 Table of Contents Extended eligibility for the Enhanced APTC for Marketplace members expired on December 31, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific date and expiration of enhanced subsidies, a material new fact affecting membership and revenue."
+  },
+  {
+   "text": "In July 2025, the OBBBA placed additional restrictions on APTC requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new law imposing additional APTC restrictions, a specific new regulatory risk."
+  },
+  {
+   "text": "For example, beginning January 1, 2026, should individuals mis-estimate their projected income, the OBBBA requires them to reimburse the IRS for the full amount of excess tax credit received.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new requirement for consumers to repay excess tax credits, a concrete new risk factor."
+  },
+  {
+   "text": "In addition, as of January 1, 2026, the OBBBA prohibits individuals from receiving APTCs if they enroll in health coverage through a Special Enrollment Period associated with their income.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new prohibition on APTCs for certain enrollees starting a defined date."
+  },
+  {
+   "text": "We anticipate that the combined effect of the expiration of the Enhanced APTCs, the Final Rule, and the OBBBA will reduce 2026 Marketplace membership and continue to increase the overall morbidity of the Marketplace population.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes combined anticipated effects of previously described changes, extending existing risk discussion."
+  },
+  {
+   "text": "For example, we have a receivable due to us from CMS for Part D risk-sharing programs attributable to the 2025 plan year that we expect to be paid by CMS within a year after the plan year closes.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific receivable from CMS tied to Part D risk-sharing, a new financial exposure detail."
+  },
+  {
+   "text": "If the payments from CMS are delayed, our cash flows may be materially adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the receivable risk by noting potential cash flow impact from payment delays."
+  },
+  {
+   "text": "For example, the OBBBA includes requirements that may reduce the number of members eligible for state Medicaid Expansion programs by requiring work or community engagement by members and for state Medicaid agencies to redetermine member eligibility at more frequent intervals, along with adding a \"Cost Sharing\" or \"Co-Pay\" for certain medical services.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new OBBBA requirements (work requirements, redeterminations, cost sharing) affecting Medicaid Expansion eligibility."
+  },
+  {
+   "text": "These changes could have the effect of increasing the overall morbidity of the Medicaid Expansion population largely beginning in 2027, subject to state implementation plans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends prior risk discussion by projecting increased morbidity from the new eligibility rules."
+  },
+  {
+   "text": "Several other provisions of the OBBBA, such as adjustments to provider taxes and state directed payments beginning in 2028, may have the effect of reducing the amount of federal funding for Medicaid, which could result in changes in the design of Medicaid programs, including coverage of benefits, eligibility, and/or provider payment rates.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific provisions (provider tax and payment adjustments) that could reduce federal Medicaid funding."
+  },
+  {
+   "text": "In particular, New York intends to terminate its Essentials Plan-5, which provided state-subsidized healthcare for individuals from 200% to 250% of the FPL by July 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new fact about New York terminating a state-subsidized plan by a defined date."
+  },
+  {
+   "text": "However, some states have already moved or are planning to exclusively align dual-eligible enrollment under an aligned D-SNP before this timeframe.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing dual-eligible alignment risk by noting some states moving earlier than required."
+  },
+  {
+   "text": "In July 2025, CMS indicated that it would no longer approve new Section 1115 waivers for continuous care coverage or workforce assistance.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new CMS policy halting approval of certain Medicaid waivers, a specific regulatory change."
+  },
+  {
+   "text": "In addition, the OBBBA includes requirements that may reduce the number of members eligible for state Medicaid Expansion programs by requiring work or community engagement by members and for state Medicaid agencies to redetermine member eligibility at more frequent intervals, along with adding a \"Cost Sharing\" or \"Co-Pay\" for certain medical services.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate specific new OBBBA eligibility requirement risk for Medicaid Expansion."
+  },
+  {
+   "text": "These changes could have the effect of increasing the overall morbidity of the Medicaid Expansion population largely beginning in 2027, subject to state implementation plans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Duplicate expansion of morbidity risk projection tied to new eligibility rules."
+  },
+  {
+   "text": "Several other provisions of the OBBBA, such as adjustments to provider taxes and state directed payments beginning in 2028, may have the effect of reducing the amount of federal funding for Medicaid, which could result in changes in the design of Medicaid programs, including coverage of benefits, eligibility, and/or provider payment rates.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate new specific funding-related OBBBA provisions risk."
+  },
+  {
+   "text": "In particular, New York intends to terminate its Essentials Plan-5, which provided state-subsidized healthcare for individuals from 200% to 250% of the FPL by July 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate specific new fact about New York plan termination."
+  },
+  {
+   "text": "The Final Rule was published in the Federal Register on June 25, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate factual statement about rule publication date, no new risk content."
+  }
+ ]
+}

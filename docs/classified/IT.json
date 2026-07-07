@@ -1,0 +1,138 @@
+{
+ "ticker": "IT",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-12",
+ "accession": "0000749251-26-000112",
+ "prior_accession": "0000749251-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 8,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "In August 2025, we launched AskGartner, our new AI-powered tool that gives clients an improved user experience by providing faster, more efficient access to our insights, to licensed users globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new product launch as informational context, not a risk statement."
+  },
+  {
+   "text": "For example, AI technologies that we use may lead to unintended consequences and errors, including generating content that appears correct but is factually inaccurate, misleading or otherwise flawed, or that results in unintended biases and discriminatory outcomes, which could harm our reputation and expose us to liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI errors, bias, and liability exposure."
+  },
+  {
+   "text": "Our balance sheet includes significant amounts of goodwill and intangible assets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about goodwill/intangible assets on balance sheet, standard boilerplate."
+  },
+  {
+   "text": "Impairment of a significant portion of these assets would negatively affect our financial results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement that impairment would negatively affect results, boilerplate risk framing."
+  },
+  {
+   "text": "Our balance sheet includes significant amounts of goodwill and intangible assets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of prior goodwill/intangible asset boilerplate statement."
+  },
+  {
+   "text": "Impairment of a significant portion of these assets would negatively affect our financial results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of prior impairment risk boilerplate statement."
+  },
+  {
+   "text": "Our balance sheet includes goodwill and intangible assets that represent approximately 38% of our total assets at December 31, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific quantification (38% of total assets) to the existing goodwill/intangible asset risk."
+  },
+  {
+   "text": "We are required to amortize certain intangible assets over the useful life of the asset, while goodwill and indefinite-lived intangible assets are not amortized.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard accounting description of amortization treatment, boilerplate."
+  },
+  {
+   "text": "On at least an annual basis, we assess whether there have been impairments in the carrying value of goodwill and indefinite-lived intangible assets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard description of annual impairment testing process, boilerplate."
+  },
+  {
+   "text": "During the year ended December 31, 2025, ongoing weakness in the market as well as changes in the Company\u2019s internal organization structure prompted a revision to the long-term earnings forecast for the Digital Markets business.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new event: revision of earnings forecast for Digital Markets due to market weakness and reorganization."
+  },
+  {
+   "text": "During the year ended December 31, 2025, a goodwill impairment loss of $150.0 million was recognized in the Digital Markets reporting unit.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a concrete new event: a $150.0 million goodwill impairment loss in a specific reporting unit."
+  },
+  {
+   "text": "Third parties may not adhere to the same standards for data quality, security and compliance, potentially leading to unintended data being used in AI models.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding third-party data quality/compliance affecting AI models."
+  },
+  {
+   "text": "Consolidation of technology and service vendors could lead to few viable alternatives, potentially resulting in more widespread operational and/or customer-facing disruptions when critical vendors or service providers experience disruptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about vendor consolidation causing operational disruptions."
+  },
+  {
+   "text": "Finally, both acquisitions and divestitures are subject to continued regulatory scrutiny, which may impede our ability to consummate strategic transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that both acquisitions and divestitures face regulatory scrutiny, expanding on existing M&A risk."
+  },
+  {
+   "text": "Moreover, the demand for our products and services from U.S. government agencies is generally driven by the level of discretionary government program funding.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing government funding risk by tying demand to discretionary funding levels."
+  },
+  {
+   "text": "In 2025, our revenues with U.S. federal government agencies declined approximately $58 million year over year, primarily due to reductions in discretionary spending.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new financial data point: $58 million revenue decline from federal agencies due to spending cuts."
+  },
+  {
+   "text": "Further significant reduction in federal government spending, the absence of an agreement on the federal government budget, a partial or full federal government shutdown or a change in budgetary priorities could reduce demand for our products and services, cancel or delay federal projects, result in the closure of federal facilities and significant personnel reductions and have a material and adverse impact on our business, financial condition, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing government shutdown/funding risk with more detailed potential consequences."
+  },
+  {
+   "text": "As the current geopolitical environment remains unpredictable, we continue to monitor and evaluate the impact, both direct and indirect, of government actions that could adversely impact our business operations and financial performance.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about monitoring geopolitical risk, boilerplate framing."
+  },
+  {
+   "text": "The Company had no outstanding debt under its 2024 revolving credit facility (the \u201c2024 Credit Agreement\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure about no outstanding debt, not describing a risk."
+  },
+  {
+   "text": "The World Bank expects growth to pick up slightly to 2.7% in 2027, as domestic demand benefits from earlier monetary policy easing and trade improves amid declining uncertainty.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General macroeconomic forecast commentary not specific to company risk."
+  },
+  {
+   "text": "The report notes that near-term risks are tilted to the downside, observing growth could falter if trade tensions escalate, barriers rise further, or financial market sentiment deteriorates amid asset price declines, fiscal concerns, or inflation surprises.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General macroeconomic risk commentary, not company-specific."
+  },
+  {
+   "text": "On the upside, firms\u2019 adaptability to new trade conditions could support growth, and AI-related activity could broaden.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General macroeconomic upside commentary, not a specific company risk."
+  },
+  {
+   "text": "For example, disruptive technologies such as machine learning and other AI technologies may significantly alter the market for our offerings in unpredictable ways and reduce customer demand.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk that AI/tech disruption could reduce demand, largely rephrased."
+  },
+  {
+   "text": "We have set near-term environmental targets that have been approved by the Science-Based Targets Initiative (SBTi).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Informational statement about environmental targets, not describing a risk."
+  }
+ ]
+}

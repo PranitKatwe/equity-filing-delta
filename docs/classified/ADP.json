@@ -1,0 +1,73 @@
+{
+ "ticker": "ADP",
+ "sector": "Industrials",
+ "filing_date": "2025-08-06",
+ "accession": "0000008670-25-000037",
+ "prior_accession": "0000008670-24-000024",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "In addition, changes in federal, state or local tax laws and regulations allowing for tax credits (including the non-renewal of such laws) could adversely impact our Tax Credit Services business, which helps clients in the United States realize tax credit opportunities in connection with the hiring of new employees and certain other activities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that changes in tax credit laws could adversely impact the Tax Credit Services business, a concrete and previously unmentioned exposure."
+  },
+  {
+   "text": "Changes in laws or regulations could also cause us to modify our client funds investment strategy, which may reduce the interest income earned on such funds.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific new risk that legal changes could force modification of client funds investment strategy, reducing interest income\u2014a concrete financial impact not previously described."
+  },
+  {
+   "text": "In addition, our payroll and tax processing services involve the collection and disbursement of a significant amount of funds to a large number of federal, state and local tax authorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is descriptive background about the payroll/tax processing service itself, not a statement of risk."
+  },
+  {
+   "text": "Our failure to properly or timely remit taxes on behalf of our clients could result in fines, penalties and interest for which we could be responsible, and could materially adversely affect our reputation, results of operations or financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequences (fines, penalties, reputational harm) of tax remittance failures, elaborating on a known operational risk area already implied by the service description."
+  },
+  {
+   "text": "In November 2024, ADP Canada Co. filed its application for registration with the Bank of Canada as a Payment Services Provider as defined and required under the Retail Payment Activities Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual regulatory filing event without describing any adverse consequence or risk to the business."
+  },
+  {
+   "text": "In addition, the Department of Justice implemented a Data Security Program under Executive Order 14117 restricting certain transfers of U.S. persons\u2019 sensitive data to \u201ccountries of concern\u201d and we have taken appropriate steps to comply.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory constraint (Data Security Program restricting data transfers to countries of concern) that could affect operations."
+  },
+  {
+   "text": "In addition, new computing technologies, including quantum computing, new discoveries in the field of cryptography or other developments could result in a compromise or breach of the algorithms we or our authorized third parties use or have used to encrypt and protect data.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific technological threat (quantum computing) that could compromise encryption and security, not previously disclosed."
+  },
+  {
+   "text": "In addition, as we become increasingly interconnected with our authorized third parties, the security risk of our networks and the larger ecosystem in which we operate is heightened.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing third-party/cybersecurity risk by noting increased interconnection heightens exposure, without introducing a wholly new risk category."
+  },
+  {
+   "text": "The investment community, clients, regulators, and other stakeholders may have evolving and varied expectations regarding our business, culture, and values.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about stakeholder expectations without specifying any concrete business impact."
+  },
+  {
+   "text": "Negative publicity, regardless of whether claims are accurate, about our brand, our solutions, our data, our culture and values, or our partners, vendors, or employees, could adversely affect our reputation, our business, and our financial results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates standard reputational risk language about negative publicity affecting brand and financial results, a common boilerplate risk statement."
+  },
+  {
+   "text": "We publicly share certain information about our corporate social responsibility initiatives and we may face increased scrutiny related to these initiatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to public disclosure of CSR initiatives leading to increased scrutiny, a distinct and previously unmentioned exposure."
+  }
+ ]
+}

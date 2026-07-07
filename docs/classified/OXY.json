@@ -1,0 +1,218 @@
+{
+ "ticker": "OXY",
+ "sector": "Energy",
+ "filing_date": "2026-02-18",
+ "accession": "0001628280-26-009059",
+ "prior_accession": "0000797468-25-000029",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 14
+ },
+ "items": [
+  {
+   "text": "RISK FACTORS The following risk factors, as well as the other information included in this Form 10\u2011K, should be carefully considered.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard introductory framing language common to risk factor sections."
+  },
+  {
+   "text": "These risk factors are not exhaustive, and additional risks and uncertainties, whether known or unknown, or currently believed to be immaterial, may also adversely affect the Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about non-exhaustive risks."
+  },
+  {
+   "text": "Additional risk factors may also be described in registration statements, prospectus supplements or other offering documents that the Company files in connection with the issuance of securities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to other offering documents; procedural boilerplate."
+  },
+  {
+   "text": "Although the risks are presented under separate headings, many are interrelated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about interrelated risk headings."
+  },
+  {
+   "text": "With the completion of the OxyChem Transaction, the Company\u2019s business is more exposed to fluctuations in the markets for oil, NGL and natural gas.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new exposure to oil, NGL and natural gas market fluctuations resulting from the OxyChem Transaction."
+  },
+  {
+   "text": "The Company may be required to repay the $881 million tentative cash tax refund Anadarko received in 2016 before it was acquired by the Company, plus other related cash tax benefits received, plus applicable interest, which as of December 31, 2025, totaled approximately $2.3 billion, if the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, quantified contingent liability risk (up to $2.3 billion) related to a tax refund repayment."
+  },
+  {
+   "text": "Tax Court determines that Anadarko\u2019s $5.2 billion Tronox settlement payment related to a 2014 settlement agreement between Anadarko and Kerr-McGee is not deductible.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific facts about the Tronox settlement tax dispute underlying the liability risk, a concrete new detail."
+  },
+  {
+   "text": "The IRS disallowed the deduction, and the matter remains pending before the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail (IRS disallowance, pending litigation) to the tax dispute risk introduced above."
+  },
+  {
+   "text": "Tax Court following trial and closing arguments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural detail about litigation status, not a new risk itself."
+  },
+  {
+   "text": "If the settlement payment is ultimately determined not to be deductible, the Company would be required to repay the tentative cash tax refund Anadarko received, plus other related cash tax benefits received, plus applicable interest.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and elaborates the consequence of the tax dispute already described."
+  },
+  {
+   "text": "The Company has recorded an uncertain tax position for the estimated amount of taxes and interest that may be payable, which is not covered by insurance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds accounting/insurance detail to the previously described tax risk."
+  },
+  {
+   "text": "The Company\u2019s indebtedness could limit financial flexibility and increase vulnerability to adverse conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces indebtedness as a distinct new risk factor affecting financial flexibility."
+  },
+  {
+   "text": "The Company\u2019s level of indebtedness may make it more vulnerable to adverse changes in general economic or industry conditions and could limit the Company\u2019s ability to respond to changing business conditions.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the indebtedness risk in slightly different words without adding new information."
+  },
+  {
+   "text": "Any downgrade or announcement of a potential downgrade of the Company\u2019s credit ratings could increase costs associated with indebtedness or impair the Company\u2019s access to additional indebtedness, financial assurance or other forms of liquidity and such events may occur at unfavorable times due to changing economic and business conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about credit rating downgrade consequences to the indebtedness risk."
+  },
+  {
+   "text": "Changes in U.S. and international tax laws, regulations and interpretations, as well as examinations by taxing authorities, could adversely affect the Company\u2019s effective tax rate, financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces tax law and regulatory change risk as a new heading affecting financial results."
+  },
+  {
+   "text": "Tax laws and their interpretation may change, including through repeal or modification of existing provisions, creating uncertainty regarding their impact on the Company\u2019s tax obligations and cash flows.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the tax law uncertainty risk without new specifics."
+  },
+  {
+   "text": "Additionally, the Company\u2019s tax positions are subject to examination by tax authorities, and the resolution of such matters may differ from amounts recorded in the financial statements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about tax examinations affecting the previously stated tax risk."
+  },
+  {
+   "text": "Governments may increase existing taxes, eliminate tax incentives or enact new taxes, such as windfall profit taxes or taxes targeting the oil and gas industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific examples (windfall profit taxes) to the tax risk."
+  },
+  {
+   "text": "For example, the IRA enacted a 15% corporate alternative minimum tax (CAMT) and a 1% excise tax on net share repurchases.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax provisions (CAMT, excise tax) with concrete financial implications."
+  },
+  {
+   "text": "Furthermore, the recently enacted OBBBA made permanent the 21% corporate tax rate, reinstated 100% bonus depreciation on assets placed in service after January 19, 2025, reinstated the deduction for certain research and development expenses, adjusted deduction limits, imposed new environmental levies and imposed limitations on certain clean energy credits, which may change the Company\u2019s tax liability and compliance costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new legislative changes (OBBBA provisions) with material tax and compliance implications."
+  },
+  {
+   "text": "While the IRA and OBBBA expanded policy support for certain low-carbon projects and enhanced certain tax credits, these benefits remain subject to administrative action, regulatory interpretation and potential legislative repeal.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the tax policy risk to include uncertainty about IRA/OBBBA benefits."
+  },
+  {
+   "text": "For instance, recent executive orders and proposals to rescind or reduce funding for these programs create uncertainty regarding the long-term realization of such credits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about executive orders threatening tax credit realization, building on prior tax risk."
+  },
+  {
+   "text": "Unfavorable changes, interpretations or audit outcomes or sunsetting of certain provisions could result in increased tax liabilities, interest and penalties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about possible negative outcomes, no new specifics."
+  },
+  {
+   "text": "The realization of any of these risks could increase costs, limit access to resources, delay or halt projects or restrict the Company\u2019s ability to operate in certain jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence language without new specific risk."
+  },
+  {
+   "text": "Such developments may also result in litigation, penalties or operational shutdowns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential litigation or shutdowns, no new detail."
+  },
+  {
+   "text": "In addition, restrictions imposed by the U.S. or international governments could limit the Company\u2019s ability to acquire or divest assets, repatriate earnings or maintain licenses and permits necessary for drilling and development.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific operational restrictions (asset transfers, permits) to broader regulatory risk."
+  },
+  {
+   "text": "Currency fluctuations and other economic uncertainties may further impact cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about currency fluctuations without specifics."
+  },
+  {
+   "text": "The Company may be adversely affected by claims, litigation, government investigations and other proceedings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading about litigation risk, standard language."
+  },
+  {
+   "text": "In addition, in connection with the OxyChem Transaction, the Company retained environmental liabilities relating to legacy sites.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new environmental liability retained from the OxyChem Transaction."
+  },
+  {
+   "text": "Furthermore, there are post-closing indemnification obligations for, among other items, (i) such legacy environmental liabilities and (ii) pre-closing liabilities of OxyChem, including pre-closing environmental liabilities, in each case subject to certain limitations and procedures, and Occidental entered into a guaranty in favor of Berkshire Hathaway to guarantee those indemnification obligations of its subsidiaries.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific indemnification obligations and a guaranty involving Berkshire Hathaway, a new material contractual risk."
+  },
+  {
+   "text": "The Company is subject to operational hazards and catastrophic events.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading about operational hazards."
+  },
+  {
+   "text": "The Company\u2019s operations, both onshore and offshore, face risks and hazards inherent to operating in the energy industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about industry risk inherent to operations."
+  },
+  {
+   "text": "The Company conducts offshore operations in the Gulf of America and international locations through certain subsidiaries.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies new operational geography (Gulf of America) and offshore subsidiary structure, a concrete new detail."
+  },
+  {
+   "text": "Offshore operations are vulnerable to unique risks in addition to those listed above, including deep-water technical complexity, logistical and security challenges, a limited number of partners available to participate in projects and more stringent permitting and regulatory requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific offshore risk factors expanding on general operational hazard risk."
+  },
+  {
+   "text": "The Company may also face longer recovery times and higher remediation costs for offshore incidents compared to onshore operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on longer recovery times and higher costs for offshore incidents."
+  },
+  {
+   "text": "Deep-water projects (greater than 1,000 feet) are especially challenging and costly due to limited infrastructure and support services, often requiring more time between discovery and ability to market production, thereby increasing commercial and operational risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific deep-water project risk details expanding offshore risk factor."
+  },
+  {
+   "text": "Costs of compliance with these laws and regulations are significant and can be unpredictable and may require significant capital investment and operating costs, and violations can result in penalties, operational restrictions or cessation of operations in affected areas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic compliance cost language common to regulatory risk sections."
+  },
+  {
+   "text": "In addition, evolving climate-related policies, such as those related to CCUS, monitoring, reporting or control of methane and other GHG emissions, and carbon pricing and associated allowances, credits, taxes, fees or incentives, as well as recent legislative developments such as the OBBBA, could increase costs or reduce demand for certain products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific climate policy and legislative details (OBBBA) to existing regulatory/environmental risk."
+  },
+  {
+   "text": "Some of these laws and regulations provide for strict, joint and several liability, and the Company could be liable for the actions of others, including prior owners or operators of properties or other assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic legal liability language, no new specifics."
+  },
+  {
+   "text": "The Company uses and generates regulated substances in its operations, which have resulted in, and may in the future result in, further environmental remediation costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mention of regulated substances leading to remediation costs, expanding environmental risk."
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "ticker": "ZBH",
+ "sector": "Health Care",
+ "filing_date": "2022-02-25",
+ "accession": "0001564590-22-007160",
+ "prior_accession": "0001564590-21-007163",
+ "model": "claude-sonnet-5",
+ "n_added": 37,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 16,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "We continue to experience a decline in elective surgical procedures globally due to the COVID-19 pandemic.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and continues the pre-existing COVID-19 elective procedure decline risk with updated status."
+  },
+  {
+   "text": "In the third and fourth quarters of 2021, the highly transmissible Delta and Omicron variants resulted in further deferrals of elective surgical procedures, and we believe that staffing shortages at hospitals also contributed to the deferral of such procedures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (Delta/Omicron variants, staffing shortages) to the existing COVID-19 disruption risk."
+  },
+  {
+   "text": "We expect these declines to continue for the duration of the pandemic, and they may be further impacted by COVID-19 variants and resurgences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the existing COVID-19 impact risk by projecting continued declines and variant impact."
+  },
+  {
+   "text": "The COVID-19 global pandemic has had, and we expect it to continue to have, an adverse impact on our financial condition, results of operations and cash flows.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of the pre-existing COVID-19 financial impact risk without new specifics."
+  },
+  {
+   "text": "Our net sales have not returned to pre-pandemic levels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete new fact (net sales below pre-pandemic levels) that expands the existing COVID financial impact risk."
+  },
+  {
+   "text": "It is not certain when our financial condition, results of operations, or cash flows will return to pre-pandemic levels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of the same pre-pandemic recovery uncertainty risk, not a new risk type."
+  },
+  {
+   "text": "In December 2021, our management also initiated a global restructuring program (the \u201c2021 Restructuring Plan\u201d) to reorganize our operations in preparation for the planned spinoff of ZimVie with an objective of reducing costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new corporate action (2021 Restructuring Plan) not previously disclosed."
+  },
+  {
+   "text": "Unanticipated developments could delay, prevent or otherwise adversely affect the planned spinoff.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding potential delays or issues with the planned spinoff."
+  },
+  {
+   "text": "We expect the completion of the spinoff to continue to require significant expenses and management time and effort.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure of expected significant costs and management burden from the spinoff."
+  },
+  {
+   "text": "We will have continuing obligations to ZimVie after the completion of the spinoff, which may cause us to incur additional costs.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk about ongoing obligations to ZimVie after spinoff completion."
+  },
+  {
+   "text": "The planned spinoff, and any subsequent divestiture of our retained interest in ZimVie, could result in substantial tax liability.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific tax liability risk tied to the spinoff transaction."
+  },
+  {
+   "text": "We have announced we intend to retain 19.7% of the outstanding shares of ZimVie common stock upon the spinoff and to divest these shares after the spinoff in a tax-efficient manner.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new plan details (retaining 19.7% stake) not previously disclosed."
+  },
+  {
+   "text": "There can be no assurance that any such divestiture will occur, will occur at a time or times favorable to us, or will occur at prices or on terms favorable to us.",
+   "category": "new_substantive_risk",
+   "rationale": "New uncertainty risk about the terms/timing of the retained stake divestiture."
+  },
+  {
+   "text": "Additionally, there can be no assurance that any such divestiture achieves a desired or any favorable tax 17 treatment.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding tax treatment uncertainty of the divestiture."
+  },
+  {
+   "text": "If the divesture does not achieve a favorable tax treatment, the resulting tax liability to us, to our stockholders, and to ZimVie stockholders could be substantial.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk of substantial tax liability if divestiture fails to achieve favorable treatment."
+  },
+  {
+   "text": "We have experienced such interruptions due to the COVID-19 pandemic, and we may experience such interruptions in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Confirms actual occurrence of previously disclosed operational interruption risk due to COVID-19."
+  },
+  {
+   "text": "For example, China has implemented a volume-based procurement process designed to decrease prices for medical devices and other products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory pricing mechanism (China volume-based procurement) not previously mentioned."
+  },
+  {
+   "text": "Initiatives to limit the growth of general healthcare expenses and hospital costs are ongoing in the markets in which we do business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ongoing cost-containment initiatives, standard boilerplate framing."
+  },
+  {
+   "text": "These initiatives are sponsored by government agencies, legislative bodies and the private sector and include price regulation and competitive pricing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about sponsors of healthcare cost initiatives, boilerplate."
+  },
+  {
+   "text": "For example, China has implemented a volume-based procurement process designed to decrease prices for certain medical devices and other products, which has in the past resulted in, and could in the future result in, reduced margins on covered devices and products, required renegotiation of distributor arrangements, and incurrence of inventory-related charges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the China procurement risk with specific consequences like margin reduction and renegotiation."
+  },
+  {
+   "text": "Pricing pressure has also increased due to continued consolidation among healthcare providers, trends toward managed care, the shift toward governments becoming the primary payors of healthcare expenses, reductions in reimbursement levels and government laws and regulations relating to reimbursement and pricing generally.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of existing pricing pressure risk factors without new specifics."
+  },
+  {
+   "text": "On March 5, 2021, the FCA publicly announced publication of all non-U.S. dollar denominated LIBO rate settings, as well as the 1-week and 2-month U.S. dollar denominated LIBO rate, will permanently cease as of December 31, 2021, and that publication of the overnight and 12-month U.S. dollar denominated LIBO rate settings will permanently cease after June 30, 2023.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory timeline details on LIBOR cessation not previously disclosed."
+  },
+  {
+   "text": "In addition, the FCA announced that immediately after June 30, 2023, the 1-month, 3-month and 6-month U.S. dollar LIBO rates will cease to be provided or, subject to the FCA\u2019s consideration of the case, may be provided on a synthetic basis and no longer be representative of the underlying market and economic reality that they are intended to measure and that representativeness will not be restored.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specific detail on the LIBOR transition timeline, expanding the existing risk."
+  },
+  {
+   "text": "The dates announced by the FCA may change or other administrators of LIBO rates and/or regulators may take further action that could change or otherwise impact the availability and characteristics of LIBO rates, currencies and tenors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the LIBOR uncertainty risk narrative with additional caveats."
+  },
+  {
+   "text": "Any alternative, successor, or replacement rate may not be similar to, or produce the same value or economic equivalence of, the LIBO rate or have the same volume or liquidity as did the LIBO rate prior to its discontinuance or unavailability, which may increase our overall interest expense on unhedged variable rate indebtedness which is currently based on the LIBO rate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the LIBOR replacement risk with specific interest expense implications."
+  },
+  {
+   "text": "The Build Back Better Act proposed an increase in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legislative proposal (Build Back Better Act tax changes) as a risk factor."
+  },
+  {
+   "text": "Global Intangible Low-Taxed Income (\u201cGILTI\u201d) foreign minimum tax rate from 10.5% to 15%, assessing the GILTI tax on a per country basis, reduction of the Foreign-Derived Intangible Income tax benefit, and disallowance of certain corporate interest expense.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific tax law details (GILTI rate increase, per-country assessment) introducing a new financial risk."
+  },
+  {
+   "text": "As a result, any determination that our independent agents and distributors are our employees could have a material adverse effect on our business, financial condition or results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about employee classification risk, likely restating an existing risk without new specifics."
+  },
+  {
+   "text": "F urthermore, the FDA strictly regulates the promotional claims that we may make about approved or cleared products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about FDA regulation of promotional claims, standard regulatory boilerplate."
+  },
+  {
+   "text": "If the FDA determines that we have marketed or promoted a product for off-label use\u2014uses other than those indicated on the labeling cleared by the FDA\u2014we could be subject to fines, injunctions or other penalties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific penalty consequences to the existing off-label marketing risk."
+  },
+  {
+   "text": "Similarly, the separation of states from participation in the EU, such as through the cessation of the UK\u2019s membership in the EU (commonly known as \u201cBrexit\u201d) and the separation of the Swiss and EU medical product markets with the adoption of MDR (commonly referred to as \u201cSwexit\u201d), may result in further regulatory risk and complexity as the former EU member or participant state establishes separate laws and regulations governing medical products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory development (Swexit/MDR separation) not previously disclosed."
+  },
+  {
+   "text": "The legislative and regulatory framework for privacy and data protection issues worldwide is rapidly evolving as countries continue to adopt privacy and data security laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving global privacy laws, standard framing."
+  },
+  {
+   "text": "The issue of new standard contractual clauses (\u201cSCCs\u201d) governing cross-border data transfers between controllers and processors by the EU Commission, in conjunction with related requirements on 26 conducting data transfer impact assessments in respect of cross-border data transfers from the EU and the UK, may involve an increase in our costs of compliance as we transition to those SCCs and subject us to increased scrutiny by EU and UK regulators .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new compliance cost risk tied to new SCCs for cross-border data transfers."
+  },
+  {
+   "text": "The PIPL, which took effect on November 1, 2021, shares many similarities with the EU GDPR.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific law (China's PIPL) as a risk factor not previously mentioned."
+  },
+  {
+   "text": "This includes extraterritorial reach, strict restrictions on transfer of personal information (including in certain situations data localization or prior certification/authorization requirements), compliance obligations and sanctions for non-compliance (of up to 5% of annual turnover or 50 million Yuan).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed compliance obligations and penalties under the newly introduced PIPL risk."
+  },
+  {
+   "text": "It also seeks to impose additional requirements not currently contemplated under the EU GDPR.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on PIPL's additional requirements beyond GDPR, expanding the new China privacy risk."
+  },
+  {
+   "text": "The PIPL may increase our costs of compliance, subject us to enhanced scrutiny from Chinese regulators and affect our cross-border data transfers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing PIPL's business impact (costs, scrutiny) as part of the newly introduced risk."
+  }
+ ]
+}

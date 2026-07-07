@@ -1,0 +1,218 @@
+{
+ "ticker": "GILD",
+ "sector": "Health Care",
+ "filing_date": "2026-02-24",
+ "accession": "0000882095-26-000006",
+ "prior_accession": "0000882095-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 21
+ },
+ "items": [
+  {
+   "text": "Yeztugo is indicated for PrEP to reduce the risk of sexually acquired HIV-1 in certain adults and adolescents who are at risk for HIV-1 acquisition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of Yeztugo's approved indication, not a risk statement."
+  },
+  {
+   "text": "Phase 3 Lenacapavir A once-yearly injection of lenacapavir, an HIV-1 capsid inhibitor, is being evaluated for HIV PrEP.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Pipeline description of lenacapavir's Phase 3 status, informational not risk-related."
+  },
+  {
+   "text": "5 Product Candidates in Oncology Product Candidates Description Regulatory Filings Anitocabtagene autoleucel In collaboration with Arcellx, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Header/table listing product candidates, purely descriptive."
+  },
+  {
+   "text": "Sacituzumab govitecan-hziy A supplemental Biologics License Application has been filed with FDA for sacituzumab govitecan-hziy, a Trop-2 directed antibody and topoisomerase inhibitor conjugate, as a first-line treatment for PD-L1 negative metastatic TNBC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes regulatory filing status for a pipeline product, factual update not a risk."
+  },
+  {
+   "text": "Anitocabtagene autoleucel In collaboration with Arcellx (1) , anitocabtagene autoleucel is being evaluated in patients with relapsed and/or refractory multiple myeloma who have received one to three prior lines of therapy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes clinical evaluation of a pipeline candidate, informational."
+  },
+  {
+   "text": "It is also being evaluated in combination with Merck\u2019s pembrolizumab as a first-line treatment for PD-L1 positive metastatic non-small cell lung cancer (\u201cNSCLC\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes combination therapy trial, informational not risk."
+  },
+  {
+   "text": "European Commission also granted marketing authorization for Yeytuo for use as PrEP to reduce the risk of sexually acquired HIV-1 in adults and adolescents with increased HIV-1 infection risk who weigh at least 35kg.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports EC marketing authorization, factual regulatory update."
+  },
+  {
+   "text": "Lyvdelzi European Commission granted conditional marketing authorization for Lyvdelzi for the treatment of PBC in combination with UDCA in adults who have an inadequate response to UDCA alone, or as monotherapy in those unable to tolerate UDCA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports EC conditional authorization for Lyvdelzi, factual update."
+  },
+  {
+   "text": "(6) In October 2025, Gilead entered into settlement agreements to resolve patent litigations with Lupin Ltd., Cipla Ltd. and Laurus Labs Ltd., generic manufacturers that filed abbreviated new drug applications with FDA to market generic versions of Biktarvy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes settlement of patent litigation, reduces rather than introduces risk."
+  },
+  {
+   "text": "Under the agreements, which are subject to standard acceleration provisions, no generic entry is expected prior to April 1, 2036 in the U.S. for Biktarvy tablets containing bictegravir (50 mg), FTC (200 mg) and TAF (25 mg).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Details settlement terms delaying generic entry, factual and risk-reducing."
+  },
+  {
+   "text": "As of the end of 2025, these facilities include: \u2022 Foster City, California: We conduct manufacturing process development, analytical method development and formulation and device development activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes facility activities, purely descriptive."
+  },
+  {
+   "text": "We also utilize the La Verne facility for clinical manufacturing of our sterile drug products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes facility use for manufacturing, descriptive."
+  },
+  {
+   "text": "We also perform quality control testing, labeling, packaging and final release of many of our products at the Cork facility, which are distributed to the EU and other international markets through our facility in Dublin.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes facility operations, descriptive."
+  },
+  {
+   "text": "Gilead is an equal opportunity employer and is committed to inclusive practices, which are integral to Gilead\u2019s culture and business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic corporate culture statement, no risk content."
+  },
+  {
+   "text": "According to scores on targeted items, these efforts have resulted in sizable improvements in those areas of focus in 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about improvements, no specific risk."
+  },
+  {
+   "text": "For example, the administration has taken a number of actions aimed at lowering U.S. drug prices and testing new Medicare and Medicaid payment models.",
+   "category": "expanded_existing_risk",
+   "rationale": "References broader government actions on drug pricing, expanding existing pricing regulation risk."
+  },
+  {
+   "text": "536/2014, Directive 2005/28/EC and the ICH Good Clinical Practice guidelines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Citation of regulatory framework, no new risk content."
+  },
+  {
+   "text": "536/2014, which entered into application in January 2022 and became fully applicable in January 2025, requires that clinical trial applications and related information and data be submitted through the Clinical Trials Information System, a coordinated system that supports submission, assessment and oversight of all clinical trials in the EU.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes EU clinical trial submission system, procedural detail."
+  },
+  {
+   "text": "In addition, future cell therapy products may be subject to a Risk Evaluation and Mitigation Strategy (\u201cREMS\u201d), which is a drug safety program that the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of REMS program, definitional."
+  },
+  {
+   "text": "Food and Drug Administration (\u201cFDA\u201d) may require for certain drugs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines FDA REMS requirement, definitional."
+  },
+  {
+   "text": "For example, until June 2025, Yescarta and Tecartus were subject to a REMS requirement to manage the risks of cytokine release syndrome and neurologic toxicities, which required a certification process for hospitals and clinics that dispense the products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific historical REMS requirement for named products, adds detail to existing regulatory risk."
+  },
+  {
+   "text": "Additionally, we face public attention and scrutiny related to the complex decisions we make concerning the pricing, global supply and distribution, allocation and intellectual property of our commercialized products, as well as other factors that may contribute to patient access to our medicines, all of which may adversely affect our business and our corporate reputation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about public scrutiny over pricing and access decisions."
+  },
+  {
+   "text": "In January 2026, the Department of Health and Human Services selected Biktarvy for Medicare negotiation of Medicare prices that will be effective beginning in 2028, and more of our products may be selected in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk that Biktarvy is selected for Medicare price negotiation with defined effective date."
+  },
+  {
+   "text": "We continue to evaluate the potential impact of the IRA on our business, but we anticipate that the negotiated Medicare price will be substantially lower than the price we currently charge in Medicare and may also lead to increased rebates we owe Medicaid agencies and reduced ceiling prices charged to 340B covered entities.",
+   "category": "new_substantive_risk",
+   "rationale": "Details anticipated substantial price reduction and increased rebate obligations from IRA, a concrete financial risk."
+  },
+  {
+   "text": "Congress has enacted the One Big Beautiful Bill (\u201cOBBB\u201d) Act, which made several changes to the Medicaid program, such as imposing Medicaid work requirements and imposing stricter eligibility and enrollment standards.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new legislative changes (OBBB Act) affecting Medicaid eligibility, a new regulatory risk."
+  },
+  {
+   "text": "Most of these policies will take effect in 2027.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Just a timing detail for prior statement, no new risk."
+  },
+  {
+   "text": "In addition, the OBBB Act did not extend the availability of enhanced premium subsidies, which subsidize patient premiums for Affordable Care Act (\u201cACA\u201d) health insurance exchange 19 plans and expired at the end of 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of expired ACA premium subsidies not being extended, a new regulatory/market risk."
+  },
+  {
+   "text": "If these subsidies are not reinstated, it is possible that patient enrollment in ACA exchange plans could substantially decrease.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on potential consequence (enrollment decrease) tied to the previously stated subsidy risk."
+  },
+  {
+   "text": "Department of Commerce initiated an investigation on imports of pharmaceuticals and pharmaceutical ingredients, which may result in the current U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of a Commerce Department investigation into pharmaceutical imports possibly leading to tariffs."
+  },
+  {
+   "text": "Presidential administration taking actions to impose potential tariffs or importation quotas in the pharmaceutical industry that could increase our manufacturing costs and adversely impact our supply chain resiliency and business competitiveness.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential tariff/quota actions and their impact on supply chain, expanding the import investigation risk."
+  },
+  {
+   "text": "For example, in September 2025, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Date marker with no substantive content on its own."
+  },
+  {
+   "text": "Presidential administration announced plans to impose up to 100% tariffs on imported branded or patented pharmaceuticals, subject to certain exceptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of up to 100% tariffs on branded pharmaceuticals."
+  },
+  {
+   "text": "The specific impact remains uncertain at this time and is subject to the timing, scope and duration of any tariffs and actions imposed as well as broader tariffs and actions outside of the pharmaceutical industry. \u2022 The current U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes uncertainty of tariff impact, expanding on the previously stated tariff risk."
+  },
+  {
+   "text": "Presidential administration has indicated that it plans to pursue additional policies aimed at lowering prescription drug costs.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of administration's intent to lower drug prices, consistent with prior framing."
+  },
+  {
+   "text": "The administration has issued multiple executive orders and statements that illustrate the intent to require pharmaceutical manufacturers to offer U.S. prices based on most favored-nation (\u201cMFN\u201d) lowest prices and that direct specified agency heads to take certain actions if significant progress towards such MFN prices is not achieved.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific MFN pricing policy risk via executive orders directing agency action."
+  },
+  {
+   "text": "In July 2025, the President sent letters to Gilead and other pharmaceutical manufacturers outlining the steps the President believes pharmaceutical manufacturers must take to bring down the prices of prescription drugs in the U.S. to match the MFN price offered in other developed nations.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new fact that the President sent a direct letter to Gilead demanding MFN pricing, a company-specific risk."
+  },
+  {
+   "text": "The administration has announced agreements with certain manufacturers, including Gilead, around these issues and has stated that it has paused the implementation of tariffs on pharmaceuticals to allow for negotiation of agreements with additional manufacturers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details ongoing negotiations and tariff pause, expanding on the MFN/tariff risk already introduced."
+  },
+  {
+   "text": "In December 2025, Gilead reached an agreement with the administration to (1) pause the imposition of Section 232 tariffs on Gilead for three years, (2) implement MFN prices in Medicaid for select existing and future launched products, (3) set a new direct-to-patient price for Epclusa and (4) return a portion of increased international revenues to the U.S. if the U.S. government is successful in increasing drug prices abroad.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new agreement terms directly affecting Gilead's pricing, tariffs, and revenue obligations."
+  },
+  {
+   "text": "In addition, the administration announced several demonstration projects that would implement MFN pricing for certain Medicare Part B and Part D drugs through manufacturer inflation rebates based on utilization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on MFN demonstration projects for Medicare drugs, expanding the pricing risk already noted."
+  },
+  {
+   "text": "The administration also recently called on Congress to enact legislation codifying the administration\u2019s MFN deals, which are in part being effectuated under the GENErating cost Reductions fOr U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on legislative efforts to codify MFN deals, expanding the same pricing risk theme."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "ticker": "TSN",
+ "sector": "Consumer Staples",
+ "filing_date": "2025-11-10",
+ "accession": "0000100493-25-000095",
+ "prior_accession": "0000100493-24-000119",
+ "model": "claude-sonnet-5",
+ "n_added": 5,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Changes in import and export policies, including trade restrictions, new or increased tariffs or quotas, and customs restrictions, could require us to change the way we conduct business, impose increased costs, and reduce demand for our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding changes in trade/import-export policies, tariffs, and customs restrictions that could increase costs and reduce demand."
+  },
+  {
+   "text": "Tariffs and trade disputes could increase the price of our goods in the affected countries and result in less or no demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the tariff/trade risk introduced in the prior sentence by specifying the effect on pricing and demand in affected countries."
+  },
+  {
+   "text": "In addition, tariffs could affect the pricing of commodities and raw materials, and this could impose additional costs on us or on our suppliers, which could affect the costs and availability of sourcing of such commodities and raw materials.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands the tariff risk theme by detailing effects on commodity and raw material sourcing costs."
+  },
+  {
+   "text": "The extent and duration of tariffs is subject to change, and this could adversely affect general economic conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the tariff risk discussion by noting uncertainty in duration and broader economic impact, an extension of the same risk theme."
+  },
+  {
+   "text": "In times of economic uncertainty, consumers may purchase fewer products or shift to lower-priced offerings such as private-label goods, and this could adversely affect our product sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk about consumer behavior shifting to lower-priced products during economic uncertainty, unrelated to the tariff discussion."
+  }
+ ]
+}

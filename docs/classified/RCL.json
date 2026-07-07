@@ -1,0 +1,193 @@
+{
+ "ticker": "RCL",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-11",
+ "accession": "0000884887-26-000007",
+ "prior_accession": "0000884887-25-000050",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "As announced in October 2025, we also expect to launch our \"Points Choice\" program in 2026, which will enable guests to apply loyalty points earned on any Royal Caribbean Group brand toward the brand program of their choice.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces a new loyalty program feature; informational, not a risk statement."
+  },
+  {
+   "text": "The conditions for effectiveness, including financing commitments, also became effective during the quarter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about financing conditions becoming effective; no risk content."
+  },
+  {
+   "text": "In October 2025, we executed definitive building contracts for the first four ships in the initial order of 10 ships for Celebrity River Cruises which was launched in January 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of new shipbuilding contracts, not a risk statement."
+  },
+  {
+   "text": "Subsequently, in January 2026, Celebrity River Cruises announced a commitment for 10 new ships that will expand its river cruise fleet to 20 vessels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual announcement of fleet expansion, informational not risk-related."
+  },
+  {
+   "text": "We also generate revenues from operating certain port facilities and management related services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about revenue sources, no risk framing."
+  },
+  {
+   "text": "46% 54% Shoreside - International 41% 59% Shipboard 78% 22% Private Destinations (1) 73% 27% ___________________________________________________ (1) Includes private destinations such as our Perfect Day and Royal Beach Club Collections, and Labadee based employees .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Data table update, purely informational."
+  },
+  {
+   "text": "Virgin Islands, and the Mediterranean Sea ECA which came into force in May 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific regulatory timing detail to existing environmental regulation risk."
+  },
+  {
+   "text": "Additionally, the Norwegian Sea ECA and the Canadian Arctic ECA are coming into force in March 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on additional ECAs coming into force, extending existing environmental compliance risk."
+  },
+  {
+   "text": "Additionally the UK has developed its own ETS which will enter into force on July 1, 2026 and require the purchase of carbon emission allowances specific for the UK.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new UK ETS requirement to existing carbon regulation risk."
+  },
+  {
+   "text": "Based on our current deployment and current prices of the UK ETS allowances, we do not expect this regulation to have a material impact on our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Mitigating statement about immaterial impact, cautionary boilerplate."
+  },
+  {
+   "text": "The FuelEU Maritime regulation did not have a material impact on our 2025 operations, and we do not expect it to have a material impact on our 2026 results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of no material impact from regulation, boilerplate."
+  },
+  {
+   "text": "Although key elements of the Fit for 55 package have been adopted, implementation measures by EU Member States and interpretative guidance continue to evolve.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about evolving regulatory implementation, restates known uncertainty."
+  },
+  {
+   "text": "As a result, regulatory requirements may vary by jurisdiction and may evolve over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory variability and evolution."
+  },
+  {
+   "text": "These rules did not have a material impact on our results of operations for the year ended December 31, 2024 and 2025, respectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of no material impact for prior years, boilerplate."
+  },
+  {
+   "text": "These rules will apply to the majority of our earnings starting in 2026, and we do not expect these rules to have a material impact on our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that new tax rules will apply to majority of earnings starting 2026, expanding existing tax risk disclosure."
+  },
+  {
+   "text": "For additional details of risks related to our tax status, refer to Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, no substantive content."
+  },
+  {
+   "text": "Liberty served as President and Chief Executive Officer from January 2022 through November 2025, when he was appointed as Chairman and Chief Executive Officer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual leadership transition detail, not a risk."
+  },
+  {
+   "text": "Development activities may be delayed or adversely affected by construction challenges, supply chain disruptions, weather events, labor availability, environmental or site-specific conditions, and delays in obtaining or maintaining permits, any of which could adversely affect our ability to complete our projects as planned.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks related to development project delays from construction, supply chain, weather, labor, and permitting issues."
+  },
+  {
+   "text": "We may also face opposition or challenges from non-governmental organizations (NGOs), community groups, or other stakeholders, including claims related to environmental impact, cultural heritage, or land use.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of opposition from NGOs and community groups on environmental/cultural/land use grounds."
+  },
+  {
+   "text": "Such challenges may result in litigation, administrative proceedings, reputational harm, or additional compliance costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences (litigation, reputational harm) stemming from the newly introduced opposition risk."
+  },
+  {
+   "text": "Once operational, these projects are also subject to ongoing regulatory, labor and political risks in foreign jurisdictions, including changes in government policies, tax or regulatory regimes, any of which could disrupt operations or increase costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new ongoing regulatory, labor, and political risks tied to foreign jurisdiction operations of new projects."
+  },
+  {
+   "text": "These projects can also strain our management, personnel, operations and systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the operational risk discussion to note strain on management and systems from new projects."
+  },
+  {
+   "text": "There can be no assurance that we will declare or pay dividends in the future or that we will repurchase shares pursuant to our share repurchase program consistent with historical amounts or at all.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing uncertainty about future dividends/repurchases without new substance."
+  },
+  {
+   "text": "Although we currently pay a quarterly cash dividend and we have adopted a share repurchase program, we are not obligated to pay cash dividends or to repurchase a specified number or dollar value of shares under share repurchase program or at all.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing disclosure that dividends/repurchases are not guaranteed."
+  },
+  {
+   "text": "The level of dividends and amount, timing, and purchases under our share repurchase program, if any, are influenced by many factors and may fluctuate based on our operating results, cash flows, and priorities for the use of cash, and the market price of common stock.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of factors influencing dividend/repurchase decisions, no new risk."
+  },
+  {
+   "text": "In addition, we cannot guarantee that our share repurchase program will be fully consummated or that it will enhance long-term shareholder value.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates uncertainty about share repurchase program completion and value impact."
+  },
+  {
+   "text": "From 2026 onwards, substantially all of our ships will be operated by companies that are within the United Kingdom tonnage tax regime (\u201cU.K. tonnage tax\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new structural tax regime change (UK tonnage tax) affecting nearly all ships starting 2026."
+  },
+  {
+   "text": "To the extent the OECD \u201cInternational Shipping Income\u201d exclusion tax laws (and associated guidance) change, or we do not continue to meet the applicable qualifications, we may be required to pay higher Global Minimum Tax in the United Kingdom (or other jurisdictions), adversely impacting our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of higher Global Minimum Tax exposure tied to OECD shipping income exclusion changes."
+  },
+  {
+   "text": "To the extent tax treaties are changed or revoked, we may be required to pay higher income tax in these jurisdictions, adversely impacting our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing tax risk to include potential impact from changes to tax treaties."
+  },
+  {
+   "text": "Our use of emerging technologies, including artificial intelligence, may present business, compliance and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new categorical risk about AI-related business, compliance, and reputational exposure."
+  },
+  {
+   "text": "The Company depends on technology and automated systems, including emerging technologies, such as artificial intelligence (\u201cAI\u201d), to operate its business, including but not limited to, computerized reservation systems, ship operations and crew scheduling systems, shipboard internet services, cloud-based technologies, technical and business operations systems and commercial websites and applications, including our mobile app.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing technology dependency risk to explicitly include AI systems."
+  },
+  {
+   "text": "As global technology\u2011related regulatory frameworks continue to evolve, our use of these technologies may subject us to additional compliance obligations, including restrictions on the usage of certain technologies or additional requirements on data usage and transparency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on evolving regulatory frameworks specifically affecting AI/technology compliance obligations."
+  },
+  {
+   "text": "Compliance with these regulations could increase our compliance costs, expose us to regulatory enforcement or legal liability, constrain our ability to implement or expand technology\u2011based solutions, or otherwise affect the timing and effectiveness of our initiatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific compliance cost and enforcement consequences tied to the new AI regulatory risk."
+  },
+  {
+   "text": "In addition, emerging technologies may not always perform as intended, may generate inaccurate outputs, or may depend on third\u2011party systems that we do not control.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI/emerging tech performance failures and third-party dependency issues."
+  },
+  {
+   "text": "Any such operational deficiencies could impair the performance of systems that support key business functions, disrupt guest\u2011facing experiences, or subject us to legal liability, which could adversely affect our business, reputation, financial condition, or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details operational and reputational consequences stemming from the newly introduced AI performance risk."
+  }
+ ]
+}

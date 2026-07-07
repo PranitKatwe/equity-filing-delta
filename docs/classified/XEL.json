@@ -1,0 +1,93 @@
+{
+ "ticker": "XEL",
+ "sector": "Utilities",
+ "filing_date": "2026-02-25",
+ "accession": "0000072903-26-000009",
+ "prior_accession": "0000072903-25-000029",
+ "model": "claude-sonnet-5",
+ "n_added": 15,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Our ability to reliably serve customer demand depends on the availability of sufficient generation and capacity resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "States a general resource adequacy risk that is typically already part of utility risk factor sections; framed generically without new specifics."
+  },
+  {
+   "text": "Changes in load growth, resource retirements, accreditation of resources, generation performance, extreme weather events, or delays in development or delivery of new resources, including the necessary transmission infrastructure, could affect resource adequacy and system reliability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new factors (load growth, resource retirements, accreditation, extreme weather, transmission delays) that could affect reliability, adding concrete new risk drivers."
+  },
+  {
+   "text": "Additionally, increasing uncertainty surrounding federal policy to renewable deployment could negatively impact wind, solar and storage development.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk: federal policy uncertainty negatively impacting renewable (wind/solar/storage) development."
+  },
+  {
+   "text": "Enterprise level financial and customer billing technology systems may be unable to support the increasing customer complexity.",
+   "category": "new_substantive_risk",
+   "rationale": "Raises a new specific operational risk that billing/financial IT systems may not scale with customer complexity."
+  },
+  {
+   "text": "Our current wildfire mitigation initiatives may not be effective in preventing or reducing ignitions and wildfire-related losses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing wildfire risk disclosure by specifically questioning effectiveness of current mitigation initiatives."
+  },
+  {
+   "text": "Also, suppliers of key assets critical to long-term planning may be limited, creating vendor concentration risk that could increase costs and negatively impact investment execution.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk around vendor concentration for key assets affecting costs and investment execution."
+  },
+  {
+   "text": "We could suffer negative impacts to our reputation as a result of actual or perceived fraud, misconduct, legal or regulatory violations, violations of corporate policies, inappropriate use of social media, or other actions by our employees, directors, third-party contractors or suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic language about reputational harm from misconduct/fraud, a standard boilerplate risk disclosure."
+  },
+  {
+   "text": "Reputational damage could have a material adverse effect and could result in negative customer perception, litigation and increased regulatory oversight.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consequences of reputational damage, standard cautionary language."
+  },
+  {
+   "text": "Regulators may challenge rate increases due to increased customer affordability pressures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk tied to customer affordability pressures challenging rate increases."
+  },
+  {
+   "text": "Growth in large load customers, including data centers, may increase customer concentration, capital requirements and revenue variability risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk driver: growth in large load customers like data centers increasing concentration and capital risk."
+  },
+  {
+   "text": "Additional demand from a limited number of customers may increase our credit risk exposure and require incremental infrastructure investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the large customer concentration risk just introduced by adding credit risk and infrastructure investment implications."
+  },
+  {
+   "text": "18 Table of Contents Increasing costs of our defined benefit retirement plans and employee benefits may adversely affect our results of operations, financial condition or cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk related to rising costs of defined benefit retirement plans."
+  },
+  {
+   "text": "Advancements in artificial intelligence and large language models may increase cybersecurity threats and operational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding AI/LLM advancements increasing cybersecurity threats and operational risks."
+  },
+  {
+   "text": "Threat actors may use artificial intelligence to enhance their attacks, increasing the frequency, sophistication and potential impact of cyber incidents affecting our IT and OT environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more specific detail on how AI could be used by threat actors, expanding the AI-cybersecurity risk just introduced."
+  },
+  {
+   "text": "The potential for unprecedented load growth and the need for additional generation resources to support such growth may further impact the timing or achievement of our climate goals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk linking unprecedented load growth to potential delays in achieving climate goals."
+  }
+ ]
+}

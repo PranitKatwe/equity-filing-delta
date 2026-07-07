@@ -1,0 +1,138 @@
+{
+ "ticker": "MMM",
+ "sector": "Industrials",
+ "filing_date": "2026-02-03",
+ "accession": "0000066740-26-000014",
+ "prior_accession": "0000066740-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Compliance with rapidly changing tariffs and trade restrictions may require significant time and resources, and in turn increase our cost of doing business, and could result in fines and penalties or reputational harm if we are found to not be in compliance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about tariff/trade compliance costs, fines, and reputational harm not previously described."
+  },
+  {
+   "text": "Any of the foregoing could have a material adverse effect on the Company\u2019s business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing boilerplate sentence about material adverse effect, adds no new risk content."
+  },
+  {
+   "text": "3M will continue to take actions to address PFAS manufactured prior to the exit.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing PFAS exit risk by noting continued actions on legacy PFAS."
+  },
+  {
+   "text": "For example, the Company's water treatment assets at facilities that manufactured PFAS will continue to treat PFAS from historical manufacturing activities and remediate residual PFAS in waste streams from the Company's operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about water treatment assets as part of the existing PFAS risk disclosure."
+  },
+  {
+   "text": "3M also will continue to work through the disposition of its assets and its interests in manufacturing facilities, which may include dismantling, cleaning and repurposing, and other dispositions of facilities or equipment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on asset disposition activities tied to the existing PFAS exit risk."
+  },
+  {
+   "text": "3M remains in ongoing discussions with customers, government authorities, and other stakeholders and interested parties about customer agreements and the Company's interests in assets and facilities, which may be owned or leased from other parties that have interests and rights related to those facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on stakeholder discussions related to the existing PFAS/asset disposition risk."
+  },
+  {
+   "text": "Examples of PFAS-containing third-party products include lithium ion batteries, printed circuit boards, certain seals and gaskets, and other products widely used in commerce across a variety of industries, and in some cases required by regulatory or industry standards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Gives concrete examples of PFAS-containing products, adding specificity to the existing PFAS risk."
+  },
+  {
+   "text": "12 Table of Contents The Company is also subject to certain risks as a direct and indirect supplier to the U.S. government and other governments, such as those associated with compliance with procurement regulations, as well as the government\u2019s rights to audit and conduct investigations and to terminate contracts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to government supplier compliance, audits, and contract termination."
+  },
+  {
+   "text": "There is also uncertainty as to the extent and timing of funding that may be available for U.S. federal government and other government procurement activities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about funding uncertainty tied to the newly introduced government contracting risk."
+  },
+  {
+   "text": "Failure by the Company or one of its customers, suppliers, vendors, or channel partners to comply with provisions of government contracts or related laws, regulations, executive orders, or other government actions could result in the Company being unable to fulfill its contract commitments under a government contract or inability to realize the full value of such contract.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences of non-compliance within the government contracting risk."
+  },
+  {
+   "text": "Significant administrative, civil or criminal liabilities, including under the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing liability exposure under the government contracting risk theme."
+  },
+  {
+   "text": "False Claims Act or similar enforcement legislation, and suspension or debarment from business with the U.S. or other governments, and reputational harm, could also result from the risks noted above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies legal consequences (False Claims Act, debarment) within the same government contracting risk."
+  },
+  {
+   "text": "15 Table of Contents *The Company\u2019s use of artificial intelligence technologies exposes the Company to risks which could have a material adverse effect on the Company\u2019s business, reputation and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding AI technology use and its potential adverse effects."
+  },
+  {
+   "text": "Artificial intelligence (AI) technologies support a range of the Company\u2019s activities, including research and development, operational processes, customer facing tools, and other business functions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides background detail on how AI is used, expanding the newly introduced AI risk."
+  },
+  {
+   "text": "The use of AI introduces risks that could adversely affect the Company\u2019s business, results of operations, or financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement expanding on the AI risk introduced above."
+  },
+  {
+   "text": "AI systems may produce inaccurate, biased, or incomplete outputs, which could lead to operational errors, reduced product or service quality, or unintentional impacts on business decisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific AI failure modes, expanding the AI risk section."
+  },
+  {
+   "text": "External vendors and third party AI tools may expose the Company to additional risks, including insufficient transparency into model performance, vulnerabilities in underlying technologies, or disruptions in service availability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about third-party AI vendor risks within the same AI risk topic."
+  },
+  {
+   "text": "AI development and deployment also require security, and proper governance of the data used.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on AI governance and security needs, part of the AI risk expansion."
+  },
+  {
+   "text": "Use of AI tools, including third party platforms, increases the risk of unauthorized disclosure, loss, or misuse of confidential, personal, or commercially sensitive information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details data security risks from AI tool use, expanding the AI risk."
+  },
+  {
+   "text": "In addition, there is a risk that employees or contractors could inadvertently input confidential company information or third party proprietary data into AI systems, including systems not designed for secure handling of such information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific scenario of data leakage risk, expanding the AI risk."
+  },
+  {
+   "text": "These actions could result in violations of contractual obligations, data protection requirements, or intellectual property rights, and could expose the Company to legal, regulatory, or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing legal/regulatory consequences from AI risk exposure."
+  },
+  {
+   "text": "Emerging and evolving regulations related to AI use, transparency, safety, and accountability may require additional investment, changes to existing processes, or limitations on the development and application of these technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds regulatory compliance dimension to the AI risk already introduced."
+  },
+  {
+   "text": "Rapid advances in AI may also create competitive pressures or require ongoing investment to maintain effectiveness, and failures to manage, govern, or deploy AI responsibly could impair the Company\u2019s ability to achieve expected efficiencies or strategic objectives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further discusses competitive and operational impacts of AI risk, still part of the same expanded topic."
+  },
+  {
+   "text": "Workforce restructuring activities are expected to deliver benefits, but also impact business groups, functions, and geographies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk concerning workforce restructuring impacts on business operations."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "REGN",
+ "sector": "Health Care",
+ "filing_date": "2026-02-04",
+ "accession": "0000872589-26-000008",
+ "prior_accession": "0001804220-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "36 Table of Contents \u2022 We may be unable to formulate or manufacture our product candidates in a way that is suitable for clinical or commercial use, which would delay or prevent continued development of such candidates and/or receipt of regulatory approval or commercial sale. \u2022 Many of our products are intended to be used in combination with drug-delivery devices, which may result in additional regulatory, commercialization, and other risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General bullet-point risk framing about manufacturing suitability and drug-delivery combination products; restates existing generic development risk categories without new specifics."
+  },
+  {
+   "text": "While the FDA recently approved EYLEA HD for the treatment of RVO and for an every 4-week dosing regimen across approved indications and we continue to work toward FDA approval of the EYLEA HD pre-filled syringe as discussed under Part I, Item 1.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated factual context on EYLEA HD approval status tied to existing regulatory approval risk discussion."
+  },
+  {
+   "text": "\"Business - Programs in Clinical Development - Additional Information - Clinical Development Programs - EYLEA HD,\" there can be no assurance that such milestones (including potential FDA approval of the EYLEA HD pre-filled syringe) will help accelerate any potential future growth of EYLEA HD net product 38 Table of Contents sales.",
+   "category": "expanded_existing_risk",
+   "rationale": "Cautionary language about uncertainty of milestones for an existing product line, elaborating on existing regulatory/commercial risk."
+  },
+  {
+   "text": "Such sales are also impacted by the ability of patients to afford copays and the availability and extent of copay assistance, including copay assistance provided by other third parties (such as not-for-profit patient assistance funds).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new factor\u2014patient copay affordability and third-party assistance funds\u2014affecting sales, not previously described."
+  },
+  {
+   "text": "Further, sales of our marketed products (such as EYLEA HD and EYLEA) in the United States may be adversely impacted by the lack of sufficient copay assistance from not-for-profit patient assistance funds.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the copay assistance risk specifically to EYLEA HD and EYLEA, building on the newly introduced affordability risk."
+  },
+  {
+   "text": "For example, a loss in market share to compounded bevacizumab due to patient affordability constraints impacted U.S. net product sales of EYLEA for the year ended December 31, 2025, as further described under Part II, Item 7.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific real-world example of market share loss to compounded bevacizumab impacting actual 2025 sales\u2014a concrete new competitive/financial risk."
+  },
+  {
+   "text": "\"Management's Discussion and Analysis of Financial Condition and Results of Operations \u2013 Results of Operations.\" If independent not-for-profit patient assistance funds that provide patient copay assistance are unable to support eligible patients, this will likely have a continued negative impact on patient affordability resulting in lower utilization of higher-cost anti-VEGF agents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the impact of patient assistance fund limitations on product utilization, continuing the newly described affordability risk."
+  },
+  {
+   "text": "Product reimbursement and coverage policies and practices, pricing regulations and requirements, and our pricing strategy could change due to various factors beyond our control, which may adversely impact our business, prospects, operating results, and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about pricing/regulatory risk that mirrors standard risk factor language without new specifics."
+  },
+  {
+   "text": "In addition, the current U.S. administration is pursuing other measures to reduce the cost of drugs in the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about administration drug pricing efforts, expanding on existing pricing regulation risk."
+  },
+  {
+   "text": "For example, in May 2025, an executive order directed the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new executive order (May 2025) on drug pricing reforms not previously disclosed."
+  },
+  {
+   "text": "Department of Health and Human Services (\"HHS\") and other federal agencies to take certain steps intended to, among other things, reduce the prices of drugs sold in the United States to match the lowest price available for the same drugs in comparably developed nations (commonly referred to as \"most-favored-nation\" (\"MFN\") pricing).",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new MFN pricing policy directive with concrete regulatory implications."
+  },
+  {
+   "text": "In July 2025, as a follow-up to this executive order, President Trump sent a letter to several pharmaceutical companies (including Regeneron) requesting that within the next 60 days they, among other matters, provide their existing drugs at MFN rates to Medicaid patients, guarantee MFN pricing for newly launched drugs, and provide for direct-to-consumer and direct-to-business distribution models for high-volume, high-rebate prescription drugs.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new development\u2014direct letter from the President to pharma companies including Regeneron demanding pricing changes."
+  },
+  {
+   "text": "In addition, a prior executive order from April 2025 directed the HHS to take appropriate steps to, among other things, modify certain provisions of the Medicare Drug Price Negotiation Program, develop and implement a payment model to reduce the price of high-cost prescription drugs and biological products covered by Medicare, accelerate approval of generic and biosimilar products, and facilitate the ability of states to import pharmaceuticals from other countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a specific new executive order affecting Medicare drug pricing negotiation and importation policy, a new regulatory risk."
+  },
+  {
+   "text": "In response to these executive orders, in December 2025, the Center for Medicare and Medicaid Innovation proposed two mandatory Medicare payment models that, if enacted into law, would apply to certain drugs covered under Medicare Parts B and D and test whether alternative methodologies for calculating inflationary rebates based on international reference pricing would reduce Medicare spending.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific proposed Medicare payment models with potential financial impact on drug reimbursement."
+  },
+  {
+   "text": "It is currently unclear how and to what extent the measures described in this paragraph may be implemented and what impact any such implementation would have on our Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General uncertainty disclaimer about the impact of the above described measures, standard cautionary language."
+  },
+  {
+   "text": "For example, Lynozyfic faces significant actual and potential future competition from other bispecific antibodies and CAR-T cell therapies targeting BCMA, GPRC5D, and/or other targets that are currently approved or in development for the treatment of relapsed/refractory multiple myeloma.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new competitive threats (bispecific antibodies, CAR-T therapies) to a specific product, Lynozyfic."
+  },
+  {
+   "text": "We face increasing competition from Chinese biotechnology and pharmaceutical companies, including Chinese state-owned or state-backed enterprises, with respect to both our marketed products and product candidates.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new competitive risk category from Chinese biotech/pharma companies not previously disclosed."
+  },
+  {
+   "text": "China has become one of the world's leading developers of new drugs, and Chinese companies benefit from a regulatory regime that enables rapid, low-cost clinical trials that facilitate innovation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced Chinese competition risk with additional detail on regulatory advantages."
+  },
+  {
+   "text": "Furthermore, we compete with other large pharmaceutical companies, many of which have invested significantly in China, in acquiring or licensing Chinese product candidates, and we may not be as successful as our competitors in identifying or accessing such assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further extends the Chinese competition risk to licensing/acquisition competition dynamics."
+  },
+  {
+   "text": "In addition, there are proposals to legalize the import of pharmaceuticals from outside the United States into the United States and, as discussed above under \" Product reimbursement and coverage policies and practices, pricing regulations and requirements, and our pricing strategy could change due to various factors beyond our control, which may adversely impact our business, prospects, operating results, and financial condition, \" an executive order from April 2025 directed the Secretary of the HHS to take appropriate steps to facilitate such importation at the state level.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties new import legalization proposals to existing pricing/regulatory risk discussion."
+  },
+  {
+   "text": "Any of the foregoing may materially and negatively impact our business, prospects, operating results, and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all statement about negative business impact, standard risk factor closing language."
+  },
+  {
+   "text": "The functioning of the FDA is affected by a variety of factors, such as shifting government priorities, budgets and funding levels, authorization and payment of user fees, the ability to hire and retain key personnel, as well as other statutory, regulatory, and policy changes impacting HHS, the FDA, or other HHS agencies.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about FDA functioning risks tied to budget/personnel factors, expanding existing regulatory risk."
+  },
+  {
+   "text": "U.S. policy changes have recently been implemented at a rapid pace, and additional changes may occur.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about pace of policy change without specific new risk detail."
+  },
+  {
+   "text": "For example, efforts implemented or commenced in 2025 to reduce the size and budgets of U.S. government agencies, downsize the federal workforce, and restructure parts of the executive branch of the federal government have directly or indirectly impacted agencies that support research and development activities or are otherwise important to our business, including the HHS and the FDA.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes specific 2025 government downsizing efforts directly impacting HHS/FDA operations relevant to the company's business."
+  },
+  {
+   "text": "If legislation, administrative action, or changes in policy prevent the FDA or other regulatory authorities from conducting routine inspections, reviews, or other regulatory activities, it could significantly impact the ability of the FDA to provide feedback on our clinical programs, meet with or engage in other informal interactions with us, and review and process our regulatory submissions (including our pending regulatory submissions) in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how reduced regulatory capacity could delay FDA reviews, building on the newly introduced government efficiency risk."
+  },
+  {
+   "text": "These developments may also reduce the FDA's capacity to engage in pre-approval or guidance meetings or meetings to negotiate labeling or post-marketing commitments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further extends the FDA capacity risk to pre-approval and guidance meetings."
+  },
+  {
+   "text": "Furthermore, changes in FDA personnel and policy (such as the 2025 reductions in communication and policymaking roles) may negatively impact the transparency of agency actions, lead to modifications in FDA approval requirements, and alter the FDA's existing guidance pertinent to the development strategy for our products and product candidates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific 2025 FDA personnel/policy changes affecting transparency and approval requirements, expanding the regulatory risk theme."
+  },
+  {
+   "text": "In addition, the U.S. government has shut down multiple times in the recent past and certain regulatory agencies, such as the FDA, had to furlough employees and stop some of their activities.",
+   "category": "reworded_same_meaning",
+   "rationale": "References historical government shutdowns and FDA furloughs, largely restating known general regulatory risk."
+  },
+  {
+   "text": "A prolonged government shutdown or a widespread freeze on federal funding could significantly impact the ability of the FDA to timely review and process our regulatory submissions or cause other agencies that support the FDA to slow their work.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on shutdown risk by describing potential prolonged impact on FDA review timelines."
+  },
+  {
+   "text": "Any such factors could have a material adverse effect on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing risk statement without new specific content."
+  },
+  {
+   "text": "We have recently received several CRLs from the FDA for regulatory submissions concerning our products or product candidates due to the FDA's findings from inspections at third-party manufacturers responsible for filling drug product.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific recent CRLs from the FDA due to manufacturing inspection findings, a concrete new regulatory setback."
+  },
+  {
+   "text": "These include the July 2025 CRL concerning the BLA for odronextamab in relapsed/refractory FL, which has delayed further any potential FDA approval of odronextamab in this indication; and the October 2025 CRL concerning our regulatory application seeking approval of the EYLEA HD pre-filled syringe (as discussed in Part I, Item 1.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific details of two 2025 CRLs (odronextamab, EYLEA HD pre-filled syringe) representing new concrete regulatory delays."
+  },
+  {
+   "text": "Certain of these risks may be exacerbated as we pursue development of drugs generated by means other than our established \"Trap\" or VelociSuite technologies, such as siRNA gene silencing, genome editing, and targeted viral-based gene delivery and expression.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing technology-related risk to include new modalities like siRNA and gene editing."
+  },
+  {
+   "text": "For example, in May 2025, we and Sanofi announced that one of two Phase 3 trials evaluating itepekimab in adults who were former smokers with inadequately controlled COPD did not meet its primary endpoint, as further described under Part I, Item 1.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new clinical trial failure (itepekimab Phase 3 COPD trial) not previously reported."
+  },
+  {
+   "text": "Furthermore, changes in FDA personnel may alter the FDA's advice with respect to our development strategy and lead to delays or rejections of our clinical trial protocols or data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands on FDA personnel change risk already introduced, applied to clinical trial protocols."
+  },
+  {
+   "text": "The FDA has substantial discretion in the approval process and may either refuse to accept an application for substantive review or 51 Table of Contents may form the opinion after review of an application that the application is insufficient to allow approval of a drug-delivery device.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about FDA discretion in approval process, standard regulatory risk language."
+  },
+  {
+   "text": "For example, in October 2025, the FDA issued a CRL for the regulatory application seeking approval of the EYLEA HD pre-filled syringe, which has delayed further any potential FDA approval of the EYLEA HD pre-filled syringe.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific factual disclosure of the October 2025 CRL for EYLEA HD pre-filled syringe, a concrete new regulatory setback."
+  },
+  {
+   "text": "There can be no assurance that FDA approval of the EYLEA HD pre-filled syringe will be obtained in the currently anticipated time frame or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends uncertainty about approval timing following the newly disclosed CRL."
+  },
+  {
+   "text": "\"Business - Programs in Clinical Development - Additional Information - Clinical Development Programs - EYLEA HD\" for more information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not substantive new risk content."
+  },
+  {
+   "text": "As our products mature, our reliance on our trademarks to differentiate us from our competitors increases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing trademark/IP risk by noting increased reliance as products mature."
+  }
+ ]
+}

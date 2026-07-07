@@ -1,0 +1,218 @@
+{
+ "ticker": "BAX",
+ "sector": "Health Care",
+ "filing_date": "2026-02-12",
+ "accession": "0001628280-26-007733",
+ "prior_accession": "0001628280-25-007201",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "We are subject to certain risks inherent in contracting with GPOs and IDNs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces topic sentence on GPO/IDN contracting risk, which is closely related to an existing risk about dependence on GPO/IDN contracts mentioned elsewhere."
+  },
+  {
+   "text": "Refer to \u201cRisks Relating to Our Business and Financial Performance \u2013 We have experienced disruptions in our supply chain\u201d and \u201cRisks Relating to Our Operations \u2013 We may be unable to obtain sufficient components or raw materials on a timely basis or for a cost-effective price\u201d in Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Pure cross-reference to other risk factor sections, no new content."
+  },
+  {
+   "text": "Risk Factors of this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic filing reference phrase."
+  },
+  {
+   "text": "For more information on patent and other litigation, see Note 7 in Item 8 and \u201cRisks Relating to Legal and Regulatory Matters \u2013 We are party to a number of pending lawsuits and other disputes which may adversely impact us\u201d in Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to litigation disclosure, not a new risk."
+  },
+  {
+   "text": "Risk Factors of this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic filing reference phrase, duplicate of another boilerplate line."
+  },
+  {
+   "text": "We have continued momentum in our 'Start When Certain' culture program to build empowerment in our operational workforce to report and fix hazards, and we are utilizing reports to disseminate learnings network wide. \u2022 Recruitment, Training and Development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive safety culture description, not a risk disclosure."
+  },
+  {
+   "text": "Securities and Exchange Commission.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing SEC, purely administrative."
+  },
+  {
+   "text": "Risks Relating to Our Operations \u2022 Segments of our business are significantly dependent on major contracts with GPOs, IDNs, and certain other distributors and purchasers. \u2022 We may be unable to obtain sufficient components or raw materials on a timely basis or for a cost-effective price.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table-of-contents style list of existing risk factor headings."
+  },
+  {
+   "text": "Risks Related to Our Common Stock \u2022 We recently decreased our quarterly dividend to $0.01 per share and cannot guarantee that we will increase the amount of dividends we pay, or that we will not cease paying dividends. \u2022 Our common stock price has fluctuated significantly and may continue to do so.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table-of-contents style list of existing risk factor headings."
+  },
+  {
+   "text": "(Hillrom), and the ongoing implementation of a simplified operating model and manufacturing footprint.",
+   "category": "expanded_existing_risk",
+   "rationale": "Fragment referencing Hillrom and manufacturing footprint simplification, extending existing integration/restructuring risk discussion."
+  },
+  {
+   "text": "These actions have entailed significant changes across our organizational structure and functional areas and have led to select market exits and may lead to additional market exits as we continue to optimize our portfolio.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details additional consequences (market exits) of ongoing restructuring, expanding an existing organizational change risk."
+  },
+  {
+   "text": "We may also continue to experience diversion of management attention and the loss of experienced leaders with institutional knowledge.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specifics about management distraction and leadership loss tied to existing restructuring/integration risk."
+  },
+  {
+   "text": "Further, we have experienced, and may in the future experience, disputes with buyers of businesses we have divested, or may divest in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of disputes with buyers of divested businesses, not previously covered."
+  },
+  {
+   "text": "In addition, we have yet to achieve our net leverage targets.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific financial shortfall\u2014failure to meet net leverage targets."
+  },
+  {
+   "text": "As a result, as discussed further below, our cash resources may be constrained and our ability to pursue growth initiatives may be limited, which could adversely affect our business and growth prospects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on cash constraint and growth limitation consequences of existing leverage risk."
+  },
+  {
+   "text": "We may not achieve the anticipated benefits of our significant transactions, including the sale of our Kidney Care business and our acquisition of Hillrom.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing transaction risk to explicitly include Kidney Care sale alongside Hillrom acquisition."
+  },
+  {
+   "text": "We have undertaken several significant transactions, including the sale of our Kidney Care business and our acquisition of Hillrom, and we may fail to achieve the anticipated benefits of these transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands existing M&A risk to cover both Kidney Care sale and Hillrom acquisition."
+  },
+  {
+   "text": "As part of our strategy to realign our product portfolio, we sold our Kidney Care business in January 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual detail (timing) supporting the broader existing divestiture risk narrative."
+  },
+  {
+   "text": "While the sale allowed us to repay some of our outstanding indebtedness, as discussed in \u201cLiquidity and Capital Resources\u201d in Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statements section, informational not risk-adding."
+  },
+  {
+   "text": "Management's Discussion of Analysis and Financial Condition and Results of Operations and in Note 5 in Item 8. of this Annual Report on Form 10-K, and achieve related interest expense savings, the complexity of separating the Kidney Care business resulted in various challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically discloses new challenges from separating the Kidney Care business, a concrete new risk detail."
+  },
+  {
+   "text": "In addition, we acquired Hillrom in 2021 and continue to work to fully integrate it into our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates ongoing Hillrom integration risk already known, adding continuity detail."
+  },
+  {
+   "text": "Certain aspects of the integration have taken longer than originally anticipated.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new fact that integration has taken longer than anticipated, indicating a specific new setback."
+  },
+  {
+   "text": "This has resulted in, and may continue to result in, additional expenses and other challenges as we work to complete the integration, including with respect to consolidating certain operations and functions and integrating technology systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details ongoing expenses and challenges from integration, expanding existing risk."
+  },
+  {
+   "text": "In addition to the transactions referenced above, other strategic transactions we have undertaken or strategic transactions we may undertake in the future could subject us to various risks and additional costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about future strategic transactions carrying risk, no specific new content."
+  },
+  {
+   "text": "See \u201cRisks Relating to Our Common Stock\u2014We recently decreased our quarterly dividend to $0.01 per share and cannot guarantee that we will increase the amount of dividends we pay, or that we will not cease paying dividends.\u201d Our level of indebtedness can also constrain our flexibility in pursuing other growth strategies and responding to unanticipated or adverse impacts on our business and operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on how indebtedness constrains flexibility, building on existing debt risk."
+  },
+  {
+   "text": "Further, our indebtedness may impact our ability to meet our other financial obligations, including our ability to make required contributions to our pension plans, which could lead to significant liability and reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk that debt could impair ability to fund pension obligations, causing liability and reputational harm."
+  },
+  {
+   "text": "There is no guarantee we will be able to maintain our investment grade rating or prevent further downgrades, which could further increase our cost of borrowing funds in the future, negatively impact the terms of our financing arrangements and reduce our access to capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing credit rating/borrowing cost risk with more detail on downgrade consequences."
+  },
+  {
+   "text": "With the healthcare market\u2019s increased focus on asset and resource efficiency, as well as reimbursement constraints and competitive dynamics (including consolidation within healthcare systems, as discussed below in \u201cContinued consolidation in the health care industry or additional governmental controls exerted over pricing and access in key markets could lead to increased demands for price concessions or limit or eliminate our ability to sell to certain of our significant market segments\u201d), we have seen margins for some of our products decline and they may continue to do so over time.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific trend of declining margins on some products due to market dynamics."
+  },
+  {
+   "text": "For example, new clinical practices implemented after Hurricane Helene appear to have reset demand levels in our IV solutions business and negatively impacted sales of certain of our premix products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new event (Hurricane Helene) causing demand shifts and sales impact in IV solutions business."
+  },
+  {
+   "text": "See \u201cOur significant indebtedness requires us to use a substantial amount of our cash flow for debt service and constrains our ability to pursue growth strategies and advance our R&D capabilities\u201d above.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor section."
+  },
+  {
+   "text": "Our ability to achieve these anticipated benefits also depends on factors over which we may have limited control, including competitive pressures and evolving regulatory requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about uncertain factors affecting benefit realization."
+  },
+  {
+   "text": "We have experienced disruptions in our supply chain .",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates existing supply chain disruption risk already referenced elsewhere in filing."
+  },
+  {
+   "text": "In addition, we are working to continue to simplify our operating model and manufacturing footprint.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing narrative about simplifying operating model and manufacturing footprint."
+  },
+  {
+   "text": "Continued consolidation in the health care industry or additional governmental controls exerted over pricing and access in key markets could lead to increased demands for price concessions or limit or eliminate our ability to sell to certain of our significant market segments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reasserts existing risk about healthcare consolidation and pricing pressure with added detail."
+  },
+  {
+   "text": "Numerous initiatives and reforms by legislators, regulators, and third-party payers to curb the rising cost of health care, and to increase access to care, have catalyzed a consolidation of aggregate purchasing power within many of the markets in which we sell our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional context on regulatory reforms driving purchasing consolidation, expanding existing pricing risk."
+  },
+  {
+   "text": "Additionally, a growing number of countries have instituted or are contemplating introducing regional or national tender processes driven primarily by price.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding growing use of price-driven tender processes in various countries."
+  },
+  {
+   "text": "In some cases, such processes may favor local companies to multinational companies like us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the new tender process risk by noting competitive disadvantage versus local companies."
+  },
+  {
+   "text": "In other instances, multinational companies, including Baxter, are subject to a separate tender bidding process in which they compete only with each other and not with domestic companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the tender bidding risk specific to multinational companies like Baxter."
+  },
+  {
+   "text": "Further, in certain markets, the regulatory process through which new medical devices are approved may be faster and/or less burdensome for domestic companies compared to multinational companies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory disadvantage risk for multinational companies in device approval processes."
+  },
+  {
+   "text": "As the health care industry (including healthcare systems, distributors, manufacturers, providers, and insurers) consolidate or form strategic alliances and as new entrants emerge, competition to provide products and services is expected to continue to intensify, which may result in increased pricing pressures, decreased average selling prices, and the exclusion of certain suppliers from important market segments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competitive/consolidation risk with detail on pricing pressure and supplier exclusion."
+  }
+ ]
+}

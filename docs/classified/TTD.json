@@ -1,0 +1,218 @@
+{
+ "ticker": "TTD",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-27",
+ "accession": "0001671933-26-000014",
+ "prior_accession": "0001671933-25-000029",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 39
+ },
+ "items": [
+  {
+   "text": "If this market develops slower or differently than we expect, our business, growth prospects and financial condition could be adversely affected. \u2022 If we fail to innovate or make the right investment decisions in our platform and related offerings, we may fail to attract and retain advertisers and advertising agencies and our revenue and results of operations may decline.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk that if the advertising market develops slower or differently than expected, or if the company fails to innovate, revenue and financial condition could decline."
+  },
+  {
+   "text": "We empower ad buyers to create, manage and optimize digital advertising campaigns across ad formats, channels and devices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes the company's business function; not a risk statement."
+  },
+  {
+   "text": "Our platform\u2019s depth, artificial intelligence (\u201cAI\u201d) capabilities and rich ecosystem of inventory, publisher and data partner integrations enable superior reach and decisioning for clients.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of platform capabilities, not a risk."
+  },
+  {
+   "text": "Our Industry Digital advertising is reported to represent the largest and fastest-growing segment of the global advertising industry, with estimated annual spend of over $700 billion and representing more than 70% of the total market spend.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Industry size statistic, contextual/business description not a risk."
+  },
+  {
+   "text": "Expansion of Global Advertising TAM and Programmatic Advertising.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading describing market trend, no risk stated."
+  },
+  {
+   "text": "The total addressable market (\u201cTAM\u201d) for global advertising is reported to have surpassed $1 trillion for the first time in 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Market size statistic, purely descriptive."
+  },
+  {
+   "text": "At the same time, advertisers are shifting more and more of their budgets to programmatic advertising as they more precisely target audiences through high-performance, decisioned advertising campaigns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General industry trend description, not a risk."
+  },
+  {
+   "text": "AI Driven Personalization and Automation .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading, no risk content."
+  },
+  {
+   "text": "AI is fundamentally changing the media landscape, from the creative process all the way to the execution of advertising campaigns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about AI's impact on industry, descriptive not risk."
+  },
+  {
+   "text": "As AI capabilities improve and as adoption of these tools increase, more personalized content at scale will be delivered with more predictive targeting and improved campaign automation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes anticipated industry evolution, not a risk."
+  },
+  {
+   "text": "AI-driven platforms are poised to benefit from this evolution as the industry moves toward greater automation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive framing about AI-driven platforms benefiting, not a risk."
+  },
+  {
+   "text": "Prioritization of Data and Measurement in a Privacy-First World.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading, no risk content."
+  },
+  {
+   "text": "In an increasingly digital, deeply interconnected and cross-platform media landscape, advertisers have begun to prioritize the use of high-quality, privacy-compliant data to drive intelligently decisioned campaigns and demand access to advanced measurement tools that demonstrate their technology partners\u2019 performance and value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes advertiser priorities, business context not risk."
+  },
+  {
+   "text": "Fragmentation of an Increasingly Digital Audience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading, no risk content."
+  },
+  {
+   "text": "As changes in consumer behavior and advances in technology drive media to become increasingly digital, audience fragmentation is accelerating.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market fragmentation trend, contextual not risk."
+  },
+  {
+   "text": "5 Table o f Contents Advertisers Expect More From Their Technology Partners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading, no risk content."
+  },
+  {
+   "text": "As programmatic advertising proliferates and the industry and technology mature, advertisers have an increasingly broad field of technology partners to choose from.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes competitive landscape trend, descriptive."
+  },
+  {
+   "text": "As these partners differentiate themselves not just purely on value, but also on their reporting and measurement capabilities, their successful implementation of AI tools that empower advertisers and their access to desirable inventory and retail media, we expect advertisers to become increasingly selective on who they partner with.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes advertiser selectivity trend, business context not a defined risk to the company."
+  },
+  {
+   "text": "Our Philosophy Our approach is grounded in the following principles: \u2022 We Focus on the Buy Side with Independence and Objectivity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company philosophy, not a risk."
+  },
+  {
+   "text": "We provide rich third-party datasets in our data marketplace to improve campaign performance, and we frequently help our clients drive campaign performance even further by ingesting their proprietary data directly, enabling greater decisioning and campaign optimization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes data offerings, marketing description."
+  },
+  {
+   "text": "Because the core of programmatic advertising is algorithmic software that automates ad buying, the development of new AI technologies is inherent to us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes reliance on AI/automation as core business feature, not framed as risk."
+  },
+  {
+   "text": "For nearly a decade, we have invested in augmenting the capabilities of our platform, including pioneering multiple innovations in this space.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company history of innovation, not a risk."
+  },
+  {
+   "text": "Recent technological advancements have driven even greater automation opportunities within new capabilities we are developing, such as Audience Unlimited, which will enable the radical simplification of the data buying process using the agentic co-pilot features available on our platform. \u2022 We Invest in Lasting Client Relationships.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new product feature (Audience Unlimited), promotional not risk."
+  },
+  {
+   "text": "6 Table o f Contents \u2022 We Provide Access to Premium Inventory on a Global Scale .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading, no risk content."
+  },
+  {
+   "text": "We have forged relationships with many of the open internet\u2019s foremost providers of premium omnichannel inventory, allowing our clients to precisely target their ads across the globe and through a broad array of channels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes partnerships and inventory access, business description."
+  },
+  {
+   "text": "Our Platform Our world-class, AI-enabled platform helps buyers of advertising plan, execute and measure highly expressive, data-driven campaigns across premium, omnichannel inventory.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes platform capabilities, marketing description."
+  },
+  {
+   "text": "Koa is our platform\u2019s AI co-pilot.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Names AI co-pilot feature, descriptive."
+  },
+  {
+   "text": "It processes and analyzes robust data sets to surface insights, optimizations and recommendations that help platform users make data-driven decisions without sacrificing control or transparency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes Koa's function, descriptive not risk."
+  },
+  {
+   "text": "Our platform utilizes bid-factor-based architecture, which allows users to set up campaigns based on specific business objectives and optimize them based on performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes platform architecture, descriptive."
+  },
+  {
+   "text": "7 Table o f Contents \u2022 Data Management and Measurement Tools.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading, no risk content."
+  },
+  {
+   "text": "This results in highly optimized performance with minimized latency, given the millions of data points that are analyzed in real time. \u2022 Predictive Models.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes performance optimization capability, descriptive."
+  },
+  {
+   "text": "For example, we are developing new methods of media buying our platform that increasingly leverage data and AI features, meant to make it easier for our clients to utilize data and AI to enhance the effectiveness of their advertising campaigns. \u2022 Expand Our Omnichannel Capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new media buying methods being developed, promotional not risk."
+  },
+  {
+   "text": "We have also launched PubDesk, a dashboard specifically designed for publishers to help them better understand what our clients want by providing detailed information on how buyers view their inventory and what drives bid pricing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes PubDesk product feature, descriptive."
+  },
+  {
+   "text": "This data gives publishers valuable transparency into their programmatic traffic, which helps them surface higher quality inventory that our clients can confidently bid on. \u2022 Enhancing Supply Chain Transparency and Efficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits of transparency tool, descriptive."
+  },
+  {
+   "text": "We have launched and will continue to develop OpenSincera, an open-source tool that provides visibility into the ad experience by providing detailed metadata on ad experiences across 400,000 publishers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes OpenSincera tool, descriptive product feature."
+  },
+  {
+   "text": "OpenSincera provides advertisers with more clarity around the media supply chain to make informed, intentional decisions across large-scale digital campaigns and provides publishers with more insight into the inventory and ad experiences offered.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits of OpenSincera, descriptive."
+  },
+  {
+   "text": "We have also developed additional features and offerings to facilitate better transparency and integrity of ad auctions, such as our OpenAds solution, and to further help our clients evaluate the quality and cost of inventory. \u2022 Further Enhance Identity Solutions, Including Unified ID 2.0.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes additional transparency features and Unified ID 2.0 development, descriptive."
+  },
+  {
+   "text": "We have hundreds of independent companies who partner with us and who make their data and services available to our clients through our platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes partner ecosystem size, descriptive."
+  },
+  {
+   "text": "We view these relationships and the access they provide our clients as a key competitive advantage and plan to continue developing these relationships.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes competitive advantage from partnerships, descriptive not risk."
+  },
+  {
+   "text": "We believe our ecosystem provides a competitive advantage, which leads to better results for clients and in turn attracts more inventory and data suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ecosystem competitive advantage, descriptive not risk."
+  }
+ ]
+}

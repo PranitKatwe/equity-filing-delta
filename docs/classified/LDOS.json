@@ -1,0 +1,218 @@
+{
+ "ticker": "LDOS",
+ "sector": "Industrials",
+ "filing_date": "2026-02-17",
+ "accession": "0001336920-26-000030",
+ "prior_accession": "0001336920-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 27,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "We may experience operational challenges in integrating or segregating assets for such a venture or transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific integration/segregation challenge to an existing risk about ventures or transactions, not a wholly new risk category."
+  },
+  {
+   "text": "In particular, the federal budget and debt ceiling are expected to continue to be the subject of considerable debate, which could have a significant impact on defense spending broadly and our programs in particular.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing budget/debt ceiling debate, framing language without new specifics."
+  },
+  {
+   "text": "The budget environment, including budget caps mandated by the Budget Control Act of 2011 (the \u201cBCA\u201d) for fiscal years 2022 and 2023, which were reinstituted with established budget caps for 2024 and 2025 under The Fiscal Responsibility Act of 2023, and uncertainty surrounding the debt ceiling and the appropriations process, remain significant short and long-term risks for the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (Fiscal Responsibility Act of 2023, 2024/2025 caps) to the existing budget uncertainty risk."
+  },
+  {
+   "text": "Considerable uncertainty exists regarding how future budget and program decisions will unfold, including the defense spending priorities of the current administration and Congress, what challenges budget reductions (required by the BCA and otherwise) will present for the defense industry and whether annual appropriations bills for all agencies will be enacted in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates existing budget uncertainty risk with added reference to current administration's priorities."
+  },
+  {
+   "text": "Congress is unable to approve the annual federal budget before the expiration of a continuing resolution, funding for new projects may not be available and funding on contracts we are already performing may be delayed.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the existing continuing resolution funding delay risk without new substance."
+  },
+  {
+   "text": "If Congressional efforts to approve such funding fail, and Congress is unable to craft a long-term agreement on the U.S. government\u2019s ability to incur indebtedness in excess of its current limits, the U.S. government may not be able to fulfill its current funding obligations and there could be significant disruption to all discretionary programs, which would have corresponding impacts on us and our industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing debt ceiling/default risk with more detail on disruption to discretionary programs."
+  },
+  {
+   "text": "The use of a continuing resolution at prior-year funding levels may limit new contract starts, cancellation of planned new initiatives, constrain production rate increases, delay awards or extensions, and introduce funding uncertainty that could affect bidding, scheduling and profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mechanisms (constrained production rates, delayed awards) to the existing continuing resolution risk."
+  },
+  {
+   "text": "In addition, a failure to complete the budget process and fund government operations pursuant to a continuing resolution may result in a U.S. government shutdown, which could result in us incurring substantial costs without reimbursement under our contracts.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing government shutdown risk regarding unreimbursed costs."
+  },
+  {
+   "text": "If a prolonged government shutdown were to occur, it could result in program cancellations, disruptions and/or stop work orders and could limit the U.S. government\u2019s ability to effectively progress programs and to make timely payments, and our ability to perform on our U.S. government contracts and successfully compete for new work.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on shutdown risk with more specific operational impacts like stop-work orders and payment delays."
+  },
+  {
+   "text": "The delay or cancellation of key programs or the delay of contract payments may have a material adverse effect on our revenue and operating results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk of program delay/cancellation affecting revenue."
+  },
+  {
+   "text": "In addition, when supplemental appropriations are required to operate the U.S. government or fund specific programs and the passage of legislation needed to approve any supplemental appropriation bill is delayed, the overall funding environment for our business could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a new dimension (supplemental appropriations delay) to the existing funding environment risk."
+  },
+  {
+   "text": "We continuously review our operations in an attempt to identify programs potentially at risk from continuing resolutions or failure by the U.S. government to complete its appropriations process so that we can consider appropriate contingency plans.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about internal contingency planning practices, not a risk itself."
+  },
+  {
+   "text": "If we incur costs in excess of funds obligated Leidos Holdings, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete fragment referencing document structure, not substantive content."
+  },
+  {
+   "text": "For example, as a result of the executive order titled \"Prioritizing the Warfighter in Defense Contracting,\u201d future contracts (including renewals) are expected to include provisions restricting stock buybacks and dividends during any period of underperformance, and restricting executive incentive compensation in a manner that is contingent on certain specified criteria, including on-time delivery of projects, increased production, and the facilitation of certain domestic investments and operating improvements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new executive order requirement restricting stock buybacks, dividends, and executive compensation tied to performance."
+  },
+  {
+   "text": "In addition, if the Secretary of War were to determine that any such delays, cost overruns or failures in our performance constitutes underperformance on our contract, we would be required to submit a remediation plan approved by our board within 15 days of such determination, and if such plan is determined to be insufficient or we are not otherwise able to remediate any such underperformance we could be subject to remedies from the Secretary of War including certain enforcement actions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory consequence (remediation plan requirement and enforcement actions) tied to a named executive order."
+  },
+  {
+   "text": "Annual Report Table of Contents PART I work internally rather than hiring a contractor.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment of text, not a coherent new risk statement."
+  },
+  {
+   "text": "In addition, proposed comprehensive reforms to the Federal Acquisition Regulations, including those contemplated under Executive Order 14275, \u201cRestoring Common Sense to Federal Procurement,\u201d issued on April 15, 2025, could create uncertainty in our contracting environment and impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new executive order (14275) creating regulatory uncertainty in federal procurement."
+  },
+  {
+   "text": "These reforms may result in changes to procurement processes, evaluation criteria, cost allowability, compliance obligations, or reporting requirements that could increase our administrative burden and operating costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the impact of the newly introduced procurement reform risk with specific operational consequences."
+  },
+  {
+   "text": "Transition period or inconsistencies in the implementation of new rules may delay contract awards, complicate bid strategies, or require modifications to existing contracting practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on potential disruptions from the same procurement reform risk introduced above."
+  },
+  {
+   "text": "In addition, to the extent the proposed reforms ultimately expand the ability of commercial firms to compete for defense and other federal contracts, we may face heightened competition from new market entrants with different cost structures, procurement models, or technological approach, which could pressure our pricing, reduce our win rates, or erode our market share.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new competitive threat from commercial firms entering federal contracting due to reforms."
+  },
+  {
+   "text": "If we are unable to adapt efficiently to revised federal procurement requirements, our competitiveness, performance under existing contracts, and financial results could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on consequences of failing to adapt to the newly introduced procurement reforms."
+  },
+  {
+   "text": "The Company continues to evaluate the potential impact for any proposed or contemplated reforms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing evaluation, no new risk content."
+  },
+  {
+   "text": "Congress has considered, and will likely in the future consider, additional data privacy and security legislation, to which we may become subject if passed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds mention of potential future legislation to an existing data privacy/security risk."
+  },
+  {
+   "text": "We are also subject to the CMMC requirements, which require successful assessment by a third party against specified cyber controls in order to be eligible for contract awards.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new compliance requirement (CMMC) affecting contract eligibility."
+  },
+  {
+   "text": "We may also be subject to additional emerging and as yet unspecified cybersecurity requirements under the FAR and other federal regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds general mention of additional unspecified future cybersecurity requirements to existing regulatory risk."
+  },
+  {
+   "text": "Shifts in public attitudes and policies toward immigration, as well as actual and proposed restrictions on employment-based visas, could impact our ability to attract, retain and develop skilled talent.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding immigration policy and visa restrictions affecting talent acquisition."
+  },
+  {
+   "text": "Further, as a result of the executive order titled \"Prioritizing the Warfighter in Defense Contracting,\u201d future contracts (including renewals) are expected to include provisions restricting executive incentive compensation in a manner that is contingent on certain specified criteria, including on-time delivery of projects, increased production, and the facilitation of certain domestic investments and operating improvements, which may result in employment by us not being as attractive to key employees than alternatives in businesses not impacted by this executive order.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that executive order-driven compensation restrictions could hurt talent retention/attraction."
+  },
+  {
+   "text": "Therefore, we are continuously exposed to unauthorized attempts to compromise access, release or otherwise compromise such information through cyber-attacks and other 26 Leidos Holdings, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cybersecurity exposure statement, cut off, restating known risk of cyber-attacks."
+  },
+  {
+   "text": "See also the risk factor \u201cInternal system or service failures, or failures in the systems or services of third parties on which we rely, could disrupt our business and impair our Leidos Holdings, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor section, not new content."
+  },
+  {
+   "text": "Increased frequency and severity of extreme weather events, which are widely associated with long-term climate change, could disrupt our operations, facilities and supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding extreme weather events and climate change disrupting operations."
+  },
+  {
+   "text": "In addition, current and future reduction in government weather-monitoring or satellite data programs may diminish the predictability of extreme weather events and impair our ability to plan for and mitigation related operational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about reduced government weather-monitoring programs impairing risk mitigation."
+  },
+  {
+   "text": "Annual Report Table of Contents PART I change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment of text with no substantive content."
+  },
+  {
+   "text": "We utilize AI in connection with our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the company's use of AI as a new risk topic area."
+  },
+  {
+   "text": "Additionally, if any of our employees, contractors, consultants, vendors or service providers use any third-party AI-powered software in connection with our business or the services they provide to us, it may lead to the inadvertent disclosure or incorporation of our confidential information into publicly available training sets, which may impact our ability to realize the benefit of, or adequately maintain, protect and enforce our intellectual property or confidential information, harming our Leidos Holdings, Inc.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of confidential information leakage via third-party AI tools."
+  },
+  {
+   "text": "Annual Report 29 Table of Contents PART I competitive position and business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment of text, page/header artifact."
+  },
+  {
+   "text": "Further, any output created by us using AI tools may not be subject to copyright protection, which may adversely affect our intellectual property rights in, or ability to commercialize or use, any such content.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new IP risk regarding lack of copyright protection for AI-generated content."
+  },
+  {
+   "text": "In the U.S., a number of civil lawsuits have been initiated related to the foregoing and other concerns, any one of which may, among other things, require us to limit the ways in which our AI systems are trained and may affect our ability to develop our AI-powered products and solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk from civil lawsuits affecting AI training and product development."
+  },
+  {
+   "text": "In particular, several states, including Colorado and California, have passed or proposed laws and regulations that specifically address various facets and uses of AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk from state-level AI regulations in Colorado and California."
+  },
+  {
+   "text": "As the utilization of AI becomes more prevalent, we anticipate that it will continue to present new or unanticipated ethical, reputational, technical, operational, legal, competitive and regulatory issues, among others.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about anticipated AI issues without specifics."
+  },
+  {
+   "text": "We expect that our incorporation of AI in our business will require additional resources, including the incurrence of additional costs, to develop and maintain our products and solutions and features to minimize potentially harmful or unintended consequences, to comply with applicable and emerging laws and regulations, to maintain or extend our competitive position, and to address any ethical, reputational, technical, operational, legal, competitive or regulatory issues which may arise as a result of any of the foregoing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on cost and resource implications of the newly introduced AI risk topic."
+  }
+ ]
+}

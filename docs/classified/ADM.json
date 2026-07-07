@@ -1,0 +1,218 @@
+{
+ "ticker": "ADM",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-17",
+ "accession": "0000007084-26-000011",
+ "prior_accession": "0000007084-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 14
+ },
+ "items": [
+  {
+   "text": "The Company engages in manufacturing and distribution activities across numerous markets and geographies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the company's global manufacturing footprint without specifying any risk."
+  },
+  {
+   "text": "As a result, the Company is subject to risks inherent in such activities and from time to time has experienced unplanned downtime or extensive property damage and business disruption from various events and external factors, some of which are beyond the Company\u2019s control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing operational disruption risk with specific examples like unplanned downtime and property damage."
+  },
+  {
+   "text": "These events could result in personal injury, loss of life, and environmental damage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequences (injury, loss of life, environmental damage) to the previously described operational disruption risk."
+  },
+  {
+   "text": "In some cases, the Company is dependent on a single plant or facility to manufacture or process certain products in a geographical region or otherwise.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific concentration risk of relying on a single plant/facility for certain products or regions."
+  },
+  {
+   "text": "The impact of these events and factors has and could in the future require significant investments and expenditures to repair damaged facilities or equipment and require management attention and other resources, which has and could adversely impact the Company\u2019s results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the financial impact of operational disruptions already described."
+  },
+  {
+   "text": "As part of its broader strategy, the Company is focused on operational excellence and driving targeted cost reductions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic framing statement with no specific risk content."
+  },
+  {
+   "text": "The Company has implemented plans to improve the performance of its manufacturing and production facilities, increase operating leverage within the Nutrition segment, and reduce third party spend and selling, general, and administrative expenses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cost-reduction and operational plans (e.g., Nutrition segment leverage) not previously disclosed."
+  },
+  {
+   "text": "The success of these plans, and any future related plans, depend on a broad range of factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that success depends on various factors, no new specifics."
+  },
+  {
+   "text": "The Company\u2019s ability to improve its cost structure depends on reducing its manufacturing, delivery and administrative costs, as well as having cost-effective purchasing programs for raw materials, energy and related manufacturing requirements, all of which are subject to risks and uncertainties and may not be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the cost structure risk with details about purchasing programs and raw material/energy costs."
+  },
+  {
+   "text": "The Company\u2019s working capital requirements are directly affected by the price of global commodities, which may fluctuate significantly and change quickly.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding working capital exposure to commodity price fluctuations."
+  },
+  {
+   "text": "The implementation of these plans may be more difficult, costly, or time-consuming than expected, and may not result in any or all of the anticipated benefits, which could adversely affect the Company\u2019s business, results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about implementation risk, common boilerplate."
+  },
+  {
+   "text": "In addition, ADM proactively reviews its portfolio of businesses to identify opportunities to simplify and optimize its portfolio and enhance shareholder value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about portfolio review strategy without specific risk detail."
+  },
+  {
+   "text": "As a result, from time to time, the Company seeks to divest certain of its assets or businesses by selling them or entering into joint ventures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the divestiture/JV strategy already implied, adding detail about how transactions are pursued."
+  },
+  {
+   "text": "The Company\u2019s ability to successfully complete a divestiture or joint venture transaction will depend on, among other things, its ability to identify buyers or joint venture partners that are prepared to acquire and successfully operate such assets or businesses on acceptable terms, and on the Company's ability to adjust and optimize its retained businesses following the divestiture.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factors affecting divestiture success, expanding on the existing divestiture risk."
+  },
+  {
+   "text": "These transactions may involve unanticipated delays, costs, and other problems, and senior management may be required to divert attention away from other aspects of ADM\u2019s businesses to address these problems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential problems (delays, costs, management distraction) tied to the existing divestiture risk."
+  },
+  {
+   "text": "ADM\u2019s growth also depends in part on innovation in products, processes and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about growth depending on innovation, no specific new risk."
+  },
+  {
+   "text": "The Company\u2019s ability to realize the anticipated benefits of its R&D efforts and other investments depends on a variety of factors, and may not result in new products and services at a rate or of a quality sufficient to gain market acceptance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on R&D risk with specifics about market acceptance and quality of innovation outcomes."
+  },
+  {
+   "text": "In addition, the markets for these products may not develop or grow as the Company anticipates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on market development uncertainty tied to innovation risk."
+  },
+  {
+   "text": "These events can disrupt trade flows, damage infrastructure, limit access to raw materials, reduce customer demand, or impede the Company\u2019s ability to operate facilities or move product.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks about trade flow disruption, infrastructure damage, and raw material access."
+  },
+  {
+   "text": "They also may trigger macroeconomic volatility, including fluctuations in commodity prices, interest rates, and foreign exchange rates, which can negatively affect margins, inventory values, and hedging positions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands macroeconomic volatility risk with specifics on commodity, interest rate, and FX impacts."
+  },
+  {
+   "text": "Further, compliance with rapidly evolving sanction regimes may require operational adjustments and could increase the risk of inadvertent violations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific compliance risk related to evolving sanctions regimes."
+  },
+  {
+   "text": "The Company is subject to geopolitical, economic and other risks of doing business globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about geopolitical risk with no new specifics."
+  },
+  {
+   "text": "For example, the Company\u2019s results of operations were impacted by changes in and uncertainty relating to global trade and tariffs in 2025, and the resulting trade flow disruptions, such as U.S. soybean trade with China, as well as the deferral of U.S. biofuel policy with respect to renewable volume obligations (RVO), and the resulting uncertainty which impacted demand for soybean oil and other feedstocks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces concrete, specific new risk events (tariffs, soybean trade with China, biofuel RVO deferral) impacting results."
+  },
+  {
+   "text": "The Company\u2019s business depends on the quality and safety of the agricultural commodities, ingredients, food, feed, nutritional products, and other products it sources, manufactures, processes, stores, transports, and sells.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about dependence on product quality and safety, standard framing."
+  },
+  {
+   "text": "As a result, the Company is exposed to a wide range of food quality and safety risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about exposure to food safety risks, no new specifics."
+  },
+  {
+   "text": "ADM must comply with U.S. and non-U.S. federal, state, and local regulations on food safety, quality, manufacturing and labeling.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic regulatory compliance statement, standard boilerplate."
+  },
+  {
+   "text": "Certain of the Company\u2019s products may require regulatory approvals, pre\u2011market notifications, or ongoing compliance with evolving or uncertain regulatory frameworks in multiple jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about needing regulatory approvals or pre-market notifications for certain products."
+  },
+  {
+   "text": "Further, regulatory scrutiny and standards in the food, feed, and nutrition sectors continue to evolve, such as the ongoing review by regulatory authorities in the EU and other jurisdictions of the safety and permitted uses of specified chemicals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory development (EU review of specified chemicals) not previously mentioned."
+  },
+  {
+   "text": "Any failure to comply with applicable laws and regulations or changes in regulatory interpretations, standards, or enforcement priorities could restrict the Company\u2019s ability to manufacture, market, or sell certain products, increase compliance costs, or require product reformulation or withdrawal from certain markets, and could subject ADM to substantial fines, administrative sanctions, criminal penalties, litigation, and other liabilities, as well as damage to its reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consequences of non-compliance with specific penalties and business impacts."
+  },
+  {
+   "text": "The Company also is subject to extensive U.S. and non-U.S. federal, state, and local occupational health and safety, environmental and other regulatory requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to health, safety, and environmental regulations."
+  },
+  {
+   "text": "Further, ADM may be subject to environmental liabilities for past operations at current facilities and in some cases to liabilities for past operations at facilities that it no longer owns, operates or uses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on environmental liability risk to include past operations at facilities no longer owned."
+  },
+  {
+   "text": "The Company may also be subject to liabilities for operations of acquired companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing liability risk to include liabilities from acquired companies."
+  },
+  {
+   "text": "The Company\u2019s operational activities can also result in serious accidents that could result in personal injuries, facility shutdowns, reputational harm to our business and/or require the expenditure of significant amounts to remediate safety issues or repair damaged facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details consequences of operational accidents already implied by safety risk discussion."
+  },
+  {
+   "text": "The Company is subject to various evolving regulations related to ESG matters which impacts the Company\u2019s business and strategies, and could adversely affect its reputation, business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General ESG risk statement without new specifics."
+  },
+  {
+   "text": "The Company is subject to various evolving, and sometimes inconsistent, United States federal, state, local and non-U.S. regulations related to ESG matters, including regulations related to the production of greenhouse gas (GHG) emissions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity (GHG emissions) to the existing ESG regulatory risk."
+  },
+  {
+   "text": "Some of these regulations establish specific metrics, targets, and disclosure frameworks for a variety of ESG issues, including environmental sustainability, supply chain labor practices, deforestation, workforce health and safety, proper handling of chemicals or materials, among others.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific ESG regulatory areas (deforestation, labor practices) expanding existing ESG risk."
+  },
+  {
+   "text": "Compliance with these changing and sometimes divergent ESG laws in a timely manner could, among other things, increase raw material, administrative, compliance or other costs, require the Company to make changes to its business operations or strategies, or require the Company to make additional investments in its facilities or equipment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on compliance cost impacts of ESG regulation already introduced."
+  },
+  {
+   "text": "The Company has programs and policies in place that are aimed at expanding responsible practices while reducing its environmental footprint.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about company programs/policies, no new risk."
+  },
+  {
+   "text": "The Company has also established ESG related goals and objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mention of ESG goals, no specific risk detail."
+  },
+  {
+   "text": "The Company may be required to make investments and incur costs to implement these programs and policies that are significant or higher than anticipated, 15 Table of Contents ARCHER-DANIELS-MIDLAND COMPANY PART I ADM may not be able to achieve the goals and objectives, and ADM may not realize, on a timely basis or at all, the anticipated benefits of these investments and actions, any of which could adversely impact the Company\u2019s reputation and business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the risk of costs and failure to achieve ESG goals already introduced."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "TTWO",
+ "sector": "Communication Services",
+ "filing_date": "2026-05-22",
+ "accession": "0001628280-26-037434",
+ "prior_accession": "0001628280-25-026694",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 33,
+ "counts": {
+  "new_substantive_risk": 16,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "The AI regulatory landscape is evolving, and we may be required to dedicate additional operational and financial resources to ensure compliance with new legal requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about needing resources to comply with evolving AI regulation, no specific new risk detail."
+  },
+  {
+   "text": "For instance, the European Union (\"E.U.\") Artificial Intelligence Act entered into force in August 2024, with some provisions becoming enforceable between February 2025 and August 2027, subject to a likely delay of the Act's high-risk enforcement until December 2027.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory regime (EU AI Act) with concrete enforcement timeline affecting compliance."
+  },
+  {
+   "text": "In the U.S., some states have enacted general purpose AI laws, while others have enacted use-case specific AI laws; other states may enact similar laws in the future, which will add complexity to our compliance efforts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about patchwork of US state AI laws, expanding on the general AI regulatory risk already introduced."
+  },
+  {
+   "text": "This uncertainty may require additional investments in oversight and the development of protections and safeguards to ensure compliance, including to the extent any personal information is processed by such technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about needing additional investments in oversight, no new specifics."
+  },
+  {
+   "text": "However, even with safeguards and oversight in place, the development and deployment of AI technologies may nevertheless pose risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about residual risk despite safeguards."
+  },
+  {
+   "text": "For example, our employees, contractors, vendors, or other partners may use AI tools in ways that are inconsistent with our policies or expectations, including by entering confidential, proprietary, personal, or regulated information into third-party AI services, and some AI providers may have limited operating histories or governance processes, any of which could compromise our information, expose us to legal or regulatory claims, or harm our reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new risk of employees/vendors misusing AI tools and exposing confidential data."
+  },
+  {
+   "text": "Additionally, the data sets used to train the underlying models may be flawed, the AI tools may function in an unexpected manner, or generate biased, incorrect, or inappropriate content, which could negatively impact the performance or perception of our products and brand, incur regulatory scrutiny, or impose legal liability.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk about flawed AI training data and biased/incorrect outputs harming products and inviting liability."
+  },
+  {
+   "text": "Increased prices of these video game consoles could also lead to lower consumer demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk that higher console prices could reduce consumer demand."
+  },
+  {
+   "text": "In addition, certain requirements related to content classification, age-rating and age-based access or restrictions to our games or certain features in our games, imposed by major third-party platforms, reflect how platforms are responding to evolving children's protection and online safety regulations globally.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new platform requirements around content classification and age-rating tied to online safety regulation."
+  },
+  {
+   "text": "Such requirements may affect how our games are classified, distributed, accessed or presented on these platforms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows on from the platform requirement risk just introduced, detailing its effect on game classification/distribution."
+  },
+  {
+   "text": "Additionally, to the extent we process payments directly or through third-party payment processors outside these platform billing systems, interruptions, fraud, chargebacks, card-network requirements, processor security incidents, additional authentication requirements, or termination of payment-processing services could impair our ability to complete transactions, increase costs, reduce approval rates, harm player trust, and adversely affect our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk related to direct/third-party payment processing disruptions and fraud."
+  },
+  {
+   "text": "Our vendors, service providers, business partners, and software supply chain may also experience disruptions, be subject to attacks, or have compromised security, which may result in future security incidents and breaches, and otherwise adversely impact our ability to provide our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing security/breach risk to include vendors and software supply chain."
+  },
+  {
+   "text": "Compounding these risks, as artificial intelligence capabilities develop rapidly, individuals or groups of hackers and sophisticated organizations may use these technologies to create new sophisticated attack methods that are increasingly automated, targeted, coordinated, and more difficult to defend against.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk of AI-enabled sophisticated cyberattacks."
+  },
+  {
+   "text": "Further, the U.S. federal Video Privacy Protection Act (\"VPPA\") and some U.S. states' wiretapping type laws may pose litigation risk for online businesses like ours.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new litigation risk under VPPA and state wiretapping laws."
+  },
+  {
+   "text": "For instance, in recent years, plaintiffs' lawyers have asserted claims under the VPPA or the California Invasion of Privacy Act (\"CIPA\"), alleging that certain online activities and data collection via cookies and similar tracking technologies violate the law.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail (specific laws/claims) for the litigation risk just introduced."
+  },
+  {
+   "text": "Some courts have found that such practices, without proper opt-in consent, constitute illegal eavesdropping.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on court findings related to the same litigation risk."
+  },
+  {
+   "text": "We have defended our practices in response to these types of claims and may be required to respond to or defend against similar claims, which may divert resources, increase compliance costs, and negatively impact our financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes company's own experience defending similar claims, extending the litigation risk discussion."
+  },
+  {
+   "text": "Future acquisitions and investments could result in the issuance of equity or equity-linked securities, which may potentially dilute our existing stockholders, or the incurrence of additional debt.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic M&A risk language about dilution and debt, commonly boilerplate."
+  },
+  {
+   "text": "They may also expose us to contingent liabilities or other obligations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about contingent liabilities from acquisitions."
+  },
+  {
+   "text": "In addition, acquisitions and investments may lead to increased expenses, including amortization of acquired intangibles assets, stock-based compensation, or potential write-offs of goodwill, intangible assets of acquired in-process technology.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about increased expenses from acquisitions, standard boilerplate."
+  },
+  {
+   "text": "In particular, on February 20, 2026, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legal/regulatory event (Supreme Court tariff ruling) affecting business."
+  },
+  {
+   "text": "Supreme Court ruled that certain tariffs imposed under the International Economic Emergency Powers Act were unconstitutional.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific ruling detail on tariff unconstitutionality, a new concrete legal development."
+  },
+  {
+   "text": "Supreme Court's decision, on February 24, 2026, the U.S., via an Executive Order signed by the President, implemented a global 10% tariff on all countries for a period of 150 days.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the tariff narrative with a new executive action, expanding on the just-introduced tariff risk."
+  },
+  {
+   "text": "However, on May 7, 2026, a panel of federal judges on the Court of International Trade voted that such 10% tariffs on most U.S. imports are illegal.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further development in the same tariff litigation saga already introduced."
+  },
+  {
+   "text": "Significant uncertainty remains regarding the status of existing and newly announced tariffs, potential changes or pauses to such tariffs, tariff levels, and whether further additional tariffs or other retaliatory actions may be imposed, modified, or suspended.",
+   "category": "expanded_existing_risk",
+   "rationale": "General uncertainty statement following the specific tariff events described above."
+  },
+  {
+   "text": "In particular, Australia and Brazil have recently introduced more stringent regulations on games that contain simulated gambling and loot boxes.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new foreign regulations on gambling-like game mechanics in Australia and Brazil."
+  },
+  {
+   "text": "For example, in January 2025, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sentence is truncated and provides no substantive information."
+  },
+  {
+   "text": "Also, we may be subject to civil claims and regulatory actions alleging our games, including social casino games, violate certain state laws concerning unfair or deceptive acts or practices in conduct of any trade or commerce or certain state gambling laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing legal risk regarding social casino games and gambling law claims."
+  },
+  {
+   "text": "In addition, in Australia, the Phase 2 Industry Codes were recently approved by eSafety and have introduced new age assurance and other online safety requirements for distribution platforms and games containing certain content or interactive features.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new Australian regulatory codes imposing age assurance requirements."
+  },
+  {
+   "text": "A similar bill was introduced in February 2026 by Portugal's Parliament.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific legislative action in Portugal relevant to the business."
+  },
+  {
+   "text": "These proposed prohibitions could, if drafted broadly, impact the ability of certain consumers to access our products and services, particularly those that include communications functionality or user generated content.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discusses potential impact of the previously mentioned proposed prohibitions."
+  },
+  {
+   "text": "New regulation by the FTC, U.S. states or other international jurisdictions, which may vary significantly across jurisdictions and with which we may be required to comply, could require that these game mechanics be modified or removed from games, increase the costs of operating our games, impact player engagement and monetization or otherwise harm our business performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential regulatory outcomes affecting game mechanics, expanding on prior regulatory risk."
+  },
+  {
+   "text": "To the extent personal information is transferred from the E.U., U.K., or Switzerland across borders, we use legally valid transfer mechanisms such as standard contractual clauses and adequacy decisions; however, such mechanisms have been subject to legal scrutiny and may face additional challenges or regulatory guidance in the future, which could require us to implement different or additional measures and face increased compliance burdens and cost.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on legal scrutiny of existing data transfer mechanisms, expanding known privacy compliance risk."
+  },
+  {
+   "text": "Similar online safety laws have been introduced in Australia, the U.K., and Brazil, all of which include significant fines for noncompliance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists additional jurisdictions adopting similar online safety laws, expanding existing regulatory risk."
+  },
+  {
+   "text": "The FTC's most recent amendments to the COPPA Rule became effective in April 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new COPPA Rule amendments effective in 2026."
+  },
+  {
+   "text": "These amendments expand the definition of covered personal information and impose new data retention and information security obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the substance of the COPPA amendments just introduced, expanding compliance obligations."
+  },
+  {
+   "text": "For instance, the California Age-Appropriate Design Code Act took effect in July 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new California privacy law (AADC) affecting operations."
+  },
+  {
+   "text": "In March 2026, this injunction was narrowed but will undergo further review in the courts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follow-up detail on litigation status of a previously referenced law/injunction."
+  },
+  {
+   "text": "Many states have focused recent regulatory efforts on children's and teens' privacy, with various state laws in place or taking effect in 2026 on issues including parental consent, age-verification obligations, and app store accountability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on state-level children's privacy laws, expanding existing regulatory risk theme."
+  },
+  {
+   "text": "Further, Brazil has recently introduced new regulations to prohibit the availability of paid random digital items to players under the age of 18 and other jurisdictions such as Spain and Portugal are actively considering introducing similar restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new Brazilian regulation restricting paid random digital items and notes similar moves in Spain/Portugal."
+  }
+ ]
+}

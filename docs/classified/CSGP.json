@@ -1,0 +1,218 @@
+{
+ "ticker": "CSGP",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-26",
+ "accession": "0001057352-26-000020",
+ "prior_accession": "0001057352-25-000016",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 36,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 24,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "16 \u2022 Our services could be less attractive and our revenue may decrease if we fail to obtain or retain listings from third parties. \u2022 We may not be able to maintain or establish relationships with third-party listing providers, maintain stable data feeds, or to comply with the rules and compliance requirements of MLSs. \u2022 Failure to comply with the terms of the underlying open source software licenses could restrict our ability to deliver our products or services or subject us to litigation or other action s .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a compiled list of already-known risk topics (listing providers, MLS relationships, open source licensing) restated together, not a new specific risk."
+  },
+  {
+   "text": "Moreover, rapid advancement of generative AI Technologies may reduce the barrier to entry for new competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new competitive threat: generative AI lowering barriers to entry for new competitors."
+  },
+  {
+   "text": "Additionally, tariffs, trade barriers and restrictions, and other acts by governments to protect domestic markets or to retaliate against the trade tariffs and restrictions of other nations could negatively affect our business operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces tariffs and trade barriers as a new risk to business operations, not previously mentioned."
+  },
+  {
+   "text": "Additionally, we are in varying stages of development in relation to our products and internal business processes involving AI Technologies, and there can be no assurance that our investments in such technologies will achieve the expected benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding uncertain returns on AI technology investments."
+  },
+  {
+   "text": "With respect to our products or services that incorporate AI Technologies, the market for such products and services is rapidly evolving and unproven in many industries, including our own, and important assumptions about the characteristics of targeted markets, pricing, sales cycles, cost, performance, and perceived value associated with our services or products may be inaccurate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced AI risk by detailing market uncertainty and inaccurate assumptions."
+  },
+  {
+   "text": "Our failure to successfully develop and commercialize our products or services involving AI Technologies could harm our ability to expand our business; provide, improve and diversify our product offerings; continue our operations and efficiently manage our operating expenses; and respond effectively to competitive developments, which could adversely affect our business, results of operations, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences of failing to commercialize AI products, building on the AI risk already introduced."
+  },
+  {
+   "text": "In addition, if internet search engines expand their services into digital real estate marketplaces, they could leverage their scale, user base, and technology to compete with our websites.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive threat from search engines entering real estate marketplaces."
+  },
+  {
+   "text": "Such competition could reduce traffic to our websites, limit our marketplaces' visibility to customers, and diminish the value of our advertising and subscription products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the impact of the search engine competition risk just introduced."
+  },
+  {
+   "text": "On February 28, 2025, the Company completed the Matterport Acquisition, and on August 27, 2025, the Company 22 completed the Domain Acquisition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A factual statement about completed acquisitions, not itself a risk description."
+  },
+  {
+   "text": "If third-party suppliers upon which Matterport relies are not able to fulfill its needs, Matterport\u2019s ability to timely and cost effectively bring its hardware products to market could be affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new supply chain risk tied to Matterport's hardware suppliers following the acquisition."
+  },
+  {
+   "text": "Matterport relies on a limited number of suppliers to supply its hardware components for its cameras and other hardware products, including in some cases only a single supplier for some products and components.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail (limited/single suppliers) expanding the newly introduced supplier risk."
+  },
+  {
+   "text": "This reliance on a limited number of manufacturers increases its risks, since Matterport does not currently have proven reliable alternative or replacement manufacturers beyond these key parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on the supplier concentration risk with lack of alternatives."
+  },
+  {
+   "text": "In the event of interruption, we may not be able to increase capacity from other sources or develop alternate or secondary sources, and if such sources become available, they may result in material additional costs and substantial delays.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on supply interruption consequences."
+  },
+  {
+   "text": "Unexpected changes in business conditions, materials pricing, labor issues, wars, trade policies, natural disasters, health epidemics, trade and shipping disruptions, port congestions, and other factors beyond our or our suppliers\u2019 control could also affect these suppliers\u2019 ability to deliver components to us or to remain solvent and operational.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds more detail on external factors that could disrupt suppliers, expanding the same risk theme."
+  },
+  {
+   "text": "Such disruptions could adversely affect our business if we are not able to meet customer demands.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the business impact of the same supply disruption risk."
+  },
+  {
+   "text": "In addition, some of our suppliers are located in China.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific geographic concentration risk (China-based suppliers)."
+  },
+  {
+   "text": "Our access to suppliers in China may be limited or impaired as a result of tariffs, including those that have been recently introduced by the current U.S. administration, or other government restrictions in response to geopolitical factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the China supplier risk with tariff and government restriction details."
+  },
+  {
+   "text": "There is no guarantee we may be able to continually use alternative suppliers and alternative parts as we scale production to meet our growth targets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing supplier risk regarding scaling production."
+  },
+  {
+   "text": "Additionally, if our suppliers do not accurately forecast and effectively allocate production or if they are not willing to allocate sufficient production to us, it may reduce our access to components and require us to search for new suppliers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on supplier allocation risk, part of the same supply chain risk theme."
+  },
+  {
+   "text": "The unavailability of any component or supplier could result in production delays, idle manufacturing facilities, product design changes, and loss of access to important technology and tools for producing and supporting our products, as well as impact our capacity expansion and our ability to fulfill our obligations under customer contracts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of component unavailability, expanding the supply chain risk."
+  },
+  {
+   "text": "Moreover, new product launches or product design changes by us have required, and may in the future require, us to procure additional components in a short amount of time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific scenario (new product launches) to the same supply chain risk."
+  },
+  {
+   "text": "Our suppliers may not be willing or able to sustainably meet our timelines or our cost, quality, and volume needs, or to do so may cost us more, which may require us to replace them with other sources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on supplier reliability risk."
+  },
+  {
+   "text": "If we face supply constraints for any of the reasons described above, it may not be possible to obtain or increase supplies on acceptable terms, which may undermine our ability to satisfy customer demands in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing supply constraint risk and its effects."
+  },
+  {
+   "text": "For example, it may take a significant amount of time to identify a manufacturer that has the capability and resources to build and supply necessary hardware components in sufficient volume.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on time needed to find new manufacturers, part of same risk."
+  },
+  {
+   "text": "Identifying suitable suppliers can be an extensive process that requires us to become satisfied with our suppliers\u2019 quality control, technical capabilities, responsiveness and service, financial stability, regulatory compliance, and labor and other ethical practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the supplier identification process risk."
+  },
+  {
+   "text": "Because we make extensive use of third-party service providers, such as cloud and SaaS services, significant cyberattacks that disrupt or result in unauthorized access to third-party IT Systems could materially impact our operations and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific cybersecurity risk tied to third-party cloud/SaaS providers."
+  },
+  {
+   "text": "If we are no longer able to obtain certain data from third parties or from brokers, our brands and our business, results of operations, and financial condition could be materially impacted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk about loss of access to third-party or broker data impacting the business."
+  },
+  {
+   "text": "Additionally, the scope of intellectual property protection in the field of AI and machine learning is currently under development, and there is uncertainty and ongoing litigation in different jurisdictions as to the degree and extent of protection warranted for AI and machine learning systems and their relevant system outputs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new legal uncertainty regarding IP protection for AI and machine learning systems."
+  },
+  {
+   "text": "For example, the law is uncertain across jurisdictions regarding the copyright ownership of content that is produced in whole or in part by generative AI tools.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific example (copyright ownership) expanding the AI IP uncertainty risk."
+  },
+  {
+   "text": "If we fail to obtain protection for the intellectual property rights concerning our AI Technologies or their outputs that we seek to claim as proprietary, or later have our intellectual property rights invalidated or otherwise diminished, which could adversely affect our business, reputation and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential consequences of failing to secure AI-related IP rights."
+  },
+  {
+   "text": "There is a risk that the generative AI Technologies (i.e., AI Technologies that can produce and output new content, software code, data and information) that we incorporate into our products and services could produce inaccurate or misleading content or other discriminatory or unexpected results or behaviors, such as hallucinatory behavior that can generate irrelevant, nonsensical, or factually incorrect results, all of which could harm our reputation, business, or customer relationships.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about generative AI producing inaccurate or harmful content (hallucinations)."
+  },
+  {
+   "text": "Measures designed to ensure the accuracy of such AI generated content, may not always be successful, and in some cases, we may need to rely on end users to report such inaccuracies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on mitigation limitations for the AI content accuracy risk just introduced."
+  },
+  {
+   "text": "In addition, in the EU, the DSA governs, among other things, our potential liability for illegal services/products or content on our platforms, obligations around traceability of business users, and requires enhanced transparency measures, including in relation to any recommendation systems (including the main parameters used by such systems and any available options for recipients to modify or influence them).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk from the EU Digital Services Act (DSA)."
+  },
+  {
+   "text": "Further, the DSA contains general requirements that user interfaces may not deceive or manipulate users which are yet to be clarified further by guidance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details DSA requirements, expanding the newly introduced regulatory risk."
+  },
+  {
+   "text": "Similarly, in the United Kingdom, the OSA establishes an extensive regulatory framework for certain user-to-user and search services and imposes obligations to protect users from illegal content .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new regulatory risk from the UK Online Safety Act (OSA), a distinct jurisdiction and law."
+  },
+  {
+   "text": "The DSA and the OSA may increase our compliance costs, require changes to our user interfaces, processes, operations, and business practices which may adversely affect our ability to attract, retain and provide our services to customers, and may otherwise adversely affect our business, operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes compliance cost impacts of the DSA/OSA risks already introduced."
+  },
+  {
+   "text": "Failure to comply with the DSA can result in fines of up to 6% of total annual worldwide turnover and recipients of services have the right to seek compensation from providers in respect of damage or loss suffered due to infringement by the provider to comply with the DSA, and failure to comply with the OSA can result in fines of up to 10% of total annual worldwide turnover or \u00a318 million, whichever is higher.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific penalty figures, quantifying the previously introduced DSA/OSA risk."
+  },
+  {
+   "text": "The loss or degradation of this listings data could materially and adversely affect traffic to our websites and mobile applications, which could severely harm our business, results of operations, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing listing data risk by specifying impact on traffic and financial condition."
+  },
+  {
+   "text": "Some of our products or services contain third-party open source software components, and failure to comply with the terms of the underlying open source software licenses could restrict our ability to deliver our products or services or subject us to litigation or other action s .",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same open source software licensing risk already described elsewhere with nearly identical wording."
+  },
+  {
+   "text": "Some of our products or services contain software components licensed to us by third-party authors under \u201copen source\u201d licenses, and we expect to continue to incorporate such open source software in our products in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General background statement about continued use of open source software, not a new or expanded risk."
+  }
+ ]
+}

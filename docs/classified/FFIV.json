@@ -1,0 +1,218 @@
+{
+ "ticker": "FFIV",
+ "sector": "Information Technology",
+ "filing_date": "2025-11-25",
+ "accession": "0001048695-25-000157",
+ "prior_accession": "0001048695-24-000185",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 39
+ },
+ "items": [
+  {
+   "text": "Cyber Incident On October 15, 2025, we disclosed a security incident in which a threat actor maintained long-term, persistent access to F5 systems, and exfiltrated certain files, referred to as the \"Cyber Incident.\" For further information about the Cyber Incident, see \"Risk Factors\" included in Item 1A of Part I of this Annual Report on Form 10-K, and \"Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations - Cyber Incident\" included in Item 7 of Part II of this Annual Report on Form 10-K.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new cybersecurity incident involving persistent unauthorized access and data exfiltration, a material new risk to the business."
+  },
+  {
+   "text": "We intend to enhance our digital customer experiences to deliver both growth and efficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about intent to enhance digital customer experiences, no specific risk described."
+  },
+  {
+   "text": "We are selling F5 solutions in support of AI data delivery, AI runtime security and AI factory load balancing use cases.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product use cases for AI, a marketing/business description rather than a risk."
+  },
+  {
+   "text": "In response to customers' growing preference for a platform approach, in 2025 we introduced the F5 Application Delivery and Security Platform (\"ADSP\").",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes launch of a new platform product; no risk stated."
+  },
+  {
+   "text": "The F5 ADSP aims to unify high-performance traffic management with advanced application and API security at scale across hybrid and multicloud environments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes platform capabilities, purely descriptive."
+  },
+  {
+   "text": "Unlike fragmented point solutions, the F5 ADSP is purpose-built to simplify hybrid multicloud complexity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of product differentiation, not a risk."
+  },
+  {
+   "text": "With the F5 ADSP, we aim to leverage the full strength of our broad portfolio with capabilities to enhance security, scalability, and operational efficiency while enabling key capabilities such as policy management, analytics, and automation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes platform goals and capabilities, no risk content."
+  },
+  {
+   "text": "Capturing growth in security and SaaS We continue to invest in expanding our SaaS-based F5 Distributed Cloud Services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment in SaaS services, business description not risk."
+  },
+  {
+   "text": "Our F5 Distributed Cloud Services console extends visibility and simplifies management for F5 BIG-IP and F5 NGINX customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product functionality, not a risk statement."
+  },
+  {
+   "text": "With F5 Distributed Cloud Services, we enable customers to optimize application deployment across public, private, and edge clouds, providing flexibility in location and architecture while reducing the operational complexity of delivering and securing applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product benefits, purely descriptive."
+  },
+  {
+   "text": "We sell application delivery and security solutions for web application and API protection, hybrid multicloud networking, enterprise AI delivery and security, application migration, application modernization, zero trust architecture and post quantum cryptography readiness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists product/solution categories sold, descriptive not risk."
+  },
+  {
+   "text": "The F5 NGINX One Console is a unified SaaS management platform designed to streamline the deployment, configuration, monitoring, and administration of NGINX instances across hybrid and multi-cloud environments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a product feature, no risk implied."
+  },
+  {
+   "text": "Tailored for organizations leveraging NGINX for modern application delivery, the NGINX One Console provides centralized visibility and real-time analytics to optimize application performance, ensure security, and monitor traffic flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description, no risk content."
+  },
+  {
+   "text": "Its intuitive interface simplifies the management of NGINX instances and supports automated workflows, integration with DevOps pipelines, and role-based access controls (\"RBAC\").",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description, no risk."
+  },
+  {
+   "text": "By empowering teams to manage containerized and microservices-based applications efficiently, the NGINX One Console enables enterprises to deliver reliable, scalable, and secure applications in increasingly distributed environments. \u2022 F5 NGINX Ingress Controller.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description continuation, no risk."
+  },
+  {
+   "text": "To provide a unified experience across all our offerings, we have introduced the F5 ADSP.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes unified platform offering, business description."
+  },
+  {
+   "text": "With the F5 ADSP, customers can leverage the full strength of our broad portfolio with capabilities to enhance security, scalability, and operational efficiency while enabling key capabilities such as policy management, analytics, and automation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Repeats platform capability description, no risk."
+  },
+  {
+   "text": "While customers broadly are expressing increasing preference for a platform approach that simplifies complexity and eliminates operational burden, we also compete on a point-solution basis.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes competitive dynamics generally, not a specific new risk of harm."
+  },
+  {
+   "text": "(\"Flex\"), to manufacture our hardware systems according to our specifications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Names manufacturing partner Flex, factual detail, no risk."
+  },
+  {
+   "text": "Additionally, Flex manages material procurement and fulfillment activities on our behalf, ensuring we maintain high standards of efficiency and scalability across our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes Flex's role positively, no risk indicated."
+  },
+  {
+   "text": "7 Table of Contents Our sales and operations planning cadence provides Flex and other partners with a rolling demand forecast.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes planning process, operational description not risk."
+  },
+  {
+   "text": "This approach enables our manufacturing partners to plan for the appropriate stock levels of raw materials and manufacturing line capacity, resulting in the right finished goods inventories to meet our end-user demand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefit of forecasting approach, not a risk."
+  },
+  {
+   "text": "The component parts within our products are either sourced by our manufacturing partners or by us from various component suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes sourcing process, factual not risk."
+  },
+  {
+   "text": "F5 has established a robust and resilient global hardware supply chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States supply chain is robust and resilient, a positive claim not a risk."
+  },
+  {
+   "text": "We continuously monitor areas of potential impact within our supply chain, such as geopolitical, supplier, and other risk factors, as well as proactively take steps to minimize disruptions, including securing alternate supply when applicable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes proactive risk monitoring efforts, framed as mitigation not a new risk."
+  },
+  {
+   "text": "Acquisitions We evaluate opportunities to acquire complementary businesses, technologies, services, and intellectual property to complement our organic innovation and research and development efforts, advance the development of our platforms, and enable further investment in our key priority areas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general acquisition strategy, business description."
+  },
+  {
+   "text": "Our evaluation of acquisition opportunities seeks to confirm that any potential transaction would accelerate our strategy, represent an attractive customer opportunity, address a customer need, align with our customer base and go-to-market strategy, and present a clear timeline and path for value accretion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes acquisition evaluation criteria, no risk stated."
+  },
+  {
+   "text": "Our acquisitions enable us to gain access to talent, technology, products and features, and can range in size and complexity, from those that enhance or complement existing products and accelerate development of features to those that result in new offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits of acquisitions, no risk."
+  },
+  {
+   "text": "In September 2025, we completed the acquisition of CalypsoAI Corp.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States factual completion of an acquisition, no risk described."
+  },
+  {
+   "text": "(\"CalypsoAI\") which is expected to integrate into our F5 ADSP to create a complete solution for securing AI inference.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expected integration of acquired company, no risk stated."
+  },
+  {
+   "text": "Additionally, we also completed several other immaterial acquisitions in 2025 and in prior years to enhance various aspects of our platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Mentions other immaterial acquisitions, factual not risk."
+  },
+  {
+   "text": "In fiscal year 2025, F5 invested in tailored coaching and skills-building for its people managers to help continuously raise the bar on performance at F5.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal management training initiative, not a risk."
+  },
+  {
+   "text": "In fiscal year 2025, F5 completed its second Double Materiality Assessment, to help identify and assess the most significant ESG issues impacting both our financial performance and our broader societal and environmental impact.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes completion of an ESG assessment, informational not risk."
+  },
+  {
+   "text": "Aligned with the definitions and required value chain scope set by the EU's Corporate Sustainability Reporting Directive (\"CSRD\"), this bi-annual assessment reflected shifts in our stakeholders\u2019 views, as well as changes in the geopolitical and macro-economic environment over the last two years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes alignment with CSRD framework, informational."
+  },
+  {
+   "text": "The Double Materiality Assessment is available on page 7 of F5\u2019s 2024 ESG report at f5.com under the \"Company \u2014 Investor Relations \u2014 ESG\" section.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Points to availability of a report, purely informational."
+  },
+  {
+   "text": "Werner joined F5 in 2001, and progressively took on roles of increasing responsibility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "He served as F5\u2019s Senior Vice President, Finance from 2012 until November 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Werner holds a B.A. in Business Administration with an Accounting Concentration from the Foster School of Business at the University of Washington.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive education background, no risk content."
+  },
+  {
+   "text": "From October 2024 to October 2025, he served as our Chief Innovation Officer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive role history, no risk content."
+  },
+  {
+   "text": "John Maddison has served as our Chief Marketing Officer since October 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announcement of new executive appointment, no risk content."
+  }
+ ]
+}

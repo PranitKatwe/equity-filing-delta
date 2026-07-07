@@ -1,0 +1,218 @@
+{
+ "ticker": "IP",
+ "sector": "Materials",
+ "filing_date": "2026-02-27",
+ "accession": "0000051434-26-000055",
+ "prior_accession": "0000051434-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 32
+ },
+ "items": [
+  {
+   "text": "TEAM-ORIENTED CULTURE At International Paper, we strive to create a high-trust, high-performance culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about company culture, not a risk disclosure."
+  },
+  {
+   "text": "UKLR Reporting Standards (the \"Standards\") Result Further notes At least 40% of the Board are women.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Governance/diversity metric disclosure, not a business risk."
+  },
+  {
+   "text": "2 The Company is reporting on the positions of CEO, CFO, Chairman of the Board and Lead Director.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional footnote about reporting scope, no risk content."
+  },
+  {
+   "text": "5 \"Executive management\" as used in this table includes our CEO.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional footnote, no substantive risk."
+  },
+  {
+   "text": "6 As part of its succession planning, the Board actively considers highly qualified women candidates whose skills, experience and perspectives align with the Company's long-term strategy while advancing progress toward the objectives outlined in UKLR 14.3.31R.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Board succession planning narrative, not a risk factor."
+  },
+  {
+   "text": "Flores's appointment, the number of women serving as members of executive management is 1 or 17%.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual diversity statistic, not a risk."
+  },
+  {
+   "text": "We also partner with agencies to help communities prepare for and recover from natural disasters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic community partnership statement, no specific risk."
+  },
+  {
+   "text": "We produce renewable fiber-based packaging solutions, primarily servicing industrial consumer goods and e-commerce markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business description, not a risk."
+  },
+  {
+   "text": "The Company manufactures a broad range of containerboard and corrugated packaging products, which are used to protect, ship and display goods across diverse end-use categories.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business/product description, no risk content."
+  },
+  {
+   "text": "Our containerboard portfolio includes linerboard, medium, whitetop, and saturating kraft, which serve as the base materials for corrugated packaging.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product line description, not a risk statement."
+  },
+  {
+   "text": "The Company converts containerboard into corrugated boxes, bulk bins, shipping containers and specialty packaging through its network of U.S. and international converting facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Operational description, not a risk factor."
+  },
+  {
+   "text": "These products support customers in industries such as food and beverage, agriculture, industrial manufacturing, personal care pharmaceuticals and consumer goods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Customer/industry description, no risk content."
+  },
+  {
+   "text": "The Company's 2024 Climate Report (which, prior to 2024, was referred to as the Company's Task Force on Climate-related Financial Disclosures Report or \"TCFD Report\") provides climate related disclosures as of December 31, 2024, consistent with the four core recommendations and 11 recommended disclosures set out in the June 2017 Final Report published by the TCFD (the \"Final 2017 TCFD Report)\".",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to existing climate reporting document, informational."
+  },
+  {
+   "text": "Our 2025 Climate Report, which will be available later in 2026, will provide climate related disclosures as of December 31, 2025, consistent with the four core recommendations and 11 recommended disclosures set out in the Final 2017 TCFD Report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Future reporting reference, informational only."
+  },
+  {
+   "text": "Our corporate sustainability reports, including our 2024 and 2025 Climate Report, are or will be available at www.internationalpaper.com/reports.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Website availability note, no risk."
+  },
+  {
+   "text": "We continue to evaluate potential future impacts in light of (i) our plans to separate our EMEA packaging business into an independent public company and (ii) ongoing developments in the global climate-policy frameworks, including the evolution of the 2015 Paris Agreement's non-binding national commitments and transparency framework. or allocation of, and market prices for, GHG credits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing climate policy uncertainty risk by tying it to the separation plan."
+  },
+  {
+   "text": "In 2025, many countries failed to submit updated climate targets, which has contributed to continued uncertainty in the allocation and market pricing of GHG credits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: countries failing to submit climate targets causing GHG credit market pricing uncertainty."
+  },
+  {
+   "text": "However, following the planned separation of our EMEA business into an independent public company, International Paper will review its obligations to report under these requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how separation will affect existing climate reporting obligations."
+  },
+  {
+   "text": "In particular, the State of California has enacted two laws that introduce expanded climate-related disclosure obligations: \u2022 California Climate Corporate Data Accountability Act (SB 253) requires annual public reporting of Scope 1 and Scope 2 GHG emissions, beginning with fiscal-year 2025 data to be disclosed by August 2026. \u2022 California Climate-Related Financial Risk Act (SB 261) mandates disclosure of climate-related reporting obligations on companies doing business in California meeting specified thresholds, subject to the resolution of ongoing legal challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new specific California climate disclosure laws (SB 253, SB 261) creating new compliance obligations."
+  },
+  {
+   "text": "In 2026, IP voluntarily self-reported under SB 261 using our 2024 Climate Report.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes actual compliance action taken under previously introduced SB 261 risk, expanding on it."
+  },
+  {
+   "text": "The Company is actively preparing to meet the upcoming requirements of SB 261 and will continue to monitor state- level climate legislation, evaluate its implications on our operations and update disclosures as laws take effect and regularity clarity evolves.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on company's preparation for SB 261, an already-introduced regulatory risk."
+  },
+  {
+   "text": "In addition to possible direct impacts, future legislation and regulation could indirectly impact the Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about possible indirect legislative impact, no specifics."
+  },
+  {
+   "text": "Flores leads the human resources function.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Flores previously served as chief human resources officer for IDEX Corporation (NYSE: IEX) (2021-2025).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Prior to that, she served in various other leadership roles at IDEX including Group Vice President of Talent (2019-2021) and Group Vice President of Human Resources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Hamic also served as senior vice president - Global Cellulose Fibers and Enterprise Commercial Excellence (2020-2022) as well as various other leadership roles at the Company since joining International Paper in 1991.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Loeffler , 48, senior vice president, chief financial officer of the Company since April 1, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "In this role, he has leadership responsibilities for the Company\u2019s global financial strategy and finance functions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive role description, not a risk."
+  },
+  {
+   "text": "Loeffler worked for Halliburton (NYSE: HAL) where he most recently served as senior vice president, Middle East and North Africa (2022-2024).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Loeffler held other positions at Halliburton including executive vice president and chief financial officer (2018-2022).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "12 Table of Contents Timothy S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table of contents/name heading, not a risk."
+  },
+  {
+   "text": "Nicholls , 64, executive vice president and president \u2013 Packaging Solutions EMEA effective April 1, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Prior to this role, he served two separate terms as the Company\u2019s chief financial officer \u2013 from 2007-2011, and again from 2018-2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Nicholls began serving in his current position leading the EMEA business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive role transition detail, not a risk."
+  },
+  {
+   "text": "Nicholls previously served in various leadership roles at the Company since joining International Paper in 1999.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Saab , 57, senior vice president, general counsel and corporate secretary since July 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "In addition to leading all Legal functions for the Company, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive role description, not a risk."
+  },
+  {
+   "text": "Risks Related to Industry Conditions \u2022 Fluctuations in the prices of and the demand for our products due to factors such as economic cyclicality and changes in customer or consumer preferences, and government regulations. \u2022 Changes in the cost and availability of raw materials, energy and transportation have recently affected, and could continue to affect, our profitability. \u2022 Competition and downward pricing pressure in the global packaging industry could negatively impact our financial results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing industry risk themes (pricing, cost, competition) without new substantive content."
+  },
+  {
+   "text": "Risks Related to the Separation \u2022 The proposed separation of our EMEA packaging business may not be completed, on the currently contemplated timeline or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding the potential failure or delay of the EMEA business separation."
+  },
+  {
+   "text": "Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations ) and in the Company\u2019s other filings with the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to MD&A section, purely administrative."
+  }
+ ]
+}

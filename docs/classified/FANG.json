@@ -1,0 +1,218 @@
+{
+ "ticker": "FANG",
+ "sector": "Energy",
+ "filing_date": "2026-02-25",
+ "accession": "0001539838-26-000010",
+ "prior_accession": "0001539838-25-000021",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 18
+ },
+ "items": [
+  {
+   "text": "(2) Our current location count is based on 880 foot spacing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical footnote about spacing assumptions used for location counts, not a risk statement."
+  },
+  {
+   "text": "Further, on January 20, 2025, President Trump issued a series of executive orders and memoranda signaling a shift in environmental and energy policy in the United States, including the revocation of several Biden administration-era executive orders related to public health, the environment, climate change and climate-related financial risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a specific regulatory shift (Trump executive orders revoking prior environmental rules) that expands the existing regulatory-change risk already present."
+  },
+  {
+   "text": "President Trump also declared a \u201cnational energy emergency,\u201d directing agencies to expedite conventional energy projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the regulatory context of executive action affecting energy policy, expanding existing regulatory risk narrative."
+  },
+  {
+   "text": "While the Trump Administration\u2019s changes to the environmental regulatory landscape in the United States continue to develop, it is possible that additional changes in the future could impact our results of operations and those of our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about possible future impact, adds no specific new risk."
+  },
+  {
+   "text": "Additionally, emerging contaminants, like per- and polyfluoroalkyl substances (\u201cPFAS\u201d) such as perfluorooctanesulfonic acid and perfluorooctanoic acid compounds, have become subject to CERCLA regulation in addition to existing federal and state chemicals regulation, and PFAS have recently been regulated under the Toxic Substances Control Act (\u201cTSCA\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory exposure (PFAS regulation under CERCLA/TSCA) not previously disclosed."
+  },
+  {
+   "text": "Other emerging contaminants could also become subject to regulation under CERCLA, TSCA or comparable state laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, generic statement that other contaminants 'could' become regulated, no specifics."
+  },
+  {
+   "text": "We cannot provide any assurance that the costs and liabilities associated with the future imposition of such remedial or regulatory compliance obligations upon us would not have a material adverse effect on our operations or financial position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer language about no assurance of no material adverse effect."
+  },
+  {
+   "text": "Later, on March 12, 2025, the EPA issued guidance narrowing the definition of \u201cwetland\u201d from the Biden-era definition in order to align that definition with the Supreme Court\u2019s May 25, 2023 decision.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific EPA action narrowing wetland definition expands existing environmental regulatory risk."
+  },
+  {
+   "text": "On March 12, 2025, the EPA announced that it is re-evaluating the existing regulations on oil and gas wastewater, including exploring opportunities for discharge from centralized wastewater treatment facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "EPA re-evaluating oil and gas wastewater regulations introduces a new specific regulatory risk area."
+  },
+  {
+   "text": "Costs may be associated with the treatment of wastewater or developing and implementing storm water pollution prevention plans, as well as for monitoring and sampling the storm water runoff from certain of our facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details costs tied to wastewater/storm water compliance, expanding existing environmental compliance risk."
+  },
+  {
+   "text": "Such rules and regulations have been proposed, amended and challenged, and finalized, and compliance deadlines have been extended or regulations rescinded.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory flux without specific new information."
+  },
+  {
+   "text": "In March 2024, the EPA 14 Table of Contents published a final rule in the Federal Register to establish comprehensive standards of performance and emission guidelines for methane and volatile organic compound emissions from new and existing operations in the oil and gas sector, including the exploration and production, transmission, processing, and storage segments.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new EPA rule on methane/VOC emissions for oil and gas operations, a material new regulatory requirement."
+  },
+  {
+   "text": "On November 26, 2025, the EPA issued an interim final rule to extend certain compliance deadlines from the March 2024 final rule.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update (extension of deadlines) to the previously described methane rule, expanding on existing risk."
+  },
+  {
+   "text": "Twenty-three states filed a lawsuit challenging the CAA amendment, and the One Big Beautiful Bill Act, passed July 4, 2025, suspends the \u201cwaste emissions charge\u201d from future implementation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific legal and legislative developments (lawsuit, Act suspending waste emissions charge) related to existing regulatory risk."
+  },
+  {
+   "text": "The current U.S. presidential administration has also expressed an intention to scale back various other climate regulations launched under previous administrations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about administration intentions, lacks specific new risk detail."
+  },
+  {
+   "text": "On February 12, 2026, the EPA issued a final rule eliminating the 2009 greenhouse gas endangerment finding, which underpins U.S. federal regulation of greenhouses gas emissions under the Clean Air Act.",
+   "category": "new_substantive_risk",
+   "rationale": "EPA eliminating the 2009 GHG endangerment finding is a major new regulatory development with material implications."
+  },
+  {
+   "text": "The final rule is expected to be subject to extensive litigation and the impact of such scaling back is difficult to predict at this time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about litigation and unpredictability, standard cautionary language."
+  },
+  {
+   "text": "The EPA has also finalized a series of greenhouse gas monitoring, reporting and emissions control rules for the oil and natural gas industry.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing EPA GHG monitoring/reporting rules already known, no new substance."
+  },
+  {
+   "text": "On November 26, 2025, the EPA issued an interim final rule to extend certain compliance deadlines from the March 2024 final rule.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate of the same PHMSA/EPA deadline extension already mentioned."
+  },
+  {
+   "text": "In addition to domestic regulation of greenhouse gases, there continues to be international interest in a global framework for greenhouse gas reductions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about international interest in climate frameworks, no specifics."
+  },
+  {
+   "text": "International Climate Finance Plan, and on January 27, 2025, the United States\u2019 Acting Ambassador to the United Nations submitted a notification of withdrawal from the Paris Agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific factual development (US withdrawal from Paris Agreement) expanding existing international regulatory risk."
+  },
+  {
+   "text": "The withdrawal became effective on January 27, 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual follow-up date for withdrawal, no new risk substance."
+  },
+  {
+   "text": "On December 1, 2025, the EPA published a final rule extending several compliance deadlines in the March 2024 final rule.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further update to the same methane rule compliance deadline extension, expanding existing risk."
+  },
+  {
+   "text": "This final rule was promptly challenged in federal court by environmental groups.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes litigation challenge to the rule, adding detail to existing regulatory uncertainty risk."
+  },
+  {
+   "text": "Additionally, in the future, the EPA may impose more 15 Table of Contents stringent air permit requirements, or mandate the use of specific equipment or technologies to control emissions, which may increase our compliance or operating costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about possible future stricter permitting, common boilerplate."
+  },
+  {
+   "text": "The new rules, found in 16 TAC Chapter 4, cover waste from oil and gas operations, such as rock and other material pulled up from the ground during drilling, as well as waste from other operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific state regulations (TAC Chapter 4) governing oil and gas waste, a new compliance risk."
+  },
+  {
+   "text": "The rules impose requirements related to waste management practices and production methods, such as recycling produced water.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific requirements under the new TAC Chapter 4 rules, expanding the newly introduced risk."
+  },
+  {
+   "text": "The rules also update requirements on the design, construction, operation, monitoring, and closure of waste management units.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on waste management unit requirements under the same new rule set."
+  },
+  {
+   "text": "Oil and natural gas pipelines are also subject to extensive safety regulation by the Pipeline and Hazardous Materials Safety Administration, a part of the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General background statement about pipeline safety regulation, not a new risk."
+  },
+  {
+   "text": "Department of Transportation, and state regulatory agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of regulatory background, no new substantive risk."
+  },
+  {
+   "text": "We are subject to such regulation when we provide such interstate transportation of oil in our midstream operations, and we have a tariff on file with FERC for that purpose.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about company's FERC tariff for interstate oil transportation, expanding existing regulatory risk."
+  },
+  {
+   "text": "The PHMSA regulations also provide for the inspection and testing of pipelines and the correction of anomalies, and require that pipeline operation and maintenance personnel meet certain qualifications and that pipeline operators develop comprehensive spill response plans and spill response training for pipeline personnel.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard PHMSA regulatory requirements, background information."
+  },
+  {
+   "text": "In October 2024, PHMSA issued a notice of proposed rulemaking recommending modernizing and simplifying the hazardous material regulations, enhancing safety standards across rail, highway, and vessel transportation while also providing annual cost savings for businesses and consumers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new PHMSA rulemaking proposal affecting hazardous material regulations."
+  },
+  {
+   "text": "Following the change in Presidential Administration, PHMSA in January 2025 extended the public comment period for the rulemaking until April 28, 2025, but has not otherwise acted on that proposed rulemaking.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on the same PHMSA rulemaking process (comment period extension), expanding existing risk."
+  },
+  {
+   "text": "In May 2025, PHMSA issued two Advance Notices of Proposed Rulemaking (\u201cANPRM\u201d) seeking public comment on updates to its safety regulations for pipelines and LNG facilities aimed at implementing the President\u2019s \u201cUnleashing American Energy\u201d Executive Order.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details additional PHMSA rulemaking actions related to pipeline/LNG safety, expanding existing regulatory risk narrative."
+  },
+  {
+   "text": "In June 2025, PHMSA issued another ANPRM to solicit stakeholder feedback on whether to repeal or amend any requirements in its pipeline safety regulations to eliminate undue burdens on the identification, development, and use of domestic energy resources and to improve government efficiency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further PHMSA rulemaking action seeking to reduce burdens, continuing the same regulatory risk thread."
+  },
+  {
+   "text": "The ultimate impact of those efforts of the Trump Administration remains to be seen.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertain impact of administration efforts, no new specifics."
+  },
+  {
+   "text": "For example, on December 17, 2019, the Texas Railroad Commission adopted rules requiring that operators of gathering lines take \u201cappropriate\u201d actions to fix safety hazards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "References an old 2019 rule, likely repositioned background information rather than new risk."
+  },
+  {
+   "text": "Our employment decisions are guided by merit, qualifications, competencies and demonstrated contributions in compliance with all applicable laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR policy statement about merit-based employment decisions, not a risk factor."
+  },
+  {
+   "text": "As of December 31, 2025, approximately 25% of our employees are women and 40% self-identify as ethnic minorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Demographic disclosure statistic, informational rather than a risk statement."
+  }
+ ]
+}

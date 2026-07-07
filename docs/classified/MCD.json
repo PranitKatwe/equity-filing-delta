@@ -1,0 +1,68 @@
+{
+ "ticker": "MCD",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2019-02-22",
+ "accession": "0000063908-19-000010",
+ "prior_accession": "0000063908-18-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 10,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Our long-term business objectives depend on the successful Systemwide execution of our strategies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that success depends on executing strategies, no specific new risk detail."
+  },
+  {
+   "text": "Our continued success depends on our System\u2019s ability to retain, regain and convert customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about customer retention and conversion, lacks specific new risk information."
+  },
+  {
+   "text": "If we are not able to quickly and effectively respond to these changes, or our competitors respond more effectively, our financial results could be adversely impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive response language without specifics, standard cautionary framing."
+  },
+  {
+   "text": "Business risks affecting our operations also affect our franchisees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that franchisees share business risks, no new specific detail."
+  },
+  {
+   "text": "If our franchisees are unwilling or unable to invest in major initiatives or are unable to obtain financing at commercially reasonable rates, or at all, our future growth and results of operations could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about franchisee financing constraints affecting growth, expanding on existing franchisee risk theme."
+  },
+  {
+   "text": "McDonald's Corporation 2018 Annual Report 5 Challenges with respect to labor availability and cost could impact our business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk area: labor availability and cost challenges impacting business and results."
+  },
+  {
+   "text": "Claims of non-compliance with these regulations could result in liability and expense to us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about liability from non-compliance claims without specifics."
+  },
+  {
+   "text": "Further, the General Data Protection Regulation (\u201cGDPR\u201d) requires entities processing the personal data of individuals in the European Union to meet certain requirements regarding the handling of that data.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory requirement (GDPR) not previously mentioned, a concrete new compliance obligation."
+  },
+  {
+   "text": "Failure to meet GDPR requirements could result in substantial penalties and materially adversely impact our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete financial risk (substantial penalties) tied to failure to meet the newly introduced GDPR requirement."
+  },
+  {
+   "text": "Regardless of whether any claims against us are valid or whether we are found to be liable, claims may be expensive to defend and may divert management's attention away from operations which could have a material adverse effect on our business and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard litigation risk boilerplate about defense costs and management distraction."
+  }
+ ]
+}

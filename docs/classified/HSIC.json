@@ -1,0 +1,218 @@
+{
+ "ticker": "HSIC",
+ "sector": "Health Care",
+ "filing_date": "2026-02-24",
+ "accession": "0001000228-26-000013",
+ "prior_accession": "0001000228-25-000014",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 26
+ },
+ "items": [
+  {
+   "text": "We believe that we Table of Contents Index to Financial Statements 23 have taken necessary steps to protect our proprietary rights, but no assurance can be given that we will be able to successfully enforce or protect our rights in the event that they are infringed upon by a third party.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about ability to enforce IP rights, standard boilerplate language."
+  },
+  {
+   "text": "Employees and Human Capital At Henry Schein, we have long recognized that as a purpose-driven company, our commitment to creating shared value drives positive societal and environmental impact while supporting long-term business success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about company values and human capital philosophy, not a specific risk."
+  },
+  {
+   "text": "Building trusted relationships with the key stakeholders who make up our Mosaic of Success - Team Schein Members (TSMs), customers, suppliers, stockholders, and society, helps drive our Company\u2019s sustained growth, amplifies our collective strengths, and brings to life our vision of making the world healthier, together.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about stakeholder relationships and company vision, not a specific risk."
+  },
+  {
+   "text": "Our recent listening efforts show that our Team Schein Values and TSM community remain our top strengths, and that overall TSM engagement is driven by a small set of people-centric factors, led by how supported, well, and connected TSMs feel, with communication and culture acting as amplifiers of trust and inclusion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Employee engagement survey results framed positively, no specific risk identified."
+  },
+  {
+   "text": "Day-to-day experience varies across teams, particularly during periods of change, shaping how workload, pace, and priorities are experienced.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about varying team experiences, not a specific risk."
+  },
+  {
+   "text": "The greatest opportunity lies in strengthening consistency and clarity around direction and expectations, so teams feel better supported as we continue to evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about opportunities for improvement, not a risk disclosure."
+  },
+  {
+   "text": "Additionally, in 2025 we conducted our second Corporate Citizenship Barometer to quantify stakeholder perceptions of the Company\u2019s environmental and social priorities, commitments, and impacts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a corporate initiative (survey), not a risk."
+  },
+  {
+   "text": "Healthcare Pathway Program, Gives Kids A Smile, Cares Package Program, Global Student Outreach Program, and Prepare to Care). \u2022 In 2025, we shipped nearly 2,500 Henry Schein CARES packages to over 200 grant recipients.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes charitable program details, not a risk."
+  },
+  {
+   "text": "These packages contained donated products enabling health care heroes across the globe to support screening, restorative, and educational events. \u2022 Developed the Stan\u2019s Service Award program to honor Stanley M.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes charitable program and award details, not a risk."
+  },
+  {
+   "text": "In 2025, we launched an \u201cIntrinsic Motivation\u201d campaign to help TSMs understand what drives them at work and how they can get more involved in initiatives that align to that motivator to help TSMs find work that is more meaningful, energizing, and fulfilling. \u2022 Career: Provide opportunities for TSMs to develop personally and professionally with an emphasis on embodying our values to achieve our collective goals with excellence and integrity. \u2022 Launched The HELIX Network, a leadership development program that cultivates high-performing TSMs to represent Henry Schein with external partners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee engagement/development programs, not a risk."
+  },
+  {
+   "text": "Our Board is provided with periodic updates regarding our talent and succession planning efforts and participates in professional development activities with our TSMs. \u2022 Enhanced company-wide recognitions, including our Teddy Philson Team Schein Award, which was redesigned in 2023 to provide more visibility and meaningful recognition to TSMs who exemplify our Team Schein Values, as well as other programs including service awards which highlight TSMs who exemplify our Team Schein Values.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes recognition programs and board activities, not a risk."
+  },
+  {
+   "text": "Bergman will retire as Chief Executive Officer on March 1, 2026, following which Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of CEO retirement date, standard governance disclosure not a risk statement."
+  },
+  {
+   "text": "Bergman will remain as Chairman of the Board.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about executive's continuing role, not a risk."
+  },
+  {
+   "text": "Mlotek was a director from 1995 to May 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual biographical detail about director tenure, not a risk."
+  },
+  {
+   "text": "Prior to his current role, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment of biographical transition text, not a risk."
+  },
+  {
+   "text": "Kochman joined us in 2015 and has held roles of increasing responsibility, including Vice President, Chief Corporate Affairs Officer, and Vice President, Corporate Affairs & Deputy Chief of Staff, Office of the CEO.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history of executive, not a risk."
+  },
+  {
+   "text": "Kochman served as General Counsel and Corporate Development Officer for a privately held company and was previously a Partner at the law firm Reed Smith LLP.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history of executive, not a risk."
+  },
+  {
+   "text": "In 2025, in addition to her global legal responsibilities, her role expanded to include leadership of our Regulatory and Compliance functions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expanded role of an executive, factual governance detail not a risk."
+  },
+  {
+   "text": "\u201cDan\u201d Daniel, joined our Board of Directors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces new board member, factual governance disclosure not a risk."
+  },
+  {
+   "text": "On May16, 2025, we issued 3,285,151 shares of common stock to funds affiliated with KKR for an investment of $250 million, at approximately $76.10 per share.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of a stock issuance transaction, not a risk statement itself."
+  },
+  {
+   "text": "On November 4, 2025, the Company and KKR entered into an amendment to the Partnership Agreement that increased the beneficial ownership limit from 14.9% to19.9% of the outstanding shares of the Company\u2019s common stock that KKR is permitted to acquire during the standstill period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Increases the ownership limit KKR can acquire, expanding an existing concentration/control risk related to the KKR relationship."
+  },
+  {
+   "text": "The standstill provisions, including the increased ownership limit, continue in effect for a period of six months following the later of the expiration of the term of the Partnership Agreement and the date on which no KKR director appointed pursuant to the Partnership Agreement is serving on the Company\u2019s Board of Directors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes duration mechanics of existing standstill provisions, procedural detail rather than new risk."
+  },
+  {
+   "text": "On December 7, 2025, pursuant to the Partnership Agreement, KKR notified the Company of its election to exercise the Extension Election (as defined in the Partnership Agreement) whereby the Company\u2019s Board of Table of Contents Index to Financial Statements 29 Directors will renominate KKR\u2019s designees, Max Lin and William K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of board renomination process under existing agreement, not a new risk."
+  },
+  {
+   "text": "The use of AI in healthcare offerings poses certain clinical risks resulting from potential misdiagnosis or misinformation provided from AI applications, diminishing critical judgment, or loss of interpersonal care from clinicians.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific clinical risks from AI misdiagnosis/misinformation in healthcare offerings, a new substantive risk not previously described."
+  },
+  {
+   "text": "These deficiencies could undermine the decisions, predictions, or analysis AI applications produce, as well as their adoption, subjecting us to competitive harm, legal liability (including under new proposed legislation regulating AI in jurisdictions such as the EU or new applications of existing data protection, privacy, intellectual property, and other laws), regulatory actions, and reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on AI risk by detailing legal, regulatory, and reputational consequences of AI deficiencies, building on the AI risk theme."
+  },
+  {
+   "text": "In addition, some AI scenarios, such as using AI applications to generate patient data (including, without limitation, using AI to capture and summarize patient interactions, and voice-activated perio charting), present ethical, privacy, or other social issues, risking reputational harm and/or reduced market demand or acceptance of AI solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on specific AI use cases and associated ethical/privacy risks, expanding the AI risk narrative."
+  },
+  {
+   "text": "The safeguards we have designed to promote the ethical implementation of AI may not be sufficient to protect us against negative outcomes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds acknowledgment that AI safeguards may be insufficient, expanding on the AI risk discussion."
+  },
+  {
+   "text": "Moreover, cyberattacks have become more difficult to detect and respond to.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk by noting increased difficulty in detecting attacks."
+  },
+  {
+   "text": "They increasingly exploit AI and machine learning techniques, such as Table of Contents Index to Financial Statements 32 generative AI-phishing, deepfake impersonations, automated vulnerability discovery, adaptive malware and large- scale credential-stuffing campaigns.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific new attack techniques (AI-driven), expanding the existing cybersecurity risk with more specificity."
+  },
+  {
+   "text": "New subsidiaries that we acquire and non-integrated subsidiaries have been, and may continue to be, targets to cyberattacks as we update their defensive measures to meet our standards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific vulnerability point regarding newly acquired subsidiaries as cyberattack targets, expanding existing cybersecurity risk."
+  },
+  {
+   "text": "Uncertainty surrounding possible changes to the health care environment, including changes to regulatory enforcement priorities, may directly or indirectly adversely affect us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory uncertainty affecting the business, standard risk framing without specifics."
+  },
+  {
+   "text": "It is possible that the adoption of the One Big Beautiful Bill Act could impact eligibility for participation in Medicare and Medicaid programs, resulting in a change in utilization of the health care system.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legislative risk (One Big Beautiful Bill Act) potentially affecting Medicare/Medicaid eligibility and utilization."
+  },
+  {
+   "text": "In addition, a number of states are considering and enacting laws or regulations to expand their oversight of health care transactions, which may impact the financial stability and strategic opportunities of certain of our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing healthcare regulatory risk by noting state-level oversight of health care transactions affecting customers."
+  },
+  {
+   "text": "Uncertain global and domestic macro-economic and political conditions that affect the economy and the economic outlook of the United States, Europe, Asia and other parts of the world could have a material adverse effect on our business, financial condition or operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic macroeconomic and political risk boilerplate common across filings."
+  },
+  {
+   "text": "2025/794 of 14 April 2025, the \u201cOmnibus\u201d Directive, amended Directive 2022/2464 by introducing a two-year postponement of the sustainability reporting requirements for financial years beginning on or after 1 st January 2025 and on or after 1 st January 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory detail about the Omnibus Directive postponing CSRD reporting requirements, a new compliance development."
+  },
+  {
+   "text": "This \u201cOmnibus\u201d legislative package amending the CSRD alters the scope, thresholds, timing and contents of reporting obligations, which may increase our costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details how the Omnibus legislation changes CSRD scope and costs, expanding on the sustainability reporting risk."
+  },
+  {
+   "text": "CSRD is being transposed into national law across EU Member States, and further legislative or implementation changes may also increase our costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing CSRD implementation risk and potential cost increases, an expansion of existing regulatory risk."
+  },
+  {
+   "text": "Effective as of January 1, 2026, the CCPA/CPRA regulatory framework includes expanded requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new CCPA/CPRA regulatory expansion effective 2026, a new compliance requirement not previously disclosed."
+  },
+  {
+   "text": "Our products and services utilize new technologies, such as AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement that products utilize AI, setting up context rather than describing a risk itself."
+  },
+  {
+   "text": "The regulatory landscape for AI is changing rapidly, with both domestic and international activity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about rapidly changing AI regulatory landscape, standard framing without specific new risk detail."
+  }
+ ]
+}

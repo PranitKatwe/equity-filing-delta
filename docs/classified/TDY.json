@@ -1,0 +1,148 @@
+{
+ "ticker": "TDY",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-20",
+ "accession": "0001094285-26-000017",
+ "prior_accession": "0001094285-25-000053",
+ "model": "claude-sonnet-5",
+ "n_added": 26,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Our business in the recent past was impacted by interruptions in the supply chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about past supply chain impact without new specifics."
+  },
+  {
+   "text": "China has also restricted the export of certain rare earth minerals and permanent magnets that are used in our products, which has in the past delayed and could in the future limit our ability to sell products that require these components or result in lower margins products that incorporate these components.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of China export restrictions on rare earth minerals affecting product sales and margins."
+  },
+  {
+   "text": "Efforts to avoid tariffs are also under increased scrutiny.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about scrutiny on tariff avoidance with no specific business impact detailed."
+  },
+  {
+   "text": "China has also increased sanctions on certain specific U.S. companies, including two Teledyne legal entities, by adding them to its Unreliable Entity List or Export Control List, which has impacted the ability of some Teledyne subsidiaries (including those not so listed) to conduct business in China.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific sanctions naming Teledyne entities and their impact on China business operations."
+  },
+  {
+   "text": "Chinese airlines and other manufacturers are under pressure to decrease their dependence on U.S. components and products and increase the use of domestic suppliers.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific market risk about Chinese customers reducing reliance on U.S. suppliers."
+  },
+  {
+   "text": "Ongoing instability in the Middle East and the conflict between Russia and Ukraine could result in supply chain and other business disruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new geopolitical causes (Middle East, Russia-Ukraine) to the existing supply chain disruption risk theme."
+  },
+  {
+   "text": "As European countries increase their defense spending, requirements to have production facilities in the EU are becoming more common to win contracts.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk regarding EU local production requirements for defense contracts."
+  },
+  {
+   "text": "If we are unable to respond to these requirements, we may be unable to bid on new programs or lose opportunities to competitors that are based in the EU.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequence of the EU production requirement risk just introduced."
+  },
+  {
+   "text": "Some of our product sales are tied to artificial intelligence (\u201cAI\u201d)-related capital expenditures and data center infrastructure.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new dependency of product sales on AI-related capex and data center infrastructure."
+  },
+  {
+   "text": "Several factors could result in volatility in AI-related spending, including constraints related to electricity generation and delivery, overbuilt capacity, new AI-focused legal regulations, and a consolidation of competing independent technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific factors elaborating on the AI spending volatility risk just introduced."
+  },
+  {
+   "text": "In the fall of 2025, a shutdown of the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific factual event (government shutdown) as part of a new risk disclosure."
+  },
+  {
+   "text": "10 Table of Contents Government lasted 43 days and resulted in delays in contract awards, issuances of export licenses, shipments and payments of invoices for several of our businesses; any new shutdown or increase in the frequency of shutdowns could have similar or worse effects.",
+   "category": "new_substantive_risk",
+   "rationale": "Details concrete business impacts (delays in contracts, licenses, payments) from a specific government shutdown event."
+  },
+  {
+   "text": "Budget cuts at NASA have negatively impacted the revenues of Engineered Systems in 2025 and are expected to further impact revenues in 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific quantifiable negative revenue impact from NASA budget cuts."
+  },
+  {
+   "text": "Government have not materially impacted our results of operations; however, our Defense Electronics businesses have seen an increase in terminations for convenience due to shifting Government priorities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of increased contract terminations for convenience due to shifting government priorities."
+  },
+  {
+   "text": "New EU cybersecurity requirements are expected to come into effect in 2026, which may impact our ability to market our products and services in the EU.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific regulatory risk from upcoming EU cybersecurity requirements."
+  },
+  {
+   "text": "In January 2026, the President issued an executive order that imposes obligations on U.S. defense contractors, including immediately prohibiting any \u201cmajor defense contractor\u201d from conducting future stock buybacks or issuing dividends at the expense of accelerated procurement and increased production capacity.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific executive order materially restricting stock buybacks and dividends for defense contractors."
+  },
+  {
+   "text": "The executive order also orders a historical review of defense contractor performance and directs the Secretary of War to develop and implement additional provisions related to prohibition of stock buybacks and corporate distributions, prohibition on the use of certain metrics in determining executive compensation and authorizing the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing provisions of the same newly introduced executive order risk."
+  },
+  {
+   "text": "Government to cap executive base salaries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on executive compensation caps under the same executive order risk."
+  },
+  {
+   "text": "At this time, it is unclear the extent to which the executive order will apply to us and significant uncertainties exist as to how the executive order will be implemented and interpreted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty context to the same executive order risk already introduced."
+  },
+  {
+   "text": "Depending on its implementation and application to us, the executive order could have a material adverse impact on our ability to make stock repurchases or issue dividends and continue to attract and retain executive talent.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential material adverse impact of the same executive order risk."
+  },
+  {
+   "text": "As a result of these annual tests, we recorded $52.5 million of pretax, non-cash trademark impairments in 2024 in the Digital Imaging and Instrumentation segments, and no comparable amounts were recorded in 2025.",
+   "category": "reworded_same_meaning",
+   "rationale": "Provides factual historical financial detail about a past impairment rather than a new forward-looking risk."
+  },
+  {
+   "text": "Teledyne FLIR has enhanced its trade compliance program.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about enhanced compliance program without specific risk detail."
+  },
+  {
+   "text": "Defending against malicious use of these new disruptive technologies could result in significant expense.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of expense from defending against malicious use of disruptive technologies like AI."
+  },
+  {
+   "text": "In the case of our Defense Electronics businesses, once a part has been designed in, our customers often require lengthy and expensive qualification testing, potentially at the system level before a new supplier can be used on production hardware.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new supply chain risk regarding lengthy qualification testing for new suppliers in Defense Electronics."
+  },
+  {
+   "text": "Additionally, overall volumes are often small when compared to commercial markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds additional detail (small volumes) supporting the previously introduced qualification testing risk."
+  },
+  {
+   "text": "Both factors limit the ability to rapidly address supply chain issues when they occur.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes the combined effect of the two factors just introduced regarding supply chain flexibility."
+  }
+ ]
+}

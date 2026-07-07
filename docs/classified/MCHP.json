@@ -1,0 +1,218 @@
+{
+ "ticker": "MCHP",
+ "sector": "Information Technology",
+ "filing_date": "2026-05-21",
+ "accession": "0000827054-26-000016",
+ "prior_accession": "0000827054-25-000077",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Department of War requirements), and handling of government-regulated data (e.g., controlled unclassified information, classified data, export-controlled data); \u2022 risks related to legal proceedings, investigations or claims; \u2022 risks related to contractual relationships with our customers and suppliers; and \u2022 protecting and enforcing our intellectual property rights.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a generic list of risk category headings (legal proceedings, contracts, IP) used to frame the section, not a new specific risk."
+  },
+  {
+   "text": "From time to time, we have experienced supply shortages, extended lead times, supplier announcements that certain orders could not be fulfilled, or the discontinuation of updates or parts for certain equipment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific historical detail (past supply shortages, lead time extensions) to the existing supply chain disruption risk."
+  },
+  {
+   "text": "Any interruption in the supply of raw materials, components, or equipment - or reduced supplier support for key manufacturing tools - could adversely affect our ability to produce products in the required volumes or on expected timelines.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of the standard risk that supply interruptions could hurt production, without new specifics."
+  },
+  {
+   "text": "Supply availability may be further limited as global semiconductor demand increases, suppliers shift production toward higher cost or more complex products, or as a result of supply chain disruptions, transit delays, or political instability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific drivers (semiconductor demand, supplier product shifts, transit delays) to the existing supply availability risk."
+  },
+  {
+   "text": "For example, as memory manufacturers transition to more advanced products, availability of the memory components we use may become constrained, have longer lead times, or become more expensive.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete example (memory component transitions) elaborating the existing supply constraint risk."
+  },
+  {
+   "text": "Consolidation among suppliers may reduce supply alternatives or alter our commercial relationships.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk driver\u2014supplier consolidation reducing alternatives\u2014not previously discussed."
+  },
+  {
+   "text": "In addition, reduced labor availability or public health concerns may further impact the supply chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reference to labor/public health impacts without new specifics, consistent with standard cautionary language."
+  },
+  {
+   "text": "Additionally, our sales may be adversely impacted if tariffs or government trade actions restrict access to needed supplies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties tariffs/trade actions to sales impact, expanding the existing supply chain risk discussion into a tariff context."
+  },
+  {
+   "text": "Tariffs, trade restrictions, and evolving global trade policies pose risks to our supply chain, cost structure, and customer demand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Broad framing sentence introducing the tariff topic without specific new facts."
+  },
+  {
+   "text": "Although semiconductors currently remain exempt from certain U.S. tariffs under the ongoing Section 232 investigation, many inputs used in semiconductor manufacturing - including chemicals, metals, and equipment - remain subject to country specific tariffs or may become subject to new duties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory detail about the Section 232 investigation and tariff exemptions affecting inputs."
+  },
+  {
+   "text": "The tariff landscape remains uncertain and may change with limited notice.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty, adds no specific new risk detail."
+  },
+  {
+   "text": "New or increased tariffs imposed on raw materials, components, equipment, or other inputs used in our production processes could increase our manufacturing costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates the existing tariff risk by specifying cost impact on raw materials, components, and equipment."
+  },
+  {
+   "text": "We may also incur incremental costs associated with supply chain adjustments undertaken to mitigate the effects of trade restrictions or tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on incremental mitigation costs, expanding the tariff/trade risk already introduced."
+  },
+  {
+   "text": "While we attempt to reduce cost burdens and secure alternative supply arrangements, we may experience higher operating costs, reduced sourcing flexibility, or lower demand for our products if customers face higher input costs or trade related disruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential operational impacts (higher costs, reduced flexibility) from tariffs, extending the same risk theme."
+  },
+  {
+   "text": "16 Table of Contents Tariffs and trade restrictions also affect our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Transitional sentence introducing the next topic (customer impact) without new substantive content."
+  },
+  {
+   "text": "If customers face reduced availability of labor, materials, or components, whether due to trade restrictions, supplier disruptions, escalating shipping constraints, or public health issues, they may reduce or suspend production of their own products, leading to decreased demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on how customer-side disruptions from tariffs/trade restrictions could reduce demand, building on prior tariff risk."
+  },
+  {
+   "text": "For example, in 2025, government actions involving Nexperia (including export control measures and interventions affecting its operations and cross-border shipments) resulted in restricted availability of certain mature-node semiconductors (such as discrete devices and standard logic) that are widely used by automotive and consumer electronics manufacturers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new event\u2014Nexperia export controls affecting mature-node semiconductor availability\u2014not previously disclosed."
+  },
+  {
+   "text": "As a result, some of our customers may experience shortages of these components which may reduce their production volumes and, in turn, reduce demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows directly from the Nexperia example, extending its implications to customer production and demand."
+  },
+  {
+   "text": "Any such customer side disruptions may negatively affect our revenue and operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about revenue impact, restating standard risk language."
+  },
+  {
+   "text": "On February 20, 2026, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal development\u2014Supreme Court ruling on IEEPA tariffs\u2014not previously part of the risk factors."
+  },
+  {
+   "text": "Supreme Court ruled that certain tariffs collected pursuant to the International Emergency Economic Powers Act (IEEPA) were unconstitutional.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new detail about the unconstitutional tariff ruling, a distinct legal event with financial implications."
+  },
+  {
+   "text": "Customs and Border Protection (CBP) began processing refunds through its Consolidated Administration and Processing of Entries (CAPE) portal.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new factual detail about CBP's refund process, part of a newly disclosed legal/financial development."
+  },
+  {
+   "text": "Although Microchip was the importer of record for products that were subject to tariffs imposed under IEEPA and should be entitled to a refund, the timing and the amount of any such recovery is not yet clear.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new uncertainty about Microchip's tariff refund eligibility and timing, a new financial risk factor."
+  },
+  {
+   "text": "As such, this could have a favorable impact on our financial position, operations, or cash flows, but we cannot predict the timing, likelihood, or amount of any refunds or other recoveries we may realize.",
+   "category": "new_substantive_risk",
+   "rationale": "Concludes the new tariff refund disclosure, noting unpredictable financial impact\u2014an entirely new topic."
+  },
+  {
+   "text": "We may lose sales if critical materials from concentrated sources become restricted or subject to export controls.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about losing sales due to export controls on critical materials."
+  },
+  {
+   "text": "Certain materials used in semiconductor manufacturing, including rare earth elements, minerals, and metals, are available from a limited number of countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail (limited countries) for the newly introduced material export risk."
+  },
+  {
+   "text": "Current U.S. restrictions on imports of certain metals of Russian origin highlight the risk that geopolitical events or sanctions may limit access to critical materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new geopolitical risk\u2014U.S. restrictions on Russian-origin metals."
+  },
+  {
+   "text": "China is a predominant producer of many rare earth materials essential to the global electronics industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds context about China's dominance in rare earth production, supporting the broader material supply risk."
+  },
+  {
+   "text": "Although some restrictions were subsequently suspended for certain U.S. end\u2011users, future restrictions or renewed implementation could constrain global supply.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the potential future constraints from export restrictions, continuing the same risk theme."
+  },
+  {
+   "text": "If China further restricts exports or pressures other countries to do so, our suppliers may face shortages, longer lead times, or increased costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the rare earth export risk to potential further Chinese restrictions and their supply chain effects."
+  },
+  {
+   "text": "Limited access to these materials could impair our ability to manufacture certain products, increase our production costs, or reduce our competitiveness relative to manufacturers with alternative supply sources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential impacts (higher costs, reduced competitiveness) from the same material access risk."
+  },
+  {
+   "text": "These constraints may also affect downstream customers; for example, export controls on rare earth magnets have previously led certain automotive manufacturers to temporarily suspend operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific example\u2014automotive manufacturers suspending operations due to rare earth magnet export controls."
+  },
+  {
+   "text": "Any such impacts on our customers\u2019 production levels may reduce demand for our products and adversely affect our operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the downstream customer impact theme from the rare earth magnet example, extending the same risk."
+  },
+  {
+   "text": "We have long-term commitment contracts with certain of our third-party suppliers to help ensure that we receive capacity from them to manufacture wafers and assemble and test our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on long-term supplier commitment contracts, expanding on existing supply risk management practices."
+  },
+  {
+   "text": "We may decide to still purchase products or services under these contracts even though we currently may not need all of them in order to take advantage of contract credits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains contractual purchase obligations that could create inventory risk, extending the same theme."
+  },
+  {
+   "text": "This could result in excess inventory and inventory reserve charges that may negatively affect our gross margin and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential financial consequence (excess inventory charges) from the same contractual risk already introduced."
+  },
+  {
+   "text": "As more companies focus on building leading edge products, our 17 Table of Contents manufacturing subcontractors are becoming capacity constrained in their ability to manufacture such products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about manufacturing subcontractors' capacity constraints for leading-edge products."
+  },
+  {
+   "text": "We regularly review the financial viability and performance of our licensees, customers, distributors, resellers and suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about routine financial viability reviews, standard risk management language."
+  },
+  {
+   "text": "Although our sales in 18 Table of Contents the Chinese market have been strong in the past, competition in China is intense.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing competitive risk in China without adding new specific facts."
+  },
+  {
+   "text": "For example, on September 13, 2025, China's Ministry of Commerce initiated an antidumping investigation of imports into China of analog semiconductors originating in the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory action\u2014China's antidumping investigation into U.S. analog semiconductor imports."
+  }
+ ]
+}

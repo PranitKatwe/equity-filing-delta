@@ -1,0 +1,203 @@
+{
+ "ticker": "TMUS",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-11",
+ "accession": "0001283699-26-000010",
+ "prior_accession": "0001283699-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 37,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Moreover, the amount and scope of insurance that we maintain against losses resulting from any such incidents or security breaches may not be sufficient to cover our losses or otherwise adequately compensate us for any disruptions to our business that may result.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that insurance coverage may be insufficient for security breach losses, expanding the existing cybersecurity/insurance risk discussion."
+  },
+  {
+   "text": "The continued development and integration of AI in our and our third-party providers\u2019 operations, products and services is expected to pose new, additional, and unknown cybersecurity risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that AI development creates new, unknown cybersecurity vulnerabilities."
+  },
+  {
+   "text": "Our competitors may seek to differentiate through marketing, brand positioning, or third-party recognition as leaders in network performance, coverage, or reliability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive marketing and brand positioning without specific new risk detail."
+  },
+  {
+   "text": "The successful execution of our digital transformation depends not only on the effective development and deployment of new technologies, but also on the willingness and ability of customers and employees to adopt digital-first channels and processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk tied to digital transformation adoption by customers and employees, a new operational risk area."
+  },
+  {
+   "text": "If adoption does not occur at the scale or pace anticipated, the intended benefits of these initiatives may not be fully realized.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequence of the digital transformation adoption risk introduced immediately prior."
+  },
+  {
+   "text": "Michael Sievert retired as our Chief Executive Officer while continuing to serve as Vice Chairman of the Company and Vice Chairman of our Board of Directors, and Srinivasan Gopalan began serving as our President and Chief Executive Officer.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material CEO transition event that is a new leadership risk factor."
+  },
+  {
+   "text": "We also announced several leadership changes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic transitional statement introducing more detailed leadership change disclosures that follow."
+  },
+  {
+   "text": "In addition, we began to implement enterprise-wide restructurings in 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new enterprise-wide restructuring activity, a concrete new operational risk."
+  },
+  {
+   "text": "If we are unable to effectively manage the CEO transition, the leadership changes and other restructuring changes, our ability to execute our business strategies and to retain key executives and talent could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly disclosed CEO transition and restructuring by describing potential adverse effects, expanding that risk."
+  },
+  {
+   "text": "For example, on August 1, 2025, we completed the acquisition (the \u201cUScellular Acquisition\u201d) of the UScellular Wireless Business (as defined below).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material acquisition (UScellular) that introduces new business risk."
+  },
+  {
+   "text": "Our restructuring and integration activities associated with the UScellular Acquisition are expected to occur over the next two years and may involve risks related to network integration and customer migration, including potential service disruptions, delays in transitioning customer accounts and systems, and challenges in maintaining customer experience during the integration period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific integration risks stemming from the newly disclosed acquisition, expanding on that risk."
+  },
+  {
+   "text": "The telecommunications industry, broadly, is dependent on population growth, including growth in the immigrant population.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk tied to population/immigration trends affecting industry growth."
+  },
+  {
+   "text": "Changes to trade policies, including higher tariffs, restrictions, and other economic disincentives to trade, may lead to operational delays, higher procurement and operational costs, and increased regulatory and compliance complexities, resulting in supply chain disruptions and higher prices, and lower demand for devices and services we sell.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding tariffs and trade policy impacts on operations and costs."
+  },
+  {
+   "text": "As a provider of telecommunications services, we depend on suppliers to provide us, directly or through other suppliers, with items such as equipment for our network, handsets, tablets, accessories, other mobile communication devices, other components and raw materials.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on suppliers, standard industry description without new specifics."
+  },
+  {
+   "text": "Changes or proposed changes in U.S. or other countries\u2019 trade policies that result in higher tariffs, restrictions, and other economic disincentives to international trade have occurred in the past, and in the future may occur, which may materially increase the costs we incur in developing, deploying and maintaining our network and offering products and services to our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the tariff/trade policy risk introduced in a prior sentence."
+  },
+  {
+   "text": "A certain portion of the increased costs may be absorbed by certain suppliers, but some suppliers may struggle to absorb the increased costs, especially over the long term, potentially leading to supply disruptions or cost pass-throughs to us that may require us to increase the prices we charge our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing supplier cost absorption issues tied to the trade policy risk."
+  },
+  {
+   "text": "In addition, rapid changes in trade policies may negatively affect procurement timelines and supplier relationships and may introduce new compliance requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on trade policy risk affecting procurement and supplier relationships."
+  },
+  {
+   "text": "We may face delays in sourcing critical equipment due to customs clearance and supply chain bottlenecks, and material changes to cost structures could pressure our expenses and customer pricing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (customs delays) to the ongoing trade policy/supply chain risk discussion."
+  },
+  {
+   "text": "Our attempts to mitigate potential disruptions to our supply chain and offset procurement and operational cost pressures, such as through alternative sourcing and/or increases in the selling prices of some of our products and services, may not be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on mitigation efforts for the supply chain/cost risk already introduced."
+  },
+  {
+   "text": "Higher product or service prices for our customers may make it more difficult to attract new customers or increase customer churn.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes downstream customer impact of the cost/pricing risk already being expanded."
+  },
+  {
+   "text": "Furthermore, we may not be able to offset any cost increases through productivity and cost-saving initiatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on inability to offset costs, part of the same trade/cost risk expansion."
+  },
+  {
+   "text": "To the extent that cost increases result in significant increases in our expenditures, or if our price increases are not sufficient to offset these increased costs adequately or in a timely manner, and/or if our revenues decrease, our business, financial condition or operating results may be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes financial impact of the previously expanded cost/trade risk."
+  },
+  {
+   "text": "Customer demand for new products and services is difficult to predict, 17 Table of Contents and adoption may be slower than anticipated or may not occur at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unpredictability of customer demand, common risk language."
+  },
+  {
+   "text": "These events may result in performance below the levels required by their contracts or cause them to suspend, limit, or cease their operations, or terminate or reduce their relationship with us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about counterparties underperforming contracts without specific new detail."
+  },
+  {
+   "text": "In addition, we operate under agreements with U.S. government agencies, including a mitigation agreement with the Committee on Foreign Investment in the United States, under which we are required to implement and maintain certain security measures and practices to address national security.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory obligation (CFIUS mitigation agreement) not previously mentioned."
+  },
+  {
+   "text": "Any failure to fulfill our obligations could result in additional compliance cost, substantial fines, penalties, or other legal and administrative actions, liabilities, and reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of failing to meet the newly disclosed CFIUS obligations."
+  },
+  {
+   "text": "Additionally, the use of AI may also raise certain ethical issues or concerns, and while we are focused on developing and implementing AI responsibly, we may be unable to identify or resolve those issues before they arise .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding AI ethical issues and potential inability to resolve them."
+  },
+  {
+   "text": "Outside of the United States, as a result of our business acquisitions, we are subject to an expanding set of privacy, data protection, and related regulatory requirements in jurisdictions where we conduct operations or process personal data.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of expanded international privacy/data regulation exposure due to acquisitions."
+  },
+  {
+   "text": "These laws may apply based on factors such as our establishment or operations in a jurisdiction or data processing activities conducted there.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies scope of the newly introduced international privacy law risk."
+  },
+  {
+   "text": "Certain international data protection regimes, including those in the European Union and the United Kingdom, impose specific obligations on the collection, use, sharing, and transfer of personal data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples (EU/UK) expanding the international data protection risk just introduced."
+  },
+  {
+   "text": "Compliance with these obligations may increase operational complexity and costs, limit our ability to use or transfer data across jurisdictions, or require changes to our products, services, or business practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details operational/cost impacts of complying with the newly described international privacy laws."
+  },
+  {
+   "text": "Enforcement approaches and penalties vary by jurisdiction and may include significant fines or other sanctions, as well as reputational harm.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about varying enforcement and penalties, standard compliance risk language."
+  },
+  {
+   "text": "The Department of Health and Human Services has indicated that it is undertaking a study on electromagnetic radiation and health research.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory development (HHS study on electromagnetic radiation) not previously mentioned."
+  },
+  {
+   "text": "We are subject to a wide variety of federal, state, and local taxes, fees, and regulatory charges.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to various taxes, standard boilerplate."
+  },
+  {
+   "text": "Tax laws and regulations are dynamic and subject to change through new legislation and evolving legislative, regulatory, administrative, and judicial interpretations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about tax law changes, standard boilerplate risk language."
+  },
+  {
+   "text": "Changes in tax laws or their interpretation or enforcement could affect our tax rates, tax liabilities, and the carrying value of deferred tax assets or liabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about tax law impact on rates and liabilities, standard boilerplate."
+  },
+  {
+   "text": "DT has incrementally sold limited amounts of shares of our common stock in the open market.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new fact about DT selling shares in the open market, a new ownership/control-related risk."
+  }
+ ]
+}

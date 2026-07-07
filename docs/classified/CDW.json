@@ -1,0 +1,158 @@
+{
+ "ticker": "CDW",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-20",
+ "accession": "0001402057-26-000011",
+ "prior_accession": "0001402057-25-000018",
+ "model": "claude-sonnet-5",
+ "n_added": 28,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "We expect to continue advancing these initiatives through incremental releases in 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about continuing existing initiatives, no new risk content."
+  },
+  {
+   "text": "Mukesh Kumar 50 Chief Services and Solutions Officer and Executive Vice President since August 2025; President, Slalom Consulting (a technology consulting company) from October 2005 to July 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography addition, not a risk factor statement."
+  },
+  {
+   "text": "In rapidly evolving categories such as cloud-based 11 Table of Contents solutions, AI, and software \u201cas a service\u201d solutions, our dependence on our vendor partners for innovation can add additional complexity as vendor channel strategies and authorization models may change more frequently.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing vendor dependence risk by adding complexity from rapidly evolving categories like AI and SaaS."
+  },
+  {
+   "text": "We are increasingly utilizing AI in our business, including interactions with our coworkers, customers, and vendor partners and in the hardware, software, and services we offer, and we also plan to further invest resources to embed AI capabilities throughout our operations and enterprise to drive scale and efficiency.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of increasing AI reliance across operations, customers, and vendors."
+  },
+  {
+   "text": "The rapid development and deployment of tools that leverage AI is also causing governments to consider and implement regulation of AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk specific to AI development and government regulation."
+  },
+  {
+   "text": "There may be new market entrants with non-traditional business, service, and delivery models, resulting in increased competition and changing industry dynamics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive risk language about new entrants, no specific detail."
+  },
+  {
+   "text": "Existing or future competitors also may seek to compete with us for acquisitions, which could have the effect of increasing the price of potential targets and reducing the number of suitable acquisitions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing competition risk regarding acquisition competition."
+  },
+  {
+   "text": "These factors, in addition to competitive pressures resulting from the fragmented nature of our industry, could affect our sales, profit margins, and earnings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about industry fragmentation affecting financials."
+  },
+  {
+   "text": "For example, growing hyperscaler marketplaces such as AWS Marketplace, Google Cloud Marketplace, and Microsoft Marketplace and evolving partner authorization and incentive models could change the role of traditional resellers, which may limit access to offerings, pressure margins, and restrict participation in certain channels.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk from hyperscaler marketplaces changing reseller dynamics and margins."
+  },
+  {
+   "text": "As we increasingly rely on cloud-based enterprise applications to support critical business functions, our operational performance depends in part on the availability, reliability, and proper integration of these externally hosted systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing technology dependence risk to specifically address cloud-based enterprise applications."
+  },
+  {
+   "text": "Implementation of new systems or significant changes to existing systems may also require updates to related business processes and internal controls, which could increase the risk of errors or delays until such controls are fully established.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific operational risk detail about system implementation affecting internal controls."
+  },
+  {
+   "text": "These third parties may also utilize or embed AI capabilities in providing their services to us and our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing third-party risk to include AI capabilities used by those parties."
+  },
+  {
+   "text": "If any of the foregoing were to occur, our reputation with our customers, our brand, and our business, results of operations, or cash flows could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reputational/business impact language common in risk factor conclusions."
+  },
+  {
+   "text": "We are engaged in a number of strategic and transformational initiatives intended to enable customer\u2011facing coworkers, accelerate profitable growth, and deliver a full portfolio of capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about strategic initiatives without specific risk detail."
+  },
+  {
+   "text": "However, the execution of these initiatives is subject to significant risks and uncertainties, and there can be no assurance regarding the timing or realization of anticipated benefits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds risk detail about uncertainty in execution of strategic initiatives."
+  },
+  {
+   "text": "Our vendor partners may also be negatively impacted by changes in government spending policies and budget priorities, which could impact their ability to fulfill their contractual obligations to us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands vendor risk to include impact of government spending policy changes."
+  },
+  {
+   "text": "For example, more recent tightening in the availability of high-performance memory and storage as demand has increased significantly and OEMs are prioritizing datacenters and AI workloads, pushing commercial devices and many server configurations into longer lead times and higher pricing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new supply chain risk regarding memory/storage shortages driven by AI demand."
+  },
+  {
+   "text": "As demand for AI increases, supply capacity for high-performance memory and storage may continue to be limited until supply capacity increases.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI-driven demand causing continued supply constraints."
+  },
+  {
+   "text": "This memory shortage could ultimately result in shortages of finished goods such as client devices and servers where memory is a key component of the bill of materials for their production.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced memory shortage risk by detailing downstream effects on finished goods."
+  },
+  {
+   "text": "Furthermore, increased use of AI by the Company, third-party outsource partners, or our vendor partners could lead to more frequent intellectual property claims against us.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of increased IP claims due to AI usage."
+  },
+  {
+   "text": "If we fail to comply with new laws, regulations, treaties, or reporting requirements, our reputation and business could be adversely impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic compliance risk language without new specifics."
+  },
+  {
+   "text": "Risks Related to Our Indebtedness Our level of indebtedness and obligations pursuant to the agreements and instruments reflecting our indebtedness could adversely affect our business, results of operations, and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard heading/introductory statement about indebtedness risk, not new substantive content."
+  },
+  {
+   "text": "A breach of any restrictive covenants under our senior unsecured credit facilities or indentures may result in a default under the terms of that agreement or instrument, upon which we may suffer adverse consequences, including the acceleration of the amounts outstanding thereunder, the trigger of cross-default provisions under other agreements or instruments, and an inability to borrow additional amounts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about consequences of breaching debt covenants."
+  },
+  {
+   "text": "These fluctuations have often been unrelated to or disproportionately impacted by the operating performance of these companies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about stock price fluctuations unrelated to performance."
+  },
+  {
+   "text": "We may fail to meet announced guidance or market expectations associated with our financial results, which could adversely affect the market price of our stock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific risk regarding failure to meet guidance affecting stock price."
+  },
+  {
+   "text": "Any guidance we provide is based on certain assumptions, which may or may not prove to be correct.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about assumptions underlying guidance."
+  },
+  {
+   "text": "Failure to meet announced guidance or market expectations going forward, particularly with respect to our operational and financial results and expectations regarding the success of our strategies and related guidance, whether due to our assumptions not being met or the impact of various risks and uncertainties, may result in either or both a decline in or increased volatility in the market price of our stock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on risk of failing to meet guidance and its effect on stock volatility."
+  },
+  {
+   "text": "In addition, price and volume fluctuations in the stock market as a whole may affect the market price of our stock in ways that may be unrelated to our financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about broader market fluctuations affecting stock price."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "MRVL",
+ "sector": "Information Technology",
+ "filing_date": "2026-03-11",
+ "accession": "0001835632-26-000011",
+ "prior_accession": "0001835632-25-000057",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "Further, the current level of capital expenditure (capex) on AI infrastructure may not be sustainable over the long term and a significant reduction in AI-related spending will likely harm our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new concern that AI capex spending levels may be unsustainable and a slowdown would harm financial results."
+  },
+  {
+   "text": "In addition, in the future our customers may decelerate or reallocate their capital expenditures for other uses, which could delay or reduce the demand for our products and negatively impact our revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the AI capex sustainability concern by adding customer capex reallocation as a related driver."
+  },
+  {
+   "text": "In addition, rapidly evolving technologies, including AI, could change the business needs of our customers in the data center and communications markets in ways we are not yet able to predict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic, vague statement about AI changing customer needs without specifying a concrete mechanism or impact."
+  },
+  {
+   "text": "AI systems may make unforeseen or unintended discoveries that may disrupt our customers\u2019 existing products, services, or business strategy and potentially render some of our customers current offerings and products obsolete which may have a material adverse effect on our revenue and profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific mechanism\u2014AI making unforeseen discoveries that could render customer products obsolete\u2014affecting revenue and profitability."
+  },
+  {
+   "text": "Advances in artificial intelligence could disrupt our business model and materially adversely affect our results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General topic-sentence style statement about AI disrupting the business model without specific detail."
+  },
+  {
+   "text": "Rapid advances in artificial intelligence (\u201cAI\u201d) and machine learning (\u201cML\u201d) technologies, including generative AI, could fundamentally alter the semiconductor industry and disrupt our business model and operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates the general disruption theme from the prior sentence in broader terms, adding no new specific mechanism."
+  },
+  {
+   "text": "AI-driven tools and platforms are increasingly being deployed across the integrated circuit (\u201cIC\u201d) development lifecycle, including in chip architecture design, electronic design automation (\u201cEDA\u201d), layout optimization, verification, testing, and process node development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive background on where AI tools are used in the IC lifecycle, not itself a risk statement."
+  },
+  {
+   "text": "If AI-enabled efficiencies substantially reduce the complexity, cost, or time required to design, develop, and manufacture semiconductor products, our competitive position could be materially and adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific risk that AI-driven efficiency gains could erode the company's competitive position."
+  },
+  {
+   "text": "AI-driven design tools may lower traditional barriers to entry in the semiconductor industry by enabling new market participants, including technology companies that have not historically engaged in chip design, to develop high-performance, custom semiconductor solutions in-house with reduced reliance on third-party chip suppliers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk: AI lowering entry barriers, enabling new entrants to design chips in-house."
+  },
+  {
+   "text": "This trend toward internal chip development, sometimes referred to as \"insourcing\" or \"vertical integration,\" could reduce demand for our products and erode our market share.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the insourcing/vertical integration trend introduced in the prior sentence."
+  },
+  {
+   "text": "In particular, large cloud computing providers, automotive original equipment manufacturers, and other technology-focused enterprises have already begun investing in proprietary chip design capabilities, and advancements in AI may accelerate this trend.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail (examples of cloud providers, automakers) for the insourcing trend already described."
+  },
+  {
+   "text": "18 Table of Contents AI and ML technologies may enable our existing competitors to achieve design and manufacturing efficiencies that we are unable to match, thereby diminishing or eliminating our current technological or cost advantages.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the competitive-disadvantage theme from AI efficiencies, adding detail about eroding cost/technology advantages."
+  },
+  {
+   "text": "Competitors that more effectively integrate AI into their IC development workflows may be able to bring products to market faster, at lower cost, or with superior performance characteristics compared to our offerings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on competitors' faster AI integration, building on the same competitive risk already introduced."
+  },
+  {
+   "text": "If we fail to adopt and integrate AI technologies into our own design and development processes at a pace consistent with or faster than our competitors, our products could become less competitive, which would have a material adverse effect on our revenue and profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct risk: the company's own failure to adopt AI could hurt competitiveness."
+  },
+  {
+   "text": "AI-generated efficiencies may compress product development cycles across the industry, which could shorten the useful commercial life of our existing products and reduce the return on our research and development investments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new mechanism\u2014AI compressing product cycles\u2014that could shorten product life and reduce R&D returns."
+  },
+  {
+   "text": "As AI tools enable more rapid iteration and optimization of chip designs, customers may expect faster product refresh cycles, placing additional pressure on our research and development resources and potentially leading to accelerated inventory obsolescence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the previous point about compressed development cycles by adding detail on customer expectations and inventory obsolescence."
+  },
+  {
+   "text": "Our investment in AI-related capabilities may not yield the anticipated benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk that the company's own AI investments may not generate anticipated returns."
+  },
+  {
+   "text": "Developing, acquiring, or integrating AI-driven tools and talent into our operations will require significant capital expenditures and operational resources, and there is no assurance that these investments will generate a return sufficient to justify their cost.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on the investment risk already introduced, specifying capital and resource requirements."
+  },
+  {
+   "text": "Additionally, the deployment of AI technologies in our design and manufacturing processes may introduce new and unforeseen risks, including design errors, security vulnerabilities, intellectual property concerns, and regulatory compliance challenges that could increase our costs, expose us to liability, or delay product launches.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks from AI deployment: design errors, security vulnerabilities, IP issues, and regulatory challenges."
+  },
+  {
+   "text": "AI technologies may disrupt the broader semiconductor supply chain and ecosystem in ways that are difficult to predict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, generic statement about unpredictable AI-driven supply chain disruption without specifics."
+  },
+  {
+   "text": "For example, AI-driven advances in chiplet-based architectures, advanced packaging, or novel materials science could render certain of our existing product lines, manufacturing processes, or intellectual property less valuable or obsolete.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a concrete example of how AI-driven advances (chiplets, packaging, materials) could obsolete existing products or IP."
+  },
+  {
+   "text": "Furthermore, the increasing use of AI in semiconductor design raises complex and evolving questions around intellectual property ownership, patentability, and trade secret protection, and the legal frameworks governing these issues remain uncertain and may develop in ways that are unfavorable to our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new legal/IP risk arising from AI's use in semiconductor design regarding ownership and patentability uncertainty."
+  },
+  {
+   "text": "See also, \u201c We may be unable to protect our intellectual property, which would negatively affect our ability to compete \u201d for additional information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A cross-reference to another risk factor section, not a new risk itself."
+  },
+  {
+   "text": "We cannot predict the pace or trajectory of AI development or the extent to which AI-driven disruption will affect the semiconductor industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about inability to predict AI's pace or impact, adding no specific new risk."
+  },
+  {
+   "text": "In addition to the above risks related to economic conditions, the U.S. has implemented a series of tariffs targeting various nations and industries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated factual context on tariffs, expanding on existing macroeconomic/trade risk disclosures."
+  },
+  {
+   "text": "These announcements have triggered global reactions, affecting markets, slowing global economic growth, and heightening concerns about broader financial instability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the impact of tariff announcements on markets and growth, building on existing trade risk."
+  },
+  {
+   "text": "Tariffs and escalations of trade tensions between the U.S. and its trading partners, especially China, and the decoupling of global economies could result in a global economic slowdown and long-term changes to global trade.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the trade tension and decoupling risk already part of existing macroeconomic risk factors."
+  },
+  {
+   "text": "As trade tensions escalate, our and our customers\u2019 global supply chains may face disruptions, reducing international trade efficiency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on supply chain disruption stemming from the already-existing trade tension risk."
+  },
+  {
+   "text": "The demand for our custom products also depends on how well they perform in the customer\u2019s intended application.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about custom product demand depending on performance, lacking new specific risk detail."
+  },
+  {
+   "text": "Even if we execute according to the customer\u2019s specifications, there is no guarantee that the customer\u2019s design will meet their performance needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the custom product risk by noting execution to spec doesn't guarantee customer satisfaction."
+  },
+  {
+   "text": "25 Table of Contents If we are unable to develop and introduce new and enhanced products that achieve market acceptance in a timely and cost-effective manner, our results of operations and competitive position will be harmed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate risk factor language about failing to introduce new products harming results."
+  },
+  {
+   "text": "If we do not accurately predict which new product features or requirements our customers will want in the future and adjust our business ahead of time, we could lose market share, face unexpected costs, and accumulate excess inventory, which would negatively affect our business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing product development risk by detailing consequences like excess inventory and lost market share."
+  },
+  {
+   "text": "We may depend on our business partners or on other third parties, such as customers and end users, to deploy our mitigations alone or as part of their own mitigations, and they may delay, decline or modify the implementation of such mitigations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new dependency risk on third parties to implement security mitigations, which they may delay or decline."
+  },
+  {
+   "text": "In addition, China has in the past and may in the future use export controls to restrict rare earth minerals, and access to rare earth minerals has been used in the past and could be used in the future as a geopolitical tool in trade negotiations between the United States and China.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new geopolitical risk regarding China's use of rare earth export controls as leverage."
+  },
+  {
+   "text": "While most of our products that are shipped to China are processed and placed into larger systems, after which they are distributed to customers in global markets outside of China, a small portion of our products are shipped into China and remain there.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive factual detail about product shipment patterns to China, not itself a new risk."
+  },
+  {
+   "text": "Then in May 2025, the BIS said it intends to cancel the AI Diffusion Rule and release new rules.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory development\u2014cancellation of the AI Diffusion Rule and forthcoming new rules."
+  },
+  {
+   "text": "The BIS announcement creates uncertainty about what products, technologies, or software might be covered by future rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the uncertainty created by the BIS regulatory change just introduced."
+  },
+  {
+   "text": "28 Table of Contents In 2025, U.S. government interactions with U.S. semiconductor companies implied that as a condition to obtaining and maintaining export licenses for certain products and technologies destined for China, they remit to the U.S. government a fee equal to fifteen percent (15%) of the gross revenue derived from such China-related sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new material risk: a 15% revenue remittance condition tied to export licenses for China."
+  },
+  {
+   "text": "In January 2026, BIS issued a new licensing policy related to chips from certain semiconductor companies, including a twenty-five percent (25%) tariff and other requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces another specific new regulatory/tariff risk\u2014a 25% tariff and new licensing requirements from BIS in 2026."
+  },
+  {
+   "text": "Historically, restrictions on sales to China were implemented by the U.S. government as national security measures that did not include revenue-sharing arrangements and export licensing was not tied to revenue sharing with the U.S. government.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides historical contextual background contrasting past and current policy, without introducing a new risk itself."
+  }
+ ]
+}

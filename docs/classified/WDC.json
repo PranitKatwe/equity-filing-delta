@@ -1,0 +1,218 @@
+{
+ "ticker": "WDC",
+ "sector": "Information Technology",
+ "filing_date": "2025-08-14",
+ "accession": "0000106040-25-000038",
+ "prior_accession": "0000106040-24-000031",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 34,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 22,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Changes in U.S. trade policy and the impact of tariffs and retaliatory actions may have a material adverse effect on our business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category tied to U.S. trade policy and tariffs not previously disclosed."
+  },
+  {
+   "text": "Our business, financial condition and results of operations may be adversely affected by uncertainty and changes in U.S. trade policies, including tariffs, trade agreements or other trade restrictions imposed by the United States or other governments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic restatement of the same tariff uncertainty theme introduced in the prior sentence."
+  },
+  {
+   "text": "For example, the United States has announced changes to its trade policies, including increasing tariffs on imports, in some cases significantly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual context supporting the newly introduced tariff risk."
+  },
+  {
+   "text": "These actions have caused substantial uncertainty and have also resulted in retaliatory measures on U.S. goods and exports to the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details retaliatory measures as part of the same tariff risk discussion."
+  },
+  {
+   "text": "Any imposition of or increase in tariffs may increase the cost of importing our products or the costs for materials or components used in our products, which would increase our costs unless we are able to implement actions to offset these costs, such as leveraging tariff exemptions where possible, optimizing our supply chain, sourcing from alternative suppliers, or passing the costs to our customers through tariff surcharges or increased prices.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete cost mechanisms and mitigation strategies related to tariffs, adding material detail."
+  },
+  {
+   "text": "There can be no assurance that we will be able to successfully offset or mitigate any resulting increase in our costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about uncertainty of mitigation success."
+  },
+  {
+   "text": "If we are unable to pass on any cost increases or if supply and demand conditions will not support price increases for our products, our revenue and gross margin would be negatively impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on financial impact (revenue/margin) of the tariff risk already introduced."
+  },
+  {
+   "text": "In addition, retaliatory actions by other countries in response to U.S. trade policy could increase prices for our products, negatively affect demand for our products or restrict our ability to manufacture our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details retaliatory action impacts within the same tariff risk topic."
+  },
+  {
+   "text": "Tariffs or other trade restrictions may also lead to increased costs for our customers, declining consumer confidence, significant inflation and diminished expectations for the economy, as well as ultimately reduced demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration of tariff-related demand and cost effects."
+  },
+  {
+   "text": "Such conditions could have a material adverse impact on our business, results of operations and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about material adverse impact."
+  },
+  {
+   "text": "In addition, tariff actions by the United States and retaliatory actions by other countries have caused, and may in the future cause, significant disruption and volatility in the financial markets, which could adversely affect the availability, terms and cost of capital, including to refinance our existing debt, and which in turn could reduce our cash flows and harm our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding financial market disruption and debt refinancing tied to tariffs."
+  },
+  {
+   "text": "10 Table of Contents Changes in tariffs and trade restrictions can be announced with little or no advance notice.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unpredictability of tariff announcements."
+  },
+  {
+   "text": "The adoption and expansion of tariffs or other trade restrictions, increasing trade tensions and retaliatory actions, or other changes in governmental policies related to tariffs, trade agreements or trade policies are difficult to predict, which makes risks difficult to anticipate and mitigate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty predicting trade policy changes."
+  },
+  {
+   "text": "If we are unable to navigate further changes in U.S. or international trade policy, it could have a material adverse impact on our business, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing risk statement repeating material adverse impact language."
+  },
+  {
+   "text": "Additionally, as AI capabilities continue to evolve and become more readily available, we may face increasingly sophisticated cyberattacks that leverage AI technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk from AI-enabled cyberattacks not previously mentioned."
+  },
+  {
+   "text": "These may include highly convincing phishing or social engineering attacks that use AI-generated deepfakes, the exploitation of vulnerabilities in electronic identity validation security programs via AI-replicated images or voices, or the inadvertent incorporation of malicious or hallucinated content generated by AI tools into our systems or those of our customers or partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples elaborating on the newly introduced AI cyberattack risk."
+  },
+  {
+   "text": "Separately, the AI technologies that we employ for business purposes may be vulnerable to prompt-injection or other 12 Table of Contents adversarial attacks, which could result in unauthorized access to or leakage of sensitive information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details a specific attack vector (prompt injection) related to AI risk already introduced."
+  },
+  {
+   "text": "BUSINESS AND STRATEGIC RISKS We are subject to risks related to the separation of Sandisk, our former Flash business, into an independent public company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category related to the Sandisk spin-off."
+  },
+  {
+   "text": "On February 21, 2025, we completed our planned spin-off of our Flash business unit from our remaining HDD business (which we refer to as the Separation), as a result of which Sandisk became an independent public company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual detail on the completed separation, supporting the newly introduced spin-off risk."
+  },
+  {
+   "text": "There can be no assurance that the anticipated benefits of the Separation will be realized, or that the costs or dis-synergies of the Separation (including costs of related restructuring transactions) will not exceed the anticipated amounts, in each case in the monetary or other amounts or within the timeframes that were anticipated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details uncertainty about realizing benefits of the separation."
+  },
+  {
+   "text": "The Separation has and may continue to impose challenges on us and our business, such as potential business disruption; the diversion of management time on matters relating to the Separation; the impact on our ability to retain talent; and potential impacts on our relationships with our customers, suppliers, employees, 13 Table of Contents and other counterparties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on operational challenges from the separation."
+  },
+  {
+   "text": "In connection with the Separation, we and Sandisk entered into various agreements to effect the Separation and provide for the temporary framework of the relationship between us and Sandisk following the Separation, including, among others, a separation and distribution agreement, a tax matters agreement, and a transition services agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes agreements formed as part of the separation risk."
+  },
+  {
+   "text": "Performance under these agreements or other related conditions outside of our control could materially affect our operations and future financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on risks tied to separation agreements."
+  },
+  {
+   "text": "We retained an equity interest in Sandisk in connection with the Separation, of which we divested a portion in June 2025 in a debt-for-equity exchange.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new financial detail about retained equity and a debt-for-equity exchange."
+  },
+  {
+   "text": "As of June 27, 2025, we retain approximately 7 million shares of common stock in Sandisk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific numeric detail supporting the equity retention risk."
+  },
+  {
+   "text": "We cannot predict the trading price of shares of Sandisk\u2019s common stock and the market value of the Sandisk shares is subject to market volatility and other factors outside of our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details market risk related to retained Sandisk shares."
+  },
+  {
+   "text": "We expect to monetize our remaining stake in Sandisk within one year from the Separation Date, but there can be no assurance regarding the timing of, or timeframe over which, such divestiture or divestitures may occur, or the amount of proceeds received by us in connection with any such divestitures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds timing details to the equity monetization risk."
+  },
+  {
+   "text": "In addition, while the Separation is intended to be tax-free to our stockholders for U.S. federal income tax purposes, there is no assurance that the Separation will qualify for this treatment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes tax risk associated with the separation."
+  },
+  {
+   "text": "If the Separation is ultimately determined to be taxable, Western Digital, Sandisk, or our stockholders could incur income tax and/or other liabilities that could be significant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential tax liability if separation is taxable, extending prior tax risk statement."
+  },
+  {
+   "text": "Additionally, the impact of generative AI on the storage and data management markets and regulation thereof is still unfolding and could evolve unpredictably, and it is difficult to accurately forecast related demands.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding generative AI's unpredictable market impact and regulation."
+  },
+  {
+   "text": "We also experience competition from other companies that produce alternative storage technologies such as flash memory, particularly in our legacy markets where we participate with our lower capacity, smaller form factor HDDs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk from flash-based alternative technologies."
+  },
+  {
+   "text": "Flash-based solutions also target our larger addressable market, i.e., Cloud.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the flash competition risk to the larger Cloud market."
+  },
+  {
+   "text": "While our ASPs tend to be relatively stable, we may experience periods during an industry downturn when we face adverse headwinds to our ASPs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about ASP headwinds during industry downturns."
+  },
+  {
+   "text": "Additionally, our gross margin may face downward pressure if we are unable to migrate our product mix to the higher capacity needs of our customers and/or to reach the desired manufacturing yield in our production.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details gross margin pressure risk tied to product mix migration."
+  },
+  {
+   "text": "Our gross margin could also face pressure if we are unable to achieve the desired manufacturing yields when we ramp our new technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details gross margin risk tied to manufacturing yield ramp-up."
+  },
+  {
+   "text": "In addition, if we fail to effectively manage our government relationships in various jurisdictions in which we operate, we may experience missed opportunities (including incentives and investments), unfavorable policy outcomes or operational inefficiencies, any of which would put us at a competitive disadvantage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding failure to manage government relationships."
+  },
+  {
+   "text": "As a result of the Separation, there is increased revenue concentration in our Cloud end market and among our top customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of increased revenue concentration due to the separation."
+  },
+  {
+   "text": "For the year ended June 27, 2025, the Cloud end market accounted for 88% of our total revenue and our top 10 customers accounted for 68% of our net revenue, with three customers each accounting for 10% or more of the Company\u2019s net revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific percentages supporting the newly introduced concentration risk."
+  },
+  {
+   "text": "15 Table of Contents If we fail to respond to changes in demand in the Cloud and hyperscale data center markets, our business could suffer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about failing to respond to Cloud/hyperscale demand changes."
+  },
+  {
+   "text": "Our business is subject to variability of sales because it is largely dependent on the buying patterns of our large Cloud customers, driven by their needs for deploying our technology in their data center buildouts, as well as on their ability to procure other products that go into such buildouts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced Cloud demand risk with details on customer buying patterns."
+  }
+ ]
+}

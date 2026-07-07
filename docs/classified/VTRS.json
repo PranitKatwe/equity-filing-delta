@@ -1,0 +1,218 @@
+{
+ "ticker": "VTRS",
+ "sector": "Health Care",
+ "filing_date": "2026-02-26",
+ "accession": "0001792044-26-000013",
+ "prior_accession": "0001792044-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "Viatris is building on its strong foundation and existing access-driven base business while pursuing increasingly complex generics and novel and innovative products targeting gaps in care, all with a first-to-market focus to leverage its scientific and development expertise to help further accelerate access.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic mission language about pursuing access and innovation, not a specific risk."
+  },
+  {
+   "text": "Viatris\u2019 goal is to seek opportunities to further advance reliable access to medicine through its proven scientific capabilities and extensive global platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic aspirational goal statement, no specific risk content."
+  },
+  {
+   "text": "While many important strides have been made to treat these illnesses, there is still more to be done.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about disease burden, no specific risk."
+  },
+  {
+   "text": "The Company is working with global and local partners to help prevent infections, increase access to diagnosis and treatment, provide healthcare solutions and work on local manufacturing initiatives with partners to transfer technology to expand access where it is most needed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general partnership/access initiatives, not a risk disclosure."
+  },
+  {
+   "text": "The facility will be subject to a reinspection by the FDA.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific facility now subject to FDA reinspection, a new regulatory compliance risk."
+  },
+  {
+   "text": "The timing of the reinspection will be determined by the FDA; however, we anticipate that the facility will be ready for reinspection in 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides timing detail on the same reinspection issue introduced above."
+  },
+  {
+   "text": "In mid-February 2026, a fire occurred in a service area at the Company's oral solid dose manufacturing facility in Nashik, India.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new event: a fire at a manufacturing facility, a concrete operational risk."
+  },
+  {
+   "text": "Manufacturing at the facility has been temporarily suspended and the Company currently expects to resume operations beginning in April 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the fire's impact by detailing suspended manufacturing and resumption timing."
+  },
+  {
+   "text": "The Company believes it has certain insurance coverages for losses, including for assets and business interruption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds mitigating detail (insurance coverage) related to the fire risk already disclosed."
+  },
+  {
+   "text": "In addition, the Company is working on its innovative pipeline assets such as EFFEXOR\u00ae for generalized anxiety disorder, Nefecon for immunoglobulin A nephropathy, and pitolisant, a selective/inverse agonist of the histamine H3 receptor (with one indication for the treatment of excessive daytime sleepiness or cataplexy in adult patients with narcolepsy and another indication for the treatment of excessive daytime sleepiness associated with obstructive sleep apnea syndrome).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes pipeline assets informationally, not a risk statement."
+  },
+  {
+   "text": "Important recent launches include Spydia\u00ae Nasal Spray in Japan.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Mentions a product launch, informational not risk-related."
+  },
+  {
+   "text": "Important recent launches include sotagliflozin in the United Arab Emirates in January 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Mentions a product launch, informational not risk-related."
+  },
+  {
+   "text": "Research and Development We believe Viatris has a broad and differentiated global R&D platform that includes deep capabilities in clinical, medical and regulatory, and through our technology platforms, that enables the Company to bring hard to develop products to approval in global markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of R&D capabilities, not a risk."
+  },
+  {
+   "text": "We work to connect more people with even more products and services to advance access and health.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mission/values statement."
+  },
+  {
+   "text": "Ultimately, we know we are stronger together, working collaboratively and relentlessly across our company and with the broader global community, in pursuit of access.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic collaborative culture statement."
+  },
+  {
+   "text": "21 Table of Contents and its commitment to the standard\u2019s implementation across Viatris\u2019 external supply chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing table of contents/commitment, non-substantive."
+  },
+  {
+   "text": "We foster listening, inclusion, and mutual respect and encourage colleagues to connect with each other to learn, grow and achieve together.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic culture/inclusion statement."
+  },
+  {
+   "text": "We seek perspective in a variety of ways and encourage healthy interactions for all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic culture statement."
+  },
+  {
+   "text": "Our pulse surveys demonstrate that our colleagues feel a strong sense of inclusion, we prioritize the health and safety of our workforce, and we have a strong sense of camaraderie and teamwork.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic survey results about workplace culture."
+  },
+  {
+   "text": "24 Table of Contents \u25e6 There are inherent uncertainties involved in estimates, judgments and assumptions used in the preparation of financial statements in accordance with U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about financial statement estimates."
+  },
+  {
+   "text": "25 Table of Contents As a result of the EWSR initiated in 2025, Viatris has announced related cost-saving and restructuring activities designed to deliver meaningful cost savings primarily over a three year period expected to optimize its commercial capabilities, enabling functions, its R&D, medical and regulatory activities, and its sourcing, manufacturing and supply chain, including inventory optimization.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new restructuring program (EWSR) with cost-saving initiatives across multiple business functions, a new operational risk."
+  },
+  {
+   "text": "Viatris has completed or is in the process of completing divestitures, product rationalizations and asset sales, and expects to initiate additional divestitures, product rationalizations and asset sales in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on divestiture activities tied to the newly disclosed restructuring."
+  },
+  {
+   "text": "Such actions have resulted and could in the future result in asset impairments, as well as reductions to the size or scope of our business, our results of operations (including but not limited to total revenues and cash flows), our market share in particular markets, or our opportunities and ability to compete with respect to certain markets, therapeutic areas or products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential negative consequences (impairments, reduced market share) of the restructuring already introduced."
+  },
+  {
+   "text": "With respect to the Biocon Biologics Transaction, in December 2025, Viatris entered into definitive agreements with Biocon for the sale of Viatris\u2019 equity stake in Biocon Biologics for total consideration of $815 million, consisting of $400 million in cash and $415 million in newly issued equity shares of Biocon.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new transaction terms for sale of Biocon Biologics stake, a new financial/strategic risk factor."
+  },
+  {
+   "text": "The shares are subject to a six-month lock-up period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific lock-up detail related to the newly disclosed Biocon transaction."
+  },
+  {
+   "text": "While the shares are listed and traded on the National Stock Exchange of India, the value of the shares remains subject to market fluctuations and there is no guarantee that Viatris will be able to sell the shares for any particular price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details market risk of shares received in the Biocon transaction."
+  },
+  {
+   "text": "In addition, integration activities have in the past and may in the future require Viatris\u2019 senior management to devote considerable amounts of time to these activities, which has in the past and could in the future decrease the time they have to manage and service Viatris\u2019 existing businesses, and develop new products or strategies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on management time diversion risk likely tied to existing integration/M&A risk factor."
+  },
+  {
+   "text": "Even if integration activities are successful, we may not achieve anticipated synergies, growth opportunities and other financial and operating benefits within the timeline we anticipate, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on integration risk regarding failure to achieve synergies."
+  },
+  {
+   "text": "The U.S. has imposed or is considering imposing tariffs on certain imports from other countries, including pharmaceutical products, ingredients and inputs, which could significantly impact our cost of doing business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of U.S. tariffs on pharmaceutical imports affecting costs."
+  },
+  {
+   "text": "The imposition of adopted, new, announced or proposed tariffs, trade restrictions or domestic sourcing requirements on pharmaceutical imports, including but not limited to products, ingredients, and inputs (such as API), could result in increased costs of goods and prices, disruptions to our supply chain, manufacturing delays, supply shortages, and adverse impacts to clinical trials.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tariff-related supply chain and cost impacts introduced above."
+  },
+  {
+   "text": "These measures could also result in decreased profit margins on certain of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing tariff impact on profit margins."
+  },
+  {
+   "text": "Decreased or negative profit margins have in the past, and could in the future, make the production of certain of our products unsustainable, thereby reducing our net sales as well as access for patients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences of decreased margins tied to tariff risk."
+  },
+  {
+   "text": "In addition, we may be restricted in our ability to adapt, or may be unable or unsuccessful in adapting, to these impacts and challenges due to, among other things, the terms of our current customer, supply or distribution agreements, or the need to obtain regulatory approval prior to making any changes to our manufacturing locations, processes or suppliers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details constraints on adapting to tariff impacts, expanding the same risk."
+  },
+  {
+   "text": "Existing, announced, and future tariffs, trade agreements, or domestic sourcing requirements, as well as potential exemptions, could also provide our competitors with an advantage to the extent such future impacts disproportionately affect us compared with them.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates competitive disadvantage from tariffs, same risk theme."
+  },
+  {
+   "text": "The impact of any adopted, announced, new or proposed tariffs, trade restrictions or domestic sourcing requirements on our business continues to be subject to a number of factors that we cannot predict, including, but not limited to, the scope, nature, amount, effective date and duration of any such measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty factors related to the tariff risk already introduced."
+  },
+  {
+   "text": "Furthermore, general uncertainty related to adopted, new or potential tariffs, trade restrictions and domestic sourcing requirements has in the past reduced and could in the future further reduce global economic activity, thereby resulting in additional adverse impacts to us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates broader economic uncertainty tied to tariff risk."
+  },
+  {
+   "text": "Recent actions by the Administration to establish most-favored-nation drug pricing pilot programs and its entrance into most-favored-nation drug pricing agreements with our competitors, could negatively impact the financial performance of innovative pipeline products and impact the business development environment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding most-favored-nation drug pricing programs affecting financial performance."
+  },
+  {
+   "text": "For example, changes to or reductions in subsidies of individual insurance plans on the healthcare exchanges in 2026 have led to a reduction in the number of individuals with health insurance in the U.S., which could lead to correlating reductions in spending on pharmaceuticals and increased reliance on our patient support programs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding ACA subsidy changes reducing insured individuals and pharmaceutical spending."
+  },
+  {
+   "text": "Instability related to government funding, particularly Congressionally appropriated funds used by the FDA or user fees, or heightened levels of staff departures at key regulatory agencies, could lead to increased regulatory uncertainty and delayed approvals for NDAs and ANDAs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding government funding instability affecting FDA approvals."
+  },
+  {
+   "text": "For example, we may lose market exclusivity for Amitiza\u00ae 24 \u03bcg in Japan in June 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new risk of losing market exclusivity for a named product in Japan."
+  }
+ ]
+}

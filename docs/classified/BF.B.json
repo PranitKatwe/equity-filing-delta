@@ -1,0 +1,218 @@
+{
+ "ticker": "BF.B",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-06-12",
+ "accession": "0000014693-26-000024",
+ "prior_accession": "0000014693-25-000062",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 37
+ },
+ "items": [
+  {
+   "text": "1 Within the Jack Daniel\u2019s portfolio, Jack Daniel\u2019s 14-Year-Old Tennessee Whiskey took home honors for World\u2019s Best Tennessee Whiskey and Jack Daniel\u2019s Bonded won the award for Best Tennessee Whiskey (No Age Statement) at the 2026 World Whiskies Awards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces an award won by a product; purely promotional, not a risk."
+  },
+  {
+   "text": "3 The Jack Daniel\u2019s Bonded Series includes Jack Daniel\u2019s Bonded Tennessee Whiskey, Jack Daniel\u2019s Bonded Tennessee Rye, and Jack Daniel\u2019s Triple Mash Blended Straight Whiskey.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product lineup composition; factual product description, no risk implication."
+  },
+  {
+   "text": "We build our portfolio by investing in platforms that keep us deeply connected to our consumers and help us relentlessly forge the world's most authentic, admired, and enduring spirits brands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of company philosophy/strategy with no specific risk content."
+  },
+  {
+   "text": "We believe Brown-Forman\u2019s status as a publicly traded, family-controlled company has contributed to this growth and our ability to create long-term value for all stockholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about company structure and value creation; no risk introduced."
+  },
+  {
+   "text": "In recent years, we faced a challenging, volatile environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague reference to a 'challenging, volatile environment' without specifics; cautionary framing only."
+  },
+  {
+   "text": "As we move toward a reimagined future with renewed enthusiasm for the opportunities ahead, our core values and ambition to deliver \u201cNothing Better in the Market\u201d will continue to guide our decisions and actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Motivational, forward-looking language about values; no concrete risk."
+  },
+  {
+   "text": "Individually and collectively, these expressions add great value to the Company and to our consumers around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about brand value; no risk."
+  },
+  {
+   "text": "We continue to invest in the global expansion of our established RTD brands, most notably New Mix, which has demonstrated sustained leadership in Mexico and is now being introduced to select markets in the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes business expansion of RTD brands; factual growth narrative, not a risk."
+  },
+  {
+   "text": "This expansion reflects our broader desire to leverage our tequila expertise and meet growing consumer demand for authentic, spirit-based cocktails.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains business rationale for expansion; not risk-related."
+  },
+  {
+   "text": "In March 2026, we jointly announced a mutual agreement to conclude that partnership, and with that we will assume management of supply, sales, marketing, and distribution of Jack Daniel\u2019s Country Cocktails effective July 7, 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ending of a partnership and assumption of operational duties; factual business update without risk framing."
+  },
+  {
+   "text": "In fiscal 2026, we began implementing the most significant evolution of our U.S. distribution network in over 60 years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a distribution network change; factual business description."
+  },
+  {
+   "text": "This multi-year transformation involved a comprehensive review of open and control states 2 , resulting in new distributor 1 IWSR 2025 data.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Details on distribution review process; factual, not risk-specific."
+  },
+  {
+   "text": "2 Control states refer to the 18 state-managed markets in the United States where government agencies oversee the wholesale or retail distribution of distilled spirits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional footnote about control states; informational only."
+  },
+  {
+   "text": "10 organizations across 25 markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary data point about organizations/markets; no risk content."
+  },
+  {
+   "text": "In fiscal 2026, we brought on new distributors in 14 open states.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about new distributors; business update, not risk."
+  },
+  {
+   "text": "We believe these relationships will enhance our commercial execution and operational excellence to drive long-term growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Optimistic statement about relationships aiding growth; no risk."
+  },
+  {
+   "text": "Human Capital Resources Overview At Brown-Forman, our values-based culture is the foundation of our long-term stewardship.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR overview statement; boilerplate."
+  },
+  {
+   "text": "In fiscal 2026, we also expanded the presence of our operational hubs in India, Mexico, and Poland.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expansion of operational hubs; factual, not risk."
+  },
+  {
+   "text": "Our high engagement scores and low voluntary attrition rates reflect our commitment to a safe and supportive environment, through which we seek to support the stability of our supply chain and the integrity of our global commercial operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about engagement and attrition; no specific risk detail."
+  },
+  {
+   "text": "Total Rewards To attract and retain premium talent, Brown-Forman maintains a globally consistent yet locally competitive Total Rewards framework.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR compensation philosophy statement."
+  },
+  {
+   "text": "We refresh our market data annually, focusing on both locally relevant benefits and compensation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes routine compensation review process; no risk."
+  },
+  {
+   "text": "We price roles based on robust third-party salary surveys specific to each employee's geography, function, and level.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes salary benchmarking process; no risk."
+  },
+  {
+   "text": "Beyond initial market pricing, we proactively monitor internal pay parity during annual cycles and talent acquisition windows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal pay monitoring; no risk."
+  },
+  {
+   "text": "This disciplined approach seeks to ensure that our compensation remains competitive with the external market while upholding our internal standards of fairness and equity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about compensation competitiveness; no risk."
+  },
+  {
+   "text": "Talent Development We cultivate a high-performance culture by aligning individual development with our strategic business objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic talent development philosophy statement."
+  },
+  {
+   "text": "Through robust succession planning and a diverse array of experiential learning opportunities\u2014including global project roles and technical upskilling\u2014we aim to cultivate talent that remains agile.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes succession planning and learning opportunities; no risk."
+  },
+  {
+   "text": "Our strategy focuses on optimizing our existing human capital; we facilitate internal career pathways that allow long-tenured employees to acquire new competencies in emerging areas of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal career pathway strategy; no risk."
+  },
+  {
+   "text": "By tracking and analyzing internal movement data, we validate that our development programs provide the necessary scale and depth to support our global expansion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal data tracking for development programs; no risk."
+  },
+  {
+   "text": "Culture & Inclusion Brown-Forman\u2019s inclusion strategy is a core component of our talent management and brand-building efforts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about inclusion strategy; no risk."
+  },
+  {
+   "text": "We believe that an inclusive environment is essential for attracting elite talent and fostering the innovative thinking required for global growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General belief statement about inclusive environment; no risk."
+  },
+  {
+   "text": "This approach seeks to ensure our workforce remains representative of our global consumer base, which allows us to maintain deep, authentic connections with the markets in which we operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about workforce representation; no risk."
+  },
+  {
+   "text": "We regularly evaluate attrition through a dual lens of quantitative data and qualitative feedback to ensure our retention strategies remain aligned with employee expectations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes attrition monitoring approach; no risk."
+  },
+  {
+   "text": "This ongoing global monitoring enables us to identify and respond to talent trends early, supporting the continued engagement and stability of our workforce across all geographic regions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about monitoring talent trends; no risk."
+  },
+  {
+   "text": "Prior to joining the Company, from January 2026 to March 2026, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail; not a risk factor."
+  },
+  {
+   "text": "Peters served as Executive Vice President, Enterprise Transformation of Whirlpool Corporation, a publicly traded home appliance company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail; not a risk factor."
+  },
+  {
+   "text": "Peters previously served as Executive Vice President, Chief Financial and Administrative Officer of Whirlpool Corporation from August 2016 through December 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail; not a risk factor."
+  },
+  {
+   "text": "Peters joined Whirlpool Corporation in 2004 and, prior to his appointment as Chief Financial Officer, held various roles of increasing responsibility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail; not a risk factor."
+  },
+  {
+   "text": "While certain U.S. tariffs were struck down by the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new development (Supreme Court striking down certain tariffs) that expands the existing tariff risk narrative with concrete legal detail."
+  },
+  {
+   "text": "Supreme Court in February 2026, the United States subsequently announced additional new tariffs on nonexempt imports, and the U.S. tariff rate remains at a historically high level.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific new facts about additional tariffs and a historically high tariff rate, expanding the pre-existing tariff risk with concrete detail."
+  },
+  {
+   "text": "Additionally, newly announced tariffs, particularly in light of the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the tariff risk discussion with new specifics about recently announced tariffs, expanding the existing risk factor."
+  }
+ ]
+}

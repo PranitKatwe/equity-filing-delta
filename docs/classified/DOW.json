@@ -1,0 +1,153 @@
+{
+ "ticker": "DOW",
+ "sector": "Materials",
+ "filing_date": "2026-02-03",
+ "accession": "0001751788-26-000018",
+ "prior_accession": "0001751788-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 27,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 4,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "In 2025, Dow earned significant recognition from Great Place to Work \u00ae , including: \u2022 World's Best Workplaces \u2122 for the third consecutive year \u2022 100 Best Companies to Work For \u00ae for the sixth consecutive year \u2022 Ranked #1 on the Best Workplaces in Manufacturing & Production \u2122 for the second consecutive year, Dow's fifth consecutive year on the list These are significant accomplishments that represent several of the many awards the Company received related to its efforts to create a positive workplace culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes workplace culture awards; purely promotional, not a risk disclosure."
+  },
+  {
+   "text": "This approach supports employee growth, development and skill building for evolving business needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about employee development support, not risk-related."
+  },
+  {
+   "text": "The survey covers topics such as workplace culture, leadership effectiveness, the work environment and overall employee satisfaction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes survey topics; generic descriptive content, no risk."
+  },
+  {
+   "text": "Other Business Experience since January 1, 2021 Andre Argenton, 51 Chief Technology & Sustainability Officer 2026 DOW INC.: Chief Technology & Sustainability Officer since January 2026; Chief Sustainability Officer and Vice President of Environment, Health, Safety & Sustainability (EHS&S) from March 2022 to January 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography update, standard governance disclosure."
+  },
+  {
+   "text": "TDCC: Chief Technology & Sustainability Officer since January 2026; Chief Sustainability Officer and Vice President of EHS&S from March 2022 to January 2026; Vice President of Research and Development from May 2018 to March 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "TDCC: Senior Vice President, Operations, Manufacturing & Engineering since October 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "The Company utilizes cash from operations and its ability to access capital markets to meet the Company's cash requirements for working capital, capital projects, debt maturities and other needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of liquidity management approach, standard language."
+  },
+  {
+   "text": "Adverse economic conditions, a contraction in the availability of credit in the marketplace, or changes in the Company's credit ratings, including failure to maintain an investment grade rating, could increase borrowing costs and reduce sources of liquidity, restricting the Company\u2019s flexibility to respond to changing business and economic conditions or to fund capital projects and working capital needs, which could adversely impact the Company's results of operations and liquidity.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard credit rating/liquidity risk language commonly found in filings, no new specifics."
+  },
+  {
+   "text": "To address these challenges amidst the ongoing macroeconomic uncertainty, the Company has taken targeted cost reduction initiatives and other actions to advance its balanced capital allocation approach and enhance financial flexibility, and will continue to seek additional actions to mitigate the impact of macroeconomic uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about specific mitigation actions taken in response to existing macroeconomic uncertainty risk."
+  },
+  {
+   "text": "Unforeseen macroeconomic conditions could result in additional actions that could adversely affect equity performance until market conditions improve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential consequences of macroeconomic uncertainty already being discussed."
+  },
+  {
+   "text": "For additional information, see Part II Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another filing section, not substantive content."
+  },
+  {
+   "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations and Note 5 to the Consolidated Financial Statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to MD&A and financial statement notes, procedural."
+  },
+  {
+   "text": "During 2025, the United States changed its long-standing trade policies and announced significant new tariffs, with certain exceptions, on virtually all imported goods.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new fact about major U.S. tariff policy changes not previously disclosed."
+  },
+  {
+   "text": "These actions triggered the negotiation of new trade agreements with certain U.S. trading partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a consequence (trade negotiations) stemming from the newly introduced tariff risk."
+  },
+  {
+   "text": "While these negotiations resulted in the reduction of certain recently imposed tariffs, the average U.S. tariff rate remains at its highest level since the 1930s.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific quantitative context (highest tariff rate since 1930s) expanding the tariff risk."
+  },
+  {
+   "text": "In response to the changes in U.S. trade policies, certain U.S. trading partners imposed retaliatory tariffs on U.S. imports.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes retaliatory tariffs as part of the broader trade policy risk already introduced."
+  },
+  {
+   "text": "Shifts in tariffs, trade agreements, import/export restrictions, trade sanctions, sector specific trade barriers, and other governmental trade actions, whether enacted by the United States or other countries, especially those instituted in the Company's significant markets or markets where its significant customers or suppliers are located, and the associated uncertainty of long-term trade policies, could impact the Company's sales volume, sales price, and production and other costs.",
+   "category": "reworded_same_meaning",
+   "rationale": "General boilerplate-style risk language about trade policy impacts, similar to standard risk factor phrasing."
+  },
+  {
+   "text": "Changes in trade policies may also cause disruptions to material sourcing and availability, global supply chains and logistics and access to end markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific supply chain and sourcing impacts tied to the trade policy risk."
+  },
+  {
+   "text": "Additionally, changes in U.S. trade policy and associated responses from trading partners may create shifts in global market dynamics, disrupt the long-term planning process for governments and private enterprises and result in continued global financial market volatility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates market and planning disruption effects of trade policy changes."
+  },
+  {
+   "text": "There can be no assurance that, in the future, the United States, other countries or international trade bodies will not institute new tariffs or more restrictive trade policies or remedies and, as a result, the Company may face additional uncertainty and adverse impact on its business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of uncertainty around future tariffs, extending existing risk narrative."
+  },
+  {
+   "text": "These factors have had and are continuing to have a negative impact on the Company's results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "States realized negative impact from previously described trade factors, reinforcing existing risk."
+  },
+  {
+   "text": "The Russia-Ukraine conflict has been ongoing for more than three years since Russia's February 2022 invasion of Ukraine, and although there have been recent efforts to seek a resolution, it remains unclear if these will be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates status of ongoing Russia-Ukraine conflict risk already known."
+  },
+  {
+   "text": "In light of sanctions imposed by the United States, Canada, the European Union and other countries as a result of this conflict, Dow ceased in-bound investment to Russia and maintains reasonable, risk-based measures to ship into Russia only limited goods that comply with applicable legal restrictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific update on sanctions compliance actions related to existing geopolitical risk."
+  },
+  {
+   "text": "The Company's business operations are subject to the cyclical nature of the supply-demand balance in the chemical industry.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard industry cyclicality statement, common boilerplate risk language."
+  },
+  {
+   "text": "These systems may also be used to collect and process sensitive customer and personal employee data the Company may be legally required to store, process and protect in accordance with complex country- and territory-specific laws that continue to evolve, violations of which could result in significant criminal or civil sanctions, investigations, or enforcement actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity/data risk with detail about legal data protection obligations."
+  },
+  {
+   "text": "While the Company has been the target of cyberattacks, including phishing, social engineering, industrial espionage and other malicious attacks, and has determined that certain of these attacks have resulted in and could continue to result in unauthorized third parties gaining access to the Company's information systems and certain confidential business information, the Company has a comprehensive cybersecurity program that is continuously reviewed, maintained and upgraded and, to date, these attacks have not materially impacted the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "New admission that actual cyberattacks resulted in unauthorized access to systems and confidential data, a specific new disclosure."
+  },
+  {
+   "text": "Also, if the Company\u2019s key suppliers of feedstock and energy, which may include limited or single source suppliers, are unable to provide the raw materials or energy required for production, it could have a negative impact on the Company\u2019s results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard supplier dependency risk language common to chemical industry filings."
+  }
+ ]
+}

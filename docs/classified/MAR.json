@@ -1,0 +1,73 @@
+{
+ "ticker": "MAR",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-10",
+ "accession": "0001048286-26-000007",
+ "prior_accession": "0001628280-25-004818",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Intermediaries continue to use a variety of aggressive online marketing methods to attract guests, including the purchase by certain companies of trademarked online keywords such as \u201cMarriott\u201d from Internet search engines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates a known competitive dynamic about intermediaries using aggressive online marketing, without adding materially new specifics."
+  },
+  {
+   "text": "Many intermediaries also operate their own loyalty programs designed to foster customer loyalty to their platforms, which could erode loyalty to our brands, offerings, and direct digital channels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how intermediary loyalty programs could erode brand loyalty, expanding on the existing intermediary competition risk."
+  },
+  {
+   "text": "Bookings through these intermediaries are more costly to hotels in our system than bookings through our direct digital channels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on cost differences between intermediary and direct bookings, a known distribution channel risk."
+  },
+  {
+   "text": "In addition, the introduction of AI capabilities by existing and emerging travel intermediaries may change the way guests plan, book, and pay for travel, which may disrupt how our products and services are marketed and distributed, potentially eroding brand loyalty, increasing distribution costs, and negatively affecting our Loyalty Program, which could adversely impact our financial performance and our ability to grow our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding AI-driven travel intermediaries disrupting marketing, distribution, and loyalty programs."
+  },
+  {
+   "text": "Our hotel owners, service providers, and other third parties are subject to similar risks, which could also impact us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement extending existing risk to third parties without new specifics."
+  },
+  {
+   "text": "In addition, to the extent that legislative or regulatory changes negatively impact credit card issuers or networks, we could also see material adverse effects on our business, financial condition, or results of operations, including reduced revenues from our co-branded credit card agreements and a range of adverse impacts to our Loyalty Program, such as reduced program funding.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about regulatory impacts on credit card issuers affecting co-branded card revenue and loyalty program funding, expanding an existing risk area."
+  },
+  {
+   "text": "In addition, some hotel owners have leased their property from a third-party landlord.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about lease arrangements, not itself a risk."
+  },
+  {
+   "text": "If hotel owners cannot make required lease payments or otherwise comply with lease terms, the landlord could declare a default and terminate the lease, as we have seen in the past and could see in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing hotel owner/lease risk by noting historical and potential future default/termination events."
+  },
+  {
+   "text": "Additionally, if we fail to keep pace with rapidly-evolving technological developments in AI and other emerging technologies, our competitive position and business may suffer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk about failing to keep pace with AI and emerging technology impacting competitive position."
+  },
+  {
+   "text": "Compliance with evolving regulatory frameworks governing AI and other emerging technologies may affect our use of such technologies and our ability to incorporate such technologies into our processes, offerings, and services, and may result in increased costs and exposure to legal proceedings or investigations in the event of 18 Table of Contents alleged noncompliance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory compliance risk specifically tied to AI and emerging technology use, including legal exposure."
+  },
+  {
+   "text": "In addition, uncertainty around cross-border data transfers, including from the U.S., may require us to restrict certain data transfers, cease doing business with certain third parties, or change how data flows throughout our business, any of which could materially impact our operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding cross-border data transfer restrictions impacting operations."
+  }
+ ]
+}

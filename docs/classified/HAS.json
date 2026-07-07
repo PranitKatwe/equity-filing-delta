@@ -1,0 +1,218 @@
+{
+ "ticker": "HAS",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-25",
+ "accession": "0000046080-26-000011",
+ "prior_accession": "0000046080-25-000027",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 32
+ },
+ "items": [
+  {
+   "text": "Edge of Eternities and Marvel's Spider-Man also contributed to performance as well as high demand for our backlist sets and Secret Lair offerings. \u2022 Digital licensing was once again led by Monopoly Go!, a mobile game from our partners at Scopely, Inc., and remains a meaningful contributor to licensing revenues. \u2022 In our Consumer Products segment, we saw solid performance from BEYBLADE, TRANSFORMERS and Hasbro Gaming, as well as success from recent innovation, such as the announcement of Baby Evie joining PEPPA PIG.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive business performance narrative about brand and licensing performance, not a risk statement."
+  },
+  {
+   "text": "In addition, we saw strong success from partner licensed brands, such as MARVEL. \u2022 Licensing in our Consumer Products segment continues to drive strong operating profit.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business performance commentary, no risk content."
+  },
+  {
+   "text": "As part of our Playing to Win strategy, we have realigned our brand portfolios to correspond our refreshed strategy: \u2022 Grow Brands : Brands representing the highest margin, highest growth opportunities in categories where we see significant share and/or underlying market growth. \u2022 Optimize Brands : Brands representing opportunities to maintain or grow share while improving operating profit returns. \u2022 Reinvent Brands : Brands representing opportunities to reinvent or restructure to drive innovation and improved operating profit returns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic brand portfolio framework, informational not risk-related."
+  },
+  {
+   "text": "Brands periodically are reclassified, based on changes in growth, profitability or other characteristics, and when those changes occur, the respective portfolio historical revenue is included within the new classification.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting/reporting methodology note, not a risk."
+  },
+  {
+   "text": "A recent example of this includes a return of MONOPOLY at McDonald's for the first time in a decade, which featured a new digital-first format, and a resurgence from MY LITTLE PONY through licensing across merchandising categories, music, and trading card products. \u2022 Digital Games Licensing : We out-license certain of our brands to other third-party digital game developers who transform Hasbro brand-based characters and other intellectual properties into digital gaming experiences such as MONOPOLY GO! and Baldur's Gate 3.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business narrative about licensing successes, not a risk statement."
+  },
+  {
+   "text": "In addition, a new slate of multi-year licensing partnerships was announced in 2025 that expand Hasbro's presence on the casino floor.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announcement of new licensing partnerships, descriptive not risk-related."
+  },
+  {
+   "text": "New in 2025 was the arrival of baby Evie, who joined Peppa and George as the newest member of the PEPPA PIG family during a cinematic event that featured the reveal of ten new episodes and six new songs. \u2022 Hasbro Direct .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product/brand narrative, descriptive only."
+  },
+  {
+   "text": "It includes the following platforms: \u2022 Magic: The Gathering Arena \u2013 the free-to-play online adaptation of the MAGIC: THE GATHERING card game where players can explore the fantasy worlds, play a variety of game formats to collect cards and test skills against friends and other players around the world, or participate in in-game tournaments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of digital platform, no risk content."
+  },
+  {
+   "text": "This game continues to be enhanced and has helped expand the user base of MAGIC players. \u2022 SECRET LAIR \u2013 our internet-based storefront where MAGIC: THE GATHERING fans can purchase exclusive and limited versions of cards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description, descriptive not risk-related."
+  },
+  {
+   "text": "9 Table of Contents \u2022 D&D Beyond \u2013 the premier digital content platform for DUNGEONS & DRAGONS where fans can access online versions of official rule books, character sheets and catalogs, adventures, and other digital tools such as character builders and official D&D content available for purchase. \u2022 Hasbro PULSE \u2013 Hasbro's ultimate fan ecommerce destination and sales platform, where fans get exclusive access to behind-the-scenes content, limited run and special edition collectibles and action figures, and other crowd-funded projects that bring dream products into premium reality.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product/platform description, descriptive only."
+  },
+  {
+   "text": "Finally, our continued investment in digital gaming is considered a key growth engine to expand our reach in the world of play.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic statement about digital gaming investment, no specific risk."
+  },
+  {
+   "text": "As of December 28, 2025, we have four internally owned and operated gaming studios working on a mixture of titles that will both introduce fans to new worlds and franchises, as well as further connect and immerse fans with existing IP.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update on number of gaming studios, descriptive metric."
+  },
+  {
+   "text": "We have also entered into key partnerships with external studios, in an effort to leverage their expertise to bring our brands to life in new, unique ways.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about partnerships, descriptive not risk-related."
+  },
+  {
+   "text": "Customer Concentration In 2025, net revenues from our top five customers accounted for approximately 35% of our consolidated global net revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated specific percentage (35%) quantifying customer concentration, expanding on an existing concentration risk with new data."
+  },
+  {
+   "text": "Our multi-year plan is focused on strengthening capabilities and maintaining a robust productivity pipeline to fuel Hasbro\u2019s growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic statement about productivity plan, no specific risk."
+  },
+  {
+   "text": "Key areas of focus include optimizing our manufacturing and logistics network, advancing integrated planning, and embedding design to value, and design for manufacture principles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists focus areas for supply chain improvement, descriptive not risk-specific."
+  },
+  {
+   "text": "Through these strategic pillars, our supply chain continues to create value and reduce costs across transportation, warehousing, and ex-factory expenses, while sustaining progress to continue to lower inventory levels and improving operating cash flow.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes supply chain value creation, descriptive not a risk."
+  },
+  {
+   "text": "As part of the transformation, we continue to pursue a resilient sourcing strategy by diversifying our manufacturing footprint.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States pursuit of diversified sourcing strategy, a mitigation description not a new risk."
+  },
+  {
+   "text": "The majority of our products are manufactured by third-party manufacturers located in China, Vietnam, India, Japan, Belgium, the United States, Mexico, and Indonesia.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific list of manufacturing countries, adding detail that expands existing supply chain/geographic concentration risk."
+  },
+  {
+   "text": "Product costs are generally based on annual pricing agreements with manufacturing partners throughout the year, reflect estimated market conditions, and typically remain fixed unless significant market changes occur.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes pricing agreement practices, informational not risk-specific."
+  },
+  {
+   "text": "Our logistics network is designed to ensure product availability across diverse retail, digital, and direct-to-consumer channels, while maintaining operational flexibility and cost efficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes logistics network design, descriptive."
+  },
+  {
+   "text": "It includes owned and leased distribution centers as well as third party logistics providers worldwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes distribution center structure, descriptive."
+  },
+  {
+   "text": "We manage inbound and outbound transportation, order fulfillment, and network optimization to ensure delivery to retail partners and consumers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes logistics management functions, descriptive."
+  },
+  {
+   "text": "11 Table of Contents Continued enhancements in supply planning and forecasting are designed to improve responsiveness from manufacturing through delivery while reducing working capital requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes supply planning improvements, descriptive not risk-specific."
+  },
+  {
+   "text": "Initiatives in inventory optimization, process simplification, and end-to-end system integration contribute to greater efficiency and profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes efficiency initiatives, descriptive."
+  },
+  {
+   "text": "In parallel, our design to value and design for manufacture initiatives focus respectively on maximizing customer value and optimizing design for efficient production.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes design initiatives, descriptive."
+  },
+  {
+   "text": "Together, these drive cost efficiency and a continuous productivity pipeline aligned with long-term growth priorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summarizes cost efficiency goals, descriptive."
+  },
+  {
+   "text": "We remain vigilant in monitoring regulatory requirements and potential supply chain disruptions, including trade restrictions, tariff impacts, labor constraints, environmental impacts, and geopolitical developments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explicitly names tariff impacts and geopolitical developments as monitored risks, expanding on general supply chain risk disclosure with specific risk factors."
+  },
+  {
+   "text": "Working closely with our partners, we uphold high standards of product quality, safety, and ethical manufacturing, and ensure compliance with applicable trade and labor regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes compliance and quality standards, descriptive not a new risk."
+  },
+  {
+   "text": "We view sustainability challenges as opportunities to innovate and to continuously improve our product design and operational efficiencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement framing sustainability as opportunity, not a risk disclosure."
+  },
+  {
+   "text": "We continue to work to integrate climate risk identification and mitigation into our overall enterprise risk management process and business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about integrating climate risk into ERM, restates existing risk management approach."
+  },
+  {
+   "text": "As part of this effort, we published a Climate and Nature Transition Plan and an IFRS S2 disclosure, where we describe how climate change could impact our business and the key actions we are taking that are designed to strengthen our resiliency.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new disclosures (Climate and Nature Transition Plan, IFRS S2) describing how climate change could impact the business, a new specific risk disclosure."
+  },
+  {
+   "text": "These disclosures contribute to our ongoing preparation work for the European Union's Corporate Sustainability Reporting Directive (\"CSRD\").",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory compliance risk related to EU's CSRD requirement."
+  },
+  {
+   "text": "Digital games that are accessible to children or families may be subject to additional laws and regulations governing online safety, age-appropriate design, parental controls, advertising practices and user interaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk regarding online safety and age-appropriate design laws for digital games."
+  },
+  {
+   "text": "Our digital games are subject to consumer protection and unfair or deceptive practices laws, including regulations governing digital content, in-game purchases and disclosures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific consumer protection and digital content regulation risk for digital games."
+  },
+  {
+   "text": "Bunge served as Chief Marketing Officer at Riot Games, where he oversaw global game marketing, product publishing, and channel strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk statement."
+  },
+  {
+   "text": "Prior to his time at Riot Games, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography transition sentence, not a risk statement."
+  },
+  {
+   "text": "Bunge served as Senior Vice President of Brand Management and Marketing at Electronic Arts (EA).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk statement."
+  },
+  {
+   "text": "Our Playing to Win business strategy evolves around our mission to create joy and community through the magic of play and inspiring a lifetime of play.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General mission/strategy statement, not a risk."
+  },
+  {
+   "text": "Because our strategy emphasizes growing a focused set of franchises and expanding our higher-margin games and digital businesses, including MAGIC: THE GATHERING and DUNGEONS & DRAGONS, adverse trends affecting consumer demand for, or engagement with, any of these key brands could disproportionately impact our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly states that adverse trends in key brands like Magic and D&D could disproportionately harm results, a new specific risk concentration statement."
+  }
+ ]
+}

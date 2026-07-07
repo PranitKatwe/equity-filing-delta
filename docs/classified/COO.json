@@ -1,0 +1,123 @@
+{
+ "ticker": "COO",
+ "sector": "Health Care",
+ "filing_date": "2025-12-05",
+ "accession": "0001628280-25-055615",
+ "prior_accession": "0000711404-24-000074",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Changes in import and export policies, including new, increased or retaliatory tariffs, sanctions and countersanctions and customs restrictions by the U.S. and foreign governments, may disrupt our supply chain, adversely affect our relationships with customers and impact our competitiveness.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk from tariffs, sanctions, and customs restrictions affecting supply chain and competitiveness."
+  },
+  {
+   "text": "It may be time-consuming and expensive for us to alter our business operations to adapt to or comply with any such changes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cost/time of adapting business operations, no specific new risk."
+  },
+  {
+   "text": "If we are unable to effectively manage these risks, our business, financial condition and results of operations could be materially and adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard closing risk-factor boilerplate about adverse effects if risks not managed."
+  },
+  {
+   "text": "CooperSurgical manufactures the majority of its products in Costa 22 THE COOPER COMPANIES, INC.",
+   "category": "new_substantive_risk",
+   "rationale": "Reveals geographic concentration of manufacturing in Costa Rica, a specific supply chain concentration risk."
+  },
+  {
+   "text": "For example, among other situations, some of the primary material used to make our silicone hydrogel contact lens products, including MyDay, 24 THE COOPER COMPANIES, INC.",
+   "category": "reworded_same_meaning",
+   "rationale": "Fragmentary sentence about raw materials, appears to be truncated continuation without new specific risk detail."
+  },
+  {
+   "text": "We also rely on third-party logistics providers for storage and distribution of our components and products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces reliance on third-party logistics providers for storage and distribution, a new specific dependency risk."
+  },
+  {
+   "text": "Because we have limited control over their operations, any disruption in these relationships\u2014whether due to labor shortages, transportation delays, capacity constraints\u2014could adversely affect our ability to deliver products to customers on time and result in increased costs, reputational harm and potential liability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the third-party logistics risk with specific causes like labor shortages and transportation delays."
+  },
+  {
+   "text": "If we are unable to promptly transition to alternative providers in the event of a disruption, our business, financial condition, and results of operations could be materially and adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement about material adverse effect, continuation of prior risk discussion."
+  },
+  {
+   "text": "The development of a market for our products or services may be influenced by many factors, some of which are out of our control, including: 26 THE COOPER COMPANIES, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors influencing market development without specific new risk."
+  },
+  {
+   "text": "AND SUBSIDIARIES successful than us at innovating in these and other areas.",
+   "category": "reworded_same_meaning",
+   "rationale": "Fragment continuing existing competitive risk discussion without new substance."
+  },
+  {
+   "text": "In March 2025, the SEC ended its defense of the climate-related disclosure rules adopted in March 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Notes a specific regulatory development (SEC ending defense of climate disclosure rules) not previously disclosed."
+  },
+  {
+   "text": "AND SUBSIDIARIES actions, which may prevent or delay approval or clearance of our future products under development or impact our ability to modify our currently cleared products on a timely basis.",
+   "category": "reworded_same_meaning",
+   "rationale": "Fragment continuing existing regulatory approval risk language."
+  },
+  {
+   "text": "However, consultations are underway which propose substantial reforms to the Great Britain regulatory regime for medical devices and IVDs, including with respect to market access and conformity assessment procedures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about UK regulatory reform consultations affecting medical device market access, expanding existing regulatory risk."
+  },
+  {
+   "text": "Any divergent requirements between the UK and the EU may increase the cost and complexity of running our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies cost/complexity risk from UK-EU regulatory divergence, building on existing risk theme."
+  },
+  {
+   "text": "AND SUBSIDIARIES and consumers which could reduce the sales of our products.",
+   "category": "reworded_same_meaning",
+   "rationale": "Fragment referencing reduced sales, appears to continue prior risk language without new specifics."
+  },
+  {
+   "text": "AND SUBSIDIARIES authorities\u2019 observations and to implement corrective and preventive actions, as appropriate.",
+   "category": "reworded_same_meaning",
+   "rationale": "Fragment about responding to regulatory authority observations, continuation of existing compliance risk."
+  },
+  {
+   "text": "Ongoing federal efforts to streamline government operations, including agency-wide efficiency programs, may further impact the resources and staffing levels available to the FDA.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding federal efficiency programs potentially impacting FDA staffing and resources."
+  },
+  {
+   "text": "These changes could result in longer review times for our regulatory submissions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the FDA staffing risk by specifying potential longer review times."
+  },
+  {
+   "text": "Any delays or disruptions in FDA review processes could adversely affect our product development timelines, market entry strategies, and overall business performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences of FDA delays on business performance, continuation of same risk theme."
+  },
+  {
+   "text": "Among the provisions of the ACA, of greatest importance to the medical device industry and pharmaceutical industry are the following: \u2022 Establishment of the Patient-Centered Outcomes Research Institute to oversee, identify priorities in, and conduct comparative clinical effectiveness research, along with funding for such research; 36 THE COOPER COMPANIES, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists existing statutory provisions (ACA) as background, not a new specific risk."
+  },
+  {
+   "text": "Such laws include: 37 THE COOPER COMPANIES, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment introducing a list of laws, purely structural/reorder text."
+  }
+ ]
+}

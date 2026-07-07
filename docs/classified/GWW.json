@@ -1,0 +1,48 @@
+{
+ "ticker": "GWW",
+ "sector": "Industrials",
+ "filing_date": "2026-02-19",
+ "accession": "0000277135-26-000011",
+ "prior_accession": "0000277135-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 6,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Melanie Tinto (54) Senior Vice President, Chief Human Resources Officer joined Grainger in April 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual biographical statement about a new executive's title and start date, not a risk disclosure."
+  },
+  {
+   "text": "Tinto previously served as Chief Human Resources Officer for WEX, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about prior employer, no risk content."
+  },
+  {
+   "text": "(WEX), a financial technology solutions provider, from 2018 to April 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of biographical description of prior employer, purely descriptive."
+  },
+  {
+   "text": "Tinto served as Vice President of Global Talent Acquisition and Chief Learning Officer of Medtronic plc, a global medical technology company, and previously held senior leadership roles at HP Inc., Walmart, Inc. and Bank of America Corporation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further biographical career history of the executive, not related to any business risk."
+  },
+  {
+   "text": "Additionally, Grainger's operational flexibility could be impacted by work stoppages or slowdowns resulting from collective bargaining or unionization efforts by team members, or situations preventing team members from accessing Grainger facilities such as social unrest, major weather events or significant threats to public safety.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new causes (unionization, social unrest, major weather events, threats to public safety) to the existing operational flexibility/work stoppage risk, expanding its scope with concrete detail."
+  },
+  {
+   "text": "Cybersecurity threats or cybersecurity incidents that impact Grainger\u2019s systems, or those of its third-party business partners, could have a material adverse effect on Grainger, including its business strategy, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about cybersecurity threats potentially affecting business strategy, financial condition and results, without specific new details\u2014typical boilerplate risk framing."
+  }
+ ]
+}

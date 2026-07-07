@@ -1,0 +1,218 @@
+{
+ "ticker": "TRGP",
+ "sector": "Energy",
+ "filing_date": "2022-02-24",
+ "accession": "0001564590-22-006563",
+ "prior_accession": "0001564590-21-006640",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 32
+ },
+ "items": [
+  {
+   "text": "The Heim plant, which commenced operations in the third quarter of 2021, processes natural gas production from the Permian Basin.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely descriptive fact about an existing plant's operations, no risk implication."
+  },
+  {
+   "text": "In February 2022, in response to increasing production and to meet the infrastructure needs of producers, we announced the construction of a new 275 MMcf/d cryogenic natural gas processing plant in Permian Midland (the \u201cLegacy II plant\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new construction announcement without articulating a risk."
+  },
+  {
+   "text": "Permian Delaware Processing Expansion In February 2022, in response to increasing production and to meet the infrastructure needs of producers, we announced the construction of a new 275 MMcf/d cryogenic natural gas processing plant in Permian Delaware (the \u201cMidway plant\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Similar factual announcement of new plant construction, no risk stated."
+  },
+  {
+   "text": "In conjunction with the commencement of operations of the Midway plant, we expect to idle the Sand Hills plant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Idling an existing plant could affect operations/capacity, expanding on operational risk already inherent in the business."
+  },
+  {
+   "text": "Capital Allocation In January 2022, we declared an increase to our common dividend to $0.35 per common share or $1.40 per common share annualized effective for the fourth quarter of 2021 and payable in February 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Dividend increase announcement, financial detail not a risk."
+  },
+  {
+   "text": "In January 2022, we closed on the repurchase of our interests in our development company joint ventures (\u201cDevCo JVs\u201d) from investment vehicles affiliated with Stonepeak Infrastructure Partners (\u201cStonepeak\u201d) for approximately $925 million (the \u201cDevCo JV Repurchase\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a financial transaction (JV repurchase) without risk framing."
+  },
+  {
+   "text": "Following the repurchase, we own a 75% interest in Grand Prix Pipeline LLC (the \u201cGrand Prix Joint Venture\u201d), a 100% interest in our Train 6 fractionator in Mont Belvieu, Texas and owned a 25% equity interest in Gulf Coast Express Pipeline (\u201cGCX\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States resulting ownership percentages after a transaction, purely factual."
+  },
+  {
+   "text": "In February 2022, we announced that we executed agreements to sell Targa GCX Pipeline LLC (\u201cGCX DevCo JV\u201d), which held our 25% equity interest in GCX for approximately $857 million (the \u201cGCX Sale\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces a sale agreement, factual description."
+  },
+  {
+   "text": "We expect to receive the full proceeds from the sale in the second quarter of 2022 following a customary call right period in favor of the other members of GCX.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Expectation of proceeds timing, factual not risk."
+  },
+  {
+   "text": "Financing Activities In February 2022, we entered into a Credit Agreement with Bank of America, N.A., as the Administrative Agent, Collateral Agent and Swing Line Lender, and the other lenders party thereto (the \u201cNew TRC Revolver\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new credit agreement, factual financing detail."
+  },
+  {
+   "text": "The New TRC Revolver provides for a revolving credit facility in an initial aggregate principal amount up to $2.75 billion and matures on February 17, 2027.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States credit facility size and maturity, factual detail."
+  },
+  {
+   "text": "In connection with our entry into the New TRC Revolver, we terminated our senior secured revolving credit facility (the \u201cExisting TRC Revolver\u201d) and the Partnership\u2019s senior secured revolving credit facility (the \u201cExisting TRP Revolver\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes termination of prior credit facilities, factual."
+  },
+  {
+   "text": "For a full discussion of the New TRC Revolver and its terms, see Note 8 \u2013 Debt Obligations in our Consolidated Financial Statements beginning on page F-1 in this Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statements, purely administrative."
+  },
+  {
+   "text": "COVID-19 Pandemic The global spread of COVID-19 during 2020 and 2021 caused significant commodity market volatility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates known COVID-19 market volatility risk, an expansion of existing pandemic risk discussion."
+  },
+  {
+   "text": "For further discussion, see \u201cItem 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference phrase, no substantive content."
+  },
+  {
+   "text": "Risk Factors.\u201d 6 Impact of Winter Weather In February 2021, the Central region of the United States experienced unprecedented cold temperatures during a major winter storm that disrupted production operations, midstream infrastructure and many other services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a specific winter storm event causing operational disruptions, expanding on weather-related risk already present."
+  },
+  {
+   "text": "This extreme weather caused wide fluctuations in commodity prices, short-term disruptions to our operations across Texas, New Mexico, Oklahoma and Louisiana, including reduced throughput volumes coming into our systems, and adversely affected the operations and financial condition of some of our counterparties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the financial and operational effects of the winter storm, elaborating existing weather risk."
+  },
+  {
+   "text": "Though certain of our facilities experienced temporary outages, all facilities have since returned to full operation without sustaining any long-term impacts or significant adverse financial impacts related to the weather event, and throughput volumes have returned to pre-storm levels.",
+   "category": "reworded_same_meaning",
+   "rationale": "States that operations returned to normal, essentially mitigating language, not a new risk."
+  },
+  {
+   "text": "The full financial impact of the winter storm still remains uncertain as it is subject to recently proposed regulatory changes and potential customer and counterparty risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces uncertainty about regulatory changes and counterparty risk tied to the storm, a new specific risk factor."
+  },
+  {
+   "text": "For further discussion, see \u201cItem 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference phrase, no substantive content."
+  },
+  {
+   "text": "The IRS completed their examination without proposing any adjustments, and the Joint Committee on Taxation approved the IRS\u2019 findings without any exception.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes completion of an IRS examination without risk implication."
+  },
+  {
+   "text": "The Joint Committee on Taxation sent Targa a closing letter dated February 23, 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States receipt of a closing letter, administrative fact."
+  },
+  {
+   "text": "The closing letter effectively ends the IRS\u2019 audit of Targa\u2019s federal income tax returns for these years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Confirms audit conclusion, no new risk."
+  },
+  {
+   "text": "Additionally, in January 2022, the IRS notified us that it will examine Targa\u2019s net operating loss (\u201cNOL\u201d) carryback previously claimed under the Coronavirus Aid, Relief and Economic Security (\u201cCARES\u201d) Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new IRS examination of NOL carryback claims, a specific new tax-related risk."
+  },
+  {
+   "text": "Our gathering and processing infrastructure is located in attractive oil and gas producing basins and is well positioned within each of those basins.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General positive statement about infrastructure location, not a risk."
+  },
+  {
+   "text": "The connectivity of our gathering and processing and Downstream operations provided by Grand Prix further allows us to capture these growth opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes connectivity benefits, promotional not risk-related."
+  },
+  {
+   "text": "We are constructing the Legacy plant, a 275 MMcf/d cryogenic natural gas processing plant.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing construction project, factual."
+  },
+  {
+   "text": "In February 2022, in response to increasing production and to meet the infrastructure needs of producers, we announced the construction of the Legacy II plant, a new 275 MMcf/d cryogenic natural gas plant.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announcement of new plant construction, factual."
+  },
+  {
+   "text": "In February 2022, in response to increasing production and to meet the infrastructure needs of producers, we announced the construction of the Midway plant, a new 275 MMcf/d cryogenic natural gas processing plant.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announcement of new plant construction, factual."
+  },
+  {
+   "text": "In conjunction with the commencement of operations of the Midway plant, we expect to idle the Sand Hills plant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Repeats idling of Sand Hills plant, expanding operational risk already noted."
+  },
+  {
+   "text": "( 4 ) Plant natural gas inlet and NGL production volumes represent our ownership share of volumes for partially owned plants that we proportionately consolidate based on our ownership interest, including our 72.8% of our undivided interest in our WestTX joint venture, as well as 100% of ownership interests for our consolidated VESCO joint venture, Silver Oak II, Raptor, Coalgate, Stonewall, Tupelo, and Hickory Hills plants.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Footnote detailing ownership percentages for consolidation, administrative."
+  },
+  {
+   "text": "Following the DevCo JV Repurchase in January 2022, we own a 75% interest in the Grand Prix Joint Venture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States resulting ownership interest after a transaction, factual."
+  },
+  {
+   "text": "As of December 31, 2021, we owned a 20% interest in GCX DevCo JV, but following the DevCo JV Repurchase, owned a 100% interest in GCX DevCo JV and a 25% equity interest in GCX.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes change in ownership percentage due to a transaction, factual."
+  },
+  {
+   "text": "In February 2022, we announced the GCX Sale.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates a sale announcement, factual."
+  },
+  {
+   "text": "Following the DevCo JV Repurchase in January 2022, we own a 100% interest in Train 6.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States resulting full ownership of Train 6 after transaction, factual."
+  },
+  {
+   "text": "(2) Capacity represents 100% of the volume.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Footnote clarifying capacity metric, administrative."
+  },
+  {
+   "text": "(3) Following the DevCo JV Repurchase, we own a 100% interest in Train 6.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Footnote restating ownership change, administrative."
+  },
+  {
+   "text": "The ICA requires that tariff rates for liquids pipelines, which include both crude oil pipelines and refined products pipelines, be just and reasonable and non-discriminatory.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General regulatory description of tariff rate requirements, standard boilerplate."
+  },
+  {
+   "text": "Many FERC-regulated liquids pipelines, including our pipelines discussed below, use the FERC indexing methodology to change its rates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard FERC indexing methodology, regulatory boilerplate."
+  },
+  {
+   "text": "FERC, however, retained cost-of-service ratemaking, market-based rates and settlement rates as alternatives to the indexing approach that may be used in certain specified circumstances.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes alternative ratemaking methods retained by FERC, regulatory boilerplate."
+  }
+ ]
+}

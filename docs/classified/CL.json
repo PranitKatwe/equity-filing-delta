@@ -1,0 +1,178 @@
+{
+ "ticker": "CL",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-23",
+ "accession": "0000021665-26-000006",
+ "prior_accession": "0000021665-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 32,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "Uncertainties and risks remain as to the evolving situation in Venezuela.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new geopolitical risk factor tied to Venezuela operations not previously disclosed as a risk."
+  },
+  {
+   "text": "We have operations, including a manufacturing facility, in Venezuela; however, since December 31, 2015, the local operating results from our Venezuela operations have not been included in our Consolidated Financial Statements.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific operational fact (manufacturing facility, exclusion from consolidated financials since 2015) establishing a concrete country-specific risk."
+  },
+  {
+   "text": "Nonetheless, the situation in Venezuela could have ramifications for our business in Venezuela and the broader Latin American region and on geopolitical relations more generally.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced Venezuela risk by broadening its potential regional and geopolitical implications."
+  },
+  {
+   "text": "These developments have also impacted and may continue to impact consumer sentiment, consumption, discretionary spending and/or purchasing patterns.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how macro developments affect consumer behavior, expanding an existing consumer/economic risk discussion."
+  },
+  {
+   "text": "In addition, they have impacted and may continue to impact the cost and/or availability of raw and packaging materials and the price of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific impact on raw material costs/availability, expanding existing supply chain/cost risk."
+  },
+  {
+   "text": "The rapidly changing retail landscape and changing consumer preferences may adversely affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about retail landscape change without specific new risk detail."
+  },
+  {
+   "text": "Our products are sold in a highly competitive global omni-channel marketplace that is increasingly defined by the integration of traditional and digital retail operations and evolving consumer purchasing behaviors and preferences, as consumers continue to shop online and increasingly through social commerce and with the assistance of AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new competitive dynamics (AI, social commerce) to existing competition risk."
+  },
+  {
+   "text": "The increased presence of alternative retail channels, such as subscription services and direct-to-customer businesses, has also intensified competition for consumer attention.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific new competitive channels intensifying an already-existing competitive risk."
+  },
+  {
+   "text": "While we continue to sell our products to a variety of customers, including large-format retailers, discounters and eCommerce retailers, our growth is increasingly dependent on our ability to generate consumer demand across key touchpoints in the omni-channel ecosystem whether through traditional retail, eCommerce, social media or digital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on omni-channel dependency, building on existing competitive/retail risk."
+  },
+  {
+   "text": "We are also increasingly dependent on certain key retailers, some of which exercise greater bargaining strength than we do, including the exclusive access to valuable first-party consumer data and analytics.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity (data/analytics leverage) to existing retailer concentration risk."
+  },
+  {
+   "text": "Furthermore, the consolidation of retail customers globally may further increase our concentration risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies concentration risk due to retail consolidation, an expansion of existing risk."
+  },
+  {
+   "text": "Food and Drug Administration (the \u201cFDA\u201d) and other regulatory bodies in the United States and abroad; and \u2022 anticipate and quickly respond to the needs and preferences of consumers and customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about responding to consumer needs and regulatory bodies, not a specific new risk."
+  },
+  {
+   "text": "While we take actions to identify and remove counterfeit versions of our products from the market, these actions may not be successful.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding counterfeit products and enforcement limitations."
+  },
+  {
+   "text": "We continue to embed new ways of working to adapt to a rapidly changing world, drive innovation and operational efficiency and adopt and leverage technologies such as AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about adapting to change and adopting technology, lacks specific risk detail."
+  },
+  {
+   "text": "For example, in the fourth quarter of 2025, we took a non-cash, aftertax impairment charge of $794 to adjust the carrying values of goodwill and intangible assets related to the skin health business.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific material financial event (impairment charge) not previously reported."
+  },
+  {
+   "text": "For additional information regarding our funding-the-growth initiatives, refer to Part II, Item 7 \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations \u2013 Executive Overview.\u201d We may not realize the benefits that we expect from our Strategic Growth and Productivity Program.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new corporate program and associated risk of not realizing expected benefits."
+  },
+  {
+   "text": "Our new three-year productivity program, which we refer to as the \u201cStrategic Growth and Productivity Program,\u201d was approved by the Board on July 31, 2025 in an effort to drive future growth and support the Company\u2019s 2030 strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a newly approved multi-year program with specific strategic objectives, a new business risk."
+  },
+  {
+   "text": "The program includes initiatives to better align our organizational structure to support our strategic initiatives, optimize our global supply chain to drive agility and efficiencies and simplify and streamline our organizational structure to reduce overhead costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on the newly introduced program's scope, expanding the associated risk."
+  },
+  {
+   "text": "The successful implementation of the program may present significant organizational challenges and, in some cases, may require successful negotiations with third parties, including works councils and unions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on implementation risk of the new program, citing specific negotiation challenges."
+  },
+  {
+   "text": "As a result, we may not be able to realize the anticipated benefits from the Strategic Growth and Productivity Program.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates potential failure to realize program benefits, continuing the newly introduced risk."
+  },
+  {
+   "text": "Events and circumstances, such as financial or strategic difficulties, delays and unexpected costs may occur that could result in our not realizing all of the anticipated benefits or our not realizing such benefits on our expected timetable.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds general risk factors (financial/strategic difficulties) that could impede realization of program benefits."
+  },
+  {
+   "text": "In addition, changes in foreign exchange rates or in tax, labor or immigration laws may result in our not achieving anticipated cost savings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies additional factors (forex, tax, labor) affecting cost savings, expanding the program risk."
+  },
+  {
+   "text": "If we are unable to realize the anticipated savings of the Strategic Growth and Productivity Program, our ability to fund other initiatives and enhance profitability may be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on financial consequences of not achieving program savings."
+  },
+  {
+   "text": "For additional information regarding the Strategic Growth and Productivity Program, refer to Part II, Item 7 \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations \u2013 Significant Items Impacting Comparability\u201d and \u201c\u2013 Restructuring and Related Implementation Charges.\u201d A cybersecurity incident, data incident or a failure of key technology systems could adversely impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new distinct risk category regarding cybersecurity and technology system failures."
+  },
+  {
+   "text": "Specifically, the predicted physical effects of climate change may pose physical risks to our facilities and those of our key suppliers, disrupt our global supply chain, impact demand for our products or exacerbate challenges regarding the cost, quality and availability of raw and packaging materials and the availability and quality of water.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific physical climate risk details to an existing climate change risk factor."
+  },
+  {
+   "text": "In addition, certain of our stakeholders have expressed negative sentiment regarding corporate sustainability initiatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new reputational risk stemming from stakeholder backlash against sustainability initiatives."
+  },
+  {
+   "text": "Our practices and efforts in this area may not align with the expectations of all stakeholders, which could negatively affect our relationships with certain stakeholders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the new stakeholder sentiment risk introduced immediately prior."
+  },
+  {
+   "text": "For example, regulatory authorities globally are increasingly reviewing ingredients or other substances in consumer products, such as fluoride, titanium dioxide, synthetic colors and per- and polyfluoroalkyl (PFAS).",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new regulatory scrutiny on named substances (PFAS, titanium dioxide, fluoride), a concrete new risk."
+  },
+  {
+   "text": "Regardless of their merit, these claims can require significant time and expense to investigate and defend, and since litigation, particularly product liability and consumer class action litigation in the United States, is inherently uncertain, there is no guarantee that we will be successful in these matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General litigation risk language without new specific facts."
+  },
+  {
+   "text": "In particular, the potential impact of talc-related litigation is highly uncertain, as outcomes in cases filed against manufacturers of talcum powder products have ranged from dismissals to defense verdicts to outsized jury awards of both compensatory and punitive damages.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new detail on talc litigation outcomes and uncertainty, a material legal risk."
+  },
+  {
+   "text": "In January 2026, IF reached an agreement known as the \u201cSide-by-Side Package\u201d that modifies key aspects of Pillar II and is effective from January 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory/tax development (Side-by-Side Package modifying Pillar II) not previously disclosed."
+  },
+  {
+   "text": "The Company is currently evaluating the potential impact of the Side-by-Side Package on its future tax liability and compliance burden.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows up on the newly disclosed tax development by noting ongoing evaluation of its impact."
+  }
+ ]
+}

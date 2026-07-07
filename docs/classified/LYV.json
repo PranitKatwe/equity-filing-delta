@@ -1,0 +1,138 @@
+{
+ "ticker": "LYV",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-19",
+ "accession": "0001335258-26-000009",
+ "prior_accession": "0001335258-25-000028",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 13
+ },
+ "items": [
+  {
+   "text": "We invest nearly $15 billion annually in artist performances \u2013 from club and theater acts to global superstars \u2013 more than any other company in the industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States investment amount in artist performances; descriptive business fact, not a risk."
+  },
+  {
+   "text": "In addition, we are investing in venue infrastructure around the world to support artists, meet rising fan demand and strengthen our long-term growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing infrastructure investment; general business description, no specific risk introduced."
+  },
+  {
+   "text": "Lastly, we are paid by sponsors and advertisers that want to connect their brands with a passionate fan base.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes revenue source from sponsors/advertisers; descriptive, not a risk statement."
+  },
+  {
+   "text": "To support the continued growth of artists and global fan demand, we are investing capital expenditures to expand our venue footprint \u2013 focusing on large theaters, amphitheaters, arenas and stadiums - to more markets around the world and upgrading our existing venues to enhance hospitality efforts for the fan base. \u2022 Invest in our Ticketing Platform .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes capital expenditure strategy for venue expansion; business description, not a risk."
+  },
+  {
+   "text": "Clubs can also be used year-round.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual note about clubs being usable year-round; descriptive, not risk-related."
+  },
+  {
+   "text": "Outdoor spaces include festival sites used primarily in the summer season to stage large single-day or multi-day concert events featuring several artists on multiple stages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes outdoor festival site usage; descriptive business detail."
+  },
+  {
+   "text": "(2) Outdoor spaces includes operated festival sites with multi-year agreements providing us the right to use public or private land for a defined period of time leading up to and continuing after the festival.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines outdoor spaces and agreements; descriptive definitional text."
+  },
+  {
+   "text": "In addition, the Digital Services Act (\u201cDSA\u201d) in the European Union came into force in November 2022 and the majority of its substantive provisions took effect in February 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory framework (DSA) taking effect, a new compliance obligation not previously described."
+  },
+  {
+   "text": "The DSA imposes new obligations around illegal services or content on our sites, traceability of business users, and enhanced transparency measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies new substantive obligations imposed by DSA, a concrete new regulatory risk."
+  },
+  {
+   "text": "These offerings enhance access to scalable learning, professional development, and coaching opportunities for employees worldwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee development programs; not risk-related, generic HR description."
+  },
+  {
+   "text": "We also provide recognition for successful patent applications and offer tuition reimbursement programs to support continuing education.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee benefit programs (patents, tuition); not a risk factor."
+  },
+  {
+   "text": "In addition to providing employees paid time off to volunteer locally, since March 2020 our Crew Nation Global Relief Fund has delivered over $16.5 million in financial support to more than 16,000 live music crew members across 51 countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes philanthropic fund for crew members; not related to business risk."
+  },
+  {
+   "text": "All lawsuits relating to Astroworld have been resolved since early 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States that Astroworld lawsuits have been resolved; this is a factual resolution update, not introduction of new risk."
+  },
+  {
+   "text": "Other jurisdictions in which we have operations, including Asia, India, Mexico and South America have also become active with privacy legislation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing privacy regulation risk to additional jurisdictions (Asia, India, Mexico, South America)."
+  },
+  {
+   "text": "More recently, the European Unions\u2019s DSA came into force in November 2022 and the majority of its substantive provisions took effect in February 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate introduction of DSA regulatory requirement, representing new compliance risk."
+  },
+  {
+   "text": "The DSA imposes new obligations around illegal services or content on our sites, traceability of business users, and enhanced transparency measures, and failure to comply can result in fines of up to 6% of total annual worldwide turnover.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific penalty exposure (fines up to 6% of global turnover) for DSA non-compliance, a concrete new financial risk."
+  },
+  {
+   "text": "Refer to Item 3\u2014Legal Proceedings for further discussion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section; procedural boilerplate."
+  },
+  {
+   "text": "In addition, the United States Federal Trade Commission and the attorneys general of certain states have sued us alleging violations of various federal and state laws relating to alleged deceptive and illegal ticketing practices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new litigation risk from FTC and state attorneys general regarding deceptive ticketing practices."
+  },
+  {
+   "text": "The case is now in its late stages, with discovery completed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides procedural update (discovery completed) on existing litigation, expanding detail of known risk."
+  },
+  {
+   "text": "It is presently scheduled to go to trial on March 2, 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific trial date, expanding detail of an existing litigation risk."
+  },
+  {
+   "text": "Separately, in September 2025, the United States Federal Trade Commission, joined by the attorneys general of seven states, filed a lawsuit against us alleging that we advertised ticket prices to consumers that were deceptively lower than prices displayed at checkout, deceived consumers about the enforcement of advertised event ticket purchase limits and facilitated the sale of tickets unlawfully acquired by ticket brokers.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new September 2025 FTC lawsuit alleging deceptive pricing practices, a new legal risk."
+  },
+  {
+   "text": "The plaintiffs allege that we violated the Better Online Ticket Sales Act and Section 5 of the FTC Act, as well as various state consumer protection statutes and seek injunctive relief, statutory penalties and restitution for consumers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on claims and relief sought in the newly introduced FTC lawsuit."
+  },
+  {
+   "text": "The case is in its initial stages.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes the case is in initial stages, an update on the newly described litigation risk."
+  },
+  {
+   "text": "Refer to Item 3\u2014Legal Proceedings for further discussion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to Legal Proceedings section; procedural boilerplate."
+  }
+ ]
+}

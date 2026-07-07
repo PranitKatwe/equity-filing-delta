@@ -1,0 +1,193 @@
+{
+ "ticker": "CMI",
+ "sector": "Industrials",
+ "filing_date": "2026-02-10",
+ "accession": "0000026172-26-000009",
+ "prior_accession": "0000026172-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 32,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 23,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "We operate our business on a global basis and changes in tariffs and other trade disruptions could adversely impact the demand for our products and our competitive position.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding tariffs and trade disruptions affecting global demand and competitive position."
+  },
+  {
+   "text": "We manufacture, sell and service products globally and rely upon a global supply chain to deliver the raw materials, components, systems and parts that we need to manufacture and service our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General descriptive statement about global manufacturing and supply chain, not itself a risk claim."
+  },
+  {
+   "text": "There is currently significant uncertainty about the future relationship between the U.S. and various other countries with respect to tariffs and other trade disruptions (such as embargoes, sanctions and export controls).",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced tariff/trade uncertainty risk with more detail."
+  },
+  {
+   "text": "The uncertain tariff environment, marked by the U.S. imposition of tariffs on certain countries, followed by the imposition of retaliatory tariffs on U.S. goods and services by certain countries has introduced significant market volatility and raised concerns about potential economic impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on retaliatory tariffs, expanding the trade disruption risk narrative."
+  },
+  {
+   "text": "The extent to which tariffs and/or other trade disruptions will be enacted and the duration for which enacted tariffs and/or other trade disruptions will be in place remain uncertain and could adversely impact our production costs, customer demand and our relationships with customers and suppliers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tariff/trade disruption impacts on costs and relationships."
+  },
+  {
+   "text": "19 Table of Contents Deregulation could impair our investments in future products and negatively impact our long-term growth and competitiveness.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around deregulation impacting future product investments."
+  },
+  {
+   "text": "Our strategy includes significant investments in the development of new products and technologies, particularly those designed to meet or exceed current and anticipated regulatory requirements related to emissions, safety and environmental performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General context statement about strategy and R&D investment, not a specific risk."
+  },
+  {
+   "text": "Any significant reduction, delay, or elimination of, or failure to adopt or enforce, such regulatory requirements in key markets could reduce or delay demand for our products and services, increase our costs of producing or delay the introduction of new or modified products and services or restrict our existing activities, products, and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how regulatory rollback could affect demand and costs, expanding the deregulation risk."
+  },
+  {
+   "text": "In addition, any discontinuation or reduction of incentives or benefits for the development of technologies limiting the impact of climate change, or significant uncertainty regarding such efforts, may cause demand for certain of our future products to be less than we anticipate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on how reduced incentives affect demand, part of deregulation risk."
+  },
+  {
+   "text": "Any such change in regulatory requirements or incentives may ultimately weaken or render obsolete the business case for certain research and development initiatives or capital investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on regulatory change impact on R&D investments."
+  },
+  {
+   "text": "As a result, we may be required to reassess, scale back or discontinue investments in future products that were originally intended to address more stringent regulatory standards, and may fail to realize the intended benefits of, or recover the investments we have already made in, developing new products and technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies consequences of regulatory rollback on investment recovery."
+  },
+  {
+   "text": "In addition, the adoption of new regulations or industry standards which our products and services are not positioned to address, could adversely affect demand for our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about new regulations/standards not being addressed, part of same regulatory risk theme."
+  },
+  {
+   "text": "Deregulation or reduction in incentives may also lead to reduced industry-wide innovation, as both we and our competitors could deprioritize or delay the introduction of advanced technologies that are no longer mandated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discusses reduced industry innovation as consequence of deregulation, expanding same risk."
+  },
+  {
+   "text": "This could limit our ability to differentiate our products, respond to evolving customer expectations or maintain leadership in markets where regulatory requirements remain in place or are later reinstated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on competitive differentiation impact from deregulation risk."
+  },
+  {
+   "text": "Furthermore, if we have already made substantial investments in anticipation of future regulations that are subsequently rolled back, we may not be able to recover those costs, which could result in asset impairments or reduced returns on investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential asset impairments from regulatory rollback, expanding same risk."
+  },
+  {
+   "text": "Any of these outcomes could adversely affect our long-term growth prospects, competitive position and financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement summarizing potential adverse effects without new detail."
+  },
+  {
+   "text": "These new and emerging regulations are likely to require significant resources and data management systems and could increase our cost of doing business, restrict our ability to operate our business or execute our strategies and could result in fines and penalties or reputational harm if we do not fully comply.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discusses cost and compliance burdens from new regulations, extending existing regulatory risk discussion."
+  },
+  {
+   "text": "For products where we are manufacturing at capacity, we cannot guarantee that we will be able to increase manufacturing capacity to a level that meets demand for our products and services, which could prevent us from meeting increased customer demand and could harm our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing capacity constraint risk with specific inability to meet demand."
+  },
+  {
+   "text": "However, if we overestimate our demand and overbuild our capacity, we may have significantly underutilized assets and we may experience reduced margins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details capacity risk regarding overbuilding and margin impact."
+  },
+  {
+   "text": "Furthermore, it is possible that we may not be successful in developing segment-leading electrified powertrains.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about failing to develop segment-leading electrified powertrains."
+  },
+  {
+   "text": "We may face technological challenges and evolving government and customer requirements, and we may not succeed in anticipating them and developing the desired technologies and products on a timely basis.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on technological and regulatory challenges tied to the new electrification risk."
+  },
+  {
+   "text": "Some of our existing customers could choose to develop their own or source from other manufacturers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive threat of customers self-sourcing or developing technology."
+  },
+  {
+   "text": "Additionally, competitors may develop these technologies and products before we do, and they may be viewed by our customers to be superior to technologies and products we may develop.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details competitive risk from rivals developing superior technology first."
+  },
+  {
+   "text": "If the energy transition landscape changes faster than anticipated or in a manner that we do not anticipate, demand for our products and services, as well as our relationships with various stakeholders, could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding faster-than-anticipated energy transition affecting demand and stakeholder relations."
+  },
+  {
+   "text": "Alternatively, if the energy transition occurs more slowly than anticipated, demand for our new products and technologies may be lower than expected or we may need to reassess, scale back or discontinue investments in future products, and as a result, we may fail to realize the anticipated benefits of our investments in new products and technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the energy transition risk to the scenario of slower transition."
+  },
+  {
+   "text": "Furthermore, if we fail or are perceived to not effectively implement an energy transition strategy, or if investors or financial institutions shift funding away from companies in fossil fuel-related industries, our access to capital or the market for our securities could be negatively impacted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about investor/financial institution funding shifts due to energy transition strategy perception."
+  },
+  {
+   "text": "Rising interest rates could also impact certain goodwill assets requiring non-cash impairment charges, which could have a material adverse impact on our earnings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk regarding interest rate driven goodwill impairment."
+  },
+  {
+   "text": "There is inherent risk and uncertainty involved in using AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding inherent risks of AI use."
+  },
+  {
+   "text": "The use of AI in the development of our products and services could cause loss or theft of intellectual property, as well as subject us to risks related to intellectual property infringement or misappropriation, data privacy and cybersecurity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific AI risks (IP theft, cybersecurity) expanding the newly introduced AI risk topic."
+  },
+  {
+   "text": "The use of AI by us, our vendors or our suppliers can lead to unintended consequences, including 24 Table of Contents generating content that appears correct but is factually inaccurate, misleading or otherwise flawed, or that results in unintended biases and discriminatory outcomes, which could harm our stakeholders, our reputation and our business and expose us to risks related to inaccuracies or errors in the output of such technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on AI risk with unintended consequences and bias issues."
+  },
+  {
+   "text": "If the AI tools that we use are deficient, inaccurate or controversial, we could incur operational inefficiencies, competitive harm, legal liability, brand or reputational harm, or other adverse impacts on our business and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing operational and legal risks from deficient AI tools."
+  },
+  {
+   "text": "If we do not have sufficient rights to use the data or other material or content on which the AI tools we use rely, we also may incur liability through the violation of applicable laws and regulations, third-party intellectual property, data privacy, or other rights or contracts to which we are a party.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details AI risk regarding data rights and liability."
+  },
+  {
+   "text": "In addition, our personnel could, unbeknownst to us, improperly utilize AI and machine learning-technology while carrying out their responsibilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on internal misuse of AI, part of same AI risk topic."
+  },
+  {
+   "text": "If we fail to keep pace with rapidly evolving technological developments in AI, our competitive position and business results may suffer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Concludes AI risk discussion with competitive impact from failing to keep pace."
+  },
+  {
+   "text": "Any increased trade barriers or restrictions on global trade, especially trade with China, could adversely impact our competitive position, results of operations, financial condition and cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk tied to trade barriers with China affecting operations and financials."
+  }
+ ]
+}

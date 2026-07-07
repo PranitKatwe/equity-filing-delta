@@ -1,0 +1,58 @@
+{
+ "ticker": "SPG",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-25",
+ "accession": "0001104659-26-019419",
+ "prior_accession": "0001558370-25-001271",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Eli Simon has served as Simon\u2019s Chief Operating Officer since 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple biographical statement about an executive's title and start date, not a risk factor."
+  },
+  {
+   "text": "Simon joined the Company in 2019, leading the company's investment strategy for both real estate and non-real estate investments, including new business sourcing, strategic corporate investments, and the execution of various real estate transactions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical background information about an executive's role and responsibilities, not a substantive risk disclosure."
+  },
+  {
+   "text": "Before joining the company, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment of biographical text with no risk content."
+  },
+  {
+   "text": "Simon was the Principal and Head of North American Lodging at Och-Ziff Capital Management and Och-Ziff Real Estate, where he oversaw all lodging related investments, including asset and portfolio acquisitions, operating company investments, and lending opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about an executive's prior employment history, not a risk statement."
+  },
+  {
+   "text": "11 Table of Contents \u25cf Simon and certain subsidiaries of the Operating Partnership have elected to be taxed as REITs in the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement of REIT tax election status, typically standard disclosure rather than a new or expanded risk."
+  },
+  {
+   "text": "Examples may include, retailers and restaurants not reporting curbside pick-up sales or online sales fulfilled with store inventory, and tenants reducing reported store sales by including online returns processed in the store.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples elaborating on an existing risk about inaccurate or incomplete tenant sales reporting, expanding on a previously disclosed risk area."
+  },
+  {
+   "text": "Moreover, generative AI or machine learning models may create incomplete, inaccurate, or otherwise flawed outputs, some of which may be difficult to detect.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that AI/ML tools used by the company may produce flawed or inaccurate outputs that are hard to detect, a concrete new operational risk."
+  },
+  {
+   "text": "Despite the risks related to AI, many of our competitors, retailers and consumers are increasingly using AI in their decision-making processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new competitive risk concerning increasing AI adoption by competitors, retailers, and consumers that could affect the company's business relative to peers."
+  }
+ ]
+}

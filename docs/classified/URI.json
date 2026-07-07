@@ -1,0 +1,128 @@
+{
+ "ticker": "URI",
+ "sector": "Industrials",
+ "filing_date": "2026-01-28",
+ "accession": "0001067701-26-000007",
+ "prior_accession": "0001067701-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 22,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 13
+ },
+ "items": [
+  {
+   "text": "At December 31, 2025, our total indebtedness was $14.2 billion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a specific debt figure as of a date; factual disclosure rather than a risk statement."
+  },
+  {
+   "text": "Borrowings under the ABL facility are principally supported by pledges of rental equipment, and borrowings under the accounts receivable securitization are principally supported by our accounts receivable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing collateral arrangements for financing facilities, a factual detail rather than a new risk."
+  },
+  {
+   "text": "In April 2025, our Board of Directors authorized a $1.5 billion share repurchase program, and repurchases under this program began in April 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces a share repurchase program authorization; factual capital allocation disclosure, not a risk."
+  },
+  {
+   "text": "Subsequent to the enactment of the new federal tax legislation discussed below (see note 13 to the consolidated financial statements) in July 2025, and with consideration of the expected cash flow benefit associated with the legislation, our Board of Directors approved an increase in the size of the current share repurchase program, from $1.5 billion to $2.0 billion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an increase in the repurchase program size tied to tax legislation; factual update, not a risk statement."
+  },
+  {
+   "text": "On January 28, 2026, our Board of Directors authorized a new $5.0 billion share repurchase program.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces a new share repurchase authorization amount; factual disclosure."
+  },
+  {
+   "text": "The program is expected to commence after completion of the current program, and does not have an established expiration date.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes timing/expiration details of the repurchase program; administrative detail."
+  },
+  {
+   "text": "We intend to repurchase $1.15 billion under the program in 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States planned repurchase amount for 2026; factual capital plan, not a risk."
+  },
+  {
+   "text": "We may fail to respond adequately to changes in technology and customer demands, which could adversely affect our results of operation, financial condition and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about failing to keep pace with technology and customer demand is a common, pre-existing type of risk now restated with more emphasis."
+  },
+  {
+   "text": "In recent years, our industry and end-markets have been characterized by rapid changes in technology and customer demands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic contextual statement about industry characterized by rapid change; framing language, not a specific new risk."
+  },
+  {
+   "text": "Our ability to continually improve our current processes and customer-facing tools in response to changes in technology or in customer expectations is essential in maintaining our competitive position and maintaining current levels of customer satisfaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the importance of improving processes/tools, expanding on the existing technology-risk theme."
+  },
+  {
+   "text": "Failure to correctly identify and predict customer needs and preferences, to deliver high quality, innovative and competitive products to the market, to adequately protect our intellectual property rights or to acquire rights to third-party technologies, to provide adequate data security and privacy protections, and to stimulate customer demand for, and convince customers to adopt, new products, digital solutions and support services, could adversely affect our consolidated results of operations, financial condition and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific elements (IP protection, third-party tech, data security, digital solutions) to the pre-existing technology/customer-demand risk, expanding its scope."
+  },
+  {
+   "text": "In addition, we may experience technical or other difficulties that could delay or prevent the development or implementation of new products, digital solutions and support services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about possible technical difficulties, elaborating on existing risk without new specifics."
+  },
+  {
+   "text": "We also may not achieve the benefits that we anticipate from new technologies we develop or implement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic caveat about uncertain benefits of new technology, reiterating existing risk theme."
+  },
+  {
+   "text": "The effects of these risks may, individually or in the aggregate, materially adversely affect our results of operations, financial condition and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard closing risk-impact boilerplate language."
+  },
+  {
+   "text": "We use AI in our business and in our products, and challenges with properly managing its use could result in reputational harm, competitive harm, and legal liability, and adversely affect our business or results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk factor specific to the company's use of AI in its business and products, not previously present."
+  },
+  {
+   "text": "We incorporate AI solutions into our products, services and features, and we leverage AI in our product development and our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual/background statement about incorporating AI into products and operations, setting context rather than stating a risk."
+  },
+  {
+   "text": "If we are unable to effectively integrate AI into our business processes or keep pace with rapidly evolving AI technological developments, we may face a competitive disadvantage.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific competitive risk tied to failure to integrate or keep pace with AI technology, a new concern."
+  },
+  {
+   "text": "At the same time, the use or offering of AI technologies may result in new or expanded risks and liabilities, including enhanced government or regulatory scrutiny, litigation, privacy and compliance issues, ethical concerns, confidentiality, reputational harm, and security risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new and expanded risks from AI use including regulatory scrutiny, litigation, privacy, ethical and security concerns\u2014substantive new risk content."
+  },
+  {
+   "text": "It is difficult to predict all the risks related to the use of AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about difficulty predicting AI-related risks, lacking specific new content."
+  },
+  {
+   "text": "Changes in laws, rules, directives, and regulations governing the use of AI may adversely affect our ability to develop and use AI or subject us to legal liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new regulatory risk regarding AI laws affecting the company's ability to develop and use AI."
+  },
+  {
+   "text": "The cost of complying with laws and regulations governing AI could be significant and would increase our operating expenses, which could adversely affect our business, financial condition, results of operations and cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a new financial risk of compliance costs related to AI regulation impacting operating expenses."
+  },
+  {
+   "text": "Further, market demand and acceptance of AI technologies are uncertain, and our efforts to further incorporate AI into our processes may not succeed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new business risk regarding uncertain market demand and acceptance of AI technologies affecting the company's strategy."
+  }
+ ]
+}

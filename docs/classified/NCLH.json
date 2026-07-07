@@ -1,0 +1,218 @@
+{
+ "ticker": "NCLH",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-02",
+ "accession": "0001104659-26-022067",
+ "prior_accession": "0001558370-25-001743",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 37
+ },
+ "items": [
+  {
+   "text": "We have implemented comprehensive crew wellness programs to promote a healthy work-life balance for our team members.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about employee wellness programs, not a risk disclosure."
+  },
+  {
+   "text": "These initiatives are designed to support our crew in maintaining their well-being, ensuring they remain engaged and motivated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of generic wellness program description, no risk content."
+  },
+  {
+   "text": "By prioritizing crew wellness, we empower our staff to consistently deliver exceptional customer service, reflecting our ongoing commitment to both our employees and our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive marketing-style statement about crew wellness benefits, not a risk."
+  },
+  {
+   "text": "Best-in-class guest service levels are paramount in the markets in which we operate, where travelers have discerning tastes and high expectations for quality service.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business description of guest service expectations, no specific new risk."
+  },
+  {
+   "text": "We have dedicated resources to ensure that our service offerings on all of our ships meet the demands of our guests.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about resource allocation for service quality."
+  },
+  {
+   "text": "Among other initiatives, we have implemented rigorous onboard training programs, with a focus on career development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of training programs, not a risk disclosure."
+  },
+  {
+   "text": "We believe that our dedication to anticipating and meeting our guests\u2019 every need differentiates our operations and fosters close relationships between our guests and crew, helping to build customer loyalty.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of business philosophy/competitive advantage, not a risk."
+  },
+  {
+   "text": "Our captains and chief engineers are experienced seafarers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about officer experience, no risk content."
+  },
+  {
+   "text": "Our bridge and technical officers regularly undergo operations training such as leadership, navigation, stability, statutory and environmental regulatory compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of routine training programs, not a risk."
+  },
+  {
+   "text": "To support our deck and engine officers while at sea, we have bridge and engine protocols and support documentation in place, dictating specific standard operating procedures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Operational procedure description, not a risk statement."
+  },
+  {
+   "text": "Our bridge teams conduct a voyage planning process prior to sailing, where the upcoming itinerary is reviewed and discussed by the captain and bridge team prior to departure and in preparation for arrival.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of standard voyage planning process, no risk implication."
+  },
+  {
+   "text": "In addition, all of our ships employ state-of-the-art navigational equipment and technology to provide our bridge teams with accurate data regarding the planned itinerary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of navigational technology used, not a risk."
+  },
+  {
+   "text": "Onsite mobile clinics providing preventative screenings, such as mammography, dermatology, dental, and vision care, are offered at our corporate headquarters throughout the year.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of employee health benefit offerings, not a risk."
+  },
+  {
+   "text": "In 2025, we launched our People Manager Learning Voyage for our shoreside managers and senior managers to equip people managers with the skills, tools, and mindset to lead high-performing teams and foster a culture of excellence.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of a new training program for managers, not a risk."
+  },
+  {
+   "text": "In 2025, we offered two team member-only sailings during Norwegian Aqua\u2019s inaugural season to provide team members the opportunity to sail and experience our product offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of employee perk/sailing opportunity, not a risk."
+  },
+  {
+   "text": "In December 2025, with limited capacity, a similar opportunity was held aboard Oceania Cruises\u2019 Allura.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of employee perk description, not a risk."
+  },
+  {
+   "text": "Island Destinations and Port Facilities We strive to provide our guests with destination experiences to meet every taste \u2013 from \u201cSun and Fun\u201d to those that are more culturally unique to a particular port.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of destination offerings, not a risk."
+  },
+  {
+   "text": "As such, we continue to invest in our private islands, as well as other ports around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about continued investment, not a specific risk."
+  },
+  {
+   "text": "Our Bahamas private island, Great Stirrup Cay, is currently undergoing construction, having recently completed one side of a two-berth pier, as well as a resort style pool and the Vibe Shore Club.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update on construction progress at a private island, informational not risk-related."
+  },
+  {
+   "text": "We expect that the Great Tides Waterpark and the pier\u2019s second berth will be completed in summer 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Expected completion date for a project, informational not a risk."
+  },
+  {
+   "text": "We also operate Harvest Caye, our private destination in Belize, which offers kayaking, snorkeling, zip-lining, and excursions to nearby Mayan ruins.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of destination offerings, not a risk."
+  },
+  {
+   "text": "We also collaborate with local, private, and government entities to secure long-term port usage agreements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business practice description, not a risk."
+  },
+  {
+   "text": "Chidsey 63 Director, President and Chief Executive Officer Mark A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive bio information, unrelated to risk factors."
+  },
+  {
+   "text": "Chidsey previously served as CEO of Subway Restaurants from November 2019 \u2013 December 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk disclosure."
+  },
+  {
+   "text": "Chidsey held the following roles at Burger King Holdings, Inc.: Chief Executive Officer from April 2006 \u2013 October 2010, President and Chief Financial Officer from September 2005 \u2013 April 2006, President, North America from June 2004 \u2013 September 2005 and Executive Vice President, Chief Administrative and Financial Officer from March 2004 \u2013 June 2004.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk disclosure."
+  },
+  {
+   "text": "Chidsey held key leadership positions at Cendant Corporation, where he served as Chairman and CEO of two major divisions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk disclosure."
+  },
+  {
+   "text": "He led the Vehicle Services Division, overseeing brands such as Avis Rent A Car, Budget Rent A Car Systems, PHH, and Wright Express, as well as the Financial Services Division, which included Jackson Hewitt.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk disclosure."
+  },
+  {
+   "text": "Chidsey held various senior financial leadership roles at PepsiCo beginning in 1992.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk disclosure."
+  },
+  {
+   "text": "Chidsey has served on the board of HCA Healthcare, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive board membership information, not a risk."
+  },
+  {
+   "text": "(NYSE: HCA) since July 2025 and previously served on the boards of Encompass Health Corporation (NYSE: EHC), Burger King Holdings (as Chairman), and Brinker International (NYSE: EAT).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive board membership information, not a risk."
+  },
+  {
+   "text": "Chidsey holds an MBA in Finance and Accounting and a J.D. from Emory University, as well as a B.A. from Davidson College.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive education background, not a risk."
+  },
+  {
+   "text": "He has over 30 years of leadership in the premium and luxury sectors of the travel and tourism industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive experience summary, not a risk."
+  },
+  {
+   "text": "From August 2025 through December 2025, he served as Chief Executive Officer of Avoya Travel, a vacation platform company, as well as on the Board Directors of Avoya MIP LLC during that time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk."
+  },
+  {
+   "text": "Prior to his role with Avoya Travel, he was Managing Director at Chase Travel Group, a JPMorgan Chase & Co. company from May 2022 through August 2025; President of FROSCH, a global travel management company, from May 2022 to August 2025 and President, U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk."
+  },
+  {
+   "text": "Branch Operations & Leisure Division of FROSCH from January 2014 to May 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk."
+  },
+  {
+   "text": "He oversaw the sale of FROSCH to JPMorgan Chase & Co. in 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk."
+  },
+  {
+   "text": "Prior to that, he was Managing Director of Worldwide Sales at Tauck World Discovery, an operator of guided tours and cruises, from September 1998 to April 2002.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, not a risk."
+  },
+  {
+   "text": "In addition, in such events, our credit card processors could hold back payments to create a reserve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (credit card processors holding back payments as a reserve) to an existing liquidity/credit risk discussion."
+  },
+  {
+   "text": "We cannot provide assurances that we would have sufficient liquidity to repay, or the ability to refinance, our debt and derivative contract payables if such amounts were accelerated upon an event of default.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing debt/liquidity risk by addressing inability to refinance or repay upon default acceleration."
+  },
+  {
+   "text": "Geopolitical conflicts, including ongoing conflicts, may affect itineraries, destination access, fuel availability and costs, and consumer demand, and may heighten cyber and operational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factors tied to geopolitical conflicts affecting itineraries, fuel costs, demand, and cyber/operational risks."
+  }
+ ]
+}

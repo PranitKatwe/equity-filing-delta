@@ -1,0 +1,133 @@
+{
+ "ticker": "CF",
+ "sector": "Materials",
+ "filing_date": "2026-02-25",
+ "accession": "0001324404-26-000007",
+ "prior_accession": "0001324404-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "LNG export capabilities have expanded, and U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides background on LNG export growth as context for existing natural gas price risk, not a new risk itself."
+  },
+  {
+   "text": "Region, due to increased industrial demand and increased natural gas exports, could result in increased natural gas prices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on drivers of increased natural gas prices, expanding an existing risk about input costs."
+  },
+  {
+   "text": "Further to our clean energy strategy, we recently launched low-carbon ammonia production at our Donaldsonville complex and have ongoing investments in our Yazoo City and Blue Point complexes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific business activities (low-carbon ammonia production and new plant investments) not previously discussed."
+  },
+  {
+   "text": "This production and these investments are dependent on our third-party providers, including their CO 2 pipelines and sequestration wells, for the transport and permanent sequestration of CO 2 .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific dependency on third-party CO2 pipeline and sequestration infrastructure tied to new investments."
+  },
+  {
+   "text": "The inability of our third-party providers to develop or operate CO 2 pipelines and sequestration wells would impact our ability to generate tax credits and recognize revenue for low-carbon ammonia sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a concrete financial risk (loss of tax credits/revenue) tied to third-party infrastructure failures, not previously described."
+  },
+  {
+   "text": "Additionally, the railroad initiatives could increase our liability for releases of our ammonia while in the care, custody and control of the railroads, third parties or us, for which our insurance may be insufficient or unavailable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific liability risk related to railroad initiatives and ammonia releases."
+  },
+  {
+   "text": "The protection of such information, as well as our proprietary information, is critical to us, and we are subject to various laws and regulations globally regarding privacy and data protection, including laws and regulations relating to the collection, storage, handling, use, disclosure, transfer, and safekeeping of personal information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about data privacy laws without specific new risk detail."
+  },
+  {
+   "text": "Further, we are subject to continually evolving GHG regulations and other environmental laws and regulations in various jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about evolving GHG regulations, expanding on existing regulatory risk discussion."
+  },
+  {
+   "text": "Changes in these regulations in any jurisdiction to which we are subject, or in their interpretation, administration or enforcement, may have a material adverse effect on our business, financial condition, results of operations and cash flows and may increase costs associated with compliance, particularly in the event of a cross-jurisdictional conflict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about regulatory changes causing adverse effects, typical boilerplate."
+  },
+  {
+   "text": "The One Big Beautiful Bill Act, enacted in July 2025, further modified carbon sequestration tax credits and limited the duration of the clean hydrogen production tax credits.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new law (One Big Beautiful Bill Act) that materially changes tax credit structure."
+  },
+  {
+   "text": "The laws and regulations across jurisdictions are increasingly complex and sometimes conflicting.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about regulatory complexity without new specific risk."
+  },
+  {
+   "text": "Our production facilities emit GHGs, such as CO 2 and nitrous oxide.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates known fact about GHG emissions from production facilities, expanding existing environmental risk discussion."
+  },
+  {
+   "text": "The primary raw material used in our production process is natural gas, which releases methane when extracted from the earth and when transported.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about methane release from natural gas, expanding existing emissions risk."
+  },
+  {
+   "text": "Conventional ammonia production is considered an emissions- and energy-intensive industry because it generates CO 2 as an unavoidable chemical byproduct.",
+   "category": "expanded_existing_risk",
+   "rationale": "General characterization of ammonia production as emissions-intensive, consistent with existing risk framing."
+  },
+  {
+   "text": "For example, adoption of a proposed rule to repeal the GHG emissions reporting obligations for most source categories, without changes to the IRS\u2019 guidance on the process for documenting clean energy tax credits, may delay or eliminate our ability to realize anticipated tax credits or limit our low-carbon ammonia export opportunities.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new regulatory proposal that could delay or eliminate tax credit realization, a concrete new risk."
+  },
+  {
+   "text": "Those regulations are being reviewed at the federal and provincial levels in 2026, which could result in an increase in the costs our Canadian facilities incur.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory review timeline affecting Canadian facility costs."
+  },
+  {
+   "text": "Beginning on January 1, 2026, importers of nitrogen fertilizer products into the EU became subject to its carbon border adjustment mechanism (CBAM) and will be required to purchase certificates in 2027 reflecting the direct and indirect carbon emissions embedded in covered imports.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory requirement (EU CBAM) with concrete compliance timeline and cost implications."
+  },
+  {
+   "text": "While some EU member state officials, including from France and Italy, are advocating that the EU Commission temporarily suspend the application of the CBAM to fertilizers, or for fertilizers to be wholly excluded from it, the EU has not yet adopted an exemption process, and it remains unclear whether such efforts will be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance and uncertainty about the newly introduced CBAM risk rather than introducing a wholly new risk."
+  },
+  {
+   "text": "Other governments are also considering border taxes for carbon-intensive products, including the United Kingdom, which is introducing a carbon border adjustment mechanism currently expected to apply from January 1, 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the CBAM-related risk to other jurisdictions like the UK, expanding the same underlying risk."
+  },
+  {
+   "text": "The imposition of border taxes, the details of their implementation and uncertainty arising from suspensions of or exemptions to them may impact the development of a market for low-carbon ammonia, investments in low-carbon ammonia, including our returns on such investments, and trade flows, which could adversely impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential business impact of border taxes, building on the newly introduced CBAM risk rather than adding a distinct new one."
+  },
+  {
+   "text": "For example in October 2025, Louisiana\u2019s government established new permitting criteria and policy guidance for the state\u2019s Class VI underground injection control program for carbon sequestration, including emphasizing public engagement, economic development, and local community investment, and imposed an indefinite moratorium on all new applications for Class VI underground injection wells while the state works through pending applications.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new state regulatory action (Louisiana moratorium) directly affecting carbon sequestration operations."
+  },
+  {
+   "text": "We have and may enter into joint ventures to invest in our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about entering joint ventures without specific risk detail."
+  },
+  {
+   "text": "For example, in 2025, we entered into a joint venture with two Japanese partners to build a greenfield plant to produce low-carbon ammonia.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new joint venture and greenfield project introducing new operational and investment risk."
+  }
+ ]
+}

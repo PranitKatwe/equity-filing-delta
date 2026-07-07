@@ -1,0 +1,218 @@
+{
+ "ticker": "ETN",
+ "sector": "Industrials",
+ "filing_date": "2026-02-26",
+ "accession": "0001551182-26-000007",
+ "prior_accession": "0001551182-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 27,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "As part of our strategy, we pursue strategic transactions, including but not limited to acquisitions, joint ventures, and investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement of pursuing strategic transactions, a framing statement without new risk detail."
+  },
+  {
+   "text": "Acquisitions and investments may involve significant cash expenditures, debt incurrences, equity issuances, operating losses and expenses, in addition to integration challenges whether foreseen or unforeseen, which may be dilutive to earnings and unfavorably impact cash flow.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific financial risks (cash expenditures, debt, dilution) associated with an existing M&A risk factor."
+  },
+  {
+   "text": "Financial success of a strategic transaction requires balancing both short- and long-term inputs driven by internal and external factors difficult to fully identify prior to transaction consummation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about balancing short/long-term factors, no new specific risk."
+  },
+  {
+   "text": "We rely on suppliers to provide raw materials, components, and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about reliance on suppliers, standard framing."
+  },
+  {
+   "text": "Our business requires that we buy raw materials, components, and services from third parties.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates reliance on third-party suppliers, similar to prior sentence."
+  },
+  {
+   "text": "Supplier relationships have in the past been and could in the future be interrupted or terminated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies past and potential future supplier interruptions, expanding on general supplier risk."
+  },
+  {
+   "text": "8 Table of Contents Any of these uncertainties could adversely impact our financial results and ability to compete.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about uncertainties affecting results."
+  },
+  {
+   "text": "We also maintain single-source supplier relationships because either alternative sources are not available, or the relationship is advantageous due to certain considerations, such as performance, quality, support, delivery, capacity, or price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details single-source supplier relationships and reasons, expanding existing supply chain risk."
+  },
+  {
+   "text": "Unavailability of, or delivery delays for, single-source components or products could adversely affect our ability to manufacture or ship the related products in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies consequences of single-source component unavailability, expanding existing risk."
+  },
+  {
+   "text": "The effect of unavailability or delivery delays would be more severe if associated with our higher volume and more profitable products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about severity for high-volume products, an expansion of the supply risk."
+  },
+  {
+   "text": "Even where substitute sources of supply are available, qualifying alternative suppliers and establishing reliable supplies could cost more or result in delays and loss of sales.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details costs/delays from qualifying alternative suppliers, expanding existing supply risk."
+  },
+  {
+   "text": "We may rely on third-party suppliers for the components used in our products, and we may rely on third-party manufacturers to manufacture certain of our assemblies and finished products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about reliance on third-party manufacturers, expanding existing supplier risk."
+  },
+  {
+   "text": "Our results of operations, financial position, and cash flows could be adversely affected if such third parties lack sufficient quality control or if there are significant changes in their financial or business condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details quality control and financial condition risks of third parties, expanding existing supplier risk."
+  },
+  {
+   "text": "If these third parties fail to deliver quality products, parts, and components on time and at reasonable prices, we could have difficulties fulfilling our orders, sales and profits could decline, and our commercial reputation could be damaged.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies consequences of supplier failure (sales, profits, reputation), expanding existing risk."
+  },
+  {
+   "text": "Risks and uncertainties related to the development and use of artificial intelligence may present business, compliance and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around AI development and use, not previously covered."
+  },
+  {
+   "text": "Recent technological advances in artificial intelligence (AI) and machine-learning technology have presented opportunities for us to drive internal efficiencies in our business operations, but they also pose risks to us.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI-related opportunities and risks as a new topic in risk factors."
+  },
+  {
+   "text": "If we fail to keep pace with rapidly evolving technological developments in AI, our competitive position and business results may suffer, particularly if our competitors more effectively use AI to drive their business efficiencies or create new or enhanced products or services that we are unable to compete against on cost, quality or other attributes.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk about failing to keep pace with AI competitors."
+  },
+  {
+   "text": "However, the introduction of AI technologies, particularly generative AI, into internal processes and/or new and existing offerings may result in new or expanded risks and liabilities, including due to enhanced governmental or regulatory scrutiny, litigation, compliance issues, ethical concerns, confidentiality or security risks, as well as other factors that could adversely affect our business, reputation, and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding generative AI introducing regulatory, litigation, and ethical risks."
+  },
+  {
+   "text": "Furthermore, any confidential information that is disclosed to a third-party generative AI platform could be leaked or disclosed to others, which could result in loss or theft of intellectual property, as well as subject us to risks related to intellectual property infringement or misappropriation, data privacy and cybersecurity.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk about confidential information leakage via third-party generative AI platforms."
+  },
+  {
+   "text": "Moreover, the use of AI may give rise to risks related to harmful content, accuracy, and bias, which could expose us to risks related to inaccuracies or errors in the output of such technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding AI-related bias and inaccuracies."
+  },
+  {
+   "text": "The rapidly evolving legal and regulatory environment relating to AI, in the United States and globally, could also impact Eaton\u2019s implementation of AI technology, and increase compliance costs and the risk of non-compliance.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding evolving AI legal/regulatory environment and compliance costs."
+  },
+  {
+   "text": "If we are unable to protect our information technology infrastructure against service interruptions, data corruption, cyberbased attacks or network security breaches, product or service offerings could be compromised or operations could be disrupted or data confidentiality impaired.",
+   "category": "expanded_existing_risk",
+   "rationale": "Cybersecurity/IT infrastructure risk is likely an expansion of an existing risk factor with more detail on consequences."
+  },
+  {
+   "text": "Operational, environmental and social regulations may pose stringent obligations on our operations, which could impact our financial results and adversely affect our ability to conduct normal business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about regulatory obligations affecting operations, standard framing."
+  },
+  {
+   "text": "Those events could also change customer and market demands, and we may not be able to move quickly enough to meet such demands or meet all of the varying demands from different geographic regions, markets and business sector, which could negatively affect our business, results of operations, and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about market demand changes affecting business, no new specific risk."
+  },
+  {
+   "text": "Our ability to identify, attract, develop, engage, and retain qualified employees could affect our ability to execute our strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ability to attract/retain employees, standard framing."
+  },
+  {
+   "text": "The market for employees and leaders with certain skills and experiences is very competitive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive labor market, standard framing."
+  },
+  {
+   "text": "Our continued success depends, in part, on our ability to identify, attract, develop, engage, and retain qualified candidates with the requisite education, background, technical skills, industry knowledge, and experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates dependency on attracting and retaining qualified employees, generic."
+  },
+  {
+   "text": "Failure to attract, develop, engage, and retain qualified employees, difficulty in recruiting new employees, perceived or actual erosion of our culture, or inadequate resources to train, integrate, and retain qualified employees, could impair our ability to execute our business strategy and could adversely affect our business, results of operations, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequences of failing to retain employees, expanding on general talent risk."
+  },
+  {
+   "text": "In addition, the nature of our business requires us to maintain a labor force that is sufficiently large enough to support our manufacturing operations to meet customer demand, as well as provide on-site services and project support for our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific need for sufficiently large labor force to support operations, expanding labor risk."
+  },
+  {
+   "text": "We have in the past experienced, and could in the future experience, shortages for skilled or unskilled labor, which has in the past and could in the future negatively impact our growth and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies past and potential future labor shortages impacting growth, expanding existing labor risk."
+  },
+  {
+   "text": "We may not complete the anticipated spin-off or complete it within the time frame we anticipate or at all; the spin-off may present difficulties that could have an adverse effect on us; costs associated with the spin-off may be higher than anticipated; we may not realize some or all of the expected benefits of the spin-off.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk related to a specific spin-off transaction not previously disclosed."
+  },
+  {
+   "text": "On January 26, 2026, we announced our intention to spin-off our Mobility business, which consists of the legacy Vehicle and eMobility segments, by the end of the first quarter of 2027, subject to the satisfaction of customary legal and regulatory requirements and approvals.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces new specific corporate event (spin-off of Mobility business) creating new risk factor."
+  },
+  {
+   "text": "The failure to satisfy all the required conditions could delay the completion of the spin-off for a significant period of time or prevent it from occurring at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific risk of failing to satisfy conditions delaying the new spin-off."
+  },
+  {
+   "text": "Spin-offs are complex in nature, and unanticipated developments or changes, including changes in law, the macroeconomic environment and market conditions or regulatory or political conditions may affect our ability to complete the anticipated spin-off as currently expected, within the anticipated time frame or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Details complexity and uncertainty risks specific to the new spin-off transaction."
+  },
+  {
+   "text": "Any changes to the spin-off or delay in completing it could cause us not to realize some or all of the expected benefits, or realize them on a different timeline than expected.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific risk that changes to the new spin-off could affect realized benefits."
+  },
+  {
+   "text": "In addition, the terms and conditions of the required regulatory authorizations and consents that are granted, if any, may impose requirements, limitations or costs, or place restrictions on the conduct of the Mobility business, as an independent company, and may materially delay the completion of the spin-off.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding regulatory conditions imposing restrictions on the new spin-off."
+  },
+  {
+   "text": "Although we intend for the spin-off to be tax-free to our stockholders for U.S. federal income tax purposes, there can be no assurance that the spin-off will so qualify.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding tax treatment uncertainty of the announced spin-off."
+  },
+  {
+   "text": "Any of these factors could have a material adverse effect on our business, financial condition and our stock price.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about material adverse effect, standard risk factor boilerplate."
+  },
+  {
+   "text": "10 Table of Contents Volatility of end markets that we serve could materially and adversely affect our business, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading-style statement about market volatility, standard framing."
+  },
+  {
+   "text": "Eaton\u2019s success depends in part on our ability to anticipate and offer products and services that appeal to the changing needs and preferences of our customers in the various markets we serve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about need to anticipate customer needs, standard framing."
+  }
+ ]
+}

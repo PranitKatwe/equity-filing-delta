@@ -1,0 +1,43 @@
+{
+ "ticker": "CPT",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-12",
+ "accession": "0001628280-26-007697",
+ "prior_accession": "0000906345-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 5,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "As we have incorporated and may continue to incorporate the use of generative artificial intelligence and other advancing technologies, any breach, interruption, or security failure of those technologies, or any non-compliance with applicable laws, could have a negative impact on our business operations, results of operations, financial condition, or reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to generative AI adoption impacting operations, results, and reputation, not previously disclosed."
+  },
+  {
+   "text": "Information security risks have escalated as a result of these emerging technologies and the heightened sophistication and activity levels of cyber-attack perpetrators.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing cybersecurity risk framing by tying it to new technology trends and sophistication of attackers."
+  },
+  {
+   "text": "Cyber-attacks can include third parties gaining unauthorized access to our data, including sensitive information about our residents, as well as our vendors' data or information technology systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing cyber-attack risk by specifying data types and third-party vendor systems as targets."
+  },
+  {
+   "text": "These attacks may occur through stolen credentials, computer malware, phishing attacks, ransomware, and other deliberate attempts to compromise information security.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of common attack vectors typically included in cybersecurity risk boilerplate."
+  },
+  {
+   "text": "We rely on, or may rely in the future on, certain third-party service and software providers to host systems, provide key software, and to supply and store our sensitive data in a secure manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about reliance on third-party providers for data security, expanding existing vendor/technology risk discussion."
+  }
+ ]
+}

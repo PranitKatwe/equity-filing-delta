@@ -1,0 +1,193 @@
+{
+ "ticker": "OMC",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-20",
+ "accession": "0000029989-26-000006",
+ "prior_accession": "0000029989-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 7,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Additionally, we may be unable to hire or retain talent who are trained in artificial intelligence, machine learning and advanced algorithms, to keep up with the rapid and ongoing technological advancements in our industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Talent/technology risk is expanded to specifically call out AI/ML skills, building on existing competitive/talent risk themes rather than introducing an entirely new risk area."
+  },
+  {
+   "text": "Cyberattacks are expected to accelerate on a global basis in frequency and magnitude as threat actors are becoming increasingly sophisticated using techniques and tools, including AI, that circumvent security controls, evade detection and remove forensic evidence.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new threat vector: AI-enabled cyberattacks that circumvent security controls, a concrete escalation not previously described."
+  },
+  {
+   "text": "As a result, we may be unable to detect, investigate, remediate or recover from future attacks or incidents, or to avoid a material adverse impact to our information technology systems and data.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of inability to detect/remediate cyber incidents, consistent with existing cybersecurity risk language."
+  },
+  {
+   "text": "We recently announced the new Omni platform that further enhances our product offerings using innovative AI tools and data analytic technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual announcement about a product platform, not itself a risk statement."
+  },
+  {
+   "text": "Evolving rules, regulations and industry standards governing AI may require us to spend significantly to modify, maintain, or align our business practices, solutions and services, the nature of which cannot be determined at this time and may be inconsistent from region to region.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new compliance cost risk tied to evolving AI regulations requiring business practice changes."
+  },
+  {
+   "text": "There is increasing divergence globally among AI regulations, which will require us to navigate different obligations in different geographies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the AI regulatory risk just introduced by adding detail about geographic divergence."
+  },
+  {
+   "text": "Failure to adapt to technological developments, including emerging technologies such as generative AI and agentic AI, could adversely affect our competitive position, reputation, client relationships, results of operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing technology-adaptation risk to explicitly include generative and agentic AI."
+  },
+  {
+   "text": "Our industry is highly competitive and subject to rapid technological change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about industry competitiveness with no specific new detail."
+  },
+  {
+   "text": "Our ability to remain competitive depends in part on our ability to anticipate, develop, acquire and integrate new technologies, platforms and capabilities, including data-driven solutions, automation, generative AI and agentic AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competitiveness risk to include AI-driven capabilities as a competitive factor."
+  },
+  {
+   "text": "These technologies may require significant and ongoing investment, involve long development cycles and uncertain returns, and may not be accepted by clients or generate expected benefits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on investment/return uncertainty tied to the new technologies mentioned, an extension of existing risk."
+  },
+  {
+   "text": "If we fail to keep pace with technological developments, or if competitors or new market entrants adopt new technologies more quickly or effectively, or if our clients develop their own AI-related capabilities, our services could become less attractive to clients, our competitive position could be harmed, and our revenues and profitability could decline.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific threat: clients developing their own AI capabilities, potentially reducing demand for services."
+  },
+  {
+   "text": "In addition, the use of emerging technologies presents risks related to intellectual property, ethics, data privacy, cybersecurity and regulatory compliance.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new specific risk categories (IP, ethics, data privacy, cybersecurity, regulatory) tied to emerging AI technologies not previously listed together."
+  },
+  {
+   "text": "Any failure to address these risks effectively could adversely affect our reputation, client relationships, business results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement following the risk enumeration, adds no new substance."
+  },
+  {
+   "text": "Our liquidity, long-term financing needs, credit rating and access to capital markets is dependent on our agencies, operating cash flow.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing liquidity dependency on operating cash flow."
+  },
+  {
+   "text": "Our agencies\u2019 operating cash flows have a significant impact on our liquidity and access to short-term and long-term financing in the capital markets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Near-duplicate of prior sentence about cash flow impact on liquidity."
+  },
+  {
+   "text": "We maintain a committed, unsecured multi-currency revolving credit facility, which also provides us with the ability to issue commercial paper, and to manage and support our operating liquidity in the short term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of existing credit facility, not a new risk."
+  },
+  {
+   "text": "In addition, we issue senior long-term notes in the capital markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about issuing long-term notes, informational not risk-related."
+  },
+  {
+   "text": "If our agencies\u2019 operating cash flow significantly declines or any of these sources were unavailable to us or insufficient, our liquidity and ability to refinance our long-term debt could be impeded.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk that reduced cash flow could impede liquidity/refinancing."
+  },
+  {
+   "text": "We could be required to restructure our debt, sell assets or take other actions, and our business, results of operations and financial condition would be adversely affected.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard consequence language already implied by existing liquidity risk."
+  },
+  {
+   "text": "In addition, our credit rating, which is also dependent on our agencies operating cash flows among other factors, has a direct effect on our ability to obtain bank financing and access the capital markets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing link between cash flow, credit rating, and financing access."
+  },
+  {
+   "text": "A downgrade to our credit rating, for any reason, could increase our borrowing costs, reduce our capacity to borrow, or impede our ability to access the capital markets, and our results of operations and financial condition would be adversely affected.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates known consequence of credit rating downgrade."
+  },
+  {
+   "text": "See Part II for further discussion of our liquidity and capital resources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another filing section, not substantive risk content."
+  },
+  {
+   "text": "The use of personal information is critical to our advertising and marketing services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory factual statement about reliance on personal information."
+  },
+  {
+   "text": "As a result, we are subject to a complex and evolving framework of federal, state, and foreign privacy, data protection, marketing, advertising, and internet tracking laws, regulations, industry standards, and contractual obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing privacy law compliance risk by describing complexity and evolving framework."
+  },
+  {
+   "text": "These requirements generally mandate disclosures regarding data practices and provide individuals with expanded rights to access, delete, correct, or restrict the use of their personal information, including for targeted advertising.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on specific new individual rights requirements, extending existing privacy risk."
+  },
+  {
+   "text": "Regulators and legislators in the European Union, the United Kingdom, and the United States have increasingly focused on the use of online tracking technologies and the sharing of personal information with third parties for targeted or behavioral advertising.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details increased regulatory focus on tracking/advertising, expanding existing privacy/advertising risk."
+  },
+  {
+   "text": "This has resulted in new or updated requirements under the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and other U.S. state privacy laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Names specific new/updated laws (GDPR, CCPA, state laws) that extend the existing privacy risk factor."
+  },
+  {
+   "text": "If these laws or regulations are adopted, interpreted, or enforced in a manner that restricts our current practices, or if private market participants impose limitations on tracking technologies in response to privacy concerns, our digital services could become less effective, more costly to deliver, or subject to additional legal and operational constraints.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential operational impact from privacy law restrictions, an extension of existing risk."
+  },
+  {
+   "text": "Such outcomes could reduce demand for our services and materially adversely affect our business, results of operations, and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement common to risk factor conclusions."
+  },
+  {
+   "text": "In addition, we may not be able to obtain insurance coverage for such risks on acceptable terms, or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding inability to obtain insurance coverage for these risks."
+  },
+  {
+   "text": "We operate in numerous jurisdictions and are subject to a complex and evolving global tax environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about operating in multiple jurisdictions with complex tax rules, largely introductory."
+  },
+  {
+   "text": "The determination of our tax liabilities requires significant judgment, including with respect to the application of tax laws, transfer pricing arrangements, valuation of deferred tax assets and liabilities, and the interpretation of new or existing tax regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on judgment involved in tax determinations, expanding existing tax risk disclosure."
+  },
+  {
+   "text": "Tax authorities may 10 challenge our positions, and adverse outcomes from audits, investigations or litigation could result in additional tax liabilities, penalties or interest that differ materially from amounts previously recorded.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential adverse outcomes from tax audits/litigation, extending existing tax risk."
+  },
+  {
+   "text": "Our effective tax rate and cash flows could also be adversely affected by changes in tax laws or policies, including changes to statutory tax rates, digital services taxes, the interpretation or enforcement of existing laws, or the adoption or modification of global minimum tax regimes, such as the Global Anti-Base Erosion issued by the Organization for Economic Co-operation and Development.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax risk factors such as digital services taxes and global minimum tax regimes (GloBE) not previously mentioned."
+  },
+  {
+   "text": "These developments could increase tax complexity and uncertainty and may require us to restructure operations or intercompany arrangements, potentially resulting in increased tax expense or reduced cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains potential operational restructuring due to tax complexity, extending the newly introduced tax risk."
+  }
+ ]
+}

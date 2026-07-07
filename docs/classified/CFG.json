@@ -1,0 +1,48 @@
+{
+ "ticker": "CFG",
+ "sector": "Financials",
+ "filing_date": "2026-02-12",
+ "accession": "0000759944-26-000028",
+ "prior_accession": "0000759944-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 6,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Risks and uncertainties associated with each element of our strategy exist, many of which are not within our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that strategy involves risks not within the company's control, with no specific detail."
+  },
+  {
+   "text": "Inflation may also negatively impact consumer demand and client purchasing power for our products and services, as well as the ability of our borrowers to repay their obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk pathway: inflation reducing consumer demand/purchasing power and impairing borrowers' ability to repay."
+  },
+  {
+   "text": "An increase in rates could also have an adverse impact on our credit costs, as borrowers may have difficulty in making higher interest payments, as well as on our AFS securities portfolio, which could trigger the recognition of losses in the event the securities need to be sold.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how rising rates could increase credit costs and force recognition of losses on AFS securities, expanding on an existing interest rate risk discussion."
+  },
+  {
+   "text": "U.S. global trade policies, including the imposition of tariffs and uncertainty surrounding the resolution of trade disputes, or renewal of trade agreements, with various countries, may cause inflation to rise and ultimately affect interest rates.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific new risk factor tying U.S. trade policy, tariffs, and trade disputes to inflation and interest rate effects."
+  },
+  {
+   "text": "In addition, the risk of government shutdowns could cause volatility in the financial markets by adversely impacting consumer and investor confidence.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about government shutdowns causing market volatility and denting consumer/investor confidence."
+  },
+  {
+   "text": "Unfavorable changes related to these national economic and political conditions may also result in increased delinquencies and defaults among borrowers in light of economic uncertainty, which could require us to charge off a higher percentage of loans and increase the provision for credit losses, ultimately reducing our net income.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing credit risk disclosure by linking broader economic/political uncertainty to increased delinquencies, defaults, and higher provisions for credit losses."
+  }
+ ]
+}

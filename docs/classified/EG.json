@@ -1,0 +1,218 @@
+{
+ "ticker": "EG",
+ "sector": "Financials",
+ "filing_date": "2026-02-26",
+ "accession": "0001095073-26-000006",
+ "prior_accession": "0001095073-25-000015",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 10,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "Secondary perils, such as severe convective storms, may also become increasingly impactful.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new catastrophe risk category (secondary perils like convective storms) not previously mentioned."
+  },
+  {
+   "text": "We purchase prospective reinsurance for our insurance and reinsurance operations in order to mitigate the volatility of losses on our financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic explanatory statement about purchasing reinsurance to mitigate volatility, standard boilerplate."
+  },
+  {
+   "text": "From time to time, market conditions have limited, and in some cases have prevented, insurers and reinsurers from obtaining the types and amounts of reinsurance that they consider adequate for their business needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the existing reinsurance availability risk with reference to market condition limitations."
+  },
+  {
+   "text": "There is no guarantee that our desired amounts of reinsurance or retrocessional reinsurance will be available in the marketplace in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about no guarantee of future reinsurance availability, standard risk language."
+  },
+  {
+   "text": "In the current environment, our ability to renew our current reinsurance or retrocessional reinsurance arrangements or obtain desired amounts of new or replacement coverage on favorable terms may be substantially reduced as a result of the impact of inflation, industry catastrophic losses to reinsurer capital and the appetite for certain lines of business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific drivers (inflation, reinsurer capital losses, appetite for lines) to the existing reinsurance renewal risk."
+  },
+  {
+   "text": "In addition to capacity risk, the remaining capacity may not be on terms we deem appropriate or acceptable or with companies with whom we want to do business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about capacity terms not being acceptable, adds little new substance."
+  },
+  {
+   "text": "2025 2024 2023 2022 2021 Percentage of ceded written premiums to gross written premiums 12.4 % 13.3 % 11.5 % 11.5 % 12.3 % If we are unable to or choose not to renew our current reinsurance or retrocessional reinsurance or purchase new or replacement coverage on favorable terms or at all, the amount of business we are willing to write may be limited or our protection from losses due to large loss events may be materially reduced and our net income could be materially reduced.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Primarily a data table of ceded premium percentages with restated risk language already covered elsewhere."
+  },
+  {
+   "text": "In future years, insufficient premium rates may result in reserve deficiencies to the extent that higher than expected losses are incurred.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing reserve adequacy/premium rate risk in different words."
+  },
+  {
+   "text": "Moreover, certain states have enacted laws that require a property and casualty insurer to participate in assigned risk plans, reinsurance facilities, joint underwriting associations and other residual market plans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific regulatory requirement (assigned risk plans, residual markets) expanding on existing regulatory risk discussion."
+  },
+  {
+   "text": "U.S. state regulators also require that admitted insurers offer property and casualty coverage to all risks in that market and often restrict an insurer\u2019s ability to charge the price it might otherwise charge or restrict an insurer\u2019s ability to offer or enforce specific policy deductibles.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific regulatory constraints (mandated coverage, price/deductible restrictions) expanding existing regulatory risk."
+  },
+  {
+   "text": "In these markets, we may be compelled to underwrite business at lower than desired rates or accept additional risk not contemplated in our existing rates, participate in the operating losses of residual market plans or pay assessments to fund operating deficits of state-sponsored funds, which could lead to lower than anticipated profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences (lower rates, operating loss participation, assessments) of the regulatory risk already noted."
+  },
+  {
+   "text": "The effects of emerging claim and coverage issues on our business are uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of emerging claim/coverage issues, standard boilerplate."
+  },
+  {
+   "text": "Best, S&P and Moody\u2019s has assigned a negative outlook to our financial strength ratings.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new fact: rating agencies assigned a negative outlook, a material new risk indicator."
+  },
+  {
+   "text": "Best\u2019s or S&P A- rating level.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing rating level, appears to be boilerplate restating rating threshold."
+  },
+  {
+   "text": "Best\u2019s or S&P A- rating level.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate fragment referencing rating level, boilerplate."
+  },
+  {
+   "text": "In addition, rapid or unprecedented changes in credit and equity market conditions could materially impact the valuation of securities.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about market volatility affecting securities valuation."
+  },
+  {
+   "text": "The volatility of our losses may force us to liquidate securities, which may cause us to incur capital losses.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing investment liquidity/capital loss risk in similar terms."
+  },
+  {
+   "text": "Realized and unrealized losses in our investment portfolio and changes in our estimates of current expected credit loss allowance can affect our financial condition, results of operations or liquidity and our ability to conduct business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about investment losses and CECL allowance impacting financials."
+  },
+  {
+   "text": "Higher inflation could lead to higher interest rates, which would negatively impact the value of our existing fixed income or other investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific causal link between inflation and interest rates impacting fixed income investments, expanding existing investment risk."
+  },
+  {
+   "text": "The global economic environment continues to be impacted by fiscal or monetary policies; uncertainty concerning the future path of interest rates; the effect of social, economic and political conditions and geopolitical events, supply chain disruptions; the implementation of tariffs and other protectionist trade policies; and the possibility of a recession, government shutdowns, debt ceilings and funding.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific macro factors (tariffs, protectionist trade policies, government shutdowns, debt ceiling) not previously covered."
+  },
+  {
+   "text": "Ongoing global economic uncertainties and evolving market conditions may affect our results of operations, financial condition and capital resources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing economic uncertainty affecting results, standard framing."
+  },
+  {
+   "text": "In 2025, the Company had various promotions and new executive leadership appointments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Informational note about promotions and leadership changes without describing a specific risk."
+  },
+  {
+   "text": "Additionally, the emergence of new technologies, including artificial intelligence (\u201cAI\u201d), requiring in new skill sets and changes in local employment legislation, taxation and the approach of regulatory bodies to compensation practices within our operating jurisdictions may result in difficulty in attracting, developing and retaining key personnel.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk factors around AI-driven skill requirements and regulatory compensation practices affecting talent retention."
+  },
+  {
+   "text": "AI technologies are quickly evolving and being adopted, which may also increase or intensify potential cybersecurity risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk that AI technologies may intensify cybersecurity threats."
+  },
+  {
+   "text": "We may be unable to anticipate cybersecurity threats, react in a timely manner and may be required to devote substantial additional resources to modify or enhance our information security systems, networks and cybersecurity program and to defray the costs of complying with new or developing regulatory requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk with specifics about resource needs and regulatory compliance costs."
+  },
+  {
+   "text": "While we are not aware of a cybersecurity incident that materially affected the Company, including its business strategy, results of operations or financial condition, a future cybersecurity incident could have a material impact on us.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing cybersecurity risk disclosure about no known material incident but potential future impact."
+  },
+  {
+   "text": "Cybersecurity incidents are not bound by time or geographic limitations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cybersecurity incidents lacking time/geographic limits, standard framing."
+  },
+  {
+   "text": "Some of our service providers may store or have access to our data and may not have effective controls, processes or practices to protect our information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding third-party service providers' inadequate data protection controls."
+  },
+  {
+   "text": "A vulnerability in our service providers\u2019 software or systems or failure of safeguards, policies or procedures, could result in a cyberattack or other incident which could harm our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the new service provider risk by describing potential cyberattack consequences, closely tied to prior sentence."
+  },
+  {
+   "text": "See Item 1C, \u201cCybersecurity\u201d for additional information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another item, no substantive content."
+  },
+  {
+   "text": "Deterioration in relationships with our broker and agent distribution network or their increased promotion and distribution of our competitors\u2019 products could adversely affect our ability to sell our products.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing distribution channel risk about broker/agent relationships."
+  },
+  {
+   "text": "Loss of all or a substantial portion of the business provided by one or more of these brokers or agents could have an adverse effect on our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about loss of broker/agent business impacting operations."
+  },
+  {
+   "text": "Analytical models used in decision making and estimates, assumptions and valuations in these models could vary materially from actual results, which could have an adverse impact on the financial condition, results of operations and cash flows of the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding reliance on analytical models and potential inaccuracies affecting financial results."
+  },
+  {
+   "text": "These models incorporate numerous assumptions and forecasts about the future level of financial metrics, including interest rates, inflation, credit spreads and equity markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific details on model assumptions (interest rates, inflation, credit spreads) expanding the new model risk."
+  },
+  {
+   "text": "Recent technological advancements in the insurance industry and information technology industry including in underwriting, claims, distribution and operations present new and fast-evolving competitive risks as participants seek to increase the speed of transactions, lower costs and create new opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competitive/technology risk with specifics about industry-wide technological evolution."
+  },
+  {
+   "text": "We will be at a competitive disadvantage if, over time, our competitors are more effective than us in their utilization of technology and evolving data analytics.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing competitive disadvantage risk regarding technology utilization."
+  },
+  {
+   "text": "If we do not anticipate or keep pace with these technological and other changes impacting the insurance industry, it could adversely affect our business results of operations and financial condition.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about failing to keep pace with technological change."
+  },
+  {
+   "text": "Business or asset acquisitions and dispositions may expose us to certain risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category regarding business or asset acquisitions and dispositions exposing the company to certain risks."
+  },
+  {
+   "text": "The completion of any business or asset acquisition or sale is subject to certain risks, including those relating to the receipt of required regulatory approvals, the terms and conditions of regulatory approvals including any financial accommodations required by regulators, our ability to satisfy such terms, conditions and accommodations, the occurrence of any event, change or other circumstances that could give rise to the termination of a transaction and the risk that parties may not be willing or able to satisfy the conditions to a transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific regulatory and transactional risks associated with the new acquisition/disposition risk."
+  },
+  {
+   "text": "As a result, there can be no assurance that any business or asset acquisition or sale will be completed as contemplated, or at all, or regarding the expected timing of the completion of the acquisition or disposition.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the uncertainty of completing acquisitions/dispositions, consistent with the newly introduced risk."
+  }
+ ]
+}

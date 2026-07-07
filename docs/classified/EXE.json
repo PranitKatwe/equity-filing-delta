@@ -1,0 +1,218 @@
+{
+ "ticker": "EXE",
+ "sector": "Energy",
+ "filing_date": "2026-02-18",
+ "accession": "0000895126-26-000011",
+ "prior_accession": "0000895126-25-000021",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 6,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "The BLM has given notice that it is in the process of considering revisions to the final rule and has delayed enforcement of two provisions included in the April 2024 rule until December 10, 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated regulatory detail about BLM's delayed enforcement of the April 2024 methane rule, expanding the existing regulatory risk discussion."
+  },
+  {
+   "text": "The relevant provisions subject to delayed enforcement imposed measurement device and 22 TABLE OF CONTENTS sampling requirements for flares flowing between 1,050 and 6,000 Mcf per month and required operators to submit Leak Detection and Repair plans to the state BLM office; however, the obligation to repair leaks required under the regulations remains in effect.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about which provisions are delayed and clarifies ongoing leak repair obligations, expanding the existing regulatory risk."
+  },
+  {
+   "text": "The state litigation against the April 2024 rule has been temporarily suspended pending the BLM\u2019s reconsideration of the April 2024 rule.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates the status of related litigation, an elaboration of the existing regulatory risk narrative."
+  },
+  {
+   "text": "In 2026, we announced that we will move our Company headquarters to Spring, Texas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A factual announcement about headquarters relocation, not itself a risk statement."
+  },
+  {
+   "text": "24 TABLE OF CONTENTS Executive Officers The list below details, as of February 18, 2026, the name of each of our executive officers, together with his or her age and positions held over the past five years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory sentence for the executive officer list; purely administrative/informational."
+  },
+  {
+   "text": "Wichterich, Chairman of the Board, Interim President and Chief Executive Officer Michael A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Name/title listing of an executive officer, informational only."
+  },
+  {
+   "text": "He has served as Chairman of the Board of Directors since February 2021, including Executive Chairman from October 2021 until December 2022, and previously served as Interim Chief Executive Officer from April 2021 to October 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history of an executive, not a risk statement."
+  },
+  {
+   "text": "Wichterich is Founder and Chief Executive Officer of Three Rivers Operating Company LLC, a private exploration and production company with a focus in the Permian Basin.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about an executive's other roles."
+  },
+  {
+   "text": "Wichterich served as the Chief Financial Officer of Texas American Resources, New Braunfels Utilities and Mariner Energy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, informational only."
+  },
+  {
+   "text": "Wichterich began his career with PricewaterhouseCoopers in its energy auditing practice.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, informational only."
+  },
+  {
+   "text": "Wichterich also serves as a board member of Grizzly Energy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical board membership detail, informational only."
+  },
+  {
+   "text": "Raiford served as Vice President \u2013 Treasurer for Expand Energy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history of another executive, informational only."
+  },
+  {
+   "text": "Raiford was Vice President \u2013 Investor Relations for Southwestern Energy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, informational only."
+  },
+  {
+   "text": "Raiford joined Southwestern Energy in 2011, serving in roles of increasing responsibility in accounting and finance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, informational only."
+  },
+  {
+   "text": "Raiford earned her B.B.A. in Accounting and M.S. in Finance from Texas A&M University.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Educational background, informational only."
+  },
+  {
+   "text": "We depend on third-party pipelines and other investments to provide us certain gathering and transportation assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement of dependence on third-party pipelines, expanded by subsequent NG3-specific details."
+  },
+  {
+   "text": "During the fourth quarter of 2022, we entered into an agreement with Momentum Sustainable Ventures LLC to build a new natural gas gathering pipeline and carbon capture project, the New Generation Gas Gathering pipeline (the \u201cNG3 pipeline\u201d), to gather and treat natural gas produced in the Haynesville Shale for delivery to Gulf Coast markets, including LNG export.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides background on a specific new pipeline/JV project that expands the existing pipeline dependency risk."
+  },
+  {
+   "text": "We have a 35% interest in the joint venture entity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific ownership percentage detail expanding the joint venture/pipeline risk."
+  },
+  {
+   "text": "On October 1, 2025, the NG3 pipeline was placed in service and began gathering operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Update on the pipeline's operational status, expanding the existing dependency risk with current facts."
+  },
+  {
+   "text": "We rely on the NG3 pipeline to provide to us certain gathering, processing and transportation services.",
+   "category": "expanded_existing_risk",
+   "rationale": "States reliance on the specific NG3 pipeline, expanding the general third-party pipeline dependency risk."
+  },
+  {
+   "text": "We have a gathering agreement in which approximately 900 MMcf per day, on average, of natural gas are to be gathered and processed by the NG3 pipeline over the course of the next 12 years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific volume and contract term details to the existing pipeline dependency risk."
+  },
+  {
+   "text": "In the event that the services of the NG3 pipeline are impacted due to repairs, damage to the facility, lack of capacity or any other reason, our ability to lower costs and secure inputs for our operations and transportation for our production may be impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential impact if NG3 pipeline service is disrupted, expanding the existing dependency risk."
+  },
+  {
+   "text": "Because we do not own and/or control these third-party pipelines or facilities, such as the NG3 pipeline, their continuing operation and access requirements are not within our control.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates lack of control over third-party pipelines, now naming NG3 specifically, without new substance."
+  },
+  {
+   "text": "If these or any other pipeline connections or facilities were to become unavailable for current or future volumes of natural gas, oil and NGL due to repairs, damage to the facility, lack of capacity or any other reason, our ability to operate efficiently and ship natural gas, oil and NGL to end markets could be restricted.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about pipeline unavailability affecting operations, just extended to include NG3."
+  },
+  {
+   "text": "The approval process for certain projects has become increasingly slower and more difficult, due in part to federal, state and local concerns related to exploration and production, transmission and gathering activities and associated 34 TABLE OF CONTENTS environmental impacts, and the increasingly negative public perception regarding, and opposition to, the oil and gas industry, including major pipeline projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on regulatory/permitting difficulties and public opposition, expanding existing risk regarding project approvals."
+  },
+  {
+   "text": "We entered into a joint venture, and may in the future enter into additional or modify existing joint ventures, that might restrict our operational and corporate flexibility.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding joint venture arrangements restricting operational flexibility, tied to a newly formed JV."
+  },
+  {
+   "text": "In addition, we exercise no control over joint venture partners and it may be difficult or impossible for us to cause these joint ventures or partners to take actions that we believe would be in our or the joint venture's best interests and these joint ventures are subject to many of the same risks to which we are subject.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates lack of control over JV partners, echoing the same risk expressed elsewhere in the filing."
+  },
+  {
+   "text": "We entered into a joint venture primarily pertaining to the building of a new natural gas gathering pipeline and carbon capture project, the NG3 pipeline, and may in the future enter into additional joint venture arrangements with third parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies the NG3 pipeline JV as the basis for the joint venture risk, adding concrete detail."
+  },
+  {
+   "text": "Joint venture arrangements may restrict our operational and corporate flexibility.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats the flexibility-restriction risk already stated in similar terms."
+  },
+  {
+   "text": "Because we do not control all of the decisions of our joint ventures or joint venture partners, either because we do not have a controlling interest in the venture or are not an operator under the agreement, it may be difficult or impossible for us to cause these joint ventures or partners to take actions that we believe would be in our or the joint venture's best interests.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate expression of lack of control over JV decisions, same as prior sentence."
+  },
+  {
+   "text": "Moreover, joint venture arrangements involve various risks and uncertainties, such as committing that we fund operating and/or capital expenditures, the timing and amount of which we may not control, and our joint venture partners may not act in a manner that we believe would be in our or the joint venture's best interests, may elect not to support further pursuit of projects, and/or may not satisfy their financial obligations to the joint venture.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks about funding obligations, partner non-support, and failure to meet financial obligations in joint ventures."
+  },
+  {
+   "text": "The loss of joint venture partner support in further pursuing or funding a project may significantly adversely affect the ability to complete the project.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that loss of JV partner support could prevent project completion."
+  },
+  {
+   "text": "In addition, such joint ventures may be subject to many of the same risks to which we are subject.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates that JV risks mirror the company's own risks, a restatement of prior risk language."
+  },
+  {
+   "text": "The departure of key management personnel and the failure to attract and retain talent could adversely affect our operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor specifically about departure of key management and difficulty attracting/retaining talent."
+  },
+  {
+   "text": "Our success depends upon the continued contributions of our senior executives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on senior executives, standard framing language."
+  },
+  {
+   "text": "If one or more of our executive officers are unable or unwilling to continue in their current positions, we may not be able to replace them readily, if at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the difficulty of replacing executives, expanding the newly introduced management risk."
+  },
+  {
+   "text": "Additionally, we may incur additional expenses to recruit and retain new executive officers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about increased recruiting costs, expanding the management risk."
+  },
+  {
+   "text": "Because of these factors, the loss of any one or more members of our executive management team, for any reason, including resignation or retirement, could impair our ability to execute our business strategy and have a material adverse effect on our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard concluding risk-factor language about potential material adverse effects, generic boilerplate."
+  },
+  {
+   "text": "Although we have endeavored to implement these management transitions in a non-disruptive manner, such transitions can be inherently difficult to manage and may hamper our ability to meet our financial and operational goals.",
+   "category": "expanded_existing_risk",
+   "rationale": "References actual management transitions and potential disruption, adding concrete detail to the new management risk."
+  },
+  {
+   "text": "Such changes may also give rise to uncertainty among our customers, investors, vendors, employees and others concerning our future direction and performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty among stakeholders, standard risk-factor framing."
+  }
+ ]
+}

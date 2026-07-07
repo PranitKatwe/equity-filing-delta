@@ -1,0 +1,148 @@
+{
+ "ticker": "AFL",
+ "sector": "Financials",
+ "filing_date": "2026-02-25",
+ "accession": "0001628280-26-011402",
+ "prior_accession": "0000004977-25-000047",
+ "model": "claude-sonnet-5",
+ "n_added": 26,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "Business \u2022 Privacy and Cybersecurity In the absence of a comprehensive federal privacy law, states are making a push towards privacy legislation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds context about state privacy legislation trend, expanding the existing privacy/cybersecurity risk discussion."
+  },
+  {
+   "text": "Although not all apply to Aflac U.S. operations, an example of these state privacy laws is the California Consumer Privacy Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides a specific example (CCPA) as illustrative detail, not a new risk."
+  },
+  {
+   "text": "Businesses across industries have also seen an increase in lawsuits alleging tracking technologies on their websites violate state or federal wiretapping laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific litigation risk regarding website tracking technologies violating wiretapping laws."
+  },
+  {
+   "text": "At the federal level, the Telephone Consumer Protection Act (TCPA) continues to provide plaintiffs with a private right of action for claims alleging violation of the TCPA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on TCPA private right of action, expanding existing privacy/litigation risk discussion."
+  },
+  {
+   "text": "The NYSDFS Cybersecurity Requirements for Financial Services Companies applies to Aflac New York.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory requirement (NYSDFS Cybersecurity Requirements) applicable to the company."
+  },
+  {
+   "text": "This regulation requires, among other things, risk assessments, administrative and technical controls, incident reporting procedures, business continuity plans, and certain cybersecurity governance, such as the designation of a Chief Information Security Officer and senior governing body oversight.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific obligations under the newly introduced NYSDFS requirement, expanding on it."
+  },
+  {
+   "text": "In addition, more than 25 states have adopted the NAIC\u2019s Insurance Data Security Model Law, which requires similar cybersecurity measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory requirement (NAIC Insurance Data Security Model Law) affecting many states."
+  },
+  {
+   "text": "For information regarding the Company's cybersecurity risk management, strategy, and governance, see Item 1C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another item section, purely organizational."
+  },
+  {
+   "text": "Additionally, employees have access to educational resources that support self-development and skill-enhancement, enabling them to strengthen both technical and professional capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about employee development resources, unrelated to risk."
+  },
+  {
+   "text": "Business \u2022 Established in 2009, Aflac Heartful Services Co., Ltd.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual historical statement about a subsidiary's founding, not a risk."
+  },
+  {
+   "text": "Aflac U.S. conducts an employee engagement survey every two years to capture feedback on company culture and overall satisfaction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes routine HR practice (employee survey), not a risk factor."
+  },
+  {
+   "text": "The additional government debt from fiscal stimulus 13 Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Appears to be a page/header fragment with no substantive content."
+  },
+  {
+   "text": "In addition, uncertainty regarding the timing, pace and magnitude of future interest rate changes could further increase fluctuations in the value of the Company\u2019s assets and liabilities and adversely affect its capital position and liquidity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how interest rate uncertainty could affect capital position and liquidity, expanding existing interest rate risk."
+  },
+  {
+   "text": "For Aflac Japan, rising interest rates and widening credit 15 Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment with page number, not substantive content."
+  },
+  {
+   "text": "Cumulative net cash settlements on derivatives hedging currency exposure of 16 Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment with page number, not substantive content."
+  },
+  {
+   "text": "Japanese yen strengthening has the effect of magnifying current year results in relation to the prior year, including the resulting positive impact on equity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains effect of yen strengthening on results, expanding existing currency risk disclosure."
+  },
+  {
+   "text": "GAAP, U.S. dollar denominated assets and liabilities held by Aflac Japan are remeasured to Japanese yen and Japanese yen-denominated assets and liabilities held by Aflac Re are remeasured to U.S. dollar with the resulting foreign currency remeasurement for certain of these assets and liabilities included in earnings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds technical detail on remeasurement of USD/JPY assets and liabilities, expanding existing FX risk discussion."
+  },
+  {
+   "text": "Japanese yen weakening in relation to the U.S. dollar increases the Japanese yen value on U.S. dollar denominated asset, while Japanese yen strengthening decreases the Japanese yen value of the U.S. dollar denominated assets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the mechanics of currency fluctuation effects already implied in existing risk disclosures."
+  },
+  {
+   "text": "Volatility in interest rates and foreign exchange markets, including changes in yield curves and discount rates, may increase the sensitivity of the Company's investment and derivative valuations to changes in market assumptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how interest rate and FX volatility affect valuation sensitivity, expanding existing market risk discussion."
+  },
+  {
+   "text": "Risk Factors (e.g. loss statistics), current market conditions and reasonable and supportable micro and macroeconomic forecasts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing reserve assumption inputs, not a new risk statement."
+  },
+  {
+   "text": "Reserve assumptions are 20 Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment with page number, not substantive content."
+  },
+  {
+   "text": "The rapid evolution and increased adoption of artificial intelligence technologies may also heighten the Company's cybersecurity risks by making cyber-attacks more difficult to detect, contain, and mitigate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding AI increasing the difficulty of detecting and mitigating cyber-attacks."
+  },
+  {
+   "text": "As a result, events such as these, including the June 2025 cyber incident where the Company became aware of the exfiltration of certain personal information relating to a substantial number of customers, beneficiaries, employees, agents, and other individuals in the Company\u2019s U.S. business, could adversely affect the Company's financial condition or results of operations due to incurred costs and remediation.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific actual cyber incident (June 2025) involving data exfiltration, a concrete new risk event."
+  },
+  {
+   "text": "The Company could also be subject to legal risk, including government enforcement action and civil litigation, related to cyber-attacks and security breaches, which could adversely affect the Company\u2019s business, reputation, financial condition or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on legal consequences (enforcement actions, litigation) tied to existing cybersecurity risk."
+  },
+  {
+   "text": "In addition, the Company may be adversely impacted by reputational harm or a loss of confidence in the security and integrity of its information technology systems among customers, beneficiaries, employees, agents, and others.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds reputational harm consequence to existing cybersecurity risk discussion."
+  },
+  {
+   "text": "Risk Factors the Company holds.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment with page header text, not substantive content."
+  }
+ ]
+}

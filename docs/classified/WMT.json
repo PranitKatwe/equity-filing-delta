@@ -1,0 +1,218 @@
+{
+ "ticker": "WMT",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-03-13",
+ "accession": "0000104169-26-000055",
+ "prior_accession": "0000104169-25-000021",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 37
+ },
+ "items": [
+  {
+   "text": "We believe we maximize long-term value and competitive advantage by delivering for stakeholders, customers, associates, shareholders, suppliers, partners and communities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mission/value statement about stakeholders, no specific risk."
+  },
+  {
+   "text": "Expanding economic opportunity for associates, suppliers and communities helps us attract and retain talent, meet customer needs and strengthen resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about economic opportunity and talent retention, not a specific risk."
+  },
+  {
+   "text": "As described further below, our workforce strategy focuses on preparing our workforce for the future by aligning skills with evolving business needs and investing in career pathways and learning.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes workforce strategy generally; no new risk identified."
+  },
+  {
+   "text": "We also support supplier growth through development programs and sourcing from a diverse mix of local and global suppliers. \u2022 Sustainability .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General supplier development statement, not risk-specific."
+  },
+  {
+   "text": "Walmart's sustainability efforts focus on enhancing the resilience of our operations and product value chai ns to enhance surety of supply, catalyze innovation and growth, maintain everyday low cost and build stakeholder trust.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General sustainability mission statement, no concrete risk."
+  },
+  {
+   "text": "Our priorities include reducing greenhouse gas emissions, regenerating natural resources, reducing product and packaging waste and supporting people who work in supply chains through responsible sourcing and the creation of economic opportunity. \u2022 Community .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists general sustainability priorities, not a risk factor."
+  },
+  {
+   "text": "Human Capital Management As Walmart grows, the way we attract, develop and reward talent \u2013 and design how work gets done \u2013 evolves alongside our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory statement about human capital evolution, generic."
+  },
+  {
+   "text": "Our workforce strategy reflects our commitment to creating a future-ready workforce, supporting associate growth, and fostering a culture where associates can thrive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General commitment language about workforce strategy."
+  },
+  {
+   "text": "Workforce Strategy and Enablement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading, not substantive content."
+  },
+  {
+   "text": "Our workforce strategy focuses on aligning our organizational structure, talent capabilities and technology investments with the evolving needs of the business, including development of a digitally skilled, AI-enabled workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic focus areas, not a risk statement."
+  },
+  {
+   "text": "This includes preparing associates for new roles, technologies and ways of working, as well as deploying digital tools that support associate effectiveness, engagement and performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes preparation for new roles/technologies, generic."
+  },
+  {
+   "text": "As part of this effort, we are making everyday work simpler and more meaningful by reshaping roles to emphasize uniquely human strengths such as creativity and leadership and identifying areas where AI can automate repetitive tasks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal initiative on AI and roles, not a risk."
+  },
+  {
+   "text": "We are committed to maintaining fair and competitive workforce practices as we evolve how work gets done.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General commitment to fair workforce practices."
+  },
+  {
+   "text": "10 Associate Growth and Development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading only."
+  },
+  {
+   "text": "Investment in associate growth and development supports skill-building, leadership development and overall business performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about growth investment benefits."
+  },
+  {
+   "text": "Development programs are designed to meet both individual and business needs, offering multiple career pathways and learning opportunities across roles, levels and geographies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes development programs generally."
+  },
+  {
+   "text": "Our development approach focuses on building leadership, technical and professional capabilities and equipping associates with the skills required for a changing environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of development approach."
+  },
+  {
+   "text": "This includes company\u2011wide AI learning pathways and certifications designed to meet associates where they are.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI learning pathways as a program, not a risk."
+  },
+  {
+   "text": "Internal career mobility is an important component of our talent model.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about internal mobility."
+  },
+  {
+   "text": "Development is further supported through targeted programs such as Walmart Academy, which provides training in retail skills, leadership and well\u2011being, along with Live Better U, which offers eligible associates access to high school diplomas, certificates, skills credentials and college degrees that are aligned to business needs and in-demand roles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes specific existing programs (Walmart Academy, Live Better U), informational not risk."
+  },
+  {
+   "text": "By investing in development, career mobility and skills, we strengthen our associate value proposition and support a workforce capable of adapting as our business evolves.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about investment benefits."
+  },
+  {
+   "text": "Associate Experience and Engagement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading."
+  },
+  {
+   "text": "Our efforts focus on supporting associate well-being, listening and a culture of belonging.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about associate well-being focus."
+  },
+  {
+   "text": "In the U.S., these benefits include a 401(k) match, Associate Stock Purchase Plan match, associate discounts, predictable scheduling practices, paid time off, life insurance, medical coverage (for most plans, this includes no-cost virtual care and no-cost centers of excellence program for certain complex conditions), behavioral health services, family building benefits, maternity leave and paid parental leave for full-time associates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits offered, informational not risk."
+  },
+  {
+   "text": "Walmart's culture is grounded in our core value of \"Respect the Individual,\" and we believe in fostering a culture where everyone belongs\u2014for associates and for driving business success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cultural value statement."
+  },
+  {
+   "text": "When associates feel valued for who they are, engagement deepens and associates are empowered to better serve our customers and members while delivering innovative solutions for our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about engagement and belonging."
+  },
+  {
+   "text": "From March 2021 to August 2025, he worked at Instacart in various roles, including most recently, Chief Product Officer and Head of Online Grocery.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about an executive's prior employment, not a risk."
+  },
+  {
+   "text": "From July 2018 to March 2021, he worked at Uber in various roles, including most recently Head of Product, Uber Eats.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about executive's prior role."
+  },
+  {
+   "text": "From December 2019 to April 2021, he served as Senior Vice President, Product and Engineering, Walmart U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about executive's prior role."
+  },
+  {
+   "text": "From October 2016 to April 2022, he served as Vice President and Controller for Walmart International.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about executive's prior role."
+  },
+  {
+   "text": "From September 2023 to February 2026 he served as Executive Vice President, President and Chief Executive Officer, Sam's Club U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about executive's prior role."
+  },
+  {
+   "text": "From February 2021 to October 2021, he served as Executive Vice President, Chief Financial Officer Walmart U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about executive's prior role."
+  },
+  {
+   "text": "2022 55 Latriece Watkins Executive Vice President, President and Chief Executive Officer, Sam's Club U.S., effective February 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive title/appointment update, informational."
+  },
+  {
+   "text": "From May 2023 to February 2026, she served as Executive Vice President and Chief Merchandising Officer, Walmart U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about executive's prior role."
+  },
+  {
+   "text": "From December 2020 to May 2023, she served as Executive Vice President, Consumables, Walmart U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about executive's prior role."
+  },
+  {
+   "text": "The disclosures below reflect our beliefs and opinions as to risk factors that could materially and adversely affect our business operations and our securities in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary framing language for risk factor section."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such risk factors have occurred in the past or their likelihood of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer about historical references, boilerplate."
+  },
+  {
+   "text": "Customers are using digital means, including websites, captive and third-party digital applications, social media, and emerging agentic platforms to shop with us and our competitors and to do comparison shopping, and we use these digital means along with digital advertising, text messages and email to interact with our customers and enhance their shopping experience.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competitive/digital risk discussion by adding new specifics such as emerging agentic platforms and digital marketing tools."
+  },
+  {
+   "text": "In addition, to remain competitive, we must continue to develop, integrate and scale digital tools, including AI-powered search and discovery platforms and capabilities, useful interfaces and other marketing tools such as third-party recommendation engines, paid search and mobile applications.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands the technology/competition risk with specific mention of AI-powered search and discovery tools needed to remain competitive."
+  },
+  {
+   "text": "Further, the protection of our proprietary rights, including our trademarks, copyrights, domain names, patents and trade secrets, is important to our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk area concerning protection of proprietary intellectual property rights (trademarks, patents, trade secrets) not previously mentioned."
+  }
+ ]
+}

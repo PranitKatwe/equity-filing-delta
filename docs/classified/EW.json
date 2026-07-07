@@ -1,0 +1,173 @@
+{
+ "ticker": "EW",
+ "sector": "Health Care",
+ "filing_date": "2026-02-25",
+ "accession": "0001099800-26-000009",
+ "prior_accession": "0001099800-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 31,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "We have in the past and are continuing to experience constrained procedure volumes and sales for our products because more products, including Edwards\u2019 own products, are competing for the same facilities and staffing within hospitals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about constrained procedure volumes due to competition for hospital facilities and staffing, including from Edwards' own products."
+  },
+  {
+   "text": "Our use of, or our failure to effectively and timely utilize, emerging technologies, including AI, could adversely impact our business and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a wholly new risk category regarding AI/emerging technology use impacting business and financial results."
+  },
+  {
+   "text": "We use AI and other emerging technologies in various facets of our operations and our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely factual statement that the company uses AI in operations; not itself a risk statement."
+  },
+  {
+   "text": "The legal and regulatory landscape surrounding AI technologies is rapidly evolving and uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about evolving legal/regulatory landscape without specific business impact detail."
+  },
+  {
+   "text": "The rapid advancement of these technologies entails risks, including potential deficiencies in AI-generated information and increased regulatory, cybersecurity, privacy, intellectual property and data-related risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete new risks tied to AI: deficiencies in AI-generated info, cybersecurity, privacy, IP and data risks."
+  },
+  {
+   "text": "Another risk may arise if we are unable to timely utilize AI for technological innovation and business operation efficiency in a manner that is faster and more effective than our competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific competitive risk if the company fails to leverage AI as effectively as competitors."
+  },
+  {
+   "text": "In addition, compliance with new or changing laws, regulations or industry standards relating to AI may impose significant costs on us and limit our ability to effectively develop, deploy or use AI technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes concrete compliance cost and operational limitation risk from new AI-related laws and regulations."
+  },
+  {
+   "text": "Furthermore, if we are unable to effectively manage the use of AI technologies by our employees and service providers, our confidential information, intellectual property and reputation could be put at risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of confidential information, IP, and reputational harm from improper AI use by employees/service providers."
+  },
+  {
+   "text": "Failure to appropriately respond to this evolving landscape may result in reputational, competitive and business harm as well as litigation and regulatory action and fines, penalties and expenses related thereto.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all consequence language about reputational, competitive, and legal harm without new specifics."
+  },
+  {
+   "text": "Acquired businesses may have liabilities, or be subject to claims, litigation or investigations that we did not anticipate or which exceed our estimates at the time of the acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on pre-existing acquisition risk by adding specific concern about unanticipated liabilities and litigation from acquired businesses."
+  },
+  {
+   "text": "We have also been, and may in the future be, party to disputes arising from divestitures or ceased operations related to certain products, which have previously and may in the future result in litigation, liability or reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to disputes arising from divestitures or ceased product operations."
+  },
+  {
+   "text": "Global Macroeconomic and Industry Risks We may be adversely impacted by global economic, political and social conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic header and broad statement about macroeconomic/political/social conditions without specific new detail."
+  },
+  {
+   "text": "Our international operations subject us to certain business risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that international operations carry business risks, without specifics."
+  },
+  {
+   "text": "Department of Commerce recently initiated an investigation under Section 232 of the Trade Expansion Act of 1962, as amended, into (among other things) imports of personal protective equipment, medical consumables and medical equipment (including devices), to determine whether they threaten U.S. national security, which further creates policy uncertainty in terms of tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory development (Section 232 investigation) creating tariff-related policy uncertainty."
+  },
+  {
+   "text": "The current tariff environment is dynamic, as the U.S. government has imposed, modified and paused tariffs multiple times since the beginning of 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated factual context on tariff volatility, expanding on pre-existing tariff risk disclosures."
+  },
+  {
+   "text": "Changes to tariffs and other trade restrictions can be announced at any time with little or no notice.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that tariffs can change with little notice, a common cautionary framing."
+  },
+  {
+   "text": "We cannot predict with certainty the future trade policy of the U.S. or other countr ies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty statement about future trade policy."
+  },
+  {
+   "text": "We are monitoring recent judicial developments and executive branch responses related to U.S. tariffs; however, the impact, if any, cannot be reasonably estimated at this time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific update about monitoring judicial/executive developments on tariffs, expanding existing tariff risk discussion."
+  },
+  {
+   "text": "Tariffs may cause (i) increases in manufacturing costs, (ii) disruptions or delays to our supply chain, (iii) limitations on our ability to sell our products domestically or abroad, and (iv) reductions in sales volumes and gross 17 Table of Contents margins for our products, any of which could negatively affect our business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific financial consequences of tariffs (costs, supply chain, sales), expanding existing tariff risk."
+  },
+  {
+   "text": "The ultimate impact of any existing or new tariffs or other changes in international trade policies on our business, financial condition, results of operations and cash flows is subject to a number of factors, including, but not limited to, the duration of such tariffs, changes in tariff rates, the amount, scope and nature of the tariffs, the results of the Section 232 investigation referenced above, any countermeasures that target countries may take or any mitigating actions that may become available.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates factors affecting tariff impact, expanding existing tariff risk discussion."
+  },
+  {
+   "text": "Additionally, the United States federal government has shut down several times in recent years, most recently on October 1, 2025, during which many government agencies, including the FDA, furloughed critical employees and stopped critical activities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific event\u2014recent government shutdown affecting FDA operations\u2014not previously disclosed."
+  },
+  {
+   "text": "A prolonged government shutdown could significantly affect the FDA\u2019s timely review of any regulatory filings or applications we submit, which could result in delays or failures to obtain or maintain regulatory approvals, clearances or to comply with regulatory requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific consequence (delayed FDA review) of the newly introduced government shutdown risk."
+  },
+  {
+   "text": "Further, we and our suppliers are subject to various United States and foreign regulations regarding environmental, social and governance matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to ESG-related regulations without specific risk detail."
+  },
+  {
+   "text": "We are subject to litigation, investigations, and other legal proceedings relating to our products, customers, competitors, and government regulators that could materially adversely affect our financial condition, divert management\u2019s attention, and harm our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary statement about litigation risk common to risk factor sections, largely generic."
+  },
+  {
+   "text": "We are, and may become, subject to various legal proceedings, investigations and claims that arise in or outside the ordinary course of business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to legal proceedings arising in the ordinary course of business."
+  },
+  {
+   "text": "The outcome of these legal proceedings cannot be predicted with certainty.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that litigation outcomes cannot be predicted, standard boilerplate."
+  },
+  {
+   "text": "We purchase and maintain business insurance for certain liabilities; however, we cannot determine whether our existing business insurance program would be sufficient to cover the costs or potential losses related to our lawsuits and legal proceedings or otherwise be excluded under the terms of any insurance policy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about insurance coverage sufficiency, standard risk factor language."
+  },
+  {
+   "text": "Regardless of merit, litigation may be time-consuming and disruptive to our operations and cause significant legal costs (including settlements, judgments, legal fees and other related defense costs) and diversion of management attention.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about litigation being time-consuming and costly, standard boilerplate."
+  },
+  {
+   "text": "We could also be subject to governmental investigations in connection with some of these claims.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential governmental investigations, standard boilerplate."
+  },
+  {
+   "text": "If we do not prevail in these legal proceedings, we may be faced with significant monetary damages or injunctive relief against us that could have a material adverse effect on our business, financial condition, or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential monetary damages from unfavorable litigation outcomes, standard boilerplate."
+  },
+  {
+   "text": "In addition, even if we believe that we have meritorious defenses, from time to time, we engage in settlement discussions and mediation and consider settlements taking into account various factors including, among other things, developments in such legal proceedings and the resulting risks and uncertainties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about settlement discussions and mediation considerations, standard boilerplate."
+  }
+ ]
+}

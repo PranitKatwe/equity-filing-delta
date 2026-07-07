@@ -1,0 +1,83 @@
+{
+ "ticker": "PSA",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-12",
+ "accession": "0001628280-26-007696",
+ "prior_accession": "0001393311-25-000036",
+ "model": "claude-sonnet-5",
+ "n_added": 13,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Our existing relationship with our legacy joint venture partner may place further contractual limitations on our ability to sell all of the shares we own if we desired to do so.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about contractual limitations tied to a legacy joint venture partner, expanding on existing ownership/sale risk."
+  },
+  {
+   "text": "Local, state, and federal governments have and may in the future adopt regulations that could adversely impact our operations, including in response to natural disasters and public health crises.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential future government regulation without specific new risk detail."
+  },
+  {
+   "text": "California and other jurisdictions have also adopted regulations restricting our operations relating to pricing methodologies, restrictions on fees, procedures for selling stored property of delinquent tenants, marketing restrictions related to price changes and promotional rates, zoning restrictions and other matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific new regulatory restrictions (pricing, fees, marketing, zoning) that expand on existing regulatory risk disclosures."
+  },
+  {
+   "text": "Although we have adopted policies with respect to these risks, including related to the development, deployment and monitoring of artificial intelligence tools, we cannot be certain that such policies will be effective.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to AI tool policies and their potential ineffectiveness, a topic not previously covered."
+  },
+  {
+   "text": "If we fail to successfully execute our recent leadership succession, we may struggle to effectively execute our strategic plan.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk tied to leadership succession execution affecting strategic plan."
+  },
+  {
+   "text": "We recently announced leadership changes, including a change in our Chairman of the Board, our President and Chief Executive Officer and our Chief Financial Officer.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific recent leadership changes (Chairman, CEO, CFO) not previously disclosed, a concrete new event-driven risk."
+  },
+  {
+   "text": "Although these changes were made pursuant to the Board\u2019s succession planning efforts, there is no guarantee that the transition to new leadership will be executed successfully.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the succession risk introduced in adjacent sentences, adding detail about lack of guarantee of successful transition."
+  },
+  {
+   "text": "Failure to successfully implement these successions may result in disruptions in the execution of our strategic plan.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential disruption from leadership succession failure, tied to the new succession risk theme."
+  },
+  {
+   "text": "We may record losses as a result of the bankruptcy, insolvency, or other credit failure of the borrowers under our bridge lending financing program.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding losses from borrower bankruptcy/insolvency under bridge lending program."
+  },
+  {
+   "text": "In that case, our revenues and results of operations may be materially and adversely impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows on from the bridge lending risk, specifying potential impact on revenues and results of operations."
+  },
+  {
+   "text": "Although we conduct due diligence and aim to carefully evaluate the risks associated with this debt and other investments, we could incur losses from our lending decisions, which includes subjective and complex judgments and forecasts of economic conditions and how these economic predictions might impair the ability of our borrowers to operate their business and/or make all required payments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about due diligence process and complexity of judgments underlying the new lending risk."
+  },
+  {
+   "text": "For example, volatility of the capital and credit markets, increased interest rates, lower demand for self-storage and general economic conditions may adversely affect the solvency, creditworthiness or operations of our borrowers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific macroeconomic factors that could affect borrower solvency, expanding the bridge lending risk."
+  },
+  {
+   "text": "If our forecasts prove incorrect, or if any of our borrowers fail to perform as expected, we may incur losses from these bridge loans which could have a material adverse effect on our operating revenue and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Concludes the bridge lending risk narrative with potential material adverse effects, elaborating on the new risk introduced."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "ECHO",
+ "sector": "Communication Services",
+ "filing_date": "2026-03-02",
+ "accession": "0001104659-26-021817",
+ "prior_accession": "0001558370-25-001663",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 17
+ },
+ "items": [
+  {
+   "text": "Risk Factors\u201d in this Annual Report on Form 10-K for the year ended December 31, 2025 and elsewhere in our public filings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cross-reference to the Risk Factors section, no substantive content."
+  },
+  {
+   "text": "We offer nationwide Wireless services to subscribers primarily under our Boost Mobile and Gen Mobile brands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement of brand names offered, no risk implication."
+  },
+  {
+   "text": "We offer customers value by providing choice and flexibility in our Wireless services. \u200b 10 \u200b Table of Contents \u200b Prior to November 15, 2025, we were operating primarily as an MVNO utilizing network services under the MNSA and the NSA and secondarily as an MNO.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive background on prior operating structure, contextual not risk-bearing."
+  },
+  {
+   "text": "In light of the AT&T Transactions, we transitioned to a Hybrid MNO under which we continue to operate our 5G Network core and utilize AT&T\u2019s network services and secondarily as an MVNO utilizing network services under the MNSA and the NSA.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a major structural shift to a Hybrid MNO model relying on AT&T's network, introducing new operational dependency risk."
+  },
+  {
+   "text": "We have leveraged the EchoStar XXIV satellite to deliver satellite services to unserved and underserved consumer markets in the Americas as well as enterprise, aeronautical and government markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about satellite service coverage, no risk content."
+  },
+  {
+   "text": "In addition, we design, develop, construct and provide telecommunication networks comprising satellite ground segment systems and terminals to mobile system operators and our enterprise customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of business activities, not risk-related."
+  },
+  {
+   "text": "Our primary satellite competitors in the North American consumer market are ViaSat and SpaceX.",
+   "category": "new_substantive_risk",
+   "rationale": "Names specific competitors (ViaSat, SpaceX) in the consumer market, adding concrete competitive risk detail not previously disclosed."
+  },
+  {
+   "text": "Both ViaSat and SpaceX have also entered the South American consumer market and additionally SpaceX has entered the Central American consumer market.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on competitor geographic reach building on the newly named competitive threat."
+  },
+  {
+   "text": "We also contract with certain third-party vendors for the development and manufacture of components that are integrated into our products. \u200b OTHER \u200b Business Strategy - Other \u200b Our Other segment primarily consists of our legacy 5G Network and 5G Network deployment operations that will not be utilized in the Wireless segment\u2019s Hybrid MNO business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about segment composition, no risk implication."
+  },
+  {
+   "text": "As a result of the unforeseeable actions by the FCC, as detailed in \u201c Recent Developments \u2013 FCC Review \u201d in Note 1 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K, we entered into the AT&T Transactions and SpaceX Transactions, whereby we agreed to sell a material amount of our spectrum licenses.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes forced sale of a material amount of spectrum licenses due to unforeseeable FCC action, a new concrete regulatory risk event."
+  },
+  {
+   "text": "In August 2025, following these transactions, we terminated our deployment of our 5G Network, after meeting certain interim and final build-out requirements established by the FCC, and we began the abandonment and decommission process for certain portions of our 5G Network that will not be utilized in the Wireless segment\u2019s Hybrid MNO business.",
+   "category": "new_substantive_risk",
+   "rationale": "Details termination of 5G network deployment and decommissioning process, a material operational change."
+  },
+  {
+   "text": "See Note 15 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for definitions and further information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement notes."
+  },
+  {
+   "text": "This in turn could adversely affect our financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about financial impact, no specific risk detail."
+  },
+  {
+   "text": "Akhavan served as our Chief Executive Officer and President from April 2022 to November 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact about executive tenure, not a risk factor."
+  },
+  {
+   "text": "Akhavan served as DISH Network\u2019s Chief Executive Officer from November 2023 to December 2023.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact about executive's prior role, not a risk factor."
+  },
+  {
+   "text": "Effective February 26, 2026, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment noting an effective date for a personnel change, no risk content."
+  },
+  {
+   "text": "Orban previously served as our Principal Financial Officer since the effective date of the Merger in December 2023 and continues to serve as Executive Vice President and Chief Financial Officer of DISH Network since July 2019.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact about executive's roles, not a risk factor."
+  },
+  {
+   "text": "As Executive Vice President and Chief Financial Officer of DISH Network, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact fragment, not a risk factor."
+  },
+  {
+   "text": "Governmental agencies might not approve the AT&T Transactions and/or the SpaceX Transactions or may impose conditions to any such approval or require changes to the terms of such transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that regulators may not approve or may impose conditions on the AT&T and SpaceX transactions."
+  },
+  {
+   "text": "Any such condition or change could have the effect of delaying completion of the AT&T Transactions and/or SpaceX Transactions, imposing costs on or otherwise reduce the anticipated benefits of the transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of regulatory conditions/delays already introduced."
+  },
+  {
+   "text": "Furthermore, under the Transaction Agreements, each party\u2019s obligation to consummate the transactions are also subject to the accuracy of the representations and warranties of the other party (subject to certain qualifications and exceptions) and the performance in all material respects of the other party\u2019s covenants under the Transaction Agreements. \u200b As a result of these conditions, among other factors, we cannot provide assurance that the AT&T Transactions and/or SpaceX Transactions will be completed on the terms or timeline currently contemplated, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details contractual conditions affecting completion, building on the transaction approval risk."
+  },
+  {
+   "text": "If such conditions are not fulfilled by the deadlines in the applicable Transaction Agreements (including applicable extensions provided under the Transaction Agreements), the Transaction Agreements may be terminated and the AT&T Transactions and/or SpaceX Transactions may not be completed. \u200b Because each of the AT&T Transactions and the SpaceX Transactions are independently reviewed by the applicable government agencies, we cannot guarantee that any of the above risks are only subject to one of the transactions and not the other.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on termination conditions and interplay between the two transactions."
+  },
+  {
+   "text": "Neither the AT&T Transactions nor the SpaceX Transactions are contingent on the other.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual clarification that the transactions are not contingent on each other."
+  },
+  {
+   "text": "Conditions, delays or other changes placed on one transaction may only affect that transaction, but nonetheless, may adversely impact our business, financial condition, results of operations, liquidity or the market value of our securities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential adverse impacts from transaction-specific conditions."
+  },
+  {
+   "text": "If completed, both the AT&T Transactions and SpaceX Transactions would result in significant cash and/or assets being recognized by us and as a result, our future results and success depend on the completion of such transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "States that future results and success depend on completion of the transactions, introducing a new dependency risk."
+  },
+  {
+   "text": "Any delay in completion of the AT&T Transactions and SpaceX Transactions, material conditions imposed or other event or condition which negatively impacts those transactions may adversely impact our business, financial condition, results of operations, liquidity or the market value of our securities. \u200b We do not expect approval of the AT&T Transactions or SpaceX Transactions during a government shutdown, and the existence of a government shutdown may materially delay our ability to consummate the AT&T Transactions and/or SpaceX Transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor: government shutdown delaying regulatory approval of the transactions."
+  },
+  {
+   "text": "We cannot make any prediction if our potential investment may continue to influence our stock price.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that stock price may be influenced by a potential investment, a previously undisclosed dynamic."
+  },
+  {
+   "text": "Because the potential SpaceX Transaction has attracted substantial investor attention, our stock price may not currently reflect the fundamentals of our business, but instead may be materially influenced by external perceptions of SpaceX\u2019s valuation, growth prospects, media narrative and anticipated liquidity events.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how investor attention to SpaceX may affect stock price, building on the newly introduced risk."
+  },
+  {
+   "text": "As a result, our stock price may become increasingly volatile and subject to factors entirely outside our control. \u200b There is also no assurance that the potential SpaceX Transaction will be completed, including, but not limited to, because it remains subject to various closing conditions, regulatory considerations and other uncertainties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing stock price volatility risk tied to the SpaceX transaction."
+  },
+  {
+   "text": "If the transaction is delayed, restructured or fails to close, our stock price could decline materially. \u200b Even if the transaction is completed, our resulting minority, non-controlling position would limit our ability to influence SpaceX\u2019s operations, strategic decisions, governance or risk-management practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates consequences of transaction failure and limited influence post-closing."
+  },
+  {
+   "text": "The valuation of any investment in SpaceX would remain inherently uncertain due to, among other factors, the absence of a public market for its shares, the need to rely on subjective valuation methodologies and the volatility typical of private-market technology ventures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details valuation uncertainty for the SpaceX investment, expanding on the previously introduced investment risk."
+  },
+  {
+   "text": "However, we were forced to stop that effort based on the FCC\u2019s unequivocal position that: (i) EchoStar\u2019s utilization of its spectrum was not acceptable based on the relatively small number of subscribers using the Boost Mobile MNO network, and (ii) that EchoStar\u2019s continued operations failed to best serve the public interest.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new regulatory action forcing the company to halt its MNO buildout efforts."
+  },
+  {
+   "text": "Due to severe uncertainty as to whether EchoStar could recoup its multibillion-dollar investments following potential FCC investigations and forfeitures, EchoStar had to abandon its plans to grow its facilities-based MNO operations and instead has pivoted to selling certain wireless spectrum licenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains the financial and strategic consequences of the FCC-driven pivot described in the prior sentence."
+  },
+  {
+   "text": "As a result of, among other factors, the AT&T Transactions and the SpaceX Transaction, we have transitioned to a Hybrid MNO wireless business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary statement of business transition already covered by prior new risk disclosures."
+  },
+  {
+   "text": "The licensing, construction, operation, sale and interconnection arrangements of wireless telecommunications systems are regulated by the FCC and, depending on the jurisdiction, other federal and international, state and local regulatory agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory oversight of wireless systems, standard boilerplate."
+  },
+  {
+   "text": "In connection with the AT&T Transactions, we entered into an amended NSA (the \u201cAmended NSA\u201d), which provides for, among other things, reduced rates if we meet certain minimum data thresholds while transitioning to a hybrid MNO.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specifics of an amended network agreement with new rate conditions tied to hybrid MNO transition."
+  },
+  {
+   "text": "In the fourth quarter of 2025, we notified AT&T that we met the minimum data thresholds and have transitioned to a hybrid MNO. \u200b In 2020 in connection with the Asset Purchase Agreement, we entered into a master network services agreement with T-Mobile to provide us with wireless network services for a period of seven years (the \u201cPrior MNSA\u201d).",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates status of meeting data thresholds and network agreement transition, building on prior agreement details."
+  },
+  {
+   "text": "Changes in U.S. or foreign trade policies, including, but not limited to, new or increased tariffs, export controls, trade restrictions or sanctions, have resulted, and may continue to result, in higher costs for the wireless devices and other equipment we procure. \u200b Supply chain disruptions, customs delays, new compliance requirements and other challenges may cause delays in deploying network infrastructure and customer equipment, increase our operational expenses and impact our ability to meet customer demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk from tariffs, trade restrictions, and supply chain disruptions affecting equipment costs and deployment."
+  },
+  {
+   "text": "Any adverse finding in such legal proceedings, could adversely affect our business, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about legal proceedings without specific new risk detail."
+  },
+  {
+   "text": "These conditions raise substantial doubt about our ability to continue as a going concern and, as a result, a \u2018going concern\u2019 disclosure appears in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K. \u200b We expect completion of either of the AT&T Transactions or SpaceX Transactions to fully resolve our going concern qualification, except for our Hughes Satellite Systems Corporation subsidiary.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a going concern doubt, a major new financial risk not previously mentioned."
+  }
+ ]
+}

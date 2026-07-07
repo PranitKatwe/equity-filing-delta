@@ -1,0 +1,218 @@
+{
+ "ticker": "ALGN",
+ "sector": "Health Care",
+ "filing_date": "2026-02-27",
+ "accession": "0001097149-26-000014",
+ "prior_accession": "0001097149-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 36,
+ "counts": {
+  "new_substantive_risk": 16,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Such events may also cause a shift in public opinion about companies based in the United States or in the regions where we operate or plan to operate, which could adversely impact our reputation and business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk that geopolitical events could shift public opinion about U.S.-based companies, harming reputation and business, which is a distinct new causal pathway not previously described."
+  },
+  {
+   "text": "Department of Commerce has initiated an investigation under Section 232 of the Trade Expansion Act of 1962, as amended, to determine the effects on the national security of imports of personal protective equipment (PPE), medical consumables, and medical equipment including devices.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific new government investigation (Section 232) into PPE/medical device imports, a concrete new regulatory development."
+  },
+  {
+   "text": "A significant portion of the products we sell, and the components and raw materials used in our products are originally manufactured or sourced outside the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual context supporting the tariff/sourcing risk, elaborating on existing supply chain risk rather than introducing a new one."
+  },
+  {
+   "text": "Tariffs have and could in the future result in additional costs for our products, which may reduce demand for our products and adversely impact our gross margin and results of operations, and we may not be able to fully or substantially mitigate the impact of any new or increased tariffs or pass price increases on to our customers and to the extent we do, we may experience reduced demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific impacts of tariffs (cost increases, margin pressure) that expand on an existing tariff-related risk."
+  },
+  {
+   "text": "The extent and duration of any tariffs and the resulting impact on general economic conditions and on our business, financial condition and results of operations are uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty framing around tariffs, extending the existing tariff risk discussion."
+  },
+  {
+   "text": "Additionally, negative experiences with clear aligner products manufactured or distributed by competitors may adversely affect our reputation and demand for the Invisalign System if consumers or dental professionals attribute these negative experiences to clear aligner therapy generally, even if our products differ significantly in design, quality, and clinical effectiveness.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific reputational risk tied to negative experiences with competitors' products affecting demand for the company's own product."
+  },
+  {
+   "text": "Competition in the markets for our products and services is increasing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that competition is increasing, without specifics."
+  },
+  {
+   "text": "We also face competition from traditional products and services, such as wires and brackets, which doctors have historically been able to purchase at a lower price point.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about a specific competitive threat (traditional wires/brackets) to the existing competition risk."
+  },
+  {
+   "text": "We have and will likely continue to experience price-focused competition as we continue to expand into new markets, which could contribute to the commoditization of our products or services if we are unable to otherwise differentiate our offerings from those of our competitors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing competitive pressure with specifics about price-based competition and commoditization."
+  },
+  {
+   "text": "Our results of operations may be adversely affected if doctors at DSOs, orthodontic service organizations (\u201cOSOs\u201d) or other large group practices reduce, delay, or do not increase their purchasing of our products and services in ways that reduce adoption of our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding reduced purchasing by DSOs/OSOs affecting results of operations."
+  },
+  {
+   "text": "DSOs, OSOs and other large group practices have become an increasingly important channel for adoption of our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides contextual detail about DSOs' growing importance, supporting the new risk statement."
+  },
+  {
+   "text": "If doctors at DSOs, OSOs or other large group practices reduce, delay, or do not expand their purchasing of our products and services, or otherwise change priorities, protocols, or workflows in ways that reduce utilization of our products, demand for our products and services may not increase or may decrease, which could have a material impact on our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the same DSO/OSO purchasing risk introduced elsewhere."
+  },
+  {
+   "text": "In addition, on behalf of the doctors in their affiliated practices, DSOs and other large group practices may have greater leverage to negotiate pricing, volume\u2011based discounts, rebates, extended payment terms, or other commercial concessions, which could adversely affect our ASPs, gross margins and profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about DSOs' negotiating leverage impacting pricing and margins."
+  },
+  {
+   "text": "Failure to adequately protect and maintain the integrity of our products, IT systems and data in those systems, and those of our suppliers and customers may materially impact our reputation, business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing IT/data security risk to include broader system and vendor/customer data integrity concerns."
+  },
+  {
+   "text": "Various internal and external factors can impact our ability to hire and retain talent, including o ur compensation and benefit arrangements, advancement or career opportunities at our organization, and our past and any future restructuring efforts, such as the restructuring plans we have implemented in each of the past three fiscal years, and most recently in the third quarter of 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about recent restructuring efforts affecting talent retention, expanding an existing HR risk."
+  },
+  {
+   "text": "Additionally, approximately 91% of our employees are located internationally, and restrictive immigration or travel policies or legal or regulatory developments relating to immigration in the United States and other countries may negatively affect our efforts to attract, motivate, train or retain qualified personnel.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific data point (91% international workforce) and new risk regarding immigration policy impacts."
+  },
+  {
+   "text": "Organizational changes, such as our past and any future restructuring efforts, such as the restructuring plans we have implemented in each of the past three fiscal years, and most recently in the third quarter of 2025, may increase attrition and adversely impact our ability to successfully attract, motivate, and retain key personnel.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands on restructuring-related attrition risk already noted."
+  },
+  {
+   "text": "In September, 2025, we required most of our employees to return to working five days per week in the office for most locations, which could impact our ability to attract and retain qualified personnel, particularly if companies that we compete with for talent have adopted work policies and arrangements that our employees may consider to be more appealing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific event (return-to-office mandate) as a potential talent retention risk."
+  },
+  {
+   "text": "The harm of negative publicity, particularly on social media platforms, may be immediate, without affording us an opportunity for redress or correction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about immediacy of social media harm, expanding existing reputational risk discussion."
+  },
+  {
+   "text": "For more information, see Note 8 \u201c Legal Proceedings\u201d of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, not a substantive risk statement."
+  },
+  {
+   "text": "Antitrust considerations may also hinder our ability to settle such matters on favorable terms, as certain types of settlement agreements may be subject to heightened scrutiny by antitrust authorities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about antitrust scrutiny hindering settlement of legal matters."
+  },
+  {
+   "text": "In the E.U., for instance, antitrust regulators closely monitor settlement agreements for compliance with competition laws, adding another layer of complexity and potential risk to these proceedings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides EU-specific detail expanding on the newly introduced antitrust settlement risk."
+  },
+  {
+   "text": "Numerous other states have enacted, or plan to enact, laws relating to privacy, data protection, data governance and cybersecurity, with such enacted laws either in operation or slated to go into operation over the next several years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing privacy law risk by noting additional state-level laws."
+  },
+  {
+   "text": "Any failure or perceived failure by us or our vendors, customers, or service providers to comply with applicable privacy and data protection laws or to adequately safeguard personal data or patient healthcare information, even if unfounded, may result in regulatory investigations, enforcement actions, litigation (including class actions), and financial penalties, any of which could materially affect our operations and financial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of failing to comply with privacy laws, building on existing risk."
+  },
+  {
+   "text": "The costs associated with cybersecurity tools and infrastructure and competition for scarce cybersecurity and IT resources could limit our ability to identify, eliminate or remediate cybersecurity or other security vulnerabilities or problems or enact changes to minimize the attack surface of our network.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding cybersecurity resource costs and competition for talent limiting security capabilities."
+  },
+  {
+   "text": "Our operations are subject to rapidly changing and varied expectations and requirements regarding Sustainability issues from a wide range of stakeholders, such as governmental and self-regulatory organizations, including U.S. federal and state governments, and the EU, as well as investor advocacy groups, institutional investors, investment funds, proxy advisory services, stockholders and customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new ESG/sustainability stakeholder expectation risk not previously described."
+  },
+  {
+   "text": "We are also required to comply with disclosure obligations under the SEC\u2019s long-standing climate change disclosure guidance and other SEC regulations, as well as the European Union\u2019s Corporate Sustainability Reporting Directive (\u201cCSRD\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory compliance obligations (SEC climate guidance, EU CSRD)."
+  },
+  {
+   "text": "Our or our vendors\u2019 AI technologies may be developed using inaccurate, incomplete, flawed or biased algorithms, training methodologies or data, which could lead to the dissemination of false information and result in competitive harm, regulatory penalties, legal liability, or brand or reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific AI risk regarding biased or flawed training data leading to competitive/regulatory harm."
+  },
+  {
+   "text": "32 AI is subject to a dynamic and rapidly evolving legal and regulatory environment, which, without appropriate review, governance and risk management, could expose us to unforeseen legal or regulatory scrutiny and liabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced AI risk by discussing regulatory evolution and governance need."
+  },
+  {
+   "text": "AI regulatory framework remains in development and has been introduced at the federal level through executive orders and legislation has been introduced and enacted at the state level.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details evolving AI regulatory landscape, expanding on prior AI risk statements."
+  },
+  {
+   "text": "Additionally, as we offer more third-party AI models in our solutions, we face risks inherent in how third-party AI models used in our solutions have been developed and deployed, including situations in which the third party may lack a proper license or consent for the training data used for their model.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about third-party AI model licensing/consent issues."
+  },
+  {
+   "text": "The use and availability of third-party AI models in our solutions could result in scrutiny and legal liability, including intellectual property infringement claims.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the third-party AI risk discussion with legal liability specifics."
+  },
+  {
+   "text": "Such claims or scrutiny could cause reputational harm and loss of customers, and adversely impact our business and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates consequences (reputational harm, customer loss) of the AI-related legal risk already introduced."
+  },
+  {
+   "text": "In addition, new competition regulations on AI development and deployment could impose new requirements on our markets that could impact our business and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding upcoming AI competition regulations affecting business."
+  },
+  {
+   "text": "The input of confidential information or trade secrets into AI systems may result in the loss of intellectual property, proprietary rights or attorney-client privilege in such information or trade secrets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about loss of IP/trade secrets or privilege from inputting data into AI systems."
+  },
+  {
+   "text": "The use of AI technologies for developing products or services may adversely affect or preclude our intellectual property rights in such products or services, or may expose us to liability related to the infringement, misappropriation or other violation of third-party intellectual property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the AI/IP risk theme by discussing potential liability from AI-developed products."
+  },
+  {
+   "text": "Further, particularly given the nascent stage of the technology, the use of AI can lead to unintended consequences, including the generation of outputs that appear correct but are factually inaccurate, misleading, or that result in unintended biases and discriminatory outcomes, or are otherwise flawed, which could harm our reputation and business and expose us to risks related to such inaccuracies or errors in these outputs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on AI risk of inaccurate or biased outputs harming reputation, building on prior AI risk statements."
+  },
+  {
+   "text": "Furthermore, if these agreements are breached through the unauthorized use or disclosure of our trade secrets or other confidential information, available remedies may be insufficient to adequately compensate for damages caused by the unauthorized use or disclosure, even with successful enforcement of a breach of contract or trade secret claim.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that remedies for trade secret breaches may be insufficient, a new legal exposure point."
+  },
+  {
+   "text": "We have been, and may in the future be, sued and need to defend against lawsuits alleging infringement of third parties\u2019 IP rights or other legal claims challenging our IP rights.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about being sued for IP infringement restates a standard, previously implied litigation risk without new specifics."
+  },
+  {
+   "text": "Investigations and additional litigation based on the same or similar claims may be brought in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about potential future litigation, lacking new substantive detail."
+  }
+ ]
+}

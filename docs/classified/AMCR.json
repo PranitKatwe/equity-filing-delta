@@ -1,0 +1,218 @@
+{
+ "ticker": "AMCR",
+ "sector": "Materials",
+ "filing_date": "2025-08-15",
+ "accession": "0001748790-25-000023",
+ "prior_accession": "0001748790-24-000022",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 0,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 40
+ },
+ "items": [
+  {
+   "text": "Forward-looking statements included herein are made only as of the date hereof and Amcor does not undertake any obligation to update any forward-looking statements, or any other information in this communication, as a result of new information, future developments or otherwise, or to correct any inaccuracies or omissions in them which become apparent, except as expressly required by law.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statements disclaimer, no new risk content."
+  },
+  {
+   "text": "We are guided by our purpose of elevating customers, shaping lives and protecting the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic purpose statement, no risk content."
+  },
+  {
+   "text": "Merger On April 30, 2025, we completed our merger (\"Merger\") with Berry Global Group, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about merger completion, descriptive not a risk statement."
+  },
+  {
+   "text": "(\"Berry\"), a global manufacturer of rigid and flexible packaging products, pursuant to the Agreement and Plan of Merger (the \"Merger Agreement\") between Amcor, Aurora Spirit, Inc., a Delaware corporation and wholly-owned subsidiary of the Company, and Berry dated, November 19, 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive detail about merger agreement parties, not a risk."
+  },
+  {
+   "text": "Under the terms of the Merger Agreement, Berry shareholders received 7.25 Amcor ordinary shares for each share of Berry common stock issued and outstanding.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual merger consideration terms, not a risk statement."
+  },
+  {
+   "text": "Upon completion of the transaction, Berry shares were delisted from the New York Stock Exchange.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual detail about delisting, descriptive not risk framing."
+  },
+  {
+   "text": "Customer We embrace a growth-oriented, customer-first mindset, leveraging our global scale and capabilities to deliver exceptional value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mission/strategy language, no specific risk."
+  },
+  {
+   "text": "We empower our teams with the tools, processes, and skills needed to operationalize growth, accelerate volume expansion, and sustain profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic aspiration, no risk content."
+  },
+  {
+   "text": "Sustainability and innovation Our goal is to position ourself as the partner of choice to solve sustainability challenges across multiple substrates by driving circularity and decarbonization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic sustainability goal statement, not a risk."
+  },
+  {
+   "text": "We champion effective substrate solutions intended to eliminate waste, lower our carbon footprint, and increase recycling rates, advancing both environmental impact and portfolio value .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic sustainability aspiration, no specific risk."
+  },
+  {
+   "text": "Portfolio Amcor is the global leader in consumer packaging and dispensing solutions for nutrition, health, beauty and wellness categories.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive market position statement, not a risk."
+  },
+  {
+   "text": "We have leading positions in large, resilient and growing end markets where we have significant room for growth via disciplined organic growth and long-term strategic mergers and acquisitions which requires innovative and advanced solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic growth strategy description, no specific risk."
+  },
+  {
+   "text": "We aim to drive value through orienting our core portfolio toward faster-growing, higher-margin categories and leveraging our competitive advantages which includes global scale and breadth, innovation, material science, technical and innovation capabilities, and leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic positioning language, no risk."
+  },
+  {
+   "text": "We believe this strategy will help us achieve our vision to become the packaging partner of choice, known for sustainability, market leadership, delivering consistent levels of volume driven organic growth, and sustainable value aligned with Amcor\u2019s \"Shareholder Value Creation Model\".",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic vision statement, no risk."
+  },
+  {
+   "text": "The strategic Merger with Berry is expected to significantly increase cash generation, enabling increased investment in organic growth, targeted acquisitions, and enhanced shareholder returns, driving long-term value creation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Forward-looking benefit claim about merger, not a risk disclosure."
+  },
+  {
+   "text": "Amcor\u2019s combination with Berry also brought several in-house recycling operations into our footprint, enabling us to drive impact on packaging circularity directly, as well as through our value chain collaborations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about recycling operations gained via merger, not a risk."
+  },
+  {
+   "text": "Following our combination with Berry, we are in the process of re-baselining our science-based targets to reflect Amcor's updated footprint.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive process update on sustainability targets, no risk."
+  },
+  {
+   "text": "We plan to submit the updated targets to the Science Based Targets initiative for validation in early fiscal year 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Future plan statement, not a risk."
+  },
+  {
+   "text": "Our scale enables us to dedicate certain sales and marketing efforts to particular products or customers, when applicable, which supports us in developing expertise that we believe is valued by our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic sales/marketing capability description, no risk."
+  },
+  {
+   "text": "Human Capital Management Overview At Amcor, effective human capital management is foundational to our ability to deliver long-term value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR philosophy statement, no risk."
+  },
+  {
+   "text": "As we continue our business transformation following the recent combination with Berry, we remain focused on building a purpose-driven, high-performing, and inclusive culture that supports innovation, operational excellence, and sustainable growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cultural integration statement, no specific risk."
+  },
+  {
+   "text": "Our people are central to our success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about employees, no risk."
+  },
+  {
+   "text": "Our human capital strategy emphasizes leadership development, succession planning, employee engagement, and inclusion as key drivers of a strong and resilient workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR strategy description, no risk."
+  },
+  {
+   "text": "These efforts are designed to ensure alignment with Amcor\u2019s broader strategic priorities and our company purpose: Together, we elevate customers, shape lives, and protect the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic alignment statement, no risk."
+  },
+  {
+   "text": "As of June 30, 2025, Amcor employed approximatel y 77,000 employees globally, including part-time and temporary workers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual employee headcount disclosure, descriptive not risk."
+  },
+  {
+   "text": "The regional breakdown is approximat ely 38% in North America, 35% in Europe, Middle East, and Africa, 12% in Latin America, and 15% in the Asia Pacific regi on.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual regional employee breakdown, descriptive not risk."
+  },
+  {
+   "text": "We achieved a Total Recordable Incidence Rate (\"TRIR\") of 0.27 with 68% of sites injury-free for legacy Amcor during the fiscal year 2025, solidifying legacy Amcor's position as a safety leader in the packaging industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Safety performance statistic, descriptive not risk."
+  },
+  {
+   "text": "Our newly integrated legacy Berry operations achieved an improved TRIR of 0.57 during May and June 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Safety performance statistic for newly integrated operations, descriptive not risk."
+  },
+  {
+   "text": "Following our recent business combination with Berry, we continue to embed a scalable Human Resources (HR) strategy focused on growing people in parallel with our growth as a business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR strategy statement post-merger, no specific risk."
+  },
+  {
+   "text": "Our HR Strategy is anchored in our Employer Value Proposition: \"Possibility unpacked.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing slogan for employer branding, no risk."
+  },
+  {
+   "text": "For the world.\" This reflects our commitment to creating meaningful development opportunities for our people while advancing Amcor\u2019s long-term goals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of slogan/commitment statement, no risk."
+  },
+  {
+   "text": "These initiatives are complemented by mentoring, coaching, and tailored learning experiences that support succession planning and strengthen organizational capability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of development programs, no risk."
+  },
+  {
+   "text": "In addition to leadership development, we maintain a structured performance management process to ensure employees have clear goals aligned with business priorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic performance management description, no risk."
+  },
+  {
+   "text": "These processes are designed to foster a high-performance culture across the company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic culture statement, no risk."
+  },
+  {
+   "text": "10 Culture and Employee Experience To support the integration of our combined organization, we launched a new Culture Framework that unifies how we work through a shared purpose, common values, and consistent behaviors: \u2022 Purpose: Together, we elevate customers, shape lives, and protect the future. \u2022 Values: Safety, Customers, Winning, Agility, Sustainability. \u2022 Behaviors: I do the right thing, I champion customers, I dream big, I make things happen, I play for team Amcor.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of new Culture Framework and values, no risk."
+  },
+  {
+   "text": "This cultural alignment is central to how we operate and grow, ensuring a shared understanding of expectations and ways of working across all levels and locations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cultural alignment, no risk."
+  },
+  {
+   "text": "We are also committed to creating an exceptional employee experience by integrating our talent development, engagement, and inclusion efforts into the fabric of our Culture Framework.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic employee experience commitment, no risk."
+  },
+  {
+   "text": "This alignment supports a consistent and inspiring environment where employees feel valued, supported, and empowered to thrive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic aspirational statement about employee environment, no risk."
+  },
+  {
+   "text": "A key element of this approach is a dedicated program designed to equip our Plant Leadership teams and People Managers with the mindset, tools, and behaviors needed to lead effectively at every stage of the employee lifecycle from recruitment and onboarding to performance management and development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of leadership program, no risk."
+  },
+  {
+   "text": "By fostering high-impact leadership on the ground, we are strengthening engagement, enabling growth, and driving performance across the organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about leadership impact, no risk."
+  }
+ ]
+}

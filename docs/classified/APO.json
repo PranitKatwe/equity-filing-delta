@@ -1,0 +1,218 @@
+{
+ "ticker": "APO",
+ "sector": "Financials",
+ "filing_date": "2026-02-25",
+ "accession": "0001858681-26-000013",
+ "prior_accession": "0001858681-25-000034",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 0,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 39
+ },
+ "items": [
+  {
+   "text": "Term or Acronym Definition AAA Apollo Aligned Alternatives Aggregator, L.P.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary definition of an acronym, not a risk statement."
+  },
+  {
+   "text": "AAA Lux Apollo Aligned Alternatives Lux Aggregator, L.P.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary definition, no risk content."
+  },
+  {
+   "text": "AAIA Athene Annuity and Life Company AAM Apollo Asset Management, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary definitions, no risk content."
+  },
+  {
+   "text": "5 Table of Contents Athora Athora Holding, Ltd.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary/table of contents entry, no risk content."
+  },
+  {
+   "text": "BMA Bermuda Monetary Authority Bridge Bridge Investment Group Holdings Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary definitions, no risk content."
+  },
+  {
+   "text": "RBC and Bermuda RBC, with immaterial adjustments for net assets at the holding company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional clarification about capital calculations, not a risk."
+  },
+  {
+   "text": "Redding Ridge Holdings Redding Ridge Holdings LP Remaining Cost Total Invested Capital, reduced for any return of capital proceeds received to date.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary/definition text, no risk content."
+  },
+  {
+   "text": "S3 Equity and Hybrid Solutions Apollo S3 Equity and Hybrid Solutions Fund, L.P.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary definition, not a risk statement."
+  },
+  {
+   "text": "Treasury United States Department of the Treasury Unlocking Assumption unlocking is the annual process of revising current assumptions that impact the projection of benefits to align with recent experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definition of an accounting/actuarial term, not a risk."
+  },
+  {
+   "text": "This may result in an immediate impact that may be favorable, resulting in a reduction in reserves or an increase in VOBA, or unfavorable, resulting in an increase in reserves or a decrease in VOBA.",
+   "category": "reworded_same_meaning",
+   "rationale": "Explains normal favorable/unfavorable effects of an already-referenced process, restating known variability rather than introducing a new risk."
+  },
+  {
+   "text": "In September 2025, we completed the acquisition of Bridge, a real estate fund manager with a core focus on residential and industrial properties in the U.S., further expanding our real estate equity product offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely factual statement about a completed acquisition expanding product offerings; no risk language or negative implication given."
+  },
+  {
+   "text": "This investing strategy also includes the legacy natural resources-focused private equity funds we manage.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive clarification about investment strategy scope, not a risk statement."
+  },
+  {
+   "text": "Origination Apollo\u2019s integrated approach to origination is designed to provide scaled, long-term capital across market cycles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business description of origination approach, no risk content."
+  },
+  {
+   "text": "Our origination capabilities span asset classes, geographies, and multiple levels of the capital structure enabling us to structure solutions to our clients, including the funds we manage, Athene and third parties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes business capabilities, not a risk."
+  },
+  {
+   "text": "We originate assets through multiple channels including core credit, origination platforms, high grade capital solutions, and hybrid and equity strategies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes origination channels, purely descriptive."
+  },
+  {
+   "text": "For the year ended December 31, 2025, origination volumes were $309 billion, of which core credit and origination platforms represented approximately 45% and 40%, respectively, of total origination volumes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports factual origination volume statistics, not a risk."
+  },
+  {
+   "text": "Core credit origination at Apollo primarily consists of directly originated, predominantly investment-grade assets, including corporate lending and asset-backed finance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes nature of core credit origination, purely descriptive."
+  },
+  {
+   "text": "We also generate assets through a diversified ecosystem of 16 origination platforms across corporate credit, asset-backed finance, real estate, infrastructure and other private market asset classes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes origination platforms, purely descriptive."
+  },
+  {
+   "text": "Our origination activities are primarily focused on investment-grade and high-quality credit exposures, with transactions evaluated and structured using Apollo\u2019s disciplined underwriting and risk management frameworks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes underwriting focus, purely descriptive, no risk framing."
+  },
+  {
+   "text": "15 Table of Contents Origination supports our asset management and retirement services businesses primarily by facilitating capital deployment and portfolio construction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes how origination supports business segments, purely descriptive."
+  },
+  {
+   "text": "In our asset management business, origination enhances our ability to source assets in line with targeted returns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about asset management business, no risk."
+  },
+  {
+   "text": "In our retirement services business, origination supports the creation of assets aligned with the long-duration liabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about retirement services business, no risk."
+  },
+  {
+   "text": "These integrated capabilities allow Apollo to provide flexible, bespoke capital solutions to support evolving financing needs across a range of capital formation clients.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General capability description, not a risk."
+  },
+  {
+   "text": "Capital Formation Capital formation serves as the foundation to our asset management and retirement services businesses and origination activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introduces capital formation concept descriptively, no risk."
+  },
+  {
+   "text": "Within our asset management business, over the last 35 years, our capital formation has historically been focused on serving institutional investors through their respective alternatives portfolio allocation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical business description, not a risk."
+  },
+  {
+   "text": "Over time, our capabilities have expanded to address new sources of demand through discrete pools of capital, each encapsulating specific investment objectives, liquidity and other considerations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expansion of capital sources, purely descriptive."
+  },
+  {
+   "text": "Capital formation aligns origination and structuring capabilities to support credit and equity investment opportunities for a diverse range of buyers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes capital formation function, no risk content."
+  },
+  {
+   "text": "Capital deployment requirements may vary by vehicle structure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about capital deployment variability, not a specific risk."
+  },
+  {
+   "text": "Open-ended and evergreen vehicles we manage typically accept subscriptions and process redemptions in accordance with their respective governing documents.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes structure of vehicles, purely descriptive."
+  },
+  {
+   "text": "Perpetual capital vehicles, which represent nearly 60% of total AUM and over 70% of total fee-generating AUM, are highly scalable with the ability to deploy capital on an ongoing basis.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides descriptive statistics about perpetual capital vehicles, no risk language."
+  },
+  {
+   "text": "A significant portion of capital raised across our closed-ended strategies has historically come from existing investors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes source of capital, purely descriptive."
+  },
+  {
+   "text": "We maintain a centralized and rigorous investment governance framework that applies across our capital base.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes governance framework, not a risk."
+  },
+  {
+   "text": "This framework includes processes for sourcing and evaluating investment opportunities, conducting due diligence, structuring and negotiating transactions, monitoring portfolio positions and managing investment exits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal processes, purely descriptive."
+  },
+  {
+   "text": "We have established allocation policies and governance mechanisms designed to allocate investment opportunities among funds, vehicles and managed accounts in a 16 Table of Contents manner consistent with applicable governing documents and investment objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes allocation policies, purely descriptive."
+  },
+  {
+   "text": "Our investment professionals are responsible for the end-to-end investment process and, where applicable, may commit capital alongside investors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment professional roles, purely descriptive."
+  },
+  {
+   "text": "We seek to align our economic interests with those of investors through investment terms, co-investment and governance arrangements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes alignment of interests, purely descriptive."
+  },
+  {
+   "text": "The design and management of each pool of capital reflects its investor base, regulatory constraints, liquidity profile and the investment strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes design considerations for capital pools, purely descriptive."
+  },
+  {
+   "text": "Within our retirement services business, capital formation is driven by the origination of long-duration, regulated capital aligned with liability profiles, liquidity characteristics and regulatory capital requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes retirement services capital formation, purely descriptive."
+  },
+  {
+   "text": "Athene generates recurring premium inflows through the issuance of retirement and savings products designed to reflect their long-term nature, regulatory requirements and targeted risk and return objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes Athene's product issuance process, purely descriptive."
+  },
+  {
+   "text": "These activities are supported by Apollo\u2019s origination, structuring and investment capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Concluding descriptive statement about support activities, no risk content."
+  }
+ ]
+}

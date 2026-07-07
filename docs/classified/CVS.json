@@ -1,0 +1,123 @@
+{
+ "ticker": "CVS",
+ "sector": "Health Care",
+ "filing_date": "2026-02-10",
+ "accession": "0000064803-26-000010",
+ "prior_accession": "0000064803-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Risks Related to Our Operations \u2022 Data governance failures, the failure or disruption of our information technology or infrastructure, a cyberattack or other information security incident can adversely affect our reputation, businesses and prospects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic bullet-point summary restating a known cybersecurity/IT risk in boilerplate form."
+  },
+  {
+   "text": "Our use and disclosure of members\u2019, customers\u2019 and other constituents\u2019 personal information is subject to complex regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complex privacy regulations, a standard cautionary framing without new specifics."
+  },
+  {
+   "text": "33 Risks Related to Our Relationships with Manufacturers, Providers, Suppliers and Vendors \u2022 We face risks relating to the market availability, pricing, suppliers and safety profiles of prescription drugs and other products that we purchase and sell. \u2022 Continuing consolidation and integration among providers and other suppliers may increase our costs and increase competition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A bullet-point list heading summarizing existing supplier/manufacturer risks, appears to be reorganized text."
+  },
+  {
+   "text": "These actions may adversely affect our membership, revenues and operating results. \u2022 Our Health Care Benefits segment\u2019s operating results and competitiveness is heavily impacted, in the case of Medicaid programs, by the sufficiency of the rates the states determine are actuarially sound based on experience from previous years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about Medicaid rate sufficiency tied to state actuarial determinations, expanding an already-known Medicaid rate risk."
+  },
+  {
+   "text": "By implementing DTC sales platforms, pharmaceutical companies can advertise, or sell, their own branded drugs directly to patients, bypassing traditional distribution channels and intermediaries, including pharmacies and PBMs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive threat: DTC platforms bypassing pharmacies and PBMs."
+  },
+  {
+   "text": "DTC platforms may also increase demand for expensive, brand-name drugs that may not provide significant clinical benefit over more cost-effective alternatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the DTC risk introduced in the prior sentence by adding detail about brand-name drug demand."
+  },
+  {
+   "text": "As a result, the DTC trend may increase overall health care costs for consumers and adversely impact the performance of the Company\u2019s Pharmacy & Consumer Wellness and Health Services segments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the DTC risk's impact on specific segments, extending the newly introduced risk."
+  },
+  {
+   "text": "Future assessments may have an adverse effect on our operating results and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, generic statement about 'future assessments' without specific new risk detail."
+  },
+  {
+   "text": "We may face increased regulatory risks related to our vertical integration strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk tied to the company's vertical integration strategy."
+  },
+  {
+   "text": "In addition, there has been some new state legislative activity around prohibiting ownership or licensure of a pharmacy if it is affiliated with a PBM.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new state legislative activity targeting PBM-pharmacy affiliation, a concrete new legal/regulatory threat."
+  },
+  {
+   "text": "In addition, insufficient CMS Medicare rate increases relative to underlying medical cost trends may materially impact the results of our Oak Street Health business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk concerning CMS Medicare rate increases affecting the newly named Oak Street Health business."
+  },
+  {
+   "text": "To the extent this phenomenon occurs, the adverse effects of increasing customer migration into Medicare Part D may outweigh the benefits we realize from growth of our Medicare Part D products. \u2022 State Medicaid agencies regularly audit, and state officials regularly investigate, the Company\u2019s performance across all areas of its contractual obligations to the state to determine compliance and quality of services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing Medicare Part D migration risk and introduces related Medicaid audit context, building on prior risk themes."
+  },
+  {
+   "text": "The Company may be subject to, among other penalties, significant fines, sanctions, corrective actions, and enrollment freezes depending on the findings of these audits and reviews.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific penalties (fines, sanctions, enrollment freezes) stemming from the previously mentioned audit risk."
+  },
+  {
+   "text": "The Company\u2019s ongoing performance and compliance with program requirements can impact our ability to expand and retain Medicaid business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on how compliance performance affects Medicaid business, extending the audit-related risk theme."
+  },
+  {
+   "text": "State Medicaid agencies are also increasingly using the audit process to challenge the legality of PBM practices, such as guaranteed effective rate reconciliations with retail pharmacies and transmission fees. \u2022 We have experienced challenges in obtaining complete and accurate encounter data for our Medicaid products due to difficulties with providers and third-party vendors submitting claims in a timely fashion in the proper format, and with state agencies in coordinating such submissions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding state audits challenging PBM reconciliation practices and encounter data submission issues."
+  },
+  {
+   "text": "In addition, states are increasingly requiring companies to offer Medicaid within a state and conducting competitive bid processes to qualify to offer dual eligible products. \u2022 The \u201cWorking Families Tax Cut Act,\u201d formerly the \u201cOne Big Beautiful Bill Act,\u201d of 2025 makes changes to Medicaid eligibility rules and financing which will lead to reduced eligibility for Medicaid beneficiaries, particularly expansion populations, and reduced state funding, which will impact Medicaid benefits and payment rates.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legislative risk from the 2025 'Working Families Tax Cut Act' materially affecting Medicaid eligibility and funding."
+  },
+  {
+   "text": "Given these changes, states that have not already done so are unlikely to consider Medicaid expansion.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the Medicaid expansion risk discussion introduced by the new legislation, extending its implications."
+  },
+  {
+   "text": "In addition, our employee-related operating costs may be increased by the proposed changes to the H-1B and other visa programs, which could limit our and others\u2019 ability to hire skilled individuals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to proposed H-1B visa program changes affecting hiring costs."
+  },
+  {
+   "text": "The use of AI and related technology may also increase exposure to reputational, cybersecurity, data privacy, legal, regulatory and operational risks as AI technology rapidly evolves along with public opinion concerning the use of AI and the associated legal and regulatory framework.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risks tied to AI technology adoption, including cybersecurity, legal, and reputational exposure."
+  },
+  {
+   "text": "These risks include, but are not limited to, heightened exposure to cybersecurity incidents or the misuse of data during the integration of AI models and large data sets; increased potential liability and costs associated with complying with rapidly emerging regulatory frameworks; costs and competitive disadvantages associated with the failure to properly integrate AI into existing operations; and reputational harm caused by actual or perceived failures in the performance of AI or AI-related technology.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further specific detail on the AI-related risks introduced in the previous sentence."
+  },
+  {
+   "text": "As of December 31, 2025, Moody\u2019s Investor Service, Inc. has assigned the Company a long-term debt rating of \u201cBaa3\u201d and a commercial paper rating of \u201cP-3\u201d with a \u201cStable\u201d outlook; Standard & Poor\u2019s Financial Services LLC has assigned the Company a long-term debt rating of \u201cBBB\u201d and a commercial paper rating of \u201cA-2\u201d with a \u201cNegative\u201d outlook; and Fitch Ratings, Inc. has assigned the Company a long-term debt rating of \u201cBBB\u201d and a commercial paper rating of \u201cF2\u201d with a \u201cNegative\u201d outlook.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of credit ratings from rating agencies, standard informational content rather than a new risk."
+  }
+ ]
+}

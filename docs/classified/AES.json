@@ -1,0 +1,218 @@
+{
+ "ticker": "AES",
+ "sector": "Utilities",
+ "filing_date": "2026-03-02",
+ "accession": "0000874761-26-000063",
+ "prior_accession": "0000874761-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 35
+ },
+ "items": [
+  {
+   "text": "2025 Strategic Highlights \u2022 Our backlog, which consists of projects with signed contracts, but which are not yet operational, is 12.0 GW, including 5.7 GW under construction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States backlog capacity figures as a factual highlight, not a risk statement."
+  },
+  {
+   "text": "AES also provides development services, where we enter into contracts to fully develop customized assets to meet customers' needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a business service offering, purely descriptive."
+  },
+  {
+   "text": "(2) Operated by AES under a concession contract granted for a term of 30 years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual footnote about concession term, no risk framing."
+  },
+  {
+   "text": "(5) AES Andes acquired the remaining preferred shares in Cochrane ES in February 2026, increasing AES' equity interest in the plant to 100%.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports a completed equity acquisition, factual update with no risk implication."
+  },
+  {
+   "text": "(6) In January 2026, AES Andes sent a letter to the ISO requesting permanent disconnection as of April 30, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Indicates a potential loss of a plant due to disconnection request, a new operational/financial risk not previously disclosed."
+  },
+  {
+   "text": "AES Clean Energy's contracted and advanced stage development backlog is resilient to recent changes in the IRA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reassures resilience to IRA changes rather than introducing a new risk."
+  },
+  {
+   "text": "Recent guidance revising start of construction safe harbor thresholds is not expected to affect a substantial majority of AES Clean Energy projects already safe harbored, and, taking into account current project schedules, we do not currently expect any material impact to our backlog.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States expectation of no material impact from regulatory guidance, a reassuring, non-risk statement."
+  },
+  {
+   "text": "For corporate customers, this includes advanced 24/7 carbon\u2011free energy offerings tailored to support large energy\u2011intensive operations, such as hyperscale data centers, by combining renewables, storage, and load\u2011siting solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product offerings for corporate customers, purely descriptive."
+  },
+  {
+   "text": "Concurrently, AES develops and delivers ready\u2011to\u2011build renewable energy projects and powered land for regulated utilities and corporate customers through Develop-Transfer Agreements, in which AES manages the full greenfield development process (including permitting, engineering, and procurement) and transfers the project once it reaches construction\u2011ready status.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains a business development process, not a risk."
+  },
+  {
+   "text": "In addition, AES Argentina previously operated the 1,050 MW Alicura hydroelectric plant under a concession contract which ended on January 9, 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes the expiration of a major concession, which could reduce operating capacity, expanding known concession/regulatory risk."
+  },
+  {
+   "text": "The total 1,407 MW represents 3% of the country's total installed capacity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statistic about installed capacity share."
+  },
+  {
+   "text": "Development Strategy \u2014 In 2025, a subsidiary of AES Argentina began construction on the Vientos Bonaerenses 3 and 4 projects, two wind facilities totaling 102 MW.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes construction start of new projects, factual update."
+  },
+  {
+   "text": "In 2025, AES Colombia executed an investment agreement for a partnership structure with Ecopetrol S.A. in connection with these projects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new investment agreement, factual business development."
+  },
+  {
+   "text": "Under the terms of the partnership, the projects will be contributed to two trusts, which will own, construct, operate, and maintain the projects and sell the energy generated to Ecopetrol under a PPA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Details partnership structure mechanics, descriptive not risk-related."
+  },
+  {
+   "text": "AES Dominicana has partnered with Total Energies Renewable Iberica S.L.U., in AES DR Renewables Holdings, S.L., a joint venture accounted for as an equity method investment, to operate four solar farms totaling 340 MW and a wind farm of 50 MW.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing joint venture assets, factual."
+  },
+  {
+   "text": "Nikola is sold to customers operating on the liberalized electricity market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States market context for a product, factual description."
+  },
+  {
+   "text": "AES Indiana and AES Ohio have an obligation to serve customers who are located in our service territory and are working with several companies to provide solutions for the electric service needs of data centers and advanced manufacturing facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company efforts to serve data center customers, descriptive of business activity."
+  },
+  {
+   "text": "We see these relationships growing with the expansion of their use within our service territory.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic optimistic statement about relationship growth, no specific risk."
+  },
+  {
+   "text": "As part of this process, AES Indiana and AES Ohio are working to ensure that the costs of any required infrastructure upgrades benefit all customers, are fairly allocated, and follow regulatory principles that protect our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes regulatory principle adherence, reassuring language."
+  },
+  {
+   "text": "On April 4, 2025, DPL sold an indirect equity interest in AES Ohio of approximately 30% to a wholly-owned subsidiary of CDPQ.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports a completed equity sale transaction, factual corporate update."
+  },
+  {
+   "text": "AES Indiana also owns four renewable energy facilities currently in operations, all within the state of Indiana.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists owned renewable facilities, factual description."
+  },
+  {
+   "text": "The first is a 195 MW solar project (\"Hardy Hills Solar\").",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes specific project size, factual."
+  },
+  {
+   "text": "The second is a 106 MW wind facility (\"Hoosier Wind\").",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes specific project size, factual."
+  },
+  {
+   "text": "The third is a 200 MW (800 MWh) battery energy storage project (\"Pike County BESS\").",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes specific project size, factual."
+  },
+  {
+   "text": "On May 16, 2025, AES Indiana completed the acquisition of Crossvine Solar 1, LLC (\"Crossvine\"), including the development of 85 MW of solar and 85 MW (340 MWh) of energy storage which is expected to be placed in service in mid-2027.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports completed acquisition and expected in-service date, factual update."
+  },
+  {
+   "text": "On October 15, 2025, AES Indiana entered into a Stipulation and Settlement Agreement (the \"Settlement\") with most parties in AES Indiana's pending regulatory rate review at the IURC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports a settlement agreement, factual regulatory update."
+  },
+  {
+   "text": "This Settlement provides for updated base rates for electric services in AES Indiana's territory and is subject, and conditioned upon, approval by the IURC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes settlement terms pending approval, factual."
+  },
+  {
+   "text": "Among other things, the Settlement proposes an increase in AES Indiana's revenue of $90.7 million and provides a return on common equity of 9.75% and cost of long-term debt of 5.34%, on a rate base of approximately $5.5 billion for AES Indiana's 2027 electric service base rates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides specific rate figures from settlement, factual detail."
+  },
+  {
+   "text": "The partial settlement agreement also includes a commitment to not implement additional base rate increases, following the implementation of new base rates under the Settlement, until at least January of 2030 and to not start a second TDSIC Plan before January of 2028.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes settlement commitments, factual regulatory detail."
+  },
+  {
+   "text": "Integrated Resource Plan \u2014 In January 2025, AES Indiana initiated its 2025 Integrated Resource Plan (\"IRP\") process with external stakeholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes IRP process initiation, factual."
+  },
+  {
+   "text": "Public advisory meetings for the 2025 IRP took place in January, July, September, and October of 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists meeting dates, purely factual."
+  },
+  {
+   "text": "AES Indiana filed its 2022 IRP with the IURC in December 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "References a prior IRP filing, factual historical note."
+  },
+  {
+   "text": "Resulting from this IRP, AES Indiana also added three renewables projects to its generation portfolio: Pike County BESS, Hoosier Wind, and Crossvine.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists specific renewable projects added, factual."
+  },
+  {
+   "text": "Petersburg Unit 3 was taken offline in February 2026, and Petersburg Unit 4 is expected to be taken offline in June 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States operational timeline for units, factual."
+  },
+  {
+   "text": "Construction activities are ongoing, with the units as converted expected to come back online for commissioning by May 2026 and October 2026, respectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes construction schedule, factual."
+  },
+  {
+   "text": "AES Indiana expects to spend an estimated $4.2 billion on capital projects from 2026 through 2028.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States capital expenditure estimate, factual financial planning detail."
+  },
+  {
+   "text": "The estimated spending includes projects that are subject to regulatory approval, as well as estimated spending under AES Indiana's 2025 IRP.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifies scope of capital spending estimate, factual."
+  },
+  {
+   "text": "The Ohio Supreme Court reversed the PUCO's opinion and order with respect to the methodology used by the PUCO to support its findings related to the 2018 and 2019 SEET, and remanded the case to the PUCO to conduct further analysis of the SEET for those years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a court reversal and remand affecting a rate methodology dispute, expanding existing regulatory/litigation risk with new procedural developments."
+  },
+  {
+   "text": "AES Ohio filed testimony with the PUCO proposing a refund of $1.6 million based on analysis by its external financial consultant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies a proposed refund amount tied to the ongoing regulatory dispute, adding concrete financial exposure to an existing risk."
+  },
+  {
+   "text": "The PUCO commenced an evidentiary hearing on this issue on October 28, 2025, and a PUCO decision is pending.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes an ongoing evidentiary hearing with a pending decision, extending the existing regulatory litigation risk with new procedural status."
+  }
+ ]
+}

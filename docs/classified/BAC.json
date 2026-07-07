@@ -1,0 +1,203 @@
+{
+ "ticker": "BAC",
+ "sector": "Financials",
+ "filing_date": "2026-02-25",
+ "accession": "0000070858-26-000157",
+ "prior_accession": "0000070858-25-000139",
+ "model": "claude-sonnet-5",
+ "n_added": 37,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 17,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "Artificial intelligence-related (AI) LRRs are also rapidly evolving in the U.S. and non-U.S. jurisdictions imposing various obligations, including AI governance and risk management, transparency and consumer disclosures, documentation and reporting requirements, AI use restrictions and enhanced compliance obligations for AI systems, including those categorized as high risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk category around AI governance, transparency, and compliance obligations not previously described."
+  },
+  {
+   "text": "For more information on risks related to privacy and information security, see Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A cross-reference pointer to another section, no substantive content."
+  },
+  {
+   "text": "Risk Factors on beginning on page 8.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page reference fragment, purely structural."
+  },
+  {
+   "text": "While the Federal Reserve reduced policy rates in 2025, uncertainty remains regarding the pace and duration of the reduction of market interest rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific factual update about Fed rate cuts and uncertainty to the existing interest rate risk discussion."
+  },
+  {
+   "text": "Significant increases in tariff rates in the past year have generated heightened market volatility.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces tariff-driven market volatility as a new specific risk driver not previously mentioned."
+  },
+  {
+   "text": "Our credit ratings directly affect our borrowing costs and access to funding.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about credit ratings affecting borrowing costs is a standard restatement of an existing risk concept."
+  },
+  {
+   "text": "In addition, while U.S. home prices have experienced meaningful appreciation over the past several years and remained generally stable in 2025, there has been some regional dispersion in Bank of America 12 housing prices since the beginning of 2025, which we have been closely monitoring.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new detail (regional dispersion in 2025) to existing housing price risk discussion."
+  },
+  {
+   "text": "These trends have negatively impacted housing affordability generally, and therefore the demand for some of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing housing affordability risk discussion with impact on product demand."
+  },
+  {
+   "text": "These LRRs require implementation of complex operational capabilities and compliance programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on compliance burden from LRRs already being discussed."
+  },
+  {
+   "text": "Also, the use of cyberattacks or campaigns, cyberespionage or other unauthorized access to networks and systems by nation states or their proxies, including utilizing emerging technologies such as AI, has increased and threatens our and our third parties\u2019 operations and information systems, and the financial systems and infrastructure upon which we rely.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new threat vector: nation-state cyberattacks leveraging AI."
+  },
+  {
+   "text": "The uncertainty around the U.S. government\u2019s debt levels and ceiling and a growing federal budget deficit could lead to further credit rating downgrades and/or defaults on its debt.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about debt ceiling/deficit risk to existing sovereign credit risk discussion."
+  },
+  {
+   "text": "Regardless of the measures we have taken to implement training, procedures, controls, backup systems and other safeguards to support our operations and bolster our operational resilience, our ability to conduct business may be adversely affected by significant failures or disruptions to us or to third parties with whom we interact and rely upon.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about safeguards not preventing disruption, standard resilience boilerplate."
+  },
+  {
+   "text": "We use, and expect to increasingly use, emerging technologies, including AI, across our operations, including business processes, services and products, and we expect greater AI adoption by our third parties, clients, counterparties, clearinghouses and financial intermediaries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk around increasing AI adoption across operations and by third parties."
+  },
+  {
+   "text": "Expanded use of AI, including emerging third\u2011party AI services and autonomous AI agents, may result in increased data risk, unpredictable system interactions, inadequate controls or safeguards, AI failure, or produce unintended operations or consequences.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new risks from autonomous AI agents and third-party AI services."
+  },
+  {
+   "text": "AI services used by our clients or third parties may interact with our systems or communicate directly with our employees, and may act without authorization, make execution errors, behave unpredictably or be misaligned with intended outcomes, which could result in additional operational, legal and regulatory risk, and reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI systems interacting with company systems/employees causing errors or unauthorized actions."
+  },
+  {
+   "text": "The tactics, techniques and procedures used in cyberattacks are pervasive, sophisticated, rapidly evolving and designed to evade security measures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic characterization of cyberattack sophistication, standard cautionary language."
+  },
+  {
+   "text": "Emerging technologies, such as AI and quantum computing, are expected to increase these risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces quantum computing as a new specific emerging risk factor alongside AI."
+  },
+  {
+   "text": "For example, AI lowers the entry barriers to plan and execute cyberattacks, enables more personalized and harder to detect social engineering, and improves vulnerability discovery, which may result in the increased likelihood of exploitation and the speed, scope, scale, and sophistication of cyberattacks.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new mechanism by which AI increases cyberattack risk."
+  },
+  {
+   "text": "Advances in quantum computing may introduce cryptography risks that threaten the 15 Bank of America security of our information and systems and strengthen threat actor capabilities in ways that are difficult to anticipate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk from quantum computing threatening cryptography."
+  },
+  {
+   "text": "These technologies, alone or in combination with others, may amplify the risks they pose.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that technologies may amplify risks, no specific new content."
+  },
+  {
+   "text": "We also face significant third-party technology, cybersecurity and operational risks relating to the large number of clients and third parties on whom we rely to operate our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands existing third-party risk exposure discussion."
+  },
+  {
+   "text": "Threat actors may actively seek to exploit third-party security and cybersecurity weaknesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail to existing third-party security risk discussion."
+  },
+  {
+   "text": "However, we expect to continue to experience such events and impacts ourself and at our third parties with increased frequency and severity due to the evolving threat environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing risk statement with expectation of increased frequency/severity of incidents."
+  },
+  {
+   "text": "LRRs related to emerging technologies, such as AI, cybersecurity and data management, are also rapidly evolving across jurisdictions and could require changes related to deployments and operational processes and increase compliance costs and regulatory, compliance and legal risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk tied to emerging technologies and data management compliance."
+  },
+  {
+   "text": "Violations could result in litigation, regulatory fines, enforcement actions and operational loss.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consequences of violations, standard legal boilerplate."
+  },
+  {
+   "text": "Costs to settle, remediate or comply with enforcement actions have been substantial and may increase.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that enforcement costs have been substantial and may increase, expanding existing compliance cost risk."
+  },
+  {
+   "text": "Such claims may require substantial remediation and carry significant penalties, restitution and, in certain cases, treble damages.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on penalty types (treble damages) expanding existing litigation risk discussion."
+  },
+  {
+   "text": "The interconnectedness and complexity of AI models may complicate oversight and compliance, and reliance on third\u2011party AI models further increases our risks due to limited visibility into their training data, methodologies and safeguards.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk from complexity of AI models and reliance on third-party AI models with limited visibility."
+  },
+  {
+   "text": "Inaccurate AI outputs, unintended or unauthorized exposure of confidential information, biases and possible infringement of intellectual property rights through the use of AI increase this risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new AI-related risks: inaccurate outputs, data exposure, bias, IP infringement."
+  },
+  {
+   "text": "Also, w e may be adversely impacted by matters related to fraud perpetrated against our clients in connection with their use of electronic payments (including Zelle) and other similar products and services, which could result in judgments or settlements, and adversely affect our businesses and strategies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding fraud via electronic payment products like Zelle."
+  },
+  {
+   "text": "For example, we are responding to demands and requests relating to our past or current policies and practices for providing, maintaining or discontinuing financial products or services to certain clients or potential clients, including account opening, underwriting, credit, transaction monitoring or account closure, which could result in litigation or regulatory action.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding regulatory/political scrutiny of account opening and closure practices."
+  },
+  {
+   "text": "Proposed or future Federal Reserve rulemaking, including to the SCB calculation, CCAR stress tests or otherwise, may impact our SCB requirement.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk regarding potential Federal Reserve rulemaking changes to SCB and stress tests."
+  },
+  {
+   "text": "Also, U.S. banking regulators are expected to release proposals in 2026 to revise methodologies for measuring and reporting risk-based capital adequacy, including the calculation of RWA and G-SIB surcharge.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new upcoming regulatory proposals on capital adequacy methodologies."
+  },
+  {
+   "text": "The timing and composition of such proposals are uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of timing, adds no new substantive detail."
+  },
+  {
+   "text": "Final rules issued following those proposals could adversely impact our capital requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on potential impact of new rules to existing capital requirement risk."
+  },
+  {
+   "text": "Also, our ability to offer certain products and services may be impacted by legal or regulatory considerations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about legal/regulatory impact on product offerings, no specific detail."
+  },
+  {
+   "text": "Climate-related regulatory approaches and disclosure continue to evolve and diverge across jurisdictions (including the availability of certain reporting exemptions), including among the U.S. and non-U.S., and within the U.S., which could adversely impact our legal, compliance and public disclosure risks and costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding diverging climate-related regulatory and disclosure requirements across jurisdictions."
+  }
+ ]
+}

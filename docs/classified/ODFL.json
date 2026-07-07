@@ -1,0 +1,58 @@
+{
+ "ticker": "ODFL",
+ "sector": "Industrials",
+ "filing_date": "2022-02-23",
+ "accession": "0001564590-22-006303",
+ "prior_accession": "0001564590-21-008056",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Currently, tractor and trailer manufacturers are experiencing significant shortages of various component parts and supplies, forcing many manufacturers to reduce or suspend their production, which has led to a lower supply of tractors , trailers, and other equipment , higher prices, and lengthened trade cycles .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, concrete new risk: component part shortages causing manufacturers to cut production, leading to lower equipment supply, higher prices, and longer trade cycles."
+  },
+  {
+   "text": "These regulations, the limited equipment availability, and other supply chain factors have resulted and could continue to result in higher prices for new equipment, which could have a material adverse effect on our business, financial condition, and results of operations, particularly our maintenance expense, mileage productivity, and driver retention.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the equipment/regulatory risk theme by specifying concrete adverse impacts on maintenance expense, mileage productivity, and driver retention."
+  },
+  {
+   "text": "Our growth may be limited by the availability and cost of third-party transportation used to supplement our workforce and equipment needs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that growth may be constrained by availability and cost of third-party transportation capacity."
+  },
+  {
+   "text": "Our growth strategy depends upon our ability to maintain adequate capacity throughout our service center network to support the transportation service needs of our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about growth strategy depending on service center capacity, without specific new risk detail."
+  },
+  {
+   "text": "In order to maintain adequate capacity to support our customers\u2019 demand for our services we may, from time to time, utilize third-party transportation services to supplement our workforce and equipment needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the previously introduced third-party transportation reliance risk by explaining the mechanism of use."
+  },
+  {
+   "text": "If we are unable to find suitable third-party transportation service providers that meet our high service-delivery standards at a reasonable cost, when needed, our revenue growth and financial results may be adversely impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the consequence of failing to secure suitable third-party providers, extending the same third-party transportation risk theme."
+  },
+  {
+   "text": "The extent and duration of the impact of these challenges are subject to numerous factors, including the continuing impact of the COVID-19 pandemic, our stringent hiring standards, behavioral changes, prevailing wage rates and other benefits, health and other insurance costs, inflation, adoption of new or revised employment and labor laws and regulations or government programs, and changing workforce demographics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A generic list of contributing factors (COVID, wages, inflation, labor laws, demographics) that reads as broad cautionary context rather than a specific new risk."
+  },
+  {
+   "text": "The FMCSA is currently reviewing CSA methodology to address deficiencies identified by the National Academy of Sciences, including the possibility of weak or negative correlation between current safety improvement categories and vehicle crash risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory detail about FMCSA reviewing CSA methodology due to identified deficiencies, a concrete new development."
+  }
+ ]
+}

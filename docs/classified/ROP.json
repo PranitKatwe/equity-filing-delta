@@ -1,0 +1,108 @@
+{
+ "ticker": "ROP",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-24",
+ "accession": "0000882835-26-000009",
+ "prior_accession": "0000882835-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Roper\u2019s human capital strategy centers on accountability, operating autonomy, and a culture of continuous improvement across its business units.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about human capital strategy philosophy with no specific risk identified."
+  },
+  {
+   "text": "Credential compromise and identity-based attacks represent risks, and while we deploy identity threat protection and multi-factor authentication across our enterprise systems, determined attackers may still gain unauthorized access through sophisticated credential theft, session hijacking, social engineering, or privilege escalation techniques.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific attack techniques (credential theft, session hijacking, privilege escalation) to the existing cybersecurity risk discussion."
+  },
+  {
+   "text": "While we have experienced disruptions, and our Vertafore business was previously subject to litigation regarding the exposure of data which was dismissed, none of these matters had a significant impact on our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Clarifies historical fact that past disruptions and litigation had no significant impact, downplaying rather than introducing risk."
+  },
+  {
+   "text": "Our software development and business operations rely on open-source components, third-party software libraries, and vendor dependencies that could contain undisclosed vulnerabilities, be subject to supply chain attacks, or become unavailable, potentially affecting our products, hosted services, and internal systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk around open-source components and vendor dependencies including supply chain attacks."
+  },
+  {
+   "text": "We face emerging risks from AI-powered attacks, including deepfakes used to impersonate executives or customers, AI-assisted social engineering, prompt injection attempts against AI systems, and data poisoning targeting machine learning models.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new AI-related attack vectors like deepfakes, prompt injection, and data poisoning not previously described."
+  },
+  {
+   "text": "These sophisticated attack techniques may bypass traditional security controls.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic follow-on statement with no new specific risk detail."
+  },
+  {
+   "text": "Additionally, zero-day vulnerabilities, which are previously unknown security flaws with no available patches, pose risks that cannot be fully mitigated through our standard vulnerability management processes, requiring rapid detection and response capabilities to minimize potential damage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category of zero-day vulnerabilities with details on detection challenges."
+  },
+  {
+   "text": "The rapid pace of AI advancement may make it difficult to maintain competitive advantages, and AI capabilities could quickly become commoditized, reducing our ability to differentiate our offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk regarding AI commoditization and loss of differentiation."
+  },
+  {
+   "text": "Additionally, we may face challenges in protecting AI-generated innovations as intellectual property protections for AI-created materials remain uncertain in many jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new IP protection uncertainty specific to AI-generated materials."
+  },
+  {
+   "text": "Competitors may be able to reverse-engineer or replicate our AI capabilities, and questions regarding ownership of AI-generated content or inventions could create legal uncertainties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and expands the AI IP risk theme introduced in the prior sentence with reverse-engineering and ownership concerns."
+  },
+  {
+   "text": "We rely on third-party AI platforms and services, including proprietary and open-source large language models and other AI technologies provided by companies such as OpenAI, Anthropic, Google, and Microsoft.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific reliance on named third-party AI providers as a business risk."
+  },
+  {
+   "text": "These providers may change their terms of service, increase pricing, discontinue services, experience outages, decline to provide certain indemnities, or make changes to their AI models that adversely affect our products or operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific ways third-party AI providers could adversely affect operations, expanding on the reliance risk just introduced."
+  },
+  {
+   "text": "As AI becomes more central to our offerings, our exposure to pricing changes from these providers increases, and we may not be able to pass such cost increases on to our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates the pricing exposure risk tied to third-party AI reliance."
+  },
+  {
+   "text": "We have limited control over these third-party AI systems and their updates, and any disruption in access to these services could have a significant impact on our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on lack of control over third-party AI systems introduced earlier."
+  },
+  {
+   "text": "As of December 31, 2025, our total consolidated debt excluding unamortized debt issuance costs was $9,355.9.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual financial disclosure of debt figure, not a risk statement."
+  },
+  {
+   "text": "14 Regulation limiting or controlling the use of AI may restrict our ability to use AI, our ability to create new products, and create increased compliance costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk specific to AI restrictions and compliance costs."
+  },
+  {
+   "text": "The EU AI Act classifies AI systems by risk level and may prohibit certain high-risk applications, requiring significant change to product design, documentation, governance processes, and risk management practices to achieve compliance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on EU AI Act as an example of the AI regulatory risk just introduced."
+  },
+  {
+   "text": "In the U.S., several states, including Colorado and California, have enacted or are considering AI-specific regulations addressing transparency, bias, and accountability, particularly in the housing and employment fields.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on U.S. state AI regulations as further example of the regulatory risk theme."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "DAL",
+ "sector": "Industrials",
+ "filing_date": "2026-02-11",
+ "accession": "0000027904-26-000013",
+ "prior_accession": "0000027904-25-000004",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 36
+ },
+ "items": [
+  {
+   "text": "2 in the Forbes ranking of the World's Best Employers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Award ranking mention, generic promotional content with no risk implication."
+  },
+  {
+   "text": "In recognition of our unwavering commitment to operational performance and reliability, we were named North America's most on-time airline of 2025 by Cirium for the fifth consecutive year.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Award/accolade about on-time performance, purely promotional."
+  },
+  {
+   "text": "Customer Loyalty We have continued to earn our customers' trust and preference by delivering the \"Delta Difference\" with operational excellence, best-in-class service and commitment to our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about customer loyalty and brand positioning."
+  },
+  {
+   "text": "This has made Delta the airline of choice for premium customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing claim about premium customer preference, no risk content."
+  },
+  {
+   "text": "We continue to focus on elevating the customer experiences through premium partnerships, leveraging generational investments in our airport infrastructure and developing innovative technology initiatives such as Delta Concierge and the evolution of Delta Sync to deliver personalized support and experiences at scale.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of customer experience initiatives, promotional in nature."
+  },
+  {
+   "text": "These partnerships are also driving engagement among younger consumers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic claim about partnerships engaging younger consumers."
+  },
+  {
+   "text": "Delta is rated investment grade by each of the three major credit rating agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of investment grade rating, a positive factual note not indicating new risk."
+  },
+  {
+   "text": "In 2025, we continued to expand our premium products and services, ensuring more customers can experience our most elevated products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about expanding premium products, promotional."
+  },
+  {
+   "text": "We are also using technology to reinforce our operational performance and efficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about using technology for operations."
+  },
+  {
+   "text": "In our operations, we are beginning to adopt artificial intelligence (\"AI\") models to help us route and distribute bags with short timeframes to make connections in our hubs and make gating decisions that are aimed at keeping flights on time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes adoption of AI in operations as a positive initiative, not framed as a risk."
+  },
+  {
+   "text": "We are also using AI to optimize the frequency and timing of maintenance tasks to increase reliability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI use for maintenance optimization, framed positively, no risk language."
+  },
+  {
+   "text": "Over time, we also expect AI to play an even greater role in the way we manage and minimize operational disruptions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Forward-looking positive statement about AI's future role, not a risk disclosure."
+  },
+  {
+   "text": "We continue to enhance the Delta app with new self-service capabilities while making it more seamless for customers to find what they need and engage by using natural language.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes app feature enhancements, promotional."
+  },
+  {
+   "text": "In 2025, we launched the beta version of Delta Concierge, an AI-powered virtual assistant within the Delta app, which aims to deliver real-time travel support for our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes launch of a new AI assistant feature, promotional, no risk framing."
+  },
+  {
+   "text": "App-enabled bag drop and touchless ID expansion across our network are expediting customer movement through airport lobbies and security screening checkpoints.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes operational efficiency features, promotional."
+  },
+  {
+   "text": "We are able to deliver more detailed notifications and recommended next steps for customers experiencing flight disruptions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes improved notification capabilities, promotional."
+  },
+  {
+   "text": "In December 2025, we celebrated an important milestone with our 1,000 th free Wi-Fi-enabled aircraft entering service.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Milestone announcement about Wi-Fi enabled aircraft, promotional."
+  },
+  {
+   "text": "We and Aerom\u00e9xico subsequently filed a petition in the United States Court of Appeals for the Eleventh Circuit for judicial review of the DOT final order.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new litigation - a petition for judicial review of a DOT order - introducing a specific legal/regulatory risk not previously mentioned."
+  },
+  {
+   "text": "In the meantime, we and Aerom\u00e9xico continue to operate under the joint cooperation agreement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States continuation of existing operating arrangement, no new risk."
+  },
+  {
+   "text": "In addition to our joint venture and joint cooperation agreements that have been granted antitrust immunity from the DOT as described above, we maintain commercial relationships and marketing arrangements with other foreign carriers to enhance our global network.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of existing commercial relationships with foreign carriers."
+  },
+  {
+   "text": "Some of these relationships include minority equity investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mention that some relationships include minority equity investments, no specifics."
+  },
+  {
+   "text": "In 2025, we acquired an approximately 13% minority equity stake in WestJet, with whom we have a strategic commercial cooperation agreement covering traffic flows between the U.S. and Canada.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discloses a new specific minority equity investment (WestJet), expanding the company's exposure to equity investment risk already implied by prior general disclosure."
+  },
+  {
+   "text": "These capacity purchase agreements are generally long-term in nature, with expiration varying for different tranches of aircraft.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of capacity purchase agreement terms, no new risk."
+  },
+  {
+   "text": "Business What We Fly Our sustainability strategy aims to introduce revolutionary aircraft into our fleet.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about sustainability strategy and aircraft innovation."
+  },
+  {
+   "text": "In 2025, we announced partnerships with both JetZero and Maeve to accelerate the design and development of revolutionary aircraft.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announcement of new partnerships for aircraft development, promotional."
+  },
+  {
+   "text": "JetZero aims to build a blended wing-body aircraft expected to be up to 50% more fuel efficient than today's mid-market aircraft, while Maeve is building a regional, hybrid-electric solution aimed at reducing fuel consumption by up to 40%.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical description of partner aircraft technology, informational not risk-related."
+  },
+  {
+   "text": "Other revolutionary fleet partners include Joby, with their home-to-airport air taxi offering, as well as Airbus and Boeing, both of which are exploring next generation technology.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists additional partners in aircraft innovation, informational."
+  },
+  {
+   "text": "How We Fly In 2025, we met and exceeded our near-term operational fuel efficiency target of 1% fuel burn savings, by delivering over 55 million gallons of jet fuel savings from operational improvements as compared to 2019 and relative to what we would have used if we had not undertaken any fuel efficiency efforts, not including fleet renewal.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports achievement of fuel efficiency target, positive performance disclosure."
+  },
+  {
+   "text": "Cross-functional Delta teams collaborated to implement innovative strategies to reduce jet fuel consumption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal team collaboration, no risk content."
+  },
+  {
+   "text": "This achievement of 55 million gallons of jet fuel savings is worth more than $125 million in annual cost savings to Delta.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States cost savings from fuel efficiency, positive financial note."
+  },
+  {
+   "text": "The Fuel We Use SAF is the most promising lever known today to reduce lifecycle carbon emissions from conventional jet fuel and decarbonize our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about SAF's promise for decarbonization, promotional/strategic framing."
+  },
+  {
+   "text": "However, currently available SAF supply does not meet global airline demand for even one week.",
+   "category": "expanded_existing_risk",
+   "rationale": "Quantifies the severity of an already-known SAF supply shortage risk, expanding on the existing concern about sustainable fuel availability."
+  },
+  {
+   "text": "We continue to work across industries and with state and federal lawmakers to advocate for policy solutions to further incentivize SAF production and allow the SAF market to reach scale in the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes advocacy efforts for policy support, no new risk."
+  },
+  {
+   "text": "We believe that when we reflect and respect the world, we are able to better connect and serve our global customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General value statement about diversity and global customer connection."
+  },
+  {
+   "text": "Our operational excellence, business growth, talent retention, increased innovation, world-class reliability and customer engagement, satisfaction and loyalty are the result of hiring the best, most qualified people.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement attributing success to hiring practices, promotional."
+  },
+  {
+   "text": "With our people-first approach: \u2022 We are dedicated to being an industry leader in closing the gap between employees\u2019 needs and the material security they deserve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about employee-focused values, no risk content."
+  },
+  {
+   "text": "We champion fair living wages and economic opportunities that ensure secure, stable futures for our employees and their families. \u2022 We are committed to hiring and promoting the most qualified talent and aspire for our senior leadership team to reflect the diversity of backgrounds and experiences of our more than 100,000 employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about fair wages and diversity goals, promotional."
+  },
+  {
+   "text": "Business \u2022 Our employee engagement through Business Resource Groups positively impacts employees\u2019 sense of belonging and our ability to consistently tap into employee perspectives, informing our business and employee experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee resource groups' positive impact, promotional."
+  },
+  {
+   "text": "Over the last 20 years, the industry has evolved significantly both domestically and internationally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General historical statement about industry evolution, contextual not risk-specific."
+  },
+  {
+   "text": "In addition, certain foreign jurisdictions have enacted passenger protection rules and regulations, including requirements to compensate passengers in certain cases, that meet or exceed U.S. requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk from foreign jurisdictions' passenger protection rules exceeding U.S. requirements, a concrete compliance/cost risk not previously disclosed."
+  }
+ ]
+}

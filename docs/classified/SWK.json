@@ -1,0 +1,218 @@
+{
+ "ticker": "SWK",
+ "sector": "Industrials",
+ "filing_date": "2026-02-24",
+ "accession": "0000093556-26-000009",
+ "prior_accession": "0000093556-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 26
+ },
+ "items": [
+  {
+   "text": "To achieve this, the Company is committed to cultivating an environment where employees feel connected to its mission and to one another.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic aspirational statement about company culture with no specific risk content."
+  },
+  {
+   "text": "In addition, the Company has developed a new Stanley Black & Decker Leader Profile, which lays out a distinct set of capabilities and behaviors meant not only for executives but all employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new leadership profile as a minor HR program detail, not a risk."
+  },
+  {
+   "text": "This improved approach includes everything from attraction through onboarding with a more efficient application process and streamlined interviews and communication for job seekers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an internal process improvement (onboarding) with no risk implication."
+  },
+  {
+   "text": "Building on its foundation of clearly defined goals and performance feedback, the Company expanded its process in 2025 to include a dedicated mid-year performance and development conversation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new HR process detail (mid-year review) as part of existing performance management narrative."
+  },
+  {
+   "text": "This enhancement facilitated meaningful conversations between eligible employees and their managers focused on strengths, growth opportunities and development goals, reflecting its commitment to ongoing growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about employee development conversations, no substantive risk."
+  },
+  {
+   "text": "By continuing to evolve the process introduced in late 2023, the Company is further enhancing the achievement of personal and business goals through a regular cycle of feedback and employee development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes continuation/evolution of an existing feedback process, purely descriptive."
+  },
+  {
+   "text": "In 2025, salaried employees completed more than 89,500 courses and programs, resulting in over 67,000 hours of training, through a combination of in-person and online learning.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistical detail about training hours, descriptive not risk-related."
+  },
+  {
+   "text": "Through digital learning, the Company delivers on-demand visual training to empower employees with flexible, accessible, and relevant learning opportunities that support personal growth, compliance, and organizational success while ensuring the Company remains competitive and innovative.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of digital learning offerings, no risk content."
+  },
+  {
+   "text": "These capabilities, Customer Centricity, Enterprise Mindset, Change Leadership and People Focus, are the foundation of how the Company\u2019s leaders can drive growth in their daily work interactions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes leadership capability framework, purely descriptive HR content."
+  },
+  {
+   "text": "Throughout 2025, the Company cultivated understanding and embedded these leadership capabilities across performance and development processes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes embedding of leadership capabilities, no new risk."
+  },
+  {
+   "text": "In addition, the Company has invested in deploying development programs to build skill and capability in these areas, including feedback, coaching skills, and inclusive leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment in leadership development programs, descriptive not risk."
+  },
+  {
+   "text": "The Company maintained its track record of a strong participation rate with its 2025 employee engagement survey.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States survey participation rate, purely descriptive."
+  },
+  {
+   "text": "These enhanced tools empower leaders with timely, value-driven insights from people data, supporting informed decision-making and ongoing organizational improvement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes tools for leadership decision-making, no risk implication."
+  },
+  {
+   "text": "Program designs incorporate both global and market-specific considerations that are externally competitive and internally equitable for employees, reflecting the Company\u2019s commitment to attract, engage and retain a high caliber workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about compensation program design philosophy, no new risk."
+  },
+  {
+   "text": "For a sizable portion of the Company\u2019s workforce, its programs also differentiate talent impact and drive/reinforce positive business outcomes through incentive awards, promote an ownership mindset and enable mobility across our workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes incentive program purposes, descriptive HR content."
+  },
+  {
+   "text": "The framework developed by the Corporate EHS team includes risk assessment processes, compliance management, policies and standards, all enabled by an integrated data management platform that improves line of sight into EHS performance, tracking capabilities and drives proactive leading indicator performance, including risk mitigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes EHS management framework and tools, descriptive not a new risk."
+  },
+  {
+   "text": "While legal requirements may vary by country and jurisdiction, the Company remains committed to continuous improvement in EHS performance, capabilities and compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General commitment statement to EHS compliance, cautionary boilerplate."
+  },
+  {
+   "text": "In 2025, the Safety Business Impact Group (\"Safety BIG\") was launched to amplify and advance the Company\u2019s culture of safety & well-being.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces a new internal safety initiative, descriptive not a risk."
+  },
+  {
+   "text": "Activation areas included the reinforcement of the Company\u2019s Safety Cardinal Rules as a core expectation for all employees and of the need to identify risks associated with non-routine tasks performed by commercial and field-based employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes safety program activities, descriptive not a new risk."
+  },
+  {
+   "text": "Grow the Trades In 2025, the Company doubled down on its initial \u201cGrow the Trades\u201d commitment to invest $30 million into initiatives that educate tradespeople, by announcing an increased $60 million commitment to those initiatives by 2030.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing Grow the Trades commitment amount from $30M to $60M, an escalation of existing initiative rather than a new risk."
+  },
+  {
+   "text": "Through the program, the Company invests in initiatives that educate tradespeople such as plumbers, electricians, carpenters, HVAC techs and others.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes program mechanics, descriptive not risk-related."
+  },
+  {
+   "text": "Since the original goal was set in 2023, the Company has invested nearly $30 million in these initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States cumulative investment figure, descriptive update."
+  },
+  {
+   "text": "Despite recent improvements in enrollment and demand trends, a large and growing skills gap persists due to an aging workforce, legacy underinvestment in vocational education, and a long-standing emphasis on four-year degrees over trades pathways.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the skilled trades labor shortage risk with additional causal detail (aging workforce, underinvestment), expanding an existing workforce risk."
+  },
+  {
+   "text": "Rapid enrollment growth, continued limited resources and long waitlists, and emerging technologies in the trades all call for increased private sector involvement in addressing the skilled trades gap.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General commentary on trends calling for private sector involvement, not a specific new risk to the company."
+  },
+  {
+   "text": "Some of the risks and uncertainties discussed below may have occurred in the past.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary boilerplate language about risks discussed."
+  },
+  {
+   "text": "Generally, raw materials and components are available from several different suppliers, however, for certain products, such as components requiring rare earth minerals sourced from China and components requiring cobalt, the Company and its suppliers may rely on one or very few suppliers or suppliers concentrated in certain regions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific supplier concentration risk tied to rare earth minerals from China and cobalt sourcing."
+  },
+  {
+   "text": "For example, in April 2025, China restricted export of certain rare earth minerals and may in the future continue to restrict, expand restrictions, or stop exporting these or other materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new event\u2014China's April 2025 export restriction on rare earth minerals\u2014introducing a concrete geopolitical supply risk."
+  },
+  {
+   "text": "Any such restrictions or delays on the export of rare earth minerals from China have caused, and may in the future cause, increased costs and/or production disruptions which could materially and adversely impact the Company\u2019s results of operations, cash flow and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the impact of the newly introduced rare earth restriction risk, detailing realized cost and disruption effects."
+  },
+  {
+   "text": "In 2025, the U.S. government announced a series of tariffs on imported goods into the U.S., which prompted retaliatory actions from some of its trading partners, and in response, the Company introduced strategies to mitigate the impacts of these changes on its results of operations, including price increases and supply chain adjustments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tariff actions in 2025 and company mitigation strategies, a concrete new trade policy risk."
+  },
+  {
+   "text": "However, there is no assurance that the Company will be able to mitigate the full impact of all such tariffs, retaliatory actions or other changes in trade policies that have or may develop.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on uncertainty of mitigating tariff impacts already introduced."
+  },
+  {
+   "text": "Moreover, decisions made as part of the Company\u2019s tariff mitigation strategy concerning the rationalization, restructuring or relocation of facilities, production or component sources and any similar actions could also subject the Company to additional or new tariffs or trade regulations and interpretations of those regulations, reputational risks, and other issues relating to the importation of products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on risks from tariff mitigation strategy decisions, building on the new tariff risk."
+  },
+  {
+   "text": "For example, in 2025 the Company began shifting production of certain power tools to Mexico.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new operational fact\u2014shifting power tool production to Mexico\u2014creating new tariff exposure."
+  },
+  {
+   "text": "As a result, these products became subject to additional tariffs on imports from Mexico in 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific tariff consequence of the Mexico production shift already introduced."
+  },
+  {
+   "text": "Even though the Company is taking actions to qualify for an exemption under the United States-Mexico-Canada Agreement to mitigate the additional tariff costs, there is no guarantee that the Company will be able to obtain such qualification.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details uncertainty around USMCA exemption tied to the Mexico tariff risk already described."
+  },
+  {
+   "text": "For example, in April 2025, China imposed export restrictions on certain rare earth minerals that are used in certain components of the Company\u2019s products, which resulted in delays and shortages of certain components.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific realized impact of China's rare earth export restrictions causing delays and shortages, a concrete new supply chain risk."
+  },
+  {
+   "text": "If China were to further restrict exporting, or implement burdensome and lengthy licensing processes for the export of, these materials or components, or pressure other countries to do so, the Company\u2019s and its suppliers' ability to obtain such materials or components may be disrupted and the Company may not be able to obtain sufficient quantities, or obtain supply in a timely manner, or at a commercially reasonable cost.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on potential future escalation of the rare earth export restriction risk."
+  },
+  {
+   "text": "In addition, efforts to withdraw from, or substantially modify, such agreements or arrangements, in addition to the implementation of more restrictive trade policies, such as more detailed inspections, import or export licensing requirements (e.g.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cautionary language about trade policy changes without new specific facts."
+  },
+  {
+   "text": "If expectations of the return on these investments are not met, future earnings could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about investment returns, common boilerplate risk language."
+  },
+  {
+   "text": "In mid-2022, the Company initiated a Global Cost Reduction Program designed to achieve significant pre-tax run rate cost savings to, in part, help return adjusted gross margins to historical 35%+ levels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Background description of a pre-existing cost reduction program initiated in 2022, not a new risk."
+  },
+  {
+   "text": "During 2025, the Company recognized a $108.4 million pre-tax, non-cash impairment charge driven by updates to the Company\u2019s brand prioritization strategy impacting the Lenox, Troy-Bilt, and Irwin trade names.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new material financial impact\u2014a $108.4 million impairment charge in 2025 tied to brand strategy changes."
+  }
+ ]
+}

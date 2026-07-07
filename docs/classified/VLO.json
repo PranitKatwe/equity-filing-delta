@@ -1,0 +1,218 @@
+{
+ "ticker": "VLO",
+ "sector": "Energy",
+ "filing_date": "2026-02-25",
+ "accession": "0001628280-26-011499",
+ "prior_accession": "0001035002-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 20
+ },
+ "items": [
+  {
+   "text": "Producers and importers of petroleum-based transportation fuels consumed in the U.S. must demonstrate compliance annually by retiring the appropriate number of compliance credits known as renewable identification numbers (RINs) 2 DGD produces synthetic paraffinic kerosene (SPK), a renewable blending component, using the Hydrotreated Esters and Fatty Acids (HEFA) process.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive background on RIN compliance and DGD's SPK production process, not a risk statement itself."
+  },
+  {
+   "text": "RINs are generated through the production of qualifying renewable fuels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely explanatory description of how RINs are generated, no risk content."
+  },
+  {
+   "text": "Until recently, renewable diesel that was produced, blended, and sold by us qualified for a refundable tax credit (generally referred to as the blender\u2019s tax credit) of $1.00 per gallon under Section 6426 of the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States historical fact about a prior tax credit, background context rather than a new risk."
+  },
+  {
+   "text": "Internal Revenue Code of 1986, as amended (the Code).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply names the Internal Revenue Code, no substantive content."
+  },
+  {
+   "text": "On July 4, 2025, legislation commonly known as the One Big Beautiful Bill Act (OBBB) was enacted, which resulted in a broad range of changes to the Code, including the extension of the clean fuel production credit through December 31, 2029.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new legislation (OBBB) that materially changes the clean fuel production credit framework affecting the company's tax incentives."
+  },
+  {
+   "text": "Under the OBBB, fuel produced on or after January 1, 2026 must be exclusively derived from feedstocks produced or grown in the U.S., Mexico, or Canada in order to be eligible for this credit.",
+   "category": "new_substantive_risk",
+   "rationale": "New feedstock sourcing restriction (must be from US/Mexico/Canada) tied to credit eligibility, a material new constraint on operations."
+  },
+  {
+   "text": "Also, for fuel produced on or after January 1, 2026, this credit generally is limited to $1.00 per gallon for all eligible fuels under the OBBB.",
+   "category": "new_substantive_risk",
+   "rationale": "New cap limiting the tax credit to $1.00/gallon starting 2026, a material financial change."
+  },
+  {
+   "text": "Finally, the OBBB provides for GHG emissions attributed to indirect land use change to be excluded in determining the GHG emissions rate for transportation fuel produced after December 31, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Modifies GHG accounting methodology affecting credit qualification, expanding on existing regulatory/tax credit risk."
+  },
+  {
+   "text": "We expect this will allow much of our corn ethanol to meet the emissions reduction threshold to qualify for the clean fuel production credit.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Expresses a positive expectation about qualifying for credits, not a risk disclosure."
+  },
+  {
+   "text": "See Notes 1, 15, and 17 of Notes to Consolidated Financial Statements for additional information about these U.S. federal tax incentives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement notes, purely administrative."
+  },
+  {
+   "text": "Qualifying sales of this low-carbon jet fuel have generated, and should continue to generate, clean fuel production credits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes historical and expected credit generation, factual/positive statement, not a new risk."
+  },
+  {
+   "text": "We continue to evaluate additional carbon sequestration and carbon capture and storage projects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about ongoing evaluation of projects, no specific risk detail."
+  },
+  {
+   "text": "Within each element, we have identified multiple expectations to achieve our commitment to excellence. \u2022 Environmental Excellence and Risk Assessment (EERA) elevates the environmental audit and compliance functions to an environmental excellence vision.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal corporate program (EERA) in generic terms, no new risk."
+  },
+  {
+   "text": "5 Table of Contents \u2022 Our Fuels Management System (FMS) provides operational safeguards, software, training, and protocols for uniformity across our refineries and plants to reinforce our compliance with applicable fuels regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal compliance system (FMS), generic operational description."
+  },
+  {
+   "text": "(b) In March 2025, we approved a plan with respect to the operations at our Benicia Refinery and currently intend to idle the processing units and cease refining operations by the end of April 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a specific plan to idle and cease refining operations at the Benicia Refinery, a major new operational and financial risk."
+  },
+  {
+   "text": "We are progressing with a Fluid Catalytic Cracking Unit optimization project at the refinery that will enhance its ability to produce high-value products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an operational improvement project, not a risk factor."
+  },
+  {
+   "text": "This project is expected to begin operations in the second half of 2026. \u2022 Oklahoma \u25e6 Ardmore Refinery .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides a timeline and location heading, factual/organizational detail."
+  },
+  {
+   "text": "Renewable naphtha can be used as a gasoline blendstock to produce renewable gasoline or as a feedstock for producing low-carbon petrochemicals that then can be used to produce renewable plastics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes potential uses of renewable naphtha, descriptive product information."
+  },
+  {
+   "text": "A decrease in the number of employee and process safety events should generally reduce unplanned shutdowns and increase the operational reliability of our refineries and plants.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about safety events and reliability, not a new specific risk."
+  },
+  {
+   "text": "Under this program, our employees\u2019 well-being is prioritized through comprehensive resources and subsidized services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee wellness program, unrelated to material risk."
+  },
+  {
+   "text": "In this same location, we also publish our 2025 Valero Report on Guiding Principles, which features our disclosures related to safety, environment, community, employees, and governance initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "References publication of a sustainability report, administrative detail."
+  },
+  {
+   "text": "Regarding low-carbon fuels margins, see also, among other risk factors set forth below, \u201c The availability and prices of our feedstocks and other critical supplies expose us to risks, \u201d and \u201c We are subject to risks arising from the Renewable and Low-Carbon Fuel Programs, and other regulations, policies, international certifications, and standards impacting low-carbon fuels. \u201d Many of these factors are interrelated, beyond our control, can vary globally and regionally, and may change quickly, adding to market volatility, while others may have longer-term effects that are uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-references other risk factor sections, generic framing language."
+  },
+  {
+   "text": "Certain of our refineries in Texas have also recently experienced various water supply challenges that remain ongoing to various degrees and in certain instances have resulted in, or are 18 Table of Contents expected to result in, additional capital expenditures and/or ongoing costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific water supply challenges at Texas refineries causing added capital expenditures and costs, a new operational risk."
+  },
+  {
+   "text": "We could experience additional water supply challenges in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the newly introduced water supply risk to potential future occurrences."
+  },
+  {
+   "text": "There is also ongoing uncertainty regarding the ultimate impacts of recent events involving Venezuela, including with respect to foreign trade and product margins, among others.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new geopolitical uncertainty tied to Venezuela affecting trade and margins."
+  },
+  {
+   "text": "Feedstock sourcing has also been the subject of scrutiny for certain crude oils we process, and shifting legislative, regulatory, and market sentiment regarding various sources of crude oil supply has previously resulted in adverse consequences with respect to our refineries, such as the denial or delay of permits to construct refinery projects that facilitate the processing of crude oil from particular sources.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific adverse consequences (permit denials/delays) from scrutiny of certain crude oil sources, a new concrete risk example."
+  },
+  {
+   "text": "Similar events may occur in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the previously described feedstock scrutiny risk to potential future recurrence."
+  },
+  {
+   "text": "Comparable scrutiny and shifting sentiment have occurred with respect to certain feedstocks for our low-carbon fuels business as described in the paragraph below and in the cross-reference therein.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects the crude oil scrutiny risk to the low-carbon fuels business, broadening an existing risk theme."
+  },
+  {
+   "text": "Our Refining and Ethanol segments have not been significantly impacted to date by recent U.S. tariffs and foreign duties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States that tariffs have not significantly impacted the business to date, a reassuring factual statement rather than a new risk."
+  },
+  {
+   "text": "These events have at times made DGD\u2019s use of certain feedstocks (particularly foreign feedstocks) economically impractical, and resulted in reduced margins, curtailed production, and potentially reduced access to certain product markets due to competitive cost disadvantages, which have had, and could continue to have, an adverse impact on its and our business, financial condition, results of operations, and liquidity.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific adverse operational and financial impacts (reduced margins, curtailed production) from feedstock issues at DGD, a concrete new risk elaboration."
+  },
+  {
+   "text": "Differences in competitors\u2019 businesses or resources may at times provide them a competitive advantage.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive dynamics, standard competitive risk language."
+  },
+  {
+   "text": "We also regularly assess our facilities and operations in light of market dynamics and the regulatory environment and have taken, and may in the future take, strategic actions to optimize our portfolio of assets, including those described in Note 2 of Notes to Consolidated Financial Statements with respect to our operations in California.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes ongoing portfolio optimization actions including California operations, expanding on the previously known restructuring risk."
+  },
+  {
+   "text": "While we expect overall positive results from these strategic actions, there is no assurance that the anticipated benefits will materialize or continue.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about uncertainty of strategic action outcomes."
+  },
+  {
+   "text": "Unforeseen delays, costs, negative publicity, litigation, enforcement, and other difficulties may arise, including in adapting our other operations and fulfilling our contractual obligations, that negatively impact the actual results and execution of such strategic actions compared to our expectations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential negative consequences of strategic actions already introduced, adding specific risk factors like litigation and negative publicity."
+  },
+  {
+   "text": "Competition within the global ethanol industry also continues to grow.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes growing competition specifically in the ethanol industry, expanding the existing general competition risk."
+  },
+  {
+   "text": "The demand for many of our low-carbon fuels may significantly decline without sufficient and continued government support and incentives therefor, and if our competitors are able to capture the benefits from such government support and incentives to a greater degree than we are it may place us at a competitive disadvantage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that low-carbon fuel demand may decline without continued government incentives, and competitive disadvantage if peers capture more benefit."
+  },
+  {
+   "text": "We may also be pressured or compelled to disclose information that may not be feasible or obtainable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding potential compelled disclosure of infeasible or unobtainable information."
+  },
+  {
+   "text": "Such laws, regulations, policies, and actions have in certain instances included increases in fuel economy or efficiency standards; stricter tailpipe emissions standards; low-carbon fuel standards; restrictions and bans on vehicles using internal combustion engines; limitations on using certain petroleum-based products and biofuel feedstocks; and tariffs, duties, and incentives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples of regulatory actions affecting fuel standards, expanding on existing regulatory risk disclosures."
+  },
+  {
+   "text": "Under the current administration in the U.S., a number of legal, regulatory, and political actions have been taken or proposed that have resulted in, or may result in, many of these laws, regulations, policies, and actions being modified, rescinded, invalidated, revoked, or eliminated, and others have been delayed or relaxed across the world.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new political/regulatory uncertainty tied to the current U.S. administration potentially reversing prior regulations, a material new risk factor."
+  },
+  {
+   "text": "However, the ultimate timing and outcome of many such actions are currently unknown and are subject to uncertainty due to pending or future legal, regulatory, and political actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the theme of regulatory uncertainty introduced in the prior sentence, reinforcing the unknown outcome of political actions."
+  }
+ ]
+}

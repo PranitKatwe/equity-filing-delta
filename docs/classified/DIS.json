@@ -1,0 +1,123 @@
+{
+ "ticker": "DIS",
+ "sector": "Communication Services",
+ "filing_date": "2025-11-13",
+ "accession": "0001744489-25-000155",
+ "prior_accession": "0001744489-24-000276",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "In addition, the implementation of our DTC strategy may further contribute to such declines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds that the DTC strategy itself may further contribute to existing declines in linear networks, expanding a previously described risk rather than introducing a new one."
+  },
+  {
+   "text": "Evolving tourist preferences regarding travel to destinations in the U.S. and other geographical regions where our parks and experiences businesses operate sometimes affect travel to those businesses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new factor\u2014evolving tourist preferences for travel destinations\u2014as a risk to parks and experiences attendance."
+  },
+  {
+   "text": "Hurricanes have caused park closures and other impacts to the operations of Walt Disney World Resort, adversely affecting segment results, and may do so in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a concrete, previously unmentioned risk of hurricane-driven closures at Walt Disney World Resort impacting segment results."
+  },
+  {
+   "text": "For example, in recent years, we have expanded our fleet of cruise ships, with announced plans for further fleet expansion, and increased investment in our parks and resorts; completed the acquisition of Hulu and of a 70% interest in Fubo; and made substantial investments related to DTC offerings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples (fleet expansion, Hulu/Fubo acquisitions, DTC investment) that elaborate on an existing risk about strategic capital allocation decisions."
+  },
+  {
+   "text": "For example, our advertising revenue is negatively impacted by the increased supply of advertising tools and platforms on which to place advertising, including search, social media, online marketplaces and other ad-supported DTC services, which depresses advertising rates across our DTC streaming services and linear networks and creates demand uncertainty.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new competitive pressure\u2014growth in ad-supported DTC platforms depressing ad rates\u2014affecting advertising revenue."
+  },
+  {
+   "text": "Renewal negotiations with certain MVPDs for distribution contracts scheduled to expire in fiscal 2026 could lead to temporary or longer-term service blackouts, negatively impacting our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, time-bound risk regarding fiscal 2026 MVPD contract renewals potentially causing service blackouts."
+  },
+  {
+   "text": "On October 30, 2025, the Company\u2019s channels were removed from YouTube TV following the expiration of the parties\u2019 distribution contract without agreement on renewal terms, and the Company cannot predict how long this service blackout will last or reasonably estimate the adverse impact on our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a concrete, recent event (YouTube TV channel removal) with unpredictable financial impact, a new specific risk disclosure."
+  },
+  {
+   "text": "From time to time, these negative claims and publicity have led, and may lead in the future, to calls for consumer or other action, including boycotts, litigation, investigations or regulatory actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing reputational risk by adding specific consequences like boycotts and regulatory actions from negative publicity."
+  },
+  {
+   "text": "The success of our DTC streaming services will be impacted by the success of our content curation and investment decisions and ability to offer compelling content and product features; our ability to grow subscription and advertising 21 TABLE OF CONTENTS revenues, including by increasing subscriber and viewership levels and managing churn; our pricing, bundling, product features and content distribution determinations, including across windows; and our ability to contain costs.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the general dependency of DTC success on content, pricing, and cost factors, consistent with prior risk framing."
+  },
+  {
+   "text": "Further, the cost of providing medical insurance and other medical benefits for our employees have increased, and we expect will continue to increase.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that medical insurance costs have increased and are expected to continue rising, expanding an existing employee benefits cost risk."
+  },
+  {
+   "text": "For example, the copyright term for the short film Steamboat Willie (1928) and early versions of characters depicted in this film have expired.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, concrete IP risk regarding the expiration of Steamboat Willie's copyright and early character versions."
+  },
+  {
+   "text": "For example, from time to time, the Company\u2019s streaming services and technology are the subject of patent infringement litigation and other claims seeking damages and injunctive relief, and the resolution of these matters in aggregate may negatively impact our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new disclosure about patent infringement litigation related to streaming services and technology."
+  },
+  {
+   "text": "We face risks from claims, litigation, governmental investigations and other proceedings to our businesses, reputation, results of operation and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cautionary statement about facing risks from claims and litigation, typical boilerplate language."
+  },
+  {
+   "text": "For example, a private securities class action lawsuit was filed in federal court against the Company and certain current and former senior management on behalf of certain purchasers of securities of the Company seeking unspecified damages, plus interest and costs and fees, and an adverse final judgment or the terms of a settlement of such matter could result in the payment of substantial monetary damages.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new securities class action lawsuit with potential for substantial monetary damages."
+  },
+  {
+   "text": "See Note 14 to the Consolidated Financial Statements for more details regarding this lawsuit and above in these risk factors regarding patent infringement litigation and other claims.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A cross-reference to financial statement notes and other risk factor sections, purely administrative."
+  },
+  {
+   "text": "In addition, from time to time, we pursue litigation against third parties seeking to vindicate our rights.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the company pursuing litigation to protect its rights, not a new risk to the business."
+  },
+  {
+   "text": "Actual and threatened proceedings and investigations increase our costs, divert management resources and disrupt business operations and may negatively impact our reputation and brands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate about proceedings increasing costs and disrupting operations, without new specifics."
+  },
+  {
+   "text": "The outcomes of such matters are inherently unpredictable, and determining legal reserves or potential losses from such matters involves judgment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate language about unpredictability of legal outcomes and judgment in reserves."
+  },
+  {
+   "text": "If the losses to resolve such matters exceed the amounts recorded in any given reporting period, our results of operations for that interim or annual reporting period could be materially adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate about potential adverse effects if losses exceed recorded reserves."
+  },
+  {
+   "text": "While we maintain insurance for certain types of claims, our insurance may not be adequate to cover all losses and does not cover all types of claims that may arise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate disclaimer about insurance coverage limitations."
+  },
+  {
+   "text": "In 2025, tariffs were announced with respect to and by certain U.S. trading partners, which could, depending on how these or future tariffs or other regulations with respect to trade are implemented, have a significant impact on our results of operations, including by impacting the macroeconomic environment, increasing costs or adversely affecting demand for our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk regarding 2025 tariffs potentially affecting costs, demand, and macroeconomic conditions."
+  }
+ ]
+}

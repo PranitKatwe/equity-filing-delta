@@ -1,0 +1,218 @@
+{
+ "ticker": "J",
+ "sector": "Industrials",
+ "filing_date": "2025-11-20",
+ "accession": "0001628280-25-053316",
+ "prior_accession": "0000052988-24-000065",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 39
+ },
+ "items": [
+  {
+   "text": "BUSINESS Guided by our values and our brand promise \u2014 Challenging today.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic branding/mission statement language, not a risk."
+  },
+  {
+   "text": "Reinventing tomorrow \u2013 Jacobs delivers innovative solutions to address the world\u2019s most complex challenges and create lasting value for clients, communities and society.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of company purpose, no risk content."
+  },
+  {
+   "text": "From addressing water scarcity and aging infrastructure to access to life-saving therapies and cyber resilience, we combine creativity, agility and deep domain expertise to deliver outcomes that matter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General marketing language about markets served."
+  },
+  {
+   "text": "Our integrated approach enables clients to meet urgent needs today while preparing for the opportunities of tomorrow.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague marketing statement, no specific risk."
+  },
+  {
+   "text": "Strategic acquisitions, including a 65% stake in PA Consulting Group Limited (\"PA Consulting\") in fiscal 2021, along with BlackLynx and StreetLight \u2014 have strengthened our capabilities in high-value technology-enabled solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes historical acquisitions, factual background not a risk."
+  },
+  {
+   "text": "Challenge accepted In February 2025, we launched Challenge Accepted , our multi-year growth strategy designed to sharpen our focus and accelerate our performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new strategic initiative, promotional in nature."
+  },
+  {
+   "text": "Aligned with our long-term financial framework, this strategy positions us to drive profitable growth and deliver scalable, full lifecycle solutions across water and environmental, life sciences and advanced manufacturing, and critical infrastructure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Strategic positioning statement, no risk identified."
+  },
+  {
+   "text": "Page 4 As global challenges like urbanization, infrastructure modernization, digital evolution and environmental resilience intensify, our integrated delivery model unites the full breadth of our capabilities \u2014 from strategy through execution \u2013 across our end markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General industry trend description, not a specific risk."
+  },
+  {
+   "text": "This synergy enables us to deliver rapid, large-scale outcomes that anticipate evolving client needs and advance a more resilient, sustainable future where technology elevates human ingenuity and unlocks new possibilities for collaboration and problem-solving.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing language about capabilities."
+  },
+  {
+   "text": "Through the expertise of our people and ongoing investment in artificial intelligence (AI) and next-generation digital solutions, we empower our clients' decision-making across the entire asset lifecycle \u2013 from capital planning and operations to cybersecurity and operational technology.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company offerings, no risk."
+  },
+  {
+   "text": "Through our strategic partnership with PA Consulting, we are expanding our high-end advisory services and deploying our collective strengths to help clients adapt, innovate and transform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes partnership benefits, promotional."
+  },
+  {
+   "text": "Together, we deliver integrated support across the full project lifecycle \u2014 from early-stage strategy to implementation \u2014 enabling clients to tackle complex challenges, accelerate sustainable growth and shape a smarter, more resilient future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General service description."
+  },
+  {
+   "text": "At Jacobs, sustainability means delivering thoughtful solutions that meet today\u2019s needs while enabling economies, communities and the environment to thrive in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sustainability mission statement."
+  },
+  {
+   "text": "This approach has strengthened client relationships, aiming to create new opportunities and embed resilience into our global strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague claim about client relationships, no risk."
+  },
+  {
+   "text": "Building on this foundation, PlanBeyond 2025+ focuses on transparency, measurable outcomes and trusted delivery, guiding our path forward with our stakeholders, including our clients, partners and people.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal program, not a risk."
+  },
+  {
+   "text": "Driving positive impact Operating in more than 40 countries, we view sustainability and resilience as key differentiators and drivers of impact.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about operations scope."
+  },
+  {
+   "text": "Demand for solutions that address complex, interconnected challenges continues to grow across infrastructure, energy, advanced manufacturing and health.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Market demand statement, promotional."
+  },
+  {
+   "text": "By embedding sustainability into our solutions, we help clients\u2019 businesses and assets remain resilient.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sustainability claim, no risk."
+  },
+  {
+   "text": "Complimentary tools like Climate Risk Manager , Kaleidoscope and Intelligent O&M assess climate risks, carbon impacts and system vulnerabilities to inform critical project decisions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal tools, no risk."
+  },
+  {
+   "text": "Together, these enable systems-level impact for clients and communities worldwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General impact statement."
+  },
+  {
+   "text": "Page 5 Transparency and accountability We are committed to leading by example in our own operations \u2014 advancing a suite of strategic actions to reduce our carbon footprint.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sustainability commitment statement."
+  },
+  {
+   "text": "Our current commitment, including sourcing 100% renewable electricity and our net-zero target validated by the Science Based Targets initiative, underscore our progress across our operations and supply chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes sustainability targets, no risk."
+  },
+  {
+   "text": "We report on our sustainability performance and corporate responsibility initiatives in accordance with globally recognized frameworks when required by applicable regulations, or, in the absence of mandated standards, we follow widely accepted market practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes reporting practices, no risk."
+  },
+  {
+   "text": "In fiscal 2025, our employees mobilized support for communities, including those impacted by natural disasters, water insecurity and conflict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes community engagement, no risk."
+  },
+  {
+   "text": "For example, in 2025 a team of 10 Jacobs volunteers partnered with non-profit Bridges to Prosperity to build a suspended bridge across Rwanda\u2019s Gatongati River \u2014 our 17th bridge build \u2014 providing safe, year-round access to education, healthcare, markets and other essential services for more than 8,300 people.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes charitable project, no risk."
+  },
+  {
+   "text": "In 2025, Jacobs sponsored the International Science and Engineering Fair \u2014 a premier global competition engaging students from more than 300 affiliated science fairs worldwide and advancing the future talent pipeline.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes sponsorship activity, no risk."
+  },
+  {
+   "text": "By combining this expertise with our infrastructure delivery, we help clients understand how they can transform local decision-making, shape inclusive investments and create lasting social change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about social impact, no risk."
+  },
+  {
+   "text": "For further information regarding separation activities that took place in fiscal 2025, see Note 14- Discontinued Operations of the Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K. \u2022 On March 2, 2021, Jacobs completed the strategic investment of a 65% interest in PA Consulting, a U.K.-based leading innovation and transformation consulting firm.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical factual note about acquisition and cross-reference."
+  },
+  {
+   "text": "For additional information regarding our segments, including information about our financial results by segment and financial results by geography, see Note 19- Segment Information of Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statements, no risk content."
+  },
+  {
+   "text": "PA's work includes applying data and analytics to improve punctuality of flights at Heathrow Airport, accelerating the energy transition with Invenergy and energyRe, creating new digital platforms for the American College of Emergency Physicians, pioneering medtech with Hubly Surgical, accelerating clinical trials with AI for a global life sciences consortium, and enhancing resiliency in banking with Bankomat.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes client project examples, promotional."
+  },
+  {
+   "text": "Collectively, we also deploy the combined strengths of Jacobs' technical expertise in infrastructure, advanced manufacturing and technology with PA Consulting's innovation and transformation expertise to unlock significant opportunities for our clients worldwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes combined capabilities, promotional."
+  },
+  {
+   "text": "In England, we provide engineering, technical advice and innovation services to National Highways.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes specific client engagement, no risk."
+  },
+  {
+   "text": "We\u2019re building an AI blueprint for Hertfordshire County Council, one of England\u2019s largest councils.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes specific project, no risk."
+  },
+  {
+   "text": "We\u2019ve been appointed to the U.K.\u2019s largest government management consultancy framework providing public sector organizations with streamlined access to advisory services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes contract framework appointment, no risk."
+  },
+  {
+   "text": "We\u2019re also delivering technical project management for the U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing project, no risk."
+  },
+  {
+   "text": "For further information regarding separation activities that took place in fiscal 2025, see Note 14- Discontinued Operations of the Notes to Consolidated Financial Statements beginning on page F-1 of this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate cross-reference to financial statements."
+  },
+  {
+   "text": "Certain portions of the DVS business related to advising on digital strategy and transformation and developing digital solutions that facilitate capital, operational and cybersecurity decisions for our clients across our segments and their end markets were retained and are now part of I&AF.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal reorganization of business units, factual not risk."
+  },
+  {
+   "text": "These contracts include a limited amount of guaranteed maximum price contracts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes existence of guaranteed maximum price contracts, which relates to known contract cost-overrun risk typically discussed in risk factors, expanding on contract type exposure."
+  },
+  {
+   "text": "Guided by our employee value statement, \"Jacobs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Refers to employee value statement, promotional."
+  },
+  {
+   "text": "In fiscal 2025, we introduced several enterprise-wide initiatives to enhance talent mobility, foster leadership and support long-term, purpose-driven careers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes talent programs, no risk."
+  }
+ ]
+}

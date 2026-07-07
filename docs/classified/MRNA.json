@@ -1,0 +1,218 @@
+{
+ "ticker": "MRNA",
+ "sector": "Health Care",
+ "filing_date": "2026-02-20",
+ "accession": "0001682852-26-000033",
+ "prior_accession": "0001682852-25-000022",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "Risks related to commercialization and our products Regulatory and market uncertainty have and may continue to impact our business and the markets for our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about regulatory and market uncertainty impacting business, no specific new risk detail."
+  },
+  {
+   "text": "Our ability to successfully commercialize our approved vaccines and any future products depends in part on evolving regulatory requirements, public health recommendations and market acceptance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that commercialization success depends on evolving regulatory/market factors; framing language without new specifics."
+  },
+  {
+   "text": "For example, changes in FDA regulatory policies, post-marketing safety monitoring, and evidentiary expectations, as well as CDC and Advisory Committee on Immunization Practices (ACIP) recommendations regarding eligibility, target populations, and vaccination practices, may have affected and may continue to affect demand for our vaccines.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific concern about FDA policy, post-marketing safety monitoring, and CDC/ACIP recommendation changes affecting vaccine demand."
+  },
+  {
+   "text": "Some of these changes, including new post-marketing commitments, have impacted and may in the future impact our costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that new post-marketing commitments have impacted costs, expanding on regulatory cost risk."
+  },
+  {
+   "text": "Ongoing regulatory uncertainty and evolving regulatory and public health guidance could impact future approvals, advisory committee recommendations, acceptance and demand for our existing or future products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic restatement of regulatory uncertainty affecting future approvals and demand, no new specifics."
+  },
+  {
+   "text": "These and other factors may make it difficult to accurately forecast vaccination rates for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on forecasting difficulty risk tied to the previously mentioned regulatory factors."
+  },
+  {
+   "text": "Beyond COVID, we have experienced challenges in the RSV market, in part due to advisory committee recommendations that were more limited than anticipated.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new fact about RSV market challenges due to limited advisory committee recommendations."
+  },
+  {
+   "text": "We may experience difficulties executing our near-term strategy and prioritized pipeline.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential execution difficulties without specifics."
+  },
+  {
+   "text": "While we expect to launch multiple new products over the next several years, our ability to commercialize our pipeline is subject to many risks, including those described elsewhere in these Risk Factors under \u201cRisks related to our pipeline, product development and regulatory review\u201d and \u201cRisks related to the manufacturing of our commercial products and product candidates.\u201d If we do not successfully execute our near-term plan for growing our infectious disease vaccine franchise, our ability to invest in our pipeline, including our oncology and rare disease programs, may suffer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-references other risk factor sections and restates general pipeline risk framing."
+  },
+  {
+   "text": "More generally, the pharmaceutical market is highly competitive and certain of the disease areas we are targeting present particularly high competitive risk.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General competitive market statement, standard boilerplate framing."
+  },
+  {
+   "text": "In oncology, standards of care often evolve rapidly, and changes during the development or commercialization of our product candidates could reduce their clinical relevance, complicate clinical trial design, increase development costs or timelines, or limit commercial adoption, even for programs that show promising early results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk about rapidly evolving oncology standards of care affecting trial design and commercialization."
+  },
+  {
+   "text": "Federal legislative and regulatory efforts to implement reference pricing or most-favored-nation pricing models and other, similar regulatory actions could impact our product revenues and materially harm our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding reference pricing and MFN pricing legislative efforts harming revenues."
+  },
+  {
+   "text": "On May 12, 2025, President Trump issued an executive order calling on pharmaceutical manufacturers to voluntarily reduce the prices of medicines in the U.S. and directing the Secretary of Health and Human Services (HHS) to communicate price targets to pharmaceutical manufacturers to align prices with those in comparably developed nations, an approach commonly referred to as \"most-favored-nation\" (MFN) pricing and, in the event significant progress towards MFN pricing is not delivered, to propose rulemaking to impose MFN pricing.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific real-world regulatory event (Trump executive order on MFN pricing) creating new pricing risk."
+  },
+  {
+   "text": "MFN pricing models in the U.S. could also affect our international pricing strategy and future decisions on reimbursement and commercialization in certain jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced MFN pricing risk by describing effects on international pricing strategy."
+  },
+  {
+   "text": "If our U.S. pricing becomes tied to international reference prices, we may face decisions regarding pricing in foreign markets that could result in reduced patient access internationally, affect our relationships with foreign regulatory authorities and payers, or impact our ability to obtain or maintain reimbursement approvals in ex-U.S. markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences of MFN-linked pricing for foreign markets, building on prior sentences."
+  },
+  {
+   "text": "45 These reforms remain subject to change, potential legal challenges, or expansion through additional rulemaking or sub\u2011regulatory guidance, creating uncertainty for our overall pricing strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about uncertainty of reforms, standard cautionary language."
+  },
+  {
+   "text": "It remains to be seen whether and how these drug pricing initiatives will apply to our products, how they will affect the broader pharmaceutical industry, and whether similar reform measures may be adopted in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty in how pricing reforms will apply, no new specifics."
+  },
+  {
+   "text": "For example, recent FDA policy updates regarding COVID vaccine approvals and the evidence expected for certain populations could require additional clinical data or trials to support broader indications, delay approvals or supplemental applications, or result in more limited labeled populations, which could adversely affect the timing and scope of commercialization for our COVID vaccines, including updated or variant-adapted formulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new FDA policy changes regarding COVID vaccine approval requirements affecting commercialization timing."
+  },
+  {
+   "text": "In certain settings, immune responses to the encoded protein limit the effectiveness or durability of treatment, including upon repeat administration, or require changes to dosing, formulation or clinical development plans.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific technical risk about immune responses limiting treatment effectiveness or durability."
+  },
+  {
+   "text": "Myocarditis and pericarditis have also been reported following vaccination with other COVID vaccines, including mNEXSPIKE.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new safety signal (myocarditis/pericarditis) associated with mNEXSPIKE vaccine."
+  },
+  {
+   "text": "For many rare diseases, few clinical trials have been attempted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds supporting detail to existing rare disease development risk regarding limited clinical trial history."
+  },
+  {
+   "text": "In certain other countries, such as Japan, mRNA therapies have not yet been classified.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory gap risk regarding mRNA therapy classification in Japan."
+  },
+  {
+   "text": "Further, certain patients may not be candidates for the therapies, for many reasons, including due to health conditions or genetic profile.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing patient eligibility risk with additional specific factors like genetic profile."
+  },
+  {
+   "text": "In addition, regulators may increasingly rely on post-approval studies or real-world evidence to determine whether to maintain, modify or expand approved indications or population eligibility, which could increase costs, delay commercialization or limit the scope of approved use of our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory trend risk regarding reliance on post-approval studies/real-world evidence."
+  },
+  {
+   "text": "Although we have obtained rare pediatric disease designation for mRNA-3927, we may not be eligible to receive a priority review voucher in the event the FDA determines we no longer meet the criteria for designation, revokes the designation or FDA approval does not occur by September 30, 2029.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk tied to mRNA-3927's rare pediatric disease designation eligibility and deadline."
+  },
+  {
+   "text": "The sponsor of an application for a rare pediatric disease drug product may be eligible for a voucher that can be used or sold to obtain a priority review for a subsequent application submitted under section 505(b)(1) of the Federal Food, Drug, and Cosmetic Act or section 351 of the Public Health Service Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General explanatory statement about how rare pediatric disease vouchers work, informational not risk-specific."
+  },
+  {
+   "text": "We received rare pediatric disease designation from the FDA for mRNA-3927.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about receiving designation, informational context rather than a risk."
+  },
+  {
+   "text": "We may, in the future, apply for rare pediatric disease designation from the FDA for future product candidates that may qualify for designation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General forward-looking statement about possible future applications, no specific risk detail."
+  },
+  {
+   "text": "Vouchers for rare pediatric disease drugs are awarded for qualifying applications when the drug receives approval.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General explanatory statement about voucher award process, informational not risk-specific."
+  },
+  {
+   "text": "Under current law, after September 30, 2029, the FDA may not award any rare pediatric disease priority review vouchers, although the FDA's authority to do so could be extended by Congress in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk tied to a legal deadline (Sept 30, 2029) after which vouchers may not be awarded."
+  },
+  {
+   "text": "We may also experience wasted stock from other factors such as volatile demand forecasts or our inability to scale down for products that have low demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new factors (demand volatility, scale-down inability) to existing wasted stock risk."
+  },
+  {
+   "text": "To supplement our internal manufacturing infrastructure, we may rely on third parties for product manufacturing, packaging, testing, warehousing, distribution and other logistical services, and the manufacture and testing of raw materials, components, parts and consumables, and we may need to engage additional third parties in the future to meet capacity needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing reliance on third-party manufacturers by adding new logistical and capacity considerations."
+  },
+  {
+   "text": "If one of our, or a third-party manufacturer\u2019s, sites fails to maintain sufficient quality assurance or control, or receives a deficient inspection outcome, a product may not receive or maintain regulatory approval, and our manufacturers or suppliers may be unable to meet their supply obligations, impacting or delaying supply or programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing manufacturing quality risk with more detail about inspection outcomes and supply impact."
+  },
+  {
+   "text": "We have purpose-built our facility in Marlborough, Massachusetts for intismeran, and it may encounter difficulties or it take longer than anticipated to scale up the facility to meet future commercial demand, if intismeran is approved.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about Marlborough facility scale-up difficulties tied to intismeran commercialization."
+  },
+  {
+   "text": "Manufacturing demand for intismeran may also increase as we continue our current late-stage trials and expand to additional tumor types .",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands manufacturing demand risk by noting increased need due to trial expansion to new tumor types."
+  },
+  {
+   "text": "Further, we may encounter difficulties executing our plans to improve turnaround time and reduce costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing manufacturing efficiency risk by noting difficulties improving turnaround time and costs."
+  },
+  {
+   "text": "Failure to comply with the covenants in our credit agreement could adversely affect our business A failure to comply with the covenants in our credit agreement with lenders led by Ares Capital Corporation, as administrative agent, could result in an event of default, which, if not cured or waived, could have a material, adverse effect on our business, financial condition, and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk tied to a named credit agreement with Ares Capital Corporation."
+  },
+  {
+   "text": "In the event of any such default, the holders of our indebtedness (i) would not be required to lend any additional amounts to us; and (ii) could elect to declare all then outstanding indebtedness, including accrued interest and unpaid fees, to be due and payable and terminate all commitments to extend further credit, if applicable.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences of default under the newly introduced credit agreement, expanding on debt risk."
+  },
+  {
+   "text": "If we are unable to repay those amounts, the holders of our secured indebtedness could proceed against their secured collateral to seek repayment from the proceeds of the sale or liquidation of our assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on creditor remedies (collateral liquidation) under the new credit agreement risk."
+  },
+  {
+   "text": "If our indebtedness were to be accelerated, there can be no assurance that our assets would be sufficient to repay such indebtedness in full.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on debt acceleration risk and asset sufficiency under the new credit facility."
+  }
+ ]
+}

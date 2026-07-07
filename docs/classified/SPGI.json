@@ -1,0 +1,218 @@
+{
+ "ticker": "SPGI",
+ "sector": "Financials",
+ "filing_date": "2026-02-11",
+ "accession": "0000064040-26-000013",
+ "prior_accession": "0000064040-25-000052",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 23
+ },
+ "items": [
+  {
+   "text": "We are a global, diversified, and highly differentiated provider of benchmarks, data, analytics and workflow solutions in the global capital, energy and commodity, and automotive markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic company description, not a risk statement."
+  },
+  {
+   "text": "However, such measures cannot provide absolute security and may be circumvented or become obsolete, and additional measures that we take to prevent or mitigate cyber incidents may be expensive or ineffective.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary disclaimer that security measures can't guarantee protection; generic cyber boilerplate."
+  },
+  {
+   "text": "12 Table of Contents \u2022 The rapid change of technology is a key feature of all of the markets in which we operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General industry framing statement about technological change, not a specific risk."
+  },
+  {
+   "text": "Additionally, certain of our new processes require manual data entry or collection before they can be automated, which subjects them to greater risk of human error.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: manual data entry before automation increases human error risk."
+  },
+  {
+   "text": "While we have established a Company-wide AI strategy to drive our approach to data protection, licensing and AI integration in our processes, products and services, AI creates a number of evolving risks and opportunities and can exacerbate other risks, including those described herein: \u2022 In order to remain competitive, we have made significant investments in various AI initiatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new AI strategy and associated evolving risks not previously disclosed."
+  },
+  {
+   "text": "There is no guarantee that these investments will lead to the development of products and services that achieve market acceptance, profit or the level of profitability that we expect or have experienced historically.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on uncertainty of AI investment returns, tied to the newly introduced AI risk theme."
+  },
+  {
+   "text": "The continued enhancement of AI within our products, services and processes depends in part on our ability to attract and retain talented employees with critical AI and data science experience, which is dependent on a number of factors, including prevailing market conditions and compensation packages offered by companies competing for the same talent.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk around ability to attract/retain AI and data science talent."
+  },
+  {
+   "text": "While we offer competitive salary and benefit packages, intense competition for talent with critical AI and data science experience is driving difficulties in attracting and retaining skilled employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details competitive pressure for AI talent, building on the talent risk just introduced."
+  },
+  {
+   "text": "The emerging availability of \u201coff-the-shelf\u201d AI models may also increase the ability of new and existing competitors to develop technology and applications which may compete with our products and services. \u2022 Our ability to produce and develop products and services with AI capabilities is dependent upon the products and services of other suppliers, including certain data, software and service suppliers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new competitive threat from off-the-shelf AI models enabling new entrants."
+  },
+  {
+   "text": "Our products and services with AI capabilities may rely on third-party AI providers for certain capabilities and infrastructure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces reliance on third-party AI providers as a new dependency risk."
+  },
+  {
+   "text": "If any such providers were to limit, discontinue or materially alter the terms of our access, we may be unable to obtain comparable data from other sources in a timely or cost-effective manner, or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete risk of losing access to third-party AI data/providers."
+  },
+  {
+   "text": "To the extent we rely on third-party AI models, the providers may discontinue such models or their model capabilities may become insufficient or obsolete.",
+   "category": "new_substantive_risk",
+   "rationale": "Details risk of third-party AI model discontinuation or obsolescence."
+  },
+  {
+   "text": "Errors or defects may exist during any part of a product\u2019s life cycle and may persist notwithstanding testing and/or other quality assurance practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about product errors/defects common to many risk factor sections."
+  },
+  {
+   "text": "Any of these social, ethical or operational issues could materially and adversely affect our business, financial condition or results of operations. \u2022 AI is being utilized by malign actors to launch increasingly sophisticated cyber attacks against us and our third-party service providers (including our vendors, data partners and distribution partners), which, if successful, could have a material adverse effect on our business, financial condition or results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI-enabled cyberattacks by malicious actors."
+  },
+  {
+   "text": "Third parties could also use our data with AI tools to create their own insights and potentially supplant our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new risk that third parties could use company data with AI to create competing insights."
+  },
+  {
+   "text": "We are also subject to a variety of evolving laws and regulations regarding AI in an increasing number of jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk specific to evolving AI laws across jurisdictions."
+  },
+  {
+   "text": "Such measures increase our operating costs and require significant management time and attention and may result in negative publicity and subject us to significant costs that may harm our business, including fines or damages as well as demands or orders that we modify or cease existing business practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compliance costs and negative publicity, common boilerplate language."
+  },
+  {
+   "text": "Our approach must effectively balance protecting our data and enabling our clients to leverage our data for their needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about balancing data protection and client use, not a specific risk."
+  },
+  {
+   "text": "Given the evolving nature of AI, at this time we are unable to predict if our approach will be successful.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty statement about success of approach, lacks specific risk detail."
+  },
+  {
+   "text": "If our approach is ultimately inadequate, we could materially dilute the value of our data and/or lose significant market share or revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete negative outcomes: dilution of data value or loss of market share/revenue."
+  },
+  {
+   "text": "We rely on a variety of measures to maintain, protect and enforce our intellectual property portfolio, including trademark and patent protection, trade secret laws, legal misappropriation doctrines, confidentiality procedures and contractual restrictions, all of which provide only limited protection.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about limited protection of IP through various legal measures."
+  },
+  {
+   "text": "In particular, such measures may not prevent infringement, violation, misuse or misappropriation of our intellectual property rights or proprietary or confidential information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that protective measures may not prevent IP misuse."
+  },
+  {
+   "text": "For example, we routinely face unauthorized use of our indices and price assessments, and our efforts to stop such uses require significant time and expense, and are not always successful. \u2022 We have filed for patents in the U.S. and in certain international jurisdictions, but such protections can be expensive and may not be available in all countries in which we operate or in which we seek to enforce such rights, or may be difficult to enforce in practice.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific ongoing risk of unauthorized use of indices and price assessments requiring costly enforcement."
+  },
+  {
+   "text": "We have filed for trademark registrations and participated in trademark enforcement and trademark oppositions in the U.S. and certain international jurisdictions to protect our brand, good will and reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of trademark filing and enforcement activities."
+  },
+  {
+   "text": "These efforts cannot ensure registrations will be issued, our trademark rights will be enforced, or violations of our trademark rights will be appropriately resolved.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about uncertainty of trademark enforcement outcomes."
+  },
+  {
+   "text": "Any additional investment in protecting our intellectual property rights through additional trademark, patent or other intellectual property filings could be time consuming and expensive, both in terms of application and maintenance costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cost of additional IP filings."
+  },
+  {
+   "text": "We make business decisions about whether and where to seek patent, copyright, and trademark protection for a particular technology and when to rely upon trade secret protection, and the approach we select may ultimately prove to be inadequate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about business decisions on IP protection strategy being potentially inadequate."
+  },
+  {
+   "text": "Enforcing a claim that a party illegally disclosed or misappropriated a trade secret or know-how is difficult, fact-intensive, expensive, and time-consuming, and the outcome is unpredictable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty of enforcing trade secret claims."
+  },
+  {
+   "text": "In addition, trade secrets and know-how can be difficult to protect and some courts inside and outside the U.S. are less willing or unwilling to protect trade secrets and know-how.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty protecting trade secrets across jurisdictions."
+  },
+  {
+   "text": "Further, these agreements do not prevent our competitors from independently developing product or service offerings that are substantially equivalent or superior to our offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that agreements don't stop competitors from independent development."
+  },
+  {
+   "text": "If any of our trade secrets were to be lawfully obtained or independently developed by a competitor or other third party, we would have no right to prevent them from using that technology or information to compete with us, and 15 Table of Contents our competitive position would be materially and adversely harmed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on trade secret risk with specific inability to prevent competitor use, building on prior generic IP risk."
+  },
+  {
+   "text": "The loss of trade secret protection could make it easier for third parties to compete with our products and services by copying functionality, and pervasive data leakage could render our capabilities redundant over time. \u2022 Our products and services contain intellectual property delivered through a variety of digital and other media.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk that data leakage could render company's capabilities redundant, a concrete competitive threat."
+  },
+  {
+   "text": "We have been, and may in the future be, subject to intellectual property disputes, which are costly to defend and could harm our business and operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about past/future IP disputes being costly, common boilerplate."
+  },
+  {
+   "text": "Our success depends, in part, on our ability to operate our business without infringing, misappropriating or otherwise violating third-party intellectual property rights.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about dependence on not infringing third-party IP."
+  },
+  {
+   "text": "We have been, and may in the future be, subject to claims and litigation alleging that we or our products or services infringe, misappropriate or otherwise violate others\u2019 intellectual property rights, including the trademarks, copyrights, patents and other intellectual property rights of third parties, including from our competitors or nonpracticing entities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to IP infringement claims."
+  },
+  {
+   "text": "We may also learn of possible infringement, misappropriation or other violation of our trademarks, copyrights, patents and other intellectual property.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potentially learning of IP violations."
+  },
+  {
+   "text": "Patent and other intellectual property litigation may be protracted and expensive, and the results are difficult to predict and may result in significant settlement costs or payment of substantial damages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cost and unpredictability of patent litigation."
+  },
+  {
+   "text": "Furthermore, a successful claimant could secure a judgment that requires us to stop offering some products or services or prevents us from conducting our business as we have historically done or may desire to do in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on litigation risk by specifying potential outcome of being forced to stop offering products/services."
+  },
+  {
+   "text": "We might also be required to seek a license and pay royalties for the use of such intellectual property, which may not be available on commercially acceptable terms, or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about needing licenses and royalty payments."
+  },
+  {
+   "text": "Alternatively, we may be required to modify our products and services, which could require significant effort and expense and may ultimately not be successful.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential need to modify products at cost, standard IP risk language."
+  }
+ ]
+}

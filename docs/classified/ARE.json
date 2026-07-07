@@ -1,0 +1,218 @@
+{
+ "ticker": "ARE",
+ "sector": "Real Estate",
+ "filing_date": "2026-01-26",
+ "accession": "0001035443-26-000013",
+ "prior_accession": "0001035443-25-000067",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "These pressures are expected to intensify in 2026 due to tariff\u2011driven material\u2011cost volatility.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of tariff-driven material cost volatility intensifying in 2026."
+  },
+  {
+   "text": "The market price and volatility of our common stock may be adversely affected by our financial performance, our ability to meet market expectations, and a wide range of external factors outside of our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about stock price volatility with no specific new risk."
+  },
+  {
+   "text": "On December 3, 2025, our Board of Directors declared a quarterly cash dividend of $0.72 per common share for the fourth quarter of 2025, representing a $0.60, or 45%, reduction from the dividend declared for the third quarter of 202 5.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material 45% dividend reduction, a concrete new financial fact."
+  },
+  {
+   "text": "Our Board of Directors may reduce or suspend our quarterly dividends in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that the board may reduce dividends, standard cautionary language."
+  },
+  {
+   "text": "If a joint venture partner elects to initiate a transaction relating to its interest in the joint venture or the property, we generally have a right of first refusal or buy right which may allow us to achieve full ownership of the property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about right of first refusal in joint ventures, expanding existing JV risk discussion."
+  },
+  {
+   "text": "House of Representatives and the Senate passed the One Big Beautiful Bill Act, which the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual background about legislative process, not itself a risk statement."
+  },
+  {
+   "text": "President signed into law on July 4, 2025 (the \u201cOBBB Act\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual note on when the law was signed, contextual not risk-bearing."
+  },
+  {
+   "text": "Among other things, the OBBB Act: \u2022 Changed the business interest expense limitation from 30% of EBIT to 30% of EBITDA.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific tax law change (interest expense limitation) with direct business impact."
+  },
+  {
+   "text": "This limitation does not apply to, among others, real property businesses electing out of such restriction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies an exemption to the new tax rule, expanding on the newly introduced risk."
+  },
+  {
+   "text": "33 The long-term impact of the OBBB Act on the overall economy, government revenues, our tenants, us, and the real estate industry cannot be reliably predicted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty language about long-term impact, no specific new risk."
+  },
+  {
+   "text": "Furthermore, the OBBB Act may negatively impact certain of our tenants\u2019 operating results, financial condition, and future business plans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the OBBB risk discussion to potential negative impact on tenants."
+  },
+  {
+   "text": "The OBBB Act may also result in reduced government revenues, and therefore reduced government spending, which may negatively impact some of our tenants that rely on government funding.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on OBBB's potential effect on government funding-dependent tenants."
+  },
+  {
+   "text": "There can be no assurance that the OBBB Act will not negatively impact our operating results, financial condition, and future business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic no-assurance disclaimer language."
+  },
+  {
+   "text": "The current U.S. administration has from time to time discussed, and may propose potential changes to the ACA and other healthcare programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential policy discussions, no specific new risk detailed."
+  },
+  {
+   "text": "In 2025, the administration also initiated multiple healthcare\u2011system policy actions affecting drug pricing, federal agency operations, and reimbursement frameworks, creating materially increased uncertainty for tenants in the life science, healthcare, and pharmaceutical sectors.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific 2025 policy actions affecting drug pricing and reimbursement creating new uncertainty for tenants."
+  },
+  {
+   "text": "We also face risks related to potential furloughs or shutdown contingency operations of government employees, which could delay regulatory approvals and impact tenant operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding government shutdowns/furloughs affecting regulatory approvals."
+  },
+  {
+   "text": "Changes to U.S. government funding, staffing, trade, policies, and other federal actions could adversely affect our business operations or those of our tenants and our venture investment portfolio companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing risk factor to include government funding, staffing, and trade policy changes."
+  },
+  {
+   "text": "Domestic and international policy shifts may introduce considerable uncertainty to the macroeconomic and regulatory landscape in which we, our tenants, and our venture investment portfolio companies operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about policy uncertainty without specific detail."
+  },
+  {
+   "text": "Our tenants and our venture investment portfolio companies include entities in the pharmaceutical, biotechnology, medical device, life science, and related industries, academic and private institutions, and government institutions that determine their R&D budgets based on several factors, including the availability of government and other funding and the reliability and operational efficiency of public regulatory institutions.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes existing tenant/venture portfolio funding dependency, largely contextual restatement."
+  },
+  {
+   "text": "Since January 2025, the U.S. administration has implemented and proposed substantial policy changes that affect federal health agencies, research funding, public health priorities, and international trade.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific timeframe and scope of administration policy changes affecting health agencies and trade."
+  },
+  {
+   "text": "Several of these actions were later modified, paused, or limited by courts or subsequent agreements, but they continue to create material uncertainty for planning, capital allocation, and tenant demand across the life science ecosystem.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance that some actions were reversed but uncertainty persists, expanding prior risk."
+  },
+  {
+   "text": "Reductions in FDA workforce In 2025, the FDA laid off approximately 3,500 employees, representing approximately 19% of its workforce at the beginning of the year, with certain actions later modified or reversed.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific, material data on FDA workforce reduction (3,500 employees, 19%)."
+  },
+  {
+   "text": "These reductions have created additional uncertainty and delay in drug and device approval processes, which may negatively impact our tenants\u2019 operations and demand for our life science space.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of FDA reductions for tenant operations."
+  },
+  {
+   "text": "Such disruptions could lead to setbacks in research and development timelines, negatively impacting life science companies\u2019 ability to advance their pipelines, secure investor funding, or achieve commercial viability, which could severely affect their operations and financial performance and, as a result, adversely impact our operating and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential downstream effects on R&D timelines and financial performance."
+  },
+  {
+   "text": "Restructuring and workforce reductions at the CDC In 2025, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of CDC restructuring and workforce reduction in 2025."
+  },
+  {
+   "text": "Centers for Disease Control and Prevention (\u201cCDC\u201d) underwent a significant restructuring and workforce reduction, including the dismissal of key scientific and policy personnel and operational changes affecting certain programs, with some actions later modified or reversed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specifics of CDC restructuring, expanding on the newly introduced risk."
+  },
+  {
+   "text": "These developments have raised concerns among public health and industry stakeholders about the agency\u2019s capacity to maintain vaccine oversight, coordinate immunization programs, and respond to emerging infectious disease threats.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on stakeholder concerns stemming from CDC changes."
+  },
+  {
+   "text": "Reduced CDC staffing and operational realignments may disrupt the collection and dissemination of critical epidemiological data, delay updates to vaccination guidelines, and impair public confidence in vaccine safety.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific operational impacts of CDC staffing reductions."
+  },
+  {
+   "text": "For our tenants and venture investment portfolio companies operating in the vaccine research, development, and manufacturing sectors, diminished CDC engagement could lead to uncertainty in regulatory expectations, lower vaccine uptake rates, and delay the adoption of new immunization technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends CDC-related risk to vaccine sector tenants and portfolio companies."
+  },
+  {
+   "text": "Any such disruptions could undermine the commercial viability of vaccine-related products, reduce R&D investment in the field, and in turn negatively impact demand for our specialized life science facilities and the value of our venture investment portfolio.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further describes potential financial consequences from CDC-related disruptions."
+  },
+  {
+   "text": "NIH grant cuts and impact on research institutions The U.S. administration has implemented significant policy changes affecting the NIH, leading to substantial disruptions in biomedical research across the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding NIH funding cuts and research disruption."
+  },
+  {
+   "text": "These actions have included staff layoffs and funding cuts as described below and have resulted in the suspension of numerous research projects, posing risks to scientific advancement and introducing uncertainty for some of our tenants and venture investment portfolio companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail on NIH-related layoffs and funding cuts."
+  },
+  {
+   "text": "35 \u2022 NIH budget freeze and workforce cuts .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header text, not substantive content itself."
+  },
+  {
+   "text": "On January 27, 2025, the U.S. administration issued a memorandum to suspend NIH grant funding, freezing much of the NIH\u2019s nearly $48 billion budget for 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific factual event: suspension of $48B NIH budget via memorandum, a concrete new risk detail."
+  },
+  {
+   "text": "Though the suspension was eventually blocked and reversed, during the first half of 2025, the NIH laid off approximately 5,000 employees and contractors across its approximately 20,000 -person workforce.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific numeric detail (5,000 layoffs) expanding on the NIH funding risk."
+  },
+  {
+   "text": "In May 2025, the White House introduced a budget proposal for fiscal year 2026 that would reduce the NIH budget by approximately 40%, from $48 billion to $27.5 billio n.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of proposed 40% NIH budget cut for FY2026."
+  },
+  {
+   "text": "Congress has not enacted this proposal, and, because no fiscal year 2026 appropriations bill has been passed to date, NIH funding currently remains at 2024 levels under a continuing resolution.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates status of the NIH budget proposal, expanding on prior disclosed risk."
+  },
+  {
+   "text": "In addition, on January 5, 2026, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal development (court ruling on indirect cost cap) affecting NIH funding risk."
+  },
+  {
+   "text": "Court of Appeals for the First Circuit affirmed a nationwide injunction blocking the administration\u2019s attempt to impose a 15% cap on indirect cost reimbursements for NIH grants, preventing a significant reduction in research funding from taking immediate effect.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of the court ruling detail, expanding on the newly introduced legal risk."
+  },
+  {
+   "text": "Nevertheless, if Congress ultimately adopts material reductions to the NIH budget or similar funding restrictions are pursued through future legislative or administrative actions, federal support for early\u2011stage scientific research could decline.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the funding risk discussion to potential future legislative actions."
+  }
+ ]
+}

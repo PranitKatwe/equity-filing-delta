@@ -1,0 +1,218 @@
+{
+ "ticker": "CIEN",
+ "sector": "Information Technology",
+ "filing_date": "2025-12-12",
+ "accession": "0001628280-25-056698",
+ "prior_accession": "0000936395-24-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 22
+ },
+ "items": [
+  {
+   "text": "Before investing in our securities, you should consider carefully the information contained in this report, including the information in this \u201cRisk Factors\u201d section.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary preamble asking investors to read the risk factors section; no specific risk content."
+  },
+  {
+   "text": "Our results of operations are subject to significant, and often difficult to predict, quarterly fluctuations due to a variety of factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about quarterly fluctuations being hard to predict, a common framing device."
+  },
+  {
+   "text": "Additionally, our customer contracts generally do not include minimum or guaranteed purchases and may allow customers to modify or cancel purchase orders.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific contractual terms (no minimum purchase commitments, ability to cancel orders) that materially expose the business to demand volatility."
+  },
+  {
+   "text": "Our results can be materially adversely affected by factors set forth in this \u201cRisk Factors\u201d section including: \u2022 order timing and volume, including book to revenue and backlog levels; \u2022 changes in spending or deployment plans by customers; \u2022 the level of competition we face and the impact of unfavorable transactions or commercial terms; \u2022 customer, product and geographic mix; \u2022 supply chain performance and costs; \u2022 the financial stability of our customers; and \u2022 consolidation activity involving us, our customers, suppliers, and competitors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A bullet list summarizing factors already covered elsewhere; framing/reorganization rather than new risk content."
+  },
+  {
+   "text": "As a result, our historical financial results may not be indicative of future performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that historical results may not predict future performance."
+  },
+  {
+   "text": "For example, in fiscal 2025, our five largest customers contributed approximately 50% of our revenue, a cloud provider customer accounted for approximately 18% of our revenue, and a service provider accounted for approximately 11% of our revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new quantitative customer concentration data (50% from top five, 18% and 11% from single customers), a concrete new disclosure of concentration risk."
+  },
+  {
+   "text": "Consequently, our results of operations could be materially adversely impacted by the loss of or a significant reduction in spending of a large customer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates the consequence of customer concentration already introduced in the prior sentence, expanding on the same risk."
+  },
+  {
+   "text": "Moreover, our revenue is concentrated within the cloud provider and service provider customer segments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on revenue concentration by customer segment, building on the concentration risk just described."
+  },
+  {
+   "text": "Adverse economic, business or regulatory dynamics within these industries or market segments affecting spending levels could materially adversely impact our results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about economic/regulatory dynamics affecting spending, without new specifics."
+  },
+  {
+   "text": "Our growth is dependent on executing our strategy and expanding our addressable market, and we may not be successful.",
+   "category": "reworded_same_meaning",
+   "rationale": "Heading-style statement restating the growth strategy risk in different words."
+  },
+  {
+   "text": "Our growth depends on the successful execution of our business strategy and our ability to grow our addressable market, or to expand into new markets, technologies, or customer segments.",
+   "category": "reworded_same_meaning",
+   "rationale": "Rephrasing of the same growth dependency risk as the prior sentence."
+  },
+  {
+   "text": "Many of these markets are nascent or dynamic, and it is difficult to predict trends of these markets, including any potential growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about market unpredictability, extending the growth risk discussion."
+  },
+  {
+   "text": "Moreover, we have a more limited history in commercializing and selling solutions into these markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new limitation\u2014limited history commercializing in these markets\u2014that materially affects execution risk."
+  },
+  {
+   "text": "Many of these competitors have substantially greater resources, broader product offerings and more established customer relationships than we have.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitors having greater resources, a common competitive risk framing."
+  },
+  {
+   "text": "Because of their scale and resources, they may be perceived to be a better fit for the procurement or network strategies of larger network operators.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about competitor perception advantages, lacking specific new risk detail."
+  },
+  {
+   "text": "Generally, competition in our industry is based on various factors, including: \u2022 price and total cost of ownership; \u2022 product features and functionality; \u2022 incumbency and strength of existing business relationships; \u2022 technology roadmap; \u2022 financial stability and investment capacity; \u2022 ability to address preferred customer consumption models; \u2022 delivery lead-times; and \u2022 services and support capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A generic bullet list of competitive factors, reorganizational in nature."
+  },
+  {
+   "text": "Additionally, as we address evolving customer consumption models or expand into adjacent market segments, we expect to compete with a broader range of suppliers, including existing business partners in our supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive dynamic\u2014competing with existing supply chain partners as consumption models evolve."
+  },
+  {
+   "text": "We may pursue strategic transactions, including mergers, acquisitions, investments and other strategic partnerships, to advance our business strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about pursuing strategic transactions without specific risk detail."
+  },
+  {
+   "text": "Risks Related to Technology Development and Intellectual Property Misaligned or delayed technology investments may adversely impact our return on innovation, impair our strategy and weaken our competitive position.",
+   "category": "reworded_same_meaning",
+   "rationale": "Heading restating a technology investment risk in different phrasing."
+  },
+  {
+   "text": "The success of our business depends on our ability to develop and deliver products that align with customer needs and demands, technological advancements, and market trends.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about aligning products with customer needs, standard framing."
+  },
+  {
+   "text": "Accordingly, there is no guarantee of market acceptance, and some of our development decisions will be unprofitable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic acknowledgment of market acceptance uncertainty without specifics."
+  },
+  {
+   "text": "These product-related risks could result in: \u2022 damage to our reputation, reduced demand, or order cancellations; \u2022 payment of liquidated damages, contractual or similar penalties, or other claims; \u2022 write-offs of inventory; \u2022 regulatory enforcement penalties or settlements; \u2022 disruption to the operation of our network operator customers; \u2022 reporting and other publication to customers or regulatory bodies; and \u2022 delays in introducing new products, recognizing revenue, or collecting accounts receivable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A bullet list of generic potential consequences, reorganizational."
+  },
+  {
+   "text": "There can be no assurance that our proprietary rights will not be challenged, invalidated or circumvented.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic IP risk statement about proprietary rights being challenged."
+  },
+  {
+   "text": "There can be no assurance that our pending patent applications will succeed or that our patents will sufficiently protect our technology, and the laws of some countries may not protect our proprietary rights to the same extent as in the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about patent uncertainty and international IP protection differences."
+  },
+  {
+   "text": "Risks Related to Operations Our failure to effectively align our supply chain capacity and inventory levels with customer demand can adversely impact our results of operations and customer relationships.",
+   "category": "reworded_same_meaning",
+   "rationale": "Heading restating supply chain/inventory alignment risk."
+  },
+  {
+   "text": "Our growth and ability to meet customer demand depends in part on our ability to adequately plan and ensure appropriate supply chain capacity and inventory levels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about needing to plan supply chain capacity, standard framing."
+  },
+  {
+   "text": "We have experienced supply chain capacity shortages that have affected our operations and financial results, including longer than normal lead times.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses an actual historical occurrence of supply chain shortages that affected operations and financial results, a concrete materialized risk."
+  },
+  {
+   "text": "Significant economic growth, and the unprecedented nature of AI related demand, can make it more difficult for us and our suppliers to accurately forecast demand and to set optimized levels of manufacturing capacity and inventory.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new context about unprecedented AI-driven demand complicating forecasting, a new and material factor."
+  },
+  {
+   "text": "Conversely, if actual demand is meaningfully less than our forecasts, we may spend unnecessarily on capital related to our supply chain or purchase more inventory than needed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the inventory/demand forecasting risk with additional detail about overspending scenarios."
+  },
+  {
+   "text": "This could lead to increased excess or obsolete inventory requiring us to incur significant write-offs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement about excess/obsolete inventory write-offs."
+  },
+  {
+   "text": "Our inability to effectively manage our supply chain capacity and inventory levels with customer demand could adversely impact our results of operations and customer relationships.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reiterates the heading-level risk statement already covered."
+  },
+  {
+   "text": "We have previously and may in the future experience significant challenges that require us to seek alternative partners and transition manufacturing operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific past and potential future need to transition manufacturing partners, a concrete operational risk not previously stated."
+  },
+  {
+   "text": "Our dependence upon third-party suppliers and limited sources of supply could adversely impact our business and results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Heading restating reliance on third-party suppliers risk."
+  },
+  {
+   "text": "We rely on a global network of third-party suppliers for products, components, related raw materials, and embedded software.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement describing reliance on a global supplier network."
+  },
+  {
+   "text": "Our reliance on these suppliers exposes us to risks of supply shortages, delays and increased costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about exposure to supply risks from reliance on suppliers."
+  },
+  {
+   "text": "For example, the electro-optical component and semiconductor industries have been experiencing increased demand as a result of significant spending related to AI and other cloud-based applications, which has led to a constrained supply environment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new market context\u2014AI and cloud-driven demand causing constrained supply in electro-optical and semiconductor industries."
+  },
+  {
+   "text": "These constraints have resulted, and could further result in shortages, extended lead times, or increased costs that adversely impact our revenue and gross margin.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequences of the AI-driven supply constraints just described."
+  },
+  {
+   "text": "These initiatives may be costly, disruptive and impose operational risks, including the need for system upgrades, new internal controls, and change management initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about operational risks from initiatives, lacking specificity."
+  },
+  {
+   "text": "We rely on a number of domestic and international third-party resellers, distributors, and sales agents to extend our sales reach, and service partners to perform certain installation, maintenance and support functions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement describing reliance on resellers and service partners."
+  },
+  {
+   "text": "If we do not effectively manage our relationships with these third-party business partners, our business, financial results and relationships with customers could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential adverse effects from poor partner management, standard framing."
+  }
+ ]
+}

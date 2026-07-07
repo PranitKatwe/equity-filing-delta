@@ -1,0 +1,218 @@
+{
+ "ticker": "CHTR",
+ "sector": "Communication Services",
+ "filing_date": "2026-01-30",
+ "accession": "0001091667-26-000017",
+ "prior_accession": "0001091667-25-000034",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 25
+ },
+ "items": [
+  {
+   "text": "Business - Competition\u201d and \u201cItem 1.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to other sections of the filing, no new risk content."
+  },
+  {
+   "text": "As part of the Cox Transactions, Charter will fund the $4.0 billion of cash consideration using debt and will assume Cox Communications' approximately $12.6 billion of net debt and finance leases.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new debt figures ($4.0B cash funded by debt, $12.6B assumed debt) tied to the Cox Transactions, materially increasing leverage."
+  },
+  {
+   "text": "Charter plans to adjust its long-term target leverage range after Closing to 3.5 to 3.75 times Adjusted EBITDA but will still have a significant amount of debt.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the leverage risk just introduced with a specific new target ratio, expanding rather than introducing the debt risk."
+  },
+  {
+   "text": "David Wargo is a director of Liberty Broadband.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual biographical disclosure about a director's affiliation, no risk content."
+  },
+  {
+   "text": "Michael Newhouse is co-president of the parent of A/N and its affiliates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual biographical disclosure, no risk implication."
+  },
+  {
+   "text": "In September 2025, following the Supreme Court decision that upheld the FCC\u2019s system for funding and administering its Universal Service programs, a new petition for review was filed in the Fifth Circuit challenging two subsections of the statute governing the Universal Service Fund.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new legal challenge (Fifth Circuit petition) to USF funding statute, a specific new regulatory risk."
+  },
+  {
+   "text": "While the parties have agreed in the Transaction Agreement to use reasonable best efforts to satisfy the closing conditions, the parties may not be successful in their efforts to do so.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard merger-agreement cautionary language about best efforts, common boilerplate in deal risk factors."
+  },
+  {
+   "text": "In addition, subject to limited exceptions, either Charter or Cox Enterprises may terminate the Transaction Agreement if the Cox Transactions have not been consummated by the end date, so long as the terminating party\u2019s failure to comply in all material respects with the Transaction Agreement has not been a primary cause of the failure of the Closing to occur on or before the end date.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard termination mechanics of the Transaction Agreement, procedural rather than a new specific risk."
+  },
+  {
+   "text": "Any of these risks could materially and adversely impact our financial condition, financial results and stock price.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary sentence about risks impacting financial condition, no specific new content."
+  },
+  {
+   "text": "Our plans for funding the cash consideration and assuming indebtedness of Cox Communications may be adversely affected to the extent there are greater-than-expected increases in our indebtedness, lower-than-expected operating results, credit rating downgrades, or significant financial market disruptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific financing risk factors (rate downgrades, market disruption) that could impair Charter's ability to fund the Cox transaction."
+  },
+  {
+   "text": "We are obligated to fund $4.0 billion of cash consideration under the Transaction Agreement which we expect to fund by incurring indebtedness, and expect to assume approximately $12.6 billion of Cox Communications\u2019 outstanding net debt and finance leases in connection with the Cox Transactions, including Cox Communications\u2019 outstanding unsecured notes as of Closing (the \u201cCox Notes\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific obligation to fund $4.0B and assume ~$12.6B in debt including newly named Cox Notes, a concrete new financial risk."
+  },
+  {
+   "text": "The indentures and supplemental indentures governing the Cox Notes contain certain negative covenants, including restrictions on the incurrence of secured indebtedness and indebtedness of restricted subsidiaries.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new restrictive covenants in the Cox Notes indentures limiting future financing flexibility."
+  },
+  {
+   "text": "If our indebtedness increases more than expected, our operating results are lower than expected, or significant financial markets disruptions occur, our cash on hand and available liquidity under our existing credit facilities may be insufficient to fund the cash portion of the consideration.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific liquidity risk that existing cash/credit facilities may be insufficient to fund the cash consideration."
+  },
+  {
+   "text": "In such a circumstance, Charter (or one of its subsidiaries that, at the time, is the primary obligor of such series of notes) would be required to offer to repurchase each applicable holder\u2019s Cox Notes of such series at a purchase price in cash equal to 101% of the aggregate principal amount of such series of Cox Notes repurchased, plus accrued and unpaid interest.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new repurchase obligation (101% of principal) tied to Cox Notes, a concrete financial risk."
+  },
+  {
+   "text": "In the event of such ratings downgrades, we may require additional debt financing to fund such repurchases, which may not be available on terms acceptable to us, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the repurchase/downgrade risk just described, adding detail about financing availability."
+  },
+  {
+   "text": "A failure to make the applicable change of control offer or to pay the applicable change of control purchase price when due would result in a default in respect of the applicable series of Cox Notes and could result in a default under the terms of other indebtedness of Charter and its subsidiaries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific default risk scenario tied to failure to fulfill repurchase obligations."
+  },
+  {
+   "text": "Factors beyond our control could affect the total amount or timing of these expenses, many of which, by their nature, are difficult to estimate accurately.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unpredictable expenses, standard cautionary language."
+  },
+  {
+   "text": "A/N and Liberty Broadband currently have governance rights that give them influence over corporate transactions and other matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement of existing governance rights, setup for later disclosure rather than a new risk itself."
+  },
+  {
+   "text": "In connection with the Cox Transactions, Liberty Broadband will lose its governance rights (assuming the closing of the Liberty Broadband Combination), A/N\u2019s governance rights will be modified and Cox Enterprises will receive governance rights pursuant to the amended stockholders agreement and amendments to Charter\u2019s governing documents, and Cox Enterprises and A/N will have influence over corporate transactions and other matters.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a material shift in governance control\u2014Liberty Broadband losing rights and Cox Enterprises gaining influence\u2014introducing new concentration-of-control risk."
+  },
+  {
+   "text": "The Transaction Agreement contemplates that, at the Closing, Charter, A/N and Cox Enterprises will enter into the amended stockholders agreement, which will amend and restate in its entirety the existing stockholders agreement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural description of contractual mechanics for the amended stockholders agreement."
+  },
+  {
+   "text": "If the Liberty Broadband Combination is completed, the existing stockholders agreement, which sets forth, among other things, certain of Liberty Broadband\u2019s governance rights with respect to Charter, will terminate with respect to Liberty Broadband.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual/procedural statement about termination of an existing agreement contingent on another deal closing."
+  },
+  {
+   "text": "The Liberty Broadband side letter further provides that Liberty Broadband will cause the three Liberty Broadband designees serving on the Board of Directors of Charter to resign effective immediately prior to the effective time of the closing of the Liberty Broadband Combination.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual detail about board resignation mechanics, procedural rather than risk-creating."
+  },
+  {
+   "text": "Based on Charter\u2019s share count as of December 31, 2025, Charter expects that Cox Enterprises will own approximately 25.1% of the combined entity\u2019s diluted shares outstanding, on an as-exchanged, as-converted basis and assuming the contemporaneous closing of the Liberty Broadband Combination.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new ownership concentration (~25.1% for Cox Enterprises), a material change in stockholder influence."
+  },
+  {
+   "text": "Pursuant to the amended stockholders agreement and the amended certificate of incorporation, the size of the Board of Directors of Charter will continue to be fixed at 13 directors, and at the Closing, the directors then serving as A/N\u2019s designees will continue to serve on the Board of Directors of Charter and three designees selected by Cox Enterprises (with the prior approval of Charter (not to be unreasonably withheld)) will become members of the Board of Directors of Charter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual detail on board composition mechanics following closing, procedural information."
+  },
+  {
+   "text": "Thereafter, each of Cox Enterprises and A/N will be entitled to designate up to three nominees to be elected to the Board of Directors of Charter provided that each maintains certain specified voting or equity ownership thresholds.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the governance influence risk introduced elsewhere, detailing nomination rights."
+  },
+  {
+   "text": "Cox Enterprises and A/N also will have certain committee designation and other governance rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to the broader governance influence risk regarding committee rights."
+  },
+  {
+   "text": "Additionally, the amended stockholders agreement will provide that each of Cox Enterprises and A/N will be subject to certain limits on acquisitions of Charter shares (30% in the case of Cox Enterprises; 19% in the case of A/N).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States specific ownership caps, which function as limits rather than a newly introduced risk."
+  },
+  {
+   "text": "In addition, any shares owned by Cox Enterprises or A/N in excess of its applicable voting cap (30% in the case of Cox Enterprises; 15% in the case of A/N) must be voted in proportion to the public stockholders of Charter, other than with respect to certain excluded matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes voting mechanics for excess shares, procedural detail."
+  },
+  {
+   "text": "The amended stockholders agreement will also provide that at the Closing, Alexander C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural detail about agreement provisions, no risk substance."
+  },
+  {
+   "text": "Taylor, Chairman and Chief Executive Officer of Cox Enterprises, will serve as the Chairman of the Board of Directors of Charter for an initial three-year term (unless Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual detail about a named individual's board chairmanship term."
+  },
+  {
+   "text": "Taylor ceases to serve as a member of the Board of Directors of Charter prior thereto).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of factual succession detail, no new risk."
+  },
+  {
+   "text": "The lead independent director of the Board of Directors of Charter at the Closing will be Eric L.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement naming the lead independent director."
+  },
+  {
+   "text": "Zinterhofer, current Non-executive Chairman of the Board of Directors of Charter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual biographical/title detail, no risk content."
+  },
+  {
+   "text": "Taylor\u2019s term as Chairman, the Board of Directors of Charter will return to its normal annual process.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural statement about board process resuming normal operations."
+  },
+  {
+   "text": "Taylor\u2019s term as Chairman, Christopher L.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual succession detail naming next chairman."
+  },
+  {
+   "text": "Winfrey, the Chief Executive Officer of Charter, will serve as Chairman of the Board of Directors of Charter; provided that if Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual succession detail, procedural in nature."
+  },
+  {
+   "text": "Winfrey is no longer a member of the Board of Directors of Charter or is unwilling to serve as Chairman, then Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of succession contingency details, procedural."
+  },
+  {
+   "text": "Zinterhofer instead will serve as Chairman (subject to his continued membership on the Board of Directors of Charter and willingness to serve).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further succession contingency detail, procedural."
+  },
+  {
+   "text": "At the Closing, Charter will amend its certificate of incorporation and bylaws in order to, among other things, reflect the agreed-upon governance terms to be included in the amended stockholders agreement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes routine charter amendment mechanics to reflect governance terms, procedural."
+  },
+  {
+   "text": "31 As a result of their rights under the amended stockholders agreement and their significant equity and voting stakes in Charter, Cox Enterprises and/or A/N, who may have interests different from those of other stockholders, will be able to exercise substantial influence over certain matters relating to the governance of Charter, including the approval of significant corporate actions, such as mergers and other business combination transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly states that Cox Enterprises and A/N will have substantial influence over major corporate actions like mergers, a new material risk to minority stockholders."
+  }
+ ]
+}

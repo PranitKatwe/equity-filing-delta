@@ -1,0 +1,33 @@
+{
+ "ticker": "DTE",
+ "sector": "Utilities",
+ "filing_date": "2026-02-17",
+ "accession": "0000936340-26-000054",
+ "prior_accession": "0000936340-25-000065",
+ "model": "claude-sonnet-5",
+ "n_added": 3,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Among others, these projects include construction and operation of energy facilities and storage capacity to serve one or more data centers in the Registrants' service territory.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new business activity\u2014constructing and operating energy facilities and storage capacity to serve data centers\u2014which is a concrete new operational exposure not previously disclosed."
+  },
+  {
+   "text": "In addition, import tariffs and other trade policies have the potential to disrupt global supply chains and could cause volatility in the availability and cost of materials and supplies for us and our customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk driver: import tariffs and trade policy disruptions affecting supply chains and cost/availability of materials, a concrete and material new exposure."
+  },
+  {
+   "text": "Technological developments, including advances in artificial intelligence, could have the potential to increase the Registrants' vulnerability to these threats.",
+   "category": "expanded_existing_risk",
+   "rationale": "This builds on an existing cybersecurity/threat risk by adding that AI advances could increase vulnerability, expanding rather than introducing a wholly new risk category."
+  }
+ ]
+}

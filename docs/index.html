@@ -108,8 +108,11 @@
   .explainer .rules li::before { content: "\2713"; position: absolute; left: 0; top: 0; color: var(--good); font-weight: 700; }
   .cat { display: inline-block; font-size: 11px; font-weight: 650; letter-spacing: .02em; border-radius: 999px; padding: 1px 9px; margin-right: 7px; white-space: nowrap; vertical-align: 1px; }
   .cat.new { color: var(--pos); border: 1px solid var(--pos); }
+  .cat.exp { color: var(--warn); border: 1px solid var(--warn); }
+  .cat.rew { color: var(--holdout); border: 1px solid var(--holdout); }
   .cat.boil { color: var(--text-muted); border: 1px solid var(--border); }
   .example { margin: 8px 0; font-size: 14.5px; color: var(--text-secondary); }
+  #clout { white-space: normal; max-height: 460px; overflow-y: auto; }
   table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 14px; }
   th, td { text-align: right; padding: 6px 10px; border-bottom: 1px solid var(--border); }
   th:first-child, td:first-child { text-align: left; }
@@ -427,9 +430,31 @@
     <div class="example"><span class="cat new">new risk</span>"For example, the 777X program, which launched in 2013
     and is currently expecting first..." (BA 2026)</div>
     <p class="muted" style="margin-top:14px">Roughly a quarter to a third of mechanically-added sentences are noise the
-    classifier filters out, and the share varies by company (NVDA 88% substantive, JPM 70%). This is a demonstration on
-    four names, not a studied signal: scoring <code>n_substantive_added</code> across all 4,705 events under the same
-    harness (holdout, net of costs) is the documented next step.</p>
+    classifier filters out, and the share varies by company (NVDA 88% substantive, JPM 70%).</p>
+
+    <p class="muted" style="margin-top:22px"><strong>Browse it yourself.</strong> The same classifier was then run once
+    over every company's latest 10-K (473 companies, 13,208 added sentences) using Claude Sonnet 5 through the batch
+    API, and the labels were saved as static files. Pick a company to see exactly what the LLM decided, sentence by
+    sentence; hover a label for its one-line reason. Nothing runs live here: you are reading a cached, one-time run.
+    Lists are capped at the first 40 added sentences per filing. On the four Opus-labeled names above, Sonnet's
+    substantive share agrees closely (NVDA 88% in both runs); the line between "new risk" and "expanded" is more
+    model-sensitive, which is exactly why the sharpened signal counts both.</p>
+    <div class="card pad">
+      <div class="controls">
+        <div class="combo">
+          <input id="clco" placeholder="Company ticker (e.g. NVDA)" autocomplete="off"
+                 role="combobox" aria-expanded="false" aria-autocomplete="list" aria-label="Company for the cached labels">
+          <div id="clmenu" class="menu" hidden></div>
+        </div>
+      </div>
+      <div id="clout" class="out" hidden></div>
+      <p id="clnote" class="note" role="status" aria-live="polite">Loading the label index…</p>
+    </div>
+
+    <p class="muted" style="margin-top:14px">Honest framing: these labels cover each company's latest 10-K, so you can
+    inspect what the classifier does. The study's headline numbers still use the mechanical count; scoring
+    <code>n_substantive_added</code> across all 4,705 historical events under the same harness (holdout, net of costs)
+    is the documented next step.</p>
   </section>
 
   <footer>
@@ -461,17 +486,19 @@ async function getJSON(url) {
 function busy(btn, on, label) { btn.disabled = on; btn.innerHTML = on ? `<span class="spinner"></span>${label}` : label; }
 
 // Custom, fully-styled company autocomplete (a real part of the UI, not the
-// browser's native datalist popup). Reads the shared INDEX at query time.
-function attachCombo(input, menu, onSelect) {
-  let items = [], active = -1;
+// browser's native datalist popup). Reads its index at query time; defaults
+// to the shared INDEX, but any {TICKER: {sector}} map works.
+function attachCombo(input, menu, onSelect, getIndex = () => INDEX) {
+  let items = [], active = -1, idx = {};
   const render = () => {
     menu.innerHTML = items.length
-      ? items.map((t, i) => `<div class="opt${i === active ? " active" : ""}" data-tk="${t}"><span class="tk">${t}</span><span class="sec">${esc(INDEX[t].sector)}</span></div>`).join("")
+      ? items.map((t, i) => `<div class="opt${i === active ? " active" : ""}" data-tk="${t}"><span class="tk">${t}</span><span class="sec">${esc(idx[t].sector)}</span></div>`).join("")
       : '<div class="empty">No matching company</div>';
     menu.hidden = false; input.setAttribute("aria-expanded", "true");
   };
   const filter = () => {
-    const q = input.value.trim().toUpperCase(), all = Object.keys(INDEX).sort();
+    idx = getIndex();
+    const q = input.value.trim().toUpperCase(), all = Object.keys(idx).sort();
     // Empty field: show the whole list to scroll. Typing: filter (prefix first, then contains).
     items = q ? all.filter((t) => t.startsWith(q)).concat(all.filter((t) => !t.startsWith(q) && t.includes(q))) : all;
     active = -1; render();
@@ -551,6 +578,39 @@ async function ask() {
 }
 qago.addEventListener("click", ask);
 qaq.addEventListener("keydown", (e) => { if (e.key === "Enter") ask(); });
+
+// ---------- cached classification browser ----------
+// Static files only (classified/<TICKER>.json), written by scripts/classify_batch.py
+// in a one-time Sonnet batch run. No model call happens when a visitor browses.
+let CLIDX = {};
+const clco = $("clco"), clout = $("clout"), clnote = $("clnote");
+const CLCAT = {
+  new_substantive_risk: ["new", "new risk"],
+  expanded_existing_risk: ["exp", "expanded"],
+  reworded_same_meaning: ["rew", "reworded"],
+  boilerplate_or_reorder: ["boil", "boilerplate"],
+};
+fetch("classified/index.json").then((r) => r.json()).then((d) => {
+  CLIDX = d.companies;
+  clnote.textContent = `${Object.keys(CLIDX).length} companies labeled in one cached run. Pick one.`;
+}).catch(() => { clnote.textContent = "Couldn't load the cached labels."; });
+attachCombo(clco, $("clmenu"), async () => {
+  const tk = clco.value.trim().toUpperCase();
+  if (!CLIDX[tk]) return;
+  clnote.textContent = "Loading…"; clout.hidden = true;
+  try {
+    const d = await getJSON(`classified/${encodeURIComponent(tk)}.json`);
+    const c = d.counts;
+    clout.innerHTML =
+      `<div class="facts" style="margin:0 0 10px">${esc(d.ticker)} · 10-K filed ${esc(d.filing_date)} · accession ${esc(d.accession)} · labeled by ${esc(d.model)}<br>` +
+      `${d.n_added} added sentences: <span class="cat new">${c.new_substantive_risk} new risk</span>` +
+      `<span class="cat exp">${c.expanded_existing_risk} expanded</span>` +
+      `<span class="cat rew">${c.reworded_same_meaning} reworded</span>` +
+      `<span class="cat boil">${c.boilerplate_or_reorder} boilerplate</span></div>` +
+      d.items.map((it) => `<div class="example"><span class="cat ${CLCAT[it.category][0]}" title="${esc(it.rationale).replace(/"/g, "&quot;")}">${CLCAT[it.category][1]}</span>${esc(it.text)}</div>`).join("");
+    clout.hidden = false; clnote.textContent = "";
+  } catch (e) { clnote.textContent = e.message; }
+}, () => CLIDX);
 
 // ---------- charts ----------
 const QUINT = {

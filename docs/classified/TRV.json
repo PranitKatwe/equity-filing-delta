@@ -1,0 +1,78 @@
+{
+ "ticker": "TRV",
+ "sector": "Financials",
+ "filing_date": "2026-02-12",
+ "accession": "0000086312-26-000065",
+ "prior_accession": "0000086312-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Geographic Distribution The following table shows the geographic distribution of Business Insurance\u2019s direct written premiums for the year ended December 31, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard geographic distribution table of premiums, purely informational, not a risk statement."
+  },
+  {
+   "text": "Geographic Distribution The following table shows the geographic distribution of Bond & Specialty Insurance\u2019s direct written premiums for the year ended December 31, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard geographic distribution table of premiums, purely informational, not a risk statement."
+  },
+  {
+   "text": "14 Geographic Distribution The following table shows the geographic distribution of Personal Insurance\u2019s direct written premiums for the year ended December 31, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard geographic distribution table of premiums, purely informational, not a risk statement."
+  },
+  {
+   "text": "Coverage is provided on an all-perils basis, including but not limited to hurricanes, tornadoes, hail storms, earthquakes, wildfires, winter storms and/or freeze losses (including coverage for terrorism events in limited circumstances).",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about the scope of coverage perils (hurricanes, wildfires, terrorism, etc.) which expands on existing catastrophe/underwriting risk description."
+  },
+  {
+   "text": "The following table shows the geographic distribution of the Company\u2019s employees as of December 31, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Informational table about employee geographic distribution, not a risk statement."
+  },
+  {
+   "text": "The Company recognizes that we must maintain our talent advantage by attracting and retaining high performing employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about human capital strategy goals, no specific risk identified."
+  },
+  {
+   "text": "Our human capital management strategy deploys industry-leading practices to attract, hire, develop and support high performing talent from all backgrounds, geographies and experiences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR strategy language, cautionary framing without specific risk detail."
+  },
+  {
+   "text": "Additionally, models and technology are used in the claim estimation process, which can present risks of model inaccuracy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of model inaccuracy in claim estimation processes due to use of models/technology."
+  },
+  {
+   "text": "Also, in some cases, if we do not write a particular product for an account, we could lose the ability to write other products for the same account.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new business risk of losing ability to write other products if one product for an account is not written."
+  },
+  {
+   "text": "Artificial intelligence, in particular, may become more expensive in the future given the resources necessary to develop that technology.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding rising costs associated with AI development resources."
+  },
+  {
+   "text": "With respect to artificial intelligence, emerging intellectual property-related rights and issues are being interpreted by courts and addressed by regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific legal/IP risk tied to evolving AI-related intellectual property interpretations."
+  },
+  {
+   "text": "Regarding artificial intelligence, legal and regulatory frameworks are developing and subject to change.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory risk related to developing and changing AI legal frameworks."
+  }
+ ]
+}

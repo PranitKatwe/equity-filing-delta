@@ -1,0 +1,198 @@
+{
+ "ticker": "DLR",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-13",
+ "accession": "0001104659-26-015365",
+ "prior_accession": "0001558370-25-001424",
+ "model": "claude-sonnet-5",
+ "n_added": 36,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "For example, in connection with the Digital DC Partners NA Fund, we raised over $3 billion of equity commitments that can support approximately $10 billion of total data center investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific quantitative example of capital commitments tied to existing financing/growth risk, adding detail rather than a new risk type."
+  },
+  {
+   "text": "Our data center space receiving third-party sustainable ratings in 2025 totaled 1.795 million square feet, encompassing the following sites: \u200b Data Center Metropolitan Area Rating System Level Achieved 9905 Godwin Drive Northern Virginia LEED (1) Gold 805 E.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of sustainability ratings/square footage, not a risk statement."
+  },
+  {
+   "text": "Risk Related to Our Business and Operations \u25cf Our business depends upon the demand for data centers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Header/bullet restating a pre-existing generic risk topic."
+  },
+  {
+   "text": "We rely on numerous electrical, heating and cooling, fire protection, energy storage and battery backup, uninterruptible power systems, and emergency power generation systems and equipment to operate our facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on the range of systems relied upon, expanding the existing operational/infrastructure risk."
+  },
+  {
+   "text": "The systems and equipment are required to handle high performance demands, including extreme heat and cold, high voltage, corrosion, high power demands and energy storage capacity, thermal and physical stresses, continuous operation in extreme conditions, and other routine, seasonal, and emergency operational demands.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on operational demands on equipment, an extension of existing infrastructure risk."
+  },
+  {
+   "text": "Failure of systems or equipment may affect other systems or equipment or customers, and it could mean we are unable to satisfy our obligations to our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequences of equipment failure already implied in existing operational risk."
+  },
+  {
+   "text": "Any loss of services or equipment damage could adversely affect both our ability to generate revenues and our operating results, harm our reputation and potentially lead to customer disputes or litigation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of financial/reputational consequences of service loss, standard boilerplate."
+  },
+  {
+   "text": "Even if vulnerabilities are publicly known or identified through our security tools, we cannot guarantee that patches or mitigating measures will be implemented before a threat actor can exploit them.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about patching limitations within the existing cybersecurity risk."
+  },
+  {
+   "text": "We are subject to ongoing cyberattacks and other security incidents, including attempts to gain unauthorized access to our systems, and we expect such attempts to continue.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard cybersecurity boilerplate restating ongoing threat exposure."
+  },
+  {
+   "text": "By letter dated December 22, 2025, the SEC Division of Enforcement informed us that based on the information it had as of that date, it had concluded the investigation and did not intend to recommend an enforcement action by the SEC against the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, previously unmentioned SEC investigation outcome, a concrete legal event."
+  },
+  {
+   "text": "The tenant improvements may also become outdated or obsolete as the result of technological change, the passage of time or other factors, including the recent acceleration in AI adoption and rapid advancements in compute, cooling and power technologies, which continue to drive evolving customer requirements, deployment architectures, and buying criteria .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk tied to AI-driven technological acceleration affecting tenant improvements."
+  },
+  {
+   "text": "Continued AI adoption could result in evolving infrastructure needs, particularly around power density for advanced computing.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk factor: AI adoption driving evolving power density infrastructure needs."
+  },
+  {
+   "text": "Accommodating these requirements may involve selective capital investment and ongoing attention to operational efficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about capital investment and efficiency, not a specific risk."
+  },
+  {
+   "text": "We depend on third parties to provide network connectivity to the customers in our data centers and any delays or disruptions in connectivity may materially adversely affect our operating results and cash flow.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new dependency risk on third-party network connectivity providers."
+  },
+  {
+   "text": "Geopolitical events may impact our operations and financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic header statement about geopolitical events."
+  },
+  {
+   "text": "For example, the impact of the United Kingdom exiting the European Union on European Union-United Kingdom political, trade, economic and diplomatic relations continues to be uncertain and such impact may not be fully realized for several years or more.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific example (Brexit) illustrating existing geopolitical risk category."
+  },
+  {
+   "text": "Continued uncertainty and friction may result in regulatory, operational, and cost challenges to our United Kingdom and international operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on consequences of geopolitical uncertainty, expanding existing risk."
+  },
+  {
+   "text": "We have in the past and may continue in the future to acquire businesses as part of our growth strategy.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about past and future acquisitions, standard growth strategy language."
+  },
+  {
+   "text": "For example, our JV partners must agree in order for the applicable JV to take specific major actions, including approval of development or operating budgets, sales of property, debt financings, leasing and other material contracts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific JV governance requirements, expanding existing joint venture risk."
+  },
+  {
+   "text": "Under these types of arrangements, any disagreements between our partners and us may result in delayed or unfavorable decisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequence of JV disagreements, part of existing JV risk discussion."
+  },
+  {
+   "text": "Our inability to take unilateral actions that we believe are in our best interests may result in missed opportunities and an ineffective allocation of resources and could have an adverse effect on the financial performance of our joint ventures, funds and our operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on adverse effects of lacking unilateral control in JVs, existing risk theme."
+  },
+  {
+   "text": "Our partners may be structured differently than us for tax purposes and this could create conflicts of interest, including with respect to our compliance with REIT requirements, and our REIT status could be jeopardized if any of our investments do not operate in a manner consistent with our REIT status.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding REIT status jeopardy due to partner tax structuring differences."
+  },
+  {
+   "text": "For example, our partners may default on their obligations, including obligations to fund their pro rata share of development costs and other capital needs, which could necessitate that we fulfill their obligations ourselves.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details partner default scenario, extending existing JV/partner risk."
+  },
+  {
+   "text": "Competition in our industry for qualified technical employees is intense, and the availability of qualified technical personnel is not guaranteed. \u200b 34 Table of Contents \u200b Index to Financial Statements \u200b As artificial intelligence becomes more prevalent in the workplace, it may present new considerations that could affect our business and operating results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about AI's effect on workplace and business operations."
+  },
+  {
+   "text": "We have begun leveraging AI and machine learning capabilities for our employees to use in their day-to-day operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific initiative (AI/ML leveraging) introducing associated new risk exposure."
+  },
+  {
+   "text": "Inadequate investment in or unsuccessful development of those AI capabilities may result in us lagging behind our competitors in terms of improving operational efficiencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk about inadequate AI investment causing competitive disadvantage."
+  },
+  {
+   "text": "Implementation of these technologies may involve challenges such as potential shortages in required data to train internal AI models, scarcity of skilled talent to effectively deploy internal AI initiatives, or the possibility that AI tools we develop or utilize may not achieve their desired or intended benefits performance or cost-efficiency objectives.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new challenges in AI implementation such as data scarcity and talent shortages."
+  },
+  {
+   "text": "Use of third-party AI tools may introduce information security, data privacy and legal or regulatory risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding third-party AI tool usage and associated security/privacy/legal risks."
+  },
+  {
+   "text": "Failure to properly manage these risks could negatively impact our business, reputation and operating results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic risk management boilerplate restating potential negative impact."
+  },
+  {
+   "text": "We may have difficulty managing our growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about growth management difficulty, standard boilerplate."
+  },
+  {
+   "text": "Often these estimates require the use of market data values and involve estimates of future performance or receivables collectability all of which can be difficult to accurately predict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about estimation difficulty, not a new specific risk."
+  },
+  {
+   "text": "However, even if Digital Realty Trust, Inc. qualifies as a REIT, it may be subject to some federal, state and local taxes on its income or property and, in certain cases, a 100% penalty tax, in the event it sells property as a dealer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (100% penalty tax) to existing REIT tax risk discussion."
+  },
+  {
+   "text": "Department of the Treasury has recently announced an agreement with other countries in the OECD to exempt U.S.-headquartered companies from the Pillar Two rules, various other governments around the world have enacted or are enacting such legislation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tax policy development (Pillar Two exemption) relevant to REIT taxation."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act (the \u201cOBBBA\u201d) was signed into law in the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new law (OBBBA) enacted, a concrete new regulatory development."
+  },
+  {
+   "text": "The OBBBA includes several significant provisions, such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act of 2017 and other changes to the Code, that affect REITs and their investors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on provisions of the newly disclosed OBBBA law, expanding the same new tax risk."
+  },
+  {
+   "text": "We do not expect it to have a material impact on our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic reassurance statement about expected impact, boilerplate in nature."
+  }
+ ]
+}

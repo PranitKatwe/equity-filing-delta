@@ -1,0 +1,218 @@
+{
+ "ticker": "VEEV",
+ "sector": "Health Care",
+ "filing_date": "2026-03-20",
+ "accession": "0001393052-26-000014",
+ "prior_accession": "0001393052-25-000022",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 17,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "IQVIA, which historically offered a competitive CRM solution, has licensed its CRM software to Salesforce.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new competitive threat: IQVIA licensing its CRM software to Salesforce, a concrete competitive dynamic not previously disclosed."
+  },
+  {
+   "text": "In the event we require financing to complete an acquisition, we may not be able to raise it on terms acceptable to us or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic acquisition financing risk language common to many filings, no specific new detail."
+  },
+  {
+   "text": "Customers may have requirements, including certain data access restrictions, that our support organizations need to meet.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague generic statement about customer requirements/data access restrictions without specific detail."
+  },
+  {
+   "text": "Other drug pricing reforms have been discussed and may be proposed in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about possible future drug pricing reforms with no specifics."
+  },
+  {
+   "text": "The imposition of tariffs or other trade measures could also provoke retaliatory responses from affected countries, including the imposition of digital services taxes, consumer boycotts resulting in depressed demand for products of the United States, or other measures that could negatively impact our business, operations, or financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of retaliatory trade measures including digital services taxes and consumer boycotts."
+  },
+  {
+   "text": "If economic or geopolitical conditions deteriorate, or the ability to market life sciences products or conduct clinical trials in key markets is disrupted, including as a result of the Russian invasion of Ukraine; the conflict in the Middle East; changes in export controls; sanctions, or other international laws; or if the demand for life sciences products globally deteriorates for other reasons, our customers may delay or reduce their IT spending, particularly within the regions impacted by negative economic or geopolitical conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific geopolitical risk factors (Russia-Ukraine, Middle East conflict) impacting customer IT spending."
+  },
+  {
+   "text": "We also process personal data as part of the Veeva Data Cloud offerings, which provide our customers with professionally relevant data related to healthcare providers and other industry professionals and stakeholders.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new data processing activity via Veeva Data Cloud involving healthcare professional data, a new business/privacy risk vector."
+  },
+  {
+   "text": "In addition, we process personal data to provide services that allow healthcare marketers to reach their target audiences and to measure the impact of their media campaigns.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new use of personal data for healthcare marketing and campaign measurement, expanding privacy risk exposure."
+  },
+  {
+   "text": "In some cases, the personal data that we process includes sensitive personal data, such as health data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that sensitive personal data including health data is processed, expanding existing privacy risk discussion."
+  },
+  {
+   "text": "In China, we are regulated under China\u2019s Personal Information Protection Law (\u201cPIPL\u201d), where we process data as an entrusted party on behalf of our customers who operate as data handlers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific regulatory regime (China's PIPL) applicable to the company's data processing."
+  },
+  {
+   "text": "In certain cases, we are regulated under the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sentence fragment introducing HIPAA reference, transitional/structural text."
+  },
+  {
+   "text": "Health Insurance Portability and Accountability Act of 1996 (\u201cHIPAA\u201d) that covers protected health information collected or maintained by covered entities and their business associates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on HIPAA applicability, expanding existing regulatory risk description."
+  },
+  {
+   "text": "Additionally, many states in the U.S. have passed comprehensive privacy legislation, such as the California Consumer Privacy Act (amended by the California Privacy Rights Act).",
+   "category": "expanded_existing_risk",
+   "rationale": "Names specific state privacy laws (CCPA/CPRA) expanding existing privacy compliance risk."
+  },
+  {
+   "text": "Some states in the U.S. also have passed legislation governing the processing of particular types of data, such as biometric data and certain other health-related data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on state laws covering biometric and health-related data, expanding existing risk."
+  },
+  {
+   "text": "These laws and regulations impose data subject notice or transparency requirements, mandated privacy and security standards, and registration obligations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of typical privacy law requirements without new specifics."
+  },
+  {
+   "text": "They also grant rights to data subjects, such as allowing them to access, correct, delete, or opt out of the sale or sharing of their information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of data subject rights, standard privacy law boilerplate."
+  },
+  {
+   "text": "In China, for example, we offer the China CRM Suite, a CRM solution that does not require data to be transferred outside of China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a specific product mitigation (China CRM Suite) tied to existing data localization risk, expanding on it."
+  },
+  {
+   "text": "Data Privacy Framework, and the Swiss-U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sentence fragment referencing transfer frameworks, structural/incomplete."
+  },
+  {
+   "text": "We also rely on standard contractual clauses in various jurisdictions, such as the EU, Switzerland, the UK, and Brazil, as well as our technical, contractual, and security measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific jurisdictions and mechanisms used for international data transfer, expanding existing compliance risk."
+  },
+  {
+   "text": "These mechanisms help ensure that we, and our customers, have the appropriate legal frameworks in place for personal data to be transferred internationally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about mechanisms ensuring legal frameworks, no new specific risk."
+  },
+  {
+   "text": "Additionally, the French governmental agency for health mandates a certification requiring that personal health data collected during healthcare activities be stored exclusively within the European Economic Area.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory requirement (French health data localization mandate) not previously disclosed."
+  },
+  {
+   "text": "Furthermore, the application and interpretation of these laws and regulations are complex and, at times, unclear and inconsistent.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complexity/ambiguity of laws, standard risk factor framing."
+  },
+  {
+   "text": "The EU Data Act, which came into effect September 12, 2025, allows our EU customers to cancel their subscriptions without cause upon providing the notice and after the transition period specified by the Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new EU Data Act provision allowing customers to cancel subscriptions without cause, a concrete new business risk."
+  },
+  {
+   "text": "Furthermore, new and evolving regulations relating to the use of data in AI and machine learning technologies, such as the EU AI Act, are creating an increasingly complex and fragmented regulatory framework.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new specific AI regulation (EU AI Act) creating regulatory complexity, a new risk factor."
+  },
+  {
+   "text": "We may also use AI for research and development and other internal operational use cases, including the use of AI-enabled processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new internal AI use cases, introducing new AI-related operational risk exposure."
+  },
+  {
+   "text": "If the Salesforce platform for Veeva CRM becomes unavailable earlier than we anticipate, our business and operations would be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding earlier-than-expected unavailability of Salesforce platform underlying Veeva CRM."
+  },
+  {
+   "text": "In addition, pursuant to the EU Data Act, which came into effect September 12, 2025, our EU customers may cancel their subscriptions without cause upon providing the notice and after the transition period specified by the Act.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same EU Data Act subscription cancellation risk already described in sentence 22."
+  },
+  {
+   "text": "For example, the One Big Beautiful Bill Act includes significant tax provisions such as the permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act of 2017 (\u201cTCJA\u201d), modifications to the international tax framework and restoration of immediate expensing for domestic research and development expenditures, which were previously required to be capitalized and amortized over five years under TCJA.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax legislation (One Big Beautiful Bill Act) with concrete provisions affecting the company."
+  },
+  {
+   "text": "Changes in the interpretation or implementation of this new law have impacted in the past and may impact in the future the calculation of our tax payments and our financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing tax law risk by noting past and future impacts of interpretation changes."
+  },
+  {
+   "text": "Since the initial implementation of Pillar Two by several countries in 2024, the framework has continued to evolve, most notably with the OECD/G20\u2019s January 2026 release of the \u201cside-by-side\u201d package.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new development in Pillar Two framework (2026 OECD/G20 side-by-side package) not previously disclosed."
+  },
+  {
+   "text": "We will continue to monitor and assess the implications of OECD-related developments to the side-by-side system, and the evolving Pillar Two framework.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring regulatory developments, no new specific risk."
+  },
+  {
+   "text": "For example, our competitors have asserted trade secret misappropriation claims against us in the past.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new litigation history: competitors asserting trade secret misappropriation claims."
+  },
+  {
+   "text": "Our ability to enforce our patent rights is subject to significant risks and uncertainties.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement expanding on existing patent enforcement risk discussion."
+  },
+  {
+   "text": "Competitors or other third parties may be able to circumvent or design around our patents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing patent risk by noting competitors may design around patents."
+  },
+  {
+   "text": "Furthermore, the validity, scope, and enforceability of our patents may be challenged in proceedings before the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing patent risk regarding validity and enforceability challenges."
+  },
+  {
+   "text": "Patent and Trademark Office\u2019s Patent Trial and Appeal Board (\u201cPTAB\u201d), including through Inter Partes Review (\u201cIPR\u201d) and Post-Grant Review (\u201cPGR\u201d) proceedings, or in federal district court litigation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legal mechanisms (PTAB IPR/PGR proceedings) as avenues for patent challenges, a concrete new risk detail."
+  },
+  {
+   "text": "Moreover, we cannot provide assurance that our patent portfolio covers every significant feature of our solutions or that we will properly mark our products with all applicable patents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing patent risk regarding portfolio coverage and marking requirements."
+  },
+  {
+   "text": "A successful challenge to our patents or a failure to adequately protect or mark our intellectual property could prevent or limit our ability to seek injunctive relief or recover damages for infringement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing patent risk by detailing consequences of successful challenges."
+  },
+  {
+   "text": "Our share repurchase program may not enhance long-term shareholder value.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new financial risk statement about share repurchase program not enhancing shareholder value."
+  },
+  {
+   "text": "In January 2026, our board of directors authorized a share repurchase program of up to $2 billion of our outstanding shares of common stock.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new $2 billion share repurchase authorization, a concrete new financial commitment and associated risk."
+  }
+ ]
+}

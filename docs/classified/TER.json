@@ -1,0 +1,213 @@
+{
+ "ticker": "TER",
+ "sector": "Information Technology",
+ "filing_date": "2023-02-22",
+ "accession": "0001193125-23-044711",
+ "prior_accession": "0001193125-22-049828",
+ "model": "claude-sonnet-5",
+ "n_added": 39,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 6,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "Our employees worldwide also receive annual performance reviews and are involved in setting goals for their own development and performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR practice description with no risk content."
+  },
+  {
+   "text": "In 2022, we implemented a new learning management system integrated with our human resource system.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an internal system implementation, not a risk factor."
+  },
+  {
+   "text": "This enabled our business to more easily create and offer business training courses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of the training system description, no risk implication."
+  },
+  {
+   "text": "In 2022, almost half of the scholarship recipients were outside of the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistical detail about scholarship recipients, unrelated to risk."
+  },
+  {
+   "text": "To make it easier for employees to support charitable activities and magnify the impact of support, we established a formal matching gift program, \u201cTeradyne Cares.\u201d The program matches up to $1,000 per year of an employee\u2019s donations to qualified non-profit organizations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a charitable matching program, not a business risk."
+  },
+  {
+   "text": "11 Table of Contents Throughout the novel coronavirus (COVID-19) pandemic, we have focused on ensuring the health and safety of our employees and providing the resources to effectively work remotely and to work in a safe environment when on site.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about COVID safety measures, reiterating known context without new risk detail."
+  },
+  {
+   "text": "On October 5, 2022, the credit agreement was amended to increase the amount of the credit facility to $750.0 million from $400.0 million.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated factual detail on an existing credit facility risk (increase in credit line amount)."
+  },
+  {
+   "text": "Foreign currency exchange rates and fluctuations in those rates may affect the Company\u2019s ability to realize projected growth rates in its sales and earnings.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the pre-existing foreign currency risk in similar terms."
+  },
+  {
+   "text": "Our financial statements are denominated in U.S. dollars.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about reporting currency, not a risk statement."
+  },
+  {
+   "text": "While the majority of our revenues are in U.S. dollars, approximately 70 percent of our Robotics revenue is denominated in foreign currencies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific quantification (70% of Robotics revenue) to the existing currency exposure risk."
+  },
+  {
+   "text": "Correspondingly, our results of operations and our ability to realize projected growth rates in sales and earnings in Robotics could be adversely affected if the U.S. dollar strengthens significantly against foreign currencies.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the currency risk's effect on growth without new substance."
+  },
+  {
+   "text": "In addition, in 2022, inflationary pressures contributed to increased costs for product components and wage inflation, which had minimal impact on our cost of products, gross margin and profit for the year.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific 2022 detail on inflationary cost impact to the existing cost/inflation risk."
+  },
+  {
+   "text": "Our supply chain team, and our suppliers, continue to manage numerous supply, production and logistics obstacles.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of ongoing supply chain challenges already disclosed."
+  },
+  {
+   "text": "In an effort to mitigate these risks, in some cases, we have incurred higher costs due to investment in supply chain resiliency and to secure available inventory or have extended or placed non-cancellable purchase commitments with semiconductor suppliers, which introduces inventory risk if our forecasts and assumptions prove inaccurate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific mitigation actions and associated inventory risk, expanding the existing supply chain risk."
+  },
+  {
+   "text": "We have also sourced components from additional suppliers and multi-sourced and pre-ordered components and finished goods inventory in some cases in an effort to reduce the impact of the adverse supply chain conditions we have experienced.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on supply chain mitigation efforts already described."
+  },
+  {
+   "text": "Also, our suppliers and contract manufacturers have increased their prices, which increased our cost of products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that suppliers raised prices, expanding existing cost/supply risk."
+  },
+  {
+   "text": "We have been and may continue to be, affected by wage inflation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates ongoing wage inflation risk already implied."
+  },
+  {
+   "text": "We also have been, and may continue to attempt to, offset the effect of these inflationary pressures by increasing the prices of our products.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates prior mitigation strategy of price increases."
+  },
+  {
+   "text": "In 2022, we were unable to supply approximately $20 million of revenue in our test businesses for which we had customer demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific quantified impact ($20 million unmet revenue) demonstrating a concrete new business effect."
+  },
+  {
+   "text": "Employees and contractors may also attempt to gain unauthorized access to our systems and steal proprietary and confidential data.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific cybersecurity threat vector\u2014insider/contractor data theft\u2014not previously mentioned."
+  },
+  {
+   "text": "The addition of certain of these companies to the entity list has had and will continue to have an adverse impact on our business with these customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds concrete impact detail to the existing entity list/export restriction risk."
+  },
+  {
+   "text": "Department of Commerce to attempt to minimize the impact of the restrictions on these companies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General procedural statement about seeking to minimize regulatory impact."
+  },
+  {
+   "text": "We are taking appropriate actions, including filing license applications and obtaining licenses 24 Table of Contents from the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes routine compliance actions (license filings) without new risk substance."
+  },
+  {
+   "text": "Department of Commerce published new regulations restricting the export to China of advanced semiconductors, supercomputer technology, equipment for the manufacturing of advanced semiconductors and components and technology for the manufacturing in China of certain semiconductor manufacturing equipment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific export control regulations restricting sales to China, a materially new regulatory risk."
+  },
+  {
+   "text": "The new restrictions are lengthy and complex.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic descriptive statement about complexity of regulations."
+  },
+  {
+   "text": "We continue to assess the impact of these regulations on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing assessment, no new risk detail."
+  },
+  {
+   "text": "We have determined that restrictions on the sale of semiconductor testers in China to test certain advanced semiconductors will impact our sales to certain companies in China.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete business impact\u2014restrictions on selling semiconductor testers to certain China customers."
+  },
+  {
+   "text": "Several multinational companies manufacturing these advanced semiconductors in China have obtained one-year licenses allowing suppliers such as Teradyne to continue to provide testers to the facilities operated by these companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on license status for existing export restriction risk."
+  },
+  {
+   "text": "We expect that other companies manufacturing advanced semiconductors in China will not receive licenses, thereby restricting our ability to provide testers to the facilities operated by these companies that do not receive a license.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the existing export restriction risk with expectation of broader impact on other companies."
+  },
+  {
+   "text": "We also are filing license requests to sell to and support certain customers in China for certain end uses that, if granted, may reduce the impact of these restrictions on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes routine mitigation efforts (license requests) without new substantive risk."
+  },
+  {
+   "text": "At this time, we do not know the impact these end user and end use restrictions will have on our business in China or on future revenues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of uncertainty about future impact, generic cautionary language."
+  },
+  {
+   "text": "In addition to the specific restrictions impacting our business, the regulations may have an adverse impact on certain actual or potential customers and on the global semiconductor industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens the existing export restriction risk to include potential impact on customers and the semiconductor industry."
+  },
+  {
+   "text": "To the extent the regulations impact actual and potential customers or disrupt the global semiconductor industry, our business and revenues will be adversely impacted.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same adverse impact risk in different words."
+  },
+  {
+   "text": "We also have determined that the restrictions on the export of certain US origin components and technology for use in the development and production in China of certain semiconductor manufacturing equipment impact our manufacturing and development operations in China.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific restriction affecting manufacturing and development operations in China, a distinct new risk area."
+  },
+  {
+   "text": "We have received a temporary authorization from the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides new factual update (temporary authorization) related to the ongoing export restriction risk."
+  },
+  {
+   "text": "Department of Commerce allowing us to continue our manufacturing and development operations in China until the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing the temporary authorization status tied to existing regulatory risk."
+  },
+  {
+   "text": "Department of Commerce issues a license to replace this temporary authorization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural continuation about licensing process, no new substantive content."
+  },
+  {
+   "text": "We cannot assess the likelihood or timing of receiving this license.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of uncertainty about timing, cautionary language."
+  },
+  {
+   "text": "In addition to requesting a license, we are implementing procedures for minimizing the impact of these new regulations on our operations in China, but there is no assurance that these procedures will succeed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes generic mitigation procedures with no assurance of success, standard risk factor caveat."
+  }
+ ]
+}

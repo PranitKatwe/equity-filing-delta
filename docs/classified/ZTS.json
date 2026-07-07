@@ -1,0 +1,218 @@
+{
+ "ticker": "ZTS",
+ "sector": "Health Care",
+ "filing_date": "2026-02-12",
+ "accession": "0001555280-26-000011",
+ "prior_accession": "0001555280-25-000102",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 23,
+  "reworded_same_meaning": 4,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "There are also a number of mid-sized competitors in both companion animal and livestock, and further start-ups with narrower focuses working in the animal health area.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about competitive landscape (mid-sized competitors, startups) within existing competition risk discussion."
+  },
+  {
+   "text": "Anti Bribery, Anti Corruption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A section heading with no substantive content."
+  },
+  {
+   "text": "The EU-specific regulation regarding human in vitro diagnostics is the In Vitro Diagnostic Medical Devices Regulation (Regulation (EU) 2017/746) (IVDR).",
+   "category": "expanded_existing_risk",
+   "rationale": "Cites a specific EU regulation (IVDR) as part of existing regulatory compliance risk discussion."
+  },
+  {
+   "text": "Data Privacy and Protection Laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A section heading with no substantive content."
+  },
+  {
+   "text": "11 | Table of Contents We are also subject to an increasingly complex and growing number of laws, regulations, and directive governing cybersecurity, data security, and the protection of information systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing cybersecurity/data regulation risk with more detail on complexity."
+  },
+  {
+   "text": "These requirements apply across multiple jurisdictions in the U.S. and internationally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about jurisdictional applicability, adds no new risk substance."
+  },
+  {
+   "text": "Compliance with these cybersecurity and data security laws and regulations require us to implement and continually enhance technical, administrative and organizational controls, conduct risk assessments and audits, maintain incident detection and response capabilities and provide training and oversight.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the compliance burden (controls, audits, training) tied to existing cybersecurity risk."
+  },
+  {
+   "text": "These requirements may increase operating and compliance costs and require significant investment in systems and technology.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes increased costs from compliance, an elaboration of existing regulatory risk."
+  },
+  {
+   "text": "Given the evolving and sometimes ambiguous standards in this area, there is a risk that we may not be able to anticipate or fully comply with all applicable requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Acknowledges risk of non-compliance due to evolving standards, expanding existing cybersecurity/regulatory risk."
+  },
+  {
+   "text": "In addition, cybersecurity incidents could result in unauthorized access and disclosure of sensitive or confidential information which could lead to regulatory enforcement and materially and adversely affect our business, financials, business operations, and reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cybersecurity incident consequence language commonly found in risk factors."
+  },
+  {
+   "text": "Our business involves using AI to provide faster, more accurate in-clinic diagnostic results and improve research efficiency and accelerated animal health drug discovery.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific use of AI in diagnostics and drug discovery as a new business-relevant risk area."
+  },
+  {
+   "text": "We also incorporate (and expect to continue incorporating) the use of AI in our operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the newly introduced AI risk theme by noting broader operational incorporation."
+  },
+  {
+   "text": "We are increasingly subject to a rapidly evolving legal and regulatory environment relating to the development, deployment, and use of AI, machine learning, automated decision-making systems, and related technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new regulatory risk category specific to AI and machine learning technologies."
+  },
+  {
+   "text": "Governments and regulators in the US and internationally are considering adopting and implementing new laws, regulations, and standards governing AI, including with respect to cybersecurity, intellectual property, consumer protection, privacy, safety, and ethical use.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the newly introduced AI regulatory risk with specifics on government actions."
+  },
+  {
+   "text": "Compliance with existing and future AI-related laws may require us to modify services and internal processes, data practices, and governance framework, and may increase our costs, reduce operational flexibility, delay, limit, and restrict certain uses of AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on compliance impacts of the new AI regulatory risk."
+  },
+  {
+   "text": "Risk Factors--We use machine learning and AI in various business operations, and inability to successfully monitor and manage its use could result in operational, competitive or reputational harm, regulatory enforcement, and legal liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds an explicit new risk factor heading specifically addressing AI/machine learning risks to the business."
+  },
+  {
+   "text": "Previously, he served as our Senior Vice President of Global Therapeutics from May to December 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "Esch joined Zoetis in 2014 and held various positions, including Vice President, Global Therapeutics and Executive Director, Research.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "Esch spent over 10 years as a practicing veterinarian and practice owner.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "There are many difficulties and uncertainties inherent in animal health research and development, the introduction of new products and indications, business development activities to enhance or refine our product pipeline and the commercialization of our products.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of existing R&D uncertainty risk without new specifics."
+  },
+  {
+   "text": "There is a high rate of failure inherent in medicine and vaccine discovery and development.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing high failure rate risk in R&D without adding new substance."
+  },
+  {
+   "text": "Failure can occur at any point in the process, including in later stages after substantial investment and following meaningful cost for manufacturing capabilities and inventory to prepare for launch.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about failure occurring after manufacturing investment, expanding existing R&D risk."
+  },
+  {
+   "text": "Our products generally receive regulatory approval based on data obtained in controlled clinical trials.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard restatement of regulatory approval process, no new risk."
+  },
+  {
+   "text": "After approval and launch, the products are used for longer periods of time by much larger numbers of animals worldwide, which may lead to identifying new safety or efficacy concerns.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about post-approval safety/efficacy concerns emerging from broader use, expanding existing product risk."
+  },
+  {
+   "text": "In addition, we or others may conduct post-marketing clinical studies on efficacy and safety of our marketed products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about post-marketing studies as part of existing safety risk discussion."
+  },
+  {
+   "text": "Safety issues have, and could in the future, result in costly product liability and other claims.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing product liability risk without new substance."
+  },
+  {
+   "text": "Any of these outcomes could result in material financial, legal, commercial, or reputational harm to our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all statement about potential harm, adds no new specifics."
+  },
+  {
+   "text": "Public confidence in pharmaceuticals has been challenged in recent years by highly publicized debates about vaccine safety, the spread of misinformation and disinformation on traditional and social media, and increasing skepticism toward public health institutions including animal health institutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk around public misinformation/disinformation and eroding trust in health institutions affecting the business."
+  },
+  {
+   "text": "These trends could materially and adversely impact our ability to successfully develop, obtain regulatory approval for, and commercialize our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the newly introduced public confidence/misinformation risk."
+  },
+  {
+   "text": "Changes in trade policies, including the imposition of tariffs, sanctions, and other trade restrictions, may adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk category around trade policy, tariffs, and sanctions not previously covered."
+  },
+  {
+   "text": "The U.S. and other countries in which our products are sourced or sold, or we or our customers do business, may from time to time modify existing or impose new quotas, duties (including antidumping or countervailing duties), tariffs, economic sanctions, export controls, or other restrictions in a manner that adversely affects us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced tariff/trade risk with specific mechanisms."
+  },
+  {
+   "text": "Such measures could limit our ability to register our products, source materials, sell products, or conduct our business in certain markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details impact of trade measures on business operations, part of new tariff risk section."
+  },
+  {
+   "text": "Current or future tariffs or other restrictive trade measures may raise the costs of raw materials, components or finished goods, which may adversely impact both our product offerings and our operational expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details cost impact of tariffs, expanding the new trade policy risk."
+  },
+  {
+   "text": "Our manufacturers, suppliers and distribution channels may also experience supply chain disruptions as a result of increased costs and uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds supply chain disruption detail to the new tariff/trade risk topic."
+  },
+  {
+   "text": "Duties are assessed based on import value.",
+   "category": "expanded_existing_risk",
+   "rationale": "Technical detail on duty assessment, part of expanding new tariff risk."
+  },
+  {
+   "text": "Each jurisdiction applies its own rules and procedures for import valuation, increasing the complexity and risk of errors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds complexity/error risk detail to the new tariff risk discussion."
+  },
+  {
+   "text": "While we maintain procedures to ensure compliance, there is no guarantee these will prevent all errors, and regulatory changes may heighten this risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on compliance risk within the new tariff/trade risk topic."
+  },
+  {
+   "text": "Additional tariffs and other trade restrictions could result in a negative perception and/or an increased cost of goods and higher prices which may reduce demand for products and services, or extended sales cycles as customers assess the impact of evolving trade policies on their operations and face increased costs or decreased revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details demand and pricing impact of tariffs, expanding the new trade risk section."
+  },
+  {
+   "text": "Tariff and other trade-related cost pressures and supply chain disruptions may lead to reputational harm if we are unable to deliver products or services on expected timelines or if any price increases are poorly received by customers or business partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds reputational harm angle to the new tariff/trade disruption risk."
+  },
+  {
+   "text": "In addition, retaliatory trade policies or anti-U.S. sentiment in certain regions whether driven by trade tensions, political disagreements or regulatory concerns may make customers, governments and investors more hesitant to engage with, purchase from or invest in U.S. companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about anti-U.S. sentiment affecting business, expanding the new trade policy risk section."
+  }
+ ]
+}

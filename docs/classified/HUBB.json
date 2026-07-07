@@ -1,0 +1,123 @@
+{
+ "ticker": "HUBB",
+ "sector": "Industrials",
+ "filing_date": "2026-02-12",
+ "accession": "0001628280-26-007500",
+ "prior_accession": "0001628280-25-005311",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Mikes 61 President, Electrical Solutions Segment Present position since July 2023; previously Division President, Hubbell Power Systems and Enterprise Operational Excellence from July 2022 to June, 2023; Division President, Hubbell Power Systems, November, from 2019 to July, 2022; various other position at Hubbell, from 1989 - November, 2019.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a biographical description of an executive's career history, not a risk factor statement."
+  },
+  {
+   "text": "Advancements in, and increased adoption of, artificial intelligence (AI), machine learning, automation, and other advanced technologies may result in a long-term competitive disadvantage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that AI/automation adoption could create a long-term competitive disadvantage for the company."
+  },
+  {
+   "text": "Although, we continuously evaluate and utilize technologies that are appropriate for our business, there can be no assurance that such technologies will result in improved operational efficiencies, cost reductions, or other anticipated benefits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about uncertainty of technology benefits, adds no specific new risk."
+  },
+  {
+   "text": "(\"Nicor\"), Power Rose Acquisition, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply defines an entity name, no risk content."
+  },
+  {
+   "text": "(and together with its subsidiaries, \"DMC Power\") and Northern Star Holdings, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Entity name definition with subsidiaries, no substantive risk content."
+  },
+  {
+   "text": "(\"Systems Control\") or those benefits may take longer to realize than expected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Tail end of an entity definition sentence, not a risk statement."
+  },
+  {
+   "text": "In addition, Hubbell is increasingly evaluating, developing, or utilizing artificial intelligence (\u201cAI\u201d), including machine learning, automation, and data\u2011driven analytics technologies, whether internally, embedded in third\u2011party software products, or integrated into customer\u2011facing solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new disclosure about the company's increasing use/development of AI technologies internally and in customer solutions, setting up new risk exposure."
+  },
+  {
+   "text": "The use of AI technologies introduces additional risks related to system reliability, data integrity, transparency, governance, and security.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on specific risk categories (reliability, data integrity, governance, security) stemming from the newly introduced AI risk."
+  },
+  {
+   "text": "AI\u2011enabled systems may also increase the Company\u2019s exposure to cybersecurity, data privacy, and intellectual property risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands the AI risk to cybersecurity, privacy, and IP exposure, building on the newly introduced AI risk theme."
+  },
+  {
+   "text": "Governments worldwide and the Organisation for Economic Co-operation and Development (\u201cOECD\u201d) continue to advance extensive changes to the taxation of multinational enterprises, including global minimum tax rules under the OECD's Pillar Two initiative to address perceived tax abuse and inconsistencies between tax jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding OECD Pillar Two global minimum tax rules affecting multinational taxation."
+  },
+  {
+   "text": "As a result, countries in which we operate are at various stages of adopting and interpreting these rules, creating, uncertainty, in the application of new requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on uncertainty from jurisdictions adopting the newly introduced Pillar Two rules."
+  },
+  {
+   "text": "As jurisdictions implement these measures potentially with retroactive effect our effective tax rate, cash taxes, and financial results could be materially impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies financial impact (effective tax rate, cash taxes) of the newly introduced Pillar Two tax risk."
+  },
+  {
+   "text": "Given the interpretive and evolving nature of tax laws, actual tax payments may differ from those currently recorded.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tax risk uncertainty introduced by the evolving tax law changes."
+  },
+  {
+   "text": "Congress and the Treasury Department regularly consider modifications to corporate taxation, including adjustments to tax rates, deductive limitations, cross-border tax provisions, and administrative guidance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds additional detail on potential U.S. tax law changes affecting the existing tax risk theme."
+  },
+  {
+   "text": "The nature and outcome of potential changes are uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that outcomes are uncertain, adds no new specific risk."
+  },
+  {
+   "text": "Tax authorities in many jurisdictions continue to intensify enforcement efforts and adopt new rules intended to counter perceived tax avoidance practices by multinational companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on tax enforcement risk as part of the broader evolving tax risk disclosure."
+  },
+  {
+   "text": "These responses may include changes to transfer\u2011pricing standards, withholding tax rules, and anti\u2011base\u2011erosion measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples (transfer pricing, withholding tax) expanding the tax enforcement risk already introduced."
+  },
+  {
+   "text": "Resulting disputes, assessments, or requirements to revise our global tax arrangements could increase our tax obligations or compliance costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential financial consequences (increased tax obligations/compliance costs) from the expanded tax risk disclosure."
+  },
+  {
+   "text": "Additionally, in 2025, the U.S. announced a series of significant new tariffs to be imposed on goods from a broad set of countries, including, but not limited to, Canada, China, Mexico, European Union member states and various other countries around the world.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new 2025 tariff actions targeting multiple countries, a new concrete trade risk."
+  },
+  {
+   "text": "Moreover, delays or other exceptions to the implementation of these new tariffs has increased, and may continue to increase uncertainty and impose obstacles to developing plans to mitigate the adverse effects of these trade actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced tariff risk by adding detail about delays and implementation uncertainty."
+  },
+  {
+   "text": "Accordingly, the recent trade actions by the U.S. and the widespread uncertainty and international tensions resulting therefrom, including, without limitation, the effect on the value of the U.S. dollar relative to other currencies, may adversely affect demand for our products, disrupt our supply chains, increase manufacturing costs and adversely affect our revenues, costs of sales and production volumes, any of which could materially and adversely harm our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates the business impact (currency, supply chain, costs) stemming from the newly introduced tariff/trade risk."
+  }
+ ]
+}

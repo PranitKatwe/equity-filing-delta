@@ -1,0 +1,108 @@
+{
+ "ticker": "NFLX",
+ "sector": "Communication Services",
+ "filing_date": "2026-01-23",
+ "accession": "0001065280-26-000034",
+ "prior_accession": "0001065280-25-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Additionally, ongoing enforcement of the Digital Markets Act in the EU and similar regulations in other territories, such as Japan, could change how we and other app developers interact with digital gatekeepers, such as Apple and Google, although we are not in scope of these regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about DMA/Japan enforcement affecting app store dynamics, an extension of existing platform/regulatory risk, though notes company is not in scope, limiting substantiveness."
+  },
+  {
+   "text": "In July 2025, in an important joint statement with the United States, the EU committed not to adopt or maintain such network usage fees, although the risk of de facto obligations remains in the EU and in certain other jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on EU network usage fee negotiations, refining an existing regulatory risk rather than introducing a new one."
+  },
+  {
+   "text": "For example, the development and use of generative AI tools remain subject to uncertain legal frameworks, and the availability of copyright and other intellectual property protection for AI-generated material is uncertain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about uncertain legal frameworks for generative AI and IP protection for AI-generated content."
+  },
+  {
+   "text": "In connection with our transaction with WBD to acquire WBD\u2019s streaming and studios businesses, including its film and television studios, HBO Max and HBO (such transaction, the \u201cWBD transaction\u201d), we expect to incur and/or assume a substantial amount of additional indebtedness, which will materially increase the amount of our outstanding indebtedness and could subject us to additional risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a major new risk tied to substantial new indebtedness from the WBD transaction."
+  },
+  {
+   "text": "We have obtained commitments from financing sources to provide up to a $42.2 billion senior unsecured bridge term loan facility, and we have entered into a $5 billion senior unsecured revolving credit facility and a $20 billion senior unsecured delayed draw term loan facility.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new financing facilities (bridge loan, revolving credit, delayed draw term loan) tied to the acquisition, a concrete new financial risk detail."
+  },
+  {
+   "text": "We may draw on such facilities or issue or obtain other debt financing to finance a portion of the cash consideration for the WBD transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how financing facilities may be used, building on the newly introduced debt risk."
+  },
+  {
+   "text": "In addition, upon completion of the WBD transaction, we expect to assume additional outstanding debt of WBD.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that additional WBD debt will be assumed, extending the indebtedness risk already introduced."
+  },
+  {
+   "text": "The terms of the indebtedness we may incur or assume in connection with the WBD transaction could vary materially and may include secured debt and/or debt with restrictive covenants that are more burdensome than those in our existing debt arrangements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on possible restrictive covenants, expanding on the debt-related risk."
+  },
+  {
+   "text": "To the extent these covenants remain in effect after closing, they could reduce the combined company\u2019s operating and financial flexibility, and the substantial indebtedness to be incurred or assumed in connection with the WBD transaction could further exacerbate the risks described above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on covenant risks and operational flexibility impact from the transaction debt."
+  },
+  {
+   "text": "Additionally, the major U.S. guild collective bargaining agreements to which the Company is a signatory each expire in 2026, with the Writers Guild of America (\u201cWGA\u201d) agreement expiring on May 1, 2026, and the Screen Actors Guild \u2013 American Federation of Television and Radio Artists (\u201cSAG-AFTRA\u201d) and Directors Guild of America (\u201cDGA\u201d) agreements both expiring on June 30, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding expiration of major union collective bargaining agreements in 2026."
+  },
+  {
+   "text": "Risk Factors Related to the WBD Transaction The WBD transaction may not be completed on the currently contemplated timeline or terms, or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk category around the WBD transaction not closing as planned."
+  },
+  {
+   "text": "Consummation of the WBD transaction is conditioned on, among other things, obtaining necessary governmental and regulatory approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details regulatory approval condition tied to the newly introduced WBD transaction risk."
+  },
+  {
+   "text": "If any of the conditions to the WBD transaction are not satisfied, it could delay or prevent the WBD transaction from occurring, which could result in Netflix\u2019s obligation to pay a $5.8 billion termination fee in certain specified circumstances.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new financial risk: a $5.8 billion termination fee if the deal fails."
+  },
+  {
+   "text": "Further, as a condition to their approval of the WBD transaction, regulatory agencies may impose requirements, limitations or costs or require divestitures or place restrictions on the conduct of WBD's streaming and studios businesses after the closing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on regulatory conditions and potential restrictions tied to the transaction risk already introduced."
+  },
+  {
+   "text": "These requirements, limitations, costs, divestitures or restrictions could jeopardize or delay the consummation of the WBD transaction, may result in a material adverse effect on WBD's streaming and studios businesses or may reduce the anticipated benefits of the WBD transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing potential adverse effects from regulatory conditions on the transaction."
+  },
+  {
+   "text": "The WBD transaction may cause our financial results to differ from expectations, we may not achieve the anticipated benefits of the WBD transaction, and the WBD transaction may disrupt our current plans or operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about failure to achieve anticipated benefits and disruption from the WBD transaction."
+  },
+  {
+   "text": "The success of the WBD transaction will depend, in part, on our ability to successfully integrate the acquired businesses and realize the anticipated benefits, including synergies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on integration risk tied to the newly introduced transaction risk."
+  },
+  {
+   "text": "Difficulties in integrating the acquired businesses may result in the failure to realize anticipated synergies in the expected timeframes, in operational challenges, and in the diversion of management\u2019s attention from ongoing business opportunities, challenges and risks, as well as in unforeseen expenses associated with the WBD transaction, which may have an adverse impact on our financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific integration challenges and expenses, expanding on the transaction risk already introduced."
+  }
+ ]
+}

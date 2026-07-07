@@ -1,0 +1,178 @@
+{
+ "ticker": "DPZ",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2021-02-25",
+ "accession": "0001193125-21-055734",
+ "prior_accession": "0001193125-20-042675",
+ "model": "claude-sonnet-5",
+ "n_added": 32,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "For a business as large and globally diverse as the Company, a wide range of factors could materially affect future developments and performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about wide range of factors affecting performance, common boilerplate language."
+  },
+  {
+   "text": "In addition to the factors affecting specific business operations identified in connection with the description of these operations and the financial results of these operations elsewhere in this report and our other filings with the SEC, we believe the most significant risk factors affecting our business include the following: Business, Operational and Industry Risks The quick service restaurant pizza category and the food service and food delivery markets in general are highly competitive and such competition could adversely affect our operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory framing sentence listing categories of risk factors; the competition statement is standard industry boilerplate, not a new specific risk."
+  },
+  {
+   "text": "Worldwide economic activity has been and is expected to continue to be adversely affected by the COVID-19 pandemic, the scale and scope of which is ultimately unknown, which could adversely affect our business, financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the COVID-19 pandemic as a new specific risk factor affecting worldwide economic activity and the company's business."
+  },
+  {
+   "text": "The global COVID-19 pandemic continues to impact worldwide economic activity.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the ongoing impact of COVID-19 already established, without adding new specifics."
+  },
+  {
+   "text": "A public health pandemic such as COVID-19 poses the risk that we and/or our employees, franchisees, supply chain centers, suppliers, customers and other partners may be, or may continue to be, prevented from conducting business activities for an indefinite period of time, including due to shutdowns, travel restrictions, social distancing requirements, stay at home orders and advisories and other restrictions that have been or may be suggested or mandated by governmental authorities, or due to the impact of the disease itself on a business\u2019 workforces.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on how the pandemic could disrupt business activities (shutdowns, travel restrictions), expanding on the general COVID risk."
+  },
+  {
+   "text": "In addition, COVID-19 may impact the willingness of customers to purchase food prepared outside of the home.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new concern about customer willingness to purchase food outside the home due to COVID."
+  },
+  {
+   "text": "The COVID-19 pandemic may also have the effect of heightening many of the other risks described throughout this report, including but not limited to those relating to our growth strategy, our supply chain and increased food and labor costs, disruption in operations, loss of key employees, our indebtedness, general economic conditions and our international operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that COVID may heighten other already-disclosed risks, without adding new specific content."
+  },
+  {
+   "text": "11 Table of Contents In response to governmental requirements, we and our franchisees have implemented a number of measures, including, among others, temporarily closing certain of our stores, modifying certain stores\u2019 hours and closing locations to in-store dining, and we continue to monitor additional developments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides concrete operational details (store closures, hour changes) that expand on the general COVID disruption risk."
+  },
+  {
+   "text": "We have also made additional operating changes in response to changes in consumer behavior and preferences resulting from COVID-19, including offering contactless delivery and carryout options to our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes specific operational changes (contactless delivery) made in response to COVID, expanding on existing risk."
+  },
+  {
+   "text": "While it is not possible at this time to estimate the full impact that COVID-19 could have on our business going forward, the continued spread of the virus and the measures taken in response have disrupted our operations and could disrupt our supply chain, including our access to face coverings for use in our operations, which could adversely impact our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about supply chain risk including access to face coverings, expanding the general COVID disruption risk."
+  },
+  {
+   "text": "The COVID-19 pandemic and mitigation measures have also had an adverse impact on global economic conditions, which could have an adverse effect on our business and financial condition.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates the adverse economic impact of COVID already described elsewhere without new specifics."
+  },
+  {
+   "text": "The Company\u2019s sales and operating results may be affected by uncertain or changing economic and market conditions arising in connection with and in response to the COVID-19 pandemic, including inflation, deflation, prolonged weak consumer demand, political instability or other changes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific economic factors like inflation, deflation, and political instability tied to COVID, expanding the risk discussion."
+  },
+  {
+   "text": "While the Company has seen an increase in sales in certain markets, including within the U.S., during the COVID-19 pandemic, including increased sales related to heightened reliance on delivery and carry-out businesses, future sales are not possible to estimate and it is unclear whether and to what extent sales will return to more normalized levels if and when consumer behavior and general economic and business activity return to pre-pandemic levels.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new information about sales increases during COVID and uncertainty about future normalization, a distinct business risk."
+  },
+  {
+   "text": "The significance of the operational and financial impact to the Company will depend on how long and widespread the disruptions caused by COVID-19, and the corresponding response to contain the virus and treat those affected by it, prove to be.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of impact duration, adds no new specific risk."
+  },
+  {
+   "text": "Additionally, we have an equity investment in Dash Brands Ltd.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific equity investment (Dash Brands) representing a new financial exposure."
+  },
+  {
+   "text": "(\u201cDash Brands\u201d), as further discussed elsewhere in this report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply provides the short name reference for Dash Brands, no substantive content."
+  },
+  {
+   "text": "Through its subsidiaries, Dash Brands serves as the Company\u2019s master franchisee in China that owns and operates Domino\u2019s Pizza stores in that market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive factual statement about Dash Brands' role, not a risk statement itself."
+  },
+  {
+   "text": "These types of investments are inherently risky.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate statement that investments carry risk."
+  },
+  {
+   "text": "If Dash Brands does not succeed or is unable to successfully execute its growth strategy, we may be forced to record impairment charges and could lose some or all of our investment.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a concrete financial risk of impairment charges or loss of investment tied to Dash Brands' performance."
+  },
+  {
+   "text": "We have in the past experienced disruptions within our supply chain resulting from, among other things, capacity, volume, staffing, operational and COVID-19-related challenges and may experience such supply chain disruptions again in the future, which could adversely affect our business and operational results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on supply chain disruption risk with specific causes including COVID-19-related challenges."
+  },
+  {
+   "text": "For example, we have experienced increased volatility in prices for some ingredients during the COVID-19 pandemic, which may continue even if the pandemic recedes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of ingredient price volatility during the pandemic."
+  },
+  {
+   "text": "Federal, state and local proposals that increase minimum wage requirements or mandate other employee matters could, to the extent implemented, materially increase our labor and other costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding minimum wage increases materially raising labor costs."
+  },
+  {
+   "text": "Other risks associated with the use of social media include improper disclosure of proprietary information, exposure of personally identifiable information, fraud, hoaxes or malicious dissemination of false information.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new risks from social media use, including data exposure and fraud."
+  },
+  {
+   "text": "We could also be subject to negative impacts to our business caused by cyber incidents relating to our third-party service providers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of cyber incidents involving third-party service providers."
+  },
+  {
+   "text": "Furthermore, as a result of the COVID-19 pandemic, certain of our employees have been required to work from home.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific context (employees working from home due to COVID) that expands on general pandemic risk."
+  },
+  {
+   "text": "The significant increase in remote working, particularly for an extended period of time, could exacerbate certain risks to our business, including an increased risk of cyber incidents and improper dissemination of personal or confidential information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on cybersecurity risk by linking it to increased remote work due to COVID."
+  },
+  {
+   "text": "Federal Reserve, in conjunction with the Alternative Reference Rates Committee, a steering committee comprised of large U.S. financial institutions, is considering replacing LIBOR with a new index calculated by short-term repurchase agreements, backed by Treasury securities called the Secured Overnight Financing Rate (\u201cSOFR\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding the potential replacement of LIBOR with SOFR affecting financial arrangements."
+  },
+  {
+   "text": "The first publication of SOFR was released in April 2018.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides a factual historical detail (SOFR publication date) without new risk content."
+  },
+  {
+   "text": "Whether or not SOFR attains market traction as a LIBOR replacement remains a question and the future of LIBOR at this time is uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the LIBOR/SOFR transition risk by noting uncertainty about market adoption."
+  },
+  {
+   "text": "As of the fourth quarter of 2020, we met the leverage ratio of less than 5.0x and, in accordance with our debt agreements, did not make the previously scheduled debt payments beginning in the first quarter of 2021.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific financial condition detail about leverage ratio compliance and deferred debt payments, a new material risk."
+  },
+  {
+   "text": "On September 8, 2020, a federal district court struck down a significant portion of the final rule, and an appeal of that decision is currently pending.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal/regulatory development (court ruling and pending appeal) that could affect the business."
+  },
+  {
+   "text": "22 Table of Contents Changes in tax laws or tax policy more broadly, increases in the enacted tax rates, adverse outcomes in connection with tax audits in any jurisdiction or any change in the pronouncements relating to accounting for income taxes could also impact our financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about tax law changes affecting financial results, standard boilerplate risk language."
+  }
+ ]
+}

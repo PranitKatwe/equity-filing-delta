@@ -1,0 +1,188 @@
+{
+ "ticker": "GEHC",
+ "sector": "Health Care",
+ "filing_date": "2026-02-04",
+ "accession": "0001932393-26-000007",
+ "prior_accession": "0001932393-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 34,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not the factors, events, or contingencies have occurred in the past and instead reflect our beliefs and opinions as to the factors, events, or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about risk factor disclosures, not a substantive risk."
+  },
+  {
+   "text": "This summary of risks is intended to provide an overview of the principal risks we face and should not be considered a substitute for a review of the more detailed risk factors discussed immediately following this summary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory framing sentence for a risk summary section, no substantive content."
+  },
+  {
+   "text": "Industry and Economic Risks \u2022 We operate in highly competitive markets. \u2022 Our business is subject to the effects of global geopolitical and economic instability and public health crises. \u2022 Efforts by public and private payers to control the growth of healthcare costs may affect the price of and demand for our products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "High-level bullet list of generic risk categories already implied by standard risk factor topics."
+  },
+  {
+   "text": "Business and Operational Risks \u2022 Our business strategy could be adversely affected if we are unable to successfully complete strategic transactions or manage our collaboration, joint venture, or similar arrangements. \u2022 Our business strategy includes substantial investment in R&D, with a focus on AI, cloud, edge computing, and software offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullet list restating generic business/strategy risk topics."
+  },
+  {
+   "text": "Our business could be adversely affected by increased cybersecurity requirements, vulnerabilities, threats, and more sophisticated and targeted cybercrimes, and our inability to obtain, maintain, protect, or effectively enforce our IP rights. \u2022 If we are unable to attract or retain key talent and qualified employees or maintain relations with our employees or employee representatives, it could adversely affect our business. \u2022 Increasing attention to sustainability matters, including environmental, health, and safety (\u201cEH&S\u201d) matters, may impose additional costs and expose us to new risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullet list of generic risk topics (cybersecurity, talent, ESG) without new specifics."
+  },
+  {
+   "text": "Regulatory and Legal Risks \u2022 Our business operations are subject to extensive laws and regulations, including with regard to the development, authorization and commercialization of our products, as well as anti-corruption and anti-bribery laws, anti-kickback and false claims laws, antitrust and competition laws, privacy and information security laws, and applicable tax laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullet listing broad regulatory categories, generic and non-specific."
+  },
+  {
+   "text": "Any changes to or violations of these laws and regulations could have a material adverse effect on our business. \u2022 We are subject to laws and regulations in many jurisdictions governing government contracts, public procurement, and government reimbursements, as to which the failure to comply could adversely affect our business. \u2022 We are exposed to risks associated with potential litigation, arbitration, and governmental proceedings, including product liability claims that have been and may be brought against us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullet list of generic legal/regulatory risk topics."
+  },
+  {
+   "text": "14 Table of Contents General Risks \u2022 Our existing indebtedness, and any additional indebtedness that we may incur, could have important consequences for our business. \u2022 We have significant postretirement benefit liabilities and their actual costs and related cash flows are uncertain and could exceed current estimates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullet list restating general risk categories like indebtedness and benefit liabilities."
+  },
+  {
+   "text": "Both the U.S. and international markets have experienced and may continue to experience inflationary pressures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on inflationary pressures, an expansion of general economic risk already covered."
+  },
+  {
+   "text": "For example, during 2025, the U.S. imposed a variety of new tariffs on most imports from all countries in the world.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific factual detail about 2025 U.S. tariffs on imports, a concrete new development."
+  },
+  {
+   "text": "This in turn prompted several countries to announce tariffs on U.S. imports.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes retaliatory tariffs as a continuation of the newly introduced tariff risk."
+  },
+  {
+   "text": "While the situation continues to be fluid, tariffs materially impacted our profitability and cash flows in 2025, primarily the bilateral U.S. and Chinese tariffs and U.S. tariffs on all other global import suppliers.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses material financial impact on profitability and cash flows from tariffs, a specific quantifiable new risk."
+  },
+  {
+   "text": "Should the tariffs continue at formally communicated levels, we expect to continue to see a material impact to our financial results through the incurrence of additional costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the tariff impact already introduced."
+  },
+  {
+   "text": "Additional tariffs or other trade restrictions by the U.S. or other countries where we do significant business, or other restrictions on specific industries, such as pharmaceuticals, could further materially impact our results in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaboration on potential future tariff/trade restriction impacts."
+  },
+  {
+   "text": "We do not expect that our mitigation actions will fully offset the additional costs or other negative impacts resulting from the tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds limitation detail to the tariff mitigation risk already described."
+  },
+  {
+   "text": "In addition, current changes and uncertainties in global tariffs are causing volatility in our cost positioning in some international markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on tariff-related volatility, continuation of same risk theme."
+  },
+  {
+   "text": "For example, China has implemented volume-based procurement processes to constrain healthcare costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory detail about China's volume-based procurement affecting costs."
+  },
+  {
+   "text": "See Note 8, \"Acquisitions, Goodwill, and Other Intangible Assets\" for a discussion of the acquisitions we completed or have entered into in 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, not a risk statement itself."
+  },
+  {
+   "text": "Additionally, dispositions of non-core assets or businesses could involve difficulties in the separation of operations, services, products, and employees, the disruption of our business, and the potential loss of key employees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding disposition of non-core assets and associated operational difficulties."
+  },
+  {
+   "text": "For example, in 2025, China significantly tightened its export controls on rare earth minerals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding China's export controls on rare earth minerals."
+  },
+  {
+   "text": "Some, but not all, of these restrictions were temporarily suspended after trade negotiations with the U.S. in October 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update/continuation on the rare earth mineral export control risk just introduced."
+  },
+  {
+   "text": "For example, we rely on contract manufacturing organizations to produce certain of our molecular imaging pharmaceutical products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific reliance on contract manufacturers for molecular imaging pharmaceuticals, a new supply chain detail."
+  },
+  {
+   "text": "Failure by third-party suppliers to maintain sufficient manufacturing capacity for our products could create shortages or delay fulfilling orders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on supplier capacity risk tied to the newly disclosed manufacturing reliance."
+  },
+  {
+   "text": "We cannot guarantee that the mitigation strategies we employ will be successful or that we will be able to alter our strategies or develop new strategies if and as needed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about uncertainty of mitigation strategy success, not a new specific risk."
+  },
+  {
+   "text": "In addition, sustainability-based customer standards and tender requirements or weighting criteria, in particular in the EU, may impact our ability to compete successfully.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding EU sustainability-based customer standards affecting competitiveness."
+  },
+  {
+   "text": "The Foreign Corrupt Practices Act (\"FCPA\"), the U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing existing legal frameworks (FCPA), no new substantive content shown."
+  },
+  {
+   "text": "In addition, U.S. regulators have adopted regulations that prohibit or restrict certain transfers of bulk U.S. sensitive personal data or U.S. government-related data to specified countries of concern or to entities and individuals that reside in or are otherwise associated with a country of concern.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new U.S. regulations restricting transfers of sensitive data to certain countries."
+  },
+  {
+   "text": "We are subject to periodic tax audits by tax authorities and we may have liability in connection with tax audits of GE for periods prior to the Spin-Off.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific tax audit liability risk tied to prior Spin-Off, a new specific legal exposure."
+  },
+  {
+   "text": "In 2025, the U.S. administration began efforts to reduce federal spending and the size of the federal workforce.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific development regarding federal spending and workforce reduction efforts."
+  },
+  {
+   "text": "These and similar spending reductions could result in contract terminations, delays, and cancellations of new procurements, and reductions in price and contract scope.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of the federal spending reduction risk just introduced."
+  },
+  {
+   "text": "In January 2025, an executive order was issued requiring U.S. federal contractors to certify that they do not operate any programs promoting diversity, equity, and inclusion that violate any applicable federal anti-discrimination laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new executive order requiring DEI-related certifications for federal contractors."
+  },
+  {
+   "text": "Additionally, various U.S. federal and state government agencies and departments may initiate legal proceedings asserting our actions or programs violate civil rights laws or other similar federal or state orders, laws, or regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on legal proceeding risk tied to the newly introduced DEI certification requirement."
+  },
+  {
+   "text": "A violation of these or similar federal or state orders, laws, or regulations may expose us to penalties and sanctions discussed above and jeopardize our ability to continue to do work with the U.S. federal government and certain state governments, which may adversely affect our future results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates consequences (penalties, loss of contracts) from the same DEI-related risk."
+  },
+  {
+   "text": "We have significant postretirement benefit liabilities, including pension, healthcare, and life insurance benefit obligations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing postretirement benefit liability risk already mentioned elsewhere in the filing."
+  }
+ ]
+}

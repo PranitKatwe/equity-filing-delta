@@ -1,0 +1,213 @@
+{
+ "ticker": "LMT",
+ "sector": "Industrials",
+ "filing_date": "2026-01-29",
+ "accession": "0001628280-26-004195",
+ "prior_accession": "0000936468-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 39,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "Army to design, develop and build hypersonic strike weapons.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply describes a program/customer relationship without articulating a risk."
+  },
+  {
+   "text": "Navy, and Australia's Joint Air Battle Management System (AIR 6500).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Program/customer name listing, factual description not a risk statement."
+  },
+  {
+   "text": "Effective January 2026, the IWSS and C6ISR lines of business within RMS were restructured and renamed Sensors, Effectors & Mission Systems (SEMS) and Mission Integrated Command and Control (MIC2).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal organizational renaming/restructuring, not a risk to the business."
+  },
+  {
+   "text": "This includes realignment of various programs, such as Aegis and RCD moving from what was historically IWSS to MIC2, which more closely aligns with C6ISR.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of organizational restructuring description, no risk articulated."
+  },
+  {
+   "text": "SEMS and MIC2 will therefore incorporate an updated mix of existing program portfolios designed to accelerate mission\u2011focused solutions and enhance our customers\u2019 experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes intended benefits of restructuring, not a risk."
+  },
+  {
+   "text": "Our human capital management strategy, which we refer to as our people strategy, tightly aligns to our business needs and technology strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about human capital strategy alignment, no specific risk."
+  },
+  {
+   "text": "During 2025, we hired nearly 10,800 new employees into Lockheed Martin, nearly 1,500 of which were college hires.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual hiring statistics, not a risk statement."
+  },
+  {
+   "text": "In addition to the 10,800, we created internship opportunities for an additional 2,000 students.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual internship statistics, not a risk statement."
+  },
+  {
+   "text": "We may face similar risks for other complex and technologically advanced programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing program-risk discussion to other complex programs generally."
+  },
+  {
+   "text": "The President has issued multiple Executive Orders (EOs), including two that are intended to (i) simplify and accelerate the procurement process through an overhaul of the FAR and (ii) modernize the defense acquisition process by promoting commercial solutions, use of innovative acquisition authorities, and other existing streamlined processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk from Executive Orders overhauling procurement processes."
+  },
+  {
+   "text": "The Secretary of War recently released the Department\u2019s Acquisition Transformation Strategy that is consistent with these EOs, and also aims to restructure the requirements process, funding authority, and reorganizes the Acquisition workforce.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new specific acquisition transformation strategy affecting requirements, funding, and workforce."
+  },
+  {
+   "text": "As part of this broader transformation, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete transitional sentence continuing prior context, no new risk content itself."
+  },
+  {
+   "text": "Government is shifting its acquisition strategy toward longer\u2011term contract structures; some contracts that were previously negotiated on an annual basis may now be executed as a multi\u2011year procurement.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific shift toward multi-year contract structures, a new contracting risk."
+  },
+  {
+   "text": "We expect a revision to the DFARS in the next several months as well.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of regulatory change discussion (DFARS revision) already introduced."
+  },
+  {
+   "text": "In addition, the President recently issued an EO that could limit certain contractors performing work under critical defense weapons, supplies, and equipment contracts from issuing excessive dividends or owner distributions, making share repurchases, and placing certain restrictions on executive compensation, as well as additional measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific EO risk limiting dividends, buybacks, and executive comp for underperforming contractors."
+  },
+  {
+   "text": "It is expected that this EO will be implemented this year through a new DFARS clause and the EO\u2019s restrictions will apply only after the DoW determines that a contractor has failed to meet identified contract performance requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides implementation detail on the EO risk already introduced."
+  },
+  {
+   "text": "While the applicability and full impact of these initiatives on our business is uncertain, we are adapting to meet the changes in U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about uncertainty and adaptation."
+  },
+  {
+   "text": "Government buying behaviors and expectations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of generic adaptation statement."
+  },
+  {
+   "text": "From time to time, we perform work under a UCA with the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "References existing UCA risk context, providing additional framing."
+  },
+  {
+   "text": "We are facing increased competition from new entrants, startups and non-traditional defense contractors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk from non-traditional defense contractors and startups."
+  },
+  {
+   "text": "Additionally, the DoW has proposed broad-reaching acquisition reforms that, if enacted, could impact our business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk from proposed broad acquisition reforms by DoW."
+  },
+  {
+   "text": "Our ability to invest, or attract investment, to fund increased production to meet anticipated demand, and our ability to earn returns on those investments, is subject to government policies and priorities and our ability to perform, the impacts of which could impact our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk regarding investment and government policy dependency."
+  },
+  {
+   "text": "Government actions relating to rare earth minerals that are used in certain of our products, including U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding rare earth mineral sourcing and export controls."
+  },
+  {
+   "text": "Government sourcing prohibitions on the import of such minerals and the imposition of export controls on such minerals by China, have 15 Table of Contents raised concerns about supply availability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on rare earth supply risk already raised."
+  },
+  {
+   "text": "The rare earth supply chain continues to be vulnerable to disruption due to increasing scarcity and constrained capacity, and we are developing and executing mitigation plans designed to safeguard supply and meet future delivery commitments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on rare earth supply chain vulnerability and mitigation."
+  },
+  {
+   "text": "We believe we will continue to meet our production and delivery commitments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reassuring statement about meeting commitments, not a new risk."
+  },
+  {
+   "text": "Certain materials and component parts that go into making our products are imported into the U.S. and are subject to tariffs, sanctions, embargoes, export and import controls, and other trade restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding tariffs, sanctions, and trade restrictions on imported materials."
+  },
+  {
+   "text": "Government has increased, expanded, or imposed new tariffs on goods imported from various countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation detailing tariff increases already introduced as a risk."
+  },
+  {
+   "text": "We also export certain products to other countries, and several countries have increased or imposed additional tariffs in response to U.S. tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends tariff risk to exports and retaliatory tariffs."
+  },
+  {
+   "text": "The tariff environment has been dynamic in 2025, with changes occurring on an ongoing basis, and it is possible that additional developments will occur in the future, including as a result of negotiations between the U.S. and trade partners and legal challenges to the tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on dynamic nature of tariff risk already introduced."
+  },
+  {
+   "text": "At this time, excluding the near-term cash flow impact, we do not believe that the tariffs announced by the U.S. or actions taken in response to these tariffs by other countries will have a material adverse effect upon our results of operation or financial condition over the long term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reassuring statement minimizing tariff impact, not a new risk."
+  },
+  {
+   "text": "The actual impact of the tariffs is subject to a number of factors including the effective date and duration of such tariffs, changes in the amount, scope and nature of the tariffs, any countermeasures that the target countries may take, the result of negotiations between the U.S. and trade partners, how our Tier 1 and Tier 2 suppliers react, possible substitution effects, possible duty-free entry entitlements, the outcome of any legal challenges, and any mitigating actions that may become available.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details factors affecting tariff impact, expanding on already introduced tariff risk."
+  },
+  {
+   "text": "If we are unable to successfully mitigate these impacts, our future profits, margins and cash flows, particularly for existing fixed-price contracts, may be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential financial consequences of tariff risk already introduced."
+  },
+  {
+   "text": "Government and the international customers and the capacity and speed of the DoW\u2019s administration of requests from non-U.S. countries to convert requests to sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding DoW's capacity/speed in converting foreign sales requests."
+  },
+  {
+   "text": "Many of our employees and retirees participate in defined benefit pension plans.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a known fact about pension plan participation, standard risk factor framing."
+  },
+  {
+   "text": "Additionally, because allowable pension costs are included in the price of our products and services, those costs can affect our affordability and competitiveness.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on pension cost risk by linking to affordability and competitiveness."
+  },
+  {
+   "text": "20 Table of Contents Changes in tax laws and regulations and interpretations or exposure to additional tax liabilities could adversely affect our financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading-style statement about tax law risk, standard boilerplate."
+  },
+  {
+   "text": "We are subject to income and other taxes in the U.S. and foreign jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to taxes, no new specifics."
+  },
+  {
+   "text": "Dividend payments and share repurchases may also be impacted by the implementation of presidential executive orders.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk that dividends/buybacks could be impacted by executive orders."
+  }
+ ]
+}

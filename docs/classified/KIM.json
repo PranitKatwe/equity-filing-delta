@@ -1,0 +1,83 @@
+{
+ "ticker": "KIM",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-20",
+ "accession": "0001193125-26-060760",
+ "prior_accession": "0000950170-25-024723",
+ "model": "claude-sonnet-5",
+ "n_added": 13,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "In addition to base salary, many of our associates participate in an annual bonus plan and receive annual equity awards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard compensation practices (bonus plans, equity awards) without identifying any specific risk to the business."
+  },
+  {
+   "text": "The Company is required under generally accepted accounting principles in the United States of America (\u201cGAAP\u201d) to provide allowances for credit losses, under the current expected credit loss model (\u201cCECL\u201d), on certain financial assets carried at amortized cost, such as loans held-for-investment and held-to-maturity debt securities, including related future funding commitments and accrued interest receivable.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed explanation of the CECL accounting requirement, elaborating on the existing credit loss allowance risk rather than introducing a new one."
+  },
+  {
+   "text": "The measurement of expected credit losses is based on information about past events, including historical experience, current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amount.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains how expected credit losses are measured, adding detail to the existing CECL-related risk discussion."
+  },
+  {
+   "text": "This measurement takes place at the time the financial asset is first added to the balance sheet and updated quarterly thereafter.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail about timing of loss measurement, part of the same expanded CECL risk narrative."
+  },
+  {
+   "text": "This differs significantly from the \u201cincurred loss\u201d model previously required under GAAP, which delayed recognition until it was probable a loss had been incurred.",
+   "category": "expanded_existing_risk",
+   "rationale": "Contrasts CECL with the prior incurred loss model to explain why the existing credit loss risk is now more pronounced."
+  },
+  {
+   "text": "The CECL model has affected, and will continue to affect, how we determine our credit loss provision and has required us, and could continue to require us, to significantly increase our allowance for credit losses and recognize provisions for credit losses earlier in the lending cycle.",
+   "category": "expanded_existing_risk",
+   "rationale": "States that CECL has and could continue to require significant increases in credit loss allowances, expanding on the pre-existing credit risk disclosure."
+  },
+  {
+   "text": "Moreover, the CECL model creates more volatility in the level of our credit loss provisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that CECL increases volatility in credit loss provisions, further elaborating the same underlying risk."
+  },
+  {
+   "text": "If we are required to materially increase our future level of credit loss allowances for any reason, such increase could adversely affect our business, results of operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the potential adverse impact of increased credit loss allowances, a natural extension of the existing CECL risk discussion."
+  },
+  {
+   "text": "For example, scanning tools deployed in our IT environment allows us to identify and track certain known security vulnerabilities, but we cannot guarantee that patches or mitigating measures will be applied before vulnerabilities can be exploited by a threat actor.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new detail about vulnerability scanning limitations and potential exploitation before patches are applied, a concrete new cybersecurity risk detail."
+  },
+  {
+   "text": "Although none of these incidents materially impacted the Company, we cannot guarantee that material incidents will not occur in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that past incidents were immaterial but future incidents cannot be guaranteed to be avoided, typical risk factor hedging language."
+  },
+  {
+   "text": "We continue to evaluate our strategy and goals and may choose to update our targets and goals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evaluating and updating strategy/goals, not tied to any specific risk."
+  },
+  {
+   "text": "We cannot assure you that we will be able to obtain additional debt or equity financing in the future or that we will be able to obtain financing on terms favorable to us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about uncertainty in obtaining financing, common boilerplate risk disclosure without new specifics."
+  },
+  {
+   "text": "The OBBBA, enacted on July 4, 2025, permanently extends the 20% deduction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legislative development (OBBBA enacted July 4, 2025) affecting tax deductions, a new factual and potentially material risk-related detail."
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "ticker": "WSM",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-26",
+ "accession": "0000719955-26-000059",
+ "prior_accession": "0001628280-25-015037",
+ "model": "claude-sonnet-5",
+ "n_added": 36,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "We and our brands may also use LinkedIn as a means of disclosing information about Williams-Sonoma and for complying with disclosure obligations under Regulation FD.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes use of LinkedIn for disclosure/Reg FD compliance; informational, not a risk statement."
+  },
+  {
+   "text": "Our dependence on these providers subjects us to certain risks which has caused, and could continue to cause, restrictions in shipping capacity and a related increase in costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that dependence on shipping providers has caused and could continue to cause capacity restrictions and cost increases, expanding an existing supply-chain risk."
+  },
+  {
+   "text": "Due to these factors, transportation companies, including ocean and rail freight and trucking, have struggled and may continue to struggle to operate profitably, further restricting shipping capacity and resulting in increased fulfillment expenses and delayed fulfillment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on transportation companies struggling to operate profitably, expanding the shipping/logistics risk."
+  },
+  {
+   "text": "Any such increased cost or delay in fulfillment could negatively impact the results of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that increased costs or delays could negatively impact business, a standard consequence framing."
+  },
+  {
+   "text": "Our industry is highly competitive and we face increased competition based on a number of factors that could negatively impact our sales.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive-industry framing without new specifics."
+  },
+  {
+   "text": "Separately, there is increased scrutiny of companies\u2019 sustainability initiatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk topic: increased scrutiny of sustainability initiatives."
+  },
+  {
+   "text": "Such perception of our sustainability initiatives, whether due to perceived over or under pursuit of such initiatives, may likewise result in criticism as well as potential litigation or other adverse impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the newly introduced sustainability scrutiny risk by adding potential litigation and reputational consequences."
+  },
+  {
+   "text": "In addition, changes to algorithms, pricing models, data access or other policies of key digital platforms on which we rely could adversely affect traffic, conversion, customer acquisition costs or overall marketing efficiency.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of changes to digital platform algorithms/policies affecting marketing efficiency."
+  },
+  {
+   "text": "In addition, our use of new and evolving AI solutions, including solutions that drive web traffic and personalize search results, may alter the effectiveness of our advertising efforts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding AI's effect on advertising effectiveness."
+  },
+  {
+   "text": "Generative AI may also enable the infringement of our intellectual property rights to proliferate, which may materially increase our legal costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of generative AI enabling IP infringement and increasing legal costs."
+  },
+  {
+   "text": "If we rely on generative AI to create key work product, it could also limit the degree to which we can assert intellectual property rights in such work product.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the generative AI/IP risk introduced in the prior sentence."
+  },
+  {
+   "text": "In some cases, we rely on a single supplier or a limited number of suppliers for such services, and transitioning to alternative providers may be difficult, costly, time-consuming or not feasible.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about reliance on single/limited suppliers and difficulty transitioning, expanding supply chain risk."
+  },
+  {
+   "text": "We are also subject to risks associated with our reliance on third-party technology providers, including cloud-based and software-as-a-service providers, for access to our systems and the accuracy and security of the their functionality.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding reliance on third-party cloud/SaaS technology providers for systems access and security."
+  },
+  {
+   "text": "System upgrades, migrations or integrations may increase our exposure to cybersecurity risks or service interruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the technology provider risk by noting system upgrades/migrations may increase cybersecurity exposure."
+  },
+  {
+   "text": "These efforts may require significant management attention, investment in talent and systems, and extended transition periods, and may cause disruptions in our business or result in increased costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about management attention and costs without specific new risk."
+  },
+  {
+   "text": "The operation and growth of our business may be harmed if we are unable to retain key associates, attract qualified personnel and manage employment-related costs.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard talent retention risk language, a common boilerplate restated."
+  },
+  {
+   "text": "Further, if we fail to offer competitive wages or benefits, or to manage our workforce effectively, our ability to attract or retain appropriate talent could be negatively impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about failing to offer competitive wages/benefits affecting talent retention."
+  },
+  {
+   "text": "Successful management of any employment-related cost is key to the growth of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement linking employment cost management to growth, no new specifics."
+  },
+  {
+   "text": "For example, in 2025, we acquired the intellectual property of Dormify and are in the process of launching it as a new brand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a concrete new business event (Dormify acquisition) and associated new brand launch risk."
+  },
+  {
+   "text": "Additionally, in the U.S. we must comply with broad state consumer privacy laws such as California\u2019s CCPA and CPRA.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory compliance risk regarding state consumer privacy laws (CCPA/CPRA)."
+  },
+  {
+   "text": "For more information about our cybersecurity risk management, governance and oversight, see \u201c It em 1C: Cybersecurity .\u201d We are undertaking certain systems changes that might disrupt our business operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of systems changes potentially disrupting business operations."
+  },
+  {
+   "text": "The operation of legacy and new systems in parallel may further increase complexity and operational risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the systems-change risk by adding complexity from running legacy and new systems in parallel."
+  },
+  {
+   "text": "Currently, many of the countries where we source raw materials and products from are subject to tariffs imposed by the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding tariffs imposed on countries where materials/products are sourced."
+  },
+  {
+   "text": "The global tariff landscape has evolved over the last few years and we expect it to continue to do so for the foreseeable future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands tariff risk by noting the evolving global tariff landscape."
+  },
+  {
+   "text": "The landscape of local, federal and international income tax laws, treaties, regulations and guidance continues to evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving tax laws without specifics."
+  },
+  {
+   "text": "For example, in the U.S., the One Big Beautiful Bill Act (\u201cOBBB\u201d) was signed into law on July 4, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax legislation (OBBB) as a concrete new risk factor."
+  },
+  {
+   "text": "The OBBB includes a broad range of tax reform provisions, including permanently extending and modifying certain 24 Table of Contents expiring provisions of the Tax Cuts and Jobs Act of 2017, and introduced significant new tax rules applicable to corporations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the OBBB's tax reform provisions, expanding the newly introduced tax law risk."
+  },
+  {
+   "text": "Certain provisions of the OBBB became effective in fiscal 2025, while the majority will take effect in future years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details timing of OBBB provisions, expanding the same risk."
+  },
+  {
+   "text": "We continue to evaluate the specific impacts of the OBBB and expect there to be further guidance and regulations issued by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about continuing to evaluate impacts, no new substantive detail."
+  },
+  {
+   "text": "Department of the Treasury that could impact our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reference to future Treasury guidance without specific new risk."
+  },
+  {
+   "text": "Although we cannot predict the full impact of these changes to our business, they could affect our business in a variety of ways, including some impacts that may benefit us and other impacts that may adversely affect our business, financial condition, results of operations or cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic hedging language about unpredictable impacts, standard boilerplate."
+  },
+  {
+   "text": "Since the Organization for Economic Co-operation and Development (\u201cOECD\u201d) announced the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting in 2021, a number of countries have begun to enact legislation to implement the OECD international tax framework, including the Pillar Two minimum tax regime.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new international tax risk regarding OECD Pillar Two minimum tax regime."
+  },
+  {
+   "text": "We may experience higher than expected operating costs, including increased employment costs, advertising spend, occupancy costs, investments in geographic expansion, costs related to our technology infrastructure and other costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific categories of operating cost increases, expanding an existing cost risk."
+  },
+  {
+   "text": "Our ability to make short-term adjustments to manage our costs or to make changes to our business strategy may be limited by contractual or logistical challenges.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about limited ability to adjust costs, standard risk framing."
+  },
+  {
+   "text": "Furthermore, significant portions of our expenses are fixed in nature and may not be reduced easily.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about fixed expenses, common boilerplate."
+  },
+  {
+   "text": "If operating costs exceed our expectations and cannot be adjusted accordingly, our anticipated profitability may be reduced and our anticipated results of operations and financial position may be materially adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about impact of exceeding cost expectations, standard boilerplate."
+  }
+ ]
+}

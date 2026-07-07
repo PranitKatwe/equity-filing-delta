@@ -1,0 +1,108 @@
+{
+ "ticker": "PLTR",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-17",
+ "accession": "0001321655-26-000011",
+ "prior_accession": "0001321655-25-000022",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Unfavorable media coverage, or media coverage that creates or enhances misconceptions or falsehoods about our business or contracts, regardless of its accuracy or the reputability of its source, may adversely affect our brand and reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding unfavorable or false media coverage harming brand and reputation, which is a distinct concern not previously described."
+  },
+  {
+   "text": "These relationships could also result in exposure to congressional, regulatory, or other government investigations or inquiries, as well as lawsuits from private parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about potential government investigations and lawsuits stemming from existing relationships, expanding on a previously implied risk area."
+  },
+  {
+   "text": "Actions we may take in response to media coverage, activism, investigations, inquiries, litigation, or to protect from security risks, may divert resources and our management\u2019s attention, increase certain operating and other expenses, and further affect our public perception.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences (resource diversion, increased expenses) tied to the newly described media/reputation risk, expanding that concept."
+  },
+  {
+   "text": "Increased development and use of AI has also led to a strain on energy resources, which could lead to increased expenses or limited availability of resources needed for our business and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about AI-driven energy strain affecting costs and resource availability, not previously mentioned."
+  },
+  {
+   "text": "There can be no assurance that the technologies and business practices we have designed will sufficiently mitigate the risks presented by the growing use of AI in our platforms and business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language stating no assurance of risk mitigation, typical hedge language without new specifics."
+  },
+  {
+   "text": "In September 2025, the CPPA finalized regulations expanding compliance obligations under the CCPA, implementing requirements for businesses to conduct risk assessments and annual cybersecurity audits, as well as consumer rights related to automated decision-making technology, with compliance deadlines phased between January 2026 and April 2030.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific regulatory detail (CPPA rules, compliance deadlines) expanding the existing privacy law compliance risk."
+  },
+  {
+   "text": "As of 2025, twenty states have enacted comprehensive consumer privacy laws, and several states have enacted significant amendments expanding coverage or enhancing enforcement authority.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates the scope of state privacy law enactments, expanding existing regulatory compliance risk with current figures."
+  },
+  {
+   "text": "An additional three states, Indiana, Kentucky, and Rhode Island, each have enacted legislation that will become effective in 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific states enacting future privacy legislation, continuing the expansion of the same regulatory risk."
+  },
+  {
+   "text": "Additionally, states have adopted other laws and regulations relating to privacy and cybersecurity such as Washington\u2019s My Health My Data Act, which includes a private right of action and applies broadly to consumer health data outside of the scope of the Health Insurance Portability and Accountability Act, and Nevada\u2019s Senate Bill No.",
+   "category": "expanded_existing_risk",
+   "rationale": "Cites specific new state laws (Washington's My Health My Data Act) that expand the existing privacy/cybersecurity regulatory risk."
+  },
+  {
+   "text": "370, which imposes similar health data privacy legislation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing state-level health data privacy laws (Nevada SB 370), expanding the same regulatory risk category."
+  },
+  {
+   "text": "The EU also implemented the Digital Operational Resilience Act (\u201cDORA\u201d), which introduces new standards for Information and Communication Technology risk management and incident reporting for financial and insurance entities, and the European Union\u2019s Data Act (the \u201cData Act\u201d) became applicable on September 12, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces specific new EU regulations (DORA, Data Act) that expand existing data/cyber regulatory compliance risk."
+  },
+  {
+   "text": "Among other things, the Data Act may affect some customers\u2019 ability to terminate service agreements with us or our competitors, and compliance with the Data Act may require us to adjust contract terms and technical measures for data portability for customers in the EU.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific business impact (customer termination rights, contract adjustments) from the newly cited Data Act, expanding that regulatory risk."
+  },
+  {
+   "text": "These changes may impact the duration of customer relationships in the EU and result in additional compliance and operational costs, which may affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on operational and cost impacts from the Data Act, continuing the expansion of the same regulatory risk."
+  },
+  {
+   "text": "Forthcoming EU regulatory developments, envisioned under the recently published European Commission\u2019s Digital Omnibus Package initiative, while aimed at streamlining regulatory obligations, may introduce further considerations or challenges for us or our customers in addressing EU digital compliance frameworks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds forward-looking regulatory consideration (Digital Omnibus Package) expanding on existing EU compliance risk discussion."
+  },
+  {
+   "text": "In December 2025, the European Commission renewed the U.K. adequacy decisions originally adopted in 2021, subject to a term of six years and set to expire in December 2031; however, it also committed to a mid-point review of the decisions after four years to evaluate ongoing adequacy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated regulatory status (UK adequacy decision renewal) relevant to existing data transfer compliance risk."
+  },
+  {
+   "text": "Many states, notably California, Utah, and Texas have signed private-sector AI governance legislation focused on various aspects of AI oversight.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding emerging state-level AI governance legislation not previously covered."
+  },
+  {
+   "text": "Furthermore, in response to trade negotiations with the United States, the Group of 7 countries (the \u201cG7\u201d) announced a joint understanding to exempt U.S.-parented multinational corporations from Pillar Two by adopting a \u201cside-by-side\u201d system between Pillar Two and the existing U.S. global minimum tax provisions, and the OECD released \u201cTax Challenges Arising from the Digitalisation of the Economy \u2013 Global Anti-Base Erosion Model Rules (Pillar Two), Side-by-Side Package: Inclusive Framework on BEPS\u201d on January 5, 2026, to this effect, which reduces the impact of Pillar Two rules on us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a development that reduces regulatory impact (tax exemption) rather than introducing or expanding a risk, functioning as informational update."
+  },
+  {
+   "text": "We continue to monitor developments and evaluate impacts, if any, of these provisions on our financial condition or results of operations in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing monitoring of developments, typical forward-looking boilerplate without new risk content."
+  }
+ ]
+}

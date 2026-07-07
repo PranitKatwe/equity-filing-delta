@@ -1,0 +1,68 @@
+{
+ "ticker": "IEX",
+ "sector": "Industrials",
+ "filing_date": "2026-02-19",
+ "accession": "0000832101-26-000003",
+ "prior_accession": "0000832101-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 10,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Similarly, to the extent any of the foregoing adversely affects the Company\u2019s customers and suppliers, it may also adversely affect the Company\u2019s financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that adverse effects on customers/suppliers could ripple to the company's financials; no new specific risk introduced."
+  },
+  {
+   "text": "In addition, the increasing use and development of AI has increased demand for AI-related projects, including data center power solutions and semiconductor applications.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new market driver (AI-related demand for data center power and semiconductor applications) not previously disclosed."
+  },
+  {
+   "text": "The growth and development of this rapidly-evolving industry is difficult to predict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about industry unpredictability with no specific detail."
+  },
+  {
+   "text": "Changes in demand can affect the timing and amounts of customer investments in our products, which could materially affect the Company and its financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how demand changes affect timing/amount of customer investments and financial results, expanding on existing demand risk."
+  },
+  {
+   "text": "The Company is exposed to fluctuations in foreign currency exchange rates arising from its global business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement introducing FX exposure topic, standard boilerplate framing for currency risk section."
+  },
+  {
+   "text": "Approximately 34% of net sales in 2025 were recorded by subsidiaries with functional currencies other than the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific quantification (34% of net sales) to the existing foreign currency exposure risk, making it more concrete."
+  },
+  {
+   "text": "Results of these subsidiaries are translated into U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual, mechanical description of translation accounting process, not a risk statement itself."
+  },
+  {
+   "text": "Dollars for reporting purposes and the strengthening of the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of the translation process description, part of standard disclosure language."
+  },
+  {
+   "text": "Dollar could result in unfavorable translation effects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies the consequence (unfavorable translation effects from USD strengthening) of the existing FX risk, adding detail."
+  },
+  {
+   "text": "In addition, certain of the Company\u2019s businesses transact in a currency other than the business\u2019s functional currency, and movements in the transaction currency as related to the functional currency could also result in unfavorable transactional exchange rate effects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a new dimension (transactional currency mismatch) to the existing foreign currency risk disclosure, expanding its scope."
+  }
+ ]
+}

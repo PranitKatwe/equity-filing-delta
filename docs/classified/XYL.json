@@ -1,0 +1,188 @@
+{
+ "ticker": "XYL",
+ "sector": "Industrials",
+ "filing_date": "2026-02-25",
+ "accession": "0001524472-26-000012",
+ "prior_accession": "0001524472-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 34,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "It is estimated that approximately 4% of the world's electricity is used to move and transport water.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General industry statistic providing context, not a risk statement."
+  },
+  {
+   "text": "Outside of North America, nearly all of our sales are for the water market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of sales mix, not a risk."
+  },
+  {
+   "text": "Xylem Vue is a unified software analytics platform built for water utilities to manage their operations from end-to-end.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description, not a risk statement."
+  },
+  {
+   "text": "13 We have competitively differentiated approaches to talent development, with a strong focus on developing skills for strategically important capabilities, such as product management, artificial intelligence and leadership competence.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive statement about talent development strategy, not a risk."
+  },
+  {
+   "text": "For example, ongoing or escalation of conflicts in Ukraine and the Middle East, and the increasing tensions or outbreak of conflict between China and Taiwan, could further increase logistics, energy and supply costs, and potentially delay customer shipments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific geopolitical conflicts (Ukraine, Middle East, China/Taiwan) as examples to an existing supply/cost risk theme."
+  },
+  {
+   "text": "Court of Appeals for the Federal Circuit ruled that many of the tariffs imposed by the U.S. federal government under the International Emergency Economic Powers Act exceed presidential authority and therefore are invalid.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legal development regarding tariff authority being ruled invalid, a concrete new risk factor."
+  },
+  {
+   "text": "On February 20, 2026, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Part of the new tariff litigation timeline introducing specific legal risk."
+  },
+  {
+   "text": "Supreme Court affirmed that ruling.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes Supreme Court affirming tariff ruling, a new specific legal/regulatory risk."
+  },
+  {
+   "text": "As of the date of this filing, tariffs issued under the different statutes remain in place, and the scope and durability of existing and future tariffs, as well as tariffs in place prior to the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Details ongoing uncertainty about tariff scope and durability, a new specific business risk."
+  },
+  {
+   "text": "Supreme Court\u2019s ruling, remain uncertain.",
+   "category": "new_substantive_risk",
+   "rationale": "Continues describing tariff uncertainty stemming from the Supreme Court ruling, a new specific risk."
+  },
+  {
+   "text": "Competitors may develop and commercialize new technologies, such as AI, more effectively to drive internal efficiencies or create new or enhanced products or services that may adversely affect our competitiveness.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI-driven competitive risk not previously described."
+  },
+  {
+   "text": "Customers may be slow to adopt new solutions and technologies, delaying returns on our innovation investments and impacting our growth.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of slow customer adoption of new technology impacting growth."
+  },
+  {
+   "text": "Pricing pressures, tariffs, procurement policies, and disruptive or emerging technologies, such as AI, may require price adjustments or rationalization of certain of our offerings and affect our profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds AI and tariffs as new factors to existing pricing pressure risk."
+  },
+  {
+   "text": "Cybersecurity and other IT disruption risks may increase during integration or separation of businesses or during the provision of transition services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific cybersecurity risk tied to M&A integration/separation activities."
+  },
+  {
+   "text": "Additionally, application upgrades and software implementations, such as the launch of our Enterprise Resource Planning software, may increase our exposure to such risks as upgrades may have undiscovered vulnerabilities or provide threat actors with new avenues of attack.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific example (ERP software launch) to existing cybersecurity vulnerability risk."
+  },
+  {
+   "text": "As technology, including generative AI models, continue to evolve, such incidents may occur more frequently, affect a broader range of devices, and grow in sophistication, with threat actors leveraging these technologies to develop new attack methods that are increasingly automated, targeted, coordinated and difficult to defend against.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cyberattack risk with AI-driven attack sophistication details."
+  },
+  {
+   "text": "Additionally, it may take considerable time for us to investigate and evaluate the full impact of cybersecurity incidents, particularly for sophisticated attacks, which may inhibit our ability to provide prompt, full, and reliable information about an incident to our investors, customers, regulators, and the public.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about delayed incident investigation to existing cybersecurity risk disclosure."
+  },
+  {
+   "text": "We also have significant direct and indirect suppliers in China, Taiwan, Mexico and Europe.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific supplier geographic concentration risk (China, Taiwan, Mexico, Europe) not previously disclosed."
+  },
+  {
+   "text": "Emerging contaminants, such as PFAS, PFOA, selenium, microplastics, chemicals, or pathogens, pose additional risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific emerging contaminants (PFAS, microplastics, etc.) as a new risk category."
+  },
+  {
+   "text": "Failure to adequately handle emerging contaminants may result in illness, death, and significant liability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced contaminants risk with consequences of failure to manage it."
+  },
+  {
+   "text": "Sustainability-related laws, regulations, targets and objectives, and stakeholder expectations expose us to numerous risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about sustainability risk exposure without specifics."
+  },
+  {
+   "text": "In support of our strategy, we have and will continue to establish goals, targets, and other objectives related to sustainability matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about setting sustainability goals, not a specific risk."
+  },
+  {
+   "text": "(federal and state-level), EU, and other countries that are uncertain, inconsistent and evolving, which may expose us to unpredictable reporting obligations or business requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about jurisdictional regulatory uncertainty to existing compliance risk."
+  },
+  {
+   "text": "Failure or perceived failure to pursue or meet our goals, targets and objectives, or comply with evolving standards could have adverse operational, reputational, financial and legal impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of failing to meet sustainability goals, expanding existing risk."
+  },
+  {
+   "text": "Our businesses are regularly examined by various tax authorities worldwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General factual statement about tax examinations, common boilerplate disclosure."
+  },
+  {
+   "text": "To conduct our business and operations, we collect, process, use, maintain, and move data across borders and are continuing to implement AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General operational description of data use and AI implementation, not a specific risk."
+  },
+  {
+   "text": "Consequently, we are subject to data privacy and cybersecurity laws, including California\u2019s Consumer Protection Act, the EU's Data Act, the EU\u2019s AI Act and GDPR, and China\u2019s PIPL.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific named data privacy/AI laws to existing compliance risk discussion."
+  },
+  {
+   "text": "Non-compliance or delays in obtaining permits could result in enforcement actions, fines, penalties, or operational restrictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about permit non-compliance consequences, standard regulatory boilerplate."
+  },
+  {
+   "text": "In addition, as discussed above, we are subject to increasing regulatory requirements around disclosures of our business\u2019 impacts on the environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General reference to increasing disclosure regulations, not a specific new risk."
+  },
+  {
+   "text": "We have in the past and could in the future incur judgments, fines or penalties, or enter into settlements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about past and potential legal settlements, standard boilerplate."
+  },
+  {
+   "text": "Regulatory determinations of non-compliance could require us to modify or cease operations at one or more facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific operational consequence (modify/cease operations) to existing regulatory compliance risk."
+  },
+  {
+   "text": "Additionally, changes in intellectual property laws or regulations could adversely affect our ability to protect our rights, and rapid technological changes may render some intellectual property less valuable or useful, reducing our competitive advantage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing IP risk discussion with details on legal changes and technological impact on IP value."
+  },
+  {
+   "text": "We periodically receive claims alleging infringement or misappropriation of third-party intellectual property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about receiving third-party IP infringement claims to existing IP risk section."
+  },
+  {
+   "text": "Furthermore, the loss or renegotiation of licenses to third-party intellectual property could disrupt our operations or increase costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on IP licensing risk consequences, expanding existing risk discussion."
+  }
+ ]
+}

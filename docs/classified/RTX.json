@@ -1,0 +1,33 @@
+{
+ "ticker": "RTX",
+ "sector": "Industrials",
+ "filing_date": "2026-02-06",
+ "accession": "0000101829-26-000006",
+ "prior_accession": "0000101829-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 3,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Department of War (DoW) (formerly referred to as the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is merely a naming/terminology update (Department of Defense renamed to Department of War) with no new risk content introduced."
+  },
+  {
+   "text": "However, the labor environment has experienced shifts that pose higher risk of future labor disruption.",
+   "category": "new_substantive_risk",
+   "rationale": "This introduces a specific new concern about shifts in the labor environment increasing the risk of future labor disruption, which was not previously disclosed."
+  },
+  {
+   "text": "In addition, pursuant to a January 7, 2026 Executive Order, the Secretary of War could seek to limit our ability to pay cash dividends or make share repurchases if the Secretary of War determines that we have underperformed or lacked sufficient prioritization of, investment in or production speed in carrying out / performing under our U.S. government contracts.",
+   "category": "new_substantive_risk",
+   "rationale": "This describes a specific, newly introduced risk tied to a named Executive Order giving the Secretary of War authority to limit dividends or share repurchases based on contract performance assessments, a concrete and material new risk to shareholders."
+  }
+ ]
+}

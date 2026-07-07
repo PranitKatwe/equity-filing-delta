@@ -1,0 +1,58 @@
+{
+ "ticker": "PH",
+ "sector": "Industrials",
+ "filing_date": "2025-08-22",
+ "accession": "0000076334-25-000035",
+ "prior_accession": "0000076334-24-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "On June 30, 2025, the Company announced that it has agreed to acquire Curtis Instruments, Inc. from Rehlko.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a specific acquisition (Curtis Instruments from Rehlko), introducing new integration, financing, and execution risks not previously disclosed."
+  },
+  {
+   "text": "Our safety goal is simple: to be the safest industrial company in the world, which we define as having the lowest annual recordable incident rate among our proxy peers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States an aspirational safety goal without describing any specific new risk to the business."
+  },
+  {
+   "text": "He was Vice President of Operations for the Motion Systems Group from July 2021 to June 2025 and Vice President of Supply Chain for the Motion Systems Group from June 2020 to June 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail about prior roles, not a risk disclosure."
+  },
+  {
+   "text": "He held General Manager roles with the Hydraulic Pump and Power Systems Division and the Accumulator and Cooler Division from March 2013 to May 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail about prior roles, not a risk disclosure."
+  },
+  {
+   "text": "Malone has been a Vice President since December 2014 and previously also held the role of President of the Filtration Group from December 2014 to June 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail about prior roles, not a risk disclosure."
+  },
+  {
+   "text": "He was Vice President of Operations for the Filtration Group from January 2013 to December 2014.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail about prior roles, not a risk disclosure."
+  },
+  {
+   "text": "In addition, our responses to mitigate the impact of these conditions, such as potential price increases, could negatively impact our market share or relationships with distributors or customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how mitigation efforts like price increases could harm market share or distributor/customer relationships, expanding on an existing risk theme rather than introducing a new one."
+  },
+  {
+   "text": "11 Table of Contents Climate change could also present risks to our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A brief, generic topic sentence noting climate change could present risks, without specific detail on operational impact."
+  }
+ ]
+}

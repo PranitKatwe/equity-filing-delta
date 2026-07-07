@@ -1,0 +1,218 @@
+{
+ "ticker": "ETR",
+ "sector": "Utilities",
+ "filing_date": "2026-02-19",
+ "accession": "0000065984-26-000174",
+ "prior_accession": "0000065984-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 20
+ },
+ "items": [
+  {
+   "text": "Winter Storm Fern In January 2026, portions of Entergy\u2019s service territory experienced the effects of Winter Storm Fern, including prolonged freezing temperatures, heavy ice accumulation, and wind, which caused severe damage to Entergy\u2019s infrastructure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new severe weather event (Winter Storm Fern) causing damage to infrastructure, not previously disclosed."
+  },
+  {
+   "text": "Entergy\u2019s preliminary estimate for the cost of mobilizing crews and restoring power is approximately $460 million to $560 million, primarily at Entergy Louisiana and Entergy Mississippi, with the majority of the costs being capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Quantifies the cost impact of the storm risk already introduced, adding specific dollar estimates."
+  },
+  {
+   "text": "There are well-established mechanisms and precedent for addressing these catastrophic events and providing the process for regulatory review of storm costs for prudence and for recovery of prudently incurred storm costs in accordance with applicable regulatory and legal principles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about established regulatory mechanisms for storm cost recovery; standard reassurance language."
+  },
+  {
+   "text": "The severe weather event also affected the market for natural gas due to the effects of severe cold on the gas supply system and increased demand for gas to support electricity loads.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific consequence of the storm - disruption to the natural gas market - not previously disclosed."
+  },
+  {
+   "text": "The Utility operating companies each have fuel recovery mechanisms in place to recover their natural gas costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States existing fuel recovery mechanisms are in place; standard operational description."
+  },
+  {
+   "text": "With the potential effect of the higher natural gas costs on customers, the Utility operating companies plan to work with their retail regulators to recover these costs in a manner that mitigates the effects on customer bills.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement of intent to work with regulators; mitigating language without new risk detail."
+  },
+  {
+   "text": "The return on construction work in progress for certain utility plant investments variance represents the revenue related to the amortization of certain customer advances designed to provide a return on investment in construction work in progress for certain utility plant investments, which is recognized as the related costs are incurred.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Financial/accounting explanation of a revenue variance, not a risk disclosure."
+  },
+  {
+   "text": "Other Income Statement Items Utility Purchased power includes an increase in 2025 of $34 million in costs, at Entergy Texas, related to the procurement of capacity through MISO\u2019s annual planning resource auction, including the effect of a significant increase in MISO\u2019s seasonal auction clearing price, due in part to the implementation of a reliability-based demand curve, for capacity transactions during the summer months.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new cost increase driven by MISO auction pricing changes affecting Entergy Texas."
+  },
+  {
+   "text": "Although Entergy Texas does not have the ability to recover its MISO capacity costs incurred to date beyond the level included in base rates, in June 2025, Texas legislation established a capacity cost recovery rider mechanism that would allow for the recovery of costs related to the procurement of capacity through MISO\u2019s annual planning resource auction outside of base rates, through a rider that is u pdated annually.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes new legislative mechanism that mitigates the previously disclosed capacity cost recovery risk."
+  },
+  {
+   "text": "Entergy Texas plans in second quarter 2026 to file for such a rider to recover future capacity procurement costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a planned administrative filing, procedural in nature."
+  },
+  {
+   "text": "See Note 2 to the financial statements for discussion of the recovery of these costs; \u2022 the expensing of $11 million at Entergy Louisiana of project costs associated with the Bayou Power Station project following Entergy Louisiana\u2019s election in third quarter 2025 to cancel the project and evaluate an alternative transmission solution.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new charge from cancellation of a power station project."
+  },
+  {
+   "text": "See \u201c MANAGEMENT\u2019S FINANCIAL DISCUSSION AND ANALYSIS - Liquidity and Capital Resources \u201d below for discussion of Entergy Louisiana\u2019s Bayou Power Station project; and \u2022 several individually insignificant items.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section discussing the same project; not new risk content."
+  },
+  {
+   "text": "See Note 2 to the financial statements for discussion of the Entergy Arkansas opportunity sales proceeding; and \u2022 a $13 million charge, recorded in third quarter 2025 at Entergy New Orleans, to reflect the write-off of retained natural gas plant assets that were not included in the sale of Entergy New Orleans\u2019s natural gas distribution business on July 1, 2025, and which will not be recovered.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new write-off charge for unrecoverable natural gas plant assets."
+  },
+  {
+   "text": "Taxes other than income taxes increased primarily due to increases in ad valorem taxes resulting from higher assessments and millage rate increases and increases in local franchise fees as a result of higher retail revenues in 2025 as compared to 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Routine explanation of tax expense variance, financial detail not risk-related."
+  },
+  {
+   "text": "The increase was partially offset by the recognition of $28 million in depreciation expense in 2024 at Entergy Texas for the 2022 base rate case relate back period, effective over six months beginning January 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Routine depreciation expense explanation, financial detail."
+  },
+  {
+   "text": "The customer rate credits agreed to in the global stipulated settlement began in September 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual note about timing of previously disclosed rate credits."
+  },
+  {
+   "text": "The increase was partially offset by a decrease of $17 million in intercompany dividend income from affiliated preferred membership interests related to storm cost securitizations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Routine financial variance explanation regarding dividend income."
+  },
+  {
+   "text": "The increase was partially offset by an increase in the allowance for borrowed funds used during construction due to higher construction work in progress in 2025, including the Orange County Advanced Power Station project, the Legend Power Station project, and the Lone Star Power Station project, each at Entergy Texas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Routine financial variance explanation regarding construction financing."
+  },
+  {
+   "text": "Other expenses decreased primarily due to decreased nuclear refueling outage expenses due to the amortization of lower costs associated with the most recent outages as compared to previous outages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Routine explanation of decreased outage expenses, financial detail."
+  },
+  {
+   "text": "Income Tax Legislation and Regulation On July 4, 2025, the One Big Beautiful Bill Act (OBBBA) was enacted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new major tax legislation (OBBBA) not previously disclosed, a new external risk factor."
+  },
+  {
+   "text": "The OBBBA is a wide ranging update to U.S. tax and spending policy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of the legislation's scope without specific risk detail."
+  },
+  {
+   "text": "In particular, the OBBBA modified and extended various clean energy tax incentives relevant to electric utilities, preserving production tax credits under Internal Revenue Code section 45U for existing nuclear facilities through 2032 and generally maintaining the existing phase-out schedule for new nuclear and battery storage under Internal Revenue Code sections 45Y (clean electricity production credit) or Internal Revenue Code section 48E (clean electricity investment credit).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on how existing tax credit risk is affected (extended incentives), expanding on the OBBBA risk."
+  },
+  {
+   "text": "The OBBBA also retained full transferability of all credits and preserved five-year modified accelerated cost recovery system treatment for eligible Internal Revenue Code section 45Y and 48E assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on preserved tax treatment under the new legislation, expanding on the OBBBA-related risk."
+  },
+  {
+   "text": "In contrast, the OBBBA significantly shortened the time period for solar and wind facilities to claim clean energy tax incentives.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific negative impact - shortened timeline for solar/wind tax credits."
+  },
+  {
+   "text": "In general, solar and wind facilities must be placed in service by December 31, 2027 to qualify for the tax credits, unless construction begins by July 3, 2026, and certain safe harbor requirements are met.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific deadline details expanding on the previously stated shortened credit period risk."
+  },
+  {
+   "text": "In addition, the OBBBA adopted new foreign entity of concern (FEOC) rules designed to deny clean energy tax incentives to all clean energy projects beginning construction after December 31, 2025 that use equipment beyond statutory guidelines from prohibited foreign entities (entities with ties to China, Russia, Iran, or North Korea).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific FEOC rules creating a new compliance/tax risk not previously disclosed."
+  },
+  {
+   "text": "The FEOC rules also deny these incentives to taxpayers that rely beyond certain thresholds on equity or debt held by or sold to specified foreign entities or that make payments to specified foreign entity counterparties under contracts or licensing agreements that give such counterparties \u201ceffective control\u201d over an eligible project.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the FEOC rule risk with additional restriction details."
+  },
+  {
+   "text": "These taxpayer FEOC rules will apply to taxpayers in their first taxable year following enactment of the OBBBA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural timing detail about rule applicability, not substantive risk."
+  },
+  {
+   "text": "On July 7, 2025, an executive order was issued directing the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual regulatory timeline detail about an executive order."
+  },
+  {
+   "text": "Treasury to issue, among other things, new safe harbor guidance, particularly with respect to wind and solar facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural detail about anticipated guidance, not a new risk."
+  },
+  {
+   "text": "On August 15, 2025, in response to the executive order, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual timeline detail about Treasury's guidance release."
+  },
+  {
+   "text": "Treasury released Notice 2025-42, which provides updated guidance regarding the beginning of construction requirements and termination of the wind and solar energy tax credits under sections 45Y and 48E.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on new Treasury guidance affecting previously disclosed tax credit risk."
+  },
+  {
+   "text": "Notice 2025-42 provides additional guidance on these safe harbor provisions, clarifying the criteria for beginning construction and offering examples of equipment and contractual terms that will qualify a project for safe harbor treatment under the OBBBA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further procedural detail about the guidance's content, not new risk substance."
+  },
+  {
+   "text": "Notice 2025-42 states that the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural note about ongoing guidance drafting."
+  },
+  {
+   "text": "Treasury and the IRS are currently drafting additional guidance to address the FEOC rules.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of procedural note about future guidance."
+  },
+  {
+   "text": "The changes in law and federal energy policy reflected in the OBBBA could have a material effect on Entergy\u2019s current and future resource planning, including particularly solar and wind resources, and on its results of operations, cash flows, or financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicit new statement that OBBBA could materially affect resource planning and financial results."
+  },
+  {
+   "text": "Entergy may not be able to realize the anticipated benefits of federal tax credits for certain of its planned solar and battery facilities to the extent that these projects do not meet the safe harbor requirements set forth in the OBBBA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the risk of losing tax credit benefits for specific projects, building on the OBBBA risk."
+  },
+  {
+   "text": "In addition, as the policy changes reflected in the OBBBA and anticipated related guidance disfavor certain renewable resource development as compared to prior law, Entergy may not be successful in achieving current or future carbon emission goals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the OBBBA risk to potential failure to meet carbon emission goals."
+  },
+  {
+   "text": "Provisions of the OBBBA may also affect customer decisions relating to major new projects in Entergy\u2019s service area, to the extent that project economics or the achievement of customer sustainability objectives are affected by the changes in the OBBBA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further extends OBBBA risk to customer project decisions, building on prior disclosure."
+  },
+  {
+   "text": "Recent announcements of changes to international trade policy and tariffs and further similar changes may impact Entergy\u2019s business, operations, results of operations, and liquidity and capital resources.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, distinct risk related to international trade policy and tariffs not previously mentioned."
+  }
+ ]
+}

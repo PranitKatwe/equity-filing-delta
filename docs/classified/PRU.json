@@ -1,0 +1,148 @@
+{
+ "ticker": "PRU",
+ "sector": "Financials",
+ "filing_date": "2026-02-12",
+ "accession": "0001137774-26-000048",
+ "prior_accession": "0001137774-25-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 26,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events, and contingencies discussed below may have occurred in the past, and the disclosures below are not representations as to whether or not the factors, events, or contingencies have occurred in the past but are provided because future occurrences of such factors, events, or contingencies could have a material adverse impact on our results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing language about disclosures, not a specific risk."
+  },
+  {
+   "text": "The magnitude of the losses (e.g., replacement costs) will depend on current market conditions, the complexity of the transaction, and the time required to restructure or replace the transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on factors affecting magnitude of losses within an existing hedging/derivatives risk discussion."
+  },
+  {
+   "text": "Policyholder behavior risk can manifest in the following ways: \u2022 Lapse calamity is the risk that lapse rates over the short-term deviate adversely from our expectations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category (policyholder lapse calamity risk) with concrete description."
+  },
+  {
+   "text": "Our mitigation efforts with respect to interest rate risk are primarily focused on maintaining an investment portfolio with diversified maturities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about mitigation strategy for an already-existing interest rate risk."
+  },
+  {
+   "text": "This is because, for financial reporting purposes, income and expenses are reported in local currency and translated into the U.S. dollar at the applicable currency exchange rate for inclusion in our financial statements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains mechanism behind currency translation risk already disclosed."
+  },
+  {
+   "text": "Therefore, if the U.S. dollar strengthens against other currencies such as the Japanese yen, our revenues reported in U.S. dollars would decline, even if there was no corresponding reduction in the health of our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific example/detail of existing foreign currency exposure risk."
+  },
+  {
+   "text": "Potential Impacts The potential adverse impacts to our business, results of operations, financial condition or liquidity due to such operational risks include, among others, the following: \u2022 Financial losses: The Company experiences a financial loss.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic listing of potential impact categories without new specific risk content."
+  },
+  {
+   "text": "These systems, and any available backups, have and may fail to operate properly or become disabled as a result of events or circumstances wholly or partly beyond our control, including cyber-attacks, denial of service, viruses or other malicious activities, power outages, hardware or software malfunctions, defects or degradation, lack of proper maintenance, human error or misuse, and similar events.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on causes of system failures within existing operational/cybersecurity risk disclosure."
+  },
+  {
+   "text": "29 Table of Contents \u2022 We rely on third parties to provide services, as described further below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple heading/reference to third-party reliance, no new substantive content."
+  },
+  {
+   "text": "AI may be misused by us or by such third parties, or the models or datasets on which the models are trained may be flawed or otherwise may function in an unexpected manner.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of AI misuse and flawed models, a new technology-related risk."
+  },
+  {
+   "text": "See \u201cBusiness \u2014 Regulation \u2014 Artificial Intelligence\u201d for a discussion of the applicable laws and regulations relating to the use of AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a risk statement."
+  },
+  {
+   "text": "Misuse of AI or external data, failure to comply with regulatory requirements, or conflicting interpretations of requirements could expose us to legal or regulatory risk, subject us to adverse regulatory examinations or audits, damage customer relationships or cause reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of AI misuse risk already introduced."
+  },
+  {
+   "text": "The risks identified above could be exacerbated by agentic AI, which, acting without supervision, could take actions harmful to the Company or our customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new, specific risk from agentic AI acting without supervision."
+  },
+  {
+   "text": "Furthermore, there has been increased scrutiny as well as enacted and proposed additional laws and regulations, including from state regulators, regarding the use of personal and confidential information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on increasing regulatory scrutiny within existing data privacy risk area."
+  },
+  {
+   "text": "These laws and regulations are increasing in complexity and number, change frequently, and may be subject to interpretation by different regulators and courts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complexity/change in laws, no new specific risk."
+  },
+  {
+   "text": "See Note 25 to the Consolidated Financial Statements and Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to financial statements section."
+  },
+  {
+   "text": "Our strategic initiatives may fail to achieve their intended results, due to inadequate execution, incorrect assumptions, global or regional economic conditions, competition, changes in the industries in which we operate or other reasons.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces risk that strategic initiatives may fail due to specific causes not previously disclosed."
+  },
+  {
+   "text": "Our ability to successfully execute on strategic transactions is subject to risks .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Heading-like statement introducing subsequent risk discussion, no substantive content itself."
+  },
+  {
+   "text": "We have in the past considered and continue to consider a range of strategic transactions, which could include acquisitions, joint venture, divestitures, spin-offs, reinsurance and other corporate transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on types of strategic transactions considered, expanding on the strategic risk theme."
+  },
+  {
+   "text": "Our strategy for long-term growth, productivity and profitability depends, in part, on our ability to successfully execute on and realize the expected benefits from these types of transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains reliance of growth strategy on transaction execution, expanding existing strategic risk."
+  },
+  {
+   "text": "Any of these types of transactions could be material, be difficult to implement, disrupt our business, or change our business profile, focus or strategy significantly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential negative outcomes of strategic transactions, expanding existing risk."
+  },
+  {
+   "text": "Failure to adapt our business model in response to these and other technological developments could have an adverse impact on our results of operations or financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces risk of failing to adapt business model to technological change, a new specific concern."
+  },
+  {
+   "text": "The following items are examples of other factors which could have an adverse impact on our business. \u2022 Current Market Conditions .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory list phrase with no specific risk content."
+  },
+  {
+   "text": "The imposition of tariffs and retaliatory actions could result in, among other things, rising interest rates, significant equity market declines, stagnant economic growth and high inflation, which could adversely impact our liquidity and capital positions, cash flows, results of operations, and financial position.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new macroeconomic risk from tariffs and retaliatory trade actions."
+  },
+  {
+   "text": "For example, the combination of stagnant economic growth and high inflation would increase investment risk, including the underperformance of investments in more leveraged companies or companies exposed to weaker consumers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides example elaborating on the newly introduced tariff/inflation risk."
+  },
+  {
+   "text": "In addition, with increasing anti-ESG regulations and sentiment, we could experience reduced revenue and reputational harm if we are targeted by government actors, private groups or influential individuals who disagree with our public positions on social or environmental issues.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of reputational/financial harm from anti-ESG backlash and targeting by advocacy groups."
+  }
+ ]
+}

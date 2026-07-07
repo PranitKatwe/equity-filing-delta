@@ -1,0 +1,123 @@
+{
+ "ticker": "CMG",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-04",
+ "accession": "0001058090-26-000009",
+ "prior_accession": "0001058090-25-000014",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Delivery aggregators and food delivery services, which provide consumers with convenient access to a broad range of competing restaurant chains and food retailers, particularly in urbanized areas, may direct potential customers to other restaurants based on paid placements, online reviews and other factors, and may form a closer relationship with our guests.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive threat: delivery aggregators diverting customers via paid placements and building closer relationships with guests."
+  },
+  {
+   "text": "If we increase our menu prices on third-party delivery platforms to cover higher delivery fees, we may not be competitive with other restaurant options offered on that platform.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new pricing/competitive risk tied to raising menu prices on third-party delivery platforms."
+  },
+  {
+   "text": "Our profitability has been and could continue to be adversely impacted by increases in labor costs, including wages and health benefits, which are some of our most significant costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Labor cost risk is a common existing risk factor; this reiterates and slightly expands the ongoing impact of wage/benefit increases."
+  },
+  {
+   "text": "We continue to invest in and utilize emerging technologies that have potential to make business tasks easier, more efficient and less labor intensive, including artificial intelligence and machine learning.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new area of risk disclosure around investment in AI and machine learning technologies."
+  },
+  {
+   "text": "These new technologies may not deliver the expected efficiencies and could expose us to new risks, including risks related to cybersecurity, data privacy, inaccuracies, hallucinations, bias or discrimination and claims of intellectual property infringement.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete new risks tied to AI adoption, including hallucinations, bias, data privacy, and IP infringement, which were not previously disclosed."
+  },
+  {
+   "text": "A cyberattack could occur and persist for an extended period of time before we detect it.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (extended undetected persistence) to the pre-existing cybersecurity risk discussion."
+  },
+  {
+   "text": "The matters could result in regulatory fines, civil actions, reputational harm, any of which could materially adversely effect on our operations, financial performance, and business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential regulatory fines and reputational harm without new specifics."
+  },
+  {
+   "text": "S everal states have adopted, and others are considering adopting, extended producer requirement (EPR) laws covering end-of-life management of packaging, which aim to reduce waste and encourage sustainable product design through fees and processing requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk from state-level Extended Producer Responsibility (EPR) packaging laws."
+  },
+  {
+   "text": "We could incur shortages of or increased costs for certain food packaging we use due to changes made by our suppliers to comply with these EPR laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a concrete new cost/supply risk stemming from supplier changes to comply with EPR laws."
+  },
+  {
+   "text": "Risks Related to Macroeconomic Conditions O u r financial condition and results of operations have been, and may continue to be, adversely affected by a number of macroeconomic and other factors, many of which are largely outside our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic introductory framing for macroeconomic risk factors section."
+  },
+  {
+   "text": "A prolonged economic downturn or slow recovery may reduce consumer spending, leading to lower demand or shifts to lower-priced options.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard restatement of the common risk that economic downturns reduce consumer spending."
+  },
+  {
+   "text": "Factors such as unemployment, inflation, interest rate changes, taxes, access to credit, public health crises, trade disputes, and geopolitical instability can all impact consumer behavior, including discretionary spending, potentially reducing demand for our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of macroeconomic factors affecting consumer behavior, typical cautionary language."
+  },
+  {
+   "text": "If economic uncertainty persists, guests may adopt lasting changes in spending habits, potentially affecting our sales, profitability, and growth plans.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates the same economic uncertainty risk in slightly different wording."
+  },
+  {
+   "text": "18 Table of Contents Our operating results have been, and will continue to be, subject to a number of other macroeconomic and other factors, many of which are largely outside our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Repeats standard macroeconomic risk framing already covered elsewhere."
+  },
+  {
+   "text": "Failure to meet market expectations for our financial performance or any announced guidance will likely adversely affect the market price and increase the volatility of our stock, and fluctuations in the stock market as a whole may also impact the market price and volatility of our stock.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic stock price volatility language tied to market expectations, a common boilerplate risk statement."
+  },
+  {
+   "text": "We have in the past failed, and may in the future fail, to meet our forecasted guidance or market expectations, which has adversely affected, and could in the future adversely affect, the market price of our stock.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific past factual event (failure to meet forecasted guidance) that materially affected stock price, a concrete new disclosure."
+  },
+  {
+   "text": "Any guidance we provide is based on certain assumptions at the time the guidance is given, which may or may not prove to be correct.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic caveat about guidance being based on assumptions, standard disclaimer language."
+  },
+  {
+   "text": "Failure to meet announced guidance or market expectations of future results, particularly with respect to our operational and financial results and shareholder returns, whether due to our assumptions not being met or the impact of various risks and uncertainties, will likely result in either or both a decline in or increased volatility in the market price of our stock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the guidance/stock price risk already introduced, adding detail about causes and effects."
+  },
+  {
+   "text": "In addition, price and volume fluctuations in the stock market as a whole may affect the market price of our stock in ways that may be unrelated to our financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about stock market fluctuations unrelated to company performance."
+  },
+  {
+   "text": "A significant or sudden decrease in our stock price could entice an activist shareholder to initiate a campaign against the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of activist shareholder campaigns triggered by stock price declines."
+  },
+  {
+   "text": "If we are the target of public activism, it could cause us to incur significant costs, including legal expenses, divert the attention of our management and Board, create uncertainty about our strategic direction and cause stock price volatility that is unrelated to our business fundamentals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced activism risk with specific cost and distraction impacts."
+  }
+ ]
+}

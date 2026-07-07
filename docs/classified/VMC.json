@@ -1,0 +1,33 @@
+{
+ "ticker": "VMC",
+ "sector": "Materials",
+ "filing_date": "2026-02-19",
+ "accession": "0001628280-26-009546",
+ "prior_accession": "0001396009-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 3,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "In addition, some stakeholders may disagree with our goals and initiatives, and the focus and views of stakeholders may change and evolve over time or vary depending on the jurisdictions in which we operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is generic cautionary language about stakeholder disagreement and evolving views, without identifying a specific, material business risk; it reads as standard ESG/stakeholder framing boilerplate."
+  },
+  {
+   "text": "We leverage these systems and data to support the performance of our business processes, to enhance accuracy and security, and to improve productivity and analytics capabilities, among other uses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This sentence merely describes how the company uses existing systems and data for business processes and productivity; it does not introduce or expand any risk."
+  },
+  {
+   "text": "Additionally, we have started to assess and use artificial intelligence (AI) technology to drive further business value.",
+   "category": "new_substantive_risk",
+   "rationale": "This introduces a new specific initiative\u2014assessing and using AI technology\u2014which is a new, concrete business development not previously disclosed and could carry associated risks not covered before."
+  }
+ ]
+}

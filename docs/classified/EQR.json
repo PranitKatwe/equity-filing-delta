@@ -1,0 +1,53 @@
+{
+ "ticker": "EQR",
+ "sector": "Real Estate",
+ "filing_date": "2022-02-17",
+ "accession": "0001564590-22-005566",
+ "prior_accession": "0001564590-21-006679",
+ "model": "claude-sonnet-5",
+ "n_added": 7,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "While the Company continues to diversify its portfolio with the addition of the expansion markets, the Company\u2019s properties are still predominantly concentrated in our established coastal markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and expands the existing geographic concentration risk by noting continued predominance in established coastal markets despite diversification efforts."
+  },
+  {
+   "text": "Land parcels acquired for development may lose significant value prior to the start of construction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding land held for development losing value before construction begins, not previously described."
+  },
+  {
+   "text": "Real estate investments often cannot be sold quickly due to regulatory constraints, market conditions or otherwise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic, commonly used cautionary statement about illiquidity of real estate investments due to regulatory or market constraints, lacking specific new detail."
+  },
+  {
+   "text": "The capitalization rates/disposition yields at which properties may be sold could also be higher than historic rates, thereby reducing our potential proceeds from sale.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about capitalization rates/disposition yields potentially exceeding historic levels, expanding on existing market/valuation risk."
+  },
+  {
+   "text": "To the extent we have commitments to, on behalf of or are dependent on any such off-balance sheet commitments, or if those commitments or their properties or leases are subject to material contingencies, our liquidity and financial condition could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk tied to off-balance sheet commitments and contingencies affecting liquidity and financial condition."
+  },
+  {
+   "text": "Higher interest rates could also result in increased capitalization rates, which may lead to reduced valuations of the Company\u2019s assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing interest rate risk by linking higher rates to increased capitalization rates and reduced asset valuations."
+  },
+  {
+   "text": "If we do not dispose of our properties through tax deferred transactions, we may be required to distribute the gain proceeds to shareholders or pay income tax.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific tax-related risk concerning non-tax-deferred property dispositions requiring distribution of gains or payment of income tax."
+  }
+ ]
+}

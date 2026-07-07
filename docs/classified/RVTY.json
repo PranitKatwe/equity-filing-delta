@@ -1,0 +1,108 @@
+{
+ "ticker": "RVTY",
+ "sector": "Health Care",
+ "filing_date": "2026-02-24",
+ "accession": "0000031791-26-000012",
+ "prior_accession": "0000031791-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "In 2025, this commitment was reflected in our Great Place to Work certifications across India, China, Poland, and the United States with Euroimmun also certified in Brazil.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes workplace certifications, a positive culture note with no risk content."
+  },
+  {
+   "text": "Our overall scores in the U.S. improved from the prior year, reflecting continued cultural momentum.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States improved employee survey scores, positive framing with no risk implication."
+  },
+  {
+   "text": "The people experience survey provides additional validation as a substantial majority of our employees report pride in working for Revvity and feel encouraged to innovate and share new ideas, a powerful indicator of shared purpose across our global workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee pride and engagement survey results, not a risk disclosure."
+  },
+  {
+   "text": "R ecently announced and proposed changes in U.S. funding and regulations have created a more cautious spending environment for our customers and could cause them to become more conservative with both instrumentation and consumable purchases due to funding and regulatory uncertainty.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: recent U.S. funding/regulatory changes causing customers to reduce instrumentation and consumable spending."
+  },
+  {
+   "text": "Uncertainties related to the development, deployment and use of AI to advance our product offerings and improve internal operations may result in harm to our business and reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around AI development/deployment harming business and reputation."
+  },
+  {
+   "text": "We are advancing AI across our product and service offerings, and we are in the initial phases of expanding AI into the core functions of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about company's AI initiatives, not itself a risk statement."
+  },
+  {
+   "text": "The development and deployment of AI presents both risks and opportunities, and the implementation process could adversely impact the operations of our business as a whole.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about AI risks/opportunities that expands on the newly introduced AI risk theme."
+  },
+  {
+   "text": "AI algorithms utilized in the deployment may be flawed or based on datasets that are biased or insufficient, and do not adequately take into account the underlying nature of our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk about flawed or biased AI algorithms affecting business operations."
+  },
+  {
+   "text": "Failure to adequately train our employees during the deployment of AI could adversely impact our business or result in delays or errors in our offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk regarding inadequate employee training during AI deployment causing delays or errors."
+  },
+  {
+   "text": "Our competitiveness could also be negatively impacted by our failure to timely develop or deploy AI in our products and services, particularly if our competitors are successful in AI advancements in their products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces competitive risk tied to failure to develop or deploy AI relative to competitors."
+  },
+  {
+   "text": "The development of AI technology will require significant investment in resources and human capital and could increase our costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on AI risk theme by noting increased costs from required investment in AI development."
+  },
+  {
+   "text": "There is uncertainty related to the legal and regulatory landscape surrounding rapidly evolving AI technologies, particularly in the areas of cybersecurity, intellectual property, and privacy and data protection.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory/legal uncertainty risk specifically tied to AI in cybersecurity, IP, and privacy."
+  },
+  {
+   "text": "Failure to comply or appropriately respond to this developing landscape may result in increased legal liability, adverse regulatory action, or reputational damage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates consequences of failing to comply with the newly described AI regulatory landscape."
+  },
+  {
+   "text": "Increasing uncertainty in the United States regarding regulation in the healthcare space could subject our business to new or modified regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of evolving U.S. healthcare regulation potentially subjecting business to new rules."
+  },
+  {
+   "text": "We cannot predict the scope, timing, or impact of threatened U.S. tariffs on imports, the extent to which other countries may impose retaliatory trade restrictions, or the terms of future trade policy changes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding unpredictable U.S. tariffs and potential retaliatory trade measures."
+  },
+  {
+   "text": "Tariffs implemented during fiscal year 2025 increased our cost of revenue by approximately $25 million and reduced our gross margin by approximately $20 million, primarily affecting products manufactured in Europe for the U.S. market.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific quantified financial impact of tariffs, expanding on the general tariff risk just introduced."
+  },
+  {
+   "text": "While we have implemented mitigation strategies including manufacturing optimization, supplier collaboration, pricing adjustments, and temporary cost measures, these actions may not fully offset the impact of existing or future tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes mitigation efforts related to the tariff risk, expanding on its management and limitations."
+  },
+  {
+   "text": "Additional tariffs or trade restrictions may materially and adversely affect our results of operations, financial condition, and competitive position.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential adverse effects of additional tariffs, continuing the tariff risk discussion."
+  }
+ ]
+}

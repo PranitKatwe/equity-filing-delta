@@ -1,0 +1,203 @@
+{
+ "ticker": "TPR",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2025-08-14",
+ "accession": "0001116132-25-000019",
+ "prior_accession": "0001116132-24-000018",
+ "model": "claude-sonnet-5",
+ "n_added": 37,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "There has been significant reform in U.S. trade policy following the change in U.S. presidential administration in January 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new context of U.S. trade policy reform under new administration, setting up new tariff-related risk."
+  },
+  {
+   "text": "International trade disputes as well as changes and uncertainty regarding international trade and trade policies, including the imposition or threat of the imposition of new or increased tariffs or other trade restrictions on goods from the countries where our manufacturers are located, could result in a materially adverse impact to our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding tariffs and trade restrictions affecting manufacturing countries."
+  },
+  {
+   "text": "During fiscal 2025, the primary manufacturers of Coach products were located in Vietnam, Cambodia, the Philippines and India, and the primary manufacturers of Kate Spade products were located in Vietnam, Cambodia, mainland China, and the Philippines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific manufacturing location details supporting the newly introduced tariff risk."
+  },
+  {
+   "text": "Increased tariffs or other trade restrictions against these countries, as well as any tariffs or other trade restrictions implemented by these countries in retaliation, could limit our ability to manufacture products in countries that have the labor and technical expertise needed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the impact of tariffs on manufacturing capability, expanding the new tariff risk."
+  },
+  {
+   "text": "Further, such tariffs or other trade restrictions could require us to absorb costs or try to pass costs onto consumers, which could materially impact our revenue and profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on tariff cost impact, expanding the same risk theme."
+  },
+  {
+   "text": "In addition, any negative perception of or sentiments towards the U.S., whether in response to changes in tariffs, trade policy or otherwise, could impact the perception of our Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific reputational risk tied to anti-U.S. sentiment from trade policy."
+  },
+  {
+   "text": "We may seek to sell one or more lines of our business in an effort to maximize shareholder value, which may adversely affect our business, our reputation, our results of operations and financial position or our stock price.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about potential divestitures of business lines affecting reputation and financials."
+  },
+  {
+   "text": "We continuously evaluate how to best structure our business in an effort to maximize shareholder value, which could include the divestiture of certain of our lines of business, such as our recently completed sale of the Stuart Weitzman Business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context and example (Stuart Weitzman sale) supporting the divestiture risk introduced above."
+  },
+  {
+   "text": "A divestiture could result in significant costs to us and is subject to numerous risks, including those listed above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details cost and risk implications of divestitures, expanding on the new risk."
+  },
+  {
+   "text": "We cannot provide any assurance that a sale of one or more lines of business will be successful or will not harm our business, our reputation, our results of operations and financial position or our stock price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the divestiture risk discussion with assurance disclaimer."
+  },
+  {
+   "text": "This may impact our ability to manage the profitability of our store locations, or cause impairments of our lease right-of-use assets if market values decline, any of which could have a material adverse effect on our financial condition or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequence (lease impairment) related to store profitability risk, expanding existing real estate risk."
+  },
+  {
+   "text": "As artificial intelligence becomes increasingly integrated into business systems, concerns about data exposure and privacy risks are intensifying.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding AI-related data privacy exposure."
+  },
+  {
+   "text": "Additionally, artificial intelligence is being used to carry out advanced social engineering attacks, increasing potential for harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of AI-enabled social engineering attacks."
+  },
+  {
+   "text": "In fiscal year 2025, the Company issued $1.50 billion of senior unsecured notes, consisting of $750.0 million aggregate principal amount of 5.100% senior unsecured notes due March 11, 2030 and $750.0 million aggregate principal amount of 5.500% senior unsecured notes due March 11, 2035.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new material debt issuance details introducing new financial obligations/risk."
+  },
+  {
+   "text": "Also in fiscal year 2025, the Company refinanced and replaced the Company's unsecured revolving facility dated May 11, 2022 22 (the \"Existing Revolving Credit Facility\") with a new revolving credit facility (the \"Amended Revolving Credit Facility\"), dated as of May 22, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details refinancing of credit facility, expanding existing debt-related risk disclosure."
+  },
+  {
+   "text": "Under the Amended Revolving Credit Facility, the Lenders have made available to the Company a $2.00 billion unsecured revolving credit facility, including sub facilities for letters of credit, with a maturity date of May 22, 2030.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specifics of new revolving credit facility terms, expanding existing financing risk."
+  },
+  {
+   "text": "Under the terms of our debt facilities, we must comply with certain restrictions limiting the Company\u2019s ability to, among other things: (i) incur certain indebtedness, (ii) create certain liens, (iii) enter into certain sale and leaseback transactions, (iv) make certain investments or payments and (v) merge, or consolidate or transfer, sell or lease all or substantially all of the Company\u2019s assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of standard debt covenant restrictions common to credit agreements."
+  },
+  {
+   "text": "Under the Amended Revolving Credit Facility, we are required to comply on a quarterly basis with a maximum net leverage ratio of 4.00:1.00, which may be increased to 4.50:1:00 following the consummation of a material acquisition, subject to certain limitations set forth in the Amended Revolving Credit Facility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies leverage ratio covenant details, expanding existing debt covenant risk."
+  },
+  {
+   "text": "In addition, our ability to access the credit and capital markets in the future as a source of funding, and the borrowing costs associated with such financing, is dependent upon market conditions and our credit rating and outlook.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about market conditions affecting future financing costs, standard risk language."
+  },
+  {
+   "text": "Treasury reached an agreement with the other G7 countries regarding the application of GloBE rules to U.S. parented multinational enterprises (\"U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tax policy development (GloBE agreement) with potential business impact."
+  },
+  {
+   "text": "Most notably, the agreement includes a full exclusion for U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on the GloBE agreement exclusion, expanding the new tax risk."
+  },
+  {
+   "text": "MNEs from the Undertaxed Profits Rule and Income Inclusion Rule, which are two of the three taxing mechanisms under GloBE.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing GloBE mechanisms relevant to the new tax risk."
+  },
+  {
+   "text": "Given that the third mechanism, QDMTT is still in force, it is unclear what impact if any this agreement will have on the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates uncertainty of tax impact, expanding the new tax risk."
+  },
+  {
+   "text": "MNEs are likewise excluded from QDMTT, the Company believes QDMTT would have a negative impact on its effective tax rate in fiscal 2026 and beyond.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies expected negative tax rate impact, expanding the new tax risk."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act (\"OBBBA\") was enacted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new legislative event (OBBBA) with potential tax implications."
+  },
+  {
+   "text": "Key income tax-related provisions of the OBBBA include the repeal of mandatory capitalization of research and development expenditures (reinstating full expensing beginning January 2025), permanent extension of 100% bonus depreciation, and revisions to international tax regimes that more closely align with the original application of Tax Cut Jobs Act of 2017.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific provisions of the new legislation, expanding the new tax risk."
+  },
+  {
+   "text": "The Company is evaluating the financial implications of the OBBBA and will begin reflecting its effects in the first quarter of fiscal 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing evaluation of new legislation's impact."
+  },
+  {
+   "text": "The Company believes this legislation will not have a material impact on its financial statements but will continue to evaluate as guidance becomes available.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that impact is not expected to be material, standard language."
+  },
+  {
+   "text": "On November 24, 2024, the Company announced that it entered into Accelerated Share Repurchase (\u201cASR\u201d) agreements to repurchase $2.00 billion shares of Tapestry common stock.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new material capital allocation action (large ASR agreement) representing new financial commitment."
+  },
+  {
+   "text": "In addition to the ASR program, the Company has $800.0 million remaining under its previous share repurchase authorization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on remaining buyback authorization tied to the new ASR disclosure."
+  },
+  {
+   "text": "On November 24, 2024, the Company announced that it entered into ASR agreements to repurchase $2.00 billion shares of Tapestry common stock.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate restatement of the ASR agreement disclosure already given in index 28."
+  },
+  {
+   "text": "In addition to the ASR program, the Company has $800.0 million remaining under its previous share repurchase authorization.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate restatement of the remaining repurchase authorization already given in index 29."
+  },
+  {
+   "text": "Our rights and the rights of our stockholders to recover claims against our directors and officers are limited, which could reduce your and our recovery against them if they cause us to incur losses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding limited stockholder recovery rights against directors/officers."
+  },
+  {
+   "text": "Maryland law provides that directors have no liability in their capacity as directors if they perform their duties in good faith, in a manner they reasonably believe to be in the best interest of the corporation and with the care that an ordinarily prudent person in a like position would use under similar circumstances.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details Maryland law basis for director liability limitation, expanding the new governance risk."
+  },
+  {
+   "text": "As permitted by the MGCL, the Company\u2019s charter limits the liability of our directors and officers to us and our stockholders for money damages, except for liability resulting from: \u2022 actual receipt of an improper benefit or profit in money, property or services; or \u2022 a final judgment based upon a finding of active and deliberate dishonesty by the director or officer that was material to the cause of action adjudicated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies charter provisions limiting liability, expanding the same governance risk."
+  },
+  {
+   "text": "Our charter authorizes us, and our bylaws obligate us, to indemnify and, without requiring a preliminary determination of the ultimate entitlement to indemnification, to pay or reimburse reasonable expenses in advance of final disposition of the proceeding to any of our directors and officers for actions taken by them in those capacities to the maximum extent permitted by Maryland law.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details indemnification obligations further expanding the governance liability risk."
+  },
+  {
+   "text": "As a result, we and our stockholders may have more limits rights against our directors and officers than might otherwise exist absent the current provisions in our charter and bylaws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Concludes the governance risk discussion by stating reduced stockholder rights, reinforcing the new risk."
+  }
+ ]
+}

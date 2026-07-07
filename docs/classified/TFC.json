@@ -1,0 +1,218 @@
+{
+ "ticker": "TFC",
+ "sector": "Financials",
+ "filing_date": "2026-02-24",
+ "accession": "0000092230-26-000030",
+ "prior_accession": "0000092230-25-000020",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 35
+ },
+ "items": [
+  {
+   "text": "Risk Factors\u201d for examples of such challenges and events.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another risk factor section, no substantive content."
+  },
+  {
+   "text": "Regulatory and Supervisory Considerations We are subject to an extensive regulatory framework that affects the products and services that we may offer and the manner in which we may offer them, the risks that we may take, the ways in which we may operate, and the corporate and financial actions that we may take, including our ability to make distributions to shareholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to regulatory framework, standard boilerplate for banks."
+  },
+  {
+   "text": "We are supervised by federal and state governmental agencies that conduct comprehensive examinations of our activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States the company is supervised by agencies conducting examinations; generic regulatory description."
+  },
+  {
+   "text": "These agencies have broad authority to enforce many of the statutes, regulations, and other laws that apply to us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about agencies' broad enforcement authority; no specific new risk."
+  },
+  {
+   "text": "If one or more of our supervisors determine that we have failed to comply with applicable law, comport with safe and sound practices, or meet supervisory expectations, they may take formal or informal enforcement actions against us or assign supervisory ratings to us that could restrict or otherwise impact our businesses or operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of possible enforcement actions for noncompliance, standard regulatory boilerplate."
+  },
+  {
+   "text": "In addition, we are subject to the rules and oversight of the self-regulatory organizations to which we belong.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about being subject to self-regulatory organizations; standard boilerplate."
+  },
+  {
+   "text": "This section describes elements of the regulatory framework that applies to us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory sentence describing the section's purpose, no substantive content."
+  },
+  {
+   "text": "These descriptions, however, are qualified in their entirety by the full text and judicial or administrative interpretations of applicable laws and may not cover possible or proposed changes to applicable laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard legal qualification language about interpretations of law."
+  },
+  {
+   "text": "Portions of these laws may be subject to ongoing or future litigation or administrative actions that may affect their scope or interpretation and their applicability to or impact on Truist.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about possible litigation affecting law interpretation; no specific new risk."
+  },
+  {
+   "text": "General Truist Financial Corporation, a BHC that has elected to be an FHC, is subject to the BHCA and consolidated regulation and supervision by the FRB.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of existing regulatory status (BHC/FHC/FRB), not a new risk."
+  },
+  {
+   "text": "Truist Bank, a North Carolina state-chartered commercial bank that is not a member of the Federal Reserve System, is subject to regulation and supervision by the NCCOB and the FDIC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of bank's existing regulatory status with NCCOB/FDIC."
+  },
+  {
+   "text": "Truist Bank and its affiliates are also subject to regulation and supervision by the CFPB in relation to certain federal consumer financial protection laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about existing CFPB oversight, standard regulatory description."
+  },
+  {
+   "text": "Truist and certain of its subsidiaries are subject to federal and state laws governing derivatives transactions, securities underwriting, market making, brokerage, and investment advisory activities and are regulated and supervised by the SEC, the CFTC, FINRA, the MSRB, and the NFA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual listing of existing regulators (SEC, CFTC, FINRA, etc.), no new risk introduced."
+  },
+  {
+   "text": "Supervisory examination topics include earnings, liquidity, sensitivity to market risk, regulatory capital, asset quality, risk management, compliance, internal controls, information technology, and management and board effectiveness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of standard examination topics, generic regulatory description."
+  },
+  {
+   "text": "Following examinations, Truist and Truist Bank are assigned supervisory ratings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement that supervisory ratings are assigned following examinations."
+  },
+  {
+   "text": "These ratings together with examination reports and findings, which are considered confidential supervisory information, can have a significant impact on our business, operations, growth, and profitability.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement that ratings can impact business, operations, and profitability - standard risk framing without new specifics."
+  },
+  {
+   "text": "6 Truist Financial Corporation Our supervisors may also impose civil money penalties or restrictions and limitations on our activities if they determine that we have failed to comply with applicable law, including by engaging in unfair, deceptive, or abusive acts or practices, or have operated in an unsafe or unsound manner.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of possible penalties for noncompliance, standard regulatory risk language."
+  },
+  {
+   "text": "The content of the regulatory framework and the intensity of supervision have in the past and are likely in the future to vary over time based on factors such as prevailing economic and political conditions, the policy preferences of relevant government agencies, the perceived performance of the financial services industry, the size of the company, and the jurisdiction in which the company is organized or operates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about regulatory intensity varying over time due to macro factors; generic framing."
+  },
+  {
+   "text": "This variation has in the recent past and may in the future be frequent and uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of generic statement about regulatory variability being frequent/uncertain."
+  },
+  {
+   "text": "Risk Factors\u201d for more information on legal, regulatory, and compliance risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, no substantive content."
+  },
+  {
+   "text": "FHC Regulation Truist has elected to be treated as an FHC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement of existing FHC election status."
+  },
+  {
+   "text": "As long as an FHC maintains its standing as an FHC, it may engage in a broader range of activities than would otherwise be permissible for a BHC, such as securities underwriting, merchant banking, and other activities that are financial in nature or incidental or complementary thereto.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing broader activities permissible for FHCs, standard regulatory description."
+  },
+  {
+   "text": "If certain conditions are met, FHCs may acquire shares of nonbank companies, with any acquisition of a nonbank company or voting shares of a nonbank company with total consolidated assets of $10 billion or more subject to the prior approval of the FRB.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing acquisition approval thresholds for FHCs, factual regulatory detail."
+  },
+  {
+   "text": "To maintain its standing as an FHC, an FHC and its IDI subsidiaries must be well-capitalized and well managed as defined by applicable law, and any IDI subsidiary must have at least a satisfactory CRA rating.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing requirements to maintain FHC status, standard regulatory description."
+  },
+  {
+   "text": "If the FRB determines that an FHC is not well-capitalized or well managed, the FRB may impose corrective capital and managerial requirements on the FHC, which could affect resources and limit amounts otherwise available to creditors and shareholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of FRB's existing corrective authority over non-compliant FHCs."
+  },
+  {
+   "text": "In such a situation, the FRB may also place limitations on the ability of an FHC to conduct certain business activities that FHCs are generally permitted to conduct as well as the FHC\u2019s ability to make certain acquisitions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of FRB's existing authority to limit FHC activities."
+  },
+  {
+   "text": "If the failure to meet these standards persists, an FHC may be required to divest its IDI subsidiaries or cease all activities other than those activities that may be conducted by BHCs that are not FHCs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of existing divestiture consequence for failing FHC standards."
+  },
+  {
+   "text": "Furthermore, if an IDI subsidiary of an FHC has not maintained a satisfactory CRA rating, the FHC would not be able to commence any new financial activities or acquire a company that engages in such activities, although the FHC would still be allowed to engage in activities that may be conducted by BHCs that are not FHCs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of existing CRA rating requirement consequences."
+  },
+  {
+   "text": "Federal law requires an FHC to act as a source of financial and managerial strength for its subsidiary IDIs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard 'source of strength' requirement description, longstanding regulatory obligation."
+  },
+  {
+   "text": "In times of severe financial stress, the obligation to serve as a source of strength could cause Truist to commit significant resources to supporting Truist Bank that otherwise would be available to Truist\u2019s creditors and shareholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk framing about source-of-strength obligation during financial stress, standard boilerplate."
+  },
+  {
+   "text": "Resolution Planning As a Category III banking organization, Truist is required to submit a plan to the FRB and the FDIC periodically for Truist\u2019s orderly resolution in the event of severe financial stress (a \u201c165(d) Resolution Plan\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of existing resolution plan requirement for Category III banks."
+  },
+  {
+   "text": "If the agencies were to determine that Truist\u2019s 165(d) Resolution Plan is not credible, they would provide a joint notice identifying one or more deficiencies that could undermine the feasibility of the plan.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of existing process for resolution plan deficiency notices."
+  },
+  {
+   "text": "If Truist were to receive such a notice and fail to timely submit a revised 165(d) Resolution Plan or adequately address the identified deficiencies, the agencies may subject Truist to formal or informal enforcement actions, including more stringent capital, leverage, or liquidity requirements or restrictions on growth, activities, or operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of existing enforcement consequences for inadequate resolution plans."
+  },
+  {
+   "text": "Truist submitted its most recent 165(d) Resolution Plan on September 30, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update of submission date for existing resolution plan requirement, purely informational."
+  },
+  {
+   "text": "The next targeted plan is due July 1, 2028.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update of next plan due date, purely informational scheduling detail."
+  },
+  {
+   "text": "In addition, as an IDI with over $50 billion in assets, Truist Bank is required to periodically submit to the FDIC a separate bank-level resolution plan (an \u201cIDI Resolution Plan\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of existing separate bank-level resolution plan requirement."
+  },
+  {
+   "text": "In 2024, the FDIC adopted a final rule that significantly modified the required frequency and informational content of IDI Resolution Plans.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new 2024 FDIC final rule that significantly modifies resolution plan frequency and content requirements, a new specific regulatory development not previously disclosed."
+  },
+  {
+   "text": "As a result of the rule, Truist Bank must submit a full IDI Resolution Plan to the FDIC every three years and an interim supplement in other years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific new detail on the frequency of full vs. interim resolution plan submissions resulting from the new rule, expanding on the newly introduced regulatory change."
+  },
+  {
+   "text": "The final rule introduced a new credibility standard for evaluating the adequacy of IDI Resolution Plan submissions, set expectations for capabilities testing, and contemplated increased engagement between IDIs and examiners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the new rule's credibility standard, capabilities testing, and increased examiner engagement, expanding the newly disclosed regulatory risk."
+  },
+  {
+   "text": "The application of the new credibility standard may require the exercise of a meaningful degree of judgment by the FDIC.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes uncertainty in how the new credibility standard will be applied, expanding on the risk introduced by the new FDIC rule."
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "ticker": "MCK",
+ "sector": "Health Care",
+ "filing_date": "2026-05-08",
+ "accession": "0000927653-26-000069",
+ "prior_accession": "0000927653-25-000036",
+ "model": "claude-sonnet-5",
+ "n_added": 33,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 4,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "The characterization of a risk as potential does not mean the risk has not occurred, is not currently occurring, or is unlikely to occur.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about how risks are characterized, not a substantive risk."
+  },
+  {
+   "text": "As described in \u201cGovernment Regulation\u201d in Item 1 of Part I above, our industry is highly regulated and subject to a regulatory framework that is continually evolving.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, generic framing."
+  },
+  {
+   "text": "In addition, certain states have enacted, and others continue to consider, legislation that would impose taxes, assessments, or similar charges on the distribution of controlled substances, including prescription opioids.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: state taxes/assessments on distribution of controlled substances."
+  },
+  {
+   "text": "Any such taxes, assessments, or other related compliance obligations could increase our costs, require changes to our distribution practices, or lead to adverse publicity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequences of the newly introduced tax/assessment risk."
+  },
+  {
+   "text": "The scope, application, and financial impact of these measures vary by jurisdiction and may be difficult to predict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about variability and unpredictability, no new specifics."
+  },
+  {
+   "text": "We are subject to extensive and frequently changing laws relating to healthcare fraud, waste, and abuse.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about healthcare fraud/waste/abuse laws, typical recurring risk framing."
+  },
+  {
+   "text": "We increasingly rely on technologies powered by or incorporating AI in our internal operations and business processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new topic of reliance on AI technologies in operations."
+  },
+  {
+   "text": "The use of AI technologies introduces risks and uncertainties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic transitional statement about AI risks and uncertainties."
+  },
+  {
+   "text": "AI can generate outputs that are false, misleading, incomplete, biased, or inconsistent.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific detail expanding on AI risk (false/misleading outputs)."
+  },
+  {
+   "text": "AI performance may degrade over time, or earlier than we planned, due to changes in inputs, data drift, updates by vendors, adversarial manipulations, and other causes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specific detail on AI performance degradation risk."
+  },
+  {
+   "text": "Our investments in AI may not yield anticipated benefits, and we might expend significant resources to maintain responsible and effective AI capabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details investment/resource risk tied to AI reliance."
+  },
+  {
+   "text": "Reliance on third-party AI tools and solutions may expose us to risks that are outside of our control, including compliance gaps.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details third-party AI reliance risk, part of broader AI risk expansion."
+  },
+  {
+   "text": "Our AI policies and safeguards may not be sufficient to protect us against negative outcomes, such as the misuse or loss of data or the compromise of our intellectual property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details AI safeguard/compliance risk, continuing AI risk expansion."
+  },
+  {
+   "text": "Any of the foregoing risks could adversely impact our reputation, our business operations, and our financial position or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement summarizing potential impact, no new content."
+  },
+  {
+   "text": "Our planned separation of Medical-Surgical Solutions is contingent upon the satisfaction of certain conditions, may not be completed on the currently contemplated terms or timeline, or at all, and, if completed, may not achieve the intended financial and strategic benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new corporate event risk: planned separation of Medical-Surgical Solutions segment."
+  },
+  {
+   "text": "The Company intends to separate the Medical-Surgical Solutions segment into an independent company (\u201cNewCo\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific corporate action (separation into NewCo)."
+  },
+  {
+   "text": "Completion of the planned separation will be subject to the satisfaction of various conditions, including, among others: the receipt of a favorable opinion from outside legal counsel as to the tax-free nature of the Exit; the effectiveness of a registration statement to be filed with the SEC; the receipt of other governmental approvals; the finalization of the NewCo capital structure; and the approval of our Board of Directors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific conditions for the separation, expanding on the new separation risk."
+  },
+  {
+   "text": "The planned separation is complex in nature, and unanticipated business, market, governmental, or other developments could delay or prevent completion of the separation or cause the separation to occur on less favorable terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on complexity and potential delay of the separation risk."
+  },
+  {
+   "text": "There can be no assurance that the separation, if completed, will achieve the intended financial and strategic benefits (which are based on a number of assumptions, some or all of which may prove incorrect) or provide greater value to our stockholders than is currently reflected in our stock price, or that the dissynergies from the separation will not be greater than expected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on uncertainty of benefits from the separation."
+  },
+  {
+   "text": "Any of these factors could negatively affect our stock price or have a materially adverse impact on our business operations and on our financial condition or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement about potential negative impact, no new specifics."
+  },
+  {
+   "text": "The Company received an opinion from outside legal counsel to the effect that the Transactions qualified as generally tax-free transactions to the Company and its stockholders for U.S. federal income tax purposes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual update related to the separation risk (tax opinion received)."
+  },
+  {
+   "text": "20 Table of Contents Item 1A Index McKESSON CORPORATION We might be adversely impacted by outsourcing or similar third-party relationships.",
+   "category": "reworded_same_meaning",
+   "rationale": "Heading-style statement about outsourcing risk, consistent with typical existing risk factor framing."
+  },
+  {
+   "text": "As described in \u201cGovernment Regulation\u201d in Item 1 of Part I above, we also face certain regulatory risks in executing our growth strategy, including potential laws that place restrictions on certain healthcare ownership structures or arrangements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory risk about restrictions on healthcare ownership structures."
+  },
+  {
+   "text": "Any of the foregoing risks might have a materially adverse impact on our business prospects and our financial position or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement, no new specifics."
+  },
+  {
+   "text": "We might be harmed by changes in our relationships or contracts with suppliers.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic heading about supplier relationship risk, typical rewording."
+  },
+  {
+   "text": "Our development and use of AI technologies may result in new or enhanced risks, including the misappropriation of proprietary and confidential inputs or infringement of third-party rights as well as uncertainties over the ownership of AI-generated outputs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific AI-related risk regarding IP misappropriation and ownership uncertainty."
+  },
+  {
+   "text": "We may experience loss of key personnel, including unexpectedly.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic heading about loss of key personnel, typical recurring risk statement."
+  },
+  {
+   "text": "As described under \u201cHealthcare Program Regulation\u201d in Item 1 of Part I above, our business is subject to a broad range of recent and ongoing reform efforts, and challenges to those efforts, that could affect healthcare program access and spending, pharmaceutical pricing and reimbursement, and distribution economics.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory reform context affecting healthcare programs and pricing."
+  },
+  {
+   "text": "These include: the IRA; the OBBBA; Executive Order 14297; CMS rulemaking on BFSFs and proposed rebate models; 340B program litigation and developments; and state drug pricing legislation.",
+   "category": "new_substantive_risk",
+   "rationale": "Lists specific new laws and regulatory developments (IRA, OBBBA, Executive Order, CMS rulemaking, 340B litigation) not previously mentioned."
+  },
+  {
+   "text": "Additionally, the pace and volume of healthcare reform initiatives and changes heighten the risks for our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about pace of reform heightening risk, no new specifics."
+  },
+  {
+   "text": "Additionally, the OBBBA introduced modifications to various U.S. federal tax provisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tax law change (OBBBA) affecting federal tax provisions."
+  },
+  {
+   "text": "While we evaluated the implications of these measures and concluded that they are not expected to have a material impact on our consolidated financial position, results of operations, or cash flows, their ultimate impact may differ from our estimates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides assessment detail on impact of the new tax law changes."
+  },
+  {
+   "text": "For example, the trade environment remains highly dynamic and uncertain, and trade policies may be interrelated with other government initiatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding dynamic trade environment and policies."
+  }
+ ]
+}

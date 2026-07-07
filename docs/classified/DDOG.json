@@ -1,0 +1,103 @@
+{
+ "ticker": "DDOG",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-18",
+ "accession": "0001628280-26-008819",
+ "prior_accession": "0001561550-25-000025",
+ "model": "claude-sonnet-5",
+ "n_added": 17,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "For instance, there is currently significant uncertainty about trade policies, treaties, tariffs and taxes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty regarding trade policy without specifics; standard cautionary framing."
+  },
+  {
+   "text": "Even in the absence of tariffs or other trade restrictions, the related uncertainty with respect to international trade may lead to continuing volatility in U.S. and global financial and economic conditions and commodity markets, declining consumer confidence, significant inflation and diminished expectations for the economy, and ultimately reduced usage and demand for our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific mechanisms (inflation, volatility, reduced demand) by which trade uncertainty could harm the business, a concrete new risk pathway."
+  },
+  {
+   "text": "Some of our customers may be subject to the EU\u2019s Digital Operational Resilience Act (DORA) and similar regulatory requirements in the United Kingdom related to operational resilience, which has led and will lead certain of our customers to negotiate additional specific provisions with us, including certain mandatory risk management, transparency and continuity provisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new regulatory regime (DORA) affecting customers and resulting contractual obligations not previously disclosed."
+  },
+  {
+   "text": "If we fail to materially comply with these contractual requirements, we may be subject to investigations, audits or other adverse consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequences of failing to meet the DORA-related contractual requirements just introduced, expanding on that new risk."
+  },
+  {
+   "text": "For example, in April 2025, we notified customers of access by an unauthorized third party to a number of Datadog source code repositories arising from compromised employee account credentials.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses an actual specific security incident involving unauthorized access to source code repositories, a concrete new event/risk."
+  },
+  {
+   "text": "After discovering the access, we revoked the credentials and terminated the unauthorized access.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the company's remediation response to the incident already disclosed, continuing the narrative rather than introducing a new risk."
+  },
+  {
+   "text": "However, such unauthorized access may increase our vulnerability to certain attacks at a later date through exploitation of our source code, including the exploitation of potential vulnerabilities in the Datadog platform or products, or information stored within the source code.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential future consequences (increased vulnerability) stemming from the previously disclosed incident."
+  },
+  {
+   "text": "These difficulties may be amplified by evolving restrictions on immigration, travel, or availability of visas for skilled technology workers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about immigration/visa restrictions amplifying existing hiring difficulty risk, without introducing a wholly new risk category."
+  },
+  {
+   "text": "Current and future restrictions on the availability of visas, increased costs of visas, or delays in the issuance of visas could impair our ability to employ skilled professionals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies how visa restrictions could impair hiring, building on the existing talent/immigration risk theme."
+  },
+  {
+   "text": "Further, countries and states are applying their data and consumer protection laws to AI technologies, and particularly generative AI and interactive chatbots.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new regulatory trend\u2014application of data/consumer protection laws to AI and generative AI/chatbots\u2014not previously mentioned."
+  },
+  {
+   "text": "Certain jurisdictions impose regulatory obligations focused on cybersecurity resilience, system availability, and incident response.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new category of regulatory obligation focused on cybersecurity resilience and incident response in certain jurisdictions."
+  },
+  {
+   "text": "For example, in the European Union, the Network and Information Security Directive (EU) 2022/2555 (\u201cNIS2\u201d), and in the United Kingdom, the Network and Information Systems Regulations 2018, establish requirements related to risk management, security incident reporting, and business continuity for certain entities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples (NIS2, UK regulations) elaborating on the newly introduced cybersecurity resilience regulatory risk."
+  },
+  {
+   "text": "Failure to comply with these frameworks may result in significant administrative fines, enforcement actions, and operational restrictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential penalties for noncompliance with the previously mentioned cybersecurity regulatory frameworks."
+  },
+  {
+   "text": "Additionally, the EU Data Act introduces new obligations related to data portability and services switching, which introduces operational complexities and infrastructure, and may increase our compliance and operational costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new law (EU Data Act) creating new compliance obligations and operational complexities."
+  },
+  {
+   "text": "On January 5, 2026, the OECD released new administrative guidance outlining a \u201cside-by-side\u201d arrangement following agreement on key elements by the OECD/G20 Inclusive Framework on Pillar Two.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific new OECD tax guidance development (Pillar Two side-by-side arrangement) not previously referenced, introducing a new tax-related risk factor."
+  },
+  {
+   "text": "We will continue to monitor these developments and pending legislation and evaluate any potential impact on our results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring developments, standard forward-looking boilerplate."
+  },
+  {
+   "text": "Any of these developments could adversely affect our results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all statement about potential adverse effects, providing no specific new information."
+  }
+ ]
+}

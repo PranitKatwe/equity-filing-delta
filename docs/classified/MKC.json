@@ -1,0 +1,113 @@
+{
+ "ticker": "MKC",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-01-22",
+ "accession": "0000063754-26-000037",
+ "prior_accession": "0000063754-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 19,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "In addition, we enter into financial hedging derivative transactions based on forecasted soybean oil purchases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about hedging soybean oil purchases, expanding existing commodity price risk disclosure."
+  },
+  {
+   "text": "8 Changes in global trade policies have impacted and may continue to impact our financial condition or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic topic sentence introducing the trade policy risk section without new substantive detail."
+  },
+  {
+   "text": "Changes in global trade policies, including tariffs, have caused inflationary pressures and higher costs on certain raw materials and imports.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific claim that tariffs have caused inflationary pressures and higher costs on raw materials and imports."
+  },
+  {
+   "text": "These actions have impacted our business through increased costs and uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reinforces the previously stated tariff risk by noting concrete impacts of increased costs and uncertainty."
+  },
+  {
+   "text": "If maintained, the tariffs, as well as related measures that have been taken and which could be taken by other countries in the future could pose a risk to our business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the tariff risk theme, restating potential business impact if tariffs persist."
+  },
+  {
+   "text": "The extent and duration of the tariffs and the resulting impact on general economic conditions and on our business are uncertain and depend on various factors, such as legal challenges to the applicability of these tariffs, negotiations between affected countries, the responses of other countries or regions, exemptions, exclusions or other relief that may be granted, availability and cost of alternative sources of supply, and demand for our products in affected markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on factors affecting the duration/extent of tariff impact, expanding existing tariff risk discussion."
+  },
+  {
+   "text": "Our attempts to offset these pressures through supply chain management initiatives and increases in the selling prices of some of our products may not be successful or may result in reductions in sales volume.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance that mitigation efforts (supply chain, pricing) may fail, expanding the tariff/cost risk."
+  },
+  {
+   "text": "To the extent that price increases are not sufficient to offset these increased costs adequately or in a timely manner, and/or if they result in significant decreases in sales volume, our business, financial condition or operating results may be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the financial consequences if price increases fail to offset costs, expanding existing risk."
+  },
+  {
+   "text": "Changes in the political conditions in markets in which we manufacture, sell or distribute our products, as well as changing geopolitical conditions, including conflicts, may be difficult to predict and may adversely affect our business and financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about political and geopolitical unpredictability without specific new facts."
+  },
+  {
+   "text": "Results of elections, referendums, sanctions or other political processes and pressures in certain markets in which our products are manufactured, sold or distributed have created and could continue to create uncertainty regarding how existing governmental policies, laws and regulations may change, including with respect to sanctions, taxes, tariffs, import and export controls and the general movement of goods, materials, services, capital, data and people between countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more specific detail on how political/geopolitical events (elections, sanctions) create regulatory uncertainty, expanding the existing risk."
+  },
+  {
+   "text": "The global economy has been negatively impacted by changing political and geopolitical conditions, including conflicts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about global economic impact from political conditions, lacking specific new risk detail."
+  },
+  {
+   "text": "Continued geopolitical conflicts have overall heightened the risk of cyberattacks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk linking geopolitical conflicts to heightened cyberattack threats."
+  },
+  {
+   "text": "Changes in global trade policies, including tariffs, have impacted and may continue to impact our financial condition or results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same trade policy risk statement as index 1 with near-identical wording."
+  },
+  {
+   "text": "We are subject to continued legislative and regulatory developments with respect to food ingredients at the state and federal levels, as well as related changes in consumer expectations and behavior.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing legislative/regulatory developments without specific new facts."
+  },
+  {
+   "text": "In April 2025, the Food and Drug Administration (FDA) called on the industry to phase out all \u201cpetroleum-based synthetic dyes\u201d from the nation\u2019s food supply, and in May 2025, the Make America Healthy Again (MAHA) Commission published an assessment report discussing factors contributing to chronic childhood disease including diet, environmental exposure, lack of physical activity and healthcare.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory actions (FDA dye phase-out, MAHA Commission report) that materially expand food ingredient regulatory risk."
+  },
+  {
+   "text": "The MAHA Commission publicly released its strategy report, setting forth certain recommendations for addressing chronic childhood disease, in September 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the previously introduced MAHA Commission risk with additional detail about its strategy report."
+  },
+  {
+   "text": "While the effects of these proposals remain uncertain at this time, changes to laws and regulations could impact our business, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertain effects of proposals, typical risk factor framing."
+  },
+  {
+   "text": "We expect there will continue to be new, and amendments to existing, laws, regulations and industry standards concerning privacy, data protection and information security proposed and enacted in the U.S. and outside of the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing privacy/data protection law changes, standard boilerplate."
+  },
+  {
+   "text": "In addition, we may be subject to additional kinds of claims in the future, including consumer class actions related to privacy and data security and the overall protection of personal data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing privacy/data security risk by adding potential for future consumer class actions."
+  }
+ ]
+}

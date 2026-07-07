@@ -1,0 +1,218 @@
+{
+ "ticker": "MU",
+ "sector": "Information Technology",
+ "filing_date": "2025-10-03",
+ "accession": "0000723125-25-000028",
+ "prior_accession": "0000723125-24-000027",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 38
+ },
+ "items": [
+  {
+   "text": "Business Segments In the fourth quarter of 2025, we reorganized our business units.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a business segment reorganization, an administrative/organizational disclosure, not a risk."
+  },
+  {
+   "text": "All prior-period segment amounts have been retrospectively adjusted to reflect this reorganization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States retrospective adjustment of prior segment data, a bookkeeping/administrative note, not a risk."
+  },
+  {
+   "text": "The majority of our NAND bit production in 2025 was on leading-edge Micron G8 and G9 NAND nodes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual production detail about NAND nodes, informational rather than a risk statement."
+  },
+  {
+   "text": "Products by Business Unit and Market Cloud Memory Business Unit (\u201cCMBU\u201d) CMBU is focused on memory solutions for large hyperscale cloud customers, and HBM for all data center customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes business unit focus/products, informational business description."
+  },
+  {
+   "text": "In addition to HBM, CMBU sales include DDR, LPDDR, and GDDR.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product mix description, not a risk statement."
+  },
+  {
+   "text": "In the fourth quarter of 2025, HBM3E 12-high represented the majority of our HBM shipments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes shipment mix of HBM3E product, informational."
+  },
+  {
+   "text": "In 2025, we delivered samples of HBM4 36GB 12-high to multiple key customers to power next-generation AI platforms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product sampling milestone, informational business update."
+  },
+  {
+   "text": "In 2025, we began volume production of LPDDR5 in a small outline compression attached memory module (\u201cSOCAMM\u201d) form factor to enable easier server manufacturability and serviceability and to help drive broader LPDDR adoption in the server market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new product form factor and market goal, informational."
+  },
+  {
+   "text": "Core Data Center Business Unit (\u201cCDBU\u201d) CDBU is focused on memory solutions for mid-tier cloud, enterprise, and OEM data center customers and storage solutions for all data center customers, including data center SSDs and NAND components.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business unit description, informational."
+  },
+  {
+   "text": "Data Center DRAM : CDBU sales to OEM data center customers are driven by server and storage demand to support mid-tier cloud and enterprise customers, and our sales consisted primarily of DDR5 and DDR4.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sales driver description, informational."
+  },
+  {
+   "text": "In 2025, we also qualified and began shipping our 6550 ION SSD, which delivers lower power while providing better performance and better data center footprint efficiency with more density per rack for data centers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new SSD product qualification, informational."
+  },
+  {
+   "text": "Both products utilized Micron\u2019s G8 NAND and internally designed and vertically integrated engineering capability consisting of a controller, firmware, NAND, and DRAM.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes technology integration of products, informational."
+  },
+  {
+   "text": "We also strengthened our portfolio with our first G9-based data center products, including our PCIe Gen6 SSDs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new product line, informational."
+  },
+  {
+   "text": "CDBU sales also included sales of our DDR5 and DRR4 and component NAND sales of QLC and TLC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sales composition detail, informational."
+  },
+  {
+   "text": "We are focused on providing solutions to the high-end smartphone segments, leveraging our 1\u00df and 1\u03b3 technology nodes for LPDDR5X.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market focus and technology, informational."
+  },
+  {
+   "text": "In 2025, we began shipping qualification samples of our first LPDDR5X memory built on the 1\u03b3 node, engineered to accelerate AI applications on flagship smartphones, and delivering a faster speed grade while reducing power consumption, all in an ultrathin form factor ideal for mobile.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new product shipping milestone, informational."
+  },
+  {
+   "text": "In 2025, we began shipping Micron G9 QLC-based NAND in client SSDs designed for OEMs featuring our proprietary Adaptive Write Technology, which enables faster write performance for improved AI-driven applications and an optimized user experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new NAND product shipment, informational."
+  },
+  {
+   "text": "MCBU sales also included component NAND sales of TLC and QLC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sales composition detail, informational."
+  },
+  {
+   "text": "In 2025, we announced the production readiness of our first automotive LPDDR5X DRAM product that supports the increasing performance requirements of AI-driven applications in vehicles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new automotive product announcement, informational."
+  },
+  {
+   "text": "Additionally, our 4150 SSD became our first enterprise SSD product that is automotive-qualified and is now sampling at target customers, further reinforcing our commitment to innovation and leadership in this important market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product qualification milestone, informational."
+  },
+  {
+   "text": "Industrial : Growing adoption of IoT devices, automation, machine-to-machine communication, and smart infrastructure across sectors, such as manufacturing, transportation, surveillance, and retail, is driving demand for industrial memory solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market demand trend, informational context not a risk statement."
+  },
+  {
+   "text": "In 2025, AEBU sales to the automotive, industrial, and consumer embedded markets consisted primarily of LPDDR5 and LPDDR4, managed NAND, DDR4 and DDR3, and GDDR6 products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sales composition detail, informational."
+  },
+  {
+   "text": "Alternatively, new entrants into the memory and storage market could have a significant adverse impact on our competitive position.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk: new entrants could adversely impact competitive position."
+  },
+  {
+   "text": "We intend to advance our process technology to increase bit output per wafer, improve yields, and increase wafer supply.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes forward-looking business strategy, not a risk statement."
+  },
+  {
+   "text": "In periods of shortage, we may be required to incur increased costs in order to meet our contractual commitments and demand from our customers or experience a decrease in revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk of increased costs or revenue decline during shortage periods due to contractual commitments."
+  },
+  {
+   "text": "In 2025, we began shipping the 1\u03b3 production node, which is our first DRAM node incorporating EUV lithography.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes technology node shipment milestone, informational."
+  },
+  {
+   "text": "We also began volume production on our Micron G9 NAND node.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes production milestone for NAND node, informational."
+  },
+  {
+   "text": "We equip our team members with the latest AI tools and training to unlock human potential and labor productivity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal AI tool adoption, human capital narrative, not a risk."
+  },
+  {
+   "text": "Culture At Micron, we empower a culture that reflects our core values and enables the best talent to innovate and thrive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cultural values statement, boilerplate human capital disclosure."
+  },
+  {
+   "text": "To further this mission, we have required comprehensive training for all employees on fostering a respectful workplace, free from harassment or discrimination.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee training program, human capital boilerplate."
+  },
+  {
+   "text": "We also train our leaders on the principles of psychological safety, enabling higher levels of trust, collaboration and performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes leadership training initiative, human capital boilerplate."
+  },
+  {
+   "text": "Recognizing the significance of mental health and wellbeing, we offer a global employee assistance program accessible to all team members.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee assistance program, human capital boilerplate."
+  },
+  {
+   "text": "We also leverage our 10 Employee Resource Groups (\u201cERGs\u201d) to cultivate welcoming environments where team members connect, grow and give back.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ERGs, human capital boilerplate."
+  },
+  {
+   "text": "ERG membership now exceeds more than half our workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistic about ERG membership, informational not risk-related."
+  },
+  {
+   "text": "In addition, we create opportunities for team members to participate in community engagement events and to build social connections through onsite workplace experiences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes community engagement programs, human capital boilerplate."
+  },
+  {
+   "text": "Cordano served as Partner at Prime Impact Capital from September 2020 to December 2024 and as Co-Chief Executive Officer of Prime Impact Acquisition I from July 2020 to October 2023.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Director biography detail, administrative not risk-related."
+  },
+  {
+   "text": "Prior to that, from October 2015 to August 2020, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of director bio, administrative detail."
+  },
+  {
+   "text": "Cordano served as the President and Chief Operating Officer of Western Digital Corporation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Director bio detail, administrative."
+  },
+  {
+   "text": "Cordano holds a BS from the University of Colorado, Boulder.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Director education detail, administrative."
+  },
+  {
+   "text": "Mehrotra has served as Chairman of our Board of Directors since January 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Board chairmanship date, administrative detail not a risk."
+  }
+ ]
+}

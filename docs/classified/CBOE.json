@@ -1,0 +1,173 @@
+{
+ "ticker": "CBOE",
+ "sector": "Financials",
+ "filing_date": "2026-02-20",
+ "accession": "0001628280-26-010013",
+ "prior_accession": "0001628280-25-006984",
+ "model": "claude-sonnet-5",
+ "n_added": 31,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 4,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Emerging technologies, alternative settlement mechanisms, and 24-hour trading may also affect our traditional business models.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk theme of emerging technologies, alternative settlement mechanisms, and 24-hour trading affecting traditional business models, not previously disclosed."
+  },
+  {
+   "text": "For example, the adoption of tokenization or other emerging settlement technologies that enable self-clearing may reduce demand for traditional clearing services.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a concrete new example (tokenization/self-clearing) that could reduce demand for clearing services, a specific new risk mechanism."
+  },
+  {
+   "text": "New or existing competitors may also develop products or technologies that provide similar economic exposure or functionality to our existing offerings through different mechanisms, which may reduce demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing competitive risk by describing new ways competitors could erode demand for products."
+  },
+  {
+   "text": "Our business and operations are dependent upon a number of third parties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that business depends on third parties, lacking specifics."
+  },
+  {
+   "text": "See other Risk Factors for additional information regarding revenue concentration.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to other risk factors, no new content."
+  },
+  {
+   "text": "These intermarket dependencies can necessitate coordinated responses to disruptions across multiple market participants and may impact our ability to maintain orderly markets in dependent products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about intermarket dependencies requiring coordinated responses, building on existing third-party dependency risk."
+  },
+  {
+   "text": "For example, in November 2025, trading of futures and options on the Chicago Mercantile Exchange was halted by a data-center fault, resulting in disruptions to markets across equities, foreign exchange, bonds, and commodities.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific real-world incident (CME data-center fault) illustrating a concrete new risk scenario not previously described."
+  },
+  {
+   "text": "Extended outages or disruptions at these third parties (whether due to technology failures, data center infrastructure issues, such as the cooling system malfunctions that occurred at a third-party exchange in 2025, cyberattacks, or other causes) could impair our ability to calculate indices, provide market data products, or maintain trading operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing third-party outage risk with specific new example (cooling system malfunction) and additional causes."
+  },
+  {
+   "text": "Treasuries, or event prediction markets, or new geographies, or if we fail to effectively manage strategic divestitures or wind downs may materially adversely affect our growth strategy and our future profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing growth strategy risk factor to include new product areas (Treasuries, prediction markets) and divestiture management failures."
+  },
+  {
+   "text": "Global trade policies, including the assessment of tariffs and other impositions on imported goods, may have a material adverse impact on our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk category regarding global trade policy and tariffs impacting the business."
+  },
+  {
+   "text": "Countries have announced new or increased tariffs on imported goods and that additional tariffs or increases in tariffs could be assessed in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail for the newly introduced tariff risk, describing the trend of increasing tariffs."
+  },
+  {
+   "text": "If any such tariffs were to increase the costs of the products and services we use in our business, in particular the technology, communications, cloud, computer, and networking products and services that we use, and we were unable to mitigate the impacts of any such increased costs, it could have a material adverse impact on our business and our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tariff risk with specific impact on technology/cloud costs, building on the new tariff risk."
+  },
+  {
+   "text": "Cboe Clear U.S. facilitates the clearing of financially-settled and continuous Bitcoin and Ether futures listed on CFE and may facilitate the clearing of other product classifications in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific business activity (clearing Bitcoin/Ether futures) introducing a new operational risk area."
+  },
+  {
+   "text": "Cboe Clear Europe clears transactions executed on third-party exchanges and Cboe Clear U.S. may similarly clear transactions executed on third-party exchanges in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of clearing third-party exchange transactions, expanding clearinghouse operational scope and associated risk."
+  },
+  {
+   "text": "Additionally, a default of this facility may allow lenders, under certain circumstances, to accelerate any related drawn amounts and may result in the acceleration of the Company\u2019s other outstanding debt to which a cross-acceleration or cross-default provision applies, which may limit the Company\u2019s liquidity, business, and financing activities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific financial risk of cross-default/cross-acceleration provisions affecting liquidity and financing."
+  },
+  {
+   "text": "Although our clearinghouses have rules, policies, and procedures that are reasonably designed to help protect them from the aforementioned risks, such policies and procedures may not succeed in preventing losses after a member's or counterparty\u2019s default.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing clearinghouse risk by noting policies may fail after a default, not a wholly new risk."
+  },
+  {
+   "text": "In addition, although we believe that we have carefully analyzed the process for setting margins and our financial safeguards, it is a complex process and there is no guarantee that our procedures will adequately protect us from the risks related to operating our clearinghouses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on complexity of margin-setting process, building on existing clearinghouse risk factor."
+  },
+  {
+   "text": "For example, we have previously identified and addressed potential procedure enhancement opportunities.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about past process improvements without introducing new risk."
+  },
+  {
+   "text": "OCC also acts as a central counterparty for transactions in CFE products that are cleared by OCC.",
+   "category": "reworded_same_meaning",
+   "rationale": "Factual description of OCC's role, restating known clearing relationship."
+  },
+  {
+   "text": "As such, OCC guarantees clearance and settlement of all of our touched options and all of our matched futures and options on futures trades in CFE products cleared by OCC.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates OCC's guarantee function, consistent with prior disclosures."
+  },
+  {
+   "text": "In addition, disruptions at third parties may necessitate coordinated responses across multiple market participants and may impact our ability to maintain orderly markets in dependent products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Duplicate elaboration of coordinated response risk from third-party disruptions, similar to item 5."
+  },
+  {
+   "text": "In addition to risks associated with acquisitions and integrations, we may also face risks in executing strategic exits, divestitures, or wind downs of businesses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk category regarding executing strategic exits, divestitures, or wind downs of businesses."
+  },
+  {
+   "text": "For example, we have announced the wind down of our Japan equities business, initiated sale processes for our Australia and Canada equities businesses and, subsequent to December 31, 2025, announced the wind down of CEDX.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides concrete new examples of business wind downs (Japan, Australia, Canada, CEDX) illustrating a new specific risk exposure."
+  },
+  {
+   "text": "These actions may involve transitional disruptions, regulatory complexities, loss of customer relationships, reputational impacts, or challenges in retaining key personnel during the transition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences (transitional disruptions, reputational impact) of the newly introduced divestiture risk."
+  },
+  {
+   "text": "BIDS Trading operates an ATS that is not registered as a national securities exchange, and there is risk that the BIDS Trading ATS or certain other Cboe entities could be deemed to be a \"facility\" of our registered national securities exchanges, which could materially affect our ability to operate these businesses under their current regulatory frameworks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk regarding BIDS Trading ATS classification as a 'facility'."
+  },
+  {
+   "text": "Treasuries, or event prediction markets, and geographies, an increase in rulemaking and legislation or changes in regulatory interpretations that could affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing regulatory risk factor to new product areas and rulemaking changes."
+  },
+  {
+   "text": "In June 2025, the SEC withdrew the Regulation Best Execution and Order Competition proposals.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory development (SEC withdrawal of proposals) not previously mentioned."
+  },
+  {
+   "text": "Additionally, in 2025, the SEC held a roundtable to examine potential amendments to Rule 611 (the Order Protection Rule) under Regulation NMS.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory event (SEC roundtable on Rule 611) representing a new risk factor."
+  },
+  {
+   "text": "While no formal proposal has been released, potential changes to Rule 611 could have serious implications for market structure, order routing practices, and the competitive dynamics among trading venues, which could materially impact our business, financial condition, and operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential implications of the newly disclosed Rule 611 review, building on item 27."
+  },
+  {
+   "text": "In 2025, the E.C. published additional proposals that could impact EU market structure and the consolidated tape.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk regarding EU market structure proposals affecting the consolidated tape."
+  },
+  {
+   "text": "If we were required to stop using, developing or marketing certain products, services, or technologies, our business, financial condition, and operating results could be materially harmed.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic cautionary statement about being forced to stop certain products/services, typical boilerplate language."
+  }
+ ]
+}

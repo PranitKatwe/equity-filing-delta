@@ -1,0 +1,218 @@
+{
+ "ticker": "PNC",
+ "sector": "Financials",
+ "filing_date": "2026-02-20",
+ "accession": "0000713676-26-000020",
+ "prior_accession": "0000713676-25-000027",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 32
+ },
+ "items": [
+  {
+   "text": "Banking Regulation and Supervision Regulatory Capital Requirements .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header with no substantive content."
+  },
+  {
+   "text": "Basel III capital rules adopted by the Federal Reserve, for PNC, and by the OCC, for the Bank.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about existing Basel III rules already applicable, no new risk."
+  },
+  {
+   "text": "PNC\u2019s acquisition of FirstBank did not affect PNC\u2019s classification as a Category III banking organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifies that a completed acquisition did not change PNC's regulatory classification; no new risk introduced."
+  },
+  {
+   "text": "In calculating regulatory capital, PNC and PNC Bank must deduct a number of components.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of existing capital calculation mechanics."
+  },
+  {
+   "text": "PNC, as a Category III holding company, and PNC Bank would be subject to the proposed rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes PNC would be subject to proposed capital rules, expanding on existing regulatory capital risk."
+  },
+  {
+   "text": "These proposed rules have not been finalized, and their future state is unclear.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that proposed rules are unfinalized and uncertain, standard cautionary language."
+  },
+  {
+   "text": "The agencies are expected to repropose the rule in 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific timing detail (2026 repropose) to the existing regulatory capital uncertainty risk."
+  },
+  {
+   "text": "Stress Testing and Capital Planning .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header with no substantive content."
+  },
+  {
+   "text": "In April 2025, the Federal Reserve proposed to average stress test results over two consecutive years to reduce volatility in the SCB requirement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a specific Fed proposal on stress test averaging that materially affects capital requirement calculations."
+  },
+  {
+   "text": "The proposal would also shift the applicable period of the SCB requirement from October 1 through September 30 of the following year, to January 1 through December 31 in the year following the CCAR exercise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifics on the same stress test proposal, expanding on regulatory timing changes."
+  },
+  {
+   "text": "The proposal was intended to be effective for the 2026 supervisory stress test but it has not been finalized.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States proposal not finalized, generic uncertainty language."
+  },
+  {
+   "text": "In addition, in October 2025, the Federal Reserve issued proposals to seek comments on the scenarios for the 2026 supervisory stress test and on the enhanced transparency to its stress testing process.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new procedural detail about Fed's 2026 stress test scenario proposals, expanding existing stress test risk disclosure."
+  },
+  {
+   "text": "Under the proposals, the Federal Reserve would publish annual stress test scenarios and comprehensive model documentation for public comment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes procedural transparency measure, not a new risk."
+  },
+  {
+   "text": "In February 2026, the Federal Reserve published the final scenarios for the 2026 supervisory stress test.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update that final scenarios were published, no new risk."
+  },
+  {
+   "text": "The Federal Reserve also stated that the new models will not be finalized in time for the CCAR 2026 process and that the current SCB requirements will continue to apply for all firms, including PNC, until 2027, when new SCB can be calculated based on models that take public feedback into consideration.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies timing of when new SCB models will apply, expanding existing stress testing/capital risk disclosure."
+  },
+  {
+   "text": "The agencies have yet to propose these rules, but they may do so in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that further rules may be proposed in the future, standard cautionary language."
+  },
+  {
+   "text": "PNC is subject to extensive federal and state laws related to consumer privacy and data protection.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about existing privacy/data protection laws, no new specifics."
+  },
+  {
+   "text": "Federal banking regulators, pursuant to the GLB Act, have adopted rules that limit the ability of banks and other financial institutions to disclose nonpublic consumer information to nonaffiliated third parties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing GLB Act rules, no new risk."
+  },
+  {
+   "text": "These rules require institutions to provide privacy policy disclosures and, in certain circumstances, allow consumers to prevent disclosure of certain personal information to nonaffiliated third parties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing privacy disclosure requirements, no new risk."
+  },
+  {
+   "text": "The GLB Act\u2019s privacy provisions govern how consumer information is shared within diversified financial services companies and with external vendors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of GLB Act privacy provisions, no new risk."
+  },
+  {
+   "text": "In addition, the Fair Credit Reporting Act regulates the sharing of certain consumer information among affiliated companies and, depending on the type and purpose of the information, provides consumers with the right to opt out of such sharing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing FCRA provisions, no new risk."
+  },
+  {
+   "text": "The GLB Act and other laws also require PNC to implement a comprehensive information security program.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States existing requirement for information security program, no new risk."
+  },
+  {
+   "text": "Security and privacy policies and procedures for the protection of personal and confidential information are in effect across all of the organization\u2019s businesses and geographic locations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing security/privacy policies in place, no new risk."
+  },
+  {
+   "text": "The sharing, use, collection, disclosure, and other processing of these types of information are governed by increasingly stringent and evolving legislation and regulations, the intent of which is to protect the privacy of personal information, including personal financial information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving privacy legislation, standard cautionary language."
+  },
+  {
+   "text": "We may become subject to new legislation or regulations concerning cybersecurity and data privacy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking cautionary statement about possible future cybersecurity/privacy legislation, no specifics."
+  },
+  {
+   "text": "PNC maintains compliance programs to comply with the restrictions of the Volcker Rule.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States existing Volcker Rule compliance program, no new risk."
+  },
+  {
+   "text": "In December 2025, the OCC issued a notice of proposed rulemaking that would increase the threshold at which the heightened standards apply from $50 billion to $700 billion in average total consolidated assets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new OCC proposal significantly raising the asset threshold for heightened standards, a concrete regulatory development not previously disclosed."
+  },
+  {
+   "text": "Transactions with Affiliates .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header with no substantive content."
+  },
+  {
+   "text": "Transactions with affiliates are also generally required to be on arm\u2019s length, market-prevailing terms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about arm's length affiliate transactions, no new risk."
+  },
+  {
+   "text": "Extensions of Credit to Executive Officers, Directors, or Principal Shareholders .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header with no substantive content."
+  },
+  {
+   "text": "Debit Card Interchange Fees and Transaction Processing .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header with no substantive content."
+  },
+  {
+   "text": "Additionally, we may become subject to new legislation or regulations concerning our card business that could affect our operations and profitability, such as laws capping credit card interest rates or requiring the use of an additional card network.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific examples (interest rate caps, additional card network requirement) to the existing risk of new card-related legislation."
+  },
+  {
+   "text": "The Bank Secrecy Act and Economic Sanctions .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header with no substantive content."
+  },
+  {
+   "text": "The BSA requires all financial institutions, including banks and securities broker-dealers, to establish a risk-based system of internal controls reasonably designed to prevent money laundering and the financing of terrorism.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing BSA internal control requirements, no new risk."
+  },
+  {
+   "text": "As implemented by federal banking and securities regulators and the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete sentence fragment continuing existing regulatory description, no new risk."
+  },
+  {
+   "text": "PNC is also subject to sanctions laws and regulations administered and imposed by the United States government, including the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing sanctions law applicability, no new risk."
+  },
+  {
+   "text": "Treasury Department's Office of Foreign Assets Control (\u201cOFAC\u201d) and the Department of State, as well as comparable sanctions programs imposed by foreign governments and multilateral bodies with jurisdiction over PNC\u2019s products, services, or activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists existing regulatory bodies overseeing sanctions, no new risk."
+  },
+  {
+   "text": "Sanctions can be either comprehensive or focused on specific individuals, entities, industry sectors, ownership interests, etc. to accomplish foreign policy and national security goals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of sanctions scope, no new risk."
+  },
+  {
+   "text": "The DIF provides insurance coverage for deposits held by PNC Bank, subject to certain requirements and limits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing DIF insurance coverage, no new risk."
+  },
+  {
+   "text": "To maintain a statutory minimum ratio of the DIF to insured deposits in the U.S., member institutions, including PNC Bank, are required to pay deposit insurance assessments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing statutory deposit insurance assessment requirement, no new risk."
+  }
+ ]
+}

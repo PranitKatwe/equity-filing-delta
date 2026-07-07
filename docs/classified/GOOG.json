@@ -1,0 +1,218 @@
+{
+ "ticker": "GOOG",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-05",
+ "accession": "0001652044-26-000018",
+ "prior_accession": "0001652044-25-000014",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "We believe AI is quickly reshaping the advertising industry, including how ads are delivered online, and we and our competitors are constantly adjusting to meet this shift and provide new and evolving advertising formats.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about AI reshaping advertising industry without specifying a concrete new risk."
+  },
+  {
+   "text": "There is no assurance that we will adapt effectively and competitively to meet this shift, and that such advertising formats, strategies, and offerings will be successful.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that adaptation may not succeed, standard boilerplate risk language."
+  },
+  {
+   "text": "To meet the compute capacity demands of AI training and inference, as well as traditional cloud computing services, we are entering into significant leasing arrangements with third party operators, which may increase costs and operational complexity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to entering significant third-party leasing arrangements for AI/cloud compute capacity, increasing cost and complexity."
+  },
+  {
+   "text": "We also have a number of large, long-duration commercial agreements, which could increase our liabilities and obligations in the event of nonperformance by us, our counterparties, or vendors.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific exposure from large, long-duration commercial agreements increasing liabilities upon nonperformance."
+  },
+  {
+   "text": "In such nonperformance or an industry downturn, we may incur additional liabilities, have excess capacity that we cannot easily redeploy, and not receive payments from our counterparties or customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the nonperformance risk introduced in the prior sentence with concrete consequences like excess capacity and lost payments."
+  },
+  {
+   "text": "For example, with the rise of AI in recent years, we have increasingly focused our investments in building powerful AI tools and AI enhancements to our existing products and services to better cater to our users, customers, and other partners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about increased AI investment focus, framing rather than a specific risk."
+  },
+  {
+   "text": "We are developing frontier generative AI models and building AI capabilities into products and services across the company, tailoring them to the evolving preferences of our users and customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about company AI development activities, not itself a risk disclosure."
+  },
+  {
+   "text": "Additionally, other companies may develop 10.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmented/garbled text with no discernible substantive content."
+  },
+  {
+   "text": "Certain of our costs and expenses are relatively fixed and may not correlate to changes in revenue, and we may also not be able to continue to drive efficiencies at the rate we have in the past.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific financial risk regarding fixed costs not correlating with revenue and reduced efficiency gains."
+  },
+  {
+   "text": "Also, the efforts we have taken and may take in the future to protect our proprietary rights, including obtaining copyright and patent protections for our important innovations, including AI innovations, may not be sufficient or effective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing IP protection risk to explicitly include AI innovations."
+  },
+  {
+   "text": "If this happens, we could lose protection for this trademark.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific elaboration on trademark protection risk, building on existing IP risk discussion."
+  },
+  {
+   "text": "Table of Contents Alphabet Inc. new and innovative products and services that better serve the needs of our users, advertisers, customers, content providers, and other partners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about serving user/customer needs through new products, framing language."
+  },
+  {
+   "text": "Our ability to scale our technical infrastructure is increasingly constrained by the availability of power, water, and land.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of infrastructure scaling being constrained by power, water, and land availability."
+  },
+  {
+   "text": "For example, energy supply is constrained globally due to the significant increase in demand for and limited availability of energy to power AI compute.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail supporting the newly introduced power/resource constraint risk."
+  },
+  {
+   "text": "Securing this capacity involves entering into complex, long-lead-time arrangements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on complexity of securing infrastructure capacity, extending the prior risk point."
+  },
+  {
+   "text": "Additionally, manufacturing and supply of servers and network equipment for our technical infrastructure, particularly for specialized AI chips, is limited to a small number of qualified suppliers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific supply chain risk: limited qualified suppliers for AI chips and network equipment."
+  },
+  {
+   "text": "Extended or unforeseen disruptions at these suppliers could impact our ability to meet customer demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequence of supplier disruptions, extending the newly introduced supply chain risk."
+  },
+  {
+   "text": "Failure to secure sufficient capacity in a timely manner would limit our ability to train models and serve Cloud customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further consequence of capacity risk on ability to train models and serve cloud customers."
+  },
+  {
+   "text": "In addition, quality issues with equipment used in our technical infrastructure could constrain our capacity to support the delivery and continued development of our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds equipment quality issue as another facet of infrastructure capacity risk."
+  },
+  {
+   "text": "Disruptions in our ability to access future financing or manage our indebtedness could adversely affect our ability to execute our strategy and harm our financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk category concerning financing access and debt management affecting strategy and financial condition."
+  },
+  {
+   "text": "We may from time to time access capital markets for debt or seek to enter into other forms of financing, such as leases.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about accessing capital markets or leases, contextual rather than a specific risk."
+  },
+  {
+   "text": "Any difficulty in accessing capital markets, entering into other forms of financing on favorable terms, or managing our existing indebtedness could increase our costs of financing and restrict our ability to invest in our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on financing risk with specific cost and investment restriction consequences."
+  },
+  {
+   "text": "Furthermore, the combination of our current and any future indebtedness, including obligations arising under 13.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on indebtedness risk including lease and commercial agreement obligations."
+  },
+  {
+   "text": "Table of Contents Alphabet Inc. leases, backstops, guarantees, and potential liabilities from large commercial agreements, could harm our financial condition and reduce our financial and business flexibility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies types of obligations (leases, backstops, guarantees) contributing to financial flexibility risk."
+  },
+  {
+   "text": "Changes in fair value on SBC awards are recognized primarily through operating expenses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting treatment note about SBC fair value changes, not a risk disclosure."
+  },
+  {
+   "text": "We face legal and regulatory challenges to our efforts to address low-quality content, and our ability to address it may be constrained or made more costly through added compliance requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific legal/regulatory risk related to compliance costs for addressing low-quality content."
+  },
+  {
+   "text": "We also face other challenges on our platforms, including attempted election interference; fraud, content inappropriate for minors, misleading or deceptive information, and other types of potentially harmful content.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing platform content risk to include additional specific threats like election interference and content for minors."
+  },
+  {
+   "text": "Table of Contents Alphabet Inc. and other critical infrastructure, which could affect our or other parties' systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary text referencing infrastructure with no substantive new risk detail."
+  },
+  {
+   "text": "Any such developments may also subject us to additional litigation and 16.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmented sentence referencing litigation without specific new content."
+  },
+  {
+   "text": "Various countries, including Brazil, India, Japan, South Korea, Singapore, and Vietnam, have also enacted or are considering enacting regulations focused on AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new specific regulatory risk from multiple countries enacting AI-focused regulations."
+  },
+  {
+   "text": "In the US, an increasing amount of legislative and regulatory activity regarding AI is taking place at the state level.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the AI regulatory risk to increasing US state-level legislative activity."
+  },
+  {
+   "text": "In 2025, state legislatures considered more than 1,000 AI-related bills, including on fundamental model research and development, synthetic media, algorithmic decision-making, and many others, and took a variety of approaches to AI regulation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific quantitative detail supporting the state-level AI regulation risk already introduced."
+  },
+  {
+   "text": "For instance, in 2025, California and New York passed the Transparency in Frontier Artificial Intelligence Act and the Responsible AI Safety and Education Act, respectively, each of which imposes safety and reporting obligations on developers of frontier models.",
+   "category": "expanded_existing_risk",
+   "rationale": "Gives concrete examples of specific state AI safety laws, elaborating on the regulatory risk theme."
+  },
+  {
+   "text": "At the same time, the White House's Executive Order, Removing Barriers to American Leadership in Artificial Intelligence, prioritizes deregulation, while its AI Action Plan emphasizes accelerating American innovation leadership.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds federal deregulation context to the evolving AI regulatory landscape risk."
+  },
+  {
+   "text": "Additionally, new regulations apply to online child safety, including access and content restrictions as well as other limitations for minors, which may also conflict with rights of free expression and access to information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk regarding online child safety laws potentially conflicting with free expression rights."
+  },
+  {
+   "text": "For instance, AI's energy and water demands have made efforts to reduce our emissions more complex and challenging across every level.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new specific environmental/ESG risk from AI's energy and water demands complicating emissions goals."
+  },
+  {
+   "text": "In August 2024, the US District Court for the District of Columbia ruled against Google, and in December 2025, entered a final judgment requiring remedies, which, among other things, imposes restrictions on how we distribute our services and requires us to share certain search data with and offer syndication services to certain competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports a specific adverse legal judgment imposing concrete business restrictions and data-sharing requirements, a material new legal risk."
+  },
+  {
+   "text": "In January 2026, we appealed the final judgment and moved to pause implementation of certain remedies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Factual update on appeal process related to the newly disclosed antitrust judgment."
+  },
+  {
+   "text": "In February 2026, the DOJ and state Attorneys General also appealed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further factual update on litigation appeals process, extending the same legal risk."
+  },
+  {
+   "text": "In April 2025, the presiding judge issued a mixed decision in the DOJ case against us, ruling that neither our advertiser tools nor the DoubleClick and AdMeld acquisitions were anticompetitive, but that our publisher tools unfairly excluded rivals.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific court ruling finding publisher tools unfairly excluded rivals, a new material legal risk development."
+  }
+ ]
+}

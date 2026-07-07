@@ -1,0 +1,193 @@
+{
+ "ticker": "AMAT",
+ "sector": "Information Technology",
+ "filing_date": "2025-12-12",
+ "accession": "0001628280-25-056742",
+ "prior_accession": "0000006951-24-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 27,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "Artificial intelligence (AI) and technologies related to AI are a significant demand driver for the industries we serve.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI as a new, specific demand driver whose volatility could impact business outlook, a topic not previously disclosed."
+  },
+  {
+   "text": "AI is evolving rapidly and the expected timing and amount of investments related to AI can change significantly.",
+   "category": "new_substantive_risk",
+   "rationale": "Elaborates on the newly introduced AI risk by noting rapid evolution and unpredictable investment timing, adding specific risk detail."
+  },
+  {
+   "text": "As a result, it is difficult to accurately forecast demand for our products related to AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Continues the new AI risk narrative, specifying difficulty in forecasting demand tied to AI, a concrete new business risk."
+  },
+  {
+   "text": "These conditions make it more difficult to accurately forecast operating and financial results and make business and investment decisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about difficulty forecasting results, building on the newly introduced AI-related uncertainty rather than introducing a new topic itself."
+  },
+  {
+   "text": "These factors include global political and social conditions, such as policies or regulations within countries, including in China, the United States and countries in Europe and Asia, that favor domestic companies over non-domestic companies, including efforts to promote the development and growth of local competitors to us, or regarding national, commercial or security issues.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically identifies new geopolitical factors (China, US, Europe, Asia policies favoring domestic companies) that could adversely affect operations, a concrete new risk detail."
+  },
+  {
+   "text": "Any of these factors may have an adverse impact on our business and manufacturing operations or demand for our products and services, and our performance and results of operations may be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about adverse impact without adding new specific risk content."
+  },
+  {
+   "text": "Our business, financial condition and results of operations may be adversely affected by uncertainty and changes in trade policies, including tariffs, and trade disputes between the United States and other countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk category regarding tariffs and trade policy uncertainty affecting business and financial results."
+  },
+  {
+   "text": "The United States has announced changes to its trade policy, including increased tariffs on imports.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual detail supporting the newly introduced tariff risk, describing specific US tariff actions."
+  },
+  {
+   "text": "These actions have caused substantial uncertainty and have resulted in retaliatory measures, including new tariffs on U.S. goods imposed by China and other countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details retaliatory tariffs from China and other countries, expanding on the tariff risk already introduced."
+  },
+  {
+   "text": "Some of these actions have been followed by announcements of limited exemptions and temporary pauses and trade frameworks with certain countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about exemptions and pauses, part of the broader tariff risk discussion already introduced."
+  },
+  {
+   "text": "A significant number of our customers and suppliers are located outside of the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual business characteristic (global customer/supplier base) without introducing new risk specifics."
+  },
+  {
+   "text": "Increases in tariffs increase our costs and can negatively impact our margins and reduce the competitiveness of our products due to the increase in the cost of importing materials, parts and components used in manufacturing our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically explains how tariff increases raise costs and reduce competitiveness, a concrete new financial risk detail."
+  },
+  {
+   "text": "Tariffs can also increase supply chain complexity and may make it more difficult to purchase necessary equipment and supplies to manufacture our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on supply chain complexity from tariffs, extending the previously introduced tariff risk."
+  },
+  {
+   "text": "Increases in tariffs, including reciprocal and sector-based tariffs, also increase the cost to our customers of importing our products, which could harm customer demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing tariff impact on customer costs and demand, part of the same new tariff risk theme."
+  },
+  {
+   "text": "Uncertainty or volatility with respect to tariffs and trade disputes may also make it difficult for us and our customers and suppliers to make and execute business and capital equipment investment plans; lead to global or regional inflation and economic recession and reduce demand for semiconductor chips and electronic devices; cause our customers to delay or cancel orders or negatively impact our competitive position; impede our ability to purchase materials, including critical materials and minerals, and disrupt supply chain and logistics.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a broad list of potential tariff-related consequences, expanding the newly introduced tariff risk with more specifics."
+  },
+  {
+   "text": "For example, in 2025 the Chinese government implemented export controls on the export of rare earth minerals that are used in certain of our products and may implement additional controls in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new event\u2014Chinese export controls on rare earth minerals\u2014posing a concrete supply risk not previously disclosed."
+  },
+  {
+   "text": "We may take actions to mitigate the impact of increases in tariffs and changes in trade policies, but there can be no assurance that we will be successful, and any such actions could result in additional costs, manufacturing delays or other difficulties, as well as additional risks, and may not be effective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discusses mitigation efforts and their uncertainty, extending the tariff risk discussion already introduced."
+  },
+  {
+   "text": "Our customer base is geographically concentrated, particularly in China, Taiwan and Korea, and export regulations that apply to customers in certain countries, such as those in China, have exposed and can further expose our business and operating results to greater volatility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about geographic customer concentration and export regulation exposure, expanding an existing concentration/export risk."
+  },
+  {
+   "text": "Any of these events impacting our supply chain could affect our ability to meet our customers\u2019 demand, result in higher costs to us and have an adverse effect on customer relationships and our business, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about supply chain risk impact, not adding new specifics."
+  },
+  {
+   "text": "The industries in which we operate are characterized by factors that impact demand for and the profitability of our products and services and our operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about industry factors affecting demand, lacking specific new risk content."
+  },
+  {
+   "text": "Demand for and the profitability of our display products and services is impacted by the foregoing industry factors, as well as the introduction of and rate of transition to new types of display technologies, our ability to anticipate and adapt to technology transitions and inflections, and the expansion of display manufacturing facilities in China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factors like display technology transitions and China manufacturing expansion, expanding existing industry risk factors."
+  },
+  {
+   "text": "We also utilize third-party providers of AI capabilities, and our ability to implement AI successfully in our business operations relies on our continued access to third-party providers and safeguards implemented by them.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new reliance on third-party AI providers as a distinct operational risk not previously mentioned."
+  },
+  {
+   "text": "The techniques used by threat actors to identify vulnerabilities and craft cybersecurity attacks change frequently and may increasingly involve the use of new technologies, including AI and quantum computing.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new cybersecurity threat vectors involving AI and quantum computing, a specific emerging risk."
+  },
+  {
+   "text": "Advances in quantum computing have the potential to undermine current encryption standards and may allow threat actors to circumvent existing protective measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding quantum computing undermining encryption standards, a novel technological threat."
+  },
+  {
+   "text": "18 Table of Contents We are exposed to risks associated with business combinations, acquisitions, strategic investments and divestitures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new distinct risk category regarding business combinations, acquisitions, investments and divestitures."
+  },
+  {
+   "text": "Additionally, on July 4, 2025, the U.S. government enacted the One Big Beautiful Bill Act (OBBBA).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legislative event (OBBBA) that could materially affect tax obligations."
+  },
+  {
+   "text": "Key tax provisions of the OBBBA are designed to accelerate tax deductions, but that may have a detrimental impact on our ability to use certain deferred tax assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how OBBBA provisions affect deferred tax asset usability, expanding the newly introduced tax law risk."
+  },
+  {
+   "text": "For example, as a result of the acceleration of certain tax deductions under the OBBBA, we are unable to forecast utilization of our existing corporate alternative minimum tax (CAMT) credit deferred tax asset.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific example of forecasting difficulty for CAMT credit asset due to OBBBA, extending the new tax risk."
+  },
+  {
+   "text": "We have recorded a full valuation allowance against the CAMT credit deferred tax asset, which increased our effective tax rate and provision for income taxes in fiscal 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a concrete financial consequence (valuation allowance) resulting from the newly introduced tax law changes."
+  },
+  {
+   "text": "The amount of the valuation allowance may be adjusted in future quarters if estimates of our future taxable income change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about possible future adjustments to valuation allowance, standard forward-looking language."
+  },
+  {
+   "text": "We continue to monitor developments and evaluate the impact, if any, of enacted and proposed changes in the tax laws on our results of operations and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring tax law developments, common boilerplate language."
+  },
+  {
+   "text": "The adoption and effective dates of changes in the tax laws vary by country and could increase tax complexity and uncertainty and may adversely affect our provision for income taxes in future years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about tax law variability and complexity across jurisdictions, standard risk factor language."
+  },
+  {
+   "text": "We have been granted additional conditional reduced tax rates in Singapore that expire beginning in fiscal 2030.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about Singapore tax incentive expiration, expanding existing tax-related risk disclosures."
+  },
+  {
+   "text": "We also have in place revolving credit facilities that allow us to borrow up to an aggregate amount of approximately $4.1 billion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure about credit facility size, not itself describing a risk."
+  },
+  {
+   "text": "Failures of these systems could disrupt our operations, impede our ability to timely and accurately process and report financial results, and adversely impact our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about IT system failures affecting operations and financial reporting, consistent with typical existing cybersecurity/IT risk language."
+  }
+ ]
+}

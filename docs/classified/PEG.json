@@ -1,0 +1,218 @@
+{
+ "ticker": "PEG",
+ "sector": "Utilities",
+ "filing_date": "2024-02-26",
+ "accession": "0001628280-24-006885",
+ "prior_accession": "0001628280-23-004411",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 28
+ },
+ "items": [
+  {
+   "text": "(Energy Holdings), which primarily holds our legacy lease investments and competitively bid, FERC regulated transmission; and PSEG Services Corporation (Services), which provides us and our operating subsidiaries with certain management, administrative and general services at cost.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes corporate organizational structure and services; no risk content."
+  },
+  {
+   "text": "Our transmission revenues are not impacted by sales volumes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual characteristic of transmission revenue mechanics, not a risk."
+  },
+  {
+   "text": "Our distribution rates are subject to periodic rate cases approved by the BPU.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of regulatory rate-setting process."
+  },
+  {
+   "text": "Our current approved distribution base rates provide for an ROE of 9.6%.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Specific factual disclosure of approved ROE rate, not a risk statement."
+  },
+  {
+   "text": "In December 2023, we filed a distribution base rate case as required by the BPU.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual regulatory filing update, informational rather than risk-related."
+  },
+  {
+   "text": "While there has been a recent decrease in load due to a decline in larger industrial customers, greater EE and other factors, PJM\u2019s most recent forecast indicates an increase in load over the next several years due to the increasing adoption of EVs, the expansion of data centers and other large users in our area, ongoing growth in the number of customers, other sources of electrification and other factors, which will collectively drive the need for increased system investment in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new drivers (EV adoption, data centers, customer growth) that will require significant future system investment, a new operational/financial risk."
+  },
+  {
+   "text": "(B) The program has a small amount of trailing costs expected to be spent in year 5.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Minor programmatic cost detail with no risk implication."
+  },
+  {
+   "text": "Our CEF-Energy Storage (ES) program, which was filed with the BPU in October 2018, is being held in abeyance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Status update on a program being held in abeyance; factual, not risk."
+  },
+  {
+   "text": "PSEG Power & Other PSEG Power & Other is predominantly comprised of its nuclear generation assets, its natural gas supply operations, the Operating Services Agreement (OSA) of PSEG LI with LIPA, and other legacy investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment description of assets, purely descriptive."
+  },
+  {
+   "text": "The expected PTC rate is up to $15 per megawatt hour (MWh) subject to adjustment based upon a facility\u2019s gross receipts and meeting prevailing wage rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific financial detail (PTC rate) that expands on existing nuclear support risk discussion."
+  },
+  {
+   "text": "Until additional guidance is issued by the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces regulatory uncertainty about PTC guidance affecting ability to quantify financial impact."
+  },
+  {
+   "text": "Treasury, we are unable to fully determine the impacts of the PTC.",
+   "category": "new_substantive_risk",
+   "rationale": "Continuation of the uncertainty risk regarding PTC guidance from Treasury."
+  },
+  {
+   "text": "All of our nuclear generation capacity is located in New Jersey and Pennsylvania.",
+   "category": "new_substantive_risk",
+   "rationale": "Highlights geographic concentration of nuclear assets in two states, a new specific concentration risk."
+  },
+  {
+   "text": "The PTC is expected to mitigate our exposure to this volatility and provide support for the nuclear units.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates PTC's mitigating role for existing nuclear volatility risk, expanding on prior disclosure."
+  },
+  {
+   "text": "The PTC is designed to increase with inflation, and therefore, future inflation levels will impact the financial support of the nuclear units.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces inflation-linked risk to the PTC's financial support mechanism, a new specific dependency."
+  },
+  {
+   "text": "In addition, market revenues in excess of the PTC threshold would provide incremental benefit.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a potential benefit, not a risk factor."
+  },
+  {
+   "text": "The number of ZECs purchased by each EDC from a selected nuclear power plant for an energy year is expected to be reduced by the number of ZECs equal in value to the dollar amount of PTCs received by the same plants.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces mechanism by which PTC receipt reduces ZEC purchases, a new financial offset risk."
+  },
+  {
+   "text": "Hedging Strategy The PTC is intended to provide sufficient and stable support for nuclear units and is effective January 1, 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States effective date of PTC support program, factual."
+  },
+  {
+   "text": "As of the end of 2023, we have hedged approximately 90% to 95% of its expected generation output for 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Discloses hedge percentage, factual operational detail."
+  },
+  {
+   "text": "Beginning in 2024, our hedging strategy will incorporate an estimated range of risk reduction impacts from the PTCs on our nuclear generation portfolio.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on hedging strategy risk by incorporating PTC-related adjustments."
+  },
+  {
+   "text": "This is expected to result in changes to our current approach given PTC guidance uncertainty, and potential incremental changes upon final U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces uncertainty-driven changes to hedging approach pending final guidance, a new operational risk."
+  },
+  {
+   "text": "Energy Holdings Energy Holdings maintains our portfolio of legacy lease investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about segment's legacy investments."
+  },
+  {
+   "text": "In December 2023, PJM awarded a subsidiary of Energy Holdings an approximately $424 million project to construct a 500 kV transmission line in Maryland.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new $424 million construction project, implying new execution and regulatory risk exposure."
+  },
+  {
+   "text": "PSEG\u2019s project was part of a larger set of projects designed to address reliability issues driven by load growth and retirement of fossil generation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Contextual description of broader project set, not a new risk."
+  },
+  {
+   "text": "Our project is expected to be placed in service in 2027.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual timeline for project completion."
+  },
+  {
+   "text": "Our competitors include but are not limited to merchant generators, utility generators, energy marketers , retailers , private equity firms , and other financial entities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands list of competitor types (adding private equity and financial entities) to existing competitive risk disclosure."
+  },
+  {
+   "text": "HUMAN CAPITAL MANAGEMENT Our Core Commitments \u2013 safety, integrity, continuous improvement, customer service and diversity, equity and inclusion (DEI) \u2013 are at the center of our workplace culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about corporate culture values, no risk content."
+  },
+  {
+   "text": "They guide us in important aspects of our Human Capital Management strategy, including recruitment, employee development, retention, performance, safety, and collaboration.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes how core values guide HR strategy, purely descriptive."
+  },
+  {
+   "text": "We rely on our inclusive culture to support our many stakeholders including employees, customers, and the many diverse communities we serve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about inclusive culture supporting stakeholders, no risk implication."
+  },
+  {
+   "text": "We believe in treating people with dignity and respect, protecting each of our fundamental human rights, and we strive to maintain the high standards of ethical conduct on which our business and reputation have been built.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General ethical statement, boilerplate."
+  },
+  {
+   "text": "Our human capital management strategy is integrated with our overall business strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States integration of HR strategy with business strategy, no risk detail."
+  },
+  {
+   "text": "Relying on our core commitments and strong culture of inclusion, our focus is to attract, develop, and retain a high performing diverse workforce - one with the skill sets needed to succeed in a rapidly evolving environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes workforce development goals, not a specific risk."
+  },
+  {
+   "text": "Over 60% of our workforce is represented by six unions under various collective bargaining agreements that cover wages, benefits and other terms and conditions of employment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about union representation percentage, descriptive."
+  },
+  {
+   "text": "In 2023, we negotiated new agreements with all six of our unions in advance of contract expiration.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes successful negotiation of union agreements, factual update."
+  },
+  {
+   "text": "These agreements contain four-year terms, expiring in 2027 and support strategic objectives and business goals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States contract terms and expiration, factual detail."
+  },
+  {
+   "text": "Safety metrics, such as Occupational Safety and Health Administration (OSHA) recordable incidence rate, OSHA days away from work rate, and serious injury incidence rate, are regularly monitored and reported to our Board.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes safety metric monitoring, informational not risk."
+  },
+  {
+   "text": "We take measures to provide employees and contractors with proper knowledge, training and protective equipment to maintain their personal health and safety and to mitigate workplace risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about safety training measures, boilerplate."
+  },
+  {
+   "text": "Since everyone is responsible for DEI and work-place culture, employees have many opportunities to influence the work environment, let their voices be heard and to step up and lead.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes DEI engagement opportunities, no risk content."
+  },
+  {
+   "text": "Our efforts are led by the PSEG Office of DEI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States organizational leadership of DEI efforts, descriptive."
+  },
+  {
+   "text": "It is supported by our Employee Business Resource Groups and the Local Inclusion Teams within our business units and field locations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes supporting DEI structures, purely informational."
+  }
+ ]
+}

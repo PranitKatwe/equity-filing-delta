@@ -1,0 +1,183 @@
+{
+ "ticker": "IVZ",
+ "sector": "Financials",
+ "filing_date": "2026-02-24",
+ "accession": "0000914208-26-000079",
+ "prior_accession": "0000914208-25-000114",
+ "model": "claude-sonnet-5",
+ "n_added": 33,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Geopolitical risks may also lead to economic sanctions, trade restrictions, or regulatory changes that adversely affect global markets and our business. \u2022 Changes to tax, tariff and import/export regulations and economic sanctions may have a negative effect on global or regional economic conditions, financial markets and our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (tax, tariff, sanctions) to the pre-existing geopolitical risk factor rather than introducing a wholly new risk."
+  },
+  {
+   "text": "Market declines may be driven by interest rate volatility, foreign exchange fluctuations, geopolitical instability, or other macroeconomic factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific drivers of market decline, elaborating on an existing market risk discussion rather than creating a new risk."
+  },
+  {
+   "text": "Currency movements can also directly affect the value of AUM and related fee revenues when client assets are denominated in non-U.S. currencies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies a mechanism (currency effect on AUM/fees) that expands existing foreign currency risk disclosure."
+  },
+  {
+   "text": "Failure to achieve scale or operational efficiencies in response to these pressures could further compress margins and negatively impact profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific consequence\u2014margin compression from failure to achieve scale/efficiency\u2014not previously described."
+  },
+  {
+   "text": "Competitive pressures may affect our economics in multiple ways, including forcing us to reduce the fees we charge clients and increasing the cost of delivering our products through higher or more expansive revenue share, all of which could adversely impact our profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific ways competitive pressure affects economics, expanding on an existing competition risk."
+  },
+  {
+   "text": "Nontraditional competitors, including fintech firms and global platforms, may accelerate these trends and intensify pricing pressure.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new competitor types (fintech, global platforms) intensifying pricing pressure, a new specific threat."
+  },
+  {
+   "text": "Meeting these requirements may require significant investment in data collection, verification, and reporting systems, and reliance on third-party data providers introduces additional risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new operational risk around data systems and third-party data provider reliance for compliance."
+  },
+  {
+   "text": "Counterparty defaults could result in financial losses for us or our clients, regulatory scrutiny, and reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of counterparty default causing financial and reputational harm."
+  },
+  {
+   "text": "Operational disruptions, technology failures, or cybersecurity incidents affecting exchanges, clearing systems, or third-party service providers could further impair ETF trading and settlement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing ETF operational risk by adding specifics about exchanges, clearing systems, and third-party providers."
+  },
+  {
+   "text": "Regulatory changes or restrictions on arbitrage or liquidity requirements may also negatively impact ETF pricing and functioning.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing ETF regulatory risk regarding arbitrage and liquidity requirements."
+  },
+  {
+   "text": "Global divergence in AI regulations and evolving standards could create conflicting requirements across jurisdictions, increase compliance costs, and heighten enforcement risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about global AI regulatory divergence and enforcement risk."
+  },
+  {
+   "text": "Use of third-party AI models may introduce additional risk, as we may have limited visibility into their training data, validation processes, and controls to prevent unauthorized or harmful content.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding third-party AI model opacity and associated compliance/control gaps."
+  },
+  {
+   "text": "Further, AI tools, whether embedded in third party systems or in tools that we develop, that are used to support regulated activities such as investment decision making and client reporting present unique risks, including errors in algorithms or assumptions, data quality issues, and potential bias, that could adversely affect investment performance and increase business and compliance risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new specific risks from AI use in regulated investment activities, including bias and data quality issues."
+  },
+  {
+   "text": "Generative AI may be exploited to create sophisticated phishing schemes, ransomware attacks, or other cyber threats, which could result in financial losses, liquidity outflows, or systemic market disruptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific cyber threat vector\u2014generative AI enabling phishing/ransomware attacks."
+  },
+  {
+   "text": "Compliance with these covenants may be affected by factors outside our control, including market volatility, declines in AUM or revenues, increased regulatory or operational costs, and adverse macroeconomic conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factors affecting covenant compliance, expanding existing debt/covenant risk discussion."
+  },
+  {
+   "text": "Liquidity needs may also arise from unexpected client redemptions, collateral requirements for derivatives or financing arrangements, or obligations related to seed capital and fund support.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new liquidity risk sources such as redemptions, derivative collateral, and seed capital obligations."
+  },
+  {
+   "text": "Inadequate liquidity could force us to sell assets at unfavorable prices or limit our ability to invest in growth initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement about inadequate liquidity, standard boilerplate language."
+  },
+  {
+   "text": "Transactions may also involve unexpected costs or delays in achieving anticipated synergies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about transaction costs/delays, common boilerplate in M&A risk factors."
+  },
+  {
+   "text": "Current and anticipated regulatory developments include requirements related to AI, cybersecurity, and digital operational resilience, as well as evolving ESG disclosure standards and cross-border data transfer restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory areas (AI, digital operational resilience, ESG, cross-border data) not previously listed."
+  },
+  {
+   "text": "Global divergence in these regulations could create conflicting obligations and increase compliance complexity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands on regulatory divergence risk already introduced elsewhere."
+  },
+  {
+   "text": "These changes may require significant investment of management time and resources, impact product design and distribution, and materially increase compliance costs or capital requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generic elaboration on compliance cost and resource impact, expanding existing regulatory risk."
+  },
+  {
+   "text": "Failure to comply with these evolving requirements could result in enforcement actions, reputational harm, and restrictions on our ability to operate in certain jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about consequences of non-compliance with regulations."
+  },
+  {
+   "text": "Privacy laws, such as the European and U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory clause naming privacy laws, not substantive on its own."
+  },
+  {
+   "text": "In addition, rules and legal requirements for international transfers of personal data from Europe and Asia create additional complexity and risk, particularly regarding integrated global cloud-based systems and business services employed by us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing data privacy/cross-border transfer risk with more specificity."
+  },
+  {
+   "text": "An emerging risk is the use of personal data in AI systems, including privacy regulations related to automated decision making based on personal data. \u2022 Regulations aimed at addressing concerns associated with open-end funds making investments in less liquid asset classes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific privacy risk tied to AI-driven automated decision making."
+  },
+  {
+   "text": "Regulations intended to address such perceived liquidity risk could impede our ability to provide certain types of investment strategies in open-end funds or impair the investment performance of certain of our existing open-end fund products. \u2022 Regulations pertaining to the integration of ESG in asset management.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details impact of liquidity-related regulation on open-end fund strategies, expanding existing risk."
+  },
+  {
+   "text": "In particular, these regulations have required the integration of sustainability risks within investment management processes and imposed enhanced disclosure requirements on the ESG characteristics of EU and U.K. investment products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing ESG regulatory risk with specifics on sustainability risk integration and disclosure."
+  },
+  {
+   "text": "In the EU, proposed changes to the Sustainable Finance Disclosure Regulation were released in 2025 and will lead to significant changes to funds\u2019 ESG features and categorizations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory development (2025 SFDR changes) with material fund impact."
+  },
+  {
+   "text": "Certain U.S. states are pursuing similar initiatives, albeit with varying requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes similar state-level initiatives, expanding on existing ESG regulatory risk discussion."
+  },
+  {
+   "text": "For example, recent amendments to regulations under the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lead-in phrase introducing regulatory amendments, not substantive by itself."
+  },
+  {
+   "text": "Bank Secrecy Act will require our subsidiaries that are U.S. registered investment advisers to implement reasonably designed AML/CFT programs, file suspicious activity reports with the Financial Crimes Enforcement Network, maintain certain associated records and fulfill certain other obligations, similar to requirements imposed on banks and broker-dealers in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new compliance obligations under the Bank Secrecy Act for AML/CFT programs."
+  },
+  {
+   "text": "22 Table of Contents \u2022 Regulations promulgated from time-to-time to mitigate cybersecurity and information, technology and communication (ICT) risks, including regulations that could require asset managers and certain types of investment funds to adopt and implement procedures that are reasonably designed to address cybersecurity and ICT risks and to promptly report significant cybersecurity and ICT-related incidents to relevant regulators or even publicly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing cybersecurity regulatory risk with specifics on procedures and incident reporting requirements."
+  },
+  {
+   "text": "Renewals may also result in higher premiums, increased deductibles, or greater co-insurance obligations, which could adversely affect our liquidity and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding insurance renewal costs impacting liquidity and financial condition."
+  }
+ ]
+}

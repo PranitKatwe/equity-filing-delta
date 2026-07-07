@@ -1,0 +1,168 @@
+{
+ "ticker": "HON",
+ "sector": "Industrials",
+ "filing_date": "2020-02-14",
+ "accession": "0000773840-20-000009",
+ "prior_accession": "0000930413-19-000366",
+ "model": "claude-sonnet-5",
+ "n_added": 30,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "Backlog is equal to our remaining performance obligations under the contracts that meet the guidance on revenue from contracts with customers as discussed in Note 7 to the Consolidated Financial Statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines backlog methodology, a standard disclosure with no risk content."
+  },
+  {
+   "text": "Backlog was $25,612 million and $24,850 million at December 31, 2019 and 2018 .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States factual backlog dollar figures, a routine financial data update."
+  },
+  {
+   "text": "We expect to recognize approximately 57% of our remaining performance obligations as revenue in 2020 , and the remaining balance thereafter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States expected revenue recognition timing from backlog, factual disclosure not a risk."
+  },
+  {
+   "text": "Raw Materials The principal raw materials used in our operations are readily available.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States raw materials are readily available, standard non-risk statement."
+  },
+  {
+   "text": "We do not believe that Federal, State and local provisions regulating the discharge of materials into the environment, or otherwise relating to the protection of the environment, or any existing or pending climate change legislation, regulation, or international treaties or accords are reasonably likely to have a material effect in the foreseeable future on the Company\u2019s business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary statement about environmental regulation not having material effect."
+  },
+  {
+   "text": "Dallara served in multiple leadership positions at TE Connectivity Ltd., most recently as Senior Vice President, Corporate Strategy and Analytics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "Vice President, Integrated Supply Chain of Aerospace from May 2015 to October 2019.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "President, Aerospace Defense and Space from October 2010 to May 2015 John F.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "Operating results may be adversely affected by the decrease in air travel demand due to regional restrictions or suspension of service for public health, safety, or environmental events.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding decreased air travel demand due to restrictions or health/safety/environmental events."
+  },
+  {
+   "text": "The Company has developed plans to mitigate the potential impact of these possible restrictions, but the implications of these uncertainties could affect the Company's business, financial position and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on mitigation efforts for the restriction risk just introduced, expanding on it."
+  },
+  {
+   "text": "The United States has commenced certain trade actions, including imposing tariffs on certain goods imported from China and other countries, which has resulted in retaliatory tariffs by China and other countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of US-China trade tariffs and retaliatory tariffs."
+  },
+  {
+   "text": "Additional tariffs imposed by the United States on a broader range of imports, or further retaliatory trade measures taken by China or other countries in response, could increase the cost of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the tariff risk by discussing potential additional tariffs and cost impacts."
+  },
+  {
+   "text": "Operating outside the United States also exposes us to additional intellectual property risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding intellectual property exposure from foreign operations."
+  },
+  {
+   "text": "The laws and enforcement practices of certain jurisdictions in which we operate may not protect our intellectual property rights to the same extent as in the U.S. and may impose joint venture, technology transfer, local service or other foreign investment requirements and restrictions that potentially compromise control over our technology and proprietary information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail expanding on the foreign IP protection risk just introduced."
+  },
+  {
+   "text": "Failure of foreign jurisdictions to protect our intellectual property rights, an inability to effectively enforce such rights in foreign jurisdictions, or the imposition of foreign jurisdiction investment or sourcing restrictions or requirements could result in loss of valuable proprietary information and could impact our competitive position and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates consequences of the foreign IP risk already introduced."
+  },
+  {
+   "text": "We may be required to transition from the use of the LIBOR interest rate index in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about LIBOR transition affecting the business."
+  },
+  {
+   "text": "We have certain contracts indexed to LIBOR to calculate the interest rate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail about LIBOR-indexed contracts, expanding the LIBOR risk."
+  },
+  {
+   "text": "The continued availability of the LIBOR index is not guaranteed after 2021.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on LIBOR's discontinuation timeline, expanding the LIBOR risk."
+  },
+  {
+   "text": "We cannot predict whether and to what extent banks will continue to provide LIBOR submissions to the administrator of LIBOR or whether any additional reforms to LIBOR may be enacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates uncertainty around LIBOR reforms, expanding the risk."
+  },
+  {
+   "text": "The language in certain of our LIBOR-based contracts identify various events that trigger when a successor rate to the designated rate would be selected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details contract mechanics for LIBOR transition, expanding the risk."
+  },
+  {
+   "text": "If a trigger is satisfied, such contracts may give the calculation agent discretion over the substitute index or indices for the calculation of interest rates to be selected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on discretion over substitute index, expanding the LIBOR risk."
+  },
+  {
+   "text": "The implementation of a substitute index or indices for the calculation of interest rates under our contracts may result in our incurring significant expenses in effecting the transition and may result in disputes or litigation over the appropriateness or comparability to LIBOR of the substitute index or indices, which could have an adverse effect on our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential financial and litigation consequences of LIBOR transition, expanding the risk."
+  },
+  {
+   "text": "The development of technology products and services presents security and safety risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to security and safety of technology products."
+  },
+  {
+   "text": "An increasing number of our products, services and technologies are delivered with Internet of Things (IoT) capabilities and the accompanying interconnected device networks which include sensors, data and advanced computing capabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on IoT capabilities that expands on the newly introduced tech security risk."
+  },
+  {
+   "text": "We have developed product software designs which we believe are less susceptible to cyber-attacks, but despite these efforts, if our products and services that include IoT solutions do not work as intended or are compromised, the possible consequences include financial loss, reputational damage, exposure to legal claims or enforcement actions, theft of intellectual property, and diminution in the value of our investment in research, development and engineering, which in turn could adversely affect our competitiveness and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential consequences of IoT vulnerabilities, expanding the tech security risk."
+  },
+  {
+   "text": "Public health crises, like a regional or global pandemic, could disrupt our supply chain, distribution channels, production facilities, operations and customer demand, which could negatively impact our operations and adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding pandemic-related supply chain and demand disruption."
+  },
+  {
+   "text": "Concentrations of credit and market risk may adversely affect our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding concentration of credit and market risk with counterparties."
+  },
+  {
+   "text": "We maintain long-term contract relationships with many of our customers, suppliers, and other counterparties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on long-term contract relationships that supports the newly introduced concentration risk."
+  },
+  {
+   "text": "While we monitor the financial health of these counterparties, we are exposed to credit and market risks to the extent that customers, suppliers, and other counterparties are concentrated in similar industries and geographic regions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details exposure to credit/market risk from counterparty concentration, expanding the risk."
+  },
+  {
+   "text": "Changes in economic conditions in these industries or geographic regions could result in the credit deterioration or insolvency of a significant counterparty, which may lead to concerns about the creditworthiness of other counterparties in the same industry or geography, impacting our ability to renew our long-term contract arrangements or collect amounts due under these arrangements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential cascading effects of counterparty credit deterioration, expanding the risk."
+  }
+ ]
+}

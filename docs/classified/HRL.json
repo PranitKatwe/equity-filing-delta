@@ -1,0 +1,218 @@
+{
+ "ticker": "HRL",
+ "sector": "Consumer Staples",
+ "filing_date": "2025-12-05",
+ "accession": "0000048465-25-000059",
+ "prior_accession": "0000048465-24-000051",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 22
+ },
+ "items": [
+  {
+   "text": "Item 1A \u2013 Risk Factors to this Form 10-K, which should be read in conjunction with the forward-looking statements in this report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reference to the Risk Factors section and forward-looking statement framing."
+  },
+  {
+   "text": "Though the Company has attempted to list comprehensively these important cautionary risk factors, the Company cautions that other factors may in the future prove to be important in affecting the Company\u2019s business or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary boilerplate about risk factor completeness."
+  },
+  {
+   "text": "Forward-looking statements speak only as of the date they are made, and the Company does not undertake any obligation to update any forward-looking statement except as otherwise required by law.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statement disclaimer language."
+  },
+  {
+   "text": "For example, based on an assessment in the fourth quarter of fiscal 2025 and in connection with the preparation of the Company's consolidated financial statements, the Company initiated an impairment review of its investment in Garudafood and concluded that the decline in fair value was no longer believed to be temporary.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new impairment review and conclusion regarding the Garudafood investment, a concrete new event."
+  },
+  {
+   "text": "As a result, the Company recognized a $163.7 million impairment charge to reduce the investment's carrying amount to estimated fair value.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific $163.7 million impairment charge, a material new financial event."
+  },
+  {
+   "text": "During the Company\u2019s fiscal 2025 quantitative impairment testing, the International reporting unit with a goodwill balance of $258.9 million was identified as having modest fair value in excess of its carrying amount and is considered at heightened risk of impairment.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific reporting unit with $258.9 million goodwill now at heightened risk of impairment, a new specific disclosure."
+  },
+  {
+   "text": "Separately, impairments were recognized on the Planters \u00ae and Chi-Chi's \u00ae trade names for $59.1 million and $2.9 million, respectively.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new impairment charges on named trade names with dollar amounts."
+  },
+  {
+   "text": "The Justin\u2019s \u00ae trade name was also identified as having heightened risk of impairment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds another specific trade name identified as at risk, building on the newly disclosed impairment risk theme."
+  },
+  {
+   "text": "As of October 26, 2025, the total carrying value of indefinite-lived intangible assets considered at heightened risk, including the trade names impaired, was $683.3 million.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides an aggregate figure summarizing the total assets at heightened risk, expanding on the impairment disclosures above."
+  },
+  {
+   "text": "If the Company continues to face unfavorable changes in any of the factors impacting its intangible assets, the Company may be required to record impairment charges in connection with such assets, which could adversely affect the Company's results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about potential future impairment risk, standard risk factor language."
+  },
+  {
+   "text": "For example, in the fourth quarter of fiscal 2025 a fire occurred at the Company\u2019s Little Rock, Arkansas, peanut butter production facility, which negatively impacted production at the facility.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific fire event at a named facility that impacted production, a new concrete operational risk."
+  },
+  {
+   "text": "If the Company\u2019s owned facilities, or key co-manufacturers, suppliers, or logistics providers experience significant labor-related challenges in the future, it could impact the Company\u2019s ability to receive inputs or distribute products.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about labor challenges affecting supply/distribution, expanding existing operational risk discussion."
+  },
+  {
+   "text": "Any of these outcomes could adversely affect the Company's results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate outcome statement."
+  },
+  {
+   "text": "Furthermore, in the fourth quarter of fiscal 2025, the Company commenced a corporate restructuring plan, the focus of which is to reduce administrative expenses, improve efficiencies, and align the workforce to the Company\u2019s future needs, while enabling continued investment in the Company\u2019s growth.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific corporate restructuring plan initiated in fiscal 2025."
+  },
+  {
+   "text": "The program includes a voluntary early retirement program for certain groups of employees, the closing of certain open roles, involuntary role reductions, and making select changes to benefit programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides details of the restructuring program components, expanding on the newly disclosed plan."
+  },
+  {
+   "text": "If the Company is unable to fully realize the anticipated benefits of this corporate restructuring plan, including the reduction of expenses and the enablement of continued investment in the Company's growth, the Company's results of operations could be adversely impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes risk of failing to realize restructuring benefits, tied to the new restructuring disclosure."
+  },
+  {
+   "text": "Any of these outcomes could adversely affect the Company's results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Repeated generic outcome boilerplate statement."
+  },
+  {
+   "text": "The Company relies on suppliers, distributors, and other third parties to source key inputs, deliver products to customers, and support its operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on suppliers/distributors."
+  },
+  {
+   "text": "Any termination of, or adverse change in, the Company's relationship with any of these companies could decrease the Company's sales, increase the Company's costs, and negatively impact the Company's results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk language about third-party relationship changes."
+  },
+  {
+   "text": "The Company has programs in place to prevent, detect, contain, and respond to cyber incidents.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about having cybersecurity programs in place."
+  },
+  {
+   "text": "However, the Company may be unable to anticipate security incidents, detect attacks, or implement adequate preventive measures as cyber threats continue to evolve and cyberattacks have become more sophisticated and frequent, including through the use of enhanced technologies and capabilities (such as artificial intelligence) by threat actors with a wide range of expertise and motives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands cybersecurity risk discussion with mention of AI-enabled threat actors and evolving sophistication."
+  },
+  {
+   "text": "For example, threat actors have increasingly targeted organizations in the U.S. and internationally with sophisticated ransomware attacks, which the Company may be unable to anticipate, detect, or contain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific mention of ransomware attacks as a new named threat vector."
+  },
+  {
+   "text": "In addition, hardware or software that the Company develops or obtains from third parties may contain defects that could compromise the Company's IT systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on IT risk by noting defects in developed or third-party software/hardware."
+  },
+  {
+   "text": "Unauthorized parties may also attempt to gain access to the Company's IT systems or facilities, or those of third parties with whom the Company does business, through fraud, deception, social engineering, or other bad acts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unauthorized access attempts."
+  },
+  {
+   "text": "Errors or malicious actions by the Company's team members or contractors and other vulnerabilities or irregularities could also negate the Company's security measures or those of third parties with whom the Company does business and result in a compromise or breach of the Company's or their IT systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about errors or malicious actions by personnel."
+  },
+  {
+   "text": "The utilization of hybrid and remote work by the Company's team members, suppliers, and other third parties has amplified the Company's already extensive reliance on IT systems and unimpeded internet access.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk factor of hybrid/remote work amplifying IT reliance."
+  },
+  {
+   "text": "Furthermore, the training the Company conducts as part of information security and cybersecurity efforts may not be effective in preventing or limiting successful attacks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands cybersecurity risk by noting potential ineffectiveness of training programs."
+  },
+  {
+   "text": "The Company and third parties with whom it does business face attempts by others to gain unauthorized access to, sabotage, take control of, and corrupt, its or their IT systems and data.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about facing unauthorized access attempts."
+  },
+  {
+   "text": "As a result of these types of attempts, both the Company and third 8 Table of Contents parties with whom it does business have experienced information security, cybersecurity, and data privacy incidents.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses that the Company and third parties have actually experienced security incidents, a concrete new admission."
+  },
+  {
+   "text": "None of these incidents have had a material impact on the Company's business strategy, results of operations, or financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reassurance statement that incidents were not material, standard risk mitigation language."
+  },
+  {
+   "text": "If the Company or third parties with whom the Company does business experience additional significant information security, cybersecurity, or data privacy incidents or fail to detect and appropriately respond to significant incidents, the Company's business operations could be severely disrupted and it could be exposed to costly government enforcement actions and private litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consequences of future significant incidents, building on the disclosed incident history."
+  },
+  {
+   "text": "In addition, the Company's customers and consumers could delay, reduce, or cease purchases of the Company's products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential customer reaction to incidents."
+  },
+  {
+   "text": "Any of these outcomes could adversely affect the Company's reputation, results of operations, and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate outcome statement."
+  },
+  {
+   "text": "A significant disruption to the Company's IT systems and the Company's failure to adequately maintain and update those systems could adversely affect the Company's operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about IT system disruption risk."
+  },
+  {
+   "text": "The Company relies extensively on IT systems throughout its business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on IT systems."
+  },
+  {
+   "text": "The Company also relies on continued and unimpeded access to the internet to use its IT systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on internet access."
+  },
+  {
+   "text": "These systems are subject to possible damage or interruption from many events, including power and other outages, telecommunications failures, third-party failures, malicious attacks, security breaches, unplanned downtime, program transitions, and implementation errors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of possible IT disruption causes, standard language."
+  },
+  {
+   "text": "Any damage or disruption to the Company's IT systems could severely interrupt the Company's business operations, including the Company's ability to develop, process, and distribute its products, which could adversely affect its reputation, results of operations, and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic outcome statement about IT disruption impact."
+  },
+  {
+   "text": "The Company has invested, and expects to continue investing, in updates to its IT and security infrastructure and capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing IT infrastructure investment."
+  },
+  {
+   "text": "In addition, problems and interruptions associated with implementing technology initiatives could adversely affect the Company's operational efficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about technology implementation risk."
+  }
+ ]
+}

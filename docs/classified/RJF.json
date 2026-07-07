@@ -1,0 +1,138 @@
+{
+ "ticker": "RJF",
+ "sector": "Financials",
+ "filing_date": "2025-11-25",
+ "accession": "0000720005-25-000093",
+ "prior_accession": "0000720005-24-000069",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Further, Fed guidance indicates that, pursuant to the Fed\u2019s general supervisory and enforcement 13 RAYMOND JAMES FINANCIAL, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary text tied to a page header/index artifact, not a standalone risk statement."
+  },
+  {
+   "text": "Aisenbrey (56) \u2014 Chief Human Resources Officer since October 2019 James E.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor disclosure."
+  },
+  {
+   "text": "Elwyn (54) \u2014 President - Private Client Group since October 2024; Chief Executive Officer and President - Raymond James & Associates, Inc. since June 2018 T.J.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor disclosure."
+  },
+  {
+   "text": "This includes attempts by threat actors to impersonate our clients or associates, or to defraud our clients directly.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new fraud vector: threat actors impersonating clients or associates to defraud clients."
+  },
+  {
+   "text": "In addition, clients may also share information (including information used for authentication) with third parties, which also may be a source of a potential cybersecurity incidents or fraud.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing cybersecurity/fraud risk by noting clients sharing authentication info with third parties as a new exposure point."
+  },
+  {
+   "text": "These activities may occur outside of our systems but could still result in financial loss to our clients and potential liability or reputational harm to us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of the above fraud scenario, expanding the existing cybersecurity risk discussion."
+  },
+  {
+   "text": "AND SUBSIDIARIES Index on higher-cost deposit sources, such as the ESP and certain higher-yield RJBDP offerings to clients, or other sources of liquidity to support asset growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing existing liquidity/deposit sourcing risk, appears to be a continuation tied to page formatting."
+  },
+  {
+   "text": "In addition, our results of operations may be impacted by governmental policy changes and/or regulatory reform in multiple areas, including tax, international trade, immigration, healthcare, labor, infrastructure, and energy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds broader detail on how governmental policy changes across multiple areas could affect operations, expanding existing regulatory risk discussion."
+  },
+  {
+   "text": "Furthermore, over the last several years the federal government has shut down multiple times, in some cases for prolonged periods, and it is possible that the federal government may shut down again in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor about recurring federal government shutdowns and their potential business impact."
+  },
+  {
+   "text": "Although the recent government shutdown is not expected to materially affect our results of operations, any prolonged future shutdown could significantly impact business and economic conditions generally or specifically in our key markets, which could have a material adverse effect on our results and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the shutdown risk introduced immediately prior, detailing potential adverse effects."
+  },
+  {
+   "text": "AND SUBSIDIARIES Index target range, and/or negatively impact our revenue growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment tied to page index/header formatting, not a substantive new statement."
+  },
+  {
+   "text": "This ongoing trend has resulted in a highly competitive recruiting environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing advisor recruitment/retention risk by noting a highly competitive recruiting environment trend."
+  },
+  {
+   "text": "In addition to transitions to independent RIAs, financial advisors may leave our firm for a variety of reasons, including other employment opportunities, retirement, or exiting the industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on reasons financial advisors may leave, expanding existing retention risk discussion."
+  },
+  {
+   "text": "Our reported AUA has been and may continue to be negatively impacted if we are unsuccessful in retaining our existing financial advisors and/or recruiting new financial advisors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and ties retention/recruiting difficulties to AUA impact, expanding existing risk."
+  },
+  {
+   "text": "We are exposed to market risk, including interest rate risk.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about market/interest rate risk exposure, consistent with standard risk factor framing already present."
+  },
+  {
+   "text": "Despite implementing policies and safeguards to prevent unauthorized disclosures, our use of AI may still pose heightened security and privacy risks, which we seek to mitigate by relying on proprietary or \u201cwalled-garden\u201d environments to enhance data protection and operational controls and maintain confidentiality.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk related to AI use, security, and privacy despite mitigation efforts."
+  },
+  {
+   "text": "There is a risk that our associates or independent advisors could engage in misconduct, fraudulent, unauthorized, or illegal acts, or noncompliance with firm policies or regulations that adversely affects our business and/or results in substantial liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of misconduct, fraud, or illegal acts by associates or independent advisors causing liability."
+  },
+  {
+   "text": "Similarly, many of our associates interact routinely with clients and counterparties and are expected to comply with our policies and procedures to protect both our clients\u2019 confidential information and our own.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about associate compliance expectations, largely reiterating existing policy framing without new specifics."
+  },
+  {
+   "text": "30 RAYMOND JAMES FINANCIAL, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page number/header artifact, not substantive content."
+  },
+  {
+   "text": "Frameworks for evaluating such matters remain under-developed and vary widely, which may lead to misperceptions of our policies and practices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding underdeveloped ESG/sustainability evaluation frameworks leading to misperceptions."
+  },
+  {
+   "text": "Regulatory scrutiny of disclosure practices for sustainable and values-based investment strategies has been a focus in recent years, though that focus appears to be moderating following the SEC\u2019s decision to withdraw proposed rulemaking in this area.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory scrutiny of sustainable investment disclosures, noting recent moderation, building on existing regulatory risk theme."
+  },
+  {
+   "text": "Upon classification as a category IV bank holding company, this aspect of the proposed rules would apply to us and could negatively impact our regulatory capital ratios.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory capital risk tied to potential classification as a category IV bank holding company."
+  },
+  {
+   "text": "While finalization of this proposal is uncertain, we continue to monitor developments and assess potential impacts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring regulatory developments, standard cautionary language without new specifics."
+  },
+  {
+   "text": "33 RAYMOND JAMES FINANCIAL, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page number/header artifact, not substantive content."
+  }
+ ]
+}

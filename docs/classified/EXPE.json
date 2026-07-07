@@ -1,0 +1,218 @@
+{
+ "ticker": "EXPE",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-13",
+ "accession": "0001324424-26-000008",
+ "prior_accession": "0001324424-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "We also regularly evaluate our patent portfolio and, as appropriate, acquire patent assets to address gaps, enhance existing holdings, or provide coverage for our current and planned business activities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing patent portfolio management practices without introducing a new distinct risk."
+  },
+  {
+   "text": "In addition, when necessary, we may acquire patent assets or obtain licenses, including in connection with resolving or mitigating patent infringement claims and other intellectual property disputes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on acquiring patents/licenses to resolve IP disputes, building on existing IP risk discussion."
+  },
+  {
+   "text": "We are also subject to certain state insurance laws and regulations in connection with the travel insurance products offered through our platforms.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory exposure regarding state insurance laws for travel insurance products."
+  },
+  {
+   "text": "The Federal Trade Commission has also adopted rules, and numerous states have passed laws, requiring that all mandatory fees for hotel rooms and other travel services be included in the price displayed to consumers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new FTC/state regulations requiring fee-inclusive pricing, a concrete new compliance risk."
+  },
+  {
+   "text": "With respect to consumer protection, the United Kingdom and other national authorities have increased their focus on information provided on websites, including reviews of product and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Highlights increased regulatory scrutiny in UK on website reviews/consumer protection, a specific new risk area."
+  },
+  {
+   "text": "Additionally, laws in the European Union and certain other jurisdictions restrict the use of cookies and similar tracking technologies, requiring user consent for certain data collection practices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific EU/other jurisdiction cookie/tracking consent laws as a new compliance risk."
+  },
+  {
+   "text": "We continuously evolve our benefits to meet changing employee needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving employee benefits, not a specific business risk."
+  },
+  {
+   "text": "We are deeply committed to diversity because we believe it drives innovation, strengthens relationships with travelers, and creates a workplace where everyone feels valued and can contribute long-term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General diversity commitment language, framing rather than a specific risk."
+  },
+  {
+   "text": "As a travel company that serves travelers around the world, we believe that when our team reflects the diversity of our travelers, and operates in an environment where they feel included, we create better experiences which leads to better business results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about diversity aligning with traveler base, not a specific risk."
+  },
+  {
+   "text": "The Company's stockholders subsequently approved a proposal to amend the Company's certificate of incorporation to reflect these restrictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about stockholder approval of a charter amendment, procedural in nature."
+  },
+  {
+   "text": "The rapid emergence and adoption of generative and agentic AI is likely to further intensify competition for our services from established technology companies and new market entrants who may deploy AI-driven travel search, planning, and booking capabilities more effectively or rapidly than we can.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive threat from AI-driven market entrants and established tech companies."
+  },
+  {
+   "text": "If we are unable to successfully innovate and integrate advanced AI capabilities into our own products, or if consumer behavior shifts toward AI-driven platforms where we lack a significant presence, we may experience a loss of market share, reduced direct-booking rates, and increased marketing expenses as we compete for visibility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the AI competition risk introduced elsewhere by detailing potential business impacts."
+  },
+  {
+   "text": "In recent years, Airbnb has expanded into tours, activities, and hotel bookings, and discussed expansion into flight bookings, and Booking.com has expanded its flight booking services.",
+   "category": "new_substantive_risk",
+   "rationale": "Names specific competitor actions (Airbnb, Booking.com) expanding into new services, a concrete new competitive risk detail."
+  },
+  {
+   "text": "In other cases, our competitors and potential competitors offer a variety of online services, many of which are used by consumers more frequently than online travel services or have created \"super-apps\" where consumers can use such various services without leaving the company's app.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing competition risk by describing super-app competitors."
+  },
+  {
+   "text": "A competitor that has established other, more frequent online or app-based interactions with consumers may be able to more easily or cost-effectively acquire customers for its online travel services than we can.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on how competitors' frequent interactions could disadvantage the company, building on existing competition risk."
+  },
+  {
+   "text": "Failure to compete effectively against existing or new competitors could result in loss of market share and reduced margins, which could have a material adverse effect on our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding risk statement about competitive failure impacting margins."
+  },
+  {
+   "text": "We generate a significant portion of the traffic to our websites and the websites of our affiliates from internet search engines, such as Google, through the purchase of travel-related keywords and organic search.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing reliance on search engines for traffic, a previously disclosed risk."
+  },
+  {
+   "text": "Search engines frequently change the algorithms that determine placement and display of results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard restatement of search engine algorithm change risk already known."
+  },
+  {
+   "text": "These changes can adversely affect the ranking, visibility, or cost of links to our websites.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates known consequence of algorithm changes on website visibility."
+  },
+  {
+   "text": "In addition, the emergence of AI search platforms and changing consumer behavior adversely affect search traffic and margins.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk from AI search platforms altering consumer search behavior and traffic."
+  },
+  {
+   "text": "Fraudulent impersonation schemes involve external actors impersonating our business and customer support operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific fraud risk involving impersonation of business/support operations."
+  },
+  {
+   "text": "This activity occurs outside of our systems, for example driven by search results that surface fake phone numbers and links, making detection and mitigation challenging.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on how impersonation fraud occurs, expanding on the newly introduced fraud risk."
+  },
+  {
+   "text": "The rapid evolution and increased adoption of AI technologies, including agentic booking capabilities that may lack strong consent controls, may significantly increase our fraud risks, which could have a significant negative effect on the value of our brands and an adverse impact on our financial performance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that AI-enabled agentic booking could increase fraud due to weak consent controls."
+  },
+  {
+   "text": "Additional information regarding our cash, cash equivalents and investments is included below in Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing, not a risk statement."
+  },
+  {
+   "text": "Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations - Financial Position, Liquidity and Capital Resources , and additional information about our foreign exchange risk management is included below in Item 7A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to MD&A section, procedural in nature."
+  },
+  {
+   "text": "Quantitative and Qualitative Disclosures About Market Risk.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading reference, not substantive content."
+  },
+  {
+   "text": "If one or more of these counterparties were to liquidate, declare bankruptcy or otherwise fail to perform their obligations due to liquidity events or other unforeseen events, we may be exposed to significant financial losses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of counterparty liquidation or bankruptcy causing financial losses."
+  },
+  {
+   "text": "Specifically, a default by a financial institution counterparty could result in the loss of deposited cash, the inability to settle outstanding hedging contracts, or the inability to replace such hedging instruments on favorable terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences of counterparty default, expanding on the newly introduced counterparty risk."
+  },
+  {
+   "text": "For example, beginning in 2020, we undertook in a multi-year effort to migrate products, data storage and processing, key portions of our consumer and affiliate sites, as well as back-office application functionality, to new technology platforms and significantly increase our utilization of public cloud computing services, primarily AWS.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides historical context on cloud migration efforts, expanding on existing technology infrastructure risk."
+  },
+  {
+   "text": "Our use of AI technologies in our products, services and operations present significant risks that could materially harm our business, reputation and financial performance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a broad new risk category regarding AI usage potentially harming business, reputation, and finances."
+  },
+  {
+   "text": "We have incorporated third-party AI technology in certain of our products, services and business operations, and our research, development and deployment of AI technologies for internal productivity and customer or partner-facing initiatives remains ongoing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the scope of AI adoption, supporting the newly introduced AI risk."
+  },
+  {
+   "text": "AI-related issues, deficiencies and/or failures could give rise to legal and/or regulatory action as a result of new applications of existing data protection, privacy, intellectual property, and other laws, including with respect to proposed legislation regulating AI in jurisdictions in which we operate; damage our reputation; or otherwise materially harm our business .",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details legal/regulatory consequences tied to the newly introduced AI risk."
+  },
+  {
+   "text": "For example, we are subject to the EU Short-Term Rental Law, which comes into effect in May 2026, and will require platforms such as ours to obtain registration numbers for all alternative accommodations in the European Union where a government has implemented a registration system.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new regulatory requirement (EU Short-Term Rental Law) with concrete compliance implications."
+  },
+  {
+   "text": "For example, in 2020, the Australian Competition and Consumer Commission held that aspects of the way that our trivago subsidiary had offered accommodation on its Australian website breached Australian Consumer Law.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific past regulatory enforcement action against a subsidiary, indicating concrete legal risk."
+  },
+  {
+   "text": "Expedia Group companies have also historically been involved in a number of investigations by national competition authorities related to whether certain parity clauses in contracts between Expedia Group entities and accommodation providers are anti-competitive, as well as market studies, inquiries or investigations by regulatory authorities relating to the presentation of information on certain of our consumer-facing websites.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing antitrust/regulatory investigation risk with more historical detail."
+  },
+  {
+   "text": "We have worked collaboratively with such authorities and in some cases have offered voluntary undertakings or commitments in order to address the regulatory authorities' concerns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about cooperating with regulators, not a new risk."
+  },
+  {
+   "text": "However, we are unable to predict what, if any, future actions by regulatory authorities will have on our business, industry practices or online commerce more generally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty statement about future regulatory actions."
+  },
+  {
+   "text": "While the Company maintains insurance coverage for certain types of claims, including through a combination of third-party insurance policies and self-insurance arrangements, such insurance may not be available at acceptable rates or coverage may be insufficient to cover all losses or all types of claims that may arise.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding potential insufficiency or unavailability of insurance coverage."
+  },
+  {
+   "text": "Any uninsured or underinsured losses could have a material adverse effect on our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard concluding statement about material adverse effect from uninsured losses."
+  },
+  {
+   "text": "The proliferation and increasing sophistication of AI tools may make it more challenging, time-consuming, and costly to monitor, detect and enforce our intellectual property rights effectively.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk that AI tools could hinder IP rights enforcement."
+  }
+ ]
+}

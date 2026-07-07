@@ -1,0 +1,218 @@
+{
+ "ticker": "DASH",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-18",
+ "accession": "0001792789-26-000013",
+ "prior_accession": "0001628280-25-005715",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 32,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "As a result of these expansions and changes, as well as a variety of factors that may be out of our control, such as the macroeconomic and regulatory environment, our results of operations have, and we expect that they will continue to, vary from quarter to quarter and year to year.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about quarterly/annual results variability due to macro factors without adding new specifics."
+  },
+  {
+   "text": "As a result of the changes to, and expansion of, our business, as well as risks and challenges that are outside of our control, we may not be able to accurately forecast our revenue and plan our operating expenses, which may harm our ability to achieve or sustain profitability or meet our forecasted cash flows.",
+   "category": "reworded_same_meaning",
+   "rationale": "General forecasting/profitability risk language typical of prior filings, no new specific threat added."
+  },
+  {
+   "text": "In addition, we may modify our logistics models from time to time and Dashers may or may not find such modifications useful or favorable.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about logistics model changes potentially being unfavorable to Dashers, expanding existing Dasher-relations risk."
+  },
+  {
+   "text": "For example, we are in the process of developing a new global technology platform for product development and operations, which will require both direct and opportunity costs, but is expected to increase our pace of global product development, enhance developer productivity through AI-native tooling, and improve operational consistency globally.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new initiative (global tech platform) with associated direct/opportunity costs, a concrete new business risk."
+  },
+  {
+   "text": "In addition, our continued expansion into new verticals and geographies may also require us to adapt to different labor arrangements, including, but not limited to, engagement with works councils and potential negotiated agreements with labor unions, and may require us to adapt our employment and operational practices with respect to those new verticals and geographies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk of geographic/vertical expansion by adding specifics about labor unions and works councils."
+  },
+  {
+   "text": "For example, in October 2025, we identified and disclosed a cybersecurity incident in which an employee was the target of a social engineering scheme that enabled an unauthorized third party to gain access to certain internal systems and obtain limited contact information relating to a mix of users, including merchants, consumers, and Dashers that use our platform.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific cybersecurity incident with concrete details, a new factual risk event."
+  },
+  {
+   "text": "Although we determined that this incident did not have a material impact on our business, results of operations, or financial condition, it required us to devote significant time and resources to investigation, remediation, and notification, and underscores the ongoing risks posed by these and other schemes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows up on the incident, elaborating on its operational impact without introducing a new risk type."
+  },
+  {
+   "text": "Our reliance on third-party vendors, contractors, and SaaS providers creates additional cybersecurity risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk category regarding third-party vendor cybersecurity dependencies."
+  },
+  {
+   "text": "Many of our critical business operations depend on external providers for hosting, cloud services, data analytics, customer support, and other key functions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail on reliance on external providers, expanding the vendor risk introduced above."
+  },
+  {
+   "text": "If these third parties experience a cybersecurity incident, fail to implement adequate security measures, misconfigure their systems, or otherwise do not comply with our security, privacy, or contractual requirements, our systems and data could be exposed to unauthorized access, loss, or misuse, resulting in significant operational disruption, regulatory scrutiny, financial losses, or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of third-party security failures, elaborating on the newly introduced vendor risk."
+  },
+  {
+   "text": "These risks are heightened by the potential for misconfigurations, excessive or improperly managed access permissions, and other human errors in administering our systems and data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on cybersecurity risk by specifying misconfiguration and human error causes."
+  },
+  {
+   "text": "Even as we enhance training, access management, and monitoring, insider threats, including social-engineering attacks on personnel with elevated privileges or access to sensitive systems, remain a significant risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category of insider threats and social engineering targeting privileged personnel."
+  },
+  {
+   "text": "For example, in 2025, we announced a multi-year initiative to develop a new global technology platform for product development and operations, which has and will continue to entail both direct and opportunity costs in the near term but, as work progresses, we expect will increase 21 Table of Contents our pace of global product development, enhance developer productivity through AI-native tooling, and improve operational consistency across all of our geographies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and slightly expands the previously introduced global technology platform initiative with more timing detail."
+  },
+  {
+   "text": "For example, companies operating in different industries are developing and have begun implementing autonomous technologies, and we believe that they may use these technologies to compete with us in the delivery or logistics industries.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new competitive threat from autonomous technology adoption by other industries."
+  },
+  {
+   "text": "Our implementation of autonomous technologies may take longer than initially anticipated and may require more upfront capital investment that may not generate return on investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on autonomous technology risk by detailing implementation delays and capital costs."
+  },
+  {
+   "text": "In addition, laws and regulations governing autonomous and drone technology are relatively nascent and rapidly evolving, and the scope and interpretation of these and related or similar laws, and whether they are applicable to us, are often uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates regulatory uncertainty specific to autonomous/drone technology, building on existing tech risk."
+  },
+  {
+   "text": "New or existing regulation in this area may impair our ability to deploy technology that we believe may allow our platform to operate more efficiently and effectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues regulatory risk discussion regarding technology deployment impairment."
+  },
+  {
+   "text": "In some cases, we are also leveraging our self-operated retail locations to enable fulfillment services on behalf of third-party merchants, which has required, and is expected to continue requiring, additional investment and operational enhancements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new business activity (self-operated retail fulfillment) requiring new investment, a new operational risk."
+  },
+  {
+   "text": "We generally see increases in consumer demand in colder or more inclement weather, while we generally see decreases in consumer demand in warmer or sunny weather.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new specific factor (weather-driven demand fluctuation) not previously disclosed."
+  },
+  {
+   "text": "As we continue to expand globally, our foreign currency exposure is expected to increase.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing foreign currency risk due to continued global expansion."
+  },
+  {
+   "text": "Increased regulation could also limit or impair our ability to develop and deploy AI technology within our platform that would otherwise be beneficial to us or merchants, consumers and Dashers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding AI regulation potentially limiting technology deployment."
+  },
+  {
+   "text": "The software underlying our platform is highly complex and our practice is to release frequent software updates.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new technical risk regarding software complexity and frequent update practices."
+  },
+  {
+   "text": "For example, Proposition 22, which preserves flexibility for California Dashers, took effect in 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates a well-known historical regulatory fact (Prop 22) without new implications."
+  },
+  {
+   "text": "We are seeking an annulment of this decision.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific ongoing legal action (seeking annulment) not previously mentioned."
+  },
+  {
+   "text": "We are, and may continue to be, subject to similar actions in other jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends litigation risk to other jurisdictions, building on existing legal risk factors."
+  },
+  {
+   "text": "As a result of the foregoing, or if some or all of our arbitration and class action waiver provisions are found to be unenforceable, we could face an increase in our litigation costs and exposure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential litigation cost increases tied to arbitration/class action waiver enforceability, an existing risk theme."
+  },
+  {
+   "text": "Income taxes and related withholding tax obligations can also arise in connection with transactions among our legal entities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on tax exposure from intercompany transactions, expanding existing tax risk discussion."
+  },
+  {
+   "text": "We have exposure to changing tax legislation and administrative practices, and to tax authorities successfully imposing additional non-income tax obligations or liabilities on us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about tax legislation exposure, typical boilerplate language."
+  },
+  {
+   "text": "Tax authorities may challenge or otherwise disagree with our tax calculations, reporting, or collection.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about tax authority challenges, standard risk boilerplate."
+  },
+  {
+   "text": "They could also demand we collect taxes in new jurisdictions or pay additional taxes and interest, potentially including tax on the cost of goods sold, which could further result in associated penalties and fees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new tax scenario (cost of goods sold tax) to existing tax risk discussion."
+  },
+  {
+   "text": "These and other laws are often complex, subject to change, and subject to varying interpretations, in many cases due to their lack of specificity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about legal complexity and change, standard boilerplate."
+  },
+  {
+   "text": "In addition, merchants may be prohibited from listing certain products on our platform in certain jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific restriction on merchant product listings in certain jurisdictions."
+  },
+  {
+   "text": "While the EU has since begun to streamline legislation in areas such as digital policy, sustainability, and beyond, it is still too early to determine the extent to which these efforts will reduce administrative burdens.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General commentary on EU regulatory streamlining without new specific risk."
+  },
+  {
+   "text": "For example, in February 2025, Uber filed a lawsuit in California state court alleging that certain of our business practices are anticompetitive.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new lawsuit (Uber) alleging anticompetitive practices, a new legal risk."
+  },
+  {
+   "text": "Should any of our licenses, authorizations, or exemptions be revoked, or any other enforcement measures be taken by national regulators against our reliance on these licenses, authorizations, or exemptions, our operations in the affected jurisdictions could be interrupted and our business and results of operations could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing licensing/regulatory risk with specifics about potential revocation consequences."
+  },
+  {
+   "text": "Department of Justice issued rules that place limitations, and in some cases prohibitions, on certain transfers of sensitive personal data to business partners located in, or with other specified links to, certain designated countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk from DOJ rules restricting data transfers to certain countries."
+  },
+  {
+   "text": "For example, we have experienced, and may experience in the future, allegations of joint employer, agency and tax liability, including as a result of new or changing laws and interpretations of those laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mention of joint employer/agency/tax liability allegations, expanding existing labor risk."
+  },
+  {
+   "text": "In addition, we may adopt or otherwise use certain trade names or trademarks that may be allegedly similar to others already registered by third parties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new intellectual property risk regarding potential trademark conflicts."
+  },
+  {
+   "text": "Risks Related to Our Indebtedness and Liquidity Our indebtedness and liabilities could limit the cash flow available for our operations, expose us to risks that could adversely affect our business, financial condition and results of operations and impair our ability to satisfy our obligations under our debt agreements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard risk factor heading about indebtedness impact, generic framing."
+  },
+  {
+   "text": "We have a revolving credit facility that we may draw on to finance our working capital and other general corporate purposes, and have $2.75 billion in aggregate principal amount of indebtedness outstanding under our 2030 Notes.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new financial details ($2.75B notes, revolving credit facility) indicating concrete debt exposure."
+  }
+ ]
+}

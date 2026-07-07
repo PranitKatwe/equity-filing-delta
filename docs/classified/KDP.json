@@ -1,0 +1,218 @@
+{
+ "ticker": "KDP",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-24",
+ "accession": "0001418135-26-000016",
+ "prior_accession": "0001418135-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 28,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "RISK FACTORS In addition to the other information set forth in this Annual Report, the following factors should be considered, which could materially affect our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard introductory framing language common to Item 1A sections."
+  },
+  {
+   "text": "The risks described below are not the only risks we face.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary boilerplate stating risks listed are not exhaustive."
+  },
+  {
+   "text": "Risks and uncertainties not currently known to us or that we currently deem to be immaterial also may have a material adverse affect on our business, financial condition, or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary boilerplate about unknown risks."
+  },
+  {
+   "text": "Many of these factors could also cause a significant disruption at our manufacturing and distribution facilities or the facilities of our bottlers, contract manufacturers, or distributors, which could have a material adverse effect on our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing supply chain/manufacturing disruption risk by adding detail about bottlers, contract manufacturers, and distributors."
+  },
+  {
+   "text": "Volatility in coffee prices can impact our ability to enter into fixed-price purchase commitments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding coffee price volatility affecting fixed-price purchase commitments."
+  },
+  {
+   "text": "Refer to the Risks Related to the JDE Peet's Acquisition section for risks specific to the JDE Peet's Acquisition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another section, not a substantive risk statement."
+  },
+  {
+   "text": "17 Table of Contents We also assess our equity method investments as and when required by U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary statement about routine accounting assessment practice, not a specific risk."
+  },
+  {
+   "text": "We rely on the performance of a limited number of suppliers and manufacturers for our brewers, and a limited number of order fulfillment companies for our brewers, beverage concentrates, and syrups.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific reliance risk on limited suppliers/manufacturers for brewers and fulfillment companies."
+  },
+  {
+   "text": "RISKS RELATED TO THE JDE PEET'S ACQUISITION We may not complete the proposed JDE Peet's Acquisition within the time frame we anticipate, or at all, which could adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category related to the JDE Peet's Acquisition potentially not completing on time."
+  },
+  {
+   "text": "On August 24, 2025, we entered into the JDE Peet's Acquisition Agreement, and on January 16, 2026, pursuant to the terms of the JDE Peet's Acquisition Agreement, we commenced a tender offer to acquire all of the issued ordinary shares of JDE Peet's.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new facts about the acquisition agreement and tender offer that underpin new deal-related risks."
+  },
+  {
+   "text": "The JDE Peet's Acquisition is expected to close in the first half of 2026 and will depend on a number of conditions being satisfied, including receiving the minimum number of tenders and other closing conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies new risk regarding closing timeline and conditions of the acquisition."
+  },
+  {
+   "text": "Our ability to complete the proposed JDE Peet's Acquisition in the anticipated timeline, or at all, could be impacted by any or all of the following events, which may have an adverse impact on our business: The requisite number of JDE Peet's shareholders may not tender their shares.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific risk that shareholders may not tender shares, impacting deal completion."
+  },
+  {
+   "text": "The JDE Peet's Acquisition Agreement provides that the completion of the proposed JDE Peet's Acquisition will be subject to the satisfaction or waiver of certain conditions, including the minimum tender of at least 95% of the shares of JDE Peet's, which will be reduced if the shareholders of JDE Peet's adopt resolutions for the implementation of certain post-closing measures and such resolutions are in full force and effect on the tender offer closing date.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies detailed minimum tender threshold conditions creating a new specific closing risk."
+  },
+  {
+   "text": "Pursuant to the JDE Peet's Acquisition Agreement, the board of directors of JDE Peet's has recommended our offer to purchase JDE Peet's for acceptance by shareholders.",
+   "category": "new_substantive_risk",
+   "rationale": "New factual disclosure about board recommendation relevant to deal risk assessment."
+  },
+  {
+   "text": "Concurrently with the entry into the JDE Peet's Acquisition Agreement, we obtained irrevocable undertakings from Acorn Holdings B.V. and certain directors of JDE Peet's, who collectively hold in the aggregate, as of the date of such undertakings, approximately 69% of the shares of JDE Peet's.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific shareholder commitments relevant to deal completion risk."
+  },
+  {
+   "text": "Pursuant to the terms of the irrevocable undertakings, Acorn and JDE Peet's directors have committed to tender their shares of JDE Peet's in the offer and to vote in favor of the resolutions proposed at the JDE Peet's Extraordinary General Meeting.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific commitments under irrevocable undertakings relevant to acquisition risk."
+  },
+  {
+   "text": "Accordingly, additional shareholders of JDE Peet's will need to tender their shares in the offer for the offer to reach the minimum acceptance threshold and we cannot guarantee we will be successful in obtaining 100% of shares of JDE Peet's.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that additional shareholder tenders are needed and success is not guaranteed."
+  },
+  {
+   "text": "If we are unable to obtain the requisite acceptance threshold of shares of JDE Peet's, additional measures may be performed to enable us to acquire the remaining shares, which may delay or impact our ability to complete the JDE Peet's Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about potential delay via additional measures if acceptance threshold not met."
+  },
+  {
+   "text": "There could be legal proceedings in connection with the JDE Peet's Acquisition, the outcomes of which are uncertain, could result in substantial costs, and which could delay or prevent the completion of the JDE Peet's Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new litigation risk specifically tied to the acquisition."
+  },
+  {
+   "text": "In connection with the JDE Peet's Acquisition, plaintiffs may file lawsuits against us, JDE Peet's, and/or the directors and officers of either company.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies potential lawsuits related to the acquisition as a new risk."
+  },
+  {
+   "text": "Securities class action lawsuits and derivative lawsuits are often brought against public companies that have entered into merger agreements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about typical litigation patterns following mergers, not specific to this company."
+  },
+  {
+   "text": "Even if such a lawsuit is unsuccessful, defending against these claims can result in substantial costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate about litigation defense costs."
+  },
+  {
+   "text": "An adverse judgment could also result in monetary damages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate about possible monetary damages from litigation."
+  },
+  {
+   "text": "Both defense costs and adverse judgments could have a negative impact on our liquidity and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties generic litigation cost risk to specific impact on liquidity and financial condition, expanding on prior boilerplate."
+  },
+  {
+   "text": "Such legal proceedings could also prevent or delay the completion of the JDE Peet's Acquisition and result in additional costs to us.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies risk that legal proceedings could delay or prevent the specific acquisition."
+  },
+  {
+   "text": "23 Table of Contents The market price of our common stock may decline as a result the JDE Peet's Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of stock price decline tied specifically to the acquisition."
+  },
+  {
+   "text": "The market price of our common stock may decline as a result of the JDE Peet's Acquisition if, among other things, we are unable to achieve the expected benefits and synergies of the JDE Peet's Acquisition, if the JDE Peet's Acquisition is not completed within the anticipated timeframe, or if the transaction costs related to the JDE Peet's Acquisition are greater than expected.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific causes for potential stock price decline related to the acquisition."
+  },
+  {
+   "text": "The market price of our common stock also may decline if we do not achieve the expected benefits and synergies of the JDE Peet's Acquisition as rapidly or to the extent anticipated by financial or industry analysts, or if the effect of the JDE Peet's Acquisition on our financial position, results of operations, or cash flows is not consistent with the expectations of financial or industry analysts.",
+   "category": "new_substantive_risk",
+   "rationale": "Further specifies market price risk tied to analyst expectations regarding the acquisition."
+  },
+  {
+   "text": "The market price declined following the announcement of the JDE Peet's Acquisition and the Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "States a factual market price decline following announcement, evidencing a new realized risk."
+  },
+  {
+   "text": "We will incur significant direct and indirect costs as a result of the JDE Peet's Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of significant direct and indirect costs from the acquisition."
+  },
+  {
+   "text": "We have incurred and expect to incur a number of costs associated with the JDE Peet's Acquisition, including legal, accounting, consulting, and other advisory fees, financing costs, and other transaction-related costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific cost categories incurred due to the acquisition."
+  },
+  {
+   "text": "The JDE Peet's Acquisition will require significant management and employee resources, which could impact our ability to grow our business and pursue additional strategic opportunities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding management/employee resource strain from the acquisition."
+  },
+  {
+   "text": "Certain costs related to the JDE Peet's Acquisition will be incurred regardless of whether the acquisition is completed, which may provide no benefit if such acquisition fails to be completed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces risk of sunk costs if the acquisition fails to close."
+  },
+  {
+   "text": "While we have assumed that a certain level of transaction expenses will be incurred, factors beyond our control could affect the total amount or the timing of these expenses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty in expense estimation, common boilerplate."
+  },
+  {
+   "text": "Many of the expenses that will be incurred, by their nature, are difficult to estimate accurately.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty estimating expenses, boilerplate."
+  },
+  {
+   "text": "These costs could restrict our resources and adversely affect our financial condition and results of operations leading up to, and following, the JDE Peet's Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies financial impact risk from acquisition-related costs on the business."
+  },
+  {
+   "text": "The JDE Peet's Acquisition will expose us to inherent risks in JDE Peet's' business and those geographies where JDE Peet's currently operates, which could adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of exposure to JDE Peet's business and geographic risks."
+  },
+  {
+   "text": "If consummated successfully, the JDE Peet's Acquisition would represent a significant transformation of our coffee business and will expand our operations to those geographies where JDE Peet's currently operates, including Russia, which represented 6% of consolidated revenue and 1% of total assets for JDE Peet's in both 2024 and 2023, as reported in their 2024 annual report.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new geographic risk exposure including Russia operations."
+  },
+  {
+   "text": "Upon completion of the JDE Peet's Acquisition, we would be subject to a variety of risks associated with JDE Peet's' business, in addition to those we already face in our current business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of assuming JDE Peet's business risks upon acquisition completion."
+  },
+  {
+   "text": "These risks include changes in consumer preferences, volatility in the prices of raw materials, consumer perceptions of the brands, competition in the retail market place, additional legal and regulatory regimes, and other risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete new risk categories such as consumer preference shifts, raw material volatility, and regulatory exposure from JDE Peet's business."
+  }
+ ]
+}

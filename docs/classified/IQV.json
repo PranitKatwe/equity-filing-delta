@@ -1,0 +1,153 @@
+{
+ "ticker": "IQV",
+ "sector": "Health Care",
+ "filing_date": "2026-02-17",
+ "accession": "0001628280-26-008322",
+ "prior_accession": "0001478242-25-000045",
+ "model": "claude-sonnet-5",
+ "n_added": 27,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "Our preventive and remedial actions, including the activities described in Item 1C Cybersecurity in this Annual Report on Form 10-K, may not be successful.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply cross-references the Cybersecurity item without adding new risk detail."
+  },
+  {
+   "text": "We are also investing significantly in our AI strategy by launching AI-enabled solutions across our business units, developing AI agents for internal use and external offerings, and developing relationships with key strategic partners across the health-tech sector to foster collaboration and facilitate interoperability amongst AI-enabled solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes expanded AI strategy investments, adding detail to existing AI-related risk discussion rather than a wholly new risk."
+  },
+  {
+   "text": "In general, health information related to an identifiable person is considered \u201csensitive personal information\u201d and is highly regulated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about regulatory classification of health information, not a new specific risk."
+  },
+  {
+   "text": "In many countries, there are restrictions related to the cross-border transfer of personal information to other countries, including the need to put measures in place to allow the data transfer to occur.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on cross-border data transfer restrictions, expanding existing privacy/data regulation risk."
+  },
+  {
+   "text": "For example, registration with the EU-US Data Protection Framework (DPF) allows the transfer of data from the EU to US.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides a specific legal mechanism (DPF) as compliance detail, not a new risk."
+  },
+  {
+   "text": "For companies not registering with the DPF, another means of legalizing the transfer is the use of standard contractual clauses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an alternative compliance mechanism (SCCs), procedural detail rather than new risk."
+  },
+  {
+   "text": "In addition, in several countries around the world there are requirements to maintain personal information or sensitive personal information within that particular country under their data localization laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about data localization laws, expanding existing data privacy compliance risk."
+  },
+  {
+   "text": "The development, deployment, and commercialization of certain AI\u2011enabled offerings and services involve significant uncertainty, including risks that models may not perform as intended, may produce incomplete, misleading, or biased outputs, or may not be adopted by customers at the pace or scale we expect.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks about AI model performance, bias, and adoption uncertainty."
+  },
+  {
+   "text": "If our investments in AI\u2011enabled services and offerings do not keep pace with rapid innovation by competitors or technology providers, or if alternative AI solutions evolve more quickly or are more cost\u2011effective than our offerings, certain of our existing services or platforms could become less competitive or economically viable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk related to AI investment pace and cost-effectiveness versus competitors."
+  },
+  {
+   "text": "Artificial Intelligence in this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing another section of the filing, no substantive content."
+  },
+  {
+   "text": "We are subject to rapidly changing and varied expectations and requirements on sustainability-related issues, from a wide range of stakeholders, such as governmental and self-regulatory organizations, including the Securities and Exchange Commission, U.S. federal and state governments, New York Stock Exchange, and the European Union, as well as our investors, customers and suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about stakeholder expectations on sustainability, generic framing."
+  },
+  {
+   "text": "In addition, many of our stakeholders have diverging demands, perspectives and preferences on a variety of sustainability topics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about diverging stakeholder preferences, no specific risk detail."
+  },
+  {
+   "text": "We may not be able to meet the diverging expectations and demands of all of our stakeholders, which could result in an adverse impact on our business, financial results, stock price or reputation, and subject us to legal, reputational and operational risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about potential adverse impacts without specifics."
+  },
+  {
+   "text": "For example, U.S. federal, state and local governmental authorities, as well as governmental authorities in various jurisdictions, have proposed or implemented and are likely to continue to propose or implement, legislative and regulatory initiatives around corporate governance and environmental and social practices and disclosures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General reference to regulatory initiatives on ESG disclosures, standard boilerplate."
+  },
+  {
+   "text": "Compliance with such evolving expectations, rules and regulations, including any that may emerge in the future as well as customer expectations and requirements, could increase the cost and complexity of operating our business, and could adversely impact us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compliance costs increasing, no new specific risk."
+  },
+  {
+   "text": "In addition, various jurisdictions have adopted or proposed laws, regulations and policies that diverge from, or potentially conflict with, those adopted or proposed in other jurisdictions, making compliance more difficult and uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about jurisdictional law conflicts, standard compliance boilerplate."
+  },
+  {
+   "text": "Failure to comply with any law, regulation or policy, including as a result of making good faith interpretations that may differ from those taken by authorities in relevant jurisdictions, could potentially result in legal, reputational and operational risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk of noncompliance, no new specific detail."
+  },
+  {
+   "text": "Furthermore, any actual or perceived failure to achieve our current and future sustainability goals, including those which result from customer expectations or requirements, or to act responsibly with respect to such matters or to effectively respond to new or additional sustainability-related legal or regulatory requirements, could result in adverse publicity and adversely affect our business and reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about reputational risk from failing sustainability goals, boilerplate."
+  },
+  {
+   "text": "There is no assurance that we will be able to successfully achieve any sustainability-related goal or execute on any sustainability-related strategy, or adequately meet stakeholder expectations with respect to such matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about no assurance of achieving sustainability goals."
+  },
+  {
+   "text": "Our efforts to attract, develop and retain highly skilled employees may be compounded by intensified restrictions on immigration particularly if fees are increased significantly on the transfer, renewal or extension of work visas.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding immigration restrictions and visa fee increases affecting talent acquisition."
+  },
+  {
+   "text": "We continue to hire personnel in countries where exceptional technical knowledge and other expertise are offered at lower costs, which increases the efficiency of our global workforce structure and reduces our personnel-related expenditures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing hiring strategy in lower-cost countries, not a new risk."
+  },
+  {
+   "text": "Nonetheless, as globalization continues, competition for talent in those countries has increased, which may impact our ability to retain these employees and increase our compensation-related expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing talent competition risk by noting increased compensation costs due to globalization."
+  },
+  {
+   "text": "For example, starting in the first quarter of 2026, we have restructured our operations to reduce our reportable segments from three to two.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a concrete structural change (reducing reportable segments) that could affect reporting and business operations."
+  },
+  {
+   "text": "If customers are able to obtain comparable insights through alternative AI\u2011enabled solutions, develop such capabilities internally, or shift spending toward lower\u2011cost providers, demand for certain of our services and offerings could decline, pricing pressure could increase, and our margins and growth prospects could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific competitive risk from customers adopting alternative AI solutions, impacting margins and growth."
+  },
+  {
+   "text": "Any significant change in regulations, such as the Inflation Reduction Act of 2022 (IRA), which contains drug price negotiation provisions, or change in the interpretation of existing regulations, could reduce demand for our offerings or increase our expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing regulatory risk (IRA) affecting demand, adding specific example."
+  },
+  {
+   "text": "For example, in May 2025, the Trump administration issued an executive order entitled \u201cDelivering Most-Favored-Nation Prescription Drug Pricing to American Patients,\u201d which, among other things, directs the HHS and other agencies to communicate most-favored-nation price targets to pharmaceutical manufacturers to bring prices for U.S. patients in line with comparably developed nations and to facilitate direct-to-consumer purchasing programs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory action (executive order on drug pricing) not previously disclosed."
+  },
+  {
+   "text": "It is currently unclear whether and to what extent these measures will be implemented and what impact any such implementation would have on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of regulatory implementation impact, standard cautionary language."
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "ticker": "CCL",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-01-27",
+ "accession": "0000815097-26-000007",
+ "prior_accession": "0000815097-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 34,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 18,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events and contingencies discussed below may have occurred in the past and reflect our beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing language about risk factors, not a specific risk."
+  },
+  {
+   "text": "Additionally, with the increased use of artificial intelligence (\u201cAI\u201d) and social media, adverse publicity, even if unfounded, has been and can continue to be disseminated quickly and broadly without context, making it increasingly difficult for us to effectively respond.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor: AI and social media accelerating spread of unfounded adverse publicity."
+  },
+  {
+   "text": "Adverse weather conditions or an increase in the frequency and/or severity of adverse weather conditions could have a material impact on our business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about adverse weather impacting business, expanding on a known weather risk."
+  },
+  {
+   "text": "For example, adverse weather or other natural disasters have impacted and may in the future impact the sourcing of our guests from affected regions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific example of weather impact on guest sourcing, elaborating existing weather risk."
+  },
+  {
+   "text": "In addition, the reliability of air transportation, which our guests depend on to transport them to or from the airports near the ports where our cruises embark and disembark have been and may continue to be impacted by adverse weather events.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about air transportation reliability being affected by adverse weather, expanding existing weather risk."
+  },
+  {
+   "text": "The frequency and intensity of certain adverse weather patterns may also increase in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes potential increase in frequency/intensity of weather patterns, expanding existing weather risk."
+  },
+  {
+   "text": "Additionally, our increasing itineraries and investments in port destinations and exclusive islands in the Caribbean region may further expose us to adverse weather conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects port/island investments to increased weather exposure, expanding existing risk."
+  },
+  {
+   "text": "The sophistication of these attacks has continued to increase in recent years and the rapid evolution and growing adoption of AI technologies by various threat actors may enhance their ability to conduct attacks which are more difficult to prevent, detect or remediate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of AI-enhanced cyberattacks that are harder to detect and prevent."
+  },
+  {
+   "text": "Our debt requires a significant amount of cash to service and our ability to generate sufficient cash depends on many factors, some of which may be beyond our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about debt servicing dependent on various factors, standard boilerplate."
+  },
+  {
+   "text": "Our financial condition and operations could be adversely impacted if we are unable to service our debt or satisfy our covenants.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about financial impact of failing to service debt, standard boilerplate."
+  },
+  {
+   "text": "Emission penalties and the costs of compliant fuels may also increase our energy costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cost risk from emission penalties and compliant fuel costs."
+  },
+  {
+   "text": "Our investments in port destinations and exclusive islands may expose us to additional risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement expanding on risks tied to port destination investments."
+  },
+  {
+   "text": "We continue to invest in expanding and enhancing our portfolio of port destinations and exclusive islands, which could increase our exposure to certain risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on increased risk exposure from continued investment in port destinations."
+  },
+  {
+   "text": "These risks include susceptibility to weather events, exposure to local political/regulatory developments and policies, logistical challenges, human resource and labor risks, safety, environmental and health risks. l.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific categories of risk tied to port destinations, expanding on the general port risk."
+  },
+  {
+   "text": "Additionally, certain ports have increased or are proposing to increase cruise related fees and taxes which may impact our profitability. m.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of increased cruise-related fees and taxes affecting profitability."
+  },
+  {
+   "text": "25 Compliance and Regulatory Risk Factors a.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header, not a substantive risk statement."
+  },
+  {
+   "text": "In addition, the global focus on sustainability and the impact of GHG and other emissions on the environment may lead to additional regulatory requirements, refer to Compliance and Regulatory Risk Factor \u201cb.\u201d below for additional discussion.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects GHG/sustainability focus to potential new regulatory requirements, expanding existing environmental risk."
+  },
+  {
+   "text": "Factors associated with sustainability and the impact of GHG and other emissions on the environment could have a material impact on our business and operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about sustainability/emissions impact, expanding existing environmental risk factor."
+  },
+  {
+   "text": "Our business has faced and may in the future continue to face increased scrutiny from our guests, our team members, the investment community, media (including social media), governments, regulators, destinations and other parties related to our sustainability and environmental activities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes increased scrutiny from various stakeholders on sustainability, expanding existing reputational/environmental risk."
+  },
+  {
+   "text": "At the same time, we may also face negative impacts from those who do not support sustainability-related initiatives or concerns or disagree with our actual or perceived initiatives or positions, or lack of thereof, on various sustainability, environmental, political, social, governance, or other issues.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of backlash from parties opposed to sustainability initiatives."
+  },
+  {
+   "text": "We may not successfully complete the proposed unification of our DLC structure and the migration of Carnival Corporation\u2019s legal incorporation to Bermuda, or, if we do, we may not realize the anticipated benefits and will be subject to Bermuda law, which differs in some respects compared to our current jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new corporate risk regarding the proposed DLC unification and redomiciliation to Bermuda."
+  },
+  {
+   "text": "In December 2025, we announced that our Boards of Directors recommended unifying our DLC structure under a single company, Carnival Corporation, with Carnival plc as its wholly-owned UK subsidiary (the \u201cDLC Unification\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific corporate action (DLC Unification) not previously mentioned, foundational to new risk."
+  },
+  {
+   "text": "Additionally, they proposed migrating Carnival Corporation from the Republic of Panama, where Carnival Corporation is currently domiciled, to Bermuda under the name \u201cCarnival Corporation Ltd.\u201d (the \u201cRedomiciliation\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Details new specific plan to redomicile to Bermuda, a new corporate risk."
+  },
+  {
+   "text": "We believe that the DLC Unification and Redomiciliation will provide various benefits to us and our shareholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive framing statement about anticipated benefits, not itself a risk disclosure."
+  },
+  {
+   "text": "However, we may not realize all the anticipated benefits, and the extent, timing and magnitude of any such benefits is uncertain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that anticipated benefits of the transaction may not be realized."
+  },
+  {
+   "text": "Completion of the DLC Unification and Redomiciliation is conditioned upon, among other things, the receipt of shareholder approvals, the necessary approval by the relevant court and the receipt of certain antitrust and other regulatory approvals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding conditions required for completion of the DLC Unification and Redomiciliation."
+  },
+  {
+   "text": "If the DLC Unification and Redomiciliation are not completed, we will not realize the benefits we anticipate from the DLC Unification and Redomiciliation and we would continue operating under our existing DLC structure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of continuing under existing structure if transaction fails."
+  },
+  {
+   "text": "Negative publicity resulting from the Redomiciliation could adversely affect our business and the market price of our shares.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of negative publicity from the Redomiciliation affecting stock price."
+  },
+  {
+   "text": "Redomiciliation transactions that have been undertaken by other companies have in some cases generated significant news coverage, some of which has been negative.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific supporting detail on negative publicity risk from comparable redomiciliation transactions."
+  },
+  {
+   "text": "Negative publicity could cause some of our shareholders to sell their shares or decrease the demand for new investors to purchase such shares, which could have an adverse impact on the price of our securities.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific mechanism by which negative publicity could harm share price/demand."
+  },
+  {
+   "text": "If the DLC Unification and Redomiciliation are completed, Carnival Corporation will become a Bermuda exempted company and Carnival Corporation and Carnival plc shareholders will become shareholders of Bermuda-incorporated Carnival Corporation Ltd.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new legal/corporate status change (Bermuda exempted company) tied to the new transaction risk."
+  },
+  {
+   "text": "Bermuda law differs from the laws in effect in England and Wales, Carnival plc\u2019s jurisdiction of incorporation, as well as Panama, Carnival Corporation\u2019s current jurisdiction of incorporation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding differences in Bermuda law versus current jurisdictions."
+  },
+  {
+   "text": "In certain circumstances, the laws of Bermuda may offer shareholders different protections than the laws of England and Wales or the laws of Panama.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific risk that Bermuda law may provide different shareholder protections."
+  },
+  {
+   "text": "There are also differences between the existing organizational documents of Carnival plc and Carnival Corporation and the proposed organizational documents of Carnival Corporation Ltd. that will be in effect upon the completion of the DLC Unification and Redomiciliation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding differences in organizational documents post-transaction."
+  }
+ ]
+}

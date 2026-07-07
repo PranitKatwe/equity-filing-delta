@@ -1,0 +1,218 @@
+{
+ "ticker": "NI",
+ "sector": "Utilities",
+ "filing_date": "2026-02-11",
+ "accession": "0001111711-26-000027",
+ "prior_accession": "0001111711-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "In June 2025, the EPA proposed to repeal GHG emissions standards for fossil fuel-fired power plants that were finalized by the previous federal administration in May 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory development (EPA proposal to repeal GHG standards) with direct implications for NIPSCO's generation planning."
+  },
+  {
+   "text": "The proposed repeal would eliminate key requirements from the 2024 Carbon Pollution Standards, including capacity factor thresholds and carbon capture and storage (CCS) mandates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on the scope of the EPA repeal proposal introduced in the prior sentence."
+  },
+  {
+   "text": "If finalized, this action would remove regulatory constraints that could significantly impact NIPSCO\u2019s planned gas generation, allowing customers to avoid approximately $675 million in additional costs as contemplated through the 2024 NIPSCO IRP.",
+   "category": "expanded_existing_risk",
+   "rationale": "Quantifies the financial impact ($675 million) of the regulatory change already introduced."
+  },
+  {
+   "text": "In December 2025, the Maryland Public Service Commission (\"MD PSC\") issued proposed regulations with the stated purpose of eliminating \"subsidies\" for the extension of gas mains and service lines to new residential and commercial customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new specific regulatory action by MD PSC affecting cost allocation for new gas service, a concrete new risk."
+  },
+  {
+   "text": "According to the MD PSC, these regulations, if finalized, would require persons who request new service to pay the full cost of extending service in order to minimize the risk of future stranded costs for all ratepayers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the mechanics of the MD PSC proposal already introduced."
+  },
+  {
+   "text": "These proposed regulations were issued in accordance with a June 2025 MD PSC order directing its Staff to prepare such proposed regulations by December 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural background/timeline information, not a new risk itself."
+  },
+  {
+   "text": "In August 2025, the MD PSC instituted formal proceedings to investigate issues pertaining to long-term natural gas company planning practices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory proceeding investigating long-term gas planning practices."
+  },
+  {
+   "text": "One purpose of these proceedings is to ensure that planning is consistent with Maryland's climate goals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides purpose/context for the previously introduced regulatory proceeding."
+  },
+  {
+   "text": "As discussed in Part II, Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another section, no risk content."
+  },
+  {
+   "text": "We also offer employee resource groups (ERGs), which are offered to all employees and provide individuals with a shared interest the opportunity to connect.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee resource groups, unrelated to risk factor substance."
+  },
+  {
+   "text": "BUSINESS Succession Planning .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header fragment, not substantive content."
+  },
+  {
+   "text": "Available Information We are required to file annual, quarterly and current reports, proxy statements and other information with the SEC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure about SEC filing requirements."
+  },
+  {
+   "text": "The SEC maintains an internet website at www.sec.gov that contains reports, proxy and information statements, and other information regarding issuers from which investors can electronically access our SEC filings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard reference to SEC website availability of filings."
+  },
+  {
+   "text": "We make a number of reports and other information available free of charge on our website, www.nisource.com, including our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports as soon as reasonably practicable after such material is electronically filed with or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure about company website report availability."
+  },
+  {
+   "text": "The information on our website is not, and shall not be deemed to be, a part of this Annual Report on Form 10-K or incorporated into any other filings we make with the SEC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer about website information not being part of filing."
+  },
+  {
+   "text": "64 Executive Vice President, Chief Operating and Safety Officer of NiSource since May 2024 Executive Vice President, Operations and Chief Safety Officer of NiSource from July 2022 to May 2024 Station Director at STPNOC, Wadsworth, Texas, from 2020 to May 2022 and Vice President in 2022 Michael S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography information, unrelated to risk factors."
+  },
+  {
+   "text": "Additional risks and uncertainties not presently known to us or that we currently believe are immaterial may also harm our business, financial condition, results of operations, cash flows, and the market price of our common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language common to risk factor sections."
+  },
+  {
+   "text": "Risk Factors Summary The following is a summary of material risks that could adversely affect our business, financial condition, results of operations, cash flows, and the market price of our common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory framing for a risk factors summary, not substantive."
+  },
+  {
+   "text": "LITIGATION, REGULATORY AND LEGISLATIVE RISKS \u2022 The outcome of legal and regulatory proceedings, investigations, inquiries, claims and litigation related to our business operations may have a material adverse effect on our results of operations, financial position or liquidity. \u2022 A failure to comply with changes in, or new or different interpretations of, the various federal, state and local laws, regulations, tariffs and policies applicable on our business. \u2022 Our businesses are regulated under numerous environmental laws and regulations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates standard categories of legal/regulatory risk already commonly disclosed."
+  },
+  {
+   "text": "The cost of compliance with these laws and regulations, and changes to or additions to, or reinterpretations of the laws and regulations, could be significant, and the cost of compliance may not be recoverable.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about compliance costs, standard boilerplate risk language."
+  },
+  {
+   "text": "Liability from the failure to comply with existing or changed laws and regulations could have a material adverse effect on our business, results of operations, cash flows and financial condition. \u2022 Changes in tax laws or the interpretation thereof and challenges to tax positions could adversely affect our financial results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about liability from non-compliance and tax law changes, standard risk framing."
+  },
+  {
+   "text": "These initiatives have increased the volume and pace of change within our organization and may not be effective or achieve planned results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about organizational change pace, lacks specific new risk detail."
+  },
+  {
+   "text": "These initiatives may also divert the attention of management from other aspects of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about management attention diversion, common boilerplate."
+  },
+  {
+   "text": "See \u201cData Center Operations and Strategy Risks\u201d for a discussion of certain such risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk section, not new content."
+  },
+  {
+   "text": "The NIPSCO Holdings II LLC Agreement and Generation Holdings II LLC Agreement contain certain such provisions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to existing LLC agreements, procedural in nature."
+  },
+  {
+   "text": "RISK FACTORS parties to take action that we believe would be in the JV\u2019s best interest, and, accordingly, disputes may arise that may result in operational impasses or litigation, including business delays.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on JV governance risk with specific mention of operational impasses or litigation."
+  },
+  {
+   "text": "Absent a directive to remain open, we intend to retire the two natural-gas fired peaking units at R.M Schahfer Generating Station by the end of 2027 and the coal unit at Michigan City Generating Station by the end of 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new operational plans for retiring named generating units by specific dates, a concrete business risk."
+  },
+  {
+   "text": "Although we had previously intended to retire them by the end of 2025, the two coal units at R.M.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on a change to a previously disclosed retirement timeline."
+  },
+  {
+   "text": "Schahfer Generating Station are currently subject to a federal directive to remain open.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific federal directive forcing continued operation of coal units, a new regulatory constraint with cost implications."
+  },
+  {
+   "text": "Project delays or potential changes with MISO's capacity accreditation of these replacement resources, may also drive us to evaluate additional alternatives to meet our capacity requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding MISO capacity accreditation changes affecting replacement resource planning."
+  },
+  {
+   "text": "In recent years, MISO has implemented new capacity accreditation rules and continues to put forth new plans and proposals relating to its accreditation requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides background on ongoing MISO rule changes supporting the previously introduced risk."
+  },
+  {
+   "text": "Recent MISO accreditation changes have affected generation 22 Table of Contents N I S OURCE I NC .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table of contents header text, not substantive."
+  },
+  {
+   "text": "RISK FACTORS resources, with solar, wind, and battery storage being more significantly impacted than natural gas.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies which resource types are more affected by MISO changes, adding detail to existing risk."
+  },
+  {
+   "text": "It is possible that, under future MISO rules, the capacity accreditation for the capacity resources we construct (potentially including the significant capacity resources we plan to construct to serve ADS and any additional data center customers) will be eliminated or reduced, in which case we would need to replace or supplement the accredited generation capacity we plan to build.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential consequences of MISO accreditation changes on planned capacity resources."
+  },
+  {
+   "text": "We expect that we would need to obtain significant additional debt and equity financing to fund these investments, which may not be available on favorable terms or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on financing needs stemming from the previously described MISO risk."
+  },
+  {
+   "text": "Although under the terms of the ADS Contract the costs of additional investment in generation resources in response to loss of MISO accreditation would be shared by us and ADS, such investment would be funded initially by us, and our recovery from ADS would occur over an extended period of time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details cost-sharing terms under ADS Contract related to the previously introduced MISO risk."
+  },
+  {
+   "text": "In addition, there can be no guarantee that future data center contracts will contain adequate protections in this regard, or that any such contractual protections would be effective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the risk to future contracts lacking similar protections."
+  },
+  {
+   "text": "If we are required to construct additional generation as a result of MISO accreditation changes (and obtain related financing), this could negatively impact our return under the ADS Contract or other data center contracts or otherwise adversely affect our future results and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes financial consequences flowing from the previously introduced MISO/ADS risk chain."
+  },
+  {
+   "text": "In particular, in addition to the capital projects we plan to undertake to support our base business, in connection with the ADS Contract, we expect to construct, through GenCo, 400 MW of new battery storage and a new power generation facility consisting of two 1,300 MW CCGTs, which are expected to reach commercial operation between 2028 and 2032, as well as related transmission and distribution assets.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new capital construction plans (battery storage and CCGT facilities) with defined scale and timeline, a new concrete business commitment risk."
+  },
+  {
+   "text": "In addition, in order to perform under any further data center contracts, we expect that we will need to develop additional generation and transmission assets, which may be significant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generalizes the need for additional infrastructure for future data center contracts, extending the previously introduced capital investment risk."
+  }
+ ]
+}

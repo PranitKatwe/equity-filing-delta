@@ -1,0 +1,23 @@
+{
+ "ticker": "FRT",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-12",
+ "accession": "0000034903-26-000017",
+ "prior_accession": "0000034903-25-000016",
+ "model": "claude-sonnet-5",
+ "n_added": 1,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "We have entered into interest rate swaps on $500.6 million of this variable rate debt to effectively fix the rate and limit our exposure to variable rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "This sentence adds specific detail about hedging $500.6 million of variable rate debt with interest rate swaps, which elaborates on an existing interest rate risk exposure rather than introducing a wholly new risk category."
+  }
+ ]
+}

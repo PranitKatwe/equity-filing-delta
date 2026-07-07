@@ -1,0 +1,63 @@
+{
+ "ticker": "XOM",
+ "sector": "Energy",
+ "filing_date": "2026-02-18",
+ "accession": "0000034088-26-000045",
+ "prior_accession": "0000034088-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "2 Table of Contents Financial Table of Contents Other supply-related factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a table-of-contents header artifact, not a risk statement."
+  },
+  {
+   "text": "There also may be new or emerging factors that could increase global oil, gas, and petrochemical supply levels in the short or long term, such as government policies and actions intended to boost or expand development of domestic or foreign oil and gas reserves or accelerate the pace of production reaching markets, including access to previously unavailable, sanctioned, or protected oil and gas resources or the availability or opening of new shipping routes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factors\u2014government policies enabling access to previously sanctioned/protected reserves and new shipping routes\u2014that could materially affect supply dynamics."
+  },
+  {
+   "text": "Dynamic and unpredictable world events may lead to new oil and gas opportunities becoming available or current opportunities becoming less available or unavailable, and such events may adversely affect our business and results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generalizes and reinforces the existing risk about volatile world events affecting oil/gas opportunities, without adding a distinct new specific risk beyond what's implied elsewhere."
+  },
+  {
+   "text": "They also may place resources off-limits from development altogether.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Brief continuation clause about resources being off-limits, lacking specific new detail beyond prior context."
+  },
+  {
+   "text": "We also may be adversely affected by the outcome of litigation, including class actions or arbitrations, especially in countries such as the United States that permit large and unpredictable punitive and non-economic damage awards.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific new litigation risk concerning class actions/arbitrations and large punitive damage awards in certain jurisdictions."
+  },
+  {
+   "text": "Other jurisdictions adopting similar models to impose liability schemes on our products or operations may present similar risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the litigation risk to other jurisdictions adopting similar liability models, building on the newly introduced litigation risk."
+  },
+  {
+   "text": "Without supportive policies and the innovations they drive, net zero will remain out of reach \u2013 for society and for ExxonMobil.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cautionary statement about net zero goals lacking specific business risk detail."
+  },
+  {
+   "text": "Society\u2019s progress continues to lag in these areas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about societal progress lagging, not a specific business risk."
+  },
+  {
+   "text": "5 Table of Contents Financial Table of Contents Policy and market development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table-of-contents header text, not substantive risk content."
+  }
+ ]
+}

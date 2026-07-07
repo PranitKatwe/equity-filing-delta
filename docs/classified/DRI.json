@@ -1,0 +1,28 @@
+{
+ "ticker": "DRI",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2025-07-18",
+ "accession": "0000940944-25-000038",
+ "prior_accession": "0000940944-24-000035",
+ "model": "claude-sonnet-5",
+ "n_added": 2,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Anticipated changes in immigration laws and regulations could decrease the pool of candidates with legal work authorizations, cause disruption in the workforce for all companies that rely on hourly workers and increase the costs, time and requirements to hire new employees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to immigration law changes affecting hourly workforce availability and hiring costs, not previously mentioned."
+  },
+  {
+   "text": "Failure to maintain such brand and operating excellence may also result in restaurant closures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific consequence (restaurant closures) to an existing risk about maintaining brand and operating excellence, expanding its severity."
+  }
+ ]
+}

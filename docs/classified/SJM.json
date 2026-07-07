@@ -1,0 +1,138 @@
+{
+ "ticker": "SJM",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-06-09",
+ "accession": "0000091419-26-000050",
+ "prior_accession": "0000091419-25-000056",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "The Hostess Brands business has been substantially integrated into our operations; however, managing a larger and more complex organization requires continued management attention.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the ongoing integration challenge already known from Hostess acquisition without adding new specifics."
+  },
+  {
+   "text": "KDP is our primary supplier of single-serve pods and the single-source supplier of liquid coffee for our Away From Home business.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies KDP as a single-source supplier for liquid coffee, a new specific supplier concentration risk not previously disclosed."
+  },
+  {
+   "text": "There are a limited number of manufacturers, other than KDP, capable of producing liquid coffee for use in our systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the limited alternative manufacturers for liquid coffee, expanding on the supplier concentration risk just introduced."
+  },
+  {
+   "text": "As discussed in additional detail below, the Sweet Baked Snacks reporting unit has no remaining goodwill as a result of the impairment charges recorded during 2026, and the Hostess brand trademark was reclassified as a finite-lived intangible asset.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific financial event\u2014full goodwill impairment and reclassification of a trademark\u2014new material information."
+  },
+  {
+   "text": "During the third quarter of 2026, both net sales and segment profit continued to underperform as compared to plan for the Sweet Baked Snacks reportable segment, reflecting sustained challenges in the sweet baked goods category, ongoing executional and operating challenges, and the impact of a dynamic macroeconomic environment, inclusive of continued pressures on consumer discretionary spending and an evolving regulatory environment.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific quarterly underperformance details for a segment, a new concrete financial risk disclosure."
+  },
+  {
+   "text": "The declines are reflective of both near-term underperformance and long-term expectations for both net sales and segment profit, driven by the sustained reduction in consumer discretionary income due to inflationary pressures and an overall shift in consumer sentiment related to sweet baked goods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the causes of the underperformance already described, adding detail rather than a new risk."
+  },
+  {
+   "text": "The goodwill impairment charge represents the full remaining carrying value of the goodwill within the Sweet Baked Snacks reporting unit and the indefinite-lived trademark impairment charge represents the excess of the carrying value over the estimated fair value.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides quantifying detail on the impairment charge already introduced."
+  },
+  {
+   "text": "As a result of the goodwill impairment charge, we completed an impairment review of the remaining long-lived assets within the Sweet Baked Snacks reporting unit and did not recognize any additional impairment charges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds follow-up detail about the impairment review process, continuing the same disclosed risk."
+  },
+  {
+   "text": "Furthermore, we reassessed the long-term strategic expectations for the Hostess brand, inclusive of the impact of recent category trends, resulting in the reprioritization of our investments in growth brands outside of the reporting unit and the brand being reclassified as a finite-lived intangible asset as of January 31, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new strategic reassessment and reclassification of the Hostess brand as a finite-lived asset, a material new fact."
+  },
+  {
+   "text": "Retail Pet Foods reportable segment, which is susceptible to future impairment charges if there is any significant adverse changes in our near- or long-term projections for the brand or macroeconomic conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a different segment (Retail Pet Foods) as newly susceptible to impairment, a new specific risk area."
+  },
+  {
+   "text": "Additionally, we may be subject to claims, investigations, or litigation under federal or state ingredient, labeling, packaging, or securities laws, including securities class actions arising from our public disclosures, stock price volatility, or other factors, regardless of the merits of such claims.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new litigation risk regarding securities class actions tied to stock price volatility and disclosures."
+  },
+  {
+   "text": "Litigation is expensive, time consuming, and disruptive to management and may result in substantial defense costs, settlements, or judgments, as well as reputational harm and increased scrutiny from regulators and investors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about litigation being costly and disruptive, standard boilerplate language."
+  },
+  {
+   "text": "Although certain tariffs were subsequently lifted or invalidated, trade policy remains highly uncertain, and the U.S. government may impose new or modified tariffs in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing tariff risk by noting some tariffs were lifted but uncertainty remains."
+  },
+  {
+   "text": "In addition, more states continue to introduce corresponding privacy rights bills in committee, which means the scope of applicable privacy laws may continue to expand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing privacy law risk discussion with detail about expanding state legislation."
+  },
+  {
+   "text": "Additionally, there is an increased focus by foreign, federal, state, and local regulatory and legislative bodies regarding environmental policies relating to climate change, regulating greenhouse gas emissions, energy policies, and sustainability, including single-use plastics and recycling instructions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specifics (single-use plastics, recycling) to the already existing climate/environmental regulation risk."
+  },
+  {
+   "text": "Market perceptions and stakeholder engagement may impact our stock price and business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category concerning stakeholder engagement and market perception affecting stock price."
+  },
+  {
+   "text": "Our stock price may be influenced by a variety of factors, including stakeholder sentiment regarding our industry or Company and differing perspectives on our strategy, governance, or capital allocation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the stakeholder sentiment risk just introduced."
+  },
+  {
+   "text": "Stakeholders may from time to time engage with us or express perspectives on these matters, which may require management and Board attention and could impact public perceptions about the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing stakeholder engagement effects, adding detail to the new risk theme."
+  },
+  {
+   "text": "These factors could adversely affect our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about adverse effects, standard cautionary language."
+  },
+  {
+   "text": "Geopolitical conflicts and evolving international trade and regulatory conditions have adversely affected, and may continue to adversely affect, the global economy and financial markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new geopolitical risk affecting global economy and financial markets."
+  },
+  {
+   "text": "Governments in various jurisdictions have implemented, and may continue to implement, sanctions, trade restrictions, export controls, or other regulatory measures that can disrupt global supply chains and increase costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific government actions (sanctions, trade restrictions) that expand on the geopolitical risk just introduced."
+  },
+  {
+   "text": "While we do not have operations in regions experiencing geopolitical conflict, these conditions have contributed to, and may continue to contribute to, the volatility in the availability and cost of raw materials, transportation, and energy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies the company's exposure (no direct operations) while still linking to raw material and cost volatility, expanding the geopolitical risk."
+  },
+  {
+   "text": "Prolonged or escalating geopolitical conflicts could also result in cyber incidents, further supply chain disruptions, reduced consumer confidence and demand, foreign currency exchange rate volatility, and additional barriers to international trade.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds further potential consequences (cyber incidents, supply chain disruption) to the previously introduced geopolitical risk."
+  },
+  {
+   "text": "Any of these factors could adversely affect our business, financial condition, results of operations, or cash flows, and may exacerbate other risks described in this section.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing risk factor language, common cautionary statement without new specifics."
+  }
+ ]
+}

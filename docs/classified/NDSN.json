@@ -1,0 +1,73 @@
+{
+ "ticker": "NDSN",
+ "sector": "Industrials",
+ "filing_date": "2025-12-17",
+ "accession": "0000072331-25-000144",
+ "prior_accession": "0000072331-24-000177",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "In response, many foreign countries have implemented or increased tariffs on imports into their countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding foreign tariffs on imports, which was not previously disclosed."
+  },
+  {
+   "text": "Changes in trade policies, tariffs, and other import/export regulations of the U.S. and other nations could change how we transact business, who we trade with, affect our relationships with customers and suppliers, and negatively impact our sales, margins and profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new, specific risk about changes in trade policy and tariffs affecting sales, margins, and customer/supplier relationships."
+  },
+  {
+   "text": "We may be incorporating artificial intelligence technologies into our products, services and processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a brand-new topic: incorporation of AI technologies into products and processes, a risk not previously mentioned."
+  },
+  {
+   "text": "These technologies may present business, compliance and reputational risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement that AI presents 'business, compliance and reputational risks' without specifics; sets up later detail."
+  },
+  {
+   "text": "The introduction of artificial intelligence (\"AI\") and machine-learning technologies, particularly generative AI, into internal processes, third-party services and/or new and existing offerings may result in new or expanded risks and liabilities, including due to enhanced governmental or regulatory scrutiny, litigation, compliance issues, ethical concerns, confidentiality or security risks, as well as other factors that could adversely affect our business, reputation and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new risks from AI/machine-learning adoption, including regulatory scrutiny, litigation, and confidentiality/security concerns."
+  },
+  {
+   "text": "In addition, our personnel could, unbeknownst to us, improperly utilize AI and machine learning-technology while carrying out their responsibilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of employees misusing AI tools without company knowledge."
+  },
+  {
+   "text": "The use of AI in third-party services and the development of our products and services could also cause loss of intellectual property, as well as subject us to risks related to intellectual property infringement or misappropriation, data privacy and cybersecurity.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific new risk of IP loss and IP infringement/misappropriation tied to AI use in third-party services."
+  },
+  {
+   "text": "The use of artificial intelligence can lead to unintended consequences, including generating content that appears correct but is factually inaccurate, misleading or otherwise flawed, or that results in unintended biases and discriminatory outcomes, which could harm our reputation and business and expose us to risks related to inaccuracies or errors in the output of such technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of AI generating inaccurate or biased content harming reputation and business."
+  },
+  {
+   "text": "Nordson Corporation 13 Table of Contents If our intellectual property protection is inadequate, others may be able to use our technologies and tradenames and thereby reduce our ability to compete, which could have a material adverse effect on our business, financial condition and results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about inadequate IP protection reducing competitive ability is standard boilerplate language commonly found in IP risk sections, not a new specific threat."
+  },
+  {
+   "text": "We may be exposed to liabilities under the Foreign Corrupt Practices Act (\"FCPA\"), which could have a material adverse effect on our business, reputation, financial condition or results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legal risk related to FCPA liability exposure."
+  },
+  {
+   "text": "Any new climate-change regulations could result in additional compliance costs for the Company and our suppliers, negatively impacting profits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding potential climate-change regulations increasing compliance costs for the company and suppliers."
+  }
+ ]
+}

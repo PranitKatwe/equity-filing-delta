@@ -1,0 +1,123 @@
+{
+ "ticker": "AEE",
+ "sector": "Utilities",
+ "filing_date": "2026-02-18",
+ "accession": "0001002910-26-000009",
+ "prior_accession": "0001002910-25-000055",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Pursuant to the PPRA, Ameren Missouri\u2019s natural gas utility rates established in proceedings filed after June 2026 will be allowed to be based on future costs, revenues, and sales volumes, subject to MoPSC approval.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory mechanism (PPRA) allowing future-cost-based gas rates after June 2026, a concrete new regulatory risk not previously described."
+  },
+  {
+   "text": "Ameren Missouri and Ameren Illinois, and the utility industry generally, have experienced higher maintenance costs and capital expenditures to operate their electric, natural gas, and transmission businesses, which has led to increases in customer rates and the related revenue requirements needed to recover such costs and earn a return on investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the already-known risk of rising utility maintenance and capital costs leading to rate increases, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "Pursuant to the CEJA, Ameren Illinois has the option to establish electric distribution rates through an MYRP or a traditional regulatory rate review.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new specific regulatory option (MYRP) for setting Ameren Illinois electric rates under CEJA, a concrete new mechanism."
+  },
+  {
+   "text": "The management and disposal of coal ash from our coal-fired energy centers must comply with federal regulations known as the CCR Rule issued under the Resource Conservation and Recovery Act and require the closure of surface impoundments at our coal-fired energy centers along with groundwater monitoring requirements and the implementations of corrective measures if necessary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing CCR Rule compliance obligations for coal ash management, which is standard environmental regulatory description rather than a new risk."
+  },
+  {
+   "text": "The United States withdrew from the Paris Agreement and the United Nations Framework Convention on Climate Change in January 2025 and 2026, respectively.",
+   "category": "new_substantive_risk",
+   "rationale": "States a specific new factual event (US withdrawal from Paris Agreement/UNFCCC) that introduces a new geopolitical/regulatory risk factor."
+  },
+  {
+   "text": "Also, changes to capacity accreditation rules adopted by the MISO could reduce the accredited capacity of renewable generation and battery storage and increase regional capacity prices, potentially requiring additional investment and higher costs to satisfy resource adequacy requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory change (MISO capacity accreditation rules) that could materially affect capacity prices and investment needs."
+  },
+  {
+   "text": "In addition, the presidential administration has issued executive orders and taken other actions to increase investment in fossil fuel infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced federal policy shift theme by describing specific executive actions, expanding the political/regulatory risk narrative."
+  },
+  {
+   "text": "This change in federal domestic energy policy has created uncertainty regarding the role existing renewable generation will play in supporting the United States\u2019 energy grid and the timing and extent of future renewable generation infrastructure development.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the uncertainty created by the federal policy shift already introduced, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "Ameren Missouri\u2019s plan could be affected by this change in energy policy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement that Ameren Missouri's plan 'could be affected' adds little specific new information beyond the already-described policy risk."
+  },
+  {
+   "text": "In addition, in February 2026, Ameren Missouri executed electric service agreements with large load customers under its large load customer rate plan, representing 2.2 gigawatts of demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new factual detail (2.2 GW of large load customer demand agreements) representing a concrete new business development risk."
+  },
+  {
+   "text": "Also, demand growth may not be realized at the rate, or in the amount, expected if construction of customer facilities is not completed within expected timeframes, which is dependent on the ability of suppliers, contractors, and developers to meet contractual commitments and timely complete projects.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding construction delays by suppliers/contractors affecting realization of demand growth."
+  },
+  {
+   "text": "In addition, expected demand growth may not be realized if emerging technologies are not broadly adopted at the rate expected, increased efficiencies in computing or other advances in these technologies reduce energy demand for data centers, or large load customers, such as data centers, 27 Table of Contents are not supported by local communities or do not receive necessary approvals by local municipalities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks related to technology adoption rates and local approval hurdles for data center customers."
+  },
+  {
+   "text": "Although customers subject to the large load customer rate plan in Ameren Missouri\u2019s service territory are required to sign agreements for specific term lengths to reasonably ensure rates they are charged reflect a representative share of the costs incurred to serve them, these customers could terminate their agreements early or reduce minimum capacity levels.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of large load customers terminating agreements early or reducing capacity levels."
+  },
+  {
+   "text": "These agreements include exit fees for early termination and fees for capacity reductions, but these fees may not fully mitigate this risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the previously introduced termination risk by noting that mitigation fees may be insufficient."
+  },
+  {
+   "text": "Although assets constructed or acquired to serve these customers will also be used to serve other Ameren Missouri customers, early termination or capacity reductions could impact Ameren Missouri\u2019s ability to fully recover its investment in, and return on, those assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on the termination/capacity reduction risk by detailing impact on investment recovery."
+  },
+  {
+   "text": "In addition, demand for construction services within the utility industry has increased significantly due to growing energy demand and energy transition, creating limited availability of suppliers, contractors, and developers, which could impact the Ameren Companies' ability to timely construct or acquire assets needed to meet forecasted demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new supply chain risk due to increased industry-wide demand for construction services and limited contractor availability."
+  },
+  {
+   "text": "If the Ameren Companies are required to purchase energy and capacity to meet demand, their risk management and liquidity levels may not be effective at mitigating price impacts of such purchases, or there may not be sufficient energy and capacity available, either of which could negatively impact the Ameren Companies\u2019 ability to realize forecasted or other potential demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding potential ineffectiveness of risk management and liquidity in mitigating energy purchase price impacts."
+  },
+  {
+   "text": "In addition, rising energy and capacity prices, which are largely outside of our control, could impact customer affordability and satisfaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing cost/rate risk by linking rising energy prices to customer affordability and satisfaction."
+  },
+  {
+   "text": "Ameren Missouri\u2019s and Ameren Illinois\u2019 recent electric and natural gas regulatory rate reviews have resulted in increases in rates charged to customers which had an adverse impact on customer satisfaction and increased political pressures and media attention.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new outcome\u2014recent rate increases causing political pressure and media attention\u2014introducing a concrete reputational/regulatory risk."
+  },
+  {
+   "text": "Ameren Missouri and Ameren Illinois expect to renew these contracts prior to their expiration, however there can be no guarantee that such renewals will be secured on favorable terms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement expressing expectation of contract renewal without new specific risk detail."
+  },
+  {
+   "text": "This also includes attacks arising from or generated by artificial intelligence, among various other attempts to compromise systems that can lead to security breaches.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new cybersecurity threat vector involving AI-generated attacks, a concrete emerging risk not previously described."
+  }
+ ]
+}

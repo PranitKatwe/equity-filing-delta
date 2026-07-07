@@ -1,0 +1,218 @@
+{
+ "ticker": "NEE",
+ "sector": "Utilities",
+ "filing_date": "2026-02-13",
+ "accession": "0000753308-26-000015",
+ "prior_accession": "0000753308-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 30
+ },
+ "items": [
+  {
+   "text": "NEER is one of t he largest energy infrastructure developers in the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic descriptive statement about NEER's market position, not a risk."
+  },
+  {
+   "text": "NEER also builds and owns regulated electric and gas transmission assets, is a leading gas and power supplier, and delivers integrated energy and technology solutions to utilities and businesses across the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business description of NEER's operations, no risk content."
+  },
+  {
+   "text": "In 2025, FPL added new solar generation with capacity totaling 894 MW and battery storage capacity totaling 522 MW.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual capacity addition disclosure, not a risk statement."
+  },
+  {
+   "text": "In January 2026, FPL placed 596 MW of solar generating capacity in service and expects to place an additional 298 MW of solar capacity and approximately 1,420 MW of additional battery storage capacity in service over the remainder of 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual operational update on capacity placed in service, not a risk."
+  },
+  {
+   "text": "In 2025, FPL received FERC approval for the acquisition of a 660 MW gas-fired peaking facility with dual fuel capability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of regulatory approval for an acquisition, not a risk statement."
+  },
+  {
+   "text": "The acquisition is expected to close in 2027.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual timing statement about acquisition closing."
+  },
+  {
+   "text": "Lucie Unit 2 commencing in 2063.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual date reference with no risk content."
+  },
+  {
+   "text": "If the earned regulatory ROE rises above 11.95%, any party with standing may seek a review of FPL's retail base rates. \u2022 FPL's authorized regulatory capital structure reflects a 59.6% equity ratio, consistent with prior base rate cases. \u2022 FPL is authorized to implement a rate stabilization mechanism (RSM) over the term of the 2025 rate agreement up to approximately $1.5 billion, after tax.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new regulatory terms (ROE threshold, equity ratio, RSM cap) that expand detail on existing rate regulation risk."
+  },
+  {
+   "text": "The RSM reserve includes certain deferred tax liabilities, the remaining balance from FPL\u2019s existing reserve amortization mechanism as of January 1, 2026 and investment tax credit amortization for battery storage projects placed in service in 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional specifics on the RSM mechanism tied to existing regulatory risk."
+  },
+  {
+   "text": "In February 2026, the Office of Public Counsel, Floridians Against Increased Rates, Inc. and, as a group, Florida Rising, Inc., Environmental Confederation of Southwest Florida, Inc. and League of United Latin American Citizens of Florida filed a joint motion for reconsideration and a joint request for oral argument challenging the FPSC's final order approving the 2025 rate agreement.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new legal challenge (motion for reconsideration) against the rate agreement, introducing a specific new regulatory/legal risk."
+  },
+  {
+   "text": "FPL has opposed the motion and the request for oral argument.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follow-on to the new legal challenge already introduced, continuing the same risk thread."
+  },
+  {
+   "text": "9 Table of Content s Base Rates Effective January 2022 through December 2025 \u2013 In December 2021, the FPSC issued a final order approving a stipulation and settlement between FPL and several intervenors in FPL's base rate proceeding (2021 rate agreement).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical background on a prior rate order, not a new risk."
+  },
+  {
+   "text": "See Note 1 \u2013 Storm Funds, Storm Reserves and Storm Cost Recovery.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to a note, no substantive content."
+  },
+  {
+   "text": "NEER NEER, one of the largest energy infrastructure developers in the U.S., is comprised of NEE's competitive energy and regulated transmission businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restated general description of NEER's business composition."
+  },
+  {
+   "text": "NEER also provides gas and power solutions through its customer supply business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of a business line, no risk implication."
+  },
+  {
+   "text": "NEER's strategy focuses on providing cost-effective differentiated solutions to its customers, including emerging large-load opportunities, and on lowering costs and driving growth, including through the use of advanced technologies, such as artificial intelligence and proprietary tools.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic description, not a risk factor."
+  },
+  {
+   "text": "NEER's regulated gas transmission business has approximately 3.8 Bcf per day gross pipeline capacity and consists of equity method investments totaling approximately $1.5 billion as of December 31, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual operational statistic about pipeline capacity and investment."
+  },
+  {
+   "text": "They are also used to offer customized power and fuel and related risk management services to wholesale customers, including services provided under natural gas asset management agreements, as well as to hedge the production from NEER's generation assets that is not sold under long-term power supply agreements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive explanation of hedging and risk management tools already used, not a new risk."
+  },
+  {
+   "text": "In response to potential customer needs, NEER evaluates opportunities for expanding its portfolio of generation assets, including adding new facilities and repowering its current facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evaluating growth opportunities, not a specific risk."
+  },
+  {
+   "text": "(d) NEER sells all of the output of Point Beach Units 1 and 2 under long-term contracts through 2030 and 2033, respectively, and sells 84 MW from each unit through their respective operating license dates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Contract detail disclosure, factual not risk-related."
+  },
+  {
+   "text": "Additionally, NEER entered into a 25-year PPA for the full capacity of Duane Arnold, and agreements to increase its ownership interest to 100% of the plant, subject to regulatory approvals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business agreement detail, not a risk statement."
+  },
+  {
+   "text": "Natural Gas and Other Energy Assets As of December 31, 2025, NEER\u2019s portfolio included natural gas generation facilities with a net generating capacity of approximately 1,584 MW.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual capacity statistic."
+  },
+  {
+   "text": "During 2025, NEER added approximately 1,799 MW of battery storage capacity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual capacity addition statistic."
+  },
+  {
+   "text": "The One Big Beautiful Bill Act (OBBBA) modified several pre-existing provisions, including the phase out of these income tax credits, of the Inflation Reduction Act and other laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new legislative change (OBBBA) affecting phase-out of tax credits, a specific new regulatory risk."
+  },
+  {
+   "text": "These projects and property are subject to the same labor requirements and credit enhancements applicable to wind and solar facilities (discussed above).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "References existing labor requirement rules already discussed elsewhere."
+  },
+  {
+   "text": "NEE and the wind and solar industries have relied on the settled understanding of the term \"begin construction\" as informed by longstanding Treasury Department guidance regarding what constitutes the \"beginning of construction\" for purposes of claiming clean energy tax credits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Background contextual statement about prior guidance reliance, not itself a new risk."
+  },
+  {
+   "text": "On August 15, 2025, the Internal Revenue Service issued new guidance for the purpose of determining whether wind and solar facilities \"begin construction\" before July 5, 2026 such that they are not subject to the December 31, 2027 placed in service requirement.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new IRS guidance changing rules for tax credit eligibility, a new regulatory risk."
+  },
+  {
+   "text": "The new guidance applies to wind and solar facilities that begin construction on or after September 2, 2025, with prior guidance applying before that.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on applicability dates of the new guidance already introduced."
+  },
+  {
+   "text": "The new guidance is substantially similar to the prior guidance except that it eliminates the 5% spend test safe harbor as a method to begin construction, such that wind and solar facilities must begin construction by starting physical work of a significant nature.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a stricter requirement (elimination of safe harbor) within the newly introduced guidance risk."
+  },
+  {
+   "text": "Physical work of a significant nature includes onsite work other than preliminary activities, and offsite work on non-inventory equipment performed by a third-party manufacturer under a binding written contract.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional clarification of terms, not a new risk."
+  },
+  {
+   "text": "The new guidance also retains the \"continuity requirement\" from prior guidance, as well as the continuity safe harbor that deems the continuity requirement as satisfied if the related facility is placed in service no more than four years after the year it began construction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates retained provisions from prior guidance, not new risk."
+  },
+  {
+   "text": "There will be no clean energy tax credits for wind or solar facilities placed in service after 2030.",
+   "category": "new_substantive_risk",
+   "rationale": "States a hard cutoff eliminating clean energy tax credits after 2030, a significant new financial risk."
+  },
+  {
+   "text": "All facilities and projects discussed above that begin construction after December 31, 2025 must satisfy the prohibited foreign entity material assistance requirements under the OBBBA in order to be eligible for tax credits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new compliance requirement (prohibited foreign entity rules) affecting tax credit eligibility."
+  },
+  {
+   "text": "16 Table of Content s Regulated Operations Rate-Regulated Electric Transmission \u2013 As of December 31, 2025, certain entities within the NEER segment had ownership interests in rate-regulated electric transmission and related facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General descriptive statement about ownership interests in transmission facilities."
+  },
+  {
+   "text": "(c) In July 2025, a subsidiary of NEET entered into an agreement to sell a 50% equity interest in a joint venture, consisting of a rate-regulated electric transmission asset located in California.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of a business transaction (sale of equity interest)."
+  },
+  {
+   "text": "NEER expects to close the sale in the first quarter of 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual timing statement about closing a sale."
+  },
+  {
+   "text": "See Note 1 \u2013 Disposal of Businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note."
+  },
+  {
+   "text": "Regulated Natural Gas Transmission \u2013 As of December 31, 2025, NextEra Energy Resources had ownership interests in natural gas pipelines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about pipeline ownership interests."
+  },
+  {
+   "text": "Miles of Pipeline Pipeline Location/Route Ownership Total Gross Capacity (per day) Actual In-Service Dates Operational: Sabal Trail (a) 517 Southwestern Alabama to Central Florida 36.125% 1.00 Bcf June 2017 \u2013 May 2020 Florida Southeast Connection (a) 172 Central Florida to South Florida 85% 0.64 Bcf June 2017 Mountain Valley Pipeline 303 Northwestern West Virginia to Southern Virginia 33.36% (b) 2.00 Bcf June 2024 Lowman Pipeline 60 Southwestern Alabama 85% 0.12 Bcf September 2023 ______________________ (a) See Note 15 \u2013 Contracts for a discussion of transportation contracts with FPL.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Data table of pipeline details, purely factual/operational."
+  },
+  {
+   "text": "(b) In January 2026, NextEra Energy Resources increased its ownership interest to 36.02%.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update on ownership percentage increase."
+  }
+ ]
+}

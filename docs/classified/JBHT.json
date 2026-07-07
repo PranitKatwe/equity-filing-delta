@@ -1,0 +1,73 @@
+{
+ "ticker": "JBHT",
+ "sector": "Industrials",
+ "filing_date": "2026-02-24",
+ "accession": "0001437749-26-005294",
+ "prior_accession": "0001437749-25-004736",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "As a result of the increased cost of auto liability claims across the transportation industry, insurance premiums for auto liability coverage have increased substantially in recent years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific quantitative/qualitative detail (substantial premium increases) to the existing insurance/liability cost risk, rather than introducing a wholly new risk category."
+  },
+  {
+   "text": "Increasingly sophisticated cyber-attacks such as ransomware and AI-powered phishing scams could compromise the confidentiality, integrity, or availability of these systems, disrupt network and terminal operations, delay freight movements, or result in data loss or exfiltration.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new threat vectors (ransomware, AI-powered phishing) with concrete operational impacts like delayed freight movements and data exfiltration."
+  },
+  {
+   "text": "11 An inability to develop, adopt, and integrate new or enhanced technologies, including rapidly evolving artificial intelligence, could have a material adverse effect on our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new risk factor heading explicitly tying failure to adopt AI and other technologies to material adverse effects on the business."
+  },
+  {
+   "text": "We operate in a rapidly evolving, technology-driven environment, and if we do not timely identify, prioritize, develop, and successfully integrate new or enhanced technologies into our operations, our service quality, efficiency, and competitiveness could suffer.",
+   "category": "expanded_existing_risk",
+   "rationale": "General elaboration on the technology risk theme introduced elsewhere, restating the need to integrate new technologies without adding a distinct new risk."
+  },
+  {
+   "text": "Technology initiatives can be complex and costly, with risks of delays, defects, and training hurdles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complexity, cost, delays, and training hurdles of technology initiatives without specific new risk content."
+  },
+  {
+   "text": "Anticipated benefits from these initiatives may not be realized on the expected timeline or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that benefits of initiatives may not be realized, a common boilerplate risk qualifier."
+  },
+  {
+   "text": "In addition, competitors may introduce and scale new technologies more quickly or effectively than we do, which could diminish our competitive position, compress margins, and result in lost business opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on competitive risk by specifying that competitors adopting technology faster could compress margins and cause lost business, building on existing competition risk."
+  },
+  {
+   "text": "The rapid evolution and adoption of artificial intelligence(AI) and any efforts we may make to incorporate it into our business may amplify cyber, legal, and operational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI adoption as a new source of amplified cyber, legal, and operational risk not previously described."
+  },
+  {
+   "text": "AI adoption may introduce or amplify risks, including inaccurate or biased outputs that are difficult to detect, governance and model-risk challenges, privacy and intellectual property concerns, and evolving legal disclosure obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new risks from AI adoption such as biased outputs, governance challenges, privacy/IP concerns, and legal disclosure obligations."
+  },
+  {
+   "text": "AI can also increase cybersecurity exposure as threat actors leverage AI to enhance social-engineering and intrusion techniques.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically identifies AI-enhanced social engineering and intrusion techniques as a new cybersecurity threat vector."
+  },
+  {
+   "text": "Implementing and maintaining AI capabilities can be complex and costly, anticipated benefits may not be realized and expected timelines or at all, and failures could harm our operations, reputation, results of operations, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Applies the generic implementation cost/benefit-realization risk specifically to AI capabilities, extending an existing technology risk theme rather than introducing a wholly new concept."
+  }
+ ]
+}

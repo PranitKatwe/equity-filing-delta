@@ -1,0 +1,48 @@
+{
+ "ticker": "EME",
+ "sector": "Industrials",
+ "filing_date": "2026-02-26",
+ "accession": "0000105634-26-000025",
+ "prior_accession": "0000105634-25-000015",
+ "model": "claude-sonnet-5",
+ "n_added": 6,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "For example, capital spending on data center infrastructure to support cloud storage and artificial intelligence (\u201cAI\u201d) is rapidly expanding, which has increased demand for our services in recent years.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new dependency on data center/AI capital spending trends as a driver of demand, a previously unmentioned market exposure."
+  },
+  {
+   "text": "If such spending were to decrease, demand for our services could decline as we transition our resources to other sectors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds directly on the new data center spending point by describing the downside scenario, expanding the newly introduced risk rather than standing fully independent."
+  },
+  {
+   "text": "At the same time, the availability or price of electricity may adversely impact the buildout of certain of our customers\u2019 projects, including data centers, which could adversely impact our business, financial position, and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk factor: electricity availability/price affecting customers' data center projects and thus the company's business and financials."
+  },
+  {
+   "text": "Judicial review of certain trade policies and the potential consequences of court decisions on challenges to such policies, including tariffs imposed by executive order, could result in 9 Table of Contents additional changes to, or reversal of, such trade policies and practices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal/regulatory risk regarding judicial review of trade policies and tariffs potentially causing further policy changes."
+  },
+  {
+   "text": "In addition, certain of our contractual arrangements guarantee the achievement of agreed upon cost savings, certain performance standards, or a certain standard of quality.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about contractual guarantees (cost savings, performance standards, quality) that expands on existing contractual risk disclosures."
+  },
+  {
+   "text": "For example, in recent years, our building services operations were unsuccessful in retaining certain contracts upon rebid and our industrial services operations were adversely impacted by the deferral or delay of several projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete historical example illustrating an existing risk about contract retention and project deferrals, expanding rather than introducing a new risk category."
+  }
+ ]
+}

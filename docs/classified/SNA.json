@@ -1,0 +1,78 @@
+{
+ "ticker": "SNA",
+ "sector": "Industrials",
+ "filing_date": "2026-02-12",
+ "accession": "0000091440-26-000045",
+ "prior_accession": "0000091440-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "The 2024 and 2023 fiscal years each contained 52 weeks of operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about fiscal year length, not a risk."
+  },
+  {
+   "text": "Since that time, our principal value-creating mechanism has been to observe work and translate the insights gained into creative solutions that make essential tasks easier, meeting the needs of rapidly-evolving workplaces.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General company mission/history narrative, not a risk disclosure."
+  },
+  {
+   "text": "The Financial Services operating segment is evaluated based on financial services revenue and segment operating earnings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes how a segment is evaluated financially; administrative detail, not a risk."
+  },
+  {
+   "text": "Digital Commerce Snap-on communicates with current and prospective customers through its digital ecosystem including websites (such as www.snapon.com ), apps, and social media channels across its businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes marketing/digital channels; not a risk statement."
+  },
+  {
+   "text": "For select customers served by the Commercial & Industrial Group and the Repair Systems & Information Group, the company provides a variety of specific digital platforms to accommodate research and the direct purchase of products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes digital platform offerings; descriptive, not risk-related."
+  },
+  {
+   "text": "For over 105 years, Snap-on has remained steadfast in connecting with customers, the people of work, and in creating products that solve the most critical tasks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical/marketing language about company longevity, not a risk."
+  },
+  {
+   "text": "The company\u2019s offerings serve these professionals and society by providing productivity-enhancing solutions that are integral to the repair and maintenance of the equipment and systems that move our world forward, potentially prolonging useful lives and extending the replacement cycle.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes value proposition of products; promotional language, not a specific risk."
+  },
+  {
+   "text": "Starting in the first quarter of 2025, the United States government announced additional tariffs on goods imported into the U.S. from numerous countries and multiple nations countered with reciprocal tariffs and other actions in response.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new geopolitical/trade risk regarding 2025 tariffs and reciprocal actions affecting the company."
+  },
+  {
+   "text": "While Snap-on is relatively advantaged in the tariff environment, generally manufacturing products in the markets where they are sold, the company\u2019s costs can be affected by trade policies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the tariff risk introduced above by describing how it could affect company costs, expanding on an existing risk theme."
+  },
+  {
+   "text": "The company has experienced and responded to cyber incidents.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses that the company has actually experienced cyber incidents, a concrete new risk disclosure beyond generic cybersecurity risk language."
+  },
+  {
+   "text": "No event has had a significant impact on the results of our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reassuring statement that no event has had significant impact; minimizes rather than introduces risk."
+  },
+  {
+   "text": "Additionally, as a government contractor, purchasing regulations contain many operational requirements and a failure to comply with such requirements could result in civil and criminal penalties or other actions that could have a material adverse effect on the company\u2019s reputation, business, financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding government contractor compliance and potential civil/criminal penalties."
+  }
+ ]
+}

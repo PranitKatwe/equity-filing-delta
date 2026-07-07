@@ -1,0 +1,218 @@
+{
+ "ticker": "KKR",
+ "sector": "Financials",
+ "filing_date": "2026-02-27",
+ "accession": "0001404912-26-000007",
+ "prior_accession": "0001404912-25-000015",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 23,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "Many risks discussed in this report also impact our investment vehicles, portfolio companies and other investments, including balance sheet investments, which may, in turn, materially and adversely impact KKR.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about how risks affect KKR's investment vehicles and portfolio companies, not a specific new risk."
+  },
+  {
+   "text": "When discussing our risks in this report, unless the context requires otherwise, references to (i) our investments include our portfolio companies, which are typically companies in which we have a controlling equity interest or other investment with significant influence, (ii) investors refers to the investors in our funds and other investment vehicles, and (iii) investments that we make or own on our balance sheet include the portfolio companies reported in our Strategic Holdings segment and investments held by our insurance subsidiaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional/glossary language clarifying terminology used in the filing."
+  },
+  {
+   "text": "Global, regional and local events outside of our control, including geopolitical events and natural disasters, could materially and adversely impact KKR.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generic statement about geopolitical/natural disaster risk, a common existing risk category elaborated upon."
+  },
+  {
+   "text": "Geopolitical developments, including the imposition of protectionist measures by countries such as sanctions, restrictions on foreign direct investment, trade barriers, tariffs, export controls and other governmental actions related to international trade agreements and policies that materially constrain cross-border flows of capital, goods, or data, may impact our investment activities and investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail (sanctions, tariffs, export controls) expanding the pre-existing geopolitical risk discussion."
+  },
+  {
+   "text": "We are subject to these risks as we own and seek to own businesses throughout the world, have offices and employees in multiple countries and seek investors throughout the world for our investment products and certain of our insurance products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about global operations, not itself a risk."
+  },
+  {
+   "text": "These events, including barriers to investment between the U.S. and other countries or regions, could chill or limit business opportunities, adversely impact the value of our investments, increase costs, decrease margins, reduce the competitiveness of products and services offered by portfolio companies, and adversely affect the revenues and profitability of portfolio companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequences of geopolitical barriers already introduced, adding specificity to an existing risk theme."
+  },
+  {
+   "text": "Competition is also intense for the attraction and retention of qualified employees and consultants, including those with industry-specific expertise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Competition for talent is a standard existing risk, restated with slight elaboration."
+  },
+  {
+   "text": "Our ability to continue to compete effectively in our businesses will depend upon our ability to attract new investment professionals, insurance professionals, other employees, and consultants and retain them accordingly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on talent competition risk already established."
+  },
+  {
+   "text": "The loss, or ineffectiveness of any incentive compensation plans, including as a result of any adverse changes in regulation or tax law that impacts certain forms of incentives or other remuneration that we may typically offer employees, such as carried interest, may cause us to incur additional expenses to pay competitively with other firms, which could materially and adversely affect KKR.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding regulatory/tax changes affecting incentive compensation like carried interest and its cost impact."
+  },
+  {
+   "text": "From time to time, our firm, our investment vehicles, our portfolio companies and other investments, or our employees may be a focus of public attention or media coverage, and these circumstances, as well as broader social and political tensions, may increase the risk of harassment, threats, acts of violence or other personal safety and security incidents directed at our personnel, including our senior executives, both inside and outside the workplace.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of personal safety threats, harassment, and violence against personnel due to public attention."
+  },
+  {
+   "text": "We have implemented, and expect to continue to, implement or expand security measures for our senior executives and other key employees, such as physical security, secure transportation, travel restrictions and monitoring or protective services for them and, in some cases, their families.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes mitigation measures related to the newly introduced personal safety risk, expanding on it."
+  },
+  {
+   "text": "Such measures can be costly and may not be effective in preventing all incidents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on effectiveness/cost of safety measures tied to the new personal safety risk."
+  },
+  {
+   "text": "Any actual or threatened harm to the personal safety of our employees, or perceived failure to protect them adequately, could materially adversely affect us, including our ability to attract and retain talent.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration of the personal safety risk's business impact."
+  },
+  {
+   "text": "Our reliance on third parties in the operation of our business exposes us to operational, reputational and other risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category concerning reliance on third parties for business operations."
+  },
+  {
+   "text": "These third parties include technology service providers, financial intermediaries and advisers, law firms, accountants, administrators, lenders, broker dealers, distribution agents, consultants, and other vendors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply lists types of third parties, descriptive rather than risk-specific."
+  },
+  {
+   "text": "We generally have less control over the delivery of third-party services and, as a result, may face disruptions to our ability to operate our business as a result of interruptions of such services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the operational impact of reduced control over third-party services."
+  },
+  {
+   "text": "While Global Atlantic outsources policyholder administration to third-party, it is responsible under insurance regulations and insurance contracts for servicing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new fact about Global Atlantic's outsourcing and regulatory responsibility, a distinct new risk detail."
+  },
+  {
+   "text": "We rely heavily on the systems of third parties who provide technology services to us, including as part of our information technology infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands reliance on third-party technology systems, consistent with prior IT risk themes."
+  },
+  {
+   "text": "Our data processing systems, communication lines and networks are often supported by third-party service providers, vendors, and intermediaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about system support structure, not a new specific risk."
+  },
+  {
+   "text": "Any interruption or failure of our information technology infrastructure caused directly or indirectly by third-party service providers could result in our inability to provide services to our clients, other disruptions of our business, corruption or modifications to our data and fraudulent transfers or requests for transfers of money or the inability to demonstrate compliance with regulatory requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential consequences of third-party IT failures, expanding on existing technology risk."
+  },
+  {
+   "text": "Actions taken by our third-party service providers may also damage our reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends third-party risk discussion to reputational harm, a natural expansion."
+  },
+  {
+   "text": "We consider our reputation critical to attracting and retaining investors, maintaining our relationships with regulators and being viewed as an attractive investment partner.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about importance of reputation, not a specific risk."
+  },
+  {
+   "text": "As a result, any negative publicity or negative public perception regarding a third-party service provider\u2019s actions on our behalf may damage our relationships with existing and potential investors, employees, regulators and other stakeholders, impair our ability to raise capital, adversely impact the ability of our investment vehicles to make and exit investments, and impair our ability to carry out investment activities generally.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the broader business impact of negative publicity tied to third parties, expanding existing reputational risk."
+  },
+  {
+   "text": "We also specifically depend on the services of various financial intermediaries (including banks, prime brokers, custodians, paying agents and escrow agents), counterparties, administrators and other agents, including to carry out certain credit, securities, derivatives and hedging transactions, subjecting us to the risk that one or more of these counterparties defaults, either voluntarily or involuntarily, on its performance under the applicable contract.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific counterparty default risk involving financial intermediaries and transaction types."
+  },
+  {
+   "text": "We may enter into financial arrangements with a limited number of counterparties, which has the effect of concentrating the transaction volume (and related counterparty default risk) with these counterparties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on counterparty concentration risk introduced just prior."
+  },
+  {
+   "text": "If such a counterparty defaults, particularly a default by a major investment bank or a default by a counterparty that has a significant number of our contracts, we may be materially adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on consequences of counterparty default risk."
+  },
+  {
+   "text": "In the event of the insolvency of a financial intermediary that is holding our assets as collateral (to the extent not adequately segregated) or that is required to make payments to us, we may not be able to recover equivalent assets or payment in full as we will rank among the financial intermediary\u2019s unsecured creditors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding insolvency of financial intermediaries and loss of collateral/assets."
+  },
+  {
+   "text": "In addition, the timing of the recovery of such amounts and assets (including segregated collateral) may also be significantly delayed as part of the administration of the bankruptcy estate of the financial intermediary.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on delays in asset recovery, extending the insolvency risk already introduced."
+  },
+  {
+   "text": "For more information about the risks of using financial intermediaries to sell investment and insurance products, please see \u201c\u2014Risks Related to Regulatory Matters\u2014 Distribution of financial products to individual investors subjects us to heightened regulatory, litigation, and reputational risks, which may materially adversely affect our business\u201d.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor section, not a new risk itself."
+  },
+  {
+   "text": "Disruptions in our technology infrastructure or the occurrence of other operational errors could materially and adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new topic sentence about technology disruptions and operational errors as a distinct risk area."
+  },
+  {
+   "text": "Our business depends on the effective execution of operational processes and the reliability of information technology systems, both those we operate and those provided by third parties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about reliance on operational processes and IT systems, framing rather than risk detail."
+  },
+  {
+   "text": "We rely on technology systems, including computer hardware, software systems, data processing systems, and other technology infrastructure that we own or that are provided and maintained by third party service providers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates reliance on technology systems, consistent with existing IT risk theme."
+  },
+  {
+   "text": "See also \u201c\u2014Risks Related to Our Business\u2014Our reliance on third parties in the operation of our business exposes us to operational, reputational and other risks.\u201d As our reliance on such technology infrastructure has increased, so have the risks associated with system vulnerabilities, data loss, cybersecurity incidents, processing failures and operational disruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Cross-references prior risk and notes increased risk from growing technology reliance, expanding existing risk."
+  },
+  {
+   "text": "If we are unable to adapt our technology infrastructure to accommodate our growth, business changes or regulatory compliance needs, or if the cost of maintaining such systems may increase materially from its current level, it may have a material adverse effect on us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential adverse effects from inability to adapt technology infrastructure, expanding existing tech risk."
+  },
+  {
+   "text": "We may need to continue to invest heavily in upgrades and expansions to our information technology infrastructure to continue to support our business and to avoid disruption of our operations, including our investment activities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on need for continued technology investment, consistent with existing risk theme."
+  },
+  {
+   "text": "Moreover, the technology systems of third-party providers and technology infrastructure that we own may contain vulnerabilities or experience disruptions, including those resulting in data loss, that could materially and adversely impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates vulnerability of technology systems, expanding on existing cybersecurity/technology risk."
+  },
+  {
+   "text": "Manual processes may be particularly susceptible to error during periods of high transaction volume, personnel changes, new technology system implementations or other operational transitions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about manual process errors during operational transitions, expanding operational risk discussion."
+  },
+  {
+   "text": "Although we maintain policies, procedures, and internal controls, and have implemented technology infrastructure designed to mitigate these risks, such measures may not be effective in preventing or detecting errors in a timely manner.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about internal controls and their potential ineffectiveness, standard risk disclaimer language."
+  },
+  {
+   "text": "Failures in our operational processes could result in financial loss, regulatory scrutiny, reputational harm, and other adverse consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes consequences of operational failures, consistent with expanded operational risk narrative."
+  },
+  {
+   "text": "We utilize our balance sheet to support our insurance subsidiaries\u2019 business and capital needs, underwrite commitments in our capital markets transactions, make capital commitments to our investment vehicles, and make acquisitions and other strategic investments for our Strategic Holdings segment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about balance sheet usage across business segments, contextual rather than a new risk."
+  }
+ ]
+}

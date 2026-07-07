@@ -1,0 +1,148 @@
+{
+ "ticker": "BRO",
+ "sector": "Financials",
+ "filing_date": "2021-02-23",
+ "accession": "0001564590-21-007624",
+ "prior_accession": "0001564590-20-006075",
+ "model": "claude-sonnet-5",
+ "n_added": 26,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "Risks Related to the COVID-19 Pandemic THE COVID-19 PANDEMIC AND THE RESULTING GOVERNMENTAL AND SOCIETAL RESPONSES, THE SEVERITY AND DURATION OF THE PANDEMIC, AND THE RESULTING IMPACT ON THE U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is merely a section heading introducing the COVID-19 risk factor topic, not a specific risk statement."
+  },
+  {
+   "text": "ECONOMY AND THE GLOBAL ECONOMY, MAY MATERIALLY AND ADVERSELY AFFECT THE COMPANY\u2019S BUSINESS, LIQUIDITY, CUSTOMERS, INSURANCE CARRIERS AND THIRD PARTIES.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of the heading, generic framing language without specific risk detail."
+  },
+  {
+   "text": "In December 2019, a novel strain of coronavirus, COVID-19, surfaced.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual historical statement about the origin of COVID-19, not a risk disclosure."
+  },
+  {
+   "text": "Since then, COVID-19 has spread across the world, and has been declared a pandemic by the World Health Organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General factual statement about the pandemic's spread, common contextual boilerplate."
+  },
+  {
+   "text": "The global outbreak of COVID-19 continues to rapidly evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that the situation is evolving, standard cautionary framing."
+  },
+  {
+   "text": "In addition, if the pandemic continues to create disruptions or turmoil in the credit or financial markets, or impacts our credit ratings, it could adversely affect our ability to access capital on favorable terms and continue to meet our liquidity needs, all of which are highly uncertain and cannot be predicted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk regarding disrupted credit/financial markets and impact on credit ratings affecting liquidity."
+  },
+  {
+   "text": "We cannot predict the impact that COVID-19 will have on our customers, insurance carriers, suppliers, and other third-party contractors, and each of their financial conditions; however, any material effect on these parties could adversely impact us.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk about unpredictable impacts on customers, insurance carriers, and third parties affecting the company."
+  },
+  {
+   "text": "Even after the COVID-19 outbreak has subsided, we may experience materially adverse impacts to our business as a result of the virus\u2019 global economic impact.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the pandemic risk to include lingering effects after the outbreak subsides, building on the general COVID risk."
+  },
+  {
+   "text": "Further, COVID-19 may affect our operating and financial results in a manner that is not presently known to us or that we currently do not consider as presenting significant risks to our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, generic statement acknowledging unknown future risks without specifics."
+  },
+  {
+   "text": "Additionally, COVID-19 could negatively affect our internal controls over financial reporting as a portion of our workforce is required to work from home and therefore new processes, procedures, and controls could be required to respond to changes in our business environment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding internal controls over financial reporting due to remote work."
+  },
+  {
+   "text": "Further, should any key employees become ill from the coronavirus and unable to work, the attention of the management team could be diverted.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk about key employee illness diverting management attention."
+  },
+  {
+   "text": "Our management is focused on mitigating the effects of COVID-19, which has required and will continue to require a large investment of time and resources across our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about management's mitigation efforts, expanding on the broader pandemic risk theme."
+  },
+  {
+   "text": "12 Table of Contents To mitigate the economic impact caused by COVID-19, certain governmental entities have declared or proposed a \u201cgrace period\u201d on the collection of insurance premiums.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding governmental grace periods on insurance premium collection."
+  },
+  {
+   "text": "It is unclear the impact this would have on our commission revenues, typically calculated as a percentage of premium.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the uncertainty of grace periods' impact on commission revenue, tied to the prior new risk."
+  },
+  {
+   "text": "It is possible that such grace periods could delay our receipt of revenues as we continue to incur compensation and operating expenses related to serving our clients.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk about delayed revenue receipt while incurring ongoing expenses."
+  },
+  {
+   "text": "In addition, ce rtain governmental entities have proposed requiring underwriting enterprises to pay business interruption and workers\u2019 compensation claims for COVID-19 losses despite applicable policy exclusions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legislative risk regarding forced payment of excluded claims."
+  },
+  {
+   "text": "Retroactively expanding business interruption or other coverages could materially negatively affect underwriting enterprises, reduce the availability of insurance coverage, and negatively affect our ability to generate commission revenues from such policies as well as supplemental and contingent commissions from underwriting enterprises.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific financial impact of retroactive coverage expansion on underwriting enterprises and commissions."
+  },
+  {
+   "text": "Other legislation would require underwriting enterprises to return premiums to clients on certain lines of coverage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific legislative risk requiring premium refunds to clients."
+  },
+  {
+   "text": "While it is unclear the impact such legislation would have on us, it is possible we could be asked to disgorge commission revenues related to such premiums.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential financial impact (disgorgement of commissions) tied to the previously introduced legislative risk."
+  },
+  {
+   "text": "Further, the potential effects of COVID-19 also could impact and, in some cases, magnify many of our risk factors described in this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that COVID may magnify other already-disclosed risk factors, without new specifics."
+  },
+  {
+   "text": "However, as the COVID-19 situation is unprecedented and continuously evolving, the potential impacts to our risk factors remain uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about uncertainty, standard boilerplate."
+  },
+  {
+   "text": "Additionally, any potential effects of COVID-19 may lag behind the developments related to the COVID-19 pandemic.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about timing lag of effects, cautionary boilerplate."
+  },
+  {
+   "text": "A significant portion of our businesses are concentrated in Florida, California, Massachusetts, Georgia, New York, and Michigan, where for the year ended December 31, 2020, we derived approximately 19%, 11%, 8%, 8%, 7%, and 6% of our annual revenue, respectively.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new geographic revenue concentration data highlighting exposure to particular states."
+  },
+  {
+   "text": "In addition, the occurrence of adverse economic conditions, natural or other disasters, or other circumstances specific to or otherwise significantly impacting these states could adversely affect our financial condition, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly disclosed geographic concentration by describing potential adverse effects from state-specific conditions."
+  },
+  {
+   "text": "Federal government modifies, discontinues, or otherwise limits our ability to derive revenues from the Social Security disability benefits program, Medicare, or any other program or type of coverage from which our business derives revenue; \u2022 We may be unable to develop further efficiencies in our claims-handling business and may be unable to obtain or retain certain customers if we fail to make adequate improvements in technology or operations; and \u2022 Insurance companies or certain large self-insured entities may create in-house servicing capabilities that compete with our services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new business risks tied to government program changes, technology competition, and in-house servicing by insurers."
+  },
+  {
+   "text": "Barrett Brown, our Executive Vice President and the President of our Retail Segment, beneficially owned approximately 16.1%.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual disclosure of an executive's ownership percentage, not a risk statement."
+  }
+ ]
+}

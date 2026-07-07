@@ -1,0 +1,58 @@
+{
+ "ticker": "HSY",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-17",
+ "accession": "0001628280-26-008586",
+ "prior_accession": "0000047111-25-000014",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Furthermore, artificial intelligence (\u201cAI\u201d) technologies have developed rapidly, and our business may be adversely affected if we cannot successfully integrate AI into our business in a timely, cost-effective, and compliant manner.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk around AI integration affecting the business, not present before."
+  },
+  {
+   "text": "Our competitors may incorporate AI into their business more successfully than us, which could have an adverse effect on our competitive position, reputation and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific competitive risk related to competitors' AI adoption outpacing the company."
+  },
+  {
+   "text": "In November 2025, we completed the acquisition of LesserEvil, LLC, previously a privately held company that produces and sells organic popcorn and puffed snack products to retailers and distributors in the United States and Table of Contents The Hershey Company | 2025 Form 10-K | Page 12 Canada.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific acquisition (LesserEvil) which introduces new integration/business facts not previously present."
+  },
+  {
+   "text": "The acquisition complements Hershey\u2019s existing portfolio and increases manufacturing capacity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic descriptive statement about the acquisition's strategic fit, not a risk itself."
+  },
+  {
+   "text": "Some of the risks of operating internationally have negatively affected our financial condition and results of operations, including the imposition of tariffs on U.S. imports and associated retaliatory tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing international operations risk by specifying tariffs and retaliatory tariffs as concrete examples."
+  },
+  {
+   "text": "Additionally, compliance with new and evolving laws, regulations or industry standards relating to AI may require significant investment and resources, and may limit our ability to use AI, which may result in reputational harm, legal liability or other adverse effects on our operations and overall business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory compliance risk tied to AI laws and standards."
+  },
+  {
+   "text": "We, and our third-party service providers, are regularly the target of rapidly evolving cyber threats, including denial of service attacks, ransomware, spyware, misinformation, phishing/smishing/vishing attacks, business compromise attacks, typosquatting, automated attacks, employee errors, negligence or malfeasance, the use of malicious codes or worms, payment fraud, and other unauthorized occurrences on, or conducted through, our or our third-party service providers' information systems and networks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk disclosure with a detailed list of specific threat vectors."
+  },
+  {
+   "text": "AI technologies may amplify certain existing technology-related risks such as cybersecurity threats, data privacy concerns, and intellectual property challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that AI may amplify existing tech risks, a new causal link not previously disclosed."
+  }
+ ]
+}

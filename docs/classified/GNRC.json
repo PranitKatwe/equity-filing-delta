@@ -1,0 +1,118 @@
+{
+ "ticker": "GNRC",
+ "sector": "Industrials",
+ "filing_date": "2026-02-18",
+ "accession": "0001437749-26-004568",
+ "prior_accession": "0001437749-25-004353",
+ "model": "claude-sonnet-5",
+ "n_added": 20,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "They include both investment tax credits to owners of these systems and production tax credits to manufacturers of these products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing tax credit types (investment and production tax credits) as background information, not a new risk itself."
+  },
+  {
+   "text": "In July 2025, the United States passed the One Big Beautiful Bill Act that accelerates the phase-out of tax incentives for the solar market and includes certain domestic supply chain requirements to qualify for these incentives.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new law (OBBBA) that accelerates phase-out of solar tax incentives and adds supply chain requirements, a concrete new risk."
+  },
+  {
+   "text": "While this phase-out of tax incentives will negatively impact the solar and storage markets in the near term, we believe the overall mega-trends that drive the solar, storage, and energy management markets will continue, supporting customer interest and demand for these products over the long-term as grid capacity is strained and energy costs rise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the near-term negative impact of the tax incentive phase-out while offering long-term outlook, expanding on the newly introduced OBBBA risk."
+  },
+  {
+   "text": "Grounded in our Corporate Values \u2014Agility, Innovation, Integrity, Teamwork, Accountability, Customer\u2014we foster a culture of engagement that strengthens our company and empowers employees to take action, grow, and achieve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about corporate values and culture, not a risk disclosure."
+  },
+  {
+   "text": "In fact, in order to avoid the uncertainty of a potential negative jury trial outcome on a products liability injury case, we have agreed to settle at least one such case, which we previously disclosed, in an amount which exceeded our insurance coverage, but which will not have a material adverse impact on our business, results of operations or financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific settlement that exceeded insurance coverage, a concrete new financial/legal risk detail."
+  },
+  {
+   "text": "If we do not continue to strategically advance our product portfolio to maintain our technology leadership, our competitive position could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about maintaining competitive position through product innovation, common boilerplate risk language."
+  },
+  {
+   "text": "On July 4, 2025, the United States enacted the OBBBA, which introduced substantial tax law changes, eliminates or reduces several tax credits and incentives applicable to energy related technologies, which has and may continue to negatively impact our business in the short term.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically identifies the OBBBA law and its elimination/reduction of tax credits for energy technologies as a new negative business impact."
+  },
+  {
+   "text": "G rowth of the data center market is difficult to project and may not be sustaining, and we may not be successful in achieving our growth, revenue, or profitability objectives in the future related to it.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new uncertainty around growth projections for the data center market as a business driver."
+  },
+  {
+   "text": "The increasing use and development of artificial intelligence has created significant demand for the build out of data center infrastructure, which includes backup power generation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive context about AI driving data center demand, not itself a risk statement."
+  },
+  {
+   "text": "While we believe the potential for this business is very promising, the growth and development of this rapidly evolving industry is difficult to project.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands on the difficulty of projecting growth in the newly discussed data center business."
+  },
+  {
+   "text": "Our expectations regarding this market may not prove to be accurate or the market may not be sustainable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language that expectations may not prove accurate, standard risk disclaimer."
+  },
+  {
+   "text": "Our operating results may fluctuate moving forward as we develop this business and expand our offering of high output diesel generators.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of fluctuating operating results tied to expanding high output diesel generator offerings."
+  },
+  {
+   "text": "Our expectations around growth for this market may also place significant demands on our management team and require significant capital investment as well as other resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the data center growth risk by specifying demands on management and capital investment."
+  },
+  {
+   "text": "The technical, operational, or general contractual requirements for certain large data center customers or projects can be significant.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new risk regarding significant technical/operational/contractual requirements from large data center customers."
+  },
+  {
+   "text": "Challenges in meeting these requirements, due to evolving project specifications or changing customer or supplier circumstances, or other issues could result in delays, increased costs, reduced revenue, or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences (delays, costs, reputational harm) stemming from the data center contractual requirements risk."
+  },
+  {
+   "text": "Any such issues with our performance under these contracts could materially impact our net sales and operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on how contract performance issues could impact net sales and operating results."
+  },
+  {
+   "text": "We may not be able to address these challenges in a cost-effective manner or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about inability to address challenges cost-effectively."
+  },
+  {
+   "text": "If we do not effectively manage our growth, we may not be able to execute on our business plan, respond to competitive pressures, or take advantage of the market opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about managing growth and executing business plans."
+  },
+  {
+   "text": "All of these could have an impact on our future objectives for growth, revenue, or profitability as well as our financial results and operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General summary statement about impacts on future objectives, not adding new specifics."
+  },
+  {
+   "text": "In particular, during 2025, the U.S. imposed new or increased tariffs and other countries, resulting in the imposition of retaliatory tariffs on the U.S., which increased costs in our supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of 2025 tariffs and retaliatory tariffs increasing supply chain costs."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "ticker": "FICO",
+ "sector": "Information Technology",
+ "filing_date": "2025-11-07",
+ "accession": "0000814547-25-000030",
+ "prior_accession": "0001628280-24-045719",
+ "model": "claude-sonnet-5",
+ "n_added": 4,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Our use of AI in the development of our products and our incorporation of AI features into some of our products could introduce errors, defects, or delays impacting our ability to successfully develop new products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding AI use in product development causing errors, defects, or delays, which is a concrete new business risk not previously described."
+  },
+  {
+   "text": "The ability of our FICO Score to compete effectively in the U.S. mortgage market may be constrained by the pricing and other business practices of the consumer reporting agencies, which could have a material adverse effect on our revenues, results of operations and stock price.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new competitive threat\u2014constraints from consumer reporting agencies' pricing practices affecting FICO Score's mortgage market position\u2014with material adverse effect language, a distinct new risk."
+  },
+  {
+   "text": "The extent to which our intellectual property rights can be protected differs by jurisdiction, and is rapidly evolving with respect to AI technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "This expands the pre-existing IP protection risk by adding that AI-related IP law is rapidly evolving, building on an existing risk category rather than introducing a wholly new one."
+  },
+  {
+   "text": "For example, approximately one-third of our workforce is located in India, which could be negatively impacted by heightened tensions between India and Pakistan.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific geopolitical risk factor (India-Pakistan tensions) with a concrete operational detail (one-third of workforce located in India) not previously disclosed."
+  }
+ ]
+}

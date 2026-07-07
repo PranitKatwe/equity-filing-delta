@@ -1,0 +1,58 @@
+{
+ "ticker": "WYNN",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-02",
+ "accession": "0001174922-26-000013",
+ "prior_accession": "0001174922-25-000039",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Although the U.S. economy has shown a strong recovery, with GDP growth above pre-pandemic levels, the global economy is experiencing a slower recovery.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General macroeconomic commentary about recovery trends without introducing a specific new risk to the company."
+  },
+  {
+   "text": "In addition, lingering inflationary pressures, elevated interest rates (as compared to 2021 and the years prior to that) and ongoing geopolitical tensions, including a volatile global trade policy, remain significant risks to ongoing economic recovery and may present fiscal and monetary policy uncertainty or changes in such policy that could have a negative impact on consumer discretionary spending.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing economic risk factors (inflation, interest rates, geopolitical tension, trade policy) affecting consumer spending, expanding on prior general economic risk disclosure."
+  },
+  {
+   "text": "Department of Justice, resolving such investigation.",
+   "category": "new_substantive_risk",
+   "rationale": "References a specific DOJ investigation resolution, indicating a new legal/regulatory matter not previously disclosed."
+  },
+  {
+   "text": "Constitution, other jurisdictions may determine that direct or indirect enforcement of gaming debts is against public policy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific legal risk regarding jurisdictions treating gaming debt enforcement as against public policy, a concrete new legal exposure."
+  },
+  {
+   "text": "The rapid evolution of artificial intelligence has increased the complexity and frequency of such attempts.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies AI as a new factor increasing the complexity and frequency of cyberattacks, a specific and material new threat vector."
+  },
+  {
+   "text": "Some of our employees are represented by labor unions under various collective bargaining agreements with different expiration dates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about existing union representation without describing a new or expanded risk."
+  },
+  {
+   "text": "There is no certainty that we will successfully negotiate new agreements with these unions that extend beyond the current expiration dates, or that these new agreements will be on terms that will allow us to be competitive.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific uncertainty about future union negotiations potentially resulting in unfavorable or uncompetitive terms, a concrete labor risk."
+  },
+  {
+   "text": "As a result, the trustees of those trusts, and other individual and/or institutional stockholders that report significant holdings of our common stock from time to time, may be able to exert influence over matters requiring our stockholders\u2019 approval, including any significant corporate transactions that require such approval.",
+   "category": "new_substantive_risk",
+   "rationale": "Highlights a new specific risk of concentrated stockholder influence over corporate decisions, which was not previously disclosed."
+  }
+ ]
+}

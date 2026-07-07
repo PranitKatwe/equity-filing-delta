@@ -1,0 +1,163 @@
+{
+ "ticker": "JCI",
+ "sector": "Industrials",
+ "filing_date": "2025-11-14",
+ "accession": "0000833444-25-000097",
+ "prior_accession": "0000833444-24-000064",
+ "model": "claude-sonnet-5",
+ "n_added": 29,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "As the Company enters its next 140 years of innovation leadership, people are at the center of how it delivers value to customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic celebratory statement about company history and culture, not a risk."
+  },
+  {
+   "text": "The Company\u2019s Board of Directors provides oversight of the Company\u2019s High-Performance Culture, with the Compensation and Talent Development Committee overseeing the Company\u2019s High-Performance Culture strategy and the Governance and Sustainability Committee overseeing employee health and safety.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes board oversight structure for HR programs, purely descriptive governance detail."
+  },
+  {
+   "text": "Managers are provided with resources to interpret their results and plan their actions following each survey, ensuring that all managers are reinforcing a continuous improvement culture. \u2022 Inclusion and Engagement Objectives: The CEO and other senior leaders have inclusion and engagement objectives in their annual performance goals. \u2022 Attracting High-Performing Talent: The Company attracts high-performing talent by delivering a market and persona-based employee value proposition which incorporates the Company\u2019s mission.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes HR program mechanics and talent attraction strategy, no risk content."
+  },
+  {
+   "text": "This includes investment in key learning curriculum and building skill-based career pathing for all front-line staff.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment in training programs, promotional/descriptive language."
+  },
+  {
+   "text": "Retention of program participants continues to increase year over year.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive statement about retention improving, not a risk."
+  },
+  {
+   "text": "10 \u2022 Leadership Development: The Company has a strong leadership curriculum for first time managers, managers new to the Company, managers of managers and executive leaders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes leadership training curriculum, descriptive HR content."
+  },
+  {
+   "text": "In 2025, the high potential courses had a greater than 75% application of content to the job and a net promoter score (\"NPS\") of greater than 70. \u2022 Engagement and Inclusion: The Company has developed BRG-sponsored development programs structured across the levels and stages of individuals' careers to develop and align employees with the Company\u2019s High-Performance Culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes training program metrics and inclusion programs, promotional/descriptive."
+  },
+  {
+   "text": "The Company\u2019s workforce declined from 2024 primarily due to divestitures including the R&LC HVAC business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual explanation of workforce decline due to divestiture, descriptive not a new risk."
+  },
+  {
+   "text": "The Company\u2019s EEO-1 Report published on our website outlines additional details on its U.S. workforce composition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to EEO-1 report disclosure, administrative detail."
+  },
+  {
+   "text": "The implementation of our operating model also depends on our ability to quickly respond to market and innovation driven changes and redeploy our resources as needed within our organization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties operating model risk to ability to respond to market changes and redeploy resources, building on existing operational risk discussion."
+  },
+  {
+   "text": "In addition, during fiscal year 2025, the Company realigned its organizational structure into three regional reporting segments as part of ongoing initiatives to drive simplification, accelerate growth, and better reflect its organizational and operational structure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about reorganizing into regional segments, factual restructuring detail rather than a risk statement."
+  },
+  {
+   "text": "Our ability to compete and generate sales depends in part on our capacity to meet customer demand and ensure that products and services are delivered to the customer on time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing supply/demand and delivery risk by tying it explicitly to competitive ability."
+  },
+  {
+   "text": "If we are unable to manufacture and deliver products to customers on time, we could experience lost sales and increased costs and we could be exposed to legal, financial, and reputational risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies consequences (lost sales, legal, financial, reputational risk) of an already-existing delivery/manufacturing risk."
+  },
+  {
+   "text": "The inability to deliver our products to customers on time could also restrict our manufacturing capacity, which could lead to the loss of customers and restrict our ability to grow sales.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details consequences of delivery delays on manufacturing capacity and customer retention, expanding existing risk."
+  },
+  {
+   "text": "Our operations and those of our suppliers are subject to disruption for a variety of reasons.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that operations are subject to disruption, standard risk framing without specifics."
+  },
+  {
+   "text": "The Company has taken appropriate actions to notify individuals and regulatory authorities.",
+   "category": "new_substantive_risk",
+   "rationale": "Indicates company has taken action to notify individuals and regulators, implying a specific data incident occurred, adding concrete new risk detail."
+  },
+  {
+   "text": "In addition, we have and may in the future be required to make certain third-party notifications to individuals and regulators.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing data privacy/breach risk by noting ongoing and future notification obligations."
+  },
+  {
+   "text": "Continued use of AI in the development of our products and services could also impact our intellectual property protections.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that AI use could affect intellectual property protections."
+  },
+  {
+   "text": "In addition, the rollback of existing climate and refrigerant transition legislation in certain jurisdictions could increase our costs to adapt our portfolio for compliance and competitiveness in different markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding rollback of climate/refrigerant legislation increasing compliance costs."
+  },
+  {
+   "text": "The United States has announced tariffs and reciprocal tariffs on a wide range of products manufactured or produced worldwide, including Canada, China, the European Union, Japan and Mexico, among others.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk topic: newly announced U.S. tariffs affecting global manufacturing."
+  },
+  {
+   "text": "Several countries have similarly announced reciprocal or other tariffs impacting products manufactured or produced in the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing reciprocal tariff actions by other countries, building on the newly introduced tariff risk."
+  },
+  {
+   "text": "The United States has and may in the future pause, reimpose or increase tariffs, and countries subject to such tariffs have and, in the future, may impose reciprocal tariffs or other restrictive trade measures in response to the imposition of tariffs by the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tariff volatility and reciprocal measures, expanding the tariff risk narrative."
+  },
+  {
+   "text": "We maintain operations worldwide, including the jurisdictions impacted by announced and contemplated tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes company's global operations are exposed to the tariff risk already described."
+  },
+  {
+   "text": "If the actual and potential tariffs and reciprocal tariffs are implemented, we expect that such actions could negatively impact our revenue growth and margins in future periods through increased costs, decreased demand and other adverse economic impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies financial impact (revenue, margins) of the tariff risk previously introduced."
+  },
+  {
+   "text": "We could also experience increased material cost inflation and component shortages, as well as disruptions and delays in our supply chain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details additional supply chain consequences tied to the tariff risk already introduced."
+  },
+  {
+   "text": "The net effect of these actions will depend on our ability to successfully mitigate and offset their impact, which may not be effective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discusses mitigation uncertainty for the tariff risk, continuing the same risk narrative."
+  },
+  {
+   "text": "Whether we will be required to deduct DWT from dividends paid to a shareholder will depend largely on whether the shareholder qualifies for an exemption from DWT under Irish law and the shareholder has provided a valid DWT form to his or her broker (in the case of shares held beneficially), or to our transfer agent (in the case of shares held directly).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides procedural detail on dividend withholding tax exemption requirements, expanding existing tax-related risk disclosure."
+  },
+  {
+   "text": "Shareholders resident in the U.S., who are beneficially entitled to any dividends paid on their shares and hold their shares through DTC will not be subject to DWT provided the addresses of such shareholders in the records of the brokers holding such shares are recorded as being in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further clarifies DWT exemption conditions for U.S. shareholders, expanding existing tax risk disclosure."
+  },
+  {
+   "text": "(and such brokers have further transmitted the relevant information to a qualifying intermediary appointed by us).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical clarification about broker information transmission, procedural detail with no new risk substance."
+  }
+ ]
+}

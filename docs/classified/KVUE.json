@@ -1,0 +1,218 @@
+{
+ "ticker": "KVUE",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-20",
+ "accession": "0001944048-26-000030",
+ "prior_accession": "0001944048-25-000033",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 35,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 27,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "18 Risks Related to the Proposed Transaction with K-C If the Proposed Transaction is consummated, the combined company may not perform as we or the market expects and may fail to realize the projected benefits and cost savings of the Proposed Transaction, which could adversely affect the value of K-C common stock, which our shareholders will own following the completion of the Proposed Transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category tied to the proposed merger with K-C, specifically integration and synergy realization risk not previously disclosed."
+  },
+  {
+   "text": "The success of the Proposed Transaction will depend, in part, on K-C\u2019s ability to realize the anticipated benefits and cost savings from combining our and K-C\u2019s respective businesses, including operational and other synergies that we believe the combined company will be able to achieve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced integration risk by specifying dependence on realizing synergies."
+  },
+  {
+   "text": "The anticipated benefits and cost savings of the Proposed Transaction may not be realized fully or at all, may take longer to realize than expected, or could have other adverse effects that we do not currently foresee.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the possibility that anticipated benefits may not be realized, expanding the integration risk introduced above."
+  },
+  {
+   "text": "In addition, in connection with the Proposed Transaction, K-C is expected to incur significant additional indebtedness to finance the Cash Consideration (as defined in Note 1, \u201cDescription of the Company and Summary of Significant Accounting Policies\u2014Proposed Transaction with Kimberly-Clark\u201d to the Consolidated Financial Statements included herein) and pay fees and expenses relating to the Proposed Transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financial risk: significant additional indebtedness to fund the transaction."
+  },
+  {
+   "text": "This increased indebtedness will reduce the amount of cash flow available to service K-C\u2019s debt, including any of our debt assumed by K-C in connection with the Proposed Transaction, in future periods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the debt risk by describing reduced cash flow availability."
+  },
+  {
+   "text": "If the combined company\u2019s cash flows and capital resources are insufficient to fund debt service obligations, it could face substantial liquidity problems and could be forced to reduce or delay investments and capital expenditures or to dispose of material assets or operations, seek additional debt or equity capital, or restructure or refinance its indebtedness.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on the liquidity consequences of the new debt risk."
+  },
+  {
+   "text": "The Merger Agreement is subject to a number of conditions that must be fulfilled to complete the Proposed Transaction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic procedural statement about conditions in the Merger Agreement without specific risk detail."
+  },
+  {
+   "text": "A number of the conditions are not within our control and may prevent, delay, or otherwise materially adversely affect the consummation of the Proposed Transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the closing condition risk by noting lack of control over conditions."
+  },
+  {
+   "text": "We cannot predict with certainty whether and when any of the required closing conditions will be satisfied or if another uncertainty may arise and cannot assure you that we will be able to timely consummate the Proposed Transaction as currently contemplated under the Merger Agreement or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates uncertainty regarding satisfaction of closing conditions."
+  },
+  {
+   "text": "Uncertainties associated with the Proposed Transaction may cause a loss of our or K-C\u2019s management and other key employees, which could adversely affect the future business and operations of the combined company following the Proposed Transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding loss of key management due to the transaction."
+  },
+  {
+   "text": "We depend on the experience and industry knowledge of our management personnel and other key employees to execute our business plans.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on management, common boilerplate language."
+  },
+  {
+   "text": "The success of the combined company after the Proposed Transaction will depend, in part, on its ability to retain or attract key management personnel and other key employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the retention risk introduced for the combined company."
+  },
+  {
+   "text": "During the pendency or following the consummation of the Proposed Transaction, our current and prospective employees may experience uncertainty or have concerns regarding their roles within the combined company, the timing and consummation of the Proposed Transaction, or the operations of the combined company, any of which may have an adverse effect on our ability to retain or attract key management and other key personnel.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on employee uncertainty risk tied to the merger."
+  },
+  {
+   "text": "If we are unable to retain personnel, including our key management, who are critical to the future operations of the combined company, we or the combined company could face disruptions in our operations, loss of existing customers, loss of key information, expertise, or know-how, and unanticipated additional recruitment and training costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific operational consequences of losing key personnel, expanding the retention risk."
+  },
+  {
+   "text": "In addition, the loss of key personnel could diminish the anticipated benefits of the Proposed Transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on how personnel loss affects merger benefits."
+  },
+  {
+   "text": "No assurance can be given that the combined company, following the Proposed Transaction, will be able to retain or attract our key management personnel and other key employees to the same extent that we have previously been able to retain or attract our own employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further extends the retention risk to uncertainty about future ability to attract talent."
+  },
+  {
+   "text": "Holders of our common stock will have a significantly reduced ownership and voting interest in the combined company after the Proposed Transaction and will therefore have less voting influence over the combined company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new dilution/voting power risk resulting from the merger structure."
+  },
+  {
+   "text": "In the Proposed Transaction, each of our shareholders will become a holder of common stock of the combined company which will continue operations as K-C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of transaction mechanics without new risk substance."
+  },
+  {
+   "text": "Upon completion of the Proposed Transaction, our current shareholders are expected to own approximately 46% and current K-C shareholders are expected to own approximately 54% of the combined company on a fully 20 diluted basis.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific ownership percentages that quantify the dilution risk already introduced."
+  },
+  {
+   "text": "As a result, our shareholders will have less voting influence on the combined company and may have less influence on its management and policies than they now have over us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates consequences of reduced voting influence."
+  },
+  {
+   "text": "Litigation against us or K-C, or the members of our or K-C\u2019s board of directors, could prevent or delay the completion of the Proposed Transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new litigation risk related to the proposed transaction."
+  },
+  {
+   "text": "Since the announcement of the Proposed Transaction, certain of our shareholders and K-C\u2019s shareholders have filed lawsuits against us, K-C, and/or the board of directors of both companies in connection with the Proposed Transaction, and such lawsuits may continue to be filed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail that lawsuits have already been filed, expanding litigation risk."
+  },
+  {
+   "text": "These legal proceedings could delay or prevent the Proposed Transaction from being completed in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential delay effects of litigation."
+  },
+  {
+   "text": "The existence of litigation related to the Proposed Transaction could affect the likelihood of obtaining the required regulatory approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands litigation risk to include regulatory approval implications."
+  },
+  {
+   "text": "Moreover, any litigation could be time-consuming and expensive and could divert our and K-C\u2019s management\u2019s attention away from their regular business and their focus on successful integration planning for the two companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details additional consequences (cost, distraction) of litigation risk."
+  },
+  {
+   "text": "Any lawsuit adversely resolved against us, K-C, or members of our respective boards of directors could adversely affect each company\u2019s business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies financial and operational impact of adverse litigation outcomes."
+  },
+  {
+   "text": "The Merger Agreement restricts our ability to pursue alternatives to the Proposed Transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new contractual restriction risk limiting ability to pursue alternative transactions."
+  },
+  {
+   "text": "The Merger Agreement contains \u201cno shop\u201d covenants that restrict our ability to, directly or indirectly, among other things, solicit proposals relating to any alternative business combination or acquisition transactions and enter into any discussions concerning, or provide confidential information in connection with, any such alternative business combination or acquisition transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific 'no shop' covenant terms expanding the restriction risk."
+  },
+  {
+   "text": "These provisions prevent us from engaging with a potential third-party acquirer that might have an interest in acquiring all or a significant part of the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains practical effect of the no-shop restriction."
+  },
+  {
+   "text": "The need for regulatory approvals may delay the date of completion of the Proposed Transaction or may diminish the benefits of the Proposed Transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory approval delay risk associated with the transaction."
+  },
+  {
+   "text": "The parties to the Merger Agreement are required to obtain the approvals of certain regulatory agencies before completing the Proposed Transaction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic procedural statement about need for regulatory approval."
+  },
+  {
+   "text": "Satisfying any requirements of these regulatory agencies may delay the date of completion of the Proposed Transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on potential delay from regulatory requirements."
+  },
+  {
+   "text": "The requisite regulatory approvals may not be received on a timely basis, or at all (in which case the Proposed Transaction could not be completed), or may contain conditions or restrictions on completion of the Proposed Transaction that cannot be satisfied.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates uncertainty about obtaining regulatory approval."
+  },
+  {
+   "text": "In addition, any conditions or restrictions imposed could have the effect of imposing additional costs on or limiting the revenues of the combined company following the Proposed Transaction, which might have an adverse effect on the combined company following the Proposed Transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details possible adverse cost/revenue impacts from regulatory conditions."
+  },
+  {
+   "text": "Further, it is possible that, among other things, restrictions on the combined operations of the two companies, including divestitures, may be sought by governmental agencies as a condition to obtaining the required regulatory approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies potential divestiture requirements as part of regulatory risk."
+  },
+  {
+   "text": "This may diminish the benefits of the Proposed Transaction to the combined company or otherwise have an adverse effect on the combined company following the Proposed Transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates diminished benefit risk from regulatory conditions."
+  },
+  {
+   "text": "The number of shares of K-C common stock issuable in the First Merger in respect of one share of our common stock is fixed and will not be adjusted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding fixed exchange ratio exposing shareholders to price fluctuation risk."
+  },
+  {
+   "text": "Because the market price of K-C common stock may fluctuate, our shareholders cannot be sure of the market value of the stock consideration they will receive in exchange for their shares in connection with the Proposed Transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on fixed exchange ratio risk by explaining market value uncertainty."
+  },
+  {
+   "text": "At the time the First Merger is completed, each issued and outstanding share of our common stock will be converted into the right to receive the Merger Consideration, which consists of 1) 0.14625 shares of K-C common stock and 2) $3.50 in cash.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual restatement of merger consideration terms without new risk framing."
+  },
+  {
+   "text": "The exchange ratio is fixed and will not be adjusted to reflect stock price changes of either our common stock or K-C common stock prior to the closing of the First Merger.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands the fixed exchange ratio risk regarding price adjustments."
+  }
+ ]
+}

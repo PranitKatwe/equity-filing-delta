@@ -1,0 +1,58 @@
+{
+ "ticker": "BEN",
+ "sector": "Financials",
+ "filing_date": "2025-11-10",
+ "accession": "0000038777-25-000238",
+ "prior_accession": "0000038777-24-000206",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Developing regulatory treatment of AI, and failure to adequately address AI-related challenges, creates a risk of reputational harm and an impediment to growth.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding evolving AI regulation causing reputational harm and hindering growth, which is a concrete new business risk."
+  },
+  {
+   "text": "Artificial Intelligence (AI) is used in many areas of our business and we plan to further incorporate AI into additional areas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a factual, descriptive statement about AI usage in the business, not itself a risk statement."
+  },
+  {
+   "text": "The use of AI offers efficiencies, but also introduces significant challenges related to data security, privacy, intellectual property, regulatory compliance, accuracy and bias concerns, and reputational harm, among others.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk categories tied to AI use, including data security, privacy, IP, compliance, bias, and reputational harm."
+  },
+  {
+   "text": "For example, AI technologies, including generative AI, may create content that appears correct but is factually inaccurate or flawed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific example (generative AI inaccuracies) that elaborates on the previously introduced AI accuracy/bias risk."
+  },
+  {
+   "text": "AI technologies evolve at a rapid pace and their usage requires integration with other technology applications, data platforms and business processes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General, non-specific statement about AI evolving and requiring integration, lacking a concrete risk claim."
+  },
+  {
+   "text": "Globally, courts and regulatory agencies are developing approaches to dealing with AI-related issues, which creates uncertainty around the use of the technology.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the regulatory uncertainty risk already introduced regarding AI oversight."
+  },
+  {
+   "text": "Use of AI technologies requires ongoing operational controls and procedures, and the development and implementation of appropriate protections and safeguards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on operational risk management needs tied to AI use introduced earlier."
+  },
+  {
+   "text": "Failure to successfully integrate AI technologies, respond to client or market demands, identify or address applicable legal or regulatory issues or effectively manage related risks could result in legal and regulatory liabilities and harm our reputation and growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential consequences (legal, regulatory, reputational) of failing to manage AI risks already described."
+  }
+ ]
+}

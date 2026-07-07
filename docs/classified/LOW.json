@@ -1,0 +1,58 @@
+{
+ "ticker": "LOW",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-23",
+ "accession": "0000060667-26-000029",
+ "prior_accession": "0000060667-25-000049",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Our Pro customers also expect more capabilities such as appropriate product assortment, strong sales support, and competitive credit options.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general Pro customer expectations without identifying a new specific risk to the business; reads as descriptive context rather than a risk statement."
+  },
+  {
+   "text": "A limited number of our employees at FBM are represented by labor unions, and we are also subject to labor organizing efforts from time to time.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: unionized labor at FBM and exposure to labor organizing efforts, which was not previously disclosed."
+  },
+  {
+   "text": "If successful, those organizing efforts may affect how we operate our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds directly on the newly introduced unionization risk by describing potential operational impact if organizing efforts succeed."
+  },
+  {
+   "text": "Collaborations with social media content creators, professional athletes, celebrities, and public personalities may also expose us to brand and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new reputational risk tied to influencer, athlete, and celebrity collaborations that wasn't previously disclosed."
+  },
+  {
+   "text": "The business practices of these suppliers could be associated with us and heighten risks to our brand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the brand/reputational risk theme to supplier business practices, adding a related but distinct dimension to brand risk exposure."
+  },
+  {
+   "text": "The qualification processes and background checks we utilize when engaging third-party installers may not reveal all potentially relevant information, including accurate worker authorization information and criminal history.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new concern about the adequacy of background checks and qualification processes for third-party installers, including worker authorization and criminal history gaps."
+  },
+  {
+   "text": "Our websites, primarily Lowes.com, and our mobile applications are important sales channels and sources of 12 Table of Contents information that influence both online and in-store sales.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply notes the importance of websites and mobile apps as sales channels without articulating a specific risk."
+  },
+  {
+   "text": "If we are unable to 16 Table of Contents access the public debt markets, we may be required to find other sources of capital, which may result in increased borrowing costs and restrict our ability to operate.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard risk factor language about reliance on public debt markets and potential increased borrowing costs, typical of routine financial risk disclosures."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "LLY",
+ "sector": "Health Care",
+ "filing_date": "2026-02-12",
+ "accession": "0000059478-26-000013",
+ "prior_accession": "0000059478-25-000067",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "We regularly submit new product candidates and indications to regulatory agencies for approval, including highly anticipated candidates such as orforglipron.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific named candidate (orforglipron) as an example within the existing regulatory-submission risk discussion, expanding rather than introducing a new risk category."
+  },
+  {
+   "text": "We and our products face intense competition, and such competition could have a material adverse effect on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that competition could have a material adverse effect; standard boilerplate framing."
+  },
+  {
+   "text": "In many cases, our products compete against the leading products of one or more of our competitors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that products compete against leading competitor products, no new specifics."
+  },
+  {
+   "text": "Technological innovation has amplified and we expect will continue to amplify competitive aspects of our business, including by enabling additional participation in and breadth of drug discovery and new healthcare delivery models.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how technological innovation intensifies existing competitive risk, adding detail but not a new risk category."
+  },
+  {
+   "text": "Business practices or commercial capabilities that we deploy in light of these or other market dynamics may not prove sufficient.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague cautionary statement that business practices may not be sufficient, lacking specific new risk content."
+  },
+  {
+   "text": "In addition to patient safety concerns, improper commercialization and dispensation practices by these actors may inappropriately condition consumer expectations or otherwise disadvantage compliant market participants.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific concern about improper commercialization/dispensation practices by bad actors affecting consumer expectations and compliant competitors."
+  },
+  {
+   "text": "To capitalize on the rapid development of next-generation technologies and otherwise effectively compete, we must continue to enhance skill sets and develop our workforce, both in and outside the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on need to develop workforce skills to compete, building on existing talent competition risk."
+  },
+  {
+   "text": "Our failure to compete effectively for talent could negatively affect our ability to discover, develop, manufacture, and sell our medicines, resulting in material financial, legal, commercial, or reputational harm to our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that failure to compete for talent could harm ability to discover/develop/sell medicines with material consequences."
+  },
+  {
+   "text": "In November 2025, we announced preliminary voluntary agreements with the U.S. government in which, among other arrangements, we agreed to implement measures to lower Medicaid and certain other drug prices for U.S. patients and to launch new medicines with a more balanced pricing approach across developed nations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new voluntary agreement with the U.S. government on Medicaid pricing and drug launch pricing, a concrete new development."
+  },
+  {
+   "text": "We face risks and uncertainty associated with these arrangements and negotiating the definitive agreements, including potential delays and the possibility of unfavorable terms related to pricing, access, and other key objectives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details risks tied to the newly disclosed government arrangements, expanding on the new pricing agreement risk."
+  },
+  {
+   "text": "Among other risks, we may fail to adequately capitalize on the additional U.S. access to our obesity medicines resulting from these agreements, particularly if the revenues generated from such expanded access are insufficient to offset pricing concessions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential negative outcomes from the same government pricing arrangements."
+  },
+  {
+   "text": "Moreover, the outcome of these arrangements and broader U.S. policy efforts to align domestic pharmaceutical pricing with international benchmarks from countries with competing healthcare cost containment priorities is uncertain and could negatively impact our pricing strategies, product demand or access, or competitive positioning across global markets, and may result in reduced revenue in certain markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues to detail uncertainty and potential negative impacts from the same pricing policy arrangements."
+  },
+  {
+   "text": "In general, securing and growing access for our obesity medicines is an important factor in the success of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that access to obesity medicines is important to business success; generic framing."
+  },
+  {
+   "text": "Among other considerations, payers in various international markets do not currently provide coverage for obesity medicines for weight loss indications, requiring patient self-pay.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific lack of international payer coverage for obesity medicines requiring self-pay, a concrete new risk detail."
+  },
+  {
+   "text": "In addition, patient self-pay sales through LillyDirect represented a growing portion of our business in 2025, and we have launched, and continue to explore, new partnerships and tools, including through LillyDirect, to further expand access to our medicines.",
+   "category": "new_substantive_risk",
+   "rationale": "Highlights growing reliance on self-pay through LillyDirect and new partnerships, introducing a specific business model risk."
+  },
+  {
+   "text": "Our financial results and prospects are subject to risks related to the level and pace of patient participation in cash-pay markets, which may be influenced by pricing, economic conditions, and competitive offerings, as well as regulatory or other actions that could restrict our ability to benefit from such markets, and uncertainty regarding our ability to secure reimbursement coverage in such markets over time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on risks related to cash-pay market participation introduced in the prior sentences."
+  },
+  {
+   "text": "In January 2026, HHS selected Trulicity and Verzenio as additional medicines subject to government-set prices to be effective in 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new government action (HHS selecting Trulicity and Verzenio for price setting) not previously mentioned."
+  },
+  {
+   "text": "Continued expansion of the 340B program and growth of entities claiming entitlement to 340B pricing, including in ways that may be inconsistent with the statutory scheme and through state laws that purport to mandate 340B sales to contract pharmacies, impact our revenue on an increasing percentage of sales.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on known 340B program risk with added detail about state laws and contract pharmacies."
+  },
+  {
+   "text": "Changes to the calculation of rebates under the Medicaid program could also increase our Medicaid rebate obligations and decrease the prices charged to 340B covered entities, which could have a significant impact on our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about Medicaid rebate calculation changes affecting existing 340B/Medicaid risk."
+  },
+  {
+   "text": "Any of these outcomes could result in material financial, legal, commercial, or reputational harm to our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all statement about potential harm from 'these outcomes,' standard risk language."
+  },
+  {
+   "text": "For example, in July 2025, CVS Caremark, the pharmacy benefit management division of CVS Health, stopped covering Zepbound as a preferred obesity management medicine on some insurance plans, which has negatively impacted access for patients covered under these plans.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific real-world event (CVS Caremark dropping Zepbound coverage) impacting patient access, a concrete new risk."
+  },
+  {
+   "text": "Patent expirations of competitive products may also shift market conditions for our products by contracting the market for branded products, impacting product access, or otherwise intensifying pricing pressures across similar treatments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing patent expiration/competition risk with additional market impact detail."
+  },
+  {
+   "text": "For biologics, loss of exclusivity may also result in the near-term entry of competitor versions (i.e., biosimilars).",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates well-known biosimilar entry risk following loss of exclusivity, a standard industry risk."
+  },
+  {
+   "text": "Delays in achieving these milestones in some cases may limit our ability to capitalize on the innovative medicines that we develop or acquire.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of risk that delays limit ability to capitalize on innovative medicines."
+  },
+  {
+   "text": "Intellectual property threats across international markets include policies which favor domestic competitors or are otherwise disadvantageous to our products, challenges to our patents\u2019 validity in foreign courts, and government policies that force technology transfer or undermine or nullify patent protections under the guise of health emergencies or other public interests.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about international IP threats (foreign court challenges, forced tech transfer) to existing IP risk."
+  },
+  {
+   "text": "See Item 1, \"Business\u2014Patents, Trademarks, and Other Intellectual Property Rights,\" and Item 8, \"Financial Statements and Supplementary Data\u2014Note 16: Contingencies,\" for more details.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to other sections, not a substantive risk statement."
+  },
+  {
+   "text": "Third-party access to our proprietary data may also enable such party's development of competing products or enhancement of services sold to competitors, thereby eroding our competitive advantage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that third-party access to proprietary data could enable competitors, a new competitive threat vector."
+  },
+  {
+   "text": "Supply chain difficulties, disruptions or shortages may arise from our or contracted supply chain activity as well as from external environmental factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing supply chain risk to include external environmental factors."
+  },
+  {
+   "text": "Variability in demand and supply for our products can also challenge supply capacity and resiliency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about demand/supply variability challenging supply chain resiliency, building on existing risk."
+  },
+  {
+   "text": "Relevant external environmental factors include (i) tariffs, (ii) cost inflation and global transportation and logistics challenges; (iii) labor market dynamics; (iv) natural disasters (including increased instances or severity of natural disasters or other events that may be due to climate change); (v) public health outbreaks, epidemics, or pandemics; (vi) periods of uneven economic growth or downturns; and (vii) the emergence or escalation of, or responses to international tension and conflicts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific external factors (including new mention of tariffs) expanding the existing supply chain risk discussion."
+  },
+  {
+   "text": "Reliance on third-party relationships and outsourcing arrangements could adversely affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about third-party reliance risk, standard boilerplate."
+  },
+  {
+   "text": "Tariffs have been imposed or proposed on a variety of other geographies in which we have third-party suppliers.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new disclosure that tariffs have been imposed/proposed on various geographies with third-party suppliers."
+  },
+  {
+   "text": "Our use of artificial intelligence (AI) or other emerging technologies could adversely impact us.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk topic regarding use of AI potentially adversely impacting the business."
+  },
+  {
+   "text": "We have also entered into, and may continue to enter into, partnerships and collaborations relating to the use of AI technology to aid in drug discovery and other efforts.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure of specific AI partnerships/collaborations for drug discovery, a new business activity risk."
+  },
+  {
+   "text": "There are significant risks involved in developing and deploying AI, and there can be no assurance that our usage of AI or our significant investments in AI will enhance our products or services or be beneficial to our business, including our efficiency or profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced AI risk with details about uncertainty of benefits and risks of deployment."
+  },
+  {
+   "text": "AI may enable new competitors in drug discovery and enhance the capabilities of existing competitors, thereby broadening and intensifying competitive dynamics.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands the AI risk by describing how it could intensify competitive dynamics."
+  },
+  {
+   "text": "O ur global operations and complex supply chain expose us to legislation and regulatory action in or regarding foreign jurisdictions as well as geopolitical and other cross-border risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about exposure to foreign legislation and geopolitical risk, largely framing language."
+  },
+  {
+   "text": "In 2025, the U.S. and other countries imposed or reached alignment on new tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new disclosure of 2025 tariff actions by the U.S. and other countries."
+  },
+  {
+   "text": "In some cases, imposed tariffs have been paused but may come into effect quickly and unpredictably.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on tariff risk by noting unpredictability of pauses and reinstatement, building on the newly disclosed tariff risk."
+  },
+  {
+   "text": "While pharmaceuticals are exempt from certain of these tariffs, such exemptions may be terminated or may not apply to any future tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details tariff exemption status and its potential termination, expanding the tariff risk discussion."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "HII",
+ "sector": "Industrials",
+ "filing_date": "2026-02-05",
+ "accession": "0001501585-26-000006",
+ "prior_accession": "0001501585-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 6,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Government contracts are subject to various risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that government contracts are subject to various risks, no specific detail."
+  },
+  {
+   "text": "We cannot predict the impact on our existing or future contracts due to changes in the global geopolitical and economic environment, including inflationary pressures, defense spending levels and priorities, government efficiency and other budgetary priorities, customer procurement practices and processes, and other factors that may impact our customer\u2019s short- and long-term plans and priorities or our ability to compete, capture, and perform successfully on such contracts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factors like inflationary pressures, defense spending priorities, and geopolitical environment affecting contracts."
+  },
+  {
+   "text": "Government may assert that it is not required to provide additional funding for such costs if sufficient funding has not been appropriated to cover them.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about government not funding costs if appropriations are insufficient, expanding existing government contract funding risk."
+  },
+  {
+   "text": "Government also can stop work under a contract for a limited period of time for its convenience.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces specific detail about stop-work orders as part of existing government contract risk."
+  },
+  {
+   "text": "In the event of a stop work order, contracts typically are protected by provisions covering reimbursement for costs incurred to date and for costs associated with the temporary stoppage of work plus a reasonable fee.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes mitigating contractual provisions related to stop-work orders, clarifying rather than adding new risk."
+  },
+  {
+   "text": "However, such temporary stoppages may result in financial or other damages for which contractors may not be able to recover fully.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that damages from stoppages may not be fully recoverable, expanding the stop-work risk."
+  },
+  {
+   "text": "In some cases, they could result in termination of a contract for convenience or reduced future orders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential consequence (termination for convenience) of the stop-work scenario already being expanded."
+  },
+  {
+   "text": "Certain of our programs providing products and services to federal civilian customers have been impacted, and we expect may continue to be impacted by government efficiency efforts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk tied to government efficiency efforts impacting federal civilian programs."
+  },
+  {
+   "text": "If estimated costs increase, particularly without comparable increases in revenue, our operating income can be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cost estimates affecting operating income, common risk framing."
+  },
+  {
+   "text": "12 Table of Contents Changes to the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing table of contents, not substantive content."
+  },
+  {
+   "text": "We have seen, and expect to continue to see, OTAs and CSOs used as an alternative to traditional procurement methods.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding use of alternative procurement vehicles (OTAs, CSOs)."
+  },
+  {
+   "text": "Moreover, these solicitations typically have significantly shorter acquisition times as compared to traditional procurements.",
+   "category": "reworded_same_meaning",
+   "rationale": "Continuation detail about shorter acquisition times for the previously introduced procurement risk."
+  },
+  {
+   "text": "We operate in a highly competitive environment and our competitors may have more financial capacity or other resource or capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive environment statement without specific new detail."
+  },
+  {
+   "text": "Our Mission Technologies segment also is highly competitive and competes domestically and internationally against mid to large A&D companies and non-traditional defense companies that may have more financial resources or capabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity by naming the Mission Technologies segment and types of competitors, expanding the competition risk."
+  },
+  {
+   "text": "We have classified contracts with the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mention of classified contracts, introductory phrasing."
+  },
+  {
+   "text": "Government that are classified or subject to security restrictions that preclude the dissemination of information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies restrictions on classified contract information dissemination, expanding on classified contract risk."
+  },
+  {
+   "text": "Our business may be adversely affected if we are unable to attract, train, and retain qualified personnel.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about attracting and retaining personnel, standard risk framing."
+  },
+  {
+   "text": "We also must be able to attract and retain personnel who can obtain and maintain required security clearances.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about need for personnel with security clearances, expanding personnel risk."
+  },
+  {
+   "text": "It can be difficult to replace personnel with the required skills, experience, and/or clearances if we experience unplanned attrition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies difficulty replacing cleared personnel, expanding personnel risk."
+  },
+  {
+   "text": "In addition, we may be limited in the amount and terms of compensation we are able to offer our executive officers or other employees as a U.S. defense contractor under certain circumstances.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about compensation limitations for executives due to defense contractor status."
+  },
+  {
+   "text": "Government contracts require us to procure certain materials, components, and parts from supply sources approved by the customer and/or are restricted from procuring products or services from certain sources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about restricted supply sources, expanding existing supply chain/government contract risk."
+  },
+  {
+   "text": "They also can harm our reputation, result in the loss of current or future contracts, including work on sensitive or classified systems for the U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Continuation describing consequences (reputation harm, loss of contracts) of previously mentioned risks."
+  },
+  {
+   "text": "Given the persistence, sophistication, volume, and novelty of threats we face, we may not be successful in preventing or mitigating an attack that could have a material adverse effect on us, and the costs related to cyber or other security threats or disruptions may not be fully insured or indemnified by other means.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about sophistication of cyber threats and insurance gaps."
+  },
+  {
+   "text": "The degraded or flawed performance of the AI tools we utilize may not be easily detectable despite internal policies and processes to identify and mitigate such deficiencies and may result from adversarial attacks that include data poisoning, malware risks, and evasion techniques which are not readily detectable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding AI tool vulnerabilities like data poisoning and adversarial attacks."
+  },
+  {
+   "text": "We have been, and may in the future be, exposed to damaging storms and other extreme weather conditions, such as hurricanes and floods (which may be exacerbated by changing weather patterns or environmental conditions), rising sea waters, environmental disasters such as oil spills, acts of terrorism, and health epidemics, pandemics, and similar outbreaks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing natural disaster/climate risk with specific examples like hurricanes, floods, and pandemics."
+  },
+  {
+   "text": "We anticipate that our facilities and operations, particularly in regions prone to natural disasters and extreme weather events, will continue to be at risk for future natural disasters.",
+   "category": "reworded_same_meaning",
+   "rationale": "Continuation of natural disaster risk statement without new substantive content."
+  },
+  {
+   "text": "Natural disasters, environmental disasters, and other events outside of our control can result in significant adverse impacts to our business, including by adversely impacting our workforce and supply chain, resulting in increased costs or other financial impacts, causing schedule or production delays or temporary closures of our facilities or 19 Table of Contents facilities of our customers or suppliers, or other impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific business impacts (workforce, supply chain, delays) from natural disasters, expanding the risk."
+  },
+  {
+   "text": "These events also may impact our suppliers' and subcontractors' ability to perform and may disrupt the availability of raw materials and supplies needed for our performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends natural disaster risk to include supplier and subcontractor performance impacts."
+  },
+  {
+   "text": "Although we endeavor to mitigate the risk associated with these events, if insurance or other means of recovery or risk mitigation are unavailable or insufficient, or if we experience delays in such recovery, the damage and adverse impacts caused by such events may be significant, and our financial position, results of operations, or cash flows could be materially adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about insurance insufficiency and financial impact from disasters, expanding existing risk."
+  },
+  {
+   "text": "We also may be impacted by evolving stockholders or other stakeholder sentiment regarding environmental matters.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk related to stakeholder sentiment on environmental matters, a new topic not previously covered."
+  },
+  {
+   "text": "We may be subject to potential liabilities, including for personal injury and harm to human health, property damage, environmental harm, and reputational harm arising out of such incidents or hazardous activities and operations, whether or not the cause was within our control, and insurance and/or indemnification may not be reasonably available.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands liability risk to include personal injury, environmental harm, and reputational harm specifics."
+  },
+  {
+   "text": "We have implemented a compliance program that is designed to prevent and detect misconduct.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about having a compliance program, standard boilerplate."
+  },
+  {
+   "text": "However, we cannot ensure that we will prevent all such misconduct.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that misconduct cannot be fully prevented."
+  },
+  {
+   "text": "On July 4, 2025, Public Law 119-21 (the \u201cAct\u201d) was signed into law.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific factual event: passage of a new tax law affecting the company."
+  },
+  {
+   "text": "The Act provides for significant changes to the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing the new tax law's impact, building on the newly introduced tax risk."
+  },
+  {
+   "text": "Internal Revenue Code of 1986, as amended, that impacts corporations, including making certain business deductions permanent, such as bonus depreciation and immediate expensing of domestic research and development expenditures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on tax code changes like bonus depreciation and R&D expensing, expanding the tax law risk."
+  },
+  {
+   "text": "In addition, the Act allows for an acceleration of the deduction for the remaining unamortized domestic research and development expenditures capitalized during the 2022 through 2024 tax years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the tax law's provisions on R&D expenditure deductions, expanding the tax risk."
+  },
+  {
+   "text": "These unamortized expenditures can be deducted over one or two years.",
+   "category": "reworded_same_meaning",
+   "rationale": "Continuation detail specifying deduction timeframe, part of the same tax law risk description."
+  },
+  {
+   "text": "The impacts of the Act on domestic research and development expenditures and bonus depreciation were recorded in the Company\u2019s financial statements as of December 31, 2025.",
+   "category": "reworded_same_meaning",
+   "rationale": "States that impacts were recorded in financial statements, a factual continuation rather than new risk."
+  },
+  {
+   "text": "See Note 12: Income Taxes in Item 8.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to a financial statement note, not substantive risk content."
+  }
+ ]
+}

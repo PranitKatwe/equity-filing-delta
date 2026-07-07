@@ -1,0 +1,148 @@
+{
+ "ticker": "IDXX",
+ "sector": "Health Care",
+ "filing_date": "2026-02-20",
+ "accession": "0000874716-26-000038",
+ "prior_accession": "0000874716-25-000037",
+ "model": "claude-sonnet-5",
+ "n_added": 26,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "12 \u2022 Water, livestock, poultry and dairy testing products .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a fragment of a product list item, not a new risk statement."
+  },
+  {
+   "text": "Other countries have proposed similar regulations, including Australia, Canada, and Brazil.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that other countries have proposed similar PFAS-type regulations, expanding the existing regulatory risk discussion."
+  },
+  {
+   "text": "While statutory exemptions exist in Maine, where we manufacture many of our products, some U.S. states have developed a range of product reporting, labeling and/or phase-out requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific state-level regulatory detail (Maine exemptions, other states' labeling/phase-out rules) that expands the existing chemical regulation risk."
+  },
+  {
+   "text": "For example, Minnesota will implement a regulation banning PFAS in products that impact water products beginning in 2032.",
+   "category": "expanded_existing_risk",
+   "rationale": "Gives a concrete example (Minnesota 2032 PFAS ban) that further details the existing regulatory risk already being discussed."
+  },
+  {
+   "text": "Culture of Inclusion and Equal Opportunity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A section heading with no substantive risk content."
+  },
+  {
+   "text": "Our human capital priorities include retaining a skilled and engaged workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about human capital priorities, not a specific risk."
+  },
+  {
+   "text": "We monitor our overall and managerial employee turnover and engagement to identify opportunities to strengthen our approach to human capital management, and we have been successful with our employee engagement efforts to achieve and maintain low turnover rates that are healthy for our sector.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of HR monitoring practices, not a specific new risk."
+  },
+  {
+   "text": "The disclosures below reflect our beliefs and opinions as to factors that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about the nature of disclosures."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such factors have occurred in the past.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer about examples not being exhaustive."
+  },
+  {
+   "text": "We seek to mitigate sole and single-source supplier risks on a risk-prioritized basis and in a variety of ways, including, when possible, by identifying and qualifying alternative suppliers, developing applicable in-house manufacturing capabilities and expertise, entering into escrow arrangements for manufacturing information for certain single or sole-sourced products, and strategically maintaining safety stock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details mitigation strategies for an already-existing supplier concentration risk, adding specificity rather than a new risk."
+  },
+  {
+   "text": "We also use and are investing in AI tools for our internal business operations, including to generate code, develop products and services, and increase operational efficiency.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the company's use of and investment in AI tools, a new topic not previously covered."
+  },
+  {
+   "text": "Our competitors may incorporate AI into their products, services, and operations more quickly, more successfully and more cost-effectively than us, which could impede our ability to compete.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced AI risk by describing competitive disadvantage from competitors' AI adoption."
+  },
+  {
+   "text": "Our use of AI may also lead to novel cybersecurity or privacy risks, which may adversely affect our operations and reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the new AI risk theme by adding cybersecurity/privacy implications."
+  },
+  {
+   "text": "Failure to properly remediate AI usage issues may cause public confidence in AI to be undermined, which could slow adoption of AI in our offerings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing consequences of AI-related issues within the newly introduced AI risk theme."
+  },
+  {
+   "text": "Although we continue to invest in AI, those investments may be substantial, and there can be no assurance that our investments will be beneficial to our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds financial uncertainty detail to the same newly introduced AI investment risk."
+  },
+  {
+   "text": "Further, while we strive to develop and use AI responsibly and in compliance with law, including through implementing strong governance processes, there can be no assurance that we will address all AI-related issues that may arise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on AI governance efforts and residual risk, continuing the same AI risk theme."
+  },
+  {
+   "text": "The failure to address such issues could damage our reputation, give rise to legal and/or regulatory action, or otherwise adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential consequences (reputation, legal) of AI issues, continuing the same AI risk theme."
+  },
+  {
+   "text": "Other countries have proposed similar regulations, including Australia, Canada, and Brazil.",
+   "category": "expanded_existing_risk",
+   "rationale": "Repeats regulatory expansion language already used elsewhere, adding jurisdictional detail to an existing risk."
+  },
+  {
+   "text": "AI-related legislation has also been introduced in a number of U.S. state legislatures and enacted in some states, such as California and Colorado, but the current U.S. administration issued an executive order in December 2025 to establish a federal policy aimed at curbing the proliferation of state-level AI-related legislation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about AI-related state legislation and federal executive order, expanding the AI regulatory risk theme."
+  },
+  {
+   "text": "The growth of our CAG business relies in part on a stable pet population and evolving testing patterns of increasing frequency and depth of diagnostic testing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new dependency of business growth on pet population stability and testing frequency, not previously described."
+  },
+  {
+   "text": "Significant reductions to the pet population or to veterinary protocols that reduce the frequency of diagnostic testing, due to macroeconomic conditions or other reasons, could have an adverse effect on our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequence of the newly introduced pet population/testing dependency risk."
+  },
+  {
+   "text": "These information systems and networks are susceptible to damage, disruption, or shutdown from multiple factors, including failures during the process of upgrading or replacing software, databases, or components; power outages; telecommunications or system failures; terrorist attacks; natural disasters; individual error or malfeasance; server or cloud provider breaches; computer viruses or cyber security attacks or other breaches or incidents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a detailed list of causes of IT system disruption, expanding on existing cybersecurity/IT risk."
+  },
+  {
+   "text": "In addition, the use of AI and other emerging technologies by threat actors is growing, enabling more sophisticated and effective cybersecurity attacks and phishing and social engineering schemes and further increasing attack volume and frequency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds AI-enabled threat actor detail to the existing cybersecurity risk discussion."
+  },
+  {
+   "text": "We, our customers, and other users of our products and services also may not promptly learn of or have the ability to fully assess the magnitude or effects of a security vulnerability in connected IoT devices and networks, including the extent, if any, to which a vulnerability has been exploited.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding delayed detection of IoT device vulnerabilities."
+  },
+  {
+   "text": "Further, some of our customer contracts require us to comply with industry standards adopted by industry groups related to the storage, processing, and transmission of individual cardholder data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific compliance requirement (cardholder data standards) to existing customer contract/security risk."
+  },
+  {
+   "text": "We also may be unable to satisfy all stakeholders in light of their varied and sometimes contradictory views and expectations regarding environmental, social, and governance matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about inability to satisfy all ESG stakeholders, lacking specific new risk detail."
+  }
+ ]
+}

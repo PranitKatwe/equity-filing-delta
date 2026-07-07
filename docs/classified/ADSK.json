@@ -1,0 +1,148 @@
+{
+ "ticker": "ADSK",
+ "sector": "Information Technology",
+ "filing_date": "2026-03-03",
+ "accession": "0000769397-26-000015",
+ "prior_accession": "0000769397-25-000019",
+ "model": "claude-sonnet-5",
+ "n_added": 26,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "The market may also react to these disruptive technologies in unpredictable ways inconsistent with our financial condition and results of operation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic, vague statement about market reacting unpredictably without specific risk detail."
+  },
+  {
+   "text": "For example, since March 2025 the United States has imposed additional Section 232 tariffs on various commodities, including steel, aluminum, passenger vehicles and trucks (and components for such vehicles), and other industry-specific targets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new Section 232 tariffs on named commodities, a concrete new trade risk."
+  },
+  {
+   "text": "Between February 2025 and February 2026, the United States placed additional fentanyl-related tariffs on most goods from China, Canada and Mexico (with an exception for goods that qualify for duty-free treatment under the U.S.-Mexico-Canada Agreement); and between April 2025 and February 2026 placed additional reciprocal tariffs on most imports from U.S. trading partners other than Canada, Mexico, Russia, Belarus, Cuba, and North Korea.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new fentanyl-related and reciprocal tariffs with dates and countries, a material new development."
+  },
+  {
+   "text": "These additional U.S. tariffs were implemented under authorities asserted in the International Emergency Economic Powers Act (\u201cIEEPA\u201d) and rescinded on February 24, 2026, following a Supreme Court decision invalidating the use of IEEPA to authorize these tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific legal detail about rescission of tariffs under IEEPA following a Supreme Court decision, expanding on the tariff risk narrative."
+  },
+  {
+   "text": "The availability, timing, and amount of any related refunds associated with payments of these duties remain uncertain and subject to further legal, regulatory, and administrative action.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about uncertainty regarding refunds tied to previously described tariff actions."
+  },
+  {
+   "text": "Beginning February 24, 2026, the U.S. government implemented a new, global \u201ctemporary import surcharge\u201d of 10% on many of the same products affected by the prior reciprocal tariffs, under authorities provided for in Section 122 of the Trade Act of 1974, supplementing existing non-IEEPA measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific 10% global import surcharge under a new legal authority, a distinct new tariff risk."
+  },
+  {
+   "text": "Additional trade-related investigations by the U.S. government are in progress and could result in the imposition of additional tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that additional trade investigations are ongoing, expanding the existing tariff/trade risk."
+  },
+  {
+   "text": "There is currently significant uncertainty about the future relationship between the United States and its trading partners with respect to trade policies, tariffs, taxes, and similar policies affecting cross-border operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty in trade relationships without new specifics."
+  },
+  {
+   "text": "These new or increased tariffs and other changes in U.S. trade policy, including new sanctions and increased export restrictions, have triggered and could continue to trigger retaliatory actions by affected countries, including Canada, China, Russia, and others, that have instituted, considered, or are considering imposing new or increased tariffs, export controls, and other trade sanctions targeting certain U.S. persons or U.S.-manufactured goods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Names specific countries and retaliatory actions, expanding the existing trade policy risk."
+  },
+  {
+   "text": "These retaliatory measures could include responses such as the imposition of new or increased digital services taxes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific example (digital services taxes) to the existing retaliatory measures risk."
+  },
+  {
+   "text": "In addition, we generally recognize subscription revenue over the term of the respective contracts, which typically range from 1-year to 3-years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard revenue recognition policy, factual description rather than a risk."
+  },
+  {
+   "text": "As a result, most of the revenue we report in each quarter is the result of subscriptions entered into during previous quarters.",
+   "category": "reworded_same_meaning",
+   "rationale": "Explains a standard subscription revenue timing effect, consistent with typical prior disclosures."
+  },
+  {
+   "text": "Consequently, a decline in new or renewed subscriptions in any one quarter may not be reflected in our revenue results for that quarter but will negatively impact our revenue in future quarters.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates the lagged impact of subscription declines, a common risk theme likely previously disclosed differently."
+  },
+  {
+   "text": "Accordingly, the effect of significant downturns in sales and market acceptance of our services, and changes in our attrition rate, may not be fully reflected in our results of operations until future periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about delayed reflection of downturns, consistent with standard risk language."
+  },
+  {
+   "text": "During the fourth quarter of fiscal 2026, we initiated another restructuring plan (the \"January 2026 Plan\") that marks the final phase of our sales and marketing optimization program.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new restructuring plan (January 2026 Plan) not previously mentioned, introducing new operational risk."
+  },
+  {
+   "text": "We cooperated with the SEC and USAO, including by providing certain documents and information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on cooperation with regulators, expanding existing legal proceeding risk disclosure."
+  },
+  {
+   "text": "On August 19, 2025, the SEC notified us that it was closing its matter.",
+   "category": "expanded_existing_risk",
+   "rationale": "New factual update that SEC closed its matter, expanding the legal proceedings risk narrative with resolution detail."
+  },
+  {
+   "text": "On August 21, 2025, the USAO notified us that it was closing its matter as well.",
+   "category": "expanded_existing_risk",
+   "rationale": "New factual update that USAO closed its matter, similar to SEC closure disclosure."
+  },
+  {
+   "text": "We anticipate that our revenue by direct sales channel will continue to increase as a percentage of total net revenue.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Forward-looking business expectation about sales channel mix, not a risk factor per se."
+  },
+  {
+   "text": "We expect our indirect channel will continue to transact and support a considerable portion of our customers, particularly in emerging regions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General expectation about indirect channel performance, not a specific new risk."
+  },
+  {
+   "text": "Many laws and regulations relating to privacy and data protection impose restrictions on cross-border transfers of personal data.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about privacy laws restricting cross-border transfers, consistent with existing data privacy risk."
+  },
+  {
+   "text": "Data transfer mechanisms may be challenged, revoked, or otherwise modified.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that data transfer mechanisms may be legally challenged, expanding existing privacy risk."
+  },
+  {
+   "text": "Numerous jurisdictions also have imposed data localization requirements, and we have faced, and expect to continue to face, customer requirements to maintain data in particular jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces specific customer data localization requirements, adding detail to existing privacy risk."
+  },
+  {
+   "text": "Further, we face exposure to regulatory complaints, actions, and other proceedings, and the potential for substantial fines, other liabilities, and injunctions or other imposed requirements, in connection with transfers of personal data and data localization requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential regulatory fines and proceedings tied to data transfer issues, expanding existing risk."
+  },
+  {
+   "text": "Evolving legislation and the interplay of federal and state laws may be subject to varying interpretations by courts and government agencies, creating complex compliance issues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about legal complexity and interpretation variability, standard cautionary language."
+  },
+  {
+   "text": "On January 5, 2026, the OECD announced a\u201cside-by-side\u201d elective safe harbor that exempts U.S.-parented multinational entities from certain provisions of Pillar Two for fiscal years beginning on or after January 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new OECD safe harbor development affecting Pillar Two tax exposure, a new regulatory detail."
+  }
+ ]
+}

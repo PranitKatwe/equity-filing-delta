@@ -1,0 +1,218 @@
+{
+ "ticker": "MLM",
+ "sector": "Materials",
+ "filing_date": "2026-02-19",
+ "accession": "0001193125-26-059193",
+ "prior_accession": "0000950170-25-024770",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "Demand for our construction materials is inherently cyclical and may decline or become more volatile due to economic and political uncertainty, elevated interest rates and inflation, reduced housing affordability, lower private nonresidential investment, or tightening credit conditions that delay, downsize, or cancel projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific macroeconomic drivers (interest rates, inflation, housing affordability, credit conditions) to the existing cyclicality-of-demand risk."
+  },
+  {
+   "text": "Public infrastructure activity depends on federal, state, and local budgets and letting schedules.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about infrastructure funding dependency without new specifics."
+  },
+  {
+   "text": "Changes in fuel-tax or other alternative financing, prolonged federal budget disputes or government shutdowns or other factors can reduce, defer, cap, suspend, or reprioritize transportation spending.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific financing and budget-related factors that could affect transportation spending, expanding existing infrastructure risk."
+  },
+  {
+   "text": "In addition, reductions in defense spending and declines in energy-related construction could lower demand in certain markets and adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces defense spending and energy-related construction declines as new specific demand risks."
+  },
+  {
+   "text": "A portion of our aggregates and downstream shipments is tied to construction activity funded by, or adjacent to, U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Links existing demand risk to specific dependency on DoD installations and energy projects."
+  },
+  {
+   "text": "Department of Defense installations and to private energy-related projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of the same new dependency detail on DoD and energy projects."
+  },
+  {
+   "text": "If federal defense budgets are reduced, appropriations are delayed, base realignments occur or military construction and related projects are deferred or canceled, construction activity on or near affected installations may slow, resulting in lower shipments and increased pricing pressure in the surrounding local markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new consequences of defense budget cuts, base realignments, and deferred military construction."
+  },
+  {
+   "text": "Similarly, energy-sector cyclicality can materially impact construction demand, particularly in Texas and other energy-intensive regions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces energy-sector cyclicality as a distinct new risk factor tied to specific regions like Texas."
+  },
+  {
+   "text": "If economic conditions and construction spending decline significantly in one or more areas, particularly in our Building Materials business\u2019 top ten revenue-generating states, our shipments profitability could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing geographic concentration risk by specifying top ten revenue states."
+  },
+  {
+   "text": "Widespread declines in aggregates pricing could adversely affect our business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing pricing risk to explicitly address widespread declines."
+  },
+  {
+   "text": "Aggregates pricing is set locally and is sensitive to supply-demand conditions within each market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains general pricing mechanics without introducing new risk."
+  },
+  {
+   "text": "A broad decline in construction activity or shifts in project timing can reduce shipment volumes and intensify price competition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details how declines in construction activity affect volumes and pricing, expanding existing risk."
+  },
+  {
+   "text": "Lower volumes can also negatively impact fixed-cost absorption and prompt competitors or customers to seek price concessions, leading to further pricing pressure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on fixed-cost absorption and competitive pricing pressure, an extension of existing pricing risk."
+  },
+  {
+   "text": "There is no assurance that market prices will stabilize or improve when demand recovers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cautionary statement with no new substantive content."
+  },
+  {
+   "text": "Prolonged or widespread price declines, especially if accompanied by reduced shipments, could lower margins and cash flows, reduce returns on invested capital, negatively affect the carrying value of long-lived assets or goodwill, limit capital available for growth and increase the risk of not meeting financial covenants.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on financial consequences of pricing declines, including covenants and asset value impacts."
+  },
+  {
+   "text": "Accordingly, our production, distribution, and customer demand are affected by seasonal weather patterns and adverse weather.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing seasonal weather risk in similar terms."
+  },
+  {
+   "text": "Severe events can close or damage transportation networks or constrain logistics capacity, slowing our ability to move materials and increasing delivered costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of transportation network disruption and increased logistics costs from severe weather."
+  },
+  {
+   "text": "Our operations in coastal markets near the Atlantic Ocean and Gulf Coast and in The Bahamas are exposed to hurricanes and tropical storms, while our California operations face risks from Pacific storms, wildfires, mudslides and water use restrictions during periods of severe drought.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new geographic risk exposures (hurricanes, wildfires, drought) not previously detailed."
+  },
+  {
+   "text": "The physical impacts described above may be exacerbated by the effects of climate change over time.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces climate change as a new exacerbating factor for physical risks."
+  },
+  {
+   "text": "Quality deposits that meet customer specifications are increasingly difficult to secure near growing markets due to competing land uses, zoning and land-use restrictions, and community opposition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding difficulty securing quality reserves due to zoning and land-use restrictions."
+  },
+  {
+   "text": "Even when deposits are identified, we may be unable to obtain or renew necessary land-use approvals, environmental permits, or other governmental authorizations on acceptable terms or timelines, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing permitting risk with more detail on approval and renewal difficulties."
+  },
+  {
+   "text": "If we are unable to timely replace reserves accessible to our markets, obtain or maintain required permits and approvals, secure necessary property and access rights on acceptable terms, or economically transport materials to demand centers, our ability to serve customers and our results of operations could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes and extends existing reserve and permitting risk into broader operational impact."
+  },
+  {
+   "text": "The success of this strategy depends on our ability to identify, evaluate, negotiate, finance, close, and integrate opportunities on acceptable terms and timelines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about M&A strategy execution, no new specifics."
+  },
+  {
+   "text": "Suitable targets may be scarce and sellers may prefer structures or terms that increase complexity or risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding scarcity of acquisition targets and complex seller terms."
+  },
+  {
+   "text": "There is no assurance that we will identify opportunities that meet our return thresholds or that, if completed, such transactions will generate expected cash flows or strategic benefits within anticipated time frames.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about uncertain M&A outcomes."
+  },
+  {
+   "text": "Proposed acquisitions are subject to risks and uncertainties before closing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about pre-closing acquisition risk."
+  },
+  {
+   "text": "Our diligence may not identify all risks, including environmental liabilities, geologic or reserve quality, title, access constraints, water or power availability, legacy tax or legal exposures, labor and workforce issues, or cybersecurity vulnerabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new diligence risks including cybersecurity vulnerabilities and legal exposures."
+  },
+  {
+   "text": "Transactions may require antitrust and other regulatory approvals and could be delayed, conditioned, or prohibited.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory/antitrust approval risk for transactions."
+  },
+  {
+   "text": "Required divestitures or other remedies can reduce expected benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of forced divestitures reducing expected benefits."
+  },
+  {
+   "text": "Target businesses may depend on permits, licenses, mineral or water rights, easements, leases, or other approvals that must be transferred, renewed, or re-issued; these processes can be uncertain, time-consuming and costly.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk related to transferring permits, licenses, and rights in acquisitions."
+  },
+  {
+   "text": "Volatile debt and equity market conditions, interest-rate movements, and changes in our credit ratings can affect the availability and cost of financing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding market volatility and credit rating changes affecting financing availability."
+  },
+  {
+   "text": "We may finance transactions with cash, debt, equity or a combination of such consideration.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about financing methods, no new risk."
+  },
+  {
+   "text": "Using our common stock \u2013 whether as acquisition consideration or for related capital raises \u2013 can dilute existing shareholders and cause the price of our stock to decline, and market volatility between signing and closing can affect the value delivered to sellers or the economics of the transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new dilution risk from using common stock in acquisitions."
+  },
+  {
+   "text": "Debt financing increases interest expense and financial leverage and may reduce flexibility under our debt covenants and capital-allocation priorities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing financing risk to address debt leverage and covenant flexibility."
+  },
+  {
+   "text": "Joint ventures and minority investments can involve governance constraints, differing strategic objectives or disputes that limit our ability to direct operations or realize benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk related to joint ventures and minority investment governance issues."
+  },
+  {
+   "text": "Integrating acquired businesses may be more difficult, costly, or time-consuming than expected, and we may not realize anticipated benefits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about integration difficulty, common in M&A risk sections."
+  },
+  {
+   "text": "Integration requires the alignment of cultures, safety and operating practices, internal controls, information technology and cybersecurity, procurement, logistics networks, and sales and pricing processes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands integration risk to include cybersecurity and IT alignment issues."
+  },
+  {
+   "text": "We may not realize our expected cost or revenue strategies due to customer or supplier reactions, regulatory or permitting limits, or market changes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about not realizing expected synergies."
+  },
+  {
+   "text": "Acquisitions and divestitures may not occur on expected terms or timelines, may be more costly or complex than anticipated, and may not deliver expected benefits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cautionary language about M&A execution risk."
+  },
+  {
+   "text": "If we are unable to complete transactions on acceptable terms in a timely manner , or realize expected benefits, our business, financial condition, and results of operations could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard concluding risk statement without new specifics."
+  }
+ ]
+}

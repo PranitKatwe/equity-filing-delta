@@ -1,0 +1,78 @@
+{
+ "ticker": "KO",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-20",
+ "accession": "0001628280-26-010047",
+ "prior_accession": "0000021344-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "These sales are included in our EMEA operating segment, regardless of the physical location of the retail stores.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about segment reporting classification, not a risk."
+  },
+  {
+   "text": "For information about geographic and customer data, refer to Note 20 of Notes to Consolidated Financial Statements set forth in Part II, \u201cItem 8.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statements, not a risk description."
+  },
+  {
+   "text": "Financial Statements and Supplementary Data\u201d of this report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of the cross-reference citation, no risk content."
+  },
+  {
+   "text": "We expect continued scrutiny of ingredients or 9 substances present in certain of our products and/or their packaging, as well as processes used to make them, and it is possible that similar or more restrictive requirements may be proposed or enacted in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing regulatory scrutiny of ingredients/packaging, expanding an already-known risk."
+  },
+  {
+   "text": "Recent activities and proposals by U.S. federal and state government agencies and initiatives have focused on potential drivers behind the rise in childhood chronic diseases.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory focus area (childhood chronic disease drivers) not previously mentioned."
+  },
+  {
+   "text": "The increasing use of data analytics, automation and artificial intelligence across digital platforms is further reshaping how consumers discover, evaluate and engage with brands.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new specific risk factor about AI/data analytics reshaping consumer engagement with brands."
+  },
+  {
+   "text": "A widespread product recall could result in significant losses due to the costs of a recall and the destruction of product inventory.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential financial impact of a product recall, expanding an existing recall risk."
+  },
+  {
+   "text": "For the year ended December 31, 2025, one bottler accounted for 10% of our net operating revenues, which are reflected in our EMEA and Asia Pacific operating segments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides updated factual concentration data for a bottler, not a new or expanded risk statement."
+  },
+  {
+   "text": "Further, actions by our bottling partners, including related to product quality, safety, marketing practices, labor relations, regulatory compliance, sustainability, or other matters could adversely affect the reputation, consumer perception, or value of our brands, even if we are not directly responsible for such actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk regarding bottler partner actions affecting brand reputation."
+  },
+  {
+   "text": "In June 2025, the Group of Seven (\u201cG7\u201d) released a statement announcing an understanding of a potential side-by-side system approach to the Pillar Two framework that would exclude U.S.-parented groups from certain Pillar Two provisions in recognition of existing U.S. minimum tax rules.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific development regarding G7 Pillar Two tax framework affecting U.S. companies."
+  },
+  {
+   "text": "In January 2026, the OECD issued further administrative guidance introducing a side-by-side framework under Pillar Two, largely exempting U.S.-headquartered companies from the application of Pillar Two.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and updates the same Pillar Two tax framework topic introduced just before, adding further detail."
+  },
+  {
+   "text": "If interest rates increase, our net income could be negatively affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about interest rate risk affecting net income, typical financial boilerplate."
+  }
+ ]
+}

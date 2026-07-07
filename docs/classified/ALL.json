@@ -1,0 +1,113 @@
+{
+ "ticker": "ALL",
+ "sector": "Financials",
+ "filing_date": "2026-02-20",
+ "accession": "0000899051-26-000031",
+ "prior_accession": "0000899051-25-000015",
+ "model": "claude-sonnet-5",
+ "n_added": 19,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "Where appropriate and supportable, the Company pursues subrogation of its losses resulting from catastrophes and severe weather events.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing subrogation practice in general terms without introducing a new specific risk."
+  },
+  {
+   "text": "These efforts may be impacted by external factors that vary by jurisdiction, including developments in the law that may restrict subrogation recoveries, including such claims against utility companies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific legal risk of restrictions on subrogation recoveries, including claims against utility companies."
+  },
+  {
+   "text": "Certain states impose or are contemplating regulatory limitations on the amount of profit that insurance companies may earn.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity to existing rate/profit regulation risk by noting states limiting insurer profit."
+  },
+  {
+   "text": "If our returns exceed regulatory thresholds, we may be required to issue premium credits, refunds, or implement retroactive rate adjustments to comply with applicable law.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory profit limitation risk with concrete mechanisms like premium credits and retroactive rate adjustments."
+  },
+  {
+   "text": "Risk Factors and Other Disclosures Regulatory restrictions or potential delays in the regulatory approval process for new products and features or the use of advanced technologies, non-traditional data sources, or large language models may impact our ability to innovate and enhance the competitiveness of our product offerings in the marketplace.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new technology risk factors including large language models and non-traditional data sources affecting product approval."
+  },
+  {
+   "text": "We also sell and service NFIP flood policies as an agent of FEMA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about acting as FEMA's agent for flood policies, no risk articulated."
+  },
+  {
+   "text": "The Company is fully indemnified for claims and claim expenses and does not retain any ultimate risk for the indemnified business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States full indemnification and no retained risk, which reduces rather than introduces risk."
+  },
+  {
+   "text": "Congressional authorization and funding for the NFIP is subject to freezes, including during a government shutdown.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of NFIP funding freezes including during government shutdowns."
+  },
+  {
+   "text": "Delays in the payment of claims and claim expenses due to authorization or funding freezes, or changes to the administration of the NFIP by the federal government, could result in our customers not receiving payment for qualifying claims, impact the ability to service customer policies or delay the receipt of our fees for services from the NFIP.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the NFIP funding freeze risk by detailing concrete consequences like claim payment delays and service impacts."
+  },
+  {
+   "text": "Our competitive position could be impacted if we are unable to deploy advanced technologies in a cost effective and competitive manner or if our competitors more rapidly or successfully deploy advanced technologies in their businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing competitive/technology risk by specifying deployment of advanced technologies as a competitive factor."
+  },
+  {
+   "text": "26 www.allstate.com 2025 Form 10-K Part I - Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer text with no risk content."
+  },
+  {
+   "text": "These risks may increase in the future as threats become more sophisticated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about threats becoming more sophisticated without specifics."
+  },
+  {
+   "text": "Integrated operational risk and return management processes and practices may not be sufficient to timely detect, mitigate and respond to cybersecurity operational risks, including those posed by the use of third-party services (e.g., cloud technology, software as a service) and artificial intelligence.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cybersecurity risk sources including third-party cloud services and artificial intelligence."
+  },
+  {
+   "text": "Enterprise resilience is critical to the ability to restore business operations following a significant operational event Significant operational events may result in the shutdown, disruption, degradation or unavailability of one or more of our or third party systems or facilities, unanticipated problems with disaster recovery processes, or a support failure from external providers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing operational resilience risk with more detail on disruption sources like third-party support failures."
+  },
+  {
+   "text": "28 www.allstate.com 2025 Form 10-K Part I - Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer text with no risk content."
+  },
+  {
+   "text": "Our practices may not meet the expectations of stakeholders or we may fail to meet our commitments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about failing to meet stakeholder expectations without specific risk detail."
+  },
+  {
+   "text": "This could necessitate changes to practices that may adversely impact the business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague follow-on statement about needing to change practices, lacking specificity."
+  },
+  {
+   "text": "Changes in tax policy or imposition of fees and restrictions could increase the cost of operations or disrupt or limit our ability to operate outside of the U.S., whether directly through our operations or indirectly through our vendors, suppliers, or service providers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding tax policy changes and fees affecting operations through vendors, suppliers, and service providers abroad."
+  },
+  {
+   "text": "Regulatory and federal agency reforms may make it more expensive for us to conduct our business Regulatory and federal agency reforms, including potential changes in the role of FEMA in coordinating disaster response, lapses in the authorization or changes in administration of the NFIP and potential discontinuation or disruption to the National Oceanic and Atmospheric Administration\u2019s or the National Center for Atmospheric Research\u2019s weather forecasting and modeling may impact the insurance industry and increase costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risks tied to FEMA role changes and potential disruption to NOAA/NCAR weather forecasting."
+  }
+ ]
+}

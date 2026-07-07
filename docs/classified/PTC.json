@@ -1,0 +1,143 @@
+{
+ "ticker": "PTC",
+ "sector": "Information Technology",
+ "filing_date": "2021-11-22",
+ "accession": "0001564590-21-057806",
+ "prior_accession": "0001564590-20-054803",
+ "model": "claude-sonnet-5",
+ "n_added": 25,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Interception of data transmission, misappropriation or modification of data, corruption of data and attacks against our service providers may adversely affect our products or product and service delivery.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of data interception/misappropriation via service providers affecting product delivery, a concrete new cybersecurity risk."
+  },
+  {
+   "text": "Malicious code, viruses or vulnerabilities that are undetected by our service providers may disrupt our business operations generally and may have a disproportionate effect on those of our products that are developed and delivered in the cloud environment.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific risk of undetected malicious code from service providers disproportionately affecting cloud-delivered products."
+  },
+  {
+   "text": "We increasingly rely on third-party providers of cloud infrastructure services to deliver our offerings to users on our platform, and any disruption of or interference with our use of these services could adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new dependency risk on third-party cloud infrastructure providers for delivering offerings."
+  },
+  {
+   "text": "Our continued growth depends in part on the ability of our existing and potential customers to use and access our cloud services or our website in order to download our software or encrypted access keys for our software within an acceptable amount of time.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a concrete risk that customer ability to access/download cloud services within acceptable time affects growth."
+  },
+  {
+   "text": "We use a number of third-party service providers, which we do not control, for key components of our infrastructure, particularly with respect to development and delivery of our cloud-based products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific reliance on uncontrolled third-party providers for key infrastructure components."
+  },
+  {
+   "text": "The use of these service providers gives us greater flexibility in efficiently delivering a more tailored, scalable customer experience, but also exposes us to additional risks and vulnerabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic transitional statement about trade-offs of using service providers without new specific detail."
+  },
+  {
+   "text": "Third-party service providers operate their own platforms that we access, and we are, therefore, vulnerable to their service interruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the previously stated reliance risk by noting vulnerability to third-party platform interruptions."
+  },
+  {
+   "text": "We may experience interruptions, delays and outages in service and availability from time to time as a result of problems with our third-party service providers\u2019 infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the risk of interruptions from third-party infrastructure problems, building on prior statements."
+  },
+  {
+   "text": "Lack of availability of this infrastructure could be due to a number of potential causes including technical failures, natural disasters, fraud or security attacks that we cannot predict or prevent.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of potential causes (technical failures, natural disasters, fraud) without new specific risk."
+  },
+  {
+   "text": "Such outages could lead to the triggering of our service level agreements and the issuance of credits to our cloud-based product customers, which may impact our business and consolidated financial statements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific financial consequence of outages via SLA credit issuance impacting financial statements."
+  },
+  {
+   "text": "If we are unable to renew our agreements with our cloud service providers on commercially reasonable terms, or our agreement is prematurely terminated, or we need to add new cloud services providers to increase capacity and uptime, we could experience interruptions, downtime, delays, and additional expenses related to transferring to and providing support for these new platforms.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding renewal or termination of cloud provider agreements causing operational and cost impacts."
+  },
+  {
+   "text": "Any of the above circumstances or events may harm our reputation and brand, reduce the availability or usage of our platforms and impair our ability to attract new users, any of which could adversely affect our business, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate conclusion about reputational and financial harm without new specifics."
+  },
+  {
+   "text": "On March 5, 2021, the Intercontinental Exchange Benchmark Administration, the U.K.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific regulatory factual context (LIBOR cessation dates) introducing a concrete new benchmark transition risk."
+  },
+  {
+   "text": "Financial Conduct Authority (FCA) regulated and authorized administrator of LIBOR, announced, and the FCA confirmed, that one week and two-month USD LIBOR settings will cease on December 31, 2021, and that the USD LIBOR panel for all other tenors will cease on June 30, 2023.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete LIBOR cessation timeline details material to the company's credit facility risk."
+  },
+  {
+   "text": "The credit facility provides a mechanism pursuant to which we and the administrative agent may agree, under certain circumstances, to transition to an alternate base rate borrowing or amend the 13 credit facility to establish an alternate interest rate to LIBOR that includes consideration of the then-prevailing market convention for determining interest rates for syndicated loans in the United States at that time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a mitigating contractual mechanism for LIBOR transition, expanding on the previously introduced LIBOR risk."
+  },
+  {
+   "text": "From time to time, we may acquire common stock in publicly traded companies as strategic investments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category regarding strategic equity investments in publicly traded companies."
+  },
+  {
+   "text": "Owning such stock exposes us to the volatility, liquidity and other risks inherent in holding that stock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on volatility and liquidity risks tied to the newly introduced equity investment risk."
+  },
+  {
+   "text": "From time to time, we may own common stock of publicly traded companies.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same idea as sentence 15 about owning publicly traded stock, essentially duplicate phrasing."
+  },
+  {
+   "text": "We are required to present the value of such stock on our Consolidated Balance Sheet at their fair value at the end of each reporting period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds accounting detail (fair value reporting) that expands on the equity investment risk's financial impact."
+  },
+  {
+   "text": "The fair value of those shares may fluctuate due to the volatility of the stock market, changes in general economic conditions, and the performance of these publicly traded companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on causes of fair value fluctuation for the investment risk already introduced."
+  },
+  {
+   "text": "We recognize all changes in the fair value of the owned shares (whether realized or unrealized) as gains or losses in our Consolidated Statement of Operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes accounting treatment of gains/losses, expanding on the earnings volatility risk already noted."
+  },
+  {
+   "text": "Accordingly, changes in the fair value of the owned shares can materially impact the earnings we report, which introduces volatility in our earnings that is not associated with the results of our business operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Explains the material impact on reported earnings from unrelated equity fluctuations, a specific new financial risk."
+  },
+  {
+   "text": "In particular, significant declines in the fair value of the owned shares would produce significant declines in our reported earnings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and quantifies the previously introduced earnings volatility risk from declines in stock value."
+  },
+  {
+   "text": "The reported value of the owned shares does not necessarily reflect their lowest current market price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance that reported value may not reflect lowest market price, expanding on the valuation risk."
+  },
+  {
+   "text": "If we were forced to sell some or all of the owned shares in the market, there can be no assurance that we would be able to sell them at prices equivalent to the value that we have reported on our Consolidated Balance Sheet, and we may be forced to sell them at significantly lower prices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific liquidity risk scenario where forced sale of shares could occur at prices below reported value."
+  }
+ ]
+}

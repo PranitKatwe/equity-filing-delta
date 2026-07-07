@@ -1,0 +1,33 @@
+{
+ "ticker": "HST",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-25",
+ "accession": "0001070750-26-000054",
+ "prior_accession": "0001070750-25-000071",
+ "model": "claude-sonnet-5",
+ "n_added": 3,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "In June 2026, the collective bargaining agreement in New York City will expire.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific expiration date for an existing collective bargaining agreement risk, providing concrete detail rather than introducing a new type of risk."
+  },
+  {
+   "text": "Three of our hotels are subject to the collective bargaining agreement: the New York Marriott Marquis, the New York Marriott Downtown, and 1 Hotel Central Park.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies which particular hotels are subject to the collective bargaining agreement, adding concreteness to an already-existing labor relations risk."
+  },
+  {
+   "text": "Beginning after the calendar year ending December 31, 2025, the 20% threshold will increase to 25%.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific numeric threshold change (20% to 25%) that appears to detail an existing regulatory/tax-related risk rather than introduce a wholly new risk."
+  }
+ ]
+}

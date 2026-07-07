@@ -1,0 +1,128 @@
+{
+ "ticker": "ECL",
+ "sector": "Materials",
+ "filing_date": "2026-02-23",
+ "accession": "0001104659-26-018357",
+ "prior_accession": "0001558370-25-001263",
+ "model": "claude-sonnet-5",
+ "n_added": 22,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Our actual results could differ materially from those anticipated in the forward-looking statements as a result of specific factors, including the risks and uncertainties described below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statements disclaimer language with no specific risk content."
+  },
+  {
+   "text": "The disclosures in this section reflect our beliefs and opinions as to factors that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about the purpose of the risk factors section."
+  },
+  {
+   "text": "During 2025, new tariffs were imposed in the U.S. for imports from a broad range of countries and materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new factual development\u2014new U.S. tariffs on imports\u2014not previously disclosed."
+  },
+  {
+   "text": "Several countries also implemented or proposed retaliatory tariffs on imports from the U.S., as well as other barriers to trade.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced tariff risk by adding retaliatory tariffs and trade barriers from other countries."
+  },
+  {
+   "text": "Ongoing changes in U.S. trade policy through administrative action or litigation create a heightened level of uncertainty for our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and generalizes the tariff/trade policy risk theme introduced above."
+  },
+  {
+   "text": "17 Table of Contents \u25cf Reputational Risks : The use of AI raises social and ethical concerns, which could harm our reputation if not managed responsibly.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk category around AI ethics and reputational harm."
+  },
+  {
+   "text": "Additionally, it may take considerable time for us to investigate and evaluate the full impact of cyber-attacks, particularly for sophisticated attacks, which may inhibit our ability to provide prompt, full, and reliable information about cybersecurity incidents to our customers, regulators, and the public.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing cybersecurity risk regarding delayed detection and reporting of attacks."
+  },
+  {
+   "text": "There may also be other related challenges and risks as we complete implementation of our ERP system upgrade, and businesses which we have acquired, or may in the future acquire, may have information technology system vulnerabilities which could increase our risk of cybersecurity attacks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new vulnerability risk tied to ERP system upgrade and acquired businesses' IT systems."
+  },
+  {
+   "text": "Any of these events could result in a significant drop in demand for some of our products and services and materially and adversely affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about adverse effects, not adding new specifics."
+  },
+  {
+   "text": "19 Table of Contents \u200b Our operations may present a safety risk to our employees and others. \u200b Notwithstanding our emphasis on safety and the precautions we take related to health and safety, we may be unable to avoid safety incidents relating to our operations that result in injuries or deaths of our employees, contractors or others.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor concerning employee and third-party safety incidents."
+  },
+  {
+   "text": "Certain safety incidents may result in legal or regulatory action that could result in increased expenses or reputational damage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced safety risk by adding legal/regulatory consequences."
+  },
+  {
+   "text": "We maintain workers' compensation and other insurances to address the risk of incurring material liabilities for injuries or deaths, but there can be no assurance that the insurance coverage will be adequate or will continue to be available on terms acceptable to us, or at all, which could result in material liabilities to us for any injuries or deaths.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the safety risk by discussing insurance coverage adequacy."
+  },
+  {
+   "text": "Changes to federal, state, and local employee health and safety regulations, and legislative, regulatory, or societal responses to safety incidents may result in heightened regulations or public scrutiny that may increase our compliance costs or result in reputational damage. \u200b A chemical spill or release could materially and adversely impact our business. \u200b As a manufacturer and supplier of chemical products, there is a potential for chemicals to be accidentally spilled, released or discharged, either in liquid or gaseous form, during production, transportation, storage or use.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding chemical spills or releases in operations."
+  },
+  {
+   "text": "20 Table of Contents Our business may face increased scrutiny from the investment community, other stakeholders, regulators, and the media related to our sustainability activities, including our commitments, goals, targets, and objectives, and our methodologies and timelines for pursuing them.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of scrutiny over sustainability commitments and goals from stakeholders and regulators."
+  },
+  {
+   "text": "The enactment of the One Big Beautiful Bill Act (\u201cOBBBA\u201d) in the U.S. introduced changes to U.S. international tax provisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legislative development (OBBBA) affecting international tax provisions."
+  },
+  {
+   "text": "These changes may interact with Pillar Two in complex ways.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds complexity detail to the newly introduced tax legislation risk regarding interaction with Pillar Two."
+  },
+  {
+   "text": "Statements by the Group of Seven Nations (\u201cG7\u201d) suggest a potential \u201cside-by-side\u201d framework that could exempt certain U.S. parented groups from all or certain aspects of Pillar Two rules but the final outcome remains uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the tax risk by discussing G7 framework uncertainty affecting Pillar Two application."
+  },
+  {
+   "text": "The evolving nature of these reforms may impact our tax profile, increase compliance costs, and create additional risks of double taxation or inconsistent treatment across jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the tax reform risk, adding compliance cost and double taxation implications."
+  },
+  {
+   "text": "Increases in income tax rates, changes in income tax laws or unfavorable resolution of tax matters could have a material adverse impact on our financial results. \u200b On July 4, 2025, the One Big Beautiful Bill Act (\u201cOBBBA\u201d) was enacted in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and factually grounds the tax risk with specific enactment date, building on prior general tax risk language."
+  },
+  {
+   "text": "The OBBBA includes significant provisions, such as permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework and the restoration of favorable tax treatment for certain business provisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific details of OBBBA provisions, expanding on the newly disclosed tax legislation risk."
+  },
+  {
+   "text": "The legislation has multiple effective dates, with certain provisions effective in 2025 and others implemented through 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds implementation timeline detail to the OBBBA-related tax risk."
+  },
+  {
+   "text": "An estimate of the financial impact has been included in operating results as of December 31, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds quantifiable financial impact detail to the previously introduced tax legislation risk."
+  }
+ ]
+}

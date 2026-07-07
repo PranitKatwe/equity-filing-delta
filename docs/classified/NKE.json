@@ -1,0 +1,213 @@
+{
+ "ticker": "NKE",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2025-07-17",
+ "accession": "0000320187-25-000047",
+ "prior_accession": "0000320187-24-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 39,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 30
+ },
+ "items": [
+  {
+   "text": "We are committed to having an inclusive and diverse team and culture, and accessible workplace.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about commitment to diversity and inclusion culture, no specific risk."
+  },
+  {
+   "text": "We achieve this through recruitment, development and retention of qualified talent with diverse experiences, backgrounds and perspectives through traditional channels, initiatives and partnerships, including those that serve colleges and universities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes recruitment/retention approach; not a risk statement."
+  },
+  {
+   "text": "Through our investments we bring the power of sport into our communities, with the goal of making play and sport more accessible.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General mission statement about community investment, not a risk."
+  },
+  {
+   "text": "Prior to his current role, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment of executive bio, no risk content."
+  },
+  {
+   "text": "Hill served as President \u2013 Consumer and Marketplace from 2018 until his retirement in 2020, in which role he led all commercial and marketing operations for the NIKE and Jordan brands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "During his employment with NIKE, he has served in various roles, including Apparel Sales Director in Europe, Retail Development Director in Europe, Vice President of Sales and Retail in EMEA, General Manager of U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "Retail, Vice President of U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive title listing, no risk content."
+  },
+  {
+   "text": "Sales, Retail and NIKE.com, Vice President of Global Retail, President of Geographies and Sales and Vice President and General Manager of North America.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "Friend leads the Company's strategy, finance and business services organizations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive role description, no risk content."
+  },
+  {
+   "text": "She leads the Company\u2019s global Human Resources function and its People vision and strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive role description, no risk content."
+  },
+  {
+   "text": "Prior to joining NIKE as Vice President, HR Business Partner for North America, Ms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive bio fragment, no risk content."
+  },
+  {
+   "text": "Heinle held Human Resources leadership positions at Danaher Corporation, Tektronix, Inc. and InFocus Corporation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "Leinwand leads the strategic vision for the Company's Legal, Social and Community Impact, Government and Public Affairs and Resilience teams.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive role description, no risk content."
+  },
+  {
+   "text": "Leinwand previously served as Vice President, Deputy General Counsel, Enterprise which included oversight of the Company's Global Litigation, Employment Law/Employee Relations, Brand Protection, Supply Chain and Corporate Governance functions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "Leinwand was a shareholder at the law firm of Littler Mendelson.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "Phil McCartney , Executive Vice President, Chief Innovation, Design & Product Officer \u2014 Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive title introduction, no risk content."
+  },
+  {
+   "text": "McCartney, 50, joined NIKE in 1998 and has served as Executive Vice President, Chief Innovation, Design & Product Officer of NIKE, Inc. since May 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive appointment detail, no risk content."
+  },
+  {
+   "text": "McCartney is responsible for the creation of innovative product and oversees how NIKE, Jordan and Converse innovate, design and create products for athletes around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive job description, no risk content."
+  },
+  {
+   "text": "McCartney was Vice President and General Manager of Global Footwear, a position held since 2016.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "He also previously served in various roles, including Vice President of Sport, Vice President of Running, Vice President of Football Footwear and started at NIKE as a brand ambassador and product expert, known as an EKIN.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "McCartney was a professional athlete.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive bio fact, no risk content."
+  },
+  {
+   "text": "Amy Montagne , President, Nike \u2014 Ms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive title introduction, no risk content."
+  },
+  {
+   "text": "M ontagne, 53, joined NIKE in 2005 and has served as President, Nike of NIKE, Inc. since May 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive appointment detail, no risk content."
+  },
+  {
+   "text": "Montagne is responsible for serving consumers across all sports and driving future growth for the NIKE Brand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive job description, no risk content."
+  },
+  {
+   "text": "Montagne served in various Vice President and General Manager roles at NIKE, including APLA, Global Men\u2019s, Global Categories, Global Women\u2019s and Global Merchandising, as well as in other leadership positions in North America, Running, Women\u2019s Training, and Sportswear.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "Montagne worked in allocation, planning and merchandising at Gap Inc., Mervyn\u2019s and Walmart Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive career history, no risk content."
+  },
+  {
+   "text": "Williams, 56, joined NIKE in 2019 and has served as Executive Vice President, Chief Commercial Officer of NIKE, Inc. since June 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive appointment detail, no risk content."
+  },
+  {
+   "text": "Globally, the expectations of regulators and other key stakeholders on corporate responsibility and sustainability-related topics continue to evolve and diverge, and our ability to meet these requirements and expectations could negatively impact our operating results and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory/stakeholder expectation risk with mention of divergence globally affecting operating results, building on existing sustainability risk disclosures."
+  },
+  {
+   "text": "Corporate responsibility and sustainability-related topics, including climate change and diversity, as well as companies\u2019 actions and initiatives on such issues, have received significant attention from a wide range of stakeholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about stakeholder attention to sustainability topics, no new specific risk."
+  },
+  {
+   "text": "Our ability to meet the expectations and requirements of key stakeholders, particularly in light of rapid changes in regulations, interpretations of existing regulations or consumer preferences, could affect our business, operating results and financial condition, as well as our policies and procedures relating to corporate responsibility and sustainability-related matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how regulatory and consumer preference shifts could affect financial condition, expanding existing risk language."
+  },
+  {
+   "text": "Compliance with such laws, regulations or policies, including any that may be adopted in the future, could increase the costs of operating our businesses, reduce the demand for our products and impact the prices we charge our customers, any or all of which could adversely affect our results of operations. in addition, various countries and regions have adopted or proposed laws, regulations and policies that diverge from, or potentially conflict with, those in other jurisdictions, which could increase the complexity of, and potential cost related to complying with, such regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity about diverging international laws increasing compliance costs and complexity, expanding existing regulatory risk."
+  },
+  {
+   "text": "Failure to comply with any legislation, regulation or policy, including as a result of making good faith interpretations that may differ from those taken by authorities in relevant jurisdictions, could potentially result in legal, reputational and operational risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about legal/reputational/operational risk from differing interpretations, expanding existing compliance risk."
+  },
+  {
+   "text": "Moreover, our consumers, customers, employees and other stakeholders on products have diverse expectations, demands and perspectives on sustainability matters, which are subject to continued evolution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about diverse stakeholder expectations, no new specific risk."
+  },
+  {
+   "text": "In order to meet their expectations, we may need to incur increased costs, including to conduct additional due diligence or make additional investments in facilities and equipment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific cost implications (due diligence, facilities investment) to existing stakeholder expectation risk."
+  },
+  {
+   "text": "We may not be able to meet the diverse expectations and demands of all of our stakeholders, which could harm our reputation, reduce customer demand for our products and services, and subject us to legal, reputational and operational risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on potential reputational and legal harm from failing stakeholder expectations, building on existing risk theme."
+  },
+  {
+   "text": "Although we have announced corporate responsibility and sustainability-related goals and targets, there can be no assurance that our stakeholders will agree with our goals, targets or strategies, or be satisfied with our efforts to implement them.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about lack of assurance regarding stakeholder satisfaction, typical cautionary language."
+  },
+  {
+   "text": "Our policies and practices have been, and may further be, affected by legal and regulatory scrutiny of, as well as changes in regulations (or changes in the interpretation of existing regulations) relating to, policies related to inclusion and belonging, employee engagement and climate 2025 FORM 10-K 17 Table of Contents change, which may further impact our ability to attract, hire and retain employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mention of legal/regulatory scrutiny on inclusion, belonging, and climate change policies affecting talent retention, expanding existing risk factor."
+  },
+  {
+   "text": "While we have maintained our Investment Grade rating, in July 2025, our rating was downgraded by Standard & Poor's.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses an actual credit rating downgrade by S&P, a new concrete event not previously disclosed."
+  },
+  {
+   "text": "Any negative change to our credit rating will increase borrowing costs for our existing facilities and may increase our borrowing costs for future long-term debt or short-term credit facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the financial consequence (higher borrowing costs) of the new downgrade, expanding the existing credit rating risk factor."
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "ticker": "INTC",
+ "sector": "Information Technology",
+ "filing_date": "2017-02-17",
+ "accession": "0000050863-17-000012",
+ "prior_accession": "0000050863-16-000105",
+ "model": "claude-sonnet-5",
+ "n_added": 16,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Our platform products are used across different market segments, and demand for our platforms may vary within or among our client computing, data center, Internet of Things, and other market segments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing risk of demand variability across market segments, adding detail rather than a wholly new risk."
+  },
+  {
+   "text": "It is difficult to anticipate the impact of these changes, as demand may increase in one or more market segments while decreasing in others.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty anticipating demand shifts, adds no new substantive content beyond restating uncertainty."
+  },
+  {
+   "text": "Additionally, a number of business combinations, including mergers, asset acquisitions and strategic partnerships, in the semiconductor industry have occurred over the last several years, and more could occur in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on industry M&A trend, setting up the consolidation risk discussed next; mostly contextual framing."
+  },
+  {
+   "text": "Consolidation in the industry could lead to fewer customers, partners or suppliers, any of which could negatively affect our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that industry consolidation could reduce the number of customers, partners, or suppliers, harming financial results."
+  },
+  {
+   "text": "We are vulnerable to product and manufacturing-related risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic header-style statement with no specific detail, functions as a section lead-in."
+  },
+  {
+   "text": "17 Table of Contents We face supply chain risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic header statement introducing a topic without specific new risk detail."
+  },
+  {
+   "text": "Our manufacturing operations and ability to meet product demand may also be impacted by IP or other litigation between our suppliers, where an injunction against Intel or a supplier could interrupt the availability of goods or services supplied to Intel by others.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk scenario: supplier IP litigation leading to injunctions that could interrupt supply to Intel."
+  },
+  {
+   "text": "We could face risks if products that we design, manufacture or sell, or that include our technology, cause personal injury or property damage, even where the cause is unrelated to product defects or errata.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing product liability risk to cover injury/damage even when unrelated to product defects."
+  },
+  {
+   "text": "These risks may increase as our products are introduced into new devices, markets, technologies, or applications through the Internet of Things, including wearables, drones and transportation, and industrial and consumer uses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing product risk exposure to new IoT applications like wearables and drones, an expansion rather than a wholly new risk."
+  },
+  {
+   "text": "In addition, although we maintain liability insurance, our coverage has certain exclusions and/or may not adequately cover liabilities incurred.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about insurance coverage exclusions, expanding on existing insurance-related risk disclosure."
+  },
+  {
+   "text": "Our insurance providers may be unable or unwilling to pay a claim, and losses not covered by insurance could be large, which could harm our financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands insurance risk by addressing insurer inability/unwillingness to pay claims, building on prior insurance risk statement."
+  },
+  {
+   "text": "Also key to our employee hiring and retention is our ability to build and maintain an inclusive business culture and be viewed as an employer of choice.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing talent/retention risk by tying it to corporate culture and employer branding, not a wholly new risk area."
+  },
+  {
+   "text": "We depend on many distributors to help us create end customer demand, provide technical support and other value-added services to customers, fill customer orders, and stock our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new dependency risk on distributors for demand creation, support, and order fulfillment."
+  },
+  {
+   "text": "Our ability to add or replace distributors for some of our products may be limited.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced distributor dependency risk by detailing limitations in replacing distributors."
+  },
+  {
+   "text": "In addition, our distributors' expertise in the determination and stocking of acceptable inventory levels for some of our products may not be easily transferable to a new distributor; as a result, end customers may be hesitant to accept the addition or replacement of a distributor.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on distributor-related risk by describing transferability issues, extending the prior point."
+  },
+  {
+   "text": "In addition, if our restructurings are perceived negatively, our corporate reputation and ability to attract employees could suffer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new reputational risk tied to negative perception of restructuring efforts affecting talent attraction."
+  }
+ ]
+}

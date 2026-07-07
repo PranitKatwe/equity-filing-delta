@@ -1,0 +1,58 @@
+{
+ "ticker": "JBL",
+ "sector": "Information Technology",
+ "filing_date": "2025-10-17",
+ "accession": "0001628280-25-045293",
+ "prior_accession": "0001628280-24-043960",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "There are significant risks involved in our efforts to keep pace with technological developments and no assurance can be provided that the usage of such technology will enhance our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about technology risk with no specific facts or new risk introduced."
+  },
+  {
+   "text": "Beginning in February 2025, the U.S. implemented tariffs on a variety of countries and commodities, including, among others, tariffs on aluminum and steel derivative products, imports of certain Canadian and Mexican goods, and imports of Chinese goods, universal tariffs on imports from most countries, and reciprocal tariffs on select countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tariff actions (aluminum/steel, Canada/Mexico, China, universal and reciprocal tariffs) that were not previously disclosed, representing a concrete new external risk factor."
+  },
+  {
+   "text": "In response, certain countries have imposed, or are considering, retaliatory tariffs on U.S. exports.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced tariff risk by adding the related concept of retaliatory tariffs from other countries, expanding the same risk narrative."
+  },
+  {
+   "text": "The global tariff landscape continues to shift rapidly, with changes impacting businesses and markets around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the tariff landscape shifting rapidly without adding specific new risk detail."
+  },
+  {
+   "text": "These increased tariffs have impacted and may continue to impact end, customer demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific impact detail (effect on customer demand) to the tariff risk already introduced."
+  },
+  {
+   "text": "If we are unable to fully pass on these costs, our operating results and cash flows could be adversely impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the financial consequences of the tariff risk (inability to pass on costs affecting operating results and cash flow)."
+  },
+  {
+   "text": "The increased use of artificial intelligence (\u201cAI\u201d) technologies in our services and operations may exacerbate these risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI technology usage as a specific new factor that may exacerbate existing risks, a concrete new consideration not previously mentioned."
+  },
+  {
+   "text": "In addition, if any of our contractors, consultants, vendors or service providers use any third-party AI-powered software or other tools in connection with our business or the services they provide to us, it may lead to the inadvertent disclosure of our confidential information through its incorporation into publicly available training sets, which may impact our ability to realize the benefit of, or adequately maintain or protect, our confidential information, harming our competitive position and business.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a specific new risk regarding third-party AI tools used by contractors/vendors potentially leading to disclosure of confidential information, a concrete and previously undisclosed risk."
+  }
+ ]
+}

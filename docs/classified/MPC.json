@@ -1,0 +1,218 @@
+{
+ "ticker": "MPC",
+ "sector": "Energy",
+ "filing_date": "2026-02-26",
+ "accession": "0001510295-26-000009",
+ "prior_accession": "0001510295-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 22
+ },
+ "items": [
+  {
+   "text": "As the emission reduction goals of the program increase, the compliance costs for California refineries may significantly disadvantage in-state refineries as compared to out-of-state refineries depending on multiple factors including the number of allowances granted to in-state refineries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive/cost risk for California refineries relative to out-of-state refineries tied to emission allowance allocation."
+  },
+  {
+   "text": "In 2025, the EPA extended the compliance deadlines for several provisions in the rule.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a regulatory timing detail (extended compliance deadlines) to an existing rule-related risk."
+  },
+  {
+   "text": "The final rule is under appeal, and on November 24, 2025, the EPA filed a motion indicating the rule had been issued in error and asked the court to vacate the rule.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides an update on litigation status of an existing rule already discussed as a risk."
+  },
+  {
+   "text": "To comply with Rule 1109.1, the Los Angeles Refinery has established a facility mass emission cap, which is being phased in through 2032.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific compliance mechanism detail (mass emission cap) to an existing regulatory compliance risk."
+  },
+  {
+   "text": "To date, the refinery has completed Phase 1 and Phase 2, which has resulted in the refinery achieving over 80 percent of the required NOx emissions reductions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides progress detail on an already-known compliance obligation."
+  },
+  {
+   "text": "The remaining 20 percent of NOx reductions required under Phase 3 must be completed by 2032.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific deadline detail to an existing compliance risk."
+  },
+  {
+   "text": "In December 2025, NHTSA proposed to amend the fuel economy standards for light-duty vehicles for model years (\u201cMYs\") 2022\u20132026 and MYs 2027\u20132031.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory proposal affecting fuel economy standards not previously mentioned."
+  },
+  {
+   "text": "In its proposal, NHTSA stated that it could not consider battery-powered electric vehicles (\u201cEVs\u201d) when setting the revised standards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about NHTSA's stance on EVs within the newly introduced proposal context."
+  },
+  {
+   "text": "NHTSA predicts that the revised standards equate to an industry fleetwide average of roughly 34.5 miles per gallon (\u201cmpg\u201d) for MY 2031.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides quantitative detail supporting the new NHTSA proposal risk."
+  },
+  {
+   "text": "In 2009, the EPA determined the GHG emissions from motor vehicles contributed to the greenhouse gas pollution that threatens public health and welfare (\u201cEndangerment Finding\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical background fact about a 2009 finding, not a new risk itself."
+  },
+  {
+   "text": "In February 2026, the EPA rescinded the Endangerment Finding and revoked all existing GHG emission standards for vehicles.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a major new regulatory action (rescission of Endangerment Finding and GHG standards) that materially changes the regulatory landscape."
+  },
+  {
+   "text": "The EPA will continue to regulate traditional air pollutants from motor vehicles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement of continued regulation, not a new risk."
+  },
+  {
+   "text": "The EPA\u2019s rescission of the Endangerment Finding and elimination of the GHG Emission standards has been challenged in court.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes litigation challenge to the newly described regulatory rescission, expanding on that risk."
+  },
+  {
+   "text": "Congress, however, disapproved the EPA\u2019s waiver through the Congressional Review Act process, which means the waiver is no longer valid and California cannot enforce its Advanced Clean Cars II program.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory development (Congressional disapproval of California waiver) materially affecting emissions program enforceability."
+  },
+  {
+   "text": "California has challenged Congress\u2019s disapproval in court.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides litigation status update related to the new waiver disapproval risk."
+  },
+  {
+   "text": "The EPA is also considering reallocation of small refinery exempted volumes to the non-exempt refineries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific EPA consideration regarding reallocation of exemption volumes affecting refiners."
+  },
+  {
+   "text": "For example, California has implemented a low carbon fuel standard program that requires a reduction in the carbon intensity of liquid fuel sold for use in the state over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General background description of an existing California program, not new specific risk detail."
+  },
+  {
+   "text": "Additionally, three non-governmental organizations have filed a lawsuit asking the court to order the EPA to issue a rule under TSCA that would mitigate, or potentially ban, the use of hydrofluoric acid at petroleum refineries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific lawsuit risk concerning potential ban of hydrofluoric acid use at refineries."
+  },
+  {
+   "text": "The Western States Petroleum Association has moved to intervene in the lawsuit.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail (intervention) to the newly described lawsuit risk."
+  },
+  {
+   "text": "MPC also provides job architecture with defined skills and competencies, along with tools and people processes to identify skill gaps and support career development to help our employees grow.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR program description, not a risk factor."
+  },
+  {
+   "text": "Our approach is grounded in our belief that a workplace where employees feel respected, supported and empowered to contribute their best leads to better performance and safer operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cultural/values statement, no specific risk."
+  },
+  {
+   "text": "By embedding inclusion and opportunity into the way we work, we strengthen collaboration, fuel innovation and position MPC for long-term success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic aspirational statement about inclusion, no risk content."
+  },
+  {
+   "text": "Our employee networks demonstrate this by offering voluntary opportunities for employees to connect with others.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about employee networks, no risk."
+  },
+  {
+   "text": "Any employee may choose to join any of the seven groups - ADAPT, ARISE, FAMILIA, HONOR, HOPE, PRIDE, and PROMISE.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual listing of employee resource groups, not a risk."
+  },
+  {
+   "text": "Stoll 57 Senior Vice President Value Chain Optimization James R.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Name/title listing, administrative not risk-related."
+  },
+  {
+   "text": "Officers not so designated are corporate officers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Corporate governance definition, not a risk."
+  },
+  {
+   "text": "She was elected Chairman of the Board effective January 2026, having served as a member of the Board since August 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical/governance detail, not a risk."
+  },
+  {
+   "text": "She also serves as secretary of the Cynthia Woods Mitchell Pavilion board of directors and is a member of its executive and finance committees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about board service elsewhere, not a risk."
+  },
+  {
+   "text": "Khoury was Vice President, Group CFO Biotechnology, Life Sciences for Danaher Corporation, a global science and technology innovator, since 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Khoury was CFO Cytiva, Danaher Life Sciences Vice President Finance and IT, from 2020 to 2021, and CFO GE Life Sciences, GE Healthcare from 2017 through its acquisition by Danaher in 2019.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Khoury served in financial leadership positions within GE Oil & Gas, including as CFO of GE\u2019s Oil & Gas Drilling & Surface division.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "From 1999 to 2010, she held domestic and international positions of increasing responsibility in financial planning and analysis and treasury for GE Corporate and GE Capital Treasury.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Before joining GE in 1999, Ms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Khoury spent five years with Cargill, Inc., where she began her finance career.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Henschen serves on the executive board of directors for the Louisiana Mid-Continent Oil and Gas Association (LMOGA).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Before joining MPC, he was Executive Vice President and Chief Operating Officer at VARO Energy, a diversified energy company in Switzerland, beginning in January 2022, having previously served as Chief Operating Officer since March 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Stoll spent nearly 30 years at Phillips 66, an integrated downstream energy provider, and its predecessor ConocoPhillips, serving in roles of increasing responsibility including as Vice President, Refining Operations and as Vice President, Business Transformation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Brzezinski was appointed Vice President and Controller, effective January 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, no risk content."
+  },
+  {
+   "text": "Government mandates or incentives, industry and technological developments and consumer sentiment with respect to liquid transportation fuels may alter fuels or energy preferences or make alternative fuel vehicles more desirable and result in greater market penetration of such vehicles or otherwise decrease demand for our liquid transportation fuels.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that shifting consumer sentiment and alternative fuel vehicle adoption could decrease demand for liquid transportation fuels."
+  },
+  {
+   "text": "For example, the federal government through NHTSA and the EPA promulgate rules that require vehicle manufacturers to increase the fuel efficiency standards of liquid transportation fuels vehicles.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting example detail (NHTSA/EPA fuel efficiency mandates) for the newly stated demand risk."
+  }
+ ]
+}

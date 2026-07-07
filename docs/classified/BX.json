@@ -1,0 +1,218 @@
+{
+ "ticker": "BX",
+ "sector": "Financials",
+ "filing_date": "2026-02-27",
+ "accession": "0001193125-26-082531",
+ "prior_accession": "0001193125-25-042469",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 4,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "(\u201cBXMT\u201d), a NYSE-listed mortgage REIT.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple descriptive identification of BXMT as a NYSE-listed mortgage REIT, no risk content."
+  },
+  {
+   "text": "BXMA, the world\u2019s largest discretionary allocator to hedge funds, is a leader in building multi-asset portfolios.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive business overview of BXMA, not a risk statement."
+  },
+  {
+   "text": "BXMA invests across asset classes in both public and private markets aiming to generate compelling risk-adjusted returns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about BXMA's investment approach, no new risk."
+  },
+  {
+   "text": "Total Portfolio Management manages large-scale total portfolios across asset classes in both public and private markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive business segment overview, not risk-related."
+  },
+  {
+   "text": "We have meaningfully increased our assets under management in such vehicles in recent years, and expect to continue to undertake initiatives to expand further.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes growth in AUM in certain vehicles and continued expansion plans, expanding existing scale-related risk exposure."
+  },
+  {
+   "text": "Following the tragic July 2025 shooting at 345 Park Avenue where our New York headquarters are located, we also began offering incident counseling services and other resources globally, including on-site counseling at our New York offices and 24/7 virtual support.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new fact about a workplace shooting at headquarters and resulting security/counseling measures, a new operational/safety risk."
+  },
+  {
+   "text": "BELL also expects to become FCA-authorized to conduct further activities regulated by the FCA in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Routine regulatory status update about FCA authorization, not substantive risk."
+  },
+  {
+   "text": "Geopolitical instability has been prevalent in recent years, and 2025 was a year of significant geopolitical events, including, among others, trade tensions resulting from U.S. tariff implementation and retaliatory tariffs by other countries and ongoing armed conflicts in the Middle East and Ukraine.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new geopolitical risks including 2025 tariffs and conflicts in Middle East/Ukraine."
+  },
+  {
+   "text": "Additionally, the economic outlook for 2026 remains uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about economic uncertainty, standard cautionary language."
+  },
+  {
+   "text": "Gradual decreases in interest rates during 2025, coupled with resilience in the U.S. economy, contributed to improved investor sentiment, stronger capital markets and increased transaction activity toward the end of 2025.",
+   "category": "reworded_same_meaning",
+   "rationale": "Descriptive market commentary restating existing macro risk context with updated figures/timing."
+  },
+  {
+   "text": "Uncertainty regarding the further trajectory of inflation and interest rates creates the potential for volatility in debt and equity markets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of existing interest rate/inflation uncertainty risk."
+  },
+  {
+   "text": "This has adversely impacted, and may further adversely impact, the performance of certain of our real estate funds.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies adverse impact on real estate funds, expanding existing macro risk discussion."
+  },
+  {
+   "text": "Accordingly, to the extent our funds\u2019 investments are concentrated in sectors or geographies that experience more challenging fundamentals, the impact on our funds may be exacerbated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing concentration risk discussion with specific implications."
+  },
+  {
+   "text": "Further, to the extent our funds\u2019 investments are concentrated in sectors or geographies that have historically experienced strong fundamentals, an adverse shift in such fundamentals may make it more difficult for such funds to replicate their historic performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands existing concentration risk discussion to a different scenario."
+  },
+  {
+   "text": "For example, our real estate and infrastructure funds have in recent years substantially increased their exposure to digital infrastructure investments, which has supported strong performance for such funds.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new exposure detail: increased concentration in digital infrastructure investments."
+  },
+  {
+   "text": "Such performance would be difficult to replicate if demand for digital infrastructure were substantially reduced, including as a result of economic slowdown or regulatory impediments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding potential decline in digital infrastructure demand affecting fund performance."
+  },
+  {
+   "text": "Following three consecutive rate cuts, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual lead-in about Fed rate cuts, contextual not risk-specific."
+  },
+  {
+   "text": "Federal Reserve held interest rates steady in January 2026 and noted, among other matters, that it would continue to assess and monitor incoming information in considering additional adjustments.",
+   "category": "reworded_same_meaning",
+   "rationale": "Updates factual context on Fed policy, restating existing interest rate risk narrative."
+  },
+  {
+   "text": "Conversely, in recent periods the performance of certain of our credit funds has benefited from elevated interest rates as a substantial majority of the portfolio is floating rate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on how elevated rates have benefited credit funds, adding detail to existing interest rate risk."
+  },
+  {
+   "text": "Accordingly, a decline in interest rates and/or widening of credit spreads would make it more difficult for such funds to replicate such strong performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details how declining rates could hurt credit fund performance, expanding existing risk."
+  },
+  {
+   "text": "This has also resulted in a substantial amount of capital available for deployment, including in such vehicles, and for which we must identify attractive deployment opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes increased capital availability requiring deployment, expanding existing capital deployment risk."
+  },
+  {
+   "text": "Presidential administration issued an executive order in January 2026 seeking to restrict institutional investor ownership of single-family homes, and certain states have considered, and others may seek to enact, legislation aimed at doing so.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory threat: executive order and state legislation restricting institutional ownership of single-family homes."
+  },
+  {
+   "text": "Market or currency volatility or perceived economic or geopolitical uncertainty or instability may contribute to decreased interest on the part of investors in allocating capital to certain asset classes or geographies in which our funds operate.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of existing risk about investor sentiment and volatility."
+  },
+  {
+   "text": "In addition, certain of our investment vehicles that are available to individual investors are subject to state registration requirements that impose limits on the proportion of such investors\u2019 net worth that can be invested in our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory constraint on individual investor allocations via state registration requirements."
+  },
+  {
+   "text": "In addition, such terms could restrict our ability to raise investment funds with investment objectives or strategies that compete with existing funds, which could adversely impact our ability to expand our assets under management.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk of fund terms restricting future fundraising ability."
+  },
+  {
+   "text": "The continued expansion of the number and types of investment products we offer in the individual investor channel may make it more difficult to fundraise from the institutional investor channel to the extent institutional investors have concerns regarding such expansion, including with respect to potential or perceived conflicts of interest.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of institutional investor concerns over individual investor channel expansion."
+  },
+  {
+   "text": "In addition, certain institutional investors may seek to condition a drawdown fund commitment on the imposition of limits on the ability of our individual investor channel-targeted funds to invest alongside such drawdown funds.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of institutional investors conditioning commitments on restricting individual investor co-investment."
+  },
+  {
+   "text": "Our initiatives to expand our individual investor base, including marketing, creating and maintaining the types of products and vehicles that individual investors may invest in, may not be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands general risk that individual investor expansion initiatives may fail."
+  },
+  {
+   "text": "Such initiatives include the hiring of additional personnel and the implementation of new operational, technological, compliance and other systems and processes, each of which require significant time, effort and resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on resource requirements for expansion initiatives, expanding existing risk."
+  },
+  {
+   "text": "Further, in light of the August 2025 Executive Order on Democratizing Access to Alternative Assets for 401(k) Investors, there may be significant future opportunity for the alternative asset management industry to increase the distribution of products to individual investors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory development (2025 Executive Order on 401(k) access) creating new opportunity/risk dynamics."
+  },
+  {
+   "text": "Accordingly, we are likely to face significant competition in addressing such opportunity, which will require us to spend substantial time, effort and resources, and may not ultimately be successful in increasing distribution of our products in this channel.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on competitive risk tied to the new regulatory opportunity described in prior sentence."
+  },
+  {
+   "text": "On July 4, 2025, President Trump signed into law the One Big Beautiful Bill Act (the \u201cOBBBA\u201d), which makes significant changes to the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new law (OBBBA) with material tax implications not previously disclosed."
+  },
+  {
+   "text": "Internal Revenue Code and other federal tax laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation fragment identifying scope of OBBBA changes, no new substantive content beyond prior sentence."
+  },
+  {
+   "text": "Among other changes, the OBBBA extends or reinstates many of the provisions enacted by the Tax Cuts and Jobs Act of 2017, including the tax rate brackets for individuals and capital expensing provisions, and significantly curtails many of the clean energy subsidies enacted by the Inflation Reduction Act of 2022.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific details on OBBBA provisions, expanding the newly introduced tax law risk."
+  },
+  {
+   "text": "How the OBBBA will be implemented will depend on future administrative guidance and court rulings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about future implementation uncertainty, standard cautionary language."
+  },
+  {
+   "text": "Congress may also pass additional tax reform legislation in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about possible future tax legislation."
+  },
+  {
+   "text": "However, on June 28, 2025, the Group of Seven (\u201cG7\u201d) countries announced a shared understanding for a \u201cside-by-side\u201d system under which U.S.-parented groups would be exempt from certain of the Pillar Two proposals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new international tax development (G7 Pillar Two side-by-side system) affecting tax risk exposure."
+  },
+  {
+   "text": "In addition, the risk of cyber and data security threats to us is exacerbated with the advancement of artificial intelligence, which malicious third parties are using to create new, sophisticated and more frequent attacks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factor: AI-enabled cyberattacks increasing threat sophistication."
+  },
+  {
+   "text": "Department of Justice issued a rule, effective in 2025, that prohibits or restricts certain transactions involving the transfer of, and access to, bulk sensitive personal data to foreign persons connected with certain designated countries of concern, including China.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory rule restricting bulk sensitive data transfers to foreign persons."
+  },
+  {
+   "text": "While we expect this development will increase compliance burdens and associated costs, this rule may also impact the way we conduct business, including the ability of employees in countries of concern to access certain information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on compliance and operational impact of the newly introduced DOJ rule."
+  }
+ ]
+}

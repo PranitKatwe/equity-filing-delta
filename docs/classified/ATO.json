@@ -1,0 +1,23 @@
+{
+ "ticker": "ATO",
+ "sector": "Utilities",
+ "filing_date": "2025-11-14",
+ "accession": "0000731802-25-000056",
+ "prior_accession": "0000731802-24-000030",
+ "model": "claude-sonnet-5",
+ "n_added": 1,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "The competition for talent has become increasingly intense.",
+   "category": "expanded_existing_risk",
+   "rationale": "This sentence intensifies a generic competition-for-talent risk by asserting it has become 'increasingly intense,' but it does not introduce new specific facts, mechanisms, or details\u2014just amplifies an existing common risk framing."
+  }
+ ]
+}

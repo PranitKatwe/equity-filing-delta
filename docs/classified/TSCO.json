@@ -1,0 +1,83 @@
+{
+ "ticker": "TSCO",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-19",
+ "accession": "0000916365-26-000014",
+ "prior_accession": "0000916365-25-000076",
+ "model": "claude-sonnet-5",
+ "n_added": 13,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "There is no guarantee that measures we take to address this, such as our store localization, direct sales, and Final Mile initiatives, will be successful or sufficient to address our customer\u2019s needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific initiatives (store localization, direct sales, Final Mile) as measures that may not succeed, expanding on existing risk about meeting customer needs rather than introducing a wholly new risk."
+  },
+  {
+   "text": "The implementation of certain of these requirements was paused in November 2025 and remains subject to litigation, with the result that the timing and outcomes of such court proceedings are currently unclear.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory/litigation development (implementation paused in Nov 2025, ongoing litigation) creating concrete uncertainty not previously disclosed."
+  },
+  {
+   "text": "In addition, in 2025, we determined not to adopt climate targets in line with the Science Based Targets initiative.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific company decision not to adopt Science Based Targets climate goals, a new concrete fact with potential reputational/ESG implications."
+  },
+  {
+   "text": "Furthermore, natural disasters or acts of terrorism, public health epidemics or pandemics, and geopolitical tensions or incidents such as war, civil unrest, terrorist attacks or other acts of violence in the United States or in other areas of the world could adversely affect consumer spending or our operations, which could have a negative effect on our results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about natural disasters, pandemics, and geopolitical events commonly found in risk factor boilerplate."
+  },
+  {
+   "text": "We have enhanced our cybersecurity processes and procedures in response to the general cybersecurity threat environment in recent years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague reassurance statement about enhancing cybersecurity processes without specific new risk detail."
+  },
+  {
+   "text": "Our increasing use of and investment in artificial intelligence and other emerging technologies could adversely affect our business, financial condition, and reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI and emerging technology investment as a new specific risk category that could adversely affect business, financial condition, and reputation."
+  },
+  {
+   "text": "We use internally developed and third-party artificial intelligence and machine learning technology systems to operate our retail business more efficiently and to enhance the experiences of our customers and team members.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive background statement about current use of AI/ML technology, not itself a risk statement."
+  },
+  {
+   "text": "Our integrated use of these technology systems is intended to support more personalized customer experiences and improve forecasting, sourcing, inventory planning, labor planning, and fulfillment for seasonal and weather-sensitive demand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further descriptive detail about how AI systems are used operationally, not a distinct risk."
+  },
+  {
+   "text": "We are investing, and expect to continue to invest, in expanding our artificial intelligence capabilities and to consider the adoption of other emerging technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes continued investment in AI, expanding on the newly introduced AI risk topic rather than introducing a separate risk."
+  },
+  {
+   "text": "There can be no assurance, however, that our development or use of these technologies will achieve their intended benefits, operate as expected, be cost-effective, or not result in unintended consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on uncertainty of AI benefits, extending the newly introduced AI risk rather than being a standalone new risk."
+  },
+  {
+   "text": "Further, the rapidly evolving legal and regulatory environment relating to artificial intelligence and privacy could impact our implementation of these and other emerging technologies and increase compliance costs and the risk of non-compliance.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk regarding evolving AI/privacy regulation increasing compliance costs and non-compliance risk."
+  },
+  {
+   "text": "Flaws, breaches, or malfunctions in these systems could lead to operational disruptions, data loss, erroneous decision-making, regulatory scrutiny, reputational harm, or legal liability that could adversely affect our business, reputation, and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific operational consequences (data loss, erroneous decisions, regulatory scrutiny) from AI system flaws, a concrete new risk."
+  },
+  {
+   "text": "In addition, we face risk of competitive disadvantage if our competitors more effectively use emerging technologies to better serve customers, drive internal efficiencies, and create new or enhanced products or services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces competitive disadvantage risk tied specifically to competitors' use of emerging technologies, a new distinct risk factor."
+  }
+ ]
+}

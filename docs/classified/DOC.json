@@ -1,0 +1,218 @@
+{
+ "ticker": "DOC",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-03",
+ "accession": "0001628280-26-005044",
+ "prior_accession": "0001628280-25-003748",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 32,
+ "counts": {
+  "new_substantive_risk": 21,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Risks Related to Our Business and Operations Changes to regulatory, funding, staffing, trade, and other policies and actions by the U.S. political administration could adversely affect our business operations or the operations of our tenants or operators.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk categories (regulatory, funding, staffing, trade policy changes) affecting business and tenant operations."
+  },
+  {
+   "text": "Recent and ongoing changes in U.S. federal government policy have introduced uncertainty to the capital markets, as well as within our industry and the industries of our tenants and operators.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about policy uncertainty without specific mechanisms or impacts."
+  },
+  {
+   "text": "These policy changes include, but are not limited to, workforce reductions at federal agencies; executive actions impacting National Institutes of Health (\u201cNIH\u201d) grant funding; changes to visa policies affecting the scientific workforce; efforts to cap NIH indirect cost reimbursements; tariffs and potential tariff actions; and changes to drug pricing policies.",
+   "category": "new_substantive_risk",
+   "rationale": "Lists concrete specific policy changes (NIH funding, visa policy, tariffs, drug pricing) that constitute new identifiable risks."
+  },
+  {
+   "text": "For example, recent policy shifts and administration priorities affecting research funding, drug pricing, drug review and approval processes, and tariffs, among other policies, have created uncertainty in the life science ecosystem in which our lab tenants operate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and elaborates on the policy risks already identified in the prior sentence, adding life science ecosystem context."
+  },
+  {
+   "text": "This uncertainty has adversely impacted, and in the future may adversely impact, the ability of life science companies obtain investor funding, which could lead to setbacks in research and development timelines, advancement of drug pipelines, or achievement of commercial viability.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific tangible business impact\u2014investor funding setbacks and R&D delays\u2014not previously mentioned."
+  },
+  {
+   "text": "In addition, competitive international biotech sectors, including in China, supported by favorable regulatory conditions and costs there, may also divert research and development activity and investment away from the U.S., reducing long-term demand for domestic life science real estate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive risk from international biotech sectors like China diverting investment."
+  },
+  {
+   "text": "These policy shifts and other dynamics may affect our lab tenants\u2019 ability to make rent payments to us or expand within our properties, which, as a result, could negatively impact our operating and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties the previously described policy risks to a concrete financial consequence (rent payments), building on prior sentences."
+  },
+  {
+   "text": "In general, facilities in non-expansion states face a significantly higher financial risk due to Medicare / Medicaid and Affordable Care Act provisions in the One Big Beautiful Bill Act (\u201cOBBA\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk tied to Medicaid expansion status and new legislation (OBBA)."
+  },
+  {
+   "text": "An expansion state is a U.S. state that chose to expand its Medicaid program under the Affordable Care Act, thereby extending coverage to nearly all low-income adults up to 138% of the federal poverty level and becoming eligible for enhanced federal funding.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely definitional statement explaining what an expansion state is, not itself a risk."
+  },
+  {
+   "text": "In contrast, a non-expansion state is a state that did not expand its Medicaid program under the Affordable Care Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional statement explaining non-expansion state terminology."
+  },
+  {
+   "text": "As Affordable Care Act subsidies have expired, non-expansion states with higher numbers of individuals not eligible for Medicaid who can no longer rely on purchasing coverage from the Affordable Care Act marketplace will be disproportionately affected unless the subsidies are extended.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new mechanism\u2014expiration of ACA subsidies\u2014creating financial risk for non-expansion states."
+  },
+  {
+   "text": "Accordingly, facilities in non-expansion states could face challenges in meeting operational costs if patients/residents lose the ability to purchase Affordable Care Act coverage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates on the risk of non-expansion states facing financial challenges already introduced."
+  },
+  {
+   "text": "Because our outpatient medical segment depends on stable, long-term occupancy by healthcare providers, such adverse changes in U.S. healthcare policy could adversely affect our operating and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties the healthcare policy risk to the outpatient medical segment, expanding on the prior points."
+  },
+  {
+   "text": "Tariffs and potential tariff actions have also led to market volatility, higher construction costs, and supply chain disruptions, which could delay or increase the cost of our development projects and impair our access to capital.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific tangible impacts of tariffs (market volatility, construction costs, supply chain disruptions) not previously described."
+  },
+  {
+   "text": "In addition, several of our lab tenants build upon the earlier successful research conducted at research institutions and funded by NIH grants; sustained funding cuts to NIH grants could have long-lasting impacts to the industry and impede our tenants\u2019 ability to build on such earlier successful research.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding NIH grant funding cuts impacting tenants' research capabilities."
+  },
+  {
+   "text": "Our tenants could also be adversely affected by tariffs, which could cause the import or export of materials, components, or specialized equipment they use to become prohibitively expense to use or sell.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tariff risk already introduced, applying it specifically to tenants' materials and equipment."
+  },
+  {
+   "text": "Additionally, at various times, legislation potentially limiting REIT ownership and investment in the healthcare property sector has been introduced or is under discussion at the federal, state, and/or local level, including laws that would restrict REIT investment in the sector, reduce tax benefits for REITs that own healthcare properties, or require burdensome approvals for, or significantly delay the ability of, healthcare entities to transact with REITs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new legislative risk regarding REIT ownership restrictions in healthcare property sector."
+  },
+  {
+   "text": "We use generative artificial intelligence and/or machine learning (collectively, \u201cAI\u201d) tools in our investment and capital allocation decisions and operations, including commercially available AI applications or AI features available through our existing software or technology platforms.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new use of AI tools in operations, introducing a new risk area not previously disclosed."
+  },
+  {
+   "text": "New laws and regulations governing AI use are being adopted, and existing laws and regulations may be interpreted in ways that would affect our business operations and the way in which we use AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory risk from new AI laws that could affect business operations."
+  },
+  {
+   "text": "While we have adopted a governance framework concerning use of AI tools and provide training to our employees to guard against the aforementioned risks, there can be no assurance that we will realize the anticipated benefits or mitigate such risks of using AI tools.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the AI risk discussion by noting governance framework may not fully mitigate risks already introduced."
+  },
+  {
+   "text": "The adoption of AI tools by our tenants may also lead to a reconfiguration in space requirements by our tenants or decreased in demand for space over time.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of tenants reconfiguring or reducing space demand due to AI adoption."
+  },
+  {
+   "text": "These increased costs have caused, and in the future may cause, unfavorable financing terms and may hinder our ability to execute on accretive acquisitions or otherwise adversely affect our business, results of operations, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects previously described increased costs (tariffs) to broader financing and acquisition risk, expanding on prior risk."
+  },
+  {
+   "text": "Risks Related to the Pending Janus Living Offering and Our Relationship with Janus Living if the Janus Living Offering is Completed The pending Janus Living Offering may not be completed on the currently contemplated timeline or terms, or at all, and may not achieve the intended benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category tied to the pending Janus Living Offering."
+  },
+  {
+   "text": "In December 2025, we confidentially submitted a draft registration statement on Form S-11 to the SEC relating to the proposed Janus Living Offering.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely factual disclosure of filing a draft registration statement, not itself a risk statement."
+  },
+  {
+   "text": "Although we expect to complete the Janus Living Offering in the first half of 2026, unforeseen developments, including related to market conditions, receipt of regulatory approvals, completion of related financings, completion of the SEC\u2019s review, and other customary closing conditions, could delay or prevent the Janus Living Offering or cause it to occur on terms or conditions that are less favorable or different than anticipated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the risk that the offering may not complete as planned, expanding on the previously introduced risk."
+  },
+  {
+   "text": "The conditions required to complete the Janus Living Offering may not be satisfied on the timeline anticipated or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and reinforces the risk of unmet conditions already stated in prior sentence."
+  },
+  {
+   "text": "In addition, expenses incurred to accomplish the Janus Living Offering could be significantly higher than we currently anticipate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financial risk of higher-than-expected offering expenses."
+  },
+  {
+   "text": "In addition, the Janus Living Offering may demand significant time and attention from our senior management and employees and may divert their attention from operating and growing our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of management distraction due to the offering process."
+  },
+  {
+   "text": "We will have significant economic exposure to shifts in the price of Janus Living common stock and our ability to control the assets and activities of Janus Living may be limited.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial exposure risk tied to Janus Living stock price fluctuations."
+  },
+  {
+   "text": "Following the Janus Living Offering, we intend to externally manage and retain a substantial majority interest in Janus Living, with new public shareholders owning the remaining interest.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of intended post-offering structure, not itself a risk statement."
+  },
+  {
+   "text": "We will also be entitled to nominate certain directors for election to Janus Living\u2019s board of directors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about board nomination rights, procedural in nature."
+  },
+  {
+   "text": "As the majority owner of Janus Living common stock, we will have a significant economic exposure to shifts in the price of Janus Living common stock, which may not correspond to the financial performance of Janus Living.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates the economic exposure risk already introduced, adding detail about performance correlation."
+  },
+  {
+   "text": "As a publicly traded security, the market price and liquidity of the market for shares of Janus Living common stock may be significantly affected by numerous factors, including market volatility, some of which are beyond our control and the control of Janus Living and may not be directly related Janus Living operating performance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding market price and liquidity volatility of Janus Living stock."
+  },
+  {
+   "text": "In the future, we may be unable to dispose of shares of Janus Living common stock on favorable terms, which may adversely affect the value we realize from our investment in Janus Living.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about inability to dispose of shares favorably, affecting investment value."
+  },
+  {
+   "text": "In addition, if we were to cease to serve as external manager to Janus Living, our ability to control the assets and activities of Janus Living may be limited.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of losing control over Janus Living if external management ceases."
+  },
+  {
+   "text": "In such case, we may not be able to effectively mitigate our exposure to Janus Living\u2019s financial condition and performance, which could adversely impact our business, results of operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the risk of losing control by describing the resulting inability to mitigate exposure."
+  },
+  {
+   "text": "33 Table of Contents There are conflicts of interest in our relationship with Janus Living and our officers and/or directors who are also officers and/or directors of Janus Living.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new conflicts-of-interest risk category related to shared officers/directors with Janus Living."
+  },
+  {
+   "text": "We may be subject to conflicts of interest arising out of our relationship with Janus Living and our officers and/or directors who are also officers and/or directors of Janus Living.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the conflicts of interest risk already introduced in the previous sentence with nearly identical wording."
+  },
+  {
+   "text": "Transactions between us and Janus Living are subject to approval by the independent members of the board of directors of Janus Living.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a procedural safeguard (board approval) rather than introducing new risk content."
+  },
+  {
+   "text": "Conflicts may include, without limitation conflicts arising from: the entry into transactions between us and Janus Living; enforcement of agreements between us and Janus Living; termination of the management agreement with Janus Living; and the amount of time that our officers and employees spend on our affairs versus Janus Living\u2019s affairs.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a detailed, specific enumeration of conflict types, adding concrete substance to the conflicts-of-interest risk."
+  }
+ ]
+}

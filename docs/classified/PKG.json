@@ -1,0 +1,108 @@
+{
+ "ticker": "PKG",
+ "sector": "Materials",
+ "filing_date": "2021-02-24",
+ "accession": "0001564590-21-008051",
+ "prior_accession": "0001564590-20-006774",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Risks Related to the COVID-19 Pandemic The future effect of the COVID-19 pandemic on our operations is uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic header/intro statement that the future effect of COVID-19 is uncertain, with no specific detail."
+  },
+  {
+   "text": "On March 11, 2020, the World Health Organization declared the COVID-19 outbreak a pandemic.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a widely known factual event (WHO pandemic declaration) with no company-specific risk content."
+  },
+  {
+   "text": "Since that time, federal, state and local authorities have taken measures to control the outbreak of COVID-19 in the United States, where we primarily operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General factual background about government measures, not a specific risk to the company."
+  },
+  {
+   "text": "These measures have included travel bans and restrictions, quarantines and shelter in place orders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of public measures like travel bans, not company-specific."
+  },
+  {
+   "text": "Due to the importance of our products to the continued distribution of food, beverage and other necessities, our operating facilities have been permitted to remain in operation and we have not experienced material disruptions in operations to date.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reassuring statement that operations have not been materially disrupted; not a risk disclosure."
+  },
+  {
+   "text": "Despite the spread of the virus in the United States, we have maintained sufficient workforce availability as well as adequate supply of raw materials and necessary services to continue operating without material disruption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reassuring statement about maintained workforce and supply, not a new risk."
+  },
+  {
+   "text": "However, the impact of the further spread of the virus and the measures to control the spread of the virus are uncertain and may materially restrict or hinder our ability to operate our facilities due to measures we may need to take to assure the health and safety of our employees, lack of available workforce, disruptions in the supply of key materials and services or restrictions due to governmental actions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific potential risks: workforce shortages, supply disruptions, and governmental restrictions hindering operations."
+  },
+  {
+   "text": "We cannot assure you as to the timing and effectiveness of vaccination efforts on the control of spread of the virus.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces uncertainty around vaccination effectiveness and timing as a new risk factor."
+  },
+  {
+   "text": "If our operations are hindered or restricted, we may not be able to serve our customers, which could have a material adverse effect on our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequence of hindered operations (inability to serve customers) building on the prior sentence's risk."
+  },
+  {
+   "text": "The pandemic resulting from the COVID-19 outbreak, and measures to control the outbreak, are having a negative impact on domestic economic activity, which could adversely affect demand for our products and our business, financial condition and results of operations .",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk: negative impact on economic activity affecting product demand and financial results."
+  },
+  {
+   "text": "Many businesses in the United States have been required to cease or curtail operations and workers have been laid off or furloughed, and have slowed down economic activity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General economic context about business closures and layoffs nationally, not specific to the company."
+  },
+  {
+   "text": "The severity and duration of the impact on the economy will depend on the future spread of the outbreak, future measures by governmental authorities to control the outbreak, the timing and effectiveness of vaccination efforts, the timing and manner in which normal social and business activities are permitted to resume and the effectiveness of governmental efforts to mitigate the economic effect of the outbreak, all of which are highly uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of uncertain factors affecting the broader economy, without specific new company risk."
+  },
+  {
+   "text": "We have experienced significantly lower demand for our uncoated freesheet paper products, due to economic conditions, office closings and school shutdowns associated with the COVID-19 pandemic, which harmed the performance of our Paper segment.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material impact: lower demand for uncoated freesheet paper harming the Paper segment."
+  },
+  {
+   "text": "Our Jackson, Alabama mill was idled for the majority of the second and third quarters of 2020 and began to produce containerboard for the Packaging segment on a trial basis during the fourth quarter.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific operational detail about the Jackson, Alabama mill being idled and repurposed, a concrete new risk/event."
+  },
+  {
+   "text": "While we have not experienced lower demand for our containerboard and corrugated packaging products to date, the effect of the pandemic on economic conditions affecting our business and future demand is uncertain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces uncertainty about future demand for containerboard and packaging products due to pandemic effects."
+  },
+  {
+   "text": "I t is uncertain whether, to what extent and for what period of time current favorable demand conditions in the Packaging segment will continue.",
+   "category": "new_substantive_risk",
+   "rationale": "Highlights uncertainty about the sustainability of favorable demand conditions in the Packaging segment, a specific business risk."
+  },
+  {
+   "text": "With the uncertainty of economic conditions, we are unable to determine the impact on our future operating and financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about inability to predict future performance due to uncertainty, without new specifics."
+  },
+  {
+   "text": "A prolonged period of lower earnings and reduced cash flow could adversely affect our ability to fund operations, capital requirements, and common stock dividend payments and access capital markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific financial risks: reduced cash flow affecting operations, capital requirements, dividends, and capital market access."
+  }
+ ]
+}

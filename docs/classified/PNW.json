@@ -1,0 +1,93 @@
+{
+ "ticker": "PNW",
+ "sector": "Utilities",
+ "filing_date": "2026-02-25",
+ "accession": "0000764622-26-000011",
+ "prior_accession": "0000764622-25-000023",
+ "model": "claude-sonnet-5",
+ "n_added": 15,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "See \u201cBusiness of Arizona Public Service Company \u2014 Environmental Matters\u201d in Part I, Item 1 as well as Note 14 for examples of environmental laws and regulations and matters that could affect APS\u2019s financial condition, results of operations and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to other sections of the filing, no new risk content."
+  },
+  {
+   "text": "Recent industry trends and projections of load growth reflect significant demand from data centers to support AI as well as onshoring of manufacturing, such as advanced semiconductor manufacturing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new market trend\u2014demand from data centers/AI and manufacturing\u2014as a driver of risk not previously disclosed."
+  },
+  {
+   "text": "These data centers and large manufacturers may locate their operations within service territories other than our own.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced data center demand risk by noting these customers may locate elsewhere."
+  },
+  {
+   "text": "If they do choose to locate within our service territory, we may not be able to provide sufficient electric service within the time period they require due to capital or other constraints.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the same new data center demand risk theme regarding capacity constraints."
+  },
+  {
+   "text": "APS may need to accelerate development plans of the related generation and transmission facilities to serve these potential customers, which may necessitate alternative financing structures, such as the novel subscription model we are pursuing in an effort to ensure growth pays for growth and reduce cross-subsidization of customer classes, as well as ACC approval.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the data center demand risk, adding specifics about financing structures and regulatory approval needs."
+  },
+  {
+   "text": "APS may not be able to secure facilities or regulatory approval to support these customers in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies the same data center/AI demand risk regarding regulatory and facility approval timing."
+  },
+  {
+   "text": "Additionally, the future demand from these customers may not be realized to the extent currently projected and significant uncertainties exist regarding the future energy demand associated with data centers and AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty framing to the same new data center/AI demand risk theme."
+  },
+  {
+   "text": "Operating, maintaining, and developing our generation and other assets requires significant capital expenditures and operations and maintenance costs that may be difficult to maintain at adequate levels while maintaining reliability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing capital expenditure and reliability risk with more specific cost maintenance concerns."
+  },
+  {
+   "text": "Macroeconomic and geopolitical factors may also impact our ability to procure the generation and other equipment we need to meet customer demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds macroeconomic/geopolitical procurement risk as an extension of existing capital expenditure risk."
+  },
+  {
+   "text": "In August 2025, APS announced an update to its clean energy goal from zero-carbon to carbon-neutral by 2050.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual update to a corporate goal without describing a new risk."
+  },
+  {
+   "text": "Due to stressed surface water and groundwater supplies, there is focus on the increased use of treated effluent to supplement statewide water supplies, which could increase competition for the treated effluent that some APS generating plants rely on.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding competition for treated effluent water supplies affecting generation plants."
+  },
+  {
+   "text": "In addition to the involvement of third parties and the associated security risks, we also face risks when integrating new IT systems, such as those associated with costs, operational efficiency, and security compliance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks tied to integrating new IT systems, including cost and security compliance issues."
+  },
+  {
+   "text": "Our IT systems introduce layers of execution complexity and resource risks across the entire organization.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about IT complexity that restates existing risk themes without adding specific new risk detail."
+  },
+  {
+   "text": "The Company is currently evaluating the impact of the recent U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory phrase leading into next sentence, no substantive content on its own."
+  },
+  {
+   "text": "Supreme Court\u2019s decision regarding the validity of certain tariffs previously imposed under the International Emergency Powers Act, including whether any or all of the tariffs will be eligible for a refund as well as the potential for replacement tariffs under separate statutory authorities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legal/regulatory risk tied to a Supreme Court decision on tariffs affecting the company."
+  }
+ ]
+}

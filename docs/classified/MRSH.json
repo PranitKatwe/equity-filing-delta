@@ -1,0 +1,143 @@
+{
+ "ticker": "MRSH",
+ "sector": "Financials",
+ "filing_date": "2026-02-09",
+ "accession": "0000062709-26-000022",
+ "prior_accession": "0000062709-25-000015",
+ "model": "claude-sonnet-5",
+ "n_added": 25,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Moreover, a successful cyberattack targeting our financial reporting systems or related services and infrastructure could disrupt our ability to accurately prepare, finalize, and disclose our financial results in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific consequence (disruption to financial reporting) to the existing cybersecurity risk discussion rather than introducing a wholly new risk category."
+  },
+  {
+   "text": "Attackers may develop AI agents to fully automate the attack cycle, which could discover new and unexploited applications and dynamically create ways to exploit these weaknesses faster than security tools can adapt to and detect these new attack methods.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new attack vector\u2014AI-driven automated attacks that can discover and exploit vulnerabilities faster than defenses can adapt."
+  },
+  {
+   "text": "Our increasing reliance on software-as-a-service (\"SaaS\") cloud solutions and other cloud-based vendors to support critical business operations also exposes us to risks associated with the availability, security, and resilience of these third-party platforms.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific dependency risk on SaaS and cloud vendors for critical operations."
+  },
+  {
+   "text": "These arrangements create dependencies on the vendors\u2019 ability to maintain continuous service and protect against outages, disruptions or cyber incidents and on the sufficiency of their security controls and incident response.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the vendor dependency risk just introduced, detailing specific failure modes like outages and incident response gaps."
+  },
+  {
+   "text": "In addition, managing and integrating multiple cloud environments with our internal systems increases the risk of configuration errors or vulnerabilities that could be exploited.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details a specific technical risk (configuration errors) stemming from the newly disclosed multi-cloud dependency."
+  },
+  {
+   "text": "Our reliance on third-party software components and open-source libraries as part of our software supply chain exposes us to significant cybersecurity risks, including malicious code insertion, vulnerabilities and compromised updates.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk category around software supply chain and open-source component vulnerabilities."
+  },
+  {
+   "text": "Incidents such as the Shai Hulud NPM Worm, which spread through widely used JavaScript packages by exploiting trust in open-source dependencies, illustrate how supply chain attacks can lead to unauthorized access, data breaches, or disruption of critical applications, sometimes evading traditional security controls.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete real-world example illustrating the supply chain risk just introduced, materially reinforcing it."
+  },
+  {
+   "text": "The complexity and scale of modern software supply chains make it difficult to fully vet and monitor all dependencies, increasing the likelihood that similar incidents could affect our systems and operations and result in business disruption, reputational damage and regulatory or legal consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences and difficulty of managing the software supply chain risk already introduced."
+  },
+  {
+   "text": "Data Privacy Framework and the U.S.- U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary reference to a legal framework name with no substantive risk content on its own."
+  },
+  {
+   "text": "Department of Justice Bulk Data Transfer Rule recently effected rules restricting the sending of certain data to \"countries of concern\" and requiring regular compliance monitoring around such transfers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory risk regarding restrictions on data transfers to certain countries and compliance monitoring requirements."
+  },
+  {
+   "text": "In some cases, competitors have used increasingly aggressive tactics to recruit talent across the industry, including orchestrated team lifts and the theft or misuse of confidential information.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new specific competitive risk involving aggressive talent poaching tactics and theft of confidential information."
+  },
+  {
+   "text": "We have pursued, and continue to pursue, litigation and other remedies in response to such conduct.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the company's response (litigation) to the talent-poaching risk just introduced, expanding on it factually."
+  },
+  {
+   "text": "However, we cannot guarantee that such efforts will effectively deter future conduct.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that remedies may not be effective, without adding new substantive risk detail."
+  },
+  {
+   "text": "We refer to these matters collectively as business responsibility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely definitional labeling of a term for later reference, not a risk statement."
+  },
+  {
+   "text": "We may not be able to fully realize the benefits of our Thrive program and Business Client Services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that the company may fail to realize benefits from a named strategic initiative."
+  },
+  {
+   "text": "In 2025, we launched a three-year program, Thrive, which focuses on our brand strategy, delivering greater value to clients, accelerating growth and improving efficiency (the \"Program\").",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive background information about the newly launched program, not itself a risk statement."
+  },
+  {
+   "text": "As part of the Program we also created a new unit, Business Client Services (\"BCS\") to accelerate innovation and centralize investments in operational excellence, data, AI and other analytics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive background about a newly created business unit, contextual rather than risk-specific."
+  },
+  {
+   "text": "As a part of these initiatives, we may optimize our global footprint, which involves inherent risks, including potential business disruptions or processing activities, loss of continuity or institutional knowledge, challenges in managing third-party providers and compliance with foreign regulatory requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific operational risks (business disruption, loss of institutional knowledge, third-party management challenges) tied to global footprint optimization."
+  },
+  {
+   "text": "The Program will generate savings from process and automation efficiencies and optimization of our global operating model.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about expected program savings, not itself framed as a risk."
+  },
+  {
+   "text": "However, actual total costs, savings and timing may differ from our estimates due to changes in the scope or assumptions underlying the Program and other operational improvements through BCS.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds cautionary detail that actual costs/savings may differ from estimates, expanding on the program risk already introduced."
+  },
+  {
+   "text": "We cannot guarantee that we will achieve the targeted savings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language that targeted savings may not be achieved, standard risk disclaimer."
+  },
+  {
+   "text": "If we do not realize the expected cost savings, we may be unable to reinvest in planned growth or strategic initiatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies a concrete business consequence (inability to reinvest in growth) if program savings are not realized, expanding the prior risk."
+  },
+  {
+   "text": "Moreover, unanticipated costs or unrealized savings in connection with the Program could adversely affect our consolidated financial statements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies financial statement impact from program cost overruns, expanding on the previously introduced program risk."
+  },
+  {
+   "text": "For example, the property and casualty insurance market has seen softer pricing recently, which may continue to impact profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific market condition risk\u2014softer pricing in the property and casualty insurance market affecting profitability."
+  },
+  {
+   "text": "MMA's wealth and retirement business operate under similar regulatory regimes as Mercer's Investments business and are also exposed to these risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends an already-discussed regulatory risk framework to additional business units (MMA's wealth and retirement business)."
+  }
+ ]
+}

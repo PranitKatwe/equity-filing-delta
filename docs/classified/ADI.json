@@ -1,0 +1,108 @@
+{
+ "ticker": "ADI",
+ "sector": "Information Technology",
+ "filing_date": "2025-11-25",
+ "accession": "0000006281-25-000153",
+ "prior_accession": "0000006281-24-000204",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "We continue to evaluate the impact of these restrictions on our business as they are updated and expanded, and we expect that they may continue to have direct and indirect adverse impacts on our revenues and results of operations in China and elsewhere.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates ongoing monitoring of trade restrictions already known to affect the business, expanding on existing tariff risk rather than introducing something new."
+  },
+  {
+   "text": "In 2025, the U.S. government announced a series of tariffs, including tariffs targeting a broad range of imports and targeted tariffs on goods from specific countries and industries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific, concrete new 2025 U.S. tariff actions that materially create new exposure not previously described."
+  },
+  {
+   "text": "In response, many countries imposed reciprocal tariffs and other trade restrictions on the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes specific new retaliatory tariffs and trade restrictions imposed by other countries, a concrete new development affecting the business."
+  },
+  {
+   "text": "Although many of these tariffs, countermeasures and other trade restrictions have since been eased or paused, their initial announcements triggered considerable volatility in global markets and heightened economic uncertainty, and the global trade situation, particularly between the United States and China, continues to be highly dynamic.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on volatility and uncertainty stemming from the tariff situation already introduced, without adding a fundamentally new risk."
+  },
+  {
+   "text": "Further, throughout 2025 the U.S. government has initiated numerous investigations into products and industries under Section 232 of the Trade Expansion Act of 1962.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new Section 232 investigations launched in 2025, a concrete regulatory action creating new risk."
+  },
+  {
+   "text": "For example, in April 2025, the Department of Commerce launched an investigation into the national security impacts of imported semiconductors and semiconductor manufacturing equipment.",
+   "category": "new_substantive_risk",
+   "rationale": "Names a specific Commerce Department investigation directly targeting semiconductors, highly relevant and specific to the company's core business."
+  },
+  {
+   "text": "While the results of this investigation remain unknown, it is expected to result in additional tariffs and trade restrictions that may adversely impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes anticipated consequences of the investigation already introduced in the prior sentence, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "Similar investigations on other industries or products, including automotive, copper, steel, aluminum, critical minerals and aircraft, may also adversely impact the semiconductor industry and our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the scope of the previously mentioned investigations to other industries, building on the already-established risk."
+  },
+  {
+   "text": "These changes have, and similar changes in the future may continue to, increase the cost or reduce the availability of raw materials and supplies we need to operate, cause customers to advance, delay, reduce, or cancel orders, shift buying patterns, impact demand in our end markets, complicate demand forecasting for us and our customers, increase supply chain complexity and contribute to volatility, a broader economic slowdown or recession.",
+   "category": "expanded_existing_risk",
+   "rationale": "General elaboration on how tariff-related changes affect costs, demand, and supply chain, expanding on the already-introduced tariff risk."
+  },
+  {
+   "text": "For example, our distributors could be adversely impacted by additional tariffs or export controls, which could limit our ability to conduct business with such distributors, increase our costs and adversely affect our reputation and operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Applies the previously discussed tariff/export control risk specifically to distributors, an expansion rather than a wholly new risk."
+  },
+  {
+   "text": "Further, if we are unable to find suitable replacements with the appropriate scale and resources, our operating results could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about inability to find replacements lacking specific new risk detail; reads as generic consequence language."
+  },
+  {
+   "text": "Further, the imposition of tariffs or other trade restrictions may significantly increase the costs, and otherwise adversely impact the availability, of certain raw materials and supplies that we need to operate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates the previously established risk of tariffs increasing raw material costs and availability issues."
+  },
+  {
+   "text": "As a result, we could forgo revenue opportunities, potentially lose market share and damage our customer relationships, all of which could materially and adversely affect our business, reputation, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential adverse business consequences without new specific information."
+  },
+  {
+   "text": "We incorporate AI capabilities across our technologies, business operations, products and services to enhance performance and drive smarter, more efficient solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI as a core part of technologies and operations, setting up a new risk area not previously present in the filing."
+  },
+  {
+   "text": "Evolving rules, regulations and industry standards governing AI may require us to incur greater compliance costs and restrict the use of AI in our products or 18 technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific compliance risk related to evolving AI regulations restricting product use."
+  },
+  {
+   "text": "Several jurisdictions where we operate are considering or have proposed or enacted legislation and policies regulating AI, including the European Union\u2019s AI Act, and lack of consistency among different regulatory regimes may increase our regulatory and compliance burdens.",
+   "category": "new_substantive_risk",
+   "rationale": "Names specific new regulatory regimes like the EU AI Act, adding concrete new regulatory risk not previously mentioned."
+  },
+  {
+   "text": "As the use of AI in our products, technologies or our business operations changes, we may become subject to new rules, regulations and industry standards, which may exacerbate these risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the already-introduced AI regulatory risk by noting potential future rule changes exacerbating it."
+  },
+  {
+   "text": "Expectations, requirements and attention to environmental, social and governance matters may have an adverse effect on our business, financial condition and results of operations, and damage our brand and reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic ESG risk framing common in many filings, lacking specific new business impact details."
+  }
+ ]
+}

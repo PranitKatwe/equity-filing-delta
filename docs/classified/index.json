@@ -1,0 +1,3317 @@
+{
+ "model": "claude-sonnet-5",
+ "generated": "2026-07-07",
+ "companies": {
+  "A": {
+   "sector": "Health Care",
+   "filing_date": "2025-12-22",
+   "n_added": 23,
+   "n_substantive": 13,
+   "n_new": 5
+  },
+  "AAPL": {
+   "sector": "Information Technology",
+   "filing_date": "2025-10-31",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 11
+  },
+  "ABBV": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-20",
+   "n_added": 24,
+   "n_substantive": 20,
+   "n_new": 6
+  },
+  "ABNB": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 7,
+   "n_new": 4
+  },
+  "ABT": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-20",
+   "n_added": 8,
+   "n_substantive": 4,
+   "n_new": 2
+  },
+  "ACGL": {
+   "sector": "Financials",
+   "filing_date": "2026-02-26",
+   "n_added": 29,
+   "n_substantive": 22,
+   "n_new": 12
+  },
+  "ACN": {
+   "sector": "Information Technology",
+   "filing_date": "2025-10-10",
+   "n_added": 23,
+   "n_substantive": 16,
+   "n_new": 10
+  },
+  "ADBE": {
+   "sector": "Information Technology",
+   "filing_date": "2026-01-15",
+   "n_added": 24,
+   "n_substantive": 20,
+   "n_new": 13
+  },
+  "ADI": {
+   "sector": "Information Technology",
+   "filing_date": "2025-11-25",
+   "n_added": 18,
+   "n_substantive": 15,
+   "n_new": 7
+  },
+  "ADM": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-17",
+   "n_added": 40,
+   "n_substantive": 26,
+   "n_new": 8
+  },
+  "ADP": {
+   "sector": "Industrials",
+   "filing_date": "2025-08-06",
+   "n_added": 11,
+   "n_substantive": 7,
+   "n_new": 5
+  },
+  "ADSK": {
+   "sector": "Information Technology",
+   "filing_date": "2026-03-03",
+   "n_added": 26,
+   "n_substantive": 16,
+   "n_new": 5
+  },
+  "AEE": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-18",
+   "n_added": 21,
+   "n_substantive": 18,
+   "n_new": 12
+  },
+  "AEP": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 13
+  },
+  "AES": {
+   "sector": "Utilities",
+   "filing_date": "2026-03-02",
+   "n_added": 40,
+   "n_substantive": 5,
+   "n_new": 1
+  },
+  "AFL": {
+   "sector": "Financials",
+   "filing_date": "2026-02-25",
+   "n_added": 26,
+   "n_substantive": 14,
+   "n_new": 5
+  },
+  "AIZ": {
+   "sector": "Financials",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 8,
+   "n_new": 3
+  },
+  "AJG": {
+   "sector": "Financials",
+   "filing_date": "2026-02-17",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 8
+  },
+  "AKAM": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-20",
+   "n_added": 40,
+   "n_substantive": 37,
+   "n_new": 20
+  },
+  "ALB": {
+   "sector": "Materials",
+   "filing_date": "2026-02-11",
+   "n_added": 4,
+   "n_substantive": 4,
+   "n_new": 1
+  },
+  "ALGN": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 36,
+   "n_new": 16
+  },
+  "ALL": {
+   "sector": "Financials",
+   "filing_date": "2026-02-20",
+   "n_added": 19,
+   "n_substantive": 11,
+   "n_new": 6
+  },
+  "ALLE": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-17",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 4
+  },
+  "AMAT": {
+   "sector": "Information Technology",
+   "filing_date": "2025-12-12",
+   "n_added": 35,
+   "n_substantive": 27,
+   "n_new": 12
+  },
+  "AMCR": {
+   "sector": "Materials",
+   "filing_date": "2025-08-15",
+   "n_added": 40,
+   "n_substantive": 0,
+   "n_new": 0
+  },
+  "AMD": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-04",
+   "n_added": 40,
+   "n_substantive": 5,
+   "n_new": 1
+  },
+  "AME": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-17",
+   "n_added": 1,
+   "n_substantive": 1,
+   "n_new": 1
+  },
+  "AMGN": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 10
+  },
+  "AMP": {
+   "sector": "Financials",
+   "filing_date": "2026-02-19",
+   "n_added": 13,
+   "n_substantive": 8,
+   "n_new": 3
+  },
+  "AMT": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 26,
+   "n_new": 7
+  },
+  "AMZN": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-06",
+   "n_added": 2,
+   "n_substantive": 0,
+   "n_new": 0
+  },
+  "ANET": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-17",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 14
+  },
+  "AON": {
+   "sector": "Financials",
+   "filing_date": "2026-02-13",
+   "n_added": 8,
+   "n_substantive": 5,
+   "n_new": 4
+  },
+  "AOS": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-10",
+   "n_added": 5,
+   "n_substantive": 4,
+   "n_new": 3
+  },
+  "APA": {
+   "sector": "Energy",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 7,
+   "n_new": 2
+  },
+  "APD": {
+   "sector": "Materials",
+   "filing_date": "2025-11-20",
+   "n_added": 15,
+   "n_substantive": 7,
+   "n_new": 6
+  },
+  "APH": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-11",
+   "n_added": 40,
+   "n_substantive": 19,
+   "n_new": 10
+  },
+  "APO": {
+   "sector": "Financials",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 0,
+   "n_new": 0
+  },
+  "APP": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 12
+  },
+  "APTV": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-06",
+   "n_added": 40,
+   "n_substantive": 22,
+   "n_new": 8
+  },
+  "ARE": {
+   "sector": "Real Estate",
+   "filing_date": "2026-01-26",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 12
+  },
+  "ARES": {
+   "sector": "Financials",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 3,
+   "n_new": 1
+  },
+  "ATO": {
+   "sector": "Utilities",
+   "filing_date": "2025-11-14",
+   "n_added": 1,
+   "n_substantive": 1,
+   "n_new": 0
+  },
+  "AVB": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-27",
+   "n_added": 20,
+   "n_substantive": 16,
+   "n_new": 3
+  },
+  "AVGO": {
+   "sector": "Information Technology",
+   "filing_date": "2025-12-18",
+   "n_added": 40,
+   "n_substantive": 9,
+   "n_new": 4
+  },
+  "AVY": {
+   "sector": "Materials",
+   "filing_date": "2026-02-25",
+   "n_added": 23,
+   "n_substantive": 10,
+   "n_new": 7
+  },
+  "AWK": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 15,
+   "n_new": 7
+  },
+  "AXON": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 26,
+   "n_new": 7
+  },
+  "AXP": {
+   "sector": "Financials",
+   "filing_date": "2026-02-06",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 14
+  },
+  "AZO": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2025-10-27",
+   "n_added": 10,
+   "n_substantive": 7,
+   "n_new": 3
+  },
+  "BA": {
+   "sector": "Industrials",
+   "filing_date": "2026-01-30",
+   "n_added": 31,
+   "n_substantive": 22,
+   "n_new": 7
+  },
+  "BAC": {
+   "sector": "Financials",
+   "filing_date": "2026-02-25",
+   "n_added": 37,
+   "n_substantive": 28,
+   "n_new": 17
+  },
+  "BALL": {
+   "sector": "Materials",
+   "filing_date": "2026-02-19",
+   "n_added": 14,
+   "n_substantive": 10,
+   "n_new": 4
+  },
+  "BAX": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 28,
+   "n_new": 9
+  },
+  "BBY": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-18",
+   "n_added": 40,
+   "n_substantive": 35,
+   "n_new": 13
+  },
+  "BDX": {
+   "sector": "Health Care",
+   "filing_date": "2025-11-25",
+   "n_added": 40,
+   "n_substantive": 22,
+   "n_new": 4
+  },
+  "BEN": {
+   "sector": "Financials",
+   "filing_date": "2025-11-10",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 2
+  },
+  "BF.B": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-06-12",
+   "n_added": 40,
+   "n_substantive": 3,
+   "n_new": 0
+  },
+  "BG": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 4,
+   "n_new": 1
+  },
+  "BIIB": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-06",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 17
+  },
+  "BKNG": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 15
+  },
+  "BKR": {
+   "sector": "Energy",
+   "filing_date": "2026-02-05",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 6
+  },
+  "BLDR": {
+   "sector": "Industrials",
+   "filing_date": "2022-03-01",
+   "n_added": 27,
+   "n_substantive": 25,
+   "n_new": 9
+  },
+  "BMY": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-11",
+   "n_added": 40,
+   "n_substantive": 15,
+   "n_new": 8
+  },
+  "BR": {
+   "sector": "Industrials",
+   "filing_date": "2025-08-05",
+   "n_added": 16,
+   "n_substantive": 10,
+   "n_new": 4
+  },
+  "BRK.B": {
+   "sector": "Financials",
+   "filing_date": "2022-02-28",
+   "n_added": 4,
+   "n_substantive": 3,
+   "n_new": 1
+  },
+  "BRO": {
+   "sector": "Financials",
+   "filing_date": "2021-02-23",
+   "n_added": 26,
+   "n_substantive": 16,
+   "n_new": 11
+  },
+  "BSX": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-17",
+   "n_added": 40,
+   "n_substantive": 5,
+   "n_new": 3
+  },
+  "BX": {
+   "sector": "Financials",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 26,
+   "n_new": 13
+  },
+  "BXP": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-27",
+   "n_added": 18,
+   "n_substantive": 12,
+   "n_new": 5
+  },
+  "CARR": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-05",
+   "n_added": 1,
+   "n_substantive": 0,
+   "n_new": 0
+  },
+  "CASY": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-06-22",
+   "n_added": 3,
+   "n_substantive": 3,
+   "n_new": 2
+  },
+  "CB": {
+   "sector": "Financials",
+   "filing_date": "2026-02-27",
+   "n_added": 10,
+   "n_substantive": 6,
+   "n_new": 2
+  },
+  "CBOE": {
+   "sector": "Financials",
+   "filing_date": "2026-02-20",
+   "n_added": 31,
+   "n_substantive": 25,
+   "n_new": 13
+  },
+  "CBRE": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-12",
+   "n_added": 15,
+   "n_substantive": 14,
+   "n_new": 3
+  },
+  "CCI": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-23",
+   "n_added": 40,
+   "n_substantive": 26,
+   "n_new": 14
+  },
+  "CCL": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-01-27",
+   "n_added": 34,
+   "n_substantive": 29,
+   "n_new": 18
+  },
+  "CDNS": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 32,
+   "n_new": 12
+  },
+  "CDW": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-20",
+   "n_added": 28,
+   "n_substantive": 17,
+   "n_new": 6
+  },
+  "CEG": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 7,
+   "n_new": 0
+  },
+  "CF": {
+   "sector": "Materials",
+   "filing_date": "2026-02-25",
+   "n_added": 23,
+   "n_substantive": 19,
+   "n_new": 10
+  },
+  "CFG": {
+   "sector": "Financials",
+   "filing_date": "2026-02-12",
+   "n_added": 6,
+   "n_substantive": 5,
+   "n_new": 3
+  },
+  "CHRW": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-13",
+   "n_added": 15,
+   "n_substantive": 11,
+   "n_new": 3
+  },
+  "CHTR": {
+   "sector": "Communication Services",
+   "filing_date": "2026-01-30",
+   "n_added": 40,
+   "n_substantive": 15,
+   "n_new": 11
+  },
+  "CI": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 11,
+   "n_new": 4
+  },
+  "CIEN": {
+   "sector": "Information Technology",
+   "filing_date": "2025-12-12",
+   "n_added": 40,
+   "n_substantive": 13,
+   "n_new": 8
+  },
+  "CL": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-23",
+   "n_added": 32,
+   "n_substantive": 28,
+   "n_new": 11
+  },
+  "CMCSA": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-03",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 4
+  },
+  "CME": {
+   "sector": "Financials",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 26,
+   "n_new": 11
+  },
+  "CMG": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-04",
+   "n_added": 21,
+   "n_substantive": 12,
+   "n_new": 8
+  },
+  "CMI": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-10",
+   "n_added": 35,
+   "n_substantive": 32,
+   "n_new": 9
+  },
+  "CMS": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-10",
+   "n_added": 40,
+   "n_substantive": 8,
+   "n_new": 4
+  },
+  "CNC": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-17",
+   "n_added": 40,
+   "n_substantive": 34,
+   "n_new": 25
+  },
+  "CNP": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 11
+  },
+  "COF": {
+   "sector": "Financials",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 11
+  },
+  "COHR": {
+   "sector": "Information Technology",
+   "filing_date": "2025-08-15",
+   "n_added": 40,
+   "n_substantive": 1,
+   "n_new": 1
+  },
+  "COIN": {
+   "sector": "Financials",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 10
+  },
+  "COO": {
+   "sector": "Health Care",
+   "filing_date": "2025-12-05",
+   "n_added": 21,
+   "n_substantive": 10,
+   "n_new": 5
+  },
+  "COP": {
+   "sector": "Energy",
+   "filing_date": "2026-02-17",
+   "n_added": 9,
+   "n_substantive": 5,
+   "n_new": 4
+  },
+  "COR": {
+   "sector": "Health Care",
+   "filing_date": "2025-11-25",
+   "n_added": 40,
+   "n_substantive": 21,
+   "n_new": 11
+  },
+  "COST": {
+   "sector": "Consumer Staples",
+   "filing_date": "2025-10-08",
+   "n_added": 23,
+   "n_substantive": 5,
+   "n_new": 2
+  },
+  "CPAY": {
+   "sector": "Financials",
+   "filing_date": "2026-02-27",
+   "n_added": 35,
+   "n_substantive": 24,
+   "n_new": 14
+  },
+  "CPRT": {
+   "sector": "Industrials",
+   "filing_date": "2025-09-26",
+   "n_added": 2,
+   "n_substantive": 1,
+   "n_new": 0
+  },
+  "CPT": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-12",
+   "n_added": 5,
+   "n_substantive": 4,
+   "n_new": 1
+  },
+  "CRH": {
+   "sector": "Materials",
+   "filing_date": "2026-02-18",
+   "n_added": 2,
+   "n_substantive": 0,
+   "n_new": 0
+  },
+  "CRL": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 15
+  },
+  "CRM": {
+   "sector": "Information Technology",
+   "filing_date": "2026-03-02",
+   "n_added": 40,
+   "n_substantive": 37,
+   "n_new": 18
+  },
+  "CRWD": {
+   "sector": "Information Technology",
+   "filing_date": "2026-03-05",
+   "n_added": 34,
+   "n_substantive": 24,
+   "n_new": 17
+  },
+  "CSCO": {
+   "sector": "Information Technology",
+   "filing_date": "2025-09-03",
+   "n_added": 40,
+   "n_substantive": 0,
+   "n_new": 0
+  },
+  "CSGP": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 36,
+   "n_new": 12
+  },
+  "CTAS": {
+   "sector": "Industrials",
+   "filing_date": "2025-07-28",
+   "n_added": 4,
+   "n_substantive": 3,
+   "n_new": 1
+  },
+  "CTSH": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 7,
+   "n_new": 1
+  },
+  "CTVA": {
+   "sector": "Materials",
+   "filing_date": "2026-02-12",
+   "n_added": 33,
+   "n_substantive": 26,
+   "n_new": 24
+  },
+  "CVNA": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-18",
+   "n_added": 32,
+   "n_substantive": 28,
+   "n_new": 8
+  },
+  "CVS": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-10",
+   "n_added": 21,
+   "n_substantive": 16,
+   "n_new": 8
+  },
+  "CVX": {
+   "sector": "Energy",
+   "filing_date": "2026-02-24",
+   "n_added": 9,
+   "n_substantive": 6,
+   "n_new": 2
+  },
+  "D": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-23",
+   "n_added": 20,
+   "n_substantive": 0,
+   "n_new": 0
+  },
+  "DAL": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-11",
+   "n_added": 40,
+   "n_substantive": 4,
+   "n_new": 2
+  },
+  "DASH": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 32,
+   "n_new": 15
+  },
+  "DD": {
+   "sector": "Materials",
+   "filing_date": "2026-02-17",
+   "n_added": 40,
+   "n_substantive": 32,
+   "n_new": 18
+  },
+  "DDOG": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-18",
+   "n_added": 17,
+   "n_substantive": 14,
+   "n_new": 7
+  },
+  "DE": {
+   "sector": "Industrials",
+   "filing_date": "2025-12-18",
+   "n_added": 40,
+   "n_substantive": 3,
+   "n_new": 0
+  },
+  "DECK": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-05-22",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 11
+  },
+  "DELL": {
+   "sector": "Information Technology",
+   "filing_date": "2026-03-16",
+   "n_added": 35,
+   "n_substantive": 5,
+   "n_new": 3
+  },
+  "DG": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-03-20",
+   "n_added": 9,
+   "n_substantive": 6,
+   "n_new": 5
+  },
+  "DGX": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-26",
+   "n_added": 21,
+   "n_substantive": 14,
+   "n_new": 7
+  },
+  "DHI": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2025-11-19",
+   "n_added": 12,
+   "n_substantive": 4,
+   "n_new": 2
+  },
+  "DHR": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-24",
+   "n_added": 39,
+   "n_substantive": 26,
+   "n_new": 11
+  },
+  "DIS": {
+   "sector": "Communication Services",
+   "filing_date": "2025-11-13",
+   "n_added": 21,
+   "n_substantive": 13,
+   "n_new": 9
+  },
+  "DLR": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-13",
+   "n_added": 36,
+   "n_substantive": 25,
+   "n_new": 12
+  },
+  "DLTR": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-03-16",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 13
+  },
+  "DOC": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-03",
+   "n_added": 40,
+   "n_substantive": 32,
+   "n_new": 21
+  },
+  "DOV": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-13",
+   "n_added": 1,
+   "n_substantive": 1,
+   "n_new": 1
+  },
+  "DOW": {
+   "sector": "Materials",
+   "filing_date": "2026-02-03",
+   "n_added": 27,
+   "n_substantive": 14,
+   "n_new": 2
+  },
+  "DPZ": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2021-02-25",
+   "n_added": 32,
+   "n_substantive": 21,
+   "n_new": 12
+  },
+  "DRI": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2025-07-18",
+   "n_added": 2,
+   "n_substantive": 2,
+   "n_new": 1
+  },
+  "DTE": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-17",
+   "n_added": 3,
+   "n_substantive": 3,
+   "n_new": 2
+  },
+  "DUK": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-26",
+   "n_added": 28,
+   "n_substantive": 22,
+   "n_new": 12
+  },
+  "DVA": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-11",
+   "n_added": 40,
+   "n_substantive": 27,
+   "n_new": 6
+  },
+  "DVN": {
+   "sector": "Energy",
+   "filing_date": "2022-02-16",
+   "n_added": 34,
+   "n_substantive": 25,
+   "n_new": 16
+  },
+  "DXCM": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 13
+  },
+  "EA": {
+   "sector": "Communication Services",
+   "filing_date": "2026-05-11",
+   "n_added": 16,
+   "n_substantive": 16,
+   "n_new": 5
+  },
+  "EBAY": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 11,
+   "n_new": 3
+  },
+  "ECHO": {
+   "sector": "Communication Services",
+   "filing_date": "2026-03-02",
+   "n_added": 40,
+   "n_substantive": 23,
+   "n_new": 12
+  },
+  "ECL": {
+   "sector": "Materials",
+   "filing_date": "2026-02-23",
+   "n_added": 22,
+   "n_substantive": 19,
+   "n_new": 7
+  },
+  "ED": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-19",
+   "n_added": 10,
+   "n_substantive": 7,
+   "n_new": 7
+  },
+  "EFX": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-19",
+   "n_added": 16,
+   "n_substantive": 9,
+   "n_new": 7
+  },
+  "EG": {
+   "sector": "Financials",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 19,
+   "n_new": 8
+  },
+  "EL": {
+   "sector": "Consumer Staples",
+   "filing_date": "2025-08-20",
+   "n_added": 21,
+   "n_substantive": 18,
+   "n_new": 5
+  },
+  "ELV": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-06",
+   "n_added": 19,
+   "n_substantive": 12,
+   "n_new": 5
+  },
+  "EME": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-26",
+   "n_added": 6,
+   "n_substantive": 6,
+   "n_new": 3
+  },
+  "EMR": {
+   "sector": "Industrials",
+   "filing_date": "2025-11-10",
+   "n_added": 8,
+   "n_substantive": 8,
+   "n_new": 5
+  },
+  "EOG": {
+   "sector": "Energy",
+   "filing_date": "2026-02-24",
+   "n_added": 11,
+   "n_substantive": 5,
+   "n_new": 1
+  },
+  "EQIX": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-11",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 16
+  },
+  "EQR": {
+   "sector": "Real Estate",
+   "filing_date": "2022-02-17",
+   "n_added": 7,
+   "n_substantive": 6,
+   "n_new": 3
+  },
+  "EQT": {
+   "sector": "Energy",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 13,
+   "n_new": 3
+  },
+  "ERIE": {
+   "sector": "Financials",
+   "filing_date": "2026-02-23",
+   "n_added": 7,
+   "n_substantive": 6,
+   "n_new": 4
+  },
+  "ES": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-17",
+   "n_added": 29,
+   "n_substantive": 18,
+   "n_new": 13
+  },
+  "ESS": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-20",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 5
+  },
+  "ETN": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 27,
+   "n_new": 14
+  },
+  "ETR": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 20,
+   "n_new": 10
+  },
+  "EVRG": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-19",
+   "n_added": 35,
+   "n_substantive": 10,
+   "n_new": 5
+  },
+  "EW": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-25",
+   "n_added": 31,
+   "n_substantive": 15,
+   "n_new": 9
+  },
+  "EXC": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-12",
+   "n_added": 23,
+   "n_substantive": 7,
+   "n_new": 4
+  },
+  "EXE": {
+   "sector": "Energy",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 19,
+   "n_new": 4
+  },
+  "EXPD": {
+   "sector": "Industrials",
+   "filing_date": "2022-03-15",
+   "n_added": 40,
+   "n_substantive": 33,
+   "n_new": 9
+  },
+  "EXPE": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 26,
+   "n_new": 15
+  },
+  "EXR": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-20",
+   "n_added": 23,
+   "n_substantive": 17,
+   "n_new": 6
+  },
+  "F": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-11",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 19
+  },
+  "FANG": {
+   "sector": "Energy",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 21,
+   "n_new": 6
+  },
+  "FAST": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-05",
+   "n_added": 17,
+   "n_substantive": 15,
+   "n_new": 6
+  },
+  "FCX": {
+   "sector": "Materials",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 33,
+   "n_new": 13
+  },
+  "FDS": {
+   "sector": "Financials",
+   "filing_date": "2025-10-22",
+   "n_added": 40,
+   "n_substantive": 26,
+   "n_new": 14
+  },
+  "FDX": {
+   "sector": "Industrials",
+   "filing_date": "2025-07-21",
+   "n_added": 40,
+   "n_substantive": 34,
+   "n_new": 12
+  },
+  "FE": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 13
+  },
+  "FFIV": {
+   "sector": "Information Technology",
+   "filing_date": "2025-11-25",
+   "n_added": 40,
+   "n_substantive": 1,
+   "n_new": 1
+  },
+  "FICO": {
+   "sector": "Information Technology",
+   "filing_date": "2025-11-07",
+   "n_added": 4,
+   "n_substantive": 4,
+   "n_new": 3
+  },
+  "FIS": {
+   "sector": "Financials",
+   "filing_date": "2026-02-24",
+   "n_added": 34,
+   "n_substantive": 28,
+   "n_new": 10
+  },
+  "FISV": {
+   "sector": "Financials",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 9
+  },
+  "FITB": {
+   "sector": "Financials",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 13
+  },
+  "FIX": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-19",
+   "n_added": 12,
+   "n_substantive": 11,
+   "n_new": 6
+  },
+  "FLEX": {
+   "sector": "Information Technology",
+   "filing_date": "2026-05-20",
+   "n_added": 40,
+   "n_substantive": 37,
+   "n_new": 10
+  },
+  "FOX": {
+   "sector": "Communication Services",
+   "filing_date": "2025-08-06",
+   "n_added": 24,
+   "n_substantive": 13,
+   "n_new": 6
+  },
+  "FOXA": {
+   "sector": "Communication Services",
+   "filing_date": "2025-08-06",
+   "n_added": 24,
+   "n_substantive": 13,
+   "n_new": 6
+  },
+  "FRT": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-12",
+   "n_added": 1,
+   "n_substantive": 1,
+   "n_new": 0
+  },
+  "FSLR": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 18
+  },
+  "FTNT": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-25",
+   "n_added": 37,
+   "n_substantive": 20,
+   "n_new": 12
+  },
+  "FTV": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-25",
+   "n_added": 18,
+   "n_substantive": 4,
+   "n_new": 2
+  },
+  "GDDY": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 10
+  },
+  "GEHC": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-04",
+   "n_added": 34,
+   "n_substantive": 22,
+   "n_new": 11
+  },
+  "GEN": {
+   "sector": "Information Technology",
+   "filing_date": "2026-05-21",
+   "n_added": 40,
+   "n_substantive": 2,
+   "n_new": 2
+  },
+  "GILD": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 17,
+   "n_new": 9
+  },
+  "GIS": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-07-01",
+   "n_added": 1,
+   "n_substantive": 1,
+   "n_new": 1
+  },
+  "GL": {
+   "sector": "Financials",
+   "filing_date": "2026-02-25",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 3
+  },
+  "GLW": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-12",
+   "n_added": 6,
+   "n_substantive": 4,
+   "n_new": 3
+  },
+  "GM": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-01-27",
+   "n_added": 40,
+   "n_substantive": 5,
+   "n_new": 3
+  },
+  "GNRC": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-18",
+   "n_added": 20,
+   "n_substantive": 12,
+   "n_new": 7
+  },
+  "GOOG": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-05",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 12
+  },
+  "GOOGL": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-05",
+   "n_added": 40,
+   "n_substantive": 27,
+   "n_new": 12
+  },
+  "GPC": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-20",
+   "n_added": 31,
+   "n_substantive": 29,
+   "n_new": 7
+  },
+  "GPN": {
+   "sector": "Financials",
+   "filing_date": "2026-02-20",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 13
+  },
+  "GRMN": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2021-02-17",
+   "n_added": 40,
+   "n_substantive": 32,
+   "n_new": 8
+  },
+  "GS": {
+   "sector": "Financials",
+   "filing_date": "2026-02-25",
+   "n_added": 8,
+   "n_substantive": 7,
+   "n_new": 5
+  },
+  "GWW": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-19",
+   "n_added": 6,
+   "n_substantive": 1,
+   "n_new": 0
+  },
+  "HAS": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 8,
+   "n_new": 5
+  },
+  "HBAN": {
+   "sector": "Financials",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 19,
+   "n_new": 5
+  },
+  "HCA": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-10",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 19
+  },
+  "HD": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-18",
+   "n_added": 40,
+   "n_substantive": 5,
+   "n_new": 2
+  },
+  "HIG": {
+   "sector": "Financials",
+   "filing_date": "2026-02-20",
+   "n_added": 18,
+   "n_substantive": 10,
+   "n_new": 4
+  },
+  "HII": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-05",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 8
+  },
+  "HLT": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-11",
+   "n_added": 12,
+   "n_substantive": 3,
+   "n_new": 1
+  },
+  "HON": {
+   "sector": "Industrials",
+   "filing_date": "2020-02-14",
+   "n_added": 30,
+   "n_substantive": 22,
+   "n_new": 7
+  },
+  "HOOD": {
+   "sector": "Financials",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 33,
+   "n_new": 19
+  },
+  "HPE": {
+   "sector": "Information Technology",
+   "filing_date": "2025-12-18",
+   "n_added": 40,
+   "n_substantive": 20,
+   "n_new": 9
+  },
+  "HPQ": {
+   "sector": "Information Technology",
+   "filing_date": "2025-12-10",
+   "n_added": 23,
+   "n_substantive": 18,
+   "n_new": 10
+  },
+  "HRL": {
+   "sector": "Consumer Staples",
+   "filing_date": "2025-12-05",
+   "n_added": 40,
+   "n_substantive": 18,
+   "n_new": 9
+  },
+  "HSIC": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 14,
+   "n_new": 4
+  },
+  "HST": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-25",
+   "n_added": 3,
+   "n_substantive": 3,
+   "n_new": 0
+  },
+  "HSY": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-17",
+   "n_added": 8,
+   "n_substantive": 7,
+   "n_new": 5
+  },
+  "HUBB": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-12",
+   "n_added": 21,
+   "n_substantive": 15,
+   "n_new": 4
+  },
+  "HUM": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-19",
+   "n_added": 8,
+   "n_substantive": 7,
+   "n_new": 4
+  },
+  "HWM": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-12",
+   "n_added": 23,
+   "n_substantive": 17,
+   "n_new": 15
+  },
+  "IDXX": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-20",
+   "n_added": 26,
+   "n_substantive": 19,
+   "n_new": 3
+  },
+  "IEX": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-19",
+   "n_added": 10,
+   "n_substantive": 5,
+   "n_new": 1
+  },
+  "IFF": {
+   "sector": "Materials",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 6
+  },
+  "INCY": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-10",
+   "n_added": 32,
+   "n_substantive": 23,
+   "n_new": 9
+  },
+  "INTC": {
+   "sector": "Information Technology",
+   "filing_date": "2017-02-17",
+   "n_added": 16,
+   "n_substantive": 13,
+   "n_new": 4
+  },
+  "INTU": {
+   "sector": "Information Technology",
+   "filing_date": "2025-09-03",
+   "n_added": 26,
+   "n_substantive": 9,
+   "n_new": 4
+  },
+  "INVH": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 38,
+   "n_new": 9
+  },
+  "IP": {
+   "sector": "Materials",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 7,
+   "n_new": 3
+  },
+  "IQV": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-17",
+   "n_added": 27,
+   "n_substantive": 11,
+   "n_new": 6
+  },
+  "IR": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-17",
+   "n_added": 24,
+   "n_substantive": 15,
+   "n_new": 4
+  },
+  "IRM": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-12",
+   "n_added": 23,
+   "n_substantive": 11,
+   "n_new": 8
+  },
+  "ISRG": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-03",
+   "n_added": 40,
+   "n_substantive": 7,
+   "n_new": 1
+  },
+  "IT": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-12",
+   "n_added": 24,
+   "n_substantive": 10,
+   "n_new": 6
+  },
+  "ITW": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-13",
+   "n_added": 2,
+   "n_substantive": 0,
+   "n_new": 0
+  },
+  "IVZ": {
+   "sector": "Financials",
+   "filing_date": "2026-02-24",
+   "n_added": 33,
+   "n_substantive": 28,
+   "n_new": 14
+  },
+  "J": {
+   "sector": "Industrials",
+   "filing_date": "2025-11-20",
+   "n_added": 40,
+   "n_substantive": 1,
+   "n_new": 0
+  },
+  "JBHT": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-24",
+   "n_added": 11,
+   "n_substantive": 9,
+   "n_new": 5
+  },
+  "JBL": {
+   "sector": "Information Technology",
+   "filing_date": "2025-10-17",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 3
+  },
+  "JCI": {
+   "sector": "Industrials",
+   "filing_date": "2025-11-14",
+   "n_added": 29,
+   "n_substantive": 17,
+   "n_new": 4
+  },
+  "JKHY": {
+   "sector": "Financials",
+   "filing_date": "2025-08-25",
+   "n_added": 15,
+   "n_substantive": 11,
+   "n_new": 7
+  },
+  "JNJ": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-11",
+   "n_added": 12,
+   "n_substantive": 12,
+   "n_new": 2
+  },
+  "JPM": {
+   "sector": "Financials",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 15
+  },
+  "KDP": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 28
+  },
+  "KEY": {
+   "sector": "Financials",
+   "filing_date": "2026-02-23",
+   "n_added": 40,
+   "n_substantive": 10,
+   "n_new": 3
+  },
+  "KEYS": {
+   "sector": "Information Technology",
+   "filing_date": "2025-12-17",
+   "n_added": 40,
+   "n_substantive": 19,
+   "n_new": 5
+  },
+  "KHC": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 39,
+   "n_new": 34
+  },
+  "KIM": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-20",
+   "n_added": 13,
+   "n_substantive": 9,
+   "n_new": 2
+  },
+  "KKR": {
+   "sector": "Financials",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 7
+  },
+  "KLAC": {
+   "sector": "Information Technology",
+   "filing_date": "2025-08-08",
+   "n_added": 34,
+   "n_substantive": 25,
+   "n_new": 8
+  },
+  "KMB": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 32,
+   "n_new": 12
+  },
+  "KMI": {
+   "sector": "Energy",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 28,
+   "n_new": 10
+  },
+  "KO": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-20",
+   "n_added": 12,
+   "n_substantive": 7,
+   "n_new": 3
+  },
+  "KR": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-03-31",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 4
+  },
+  "KVUE": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-20",
+   "n_added": 40,
+   "n_substantive": 35,
+   "n_new": 8
+  },
+  "L": {
+   "sector": "Financials",
+   "filing_date": "2026-02-10",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 9
+  },
+  "LDOS": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-17",
+   "n_added": 40,
+   "n_substantive": 27,
+   "n_new": 14
+  },
+  "LEN": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-01-28",
+   "n_added": 15,
+   "n_substantive": 10,
+   "n_new": 6
+  },
+  "LH": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 17
+  },
+  "LHX": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 27,
+   "n_new": 8
+  },
+  "LII": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-17",
+   "n_added": 11,
+   "n_substantive": 8,
+   "n_new": 4
+  },
+  "LIN": {
+   "sector": "Materials",
+   "filing_date": "2026-02-25",
+   "n_added": 1,
+   "n_substantive": 1,
+   "n_new": 0
+  },
+  "LITE": {
+   "sector": "Information Technology",
+   "filing_date": "2025-08-19",
+   "n_added": 40,
+   "n_substantive": 27,
+   "n_new": 15
+  },
+  "LLY": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 12
+  },
+  "LMT": {
+   "sector": "Industrials",
+   "filing_date": "2026-01-29",
+   "n_added": 39,
+   "n_substantive": 23,
+   "n_new": 10
+  },
+  "LNT": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-20",
+   "n_added": 35,
+   "n_substantive": 31,
+   "n_new": 20
+  },
+  "LOW": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-23",
+   "n_added": 8,
+   "n_substantive": 5,
+   "n_new": 3
+  },
+  "LRCX": {
+   "sector": "Information Technology",
+   "filing_date": "2025-08-11",
+   "n_added": 10,
+   "n_substantive": 6,
+   "n_new": 2
+  },
+  "LULU": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-17",
+   "n_added": 40,
+   "n_substantive": 22,
+   "n_new": 7
+  },
+  "LUV": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-05",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 13
+  },
+  "LVS": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-06",
+   "n_added": 12,
+   "n_substantive": 6,
+   "n_new": 2
+  },
+  "LYB": {
+   "sector": "Materials",
+   "filing_date": "2026-02-20",
+   "n_added": 37,
+   "n_substantive": 13,
+   "n_new": 8
+  },
+  "LYV": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-19",
+   "n_added": 24,
+   "n_substantive": 11,
+   "n_new": 6
+  },
+  "MA": {
+   "sector": "Financials",
+   "filing_date": "2026-02-11",
+   "n_added": 13,
+   "n_substantive": 6,
+   "n_new": 4
+  },
+  "MAA": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-06",
+   "n_added": 9,
+   "n_substantive": 7,
+   "n_new": 4
+  },
+  "MAR": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-10",
+   "n_added": 11,
+   "n_substantive": 8,
+   "n_new": 4
+  },
+  "MAS": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-10",
+   "n_added": 4,
+   "n_substantive": 3,
+   "n_new": 2
+  },
+  "MCD": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2019-02-22",
+   "n_added": 10,
+   "n_substantive": 4,
+   "n_new": 3
+  },
+  "MCHP": {
+   "sector": "Information Technology",
+   "filing_date": "2026-05-21",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 13
+  },
+  "MCK": {
+   "sector": "Health Care",
+   "filing_date": "2026-05-08",
+   "n_added": 33,
+   "n_substantive": 21,
+   "n_new": 10
+  },
+  "MCO": {
+   "sector": "Financials",
+   "filing_date": "2026-02-18",
+   "n_added": 25,
+   "n_substantive": 16,
+   "n_new": 11
+  },
+  "MDLZ": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-04",
+   "n_added": 21,
+   "n_substantive": 18,
+   "n_new": 8
+  },
+  "MDT": {
+   "sector": "Health Care",
+   "filing_date": "2026-06-18",
+   "n_added": 40,
+   "n_substantive": 23,
+   "n_new": 14
+  },
+  "MET": {
+   "sector": "Financials",
+   "filing_date": "2026-02-19",
+   "n_added": 17,
+   "n_substantive": 13,
+   "n_new": 5
+  },
+  "META": {
+   "sector": "Communication Services",
+   "filing_date": "2026-01-29",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 16
+  },
+  "MGM": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-11",
+   "n_added": 27,
+   "n_substantive": 7,
+   "n_new": 4
+  },
+  "MKC": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-01-22",
+   "n_added": 19,
+   "n_substantive": 12,
+   "n_new": 3
+  },
+  "MLM": {
+   "sector": "Materials",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 28,
+   "n_new": 15
+  },
+  "MMM": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-03",
+   "n_added": 24,
+   "n_substantive": 23,
+   "n_new": 4
+  },
+  "MNST": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 18
+  },
+  "MO": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-25",
+   "n_added": 27,
+   "n_substantive": 17,
+   "n_new": 8
+  },
+  "MOS": {
+   "sector": "Materials",
+   "filing_date": "2026-02-27",
+   "n_added": 17,
+   "n_substantive": 13,
+   "n_new": 3
+  },
+  "MPC": {
+   "sector": "Energy",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 18,
+   "n_new": 7
+  },
+  "MPWR": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 20,
+   "n_new": 7
+  },
+  "MRK": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-24",
+   "n_added": 27,
+   "n_substantive": 25,
+   "n_new": 18
+  },
+  "MRNA": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-20",
+   "n_added": 40,
+   "n_substantive": 28,
+   "n_new": 14
+  },
+  "MRSH": {
+   "sector": "Financials",
+   "filing_date": "2026-02-09",
+   "n_added": 25,
+   "n_substantive": 18,
+   "n_new": 8
+  },
+  "MRVL": {
+   "sector": "Information Technology",
+   "filing_date": "2026-03-11",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 15
+  },
+  "MS": {
+   "sector": "Financials",
+   "filing_date": "2017-02-27",
+   "n_added": 34,
+   "n_substantive": 26,
+   "n_new": 10
+  },
+  "MSCI": {
+   "sector": "Financials",
+   "filing_date": "2026-02-06",
+   "n_added": 40,
+   "n_substantive": 36,
+   "n_new": 23
+  },
+  "MSFT": {
+   "sector": "Information Technology",
+   "filing_date": "2022-07-28",
+   "n_added": 17,
+   "n_substantive": 15,
+   "n_new": 10
+  },
+  "MSI": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 12
+  },
+  "MTB": {
+   "sector": "Financials",
+   "filing_date": "2026-02-18",
+   "n_added": 9,
+   "n_substantive": 6,
+   "n_new": 2
+  },
+  "MTD": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-06",
+   "n_added": 11,
+   "n_substantive": 7,
+   "n_new": 5
+  },
+  "MU": {
+   "sector": "Information Technology",
+   "filing_date": "2025-10-03",
+   "n_added": 40,
+   "n_substantive": 2,
+   "n_new": 2
+  },
+  "NCLH": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-02",
+   "n_added": 40,
+   "n_substantive": 3,
+   "n_new": 1
+  },
+  "NDAQ": {
+   "sector": "Financials",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 5,
+   "n_new": 2
+  },
+  "NDSN": {
+   "sector": "Industrials",
+   "filing_date": "2025-12-17",
+   "n_added": 11,
+   "n_substantive": 9,
+   "n_new": 9
+  },
+  "NEE": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 10,
+   "n_new": 5
+  },
+  "NEM": {
+   "sector": "Materials",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 33,
+   "n_new": 15
+  },
+  "NFLX": {
+   "sector": "Communication Services",
+   "filing_date": "2026-01-23",
+   "n_added": 18,
+   "n_substantive": 18,
+   "n_new": 7
+  },
+  "NI": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-11",
+   "n_added": 40,
+   "n_substantive": 21,
+   "n_new": 7
+  },
+  "NKE": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2025-07-17",
+   "n_added": 39,
+   "n_substantive": 9,
+   "n_new": 1
+  },
+  "NOC": {
+   "sector": "Industrials",
+   "filing_date": "2026-01-27",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 15
+  },
+  "NOW": {
+   "sector": "Information Technology",
+   "filing_date": "2026-01-29",
+   "n_added": 31,
+   "n_substantive": 22,
+   "n_new": 12
+  },
+  "NRG": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-24",
+   "n_added": 30,
+   "n_substantive": 24,
+   "n_new": 6
+  },
+  "NSC": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-09",
+   "n_added": 32,
+   "n_substantive": 27,
+   "n_new": 9
+  },
+  "NTRS": {
+   "sector": "Financials",
+   "filing_date": "2026-02-24",
+   "n_added": 11,
+   "n_substantive": 10,
+   "n_new": 4
+  },
+  "NUE": {
+   "sector": "Materials",
+   "filing_date": "2026-02-25",
+   "n_added": 5,
+   "n_substantive": 4,
+   "n_new": 2
+  },
+  "NVDA": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 35,
+   "n_new": 12
+  },
+  "NVR": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-11",
+   "n_added": 3,
+   "n_substantive": 2,
+   "n_new": 2
+  },
+  "NWS": {
+   "sector": "Communication Services",
+   "filing_date": "2025-08-06",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 11
+  },
+  "NWSA": {
+   "sector": "Communication Services",
+   "filing_date": "2025-08-06",
+   "n_added": 40,
+   "n_substantive": 27,
+   "n_new": 12
+  },
+  "NXPI": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-19",
+   "n_added": 40,
+   "n_substantive": 6,
+   "n_new": 4
+  },
+  "O": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 8,
+   "n_new": 3
+  },
+  "ODFL": {
+   "sector": "Industrials",
+   "filing_date": "2022-02-23",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 3
+  },
+  "OKE": {
+   "sector": "Energy",
+   "filing_date": "2026-02-24",
+   "n_added": 18,
+   "n_substantive": 7,
+   "n_new": 3
+  },
+  "OMC": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-20",
+   "n_added": 35,
+   "n_substantive": 19,
+   "n_new": 6
+  },
+  "ON": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-09",
+   "n_added": 27,
+   "n_substantive": 19,
+   "n_new": 13
+  },
+  "ORCL": {
+   "sector": "Information Technology",
+   "filing_date": "2022-06-21",
+   "n_added": 40,
+   "n_substantive": 13,
+   "n_new": 8
+  },
+  "ORLY": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-27",
+   "n_added": 1,
+   "n_substantive": 1,
+   "n_new": 1
+  },
+  "OTIS": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-05",
+   "n_added": 17,
+   "n_substantive": 11,
+   "n_new": 6
+  },
+  "OXY": {
+   "sector": "Energy",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 10
+  },
+  "PANW": {
+   "sector": "Information Technology",
+   "filing_date": "2025-08-29",
+   "n_added": 40,
+   "n_substantive": 33,
+   "n_new": 13
+  },
+  "PCAR": {
+   "sector": "Industrials",
+   "filing_date": "2023-02-22",
+   "n_added": 33,
+   "n_substantive": 21,
+   "n_new": 7
+  },
+  "PCG": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 20,
+   "n_new": 6
+  },
+  "PEG": {
+   "sector": "Utilities",
+   "filing_date": "2024-02-26",
+   "n_added": 40,
+   "n_substantive": 12,
+   "n_new": 8
+  },
+  "PEP": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-03",
+   "n_added": 13,
+   "n_substantive": 11,
+   "n_new": 6
+  },
+  "PFE": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 10,
+   "n_new": 6
+  },
+  "PFG": {
+   "sector": "Financials",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 6
+  },
+  "PG": {
+   "sector": "Consumer Staples",
+   "filing_date": "2025-08-04",
+   "n_added": 6,
+   "n_substantive": 3,
+   "n_new": 1
+  },
+  "PGR": {
+   "sector": "Financials",
+   "filing_date": "2026-03-02",
+   "n_added": 9,
+   "n_substantive": 4,
+   "n_new": 3
+  },
+  "PH": {
+   "sector": "Industrials",
+   "filing_date": "2025-08-22",
+   "n_added": 8,
+   "n_substantive": 2,
+   "n_new": 1
+  },
+  "PHM": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-04",
+   "n_added": 12,
+   "n_substantive": 5,
+   "n_new": 2
+  },
+  "PKG": {
+   "sector": "Materials",
+   "filing_date": "2021-02-24",
+   "n_added": 18,
+   "n_substantive": 9,
+   "n_new": 8
+  },
+  "PLD": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-13",
+   "n_added": 23,
+   "n_substantive": 7,
+   "n_new": 2
+  },
+  "PLTR": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-17",
+   "n_added": 18,
+   "n_substantive": 15,
+   "n_new": 3
+  },
+  "PM": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-06",
+   "n_added": 28,
+   "n_substantive": 20,
+   "n_new": 9
+  },
+  "PNC": {
+   "sector": "Financials",
+   "filing_date": "2026-02-20",
+   "n_added": 40,
+   "n_substantive": 8,
+   "n_new": 1
+  },
+  "PNR": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-24",
+   "n_added": 28,
+   "n_substantive": 24,
+   "n_new": 15
+  },
+  "PNW": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-25",
+   "n_added": 15,
+   "n_substantive": 11,
+   "n_new": 4
+  },
+  "PODD": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-18",
+   "n_added": 35,
+   "n_substantive": 21,
+   "n_new": 9
+  },
+  "PPG": {
+   "sector": "Materials",
+   "filing_date": "2026-02-19",
+   "n_added": 8,
+   "n_substantive": 5,
+   "n_new": 5
+  },
+  "PPL": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-20",
+   "n_added": 24,
+   "n_substantive": 19,
+   "n_new": 14
+  },
+  "PRU": {
+   "sector": "Financials",
+   "filing_date": "2026-02-12",
+   "n_added": 26,
+   "n_substantive": 17,
+   "n_new": 7
+  },
+  "PSA": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-12",
+   "n_added": 13,
+   "n_substantive": 12,
+   "n_new": 4
+  },
+  "PSX": {
+   "sector": "Energy",
+   "filing_date": "2026-02-20",
+   "n_added": 7,
+   "n_substantive": 4,
+   "n_new": 1
+  },
+  "PTC": {
+   "sector": "Information Technology",
+   "filing_date": "2021-11-22",
+   "n_added": 25,
+   "n_substantive": 21,
+   "n_new": 12
+  },
+  "PWR": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-19",
+   "n_added": 19,
+   "n_substantive": 4,
+   "n_new": 2
+  },
+  "PYPL": {
+   "sector": "Financials",
+   "filing_date": "2026-02-03",
+   "n_added": 40,
+   "n_substantive": 24,
+   "n_new": 11
+  },
+  "QCOM": {
+   "sector": "Information Technology",
+   "filing_date": "2025-11-05",
+   "n_added": 40,
+   "n_substantive": 6,
+   "n_new": 1
+  },
+  "RCL": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-11",
+   "n_added": 35,
+   "n_substantive": 18,
+   "n_new": 7
+  },
+  "REG": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 28,
+   "n_new": 16
+  },
+  "REGN": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-04",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 14
+  },
+  "RF": {
+   "sector": "Financials",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 2,
+   "n_new": 0
+  },
+  "RJF": {
+   "sector": "Financials",
+   "filing_date": "2025-11-25",
+   "n_added": 24,
+   "n_substantive": 14,
+   "n_new": 6
+  },
+  "RL": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-05-21",
+   "n_added": 40,
+   "n_substantive": 31,
+   "n_new": 23
+  },
+  "RMD": {
+   "sector": "Health Care",
+   "filing_date": "2025-08-08",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 7
+  },
+  "ROK": {
+   "sector": "Industrials",
+   "filing_date": "2025-11-12",
+   "n_added": 27,
+   "n_substantive": 21,
+   "n_new": 10
+  },
+  "ROP": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-24",
+   "n_added": 18,
+   "n_substantive": 14,
+   "n_new": 7
+  },
+  "ROST": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-31",
+   "n_added": 6,
+   "n_substantive": 5,
+   "n_new": 4
+  },
+  "RSG": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-18",
+   "n_added": 7,
+   "n_substantive": 6,
+   "n_new": 3
+  },
+  "RTX": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-06",
+   "n_added": 3,
+   "n_substantive": 2,
+   "n_new": 2
+  },
+  "RVTY": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-24",
+   "n_added": 18,
+   "n_substantive": 14,
+   "n_new": 8
+  },
+  "SBAC": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-27",
+   "n_added": 14,
+   "n_substantive": 12,
+   "n_new": 7
+  },
+  "SBUX": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2025-11-14",
+   "n_added": 40,
+   "n_substantive": 21,
+   "n_new": 7
+  },
+  "SCHW": {
+   "sector": "Financials",
+   "filing_date": "2026-02-25",
+   "n_added": 39,
+   "n_substantive": 31,
+   "n_new": 13
+  },
+  "SHW": {
+   "sector": "Materials",
+   "filing_date": "2026-02-19",
+   "n_added": 5,
+   "n_substantive": 3,
+   "n_new": 2
+  },
+  "SJM": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-06-09",
+   "n_added": 24,
+   "n_substantive": 20,
+   "n_new": 8
+  },
+  "SLB": {
+   "sector": "Energy",
+   "filing_date": "2023-01-25",
+   "n_added": 11,
+   "n_substantive": 9,
+   "n_new": 1
+  },
+  "SMCI": {
+   "sector": "Information Technology",
+   "filing_date": "2025-08-28",
+   "n_added": 40,
+   "n_substantive": 23,
+   "n_new": 13
+  },
+  "SNA": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-12",
+   "n_added": 12,
+   "n_substantive": 4,
+   "n_new": 3
+  },
+  "SNPS": {
+   "sector": "Information Technology",
+   "filing_date": "2025-12-22",
+   "n_added": 29,
+   "n_substantive": 21,
+   "n_new": 12
+  },
+  "SO": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-19",
+   "n_added": 28,
+   "n_substantive": 22,
+   "n_new": 11
+  },
+  "SOLV": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 2,
+   "n_new": 2
+  },
+  "SPG": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-25",
+   "n_added": 8,
+   "n_substantive": 3,
+   "n_new": 2
+  },
+  "SPGI": {
+   "sector": "Financials",
+   "filing_date": "2026-02-11",
+   "n_added": 40,
+   "n_substantive": 17,
+   "n_new": 13
+  },
+  "SRE": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 22,
+   "n_new": 9
+  },
+  "STE": {
+   "sector": "Health Care",
+   "filing_date": "2026-05-29",
+   "n_added": 40,
+   "n_substantive": 23,
+   "n_new": 9
+  },
+  "STLD": {
+   "sector": "Materials",
+   "filing_date": "2026-02-27",
+   "n_added": 11,
+   "n_substantive": 6,
+   "n_new": 3
+  },
+  "STT": {
+   "sector": "Financials",
+   "filing_date": "2026-02-19",
+   "n_added": 33,
+   "n_substantive": 19,
+   "n_new": 8
+  },
+  "STX": {
+   "sector": "Information Technology",
+   "filing_date": "2025-08-01",
+   "n_added": 40,
+   "n_substantive": 6,
+   "n_new": 3
+  },
+  "STZ": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-04-22",
+   "n_added": 21,
+   "n_substantive": 16,
+   "n_new": 6
+  },
+  "SW": {
+   "sector": "Materials",
+   "filing_date": "2026-02-27",
+   "n_added": 33,
+   "n_substantive": 15,
+   "n_new": 6
+  },
+  "SWK": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 14,
+   "n_new": 6
+  },
+  "SWKS": {
+   "sector": "Information Technology",
+   "filing_date": "2025-11-07",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 28
+  },
+  "SYF": {
+   "sector": "Financials",
+   "filing_date": "2018-02-22",
+   "n_added": 40,
+   "n_substantive": 12,
+   "n_new": 8
+  },
+  "SYK": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-11",
+   "n_added": 22,
+   "n_substantive": 16,
+   "n_new": 6
+  },
+  "SYY": {
+   "sector": "Consumer Staples",
+   "filing_date": "2025-08-22",
+   "n_added": 13,
+   "n_substantive": 8,
+   "n_new": 4
+  },
+  "T": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-09",
+   "n_added": 9,
+   "n_substantive": 5,
+   "n_new": 3
+  },
+  "TAP": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 20,
+   "n_new": 8
+  },
+  "TDG": {
+   "sector": "Industrials",
+   "filing_date": "2025-11-12",
+   "n_added": 6,
+   "n_substantive": 5,
+   "n_new": 2
+  },
+  "TDY": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-20",
+   "n_added": 26,
+   "n_substantive": 22,
+   "n_new": 13
+  },
+  "TECH": {
+   "sector": "Health Care",
+   "filing_date": "2025-08-22",
+   "n_added": 16,
+   "n_substantive": 13,
+   "n_new": 2
+  },
+  "TEL": {
+   "sector": "Information Technology",
+   "filing_date": "2025-11-10",
+   "n_added": 22,
+   "n_substantive": 6,
+   "n_new": 2
+  },
+  "TER": {
+   "sector": "Information Technology",
+   "filing_date": "2023-02-22",
+   "n_added": 39,
+   "n_substantive": 17,
+   "n_new": 5
+  },
+  "TFC": {
+   "sector": "Financials",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 4,
+   "n_new": 1
+  },
+  "TGT": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-03-11",
+   "n_added": 37,
+   "n_substantive": 29,
+   "n_new": 12
+  },
+  "TJX": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-31",
+   "n_added": 15,
+   "n_substantive": 12,
+   "n_new": 7
+  },
+  "TMO": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-26",
+   "n_added": 9,
+   "n_substantive": 5,
+   "n_new": 5
+  },
+  "TMUS": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-11",
+   "n_added": 37,
+   "n_substantive": 28,
+   "n_new": 12
+  },
+  "TPL": {
+   "sector": "Energy",
+   "filing_date": "2026-02-18",
+   "n_added": 40,
+   "n_substantive": 39,
+   "n_new": 10
+  },
+  "TPR": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2025-08-14",
+   "n_added": 37,
+   "n_substantive": 31,
+   "n_new": 11
+  },
+  "TRGP": {
+   "sector": "Energy",
+   "filing_date": "2022-02-24",
+   "n_added": 40,
+   "n_substantive": 7,
+   "n_new": 2
+  },
+  "TRMB": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-25",
+   "n_added": 34,
+   "n_substantive": 23,
+   "n_new": 11
+  },
+  "TROW": {
+   "sector": "Financials",
+   "filing_date": "2026-02-13",
+   "n_added": 14,
+   "n_substantive": 12,
+   "n_new": 7
+  },
+  "TRV": {
+   "sector": "Financials",
+   "filing_date": "2026-02-12",
+   "n_added": 12,
+   "n_substantive": 6,
+   "n_new": 5
+  },
+  "TSCO": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-19",
+   "n_added": 13,
+   "n_substantive": 9,
+   "n_new": 6
+  },
+  "TSLA": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-01-29",
+   "n_added": 40,
+   "n_substantive": 30,
+   "n_new": 14
+  },
+  "TSN": {
+   "sector": "Consumer Staples",
+   "filing_date": "2025-11-10",
+   "n_added": 5,
+   "n_substantive": 5,
+   "n_new": 2
+  },
+  "TT": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-05",
+   "n_added": 32,
+   "n_substantive": 16,
+   "n_new": 5
+  },
+  "TTD": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 1,
+   "n_new": 1
+  },
+  "TTWO": {
+   "sector": "Communication Services",
+   "filing_date": "2026-05-22",
+   "n_added": 40,
+   "n_substantive": 33,
+   "n_new": 16
+  },
+  "TXN": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-06",
+   "n_added": 4,
+   "n_substantive": 3,
+   "n_new": 2
+  },
+  "TXT": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-11",
+   "n_added": 29,
+   "n_substantive": 15,
+   "n_new": 9
+  },
+  "TYL": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-18",
+   "n_added": 5,
+   "n_substantive": 2,
+   "n_new": 1
+  },
+  "UAL": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 4,
+   "n_new": 2
+  },
+  "UBER": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-13",
+   "n_added": 20,
+   "n_substantive": 13,
+   "n_new": 6
+  },
+  "UDR": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-17",
+   "n_added": 40,
+   "n_substantive": 6,
+   "n_new": 5
+  },
+  "UHS": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 22,
+   "n_new": 6
+  },
+  "ULTA": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-26",
+   "n_added": 40,
+   "n_substantive": 10,
+   "n_new": 3
+  },
+  "UNH": {
+   "sector": "Health Care",
+   "filing_date": "2026-03-02",
+   "n_added": 11,
+   "n_substantive": 9,
+   "n_new": 5
+  },
+  "UNP": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-06",
+   "n_added": 40,
+   "n_substantive": 36,
+   "n_new": 11
+  },
+  "UPS": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-17",
+   "n_added": 38,
+   "n_substantive": 14,
+   "n_new": 7
+  },
+  "URI": {
+   "sector": "Industrials",
+   "filing_date": "2026-01-28",
+   "n_added": 22,
+   "n_substantive": 9,
+   "n_new": 6
+  },
+  "V": {
+   "sector": "Financials",
+   "filing_date": "2025-11-06",
+   "n_added": 40,
+   "n_substantive": 33,
+   "n_new": 14
+  },
+  "VEEV": {
+   "sector": "Health Care",
+   "filing_date": "2026-03-20",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 17
+  },
+  "VICI": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 16,
+   "n_new": 7
+  },
+  "VLO": {
+   "sector": "Energy",
+   "filing_date": "2026-02-25",
+   "n_added": 40,
+   "n_substantive": 20,
+   "n_new": 11
+  },
+  "VLTO": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-20",
+   "n_added": 23,
+   "n_substantive": 21,
+   "n_new": 4
+  },
+  "VMC": {
+   "sector": "Materials",
+   "filing_date": "2026-02-19",
+   "n_added": 3,
+   "n_substantive": 1,
+   "n_new": 1
+  },
+  "VRSK": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-18",
+   "n_added": 2,
+   "n_substantive": 2,
+   "n_new": 2
+  },
+  "VRSN": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-05",
+   "n_added": 29,
+   "n_substantive": 17,
+   "n_new": 13
+  },
+  "VRT": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 8,
+   "n_new": 3
+  },
+  "VRTX": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-13",
+   "n_added": 40,
+   "n_substantive": 14,
+   "n_new": 8
+  },
+  "VST": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 13,
+   "n_new": 3
+  },
+  "VTR": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-06",
+   "n_added": 40,
+   "n_substantive": 28,
+   "n_new": 7
+  },
+  "VTRS": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 25,
+   "n_new": 9
+  },
+  "VZ": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-17",
+   "n_added": 33,
+   "n_substantive": 18,
+   "n_new": 7
+  },
+  "WAB": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-13",
+   "n_added": 9,
+   "n_substantive": 8,
+   "n_new": 4
+  },
+  "WAT": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-23",
+   "n_added": 40,
+   "n_substantive": 36,
+   "n_new": 9
+  },
+  "WBD": {
+   "sector": "Communication Services",
+   "filing_date": "2026-02-27",
+   "n_added": 40,
+   "n_substantive": 37,
+   "n_new": 28
+  },
+  "WDAY": {
+   "sector": "Information Technology",
+   "filing_date": "2026-03-06",
+   "n_added": 40,
+   "n_substantive": 33,
+   "n_new": 12
+  },
+  "WDC": {
+   "sector": "Information Technology",
+   "filing_date": "2025-08-14",
+   "n_added": 40,
+   "n_substantive": 34,
+   "n_new": 12
+  },
+  "WEC": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-20",
+   "n_added": 40,
+   "n_substantive": 29,
+   "n_new": 9
+  },
+  "WELL": {
+   "sector": "Real Estate",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 21,
+   "n_new": 7
+  },
+  "WM": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-09",
+   "n_added": 40,
+   "n_substantive": 20,
+   "n_new": 9
+  },
+  "WMB": {
+   "sector": "Energy",
+   "filing_date": "2026-02-24",
+   "n_added": 40,
+   "n_substantive": 17,
+   "n_new": 6
+  },
+  "WMT": {
+   "sector": "Consumer Staples",
+   "filing_date": "2026-03-13",
+   "n_added": 40,
+   "n_substantive": 3,
+   "n_new": 1
+  },
+  "WRB": {
+   "sector": "Financials",
+   "filing_date": "2026-02-27",
+   "n_added": 39,
+   "n_substantive": 34,
+   "n_new": 7
+  },
+  "WSM": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-26",
+   "n_added": 36,
+   "n_substantive": 23,
+   "n_new": 11
+  },
+  "WST": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-17",
+   "n_added": 22,
+   "n_substantive": 16,
+   "n_new": 7
+  },
+  "WTW": {
+   "sector": "Financials",
+   "filing_date": "2021-02-23",
+   "n_added": 40,
+   "n_substantive": 32,
+   "n_new": 6
+  },
+  "WYNN": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-03-02",
+   "n_added": 8,
+   "n_substantive": 6,
+   "n_new": 5
+  },
+  "XEL": {
+   "sector": "Utilities",
+   "filing_date": "2026-02-25",
+   "n_added": 15,
+   "n_substantive": 13,
+   "n_new": 9
+  },
+  "XOM": {
+   "sector": "Energy",
+   "filing_date": "2026-02-18",
+   "n_added": 9,
+   "n_substantive": 4,
+   "n_new": 2
+  },
+  "XYL": {
+   "sector": "Industrials",
+   "filing_date": "2026-02-25",
+   "n_added": 34,
+   "n_substantive": 23,
+   "n_new": 10
+  },
+  "XYZ": {
+   "sector": "Financials",
+   "filing_date": "2026-02-26",
+   "n_added": 40,
+   "n_substantive": 34,
+   "n_new": 19
+  },
+  "YUM": {
+   "sector": "Consumer Discretionary",
+   "filing_date": "2026-02-20",
+   "n_added": 23,
+   "n_substantive": 15,
+   "n_new": 6
+  },
+  "ZBH": {
+   "sector": "Health Care",
+   "filing_date": "2022-02-25",
+   "n_added": 37,
+   "n_substantive": 30,
+   "n_new": 16
+  },
+  "ZBRA": {
+   "sector": "Information Technology",
+   "filing_date": "2026-02-12",
+   "n_added": 12,
+   "n_substantive": 10,
+   "n_new": 7
+  },
+  "ZTS": {
+   "sector": "Health Care",
+   "filing_date": "2026-02-12",
+   "n_added": 40,
+   "n_substantive": 28,
+   "n_new": 5
+  }
+ }
+}

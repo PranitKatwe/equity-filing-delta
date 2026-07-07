@@ -1,0 +1,218 @@
+{
+ "ticker": "DVA",
+ "sector": "Health Care",
+ "filing_date": "2026-02-11",
+ "accession": "0000927066-26-000012",
+ "prior_accession": "0000927066-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 27,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 21,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 13
+ },
+ "items": [
+  {
+   "text": "Risks Related to External Conditions Global health conditions, changing population or demographic trends, severe weather events or natural disasters and general economic and political conditions, all of which are highly uncertain and difficult to predict, could have a material adverse impact on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory header sentence restating generic risk framing about external conditions, no new specific risk content."
+  },
+  {
+   "text": "We continue to be impacted by external conditions, including, but not limited to, those related to general economic, political and global health conditions, changing population or demographic trends and severe weather events or natural disasters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic restatement that the company continues to be impacted by previously described external conditions."
+  },
+  {
+   "text": "These conditions can impact our business in a variety of ways, including, among other things, by affecting our patient census, treatment volumes and operating and other costs as further set forth below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that conditions can impact the business in various ways, without new specifics."
+  },
+  {
+   "text": "These conditions are generally outside of our control and none of which we can reasonably predict and are interrelated or have interdependent complex consequences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about conditions being unpredictable and outside company control."
+  },
+  {
+   "text": "We continue to invest in initiatives designed to help mitigate cost and volume pressures that may develop, including as a result of these external conditions or developments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mitigation statement about investing in cost/volume initiatives, no new risk detail."
+  },
+  {
+   "text": "Global health conditions and changing population or demographic trends Global health conditions may adversely impact our patient census and treatment volumes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates existing risk that health conditions affect patient census and treatment volumes, functioning as a section intro."
+  },
+  {
+   "text": "For example, severe flu seasons and the ongoing incidence of other infectious diseases such as COVID-19 in recent years have driven elevated mortality in our patient population, which has in turn had a negative impact on treatment volume.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific historical detail (flu seasons, COVID-19) supporting the existing mortality/volume risk."
+  },
+  {
+   "text": "The negative perception of vaccinations in the U.S. has exacerbated these risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific factor\u2014negative vaccination perception\u2014exacerbating health-related risks, not previously mentioned."
+  },
+  {
+   "text": "To the extent that these and other global health conditions such as any future severe flu seasons, global health crises, pandemics or epidemics drive sustained elevated mortality levels in the overall ESKD or CKD populations, we may experience adverse impacts on our new-to-dialysis admission rates, treatment volumes, 24 future revenues and non-acquired growth, among other things.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on existing mortality/volume risk tied to global health conditions."
+  },
+  {
+   "text": "Other trends in health conditions and changing population or demographic trends may also impact overall ESKD growth rates and our associated treatment volumes, including, among others, the growth and aging of the U.S. population, changing U.S. immigration levels, the availability of transplant opportunities, incidence rates for diseases that cause kidney failure such as diabetes and hypertension, or growth rates of minority populations with higher-than-average incidence rates of ESKD.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds demographic and disease-related factors influencing existing ESKD growth risk."
+  },
+  {
+   "text": "Severe weather events or natural disasters Severe weather events or natural or other disasters such as hurricanes, earthquakes, fires or flooding that damage, destroy or limit access to our facilities or impact our key suppliers or service providers could adversely impact our operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and elaborates existing severe weather/natural disaster risk with more description."
+  },
+  {
+   "text": "In the past, such severe weather events or natural disasters impacting us or our suppliers have adversely impacted our patient census and treatment volumes and led to increased costs including, among other things, supply costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides historical evidence of past impact from weather events, expanding an existing risk with specifics."
+  },
+  {
+   "text": "If we experience such events or natural disasters in the future, we may face similar or greater risks, including among other things, potential limitations on our ability to admit new patients or provide dialysis treatments or clinical laboratory services, or potential threats to the safety of our teammates or patients at any of those locations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on potential future impacts of weather events, including safety threats, building on existing risk."
+  },
+  {
+   "text": "Such events may also require substantial expenditures and recovery time or could lead us to face other adverse consequences, including, without limitation, the potential loss of data, including protected health information (PHI) or personally identifiable information (PII), or subject us to compliance or regulatory investigations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific consequence\u2014loss of protected health/personal data and regulatory investigations\u2014linked to disaster events, not previously described."
+  },
+  {
+   "text": "Severe weather events or natural disasters could also strain global supply chains to the extent such events result in equipment and clinical supply shortages, disruptions, delays or associated price increases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds supply chain strain as a consequence of weather events, expanding existing risk scope."
+  },
+  {
+   "text": "Because we are a nationwide provider, certain of our facilities, clinics or key suppliers are in areas that may be more susceptible to such effects and risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on geographic exposure to weather risk, a natural extension of existing risk."
+  },
+  {
+   "text": "These increased costs may include, without limitation, costs for energy, supplies of water, or pharmaceuticals or other supplies necessary to the operations of our clinics.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies types of increased costs (energy, water, pharmaceuticals) tied to existing weather-related cost risk."
+  },
+  {
+   "text": "General economic conditions Certain economic conditions, including, among others, geopolitical and global economic volatility and instability, inflationary conditions and interest rate volatility, fluctuations in foreign currency exchange rates or regulatory requirements, trade disputes, labor supply shortages and other challenging labor market conditions have continued to put pressure on our existing cost structure, including among other things, staffing, labor and supply costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands existing economic condition risks (inflation, labor, currency) affecting cost structure."
+  },
+  {
+   "text": "We expect that certain of those increased costs will persist in the near term as inflationary and supply chain pressures and challenging labor market conditions continue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of persistent cost pressures from inflation and labor market, an existing risk theme."
+  },
+  {
+   "text": "If these adverse economic conditions persist or remain uncertain for an extended period of time, and associated adverse impacts on our revenues and financial results may be material and may in turn lead us to incur future charges to recognize impairment in the carrying amount of our goodwill and other intangible assets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk\u2014potential goodwill and intangible asset impairment charges\u2014not previously mentioned."
+  },
+  {
+   "text": "25 Political conditions Political conditions may create additional risk and further intensify the impacts described above, including, among other things, global conflicts, as well as the changing U.S. political conditions that have driven changes in trade, tariff, monetary, healthcare, immigration and other policies by governmental authorities in the United States and across the globe.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing political risk discussion to include global conflicts and broader policy changes."
+  },
+  {
+   "text": "Such changes may require us to shift strategic priorities and initiatives to successfully compete.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about needing to adapt strategy, no specific new risk."
+  },
+  {
+   "text": "As an example, while the ACA and subsequent COVID-era legislation, including the enhanced premium tax credits offered for ACA exchange enrollment, resulted in an increasing number of patients with health insurance, recent 26 legislative and executive action such as the One Big Beautiful Bill Act (OBBBA) or the decision to let those enhanced premium tax credits expire at the end of 2025 may ultimately decrease the number of patients with access to health insurance, including Medicare and Medicaid.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legislative developments (OBBBA, expiration of enhanced premium tax credits) that could reduce insurance access\u2014concrete new risk."
+  },
+  {
+   "text": "Similar uncertainty surrounds government pilot programs and innovative payment models, healthcare reform measures and/or other changes or extensions to laws, regulations and other requirements at the federal and/or state level that govern our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing regulatory uncertainty risk regarding payment models and healthcare reform."
+  },
+  {
+   "text": "We have invested significant resources to adapt to any such changes or developments in the healthcare marketplace, and subsequent modifications, terminations or other developments may require additional investment or result in losses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about past investment to adapt to regulatory changes, no new specifics."
+  },
+  {
+   "text": "More broadly, changes to the overall business and regulatory landscape, including, for example, changes related to the antitrust and competitive environment, also may require us to evaluate and adapt our operations or otherwise impact our business and ability to grow through acquisitions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding antitrust/competitive landscape affecting ability to grow through acquisitions."
+  },
+  {
+   "text": "For example, there have been several state initiatives to limit payments to dialysis providers, impose other burdensome operational requirements or prescribe wage levels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific example of state initiatives limiting payments, expanding existing regulatory risk."
+  },
+  {
+   "text": "For additional information, see Part I Item 1.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a risk statement."
+  },
+  {
+   "text": "We operate in a highly regulated industry, including, among other things, through our participation in government-sponsored healthcare programs and as a government contractor.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about operating in a regulated industry, standard boilerplate."
+  },
+  {
+   "text": "Commercial insurance is generally available through direct insurance coverage, employer health plans or through the ACA exchanges.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about how commercial insurance is generally obtained, not a risk itself."
+  },
+  {
+   "text": "As a result, the availability and affordability of such insurance, and accordingly the number of patients with commercial insurance, is affected by changes in the economic and political landscape that may affect employment status, the ability of employer health plans to offer commercial insurance and to avoid offering commercial insurance, and changes to laws, rules and regulations that impact the healthcare marketplace, including, among other things, the ACA exchanges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on how economic/political changes affect commercial insurance availability, building on existing risk."
+  },
+  {
+   "text": "If AB 290 or similar bills are introduced and implemented in other jurisdictions or if CMS or another regulatory agency or legislative authority issues new rules or guidance that challenges or restricts charitable premium assistance, organizations that provide charitable premium assistance may choose to withdraw from such jurisdictions, which may make it difficult for patients to obtain, or continue to receive, or receive for a limited duration, such financial assistance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk tied to AB 290 and charitable premium assistance restrictions, a concrete new development."
+  },
+  {
+   "text": "In turn, this may limit the ability of patients to obtain and maintain optimal insurance coverage, which could ultimately lead to a reduction in the number of our patients covered under commercial insurance plans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequence of reduced insurance coverage, extending existing risk about commercial insurance base."
+  },
+  {
+   "text": "Our negotiations with private payors may relate to commercial fee-for-service contracts, value-based care (VBC) contracts and MA agreements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about types of payor negotiations, not itself a new risk."
+  },
+  {
+   "text": "We have in the past, and we currently are, renegotiating many significant agreements with large private payors at the same time, which further increases this risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about concurrent renegotiation of major payor contracts, expanding concentration risk."
+  },
+  {
+   "text": "Our negotiations with payors and the related affordability and accessibility of health plan coverage for our patients occurs in a highly competitive, dynamic and complicated environment that is influenced by numerous factors, including, among other things, increasing consolidation amongst commercial payors, new business activities of commercial payors that may overlap or impact with the provider space, legislative or regulatory changes such as recent price transparency regulations, as well as general conditions in the political and economic environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing payor negotiation risk with new contextual factors like consolidation and price transparency rules."
+  },
+  {
+   "text": "As a result, we cannot predict the ultimate result of our negotiations with payors or any future changes to patient benefits by group health plans or health insurance issuers in the group 28 and individual markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unpredictability of negotiation outcomes."
+  },
+  {
+   "text": "These negotiations may therefore result in decreases in contracted rates, may result in termination or non-renewals of existing agreements, or may adversely impact the scope and duration of coverage and in-network benefits available to our patients, among other things.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential negative outcomes of payor negotiations, expanding existing contract risk."
+  },
+  {
+   "text": "If we fail to maintain contracts with payors and other healthcare providers with competitive or favorable terms, this may in turn lead to reductions in the number of our patients that are covered by commercial plans.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates existing risk about maintaining favorable payor contracts without new specifics."
+  },
+  {
+   "text": "Plan Design and CPA We also negotiate or are subject to provisions related to reimbursement for the scope of services that we provide, including relative to products on and off the healthcare exchanges, among other things.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces new subheading but content reiterates existing negotiation/reimbursement risk without new substantive detail."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "AXP",
+ "sector": "Financials",
+ "filing_date": "2026-02-06",
+ "accession": "0000004962-26-000080",
+ "prior_accession": "0000004962-25-000016",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "We are a multinational company that derives a substantial portion of its revenues from activities outside of the United States and many of our U.S. customers have an international presence or are otherwise affected by global developments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being a multinational company; standard framing language."
+  },
+  {
+   "text": "Accordingly, events that impact international relations and geopolitical stability may have a significant impact on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about geopolitical impact without specific new risk detail."
+  },
+  {
+   "text": "For example, several countries have implemented and are considering the further implementation of tariffs, trade barriers or restrictions and other retaliatory international or domestic policies, as well as other measures affecting cross-border commerce, migration and the flow of information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of tariffs and trade barriers affecting cross-border commerce."
+  },
+  {
+   "text": "These actions have had and may likely continue to have broad consequences for the global economy and regional and country economies, as well as impacts to global supply chains and negative effects on our customers and partners, which may adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of the tariff/trade risk just introduced."
+  },
+  {
+   "text": "Such conflicts have led to economic uncertainty and market disruptions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about conflicts causing economic uncertainty, no specifics."
+  },
+  {
+   "text": "For example, as a result of the Russian invasion of Ukraine, we exited our business operations in Russia and Belarus.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific factual disclosure about exiting Russia and Belarus operations."
+  },
+  {
+   "text": "Competitors may also use AI technologies more effectively than us or partner with companies that do so, which may increase the attractiveness and availability of their products and services and allow them to offer greater value propositions and realize greater operational efficiencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific competitive risk from AI-enabled competitors."
+  },
+  {
+   "text": "The payments industry is complex and continues to undergo changes in response to evolving technologies and customer preferences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about industry evolution, no specific risk."
+  },
+  {
+   "text": "Regulatory and legislative changes may also significantly alter the competitive landscape, including by facilitating alternative payment or financing mechanisms, such as recent legislation in the U.S. establishing a regulatory framework for stablecoins, or by imposing constraints on payment or financing mechanisms, such as proposals to cap credit card interest rates.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new regulatory developments like stablecoin legislation and interest rate cap proposals."
+  },
+  {
+   "text": "As AI technologies are increasingly integrated into payments and related services, such as through the adoption of agentic commerce, these dynamics may accelerate and new dynamics that are difficult to predict may develop, any of which may disadvantage our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends AI risk discussion to agentic commerce dynamics."
+  },
+  {
+   "text": "For example, banking regulators are increasingly open to issuing limited-purpose licenses to allow companies to conduct certain banking activities under more limited regulatory requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new regulatory development regarding limited-purpose banking licenses."
+  },
+  {
+   "text": "Other aspects of our customer value propositions also increasingly rely on our ability to co-create and co-fund value with partners, such as statement credits for purchases with partners and travel and dining benefits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about partner co-funding, not a new specific risk."
+  },
+  {
+   "text": "We also may not renew certain relationships, such as our Amazon and Lowe\u2019s small business cobrand portfolios, which, as previously disclosed, have been reclassified to held for sale on our Consolidated Balance Sheets.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific disclosure of Amazon and Lowe's cobrand portfolios being reclassified as held for sale."
+  },
+  {
+   "text": "We generally do not prohibit surcharging in our agreements with merchants so long as it is permitted by law and a merchant does not discriminate against American Express cards by engaging in differential surcharging.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific policy on surcharging that could affect business/merchant relations."
+  },
+  {
+   "text": "We have also introduced complementary products, such as travel and dining platforms, checking accounts, debit cards and expense management tools.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about product introductions, not a specific new risk."
+  },
+  {
+   "text": "As the payments industry continues to evolve, we may expand our product and service offerings, which could include offering new payment mechanisms or additional complementary products, or shift the focus of our investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about business evolution."
+  },
+  {
+   "text": "We may also add customer acquisition channels and form new partnerships or renew current partnerships.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about partnerships, no specific risk."
+  },
+  {
+   "text": "The use of AI & ML technologies, including generative AI and agentic commerce, has increased rapidly and may be transformative to the payments industry, heightening the risks described herein and others in ways that may be unpredictable and disadvantageous to us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing AI risk discussion to include agentic commerce and unpredictability."
+  },
+  {
+   "text": "Our and our partners\u2019 use of AI & ML is subject to various and evolving risks, including flaws in models or datasets that may result in biased or inaccurate results, especially as generative AI has been known to produce false or \u201challucinatory\u201d inferences or outputs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific technical AI risks like model bias and hallucinations."
+  },
+  {
+   "text": "The use of AI may also result in unintended or unexpected outcomes, present significant ethical challenges and heighten risks related to information security, the infringement of intellectual property rights and exposure of proprietary or personal information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on AI risk consequences already being introduced."
+  },
+  {
+   "text": "We may also face challenges in our ability to safely deploy AI systems and implement appropriate governance and controls, which may not be as burdensome to our competitors, and which may impair our implementation or impose additional risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration of AI deployment/governance risk."
+  },
+  {
+   "text": "For example, legal claims have arisen relating to the structure and consideration paid in certain of our acquisitions.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific disclosure of legal claims related to acquisition structuring."
+  },
+  {
+   "text": "We consider operational risk as the risk to our current or projected financial condition and resilience arising from inadequate or failed processes, human error or adverse external events.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional statement about operational risk, not a new specific risk."
+  },
+  {
+   "text": "For example, as previously disclosed, we have identified issues related to our rewards and benefits programs and have taken actions to remediate the issues and enhance our related procedures and controls.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific disclosure of issues in rewards and benefits programs requiring remediation."
+  },
+  {
+   "text": "Although we maintain systems and controls to help mitigate conduct risk, they may not be effective, and misconduct by one or more colleagues or partners, particularly those with access to key systems or information, could have wide-reaching consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on conduct risk with specifics about misconduct consequences."
+  },
+  {
+   "text": "In addition, new computing technologies, such as quantum computing, may enable threat actors to compromise data encryption and other protective measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk from quantum computing threatening encryption."
+  },
+  {
+   "text": "In addition, our own usage of generative AI and other emerging technologies may increase our vulnerabilities or limit our ability to detect intrusion.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends cybersecurity risk to include company's own AI usage vulnerabilities."
+  },
+  {
+   "text": "Fraudulent activity associated with our products and services could have a material adverse effect on our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about fraud risk impact, standard framing."
+  },
+  {
+   "text": "We face risks from fraudulent activity associated with Card Members, merchants and others, including through bad actors obtaining access to our customer accounts and information and frauds committed by our customers against us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General fraud risk description without new specifics."
+  },
+  {
+   "text": "Large financial services firms such as American Express and our customers are regularly targeted by a range of fraudulent activity, including fraud on our card and banking products, false disputes, account takeovers, identity theft and electronic-transaction related crimes, with sophisticated perpetrators increasingly utilizing a range of advanced techniques and multiple parties acting in concert.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details evolving fraud techniques, expanding existing fraud risk discussion."
+  },
+  {
+   "text": "New or emerging technologies, such as generative AI capabilities, have increased these fraud risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects new technologies to increased fraud risk, building on existing fraud risk."
+  },
+  {
+   "text": "For example, we have seen our customers targeted by elaborate and voluminous social engineering attacks, which may utilize advanced methods of deception, such as synthetic voice and conversation generation.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk detail about synthetic voice/social engineering attacks."
+  },
+  {
+   "text": "Information and cybersecurity breaches and other operational incidents that we or third parties experience also increase our fraud risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Links cybersecurity breaches to fraud risk, expanding existing risk factors."
+  },
+  {
+   "text": "Additionally, our introduction of new products and services, expansion into new jurisdictions or usage of new partners or vendors may create new fraud risks or heighten existing risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about new products/partners creating fraud risk, generic."
+  },
+  {
+   "text": "While we have policies and procedures designed to address fraud risks, such as customer authentication controls and fraud detection systems, they may be insufficient to accurately predict, prevent or detect fraud.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about policy limitations in fraud prevention."
+  },
+  {
+   "text": "Increased fraudulent activity associated with our products and services could materially adversely affect our financial condition and results of operations, including as a result of credit losses and other expenses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about financial impact of fraud, standard boilerplate."
+  },
+  {
+   "text": "Furthermore, fraudulent activity could harm our brand and reputation, negatively impact the use or acceptance of our products and services and lead to regulatory intervention or other actions (such as mandatory card reissuance).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reputational harm from fraud."
+  },
+  {
+   "text": "Political developments, including those relating to recent shifts in trade policy and heightened geopolitical tensions, have resulted in and may further result in an increase in the number, complexity and scope of laws and regulations, heightened legislative and regulatory uncertainty, changes to supervisory and enforcement priorities, and increased risk of fragmentation in global financial regulation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory/geopolitical risk trends affecting global financial regulation."
+  },
+  {
+   "text": "This focus has included fees, interest rates and rewards associated with card and banking products, such as recent proposals to cap credit card interest rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific example (interest rate caps) expanding on regulatory focus already noted."
+  },
+  {
+   "text": "In addition, government agencies are reviewing financial institutions\u2019 policies and practices for providing, maintaining or discontinuing financial products or services to certain clients or potential clients.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new regulatory scrutiny on financial institutions' client service practices."
+  }
+ ]
+}

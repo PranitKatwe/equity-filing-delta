@@ -1,0 +1,218 @@
+{
+ "ticker": "EQT",
+ "sector": "Energy",
+ "filing_date": "2026-02-18",
+ "accession": "0000033213-26-000018",
+ "prior_accession": "0000033213-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 24
+ },
+ "items": [
+  {
+   "text": "MVP Joint Venture The MVP Joint Venture is a Delaware series limited liability company formed as a joint venture for the purpose of constructing and owning natural gas assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely descriptive corporate structure information about the MVP Joint Venture, not a risk statement."
+  },
+  {
+   "text": "The MVP Joint Venture has three series, as follows: Series A (MVP A), which owns MVP Mainline; Series B (MVP B), which owns the MVP Southgate project; and Series C (MVP C), which owns certain assets associated with the MVP Boost project.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ownership structure of joint venture series, informational not risk-related."
+  },
+  {
+   "text": "Pending receipt of remaining regulatory approvals, MVP Southgate is expected to be placed into service by mid-2028.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific projected in-service date, adding detail to existing project timing/regulatory risk."
+  },
+  {
+   "text": "We own an equity method investment in MVP C, which was formed on November 1, 2025 for the purpose of constructing and owning certain assets associated with the MVP Boost project, a contemplated project to add compression to MVP Mainline, which is projected to increase the capacity on MVP Mainline by 0.6 Bcf per day (MVP Boost).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific project (MVP Boost) and associated equity investment, a new capital commitment and construction/regulatory risk not previously disclosed."
+  },
+  {
+   "text": "As designed, MVP Boost would add compression at three existing compressor stations in West Virginia and construct a new compressor station in Virginia.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical description of the MVP Boost design, informational detail rather than a risk statement."
+  },
+  {
+   "text": "18 Table of Contents On October 23, 2025, the MVP Joint Venture applied to the FERC for authorization to construct MVP Boost.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual regulatory filing step (FERC application) without adding new risk substance."
+  },
+  {
+   "text": "Pending receipt of regulatory approvals, MVP Boost is expected to be placed into service by mid-2028.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific expected in-service date for a new project, expanding schedule/regulatory risk detail."
+  },
+  {
+   "text": "MVP Boost is estimated to have a total cost of approximately $400 million to $540 million, excluding AFUDC, of which we will fund our proportionate share through capital contributions to MVP C.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific large capital cost estimate ($400-540 million) for a new project, a new material financial exposure."
+  },
+  {
+   "text": "Although compliance with such laws, rules and regulations increases our capital expenditures and adversely affects our earnings, we believe such regulatory obligations generally do not affect us differently, or to any materially greater or lesser extent, than they affect others in our industry with similar operations and types, quantities and locations of production.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic compliance cost/competitive parity language, standard boilerplate."
+  },
+  {
+   "text": "In September 2025, the FERC terminated the Updated Certificate Policy Statement proceeding.",
+   "category": "reworded_same_meaning",
+   "rationale": "States a factual regulatory procedural update without adding new substantive risk."
+  },
+  {
+   "text": "Court of Appeals for the District of Columbia Circuit (the D.C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing a court, purely administrative/legal citation."
+  },
+  {
+   "text": "In November 2025, the FERC declined to readopt the lower rate established by the January 2022 order on rehearing and withdrew its October 2024 supplemental notice of proposed rulemaking, effectively setting the five-year index level for 2021 through 2026 at the level initially established in 2021.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a specific FERC rate decision affecting the company's existing rate risk, adding concrete regulatory detail."
+  },
+  {
+   "text": "In November 2025, the FERC also issued a notice of proposed rulemaking for the five-year index level for 2026-2031.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes a procedural regulatory step (NOPR) without new substantive risk detail."
+  },
+  {
+   "text": "Although compliance with environmental, safety and health laws and regulations increases our capital expenditures and adversely affects our earnings, we believe such regulatory obligations generally do not affect us differently, or to any materially greater or lesser extent, than they affect others in our industry with similar operations and types, quantities and locations of production.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Repeats generic compliance cost boilerplate language already covered elsewhere."
+  },
+  {
+   "text": "As such, we anticipate that compliance with existing environmental, health and safety regulations will not have a material adverse effect on our competitive position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard reassurance language about compliance not materially affecting competitive position."
+  },
+  {
+   "text": "In November 2025, the EPA and the Corps published a proposed rule that would revise regulations defining WOTUS under the CWA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific regulatory development (WOTUS rule proposal) that expands existing environmental compliance risk."
+  },
+  {
+   "text": "In June 2025, the Corps published a notice of proposed rulemaking to reissue and modify NWPs, which includes modifications to NWP 12.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a procedural rulemaking notice without new substantive risk."
+  },
+  {
+   "text": "In December 2025, the EPA issued a final rule that extends several compliance deadlines in the 2024 New Source Performance Standards and Emissions Guidelines for OOOOb and OOOOc.",
+   "category": "reworded_same_meaning",
+   "rationale": "Notes an EPA rule extending compliance deadlines, a factual update that doesn't add new risk substance."
+  },
+  {
+   "text": "In February 2025, CEQ issued an interim final rule withdrawing the NEPA implementing regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes procedural regulatory action (NEPA rule withdrawal) without new risk detail."
+  },
+  {
+   "text": "Also in February 2025, CEQ issued a memorandum to federal agencies and departments providing guidance to agencies establishing or revising their agency-specific NEPA implementing procedures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes issuance of guidance memorandum, purely procedural."
+  },
+  {
+   "text": "The guidance document was updated and replaced by a subsequent memorandum issued by CEQ in September 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes replacement of prior guidance, procedural update."
+  },
+  {
+   "text": "In May 2025, CEQ also withdrew its January 2023 interim guidance to federal agencies regarding consideration of the effects of GHG emissions and climate change when conducting environmental reviews pursuant to NEPA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes withdrawal of prior guidance, procedural regulatory history."
+  },
+  {
+   "text": "Additionally, in May 2025, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete fragment referencing a legal event, no substantive content."
+  },
+  {
+   "text": "Supreme Court held in Seven County Infrastructure Coalition v.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Case name fragment, purely citation."
+  },
+  {
+   "text": "Eagle County that NEPA is a purely procedural statute affording substantial deference to agencies.",
+   "category": "reworded_same_meaning",
+   "rationale": "Summarizes a court ruling on NEPA procedural deference without adding new specific business risk."
+  },
+  {
+   "text": "Following this decision, in July 2025, a number of federal agencies, including the Department of the Interior, the Department of Transportation, the Corps and the Department of Energy, revised their NEPA implementing regulations and issued interim final rules.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes subsequent agency rule revisions following a court decision, procedural update."
+  },
+  {
+   "text": "However, portions of the IRA were rescinded or modified by the One Big Beautiful Bill Act (the OBBBA) passed in July 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes legislative rollback of IRA provisions affecting existing regulatory/tax risk exposure."
+  },
+  {
+   "text": "In March 2025, a Joint Resolution of Disapproval under the Congressional Review Act disapproved implementing the waste emissions charge, and in July 2025, the OBBBA rescinded unobligated funds from the Methane Emissions Reduction Program and postponed the EPA's imposition of the program's waste emissions charge to calendar year 2034.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific legislative and regulatory actions affecting methane fee timeline, expanding existing regulatory cost risk."
+  },
+  {
+   "text": "27 Table of Contents In May 2024, the EPA finalized revisions to the Greenhouse Gas Reporting Program for petroleum and natural gas systems (Subpart W).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual historical note about a prior EPA rule finalization, background information."
+  },
+  {
+   "text": "However, in September 2025, the EPA proposed to permanently remove program obligations from the Greenhouse Gas Reporting Program for most source categories and suspend program obligations for some sources subject to Subpart W until 2034.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes EPA proposal to reduce reporting obligations, expanding on existing GHG reporting risk with new regulatory development."
+  },
+  {
+   "text": "However, in February 2025, the D.C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes procedural litigation stay, administrative update."
+  },
+  {
+   "text": "Circuit granted the EPA's motion to hold the litigation in abeyance to allow new EPA leadership to review the underlying rule.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of procedural litigation stay description."
+  },
+  {
+   "text": "In June 2025, the EPA issued a proposed rule that would repeal all GHG emissions standards for new and existing fossil fuel-fired power plants, including the May 2024 rule.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes proposed repeal of GHG emissions standards, a significant regulatory development expanding existing climate regulation risk."
+  },
+  {
+   "text": "Additionally, in February 2026, the EPA issued a pre-publication copy of a final rule to rescind the EPA's 2009 finding that GHGs endanger public health and welfare (the Endangerment Finding).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific and significant regulatory action (rescinding the Endangerment Finding) that could fundamentally alter EPA's authority to regulate GHGs, a new material legal/regulatory risk."
+  },
+  {
+   "text": "The Endangerment Finding has been the foundation for regulating GHG emissions, and without the Endangerment Finding, the EPA may assert that it lacks authority under the CAA to prescribe emissions standards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains implications of the Endangerment Finding rescission, expanding on the newly introduced regulatory uncertainty."
+  },
+  {
+   "text": "The potential impact of the final rule, potential subsequent revisions to existing emission standards and outcome of related litigation remain uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of outcomes, cautionary boilerplate."
+  },
+  {
+   "text": "In November 2025, Pennsylvania enacted legislation ending the state's participation in RGGI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes a specific state legislative change (Pennsylvania exiting RGGI) affecting existing climate regulatory risk landscape."
+  },
+  {
+   "text": "These laws are subject to ongoing legal challenges and certain requirements are currently enjoined.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing legal challenges and injunctions, cautionary boilerplate."
+  },
+  {
+   "text": "It is unclear how the litigation process and additional legal developments will impact enforceability of these requirements and the timeline and cost of compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty language about litigation impact, standard cautionary boilerplate."
+  },
+  {
+   "text": "Court of Appeals for the Eighth Circuit granted the BLM an initial 60-day stay of the litigation in February 2025, and the case continues to be held in abeyance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes procedural litigation stay status, administrative update without new substantive risk."
+  }
+ ]
+}

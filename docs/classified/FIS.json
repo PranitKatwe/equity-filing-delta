@@ -1,0 +1,188 @@
+{
+ "ticker": "FIS",
+ "sector": "Financials",
+ "filing_date": "2026-02-24",
+ "accession": "0001136893-26-000013",
+ "prior_accession": "0001136893-25-000014",
+ "model": "claude-sonnet-5",
+ "n_added": 34,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Our information systems are also vulnerable to human error, including employees sending information to inadvertent recipients as well as employees inappropriately using AI tools, as well as malicious insider threats.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new vulnerability vector (employee misuse of AI tools) to information systems that wasn't previously identified."
+  },
+  {
+   "text": "FIS provides a number of systemically critical services, including the settlement of funds for financial institutions, other businesses and consumers and receives funds from clients, card issuers, payment networks and consumers on a daily basis for a variety of transaction types.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about FIS's role in providing settlement services, not itself a risk statement."
+  },
+  {
+   "text": "Transactions facilitated by us include debit card, credit card, electronic bill payment, banking payments and check clearing that support consumers, financial institutions and other businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive listing of transaction types facilitated, contextual background rather than a risk."
+  },
+  {
+   "text": "Attempted or successful targeting of these systems by attackers may result in interruption of services, misuse of account information, or unauthorized transfer of funds.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of cyberattacks already covered under existing security risk disclosures."
+  },
+  {
+   "text": "This environment imposes comprehensive data privacy compliance obligations in relation to our collection and use of data relating to an identifiable living individual or \"personal data,\" including a principle of accountability and the obligation to demonstrate compliance through policies, procedures, training and audit, as well as regulating cross-border transfers of personal data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity to existing data privacy compliance obligations already disclosed as a risk category."
+  },
+  {
+   "text": "Additionally, credit card issuers may reduce credit limits and become more selective in their card issuance practices, which would lower purchase volumes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how credit card issuer behavior could affect purchase volumes, expanding existing consumer credit risk."
+  },
+  {
+   "text": "Portions of FIS' European operations are in scope for regulatory oversight by European Supervisory Agencies (ESAs) as defined by DORA.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory oversight regime (DORA/ESAs) applicable to European operations."
+  },
+  {
+   "text": "FIS' designation as a Critical Third-Party Provider under DORA subjects us to additional and new regulatory oversight processes in the E.U.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific regulatory designation (Critical Third-Party Provider) creating new oversight obligations."
+  },
+  {
+   "text": "These changes could result in increased costs to compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about increased compliance costs without new specifics."
+  },
+  {
+   "text": "Other countries are also developing regulatory frameworks that govern critical third-party providers to the financial services sector, which may result in increased costs of compliance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing regulatory compliance risk to other countries developing similar frameworks."
+  },
+  {
+   "text": "For example, in the U.K., HM Treasury has powers to designate critical third-party providers to the financial services sector, subjecting them to additional regulatory oversight and obligations regarding reporting, incident management and testing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific example (UK HM Treasury) expanding the existing critical third-party regulatory risk."
+  },
+  {
+   "text": "The regulatory environment for crypto assets, stablecoins, and digital currencies is rapidly evolving, with increased oversight from U.S. agencies such as the SEC, CFTC, and FinCEN, as well as global counterparts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk area around evolving crypto/stablecoin regulatory oversight not previously present."
+  },
+  {
+   "text": "Recent developments, including the European Union\u2019s Markets in Crypto-Assets (MiCA) regulation, U.S. legislation such as the GENIUS Act, and other legislative initiatives, signal a trend toward increased oversight, more robust compliance obligations, and a move toward harmonized global standards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples (MiCA, GENIUS Act) expanding on the newly introduced crypto regulatory risk."
+  },
+  {
+   "text": "FIS closely monitors regulatory changes, to ensure any existing or new business models, product offerings, and risk and compliance programs adapt to new regulatory requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring regulatory changes, standard risk mitigation language."
+  },
+  {
+   "text": "Additionally, a breach of applicable data protection laws may result in regulatory investigations, reputational damage, orders to cease or change our data processing activities, enforcement notices, assessment notices (for a compulsory audit) and/or civil claims (including class actions).",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences of data protection breaches, expanding existing privacy risk disclosure."
+  },
+  {
+   "text": "Since we are subject to the supervision 19 Table of Contents of relevant data protection authorities under multiple legal regimes, we could be fined under those regimes independently in respect of the same breach.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about multiple regulatory regimes fining independently, expanding existing data protection risk."
+  },
+  {
+   "text": "BRICS countries are working to reduce their reliance on the U.S. dollar and Western financial infrastructure due to sanctions, wars, and tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new geopolitical/financial infrastructure risk related to BRICS reducing USD reliance."
+  },
+  {
+   "text": "BRICS is an international organization currently comprised of 11 countries, including Brazil, Russia, India, China, South Africa, Saudi Arabia, Egypt, United Arab Emirates, Ethiopia, Indonesia, and Iran.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of BRICS membership, not itself a risk statement."
+  },
+  {
+   "text": "Intelligence sources, along with peer assessments and other observers, suggest that cyber actors from some of the BRICS countries may conduct attacks on payment infrastructure, including third-party fintech services, to undermine trust in the Western financial infrastructure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cyber threat risk from BRICS-affiliated actors targeting payment infrastructure."
+  },
+  {
+   "text": "In addition, use of AI technologies may result in the release of confidential or proprietary information which could limit our ability to protect, or prevent us from protecting, our intellectual property rights.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new IP/confidentiality risk stemming from use of AI technologies."
+  },
+  {
+   "text": "Meanwhile, several U.S. states have adopted AI-specific frameworks or are considering applying existing consumer and data protection laws to regulate AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk from emerging state-level AI-specific legal frameworks."
+  },
+  {
+   "text": "In addition, as we continue to implement our business strategy and transform the organization, cost-control initiatives have resulted in a reduced workforce and reduced capacity in some areas of our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new operational risk from workforce reduction due to cost-control initiatives."
+  },
+  {
+   "text": "As we seek to implement these changes to improve efficiency, adjustments to reduced staffing levels may affect our ability to conduct our operations and other functions effectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on operational impact of the newly disclosed staffing reductions."
+  },
+  {
+   "text": "If we fail to effectively manage these organizational and/or strategic changes, our financial condition, results of operations and reputation, as well as our ability to successfully attract, motivate and retain key employees, could be harmed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates consequences of failing to manage organizational changes, tied to the new workforce risk."
+  },
+  {
+   "text": "On December 15, 2022, the E.U.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing a date and E.U., appears to be incomplete contextual/regulatory reference without substantive content shown."
+  },
+  {
+   "text": "On January 9, 2026, FIS incurred debt of approximately $7.7 billion to finance the cash portion of the Issuer Solutions Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new debt of $7.7 billion incurred to finance a named acquisition, a concrete new financial risk."
+  },
+  {
+   "text": "Accordingly, the indebtedness of FIS and its subsidiaries following completion of the Issuer Solutions Acquisition is substantially greater than FIS' indebtedness prior to completion of the acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly disclosed debt by noting substantially greater indebtedness levels."
+  },
+  {
+   "text": "FIS' substantially increased indebtedness could have the effect, among other things, of reducing FIS' flexibility to respond to changing business and economic conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a specific consequence (reduced flexibility) of the increased indebtedness risk."
+  },
+  {
+   "text": "In addition, the amount of cash required to pay interest on FIS' increased indebtedness levels will increase, and thus the demands on FIS' cash resources will be greater than the amount of cash flows required to service the indebtedness of FIS prior to the acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further quantifies impact of increased indebtedness on cash demands."
+  },
+  {
+   "text": "The increased levels of indebtedness following completion of the acquisition could reduce funds available to engage in investments in product development, fund working capital, capital expenditures, acquisitions and other general corporate purposes, and may create competitive disadvantages for FIS relative to other companies with lower debt levels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details further consequences of increased indebtedness on investment capacity and competitiveness."
+  },
+  {
+   "text": "If FIS does not achieve the expected benefits from the acquisition, then FIS' ability to service its indebtedness, and thereby reduce its leverage levels, may be adversely impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties acquisition risk to ability to service debt, expanding on the indebtedness risk theme."
+  },
+  {
+   "text": "We cannot provide any assurance that we would be able to refinance any series of our Euro-denominated indebtedness on acceptable terms at any such time, all of which could have an adverse financial impact on us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific refinancing risk detail related to existing Euro-denominated debt risk."
+  },
+  {
+   "text": "Interest rates have increased significantly from recent historical levels and may remain elevated for an extended period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides macroeconomic context (elevated interest rates) expanding on existing interest rate risk disclosures."
+  },
+  {
+   "text": "In response to the current interest rate environment, we may need to rebalance our variable debt instruments, potentially increasing our reliance on certain facilities while reducing others.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a specific response action (debt rebalancing) related to existing interest rate risk."
+  }
+ ]
+}

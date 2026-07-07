@@ -1,0 +1,138 @@
+{
+ "ticker": "FOXA",
+ "sector": "Communication Services",
+ "filing_date": "2025-08-06",
+ "accession": "0001628280-25-038077",
+ "prior_accession": "0001628280-24-036123",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "This has caused ratings and viewership declines for television networks, including some of our networks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing cord-cutting/viewership risk by stating it has already caused ratings declines, adding specificity but not a new risk category."
+  },
+  {
+   "text": "Periods of economic weakness also could accelerate industry-wide shifts in advertising expenditures from linear to digital advertising.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to the existing advertising revenue risk by tying economic weakness to accelerated linear-to-digital ad shift."
+  },
+  {
+   "text": "Our ability to generate advertising revenue also depends on demand for our content, the viewers in our targeted demographics, advertising rates, targeting capabilities, results observed by advertisers, the perceived effectiveness of our advertising offerings and alternative advertising options.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of factors affecting advertising revenue, largely standard framing."
+  },
+  {
+   "text": "In addition, factors such as terrorist acts, wars, political uncertainties and hostilities, natural and other disasters and widespread health emergencies can also negatively impact advertising revenues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about macro disruptions affecting advertising revenue."
+  },
+  {
+   "text": "Factors that have affected and could in the future affect economic and financial conditions include actual or perceived uncertainty about economic stability (including taxes and tariffs) and social and political uncertainties and conflicts, changes in consumer confidence, recession, high inflation, declining economic growth, diminished availability of credit, higher interest rates, unemployment rates and changes in consumer spending habits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing macroeconomic risk factor list to explicitly include tariffs and other specific conditions."
+  },
+  {
+   "text": "The Company\u2019s ability to compete effectively depends on a number of factors, including our ability to consistently offer popular content, successfully adapt to evolving technologies and distribution platforms and offerings, and maintain widespread distribution of our content.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about competitive factors, standard framing."
+  },
+  {
+   "text": "Generative AI may enable new competitors to rapidly produce large volumes of content and replicate or imitate our proprietary content without authorization, attribution or compensation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: generative AI enabling competitors to replicate proprietary content without authorization."
+  },
+  {
+   "text": "This could dilute the value of our content, reduce audience engagement or lead to negative impacts on our revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the AI competition risk introduced above, detailing potential business impact."
+  },
+  {
+   "text": "In addition, our ability to compete could be negatively affected if our efforts to enhance the value of our offerings with these technologies are not successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on competitive risk tied to AI technology adoption."
+  },
+  {
+   "text": "Our competitors also include companies with interests in multiple media and entertainment businesses that are vertically integrated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitor landscape, no new specific risk."
+  },
+  {
+   "text": "The media and entertainment industry is undergoing a period of rapid and significant change, with several industry participants in the midst of transformative transactions that may further complicate the competitive environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General industry commentary without specific new risk."
+  },
+  {
+   "text": "To the extent our content is not compelling to consumers, it may adversely impact our ability to maintain a positive reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about content quality and reputation."
+  },
+  {
+   "text": "FOX\u2019s brands, credibility and reputation also could be adversely impacted if AI tools misattribute incorrect information to the Company or if the Company\u2019s use of AI in its own products and services produces content, information, analyses or recommendations that are alleged to be deficient, inaccurate, biased, harmful, discriminatory, an intellectual property infringement, a violation of privacy rights or otherwise problematic.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI misattribution and AI-generated content causing reputational harm."
+  },
+  {
+   "text": "During fiscal 2025, in connection with the Company\u2019s annual impairment assessment, the Company recorded a non-cash impairment charge for intangible assets of approximately $70 million at the Television segment primarily related to FCC licenses.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new financial event: a $70 million non-cash impairment charge related to FCC licenses."
+  },
+  {
+   "text": "Developments in technology increase the threat of content piracy by making it easier to create, access, duplicate, widely distribute, display and store high-quality pirated material.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing piracy risk by citing technological developments enabling easier piracy."
+  },
+  {
+   "text": "The Company\u2019s use or adoption of such new technologies may also increase the Company\u2019s exposure to intellectual property claims and further increase its enforcement costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on IP risk by linking new technology adoption to increased IP claims and enforcement costs."
+  },
+  {
+   "text": "The Company could be adversely affected by new laws and regulations, changes in existing laws and regulations, changes in judicial and regulators\u2019 interpretations of laws and regulations or in regulators\u2019 priorities or activities, as well as by the threat that additional laws or regulations may be forthcoming.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic regulatory risk boilerplate language."
+  },
+  {
+   "text": "Developments in this area may adversely impact the Company\u2019s business, including through increased legal liability risk and compliance costs associated with the use of AI and large language models.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legal/compliance risk tied to AI and large language model usage."
+  },
+  {
+   "text": "In addition, new laws and regulations may vary between local, state, federal and international jurisdictions and may conflict, and the enforcement of these laws and regulations may be inconsistent and unpredictable, further intensifying compliance risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory inconsistency across jurisdictions."
+  },
+  {
+   "text": "Changes in the legal or regulatory landscape could require FOX to change or limit certain of its business practices in ways that negatively impact the Company, including its competitive position and its ability to generate revenues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory impact on business practices."
+  },
+  {
+   "text": "FOX could also incur substantial costs to comply with new and existing laws and regulations and could face substantial penalties or other liabilities, reputational damage or increased scrutiny from regulators or stakeholders if it fails to comply with such laws and regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard compliance cost and penalty language."
+  },
+  {
+   "text": "In February 2025, the FCC began a proceeding to explore whether the remaining C-Band should be, in whole or in part, reallocated for commercial wireless and/or broadband services.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory proceeding (FCC C-Band spectrum reallocation) that could materially affect operations."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act was signed into law, directing the FCC to conduct within two years an auction of at least 100 MHz of C-Band spectrum.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legislative development requiring an FCC spectrum auction, a concrete new regulatory risk."
+  },
+  {
+   "text": "See Note 14, \u201cCommitments and Contingencies,\u201d to the accompanying consolidated financial statements included in this Form 10-K for a discussion of certain of these 27 matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, administrative in nature."
+  }
+ ]
+}

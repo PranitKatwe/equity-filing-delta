@@ -1,0 +1,163 @@
+{
+ "ticker": "ES",
+ "sector": "Utilities",
+ "filing_date": "2026-02-17",
+ "accession": "0001628280-26-008461",
+ "prior_accession": "0000072741-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 29,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "In addition to intentional attacks, we also face risks from other cybersecurity events, such as software defects, misconfigurations, system integration failures and problematic third-party software or firmware updates that can cause widespread outages or disruptions even in the absence of a deliberate attack.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens the existing cybersecurity risk factor to include non-malicious causes like software defects and misconfigurations, expanding scope rather than introducing a wholly new risk category."
+  },
+  {
+   "text": "We have instituted safeguards to protect our technology systems and assets; however, we cannot guarantee that our security efforts will prevent or deter cyberattacks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about having safeguards with a standard caveat that they can't guarantee prevention, typical cautionary language."
+  },
+  {
+   "text": "We are increasingly integrating artificial intelligence (AI) into our operations, and while these technologies offer operational benefits, they also introduce significant risks that could adversely impact our business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI as a new risk area for the company, a topic not previously covered."
+  },
+  {
+   "text": "We deploy AI tools and models in areas such as weather forecasting, grid planning, asset management, customer service and internal support functions.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new detail on how AI is deployed across operations, part of the newly introduced AI risk disclosure."
+  },
+  {
+   "text": "This deployment is overseen by an internal governance and oversight committee, which has established policies and procedures and reviews and approves the use of AI throughout the organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal governance/mitigation controls rather than articulating a risk itself."
+  },
+  {
+   "text": "AI systems may produce inaccurate, biased or otherwise unreliable forecasts or recommendations due to flawed algorithms, limited training data or unforeseen conditions which could result in service disruptions, regulatory penalties and reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk of AI producing inaccurate or biased outputs leading to disruptions or penalties."
+  },
+  {
+   "text": "Evolving AI regulations may impose new compliance and reporting obligations or restrict usage and stakeholders may raise concerns about transparency, bias, and accountability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk specifically tied to evolving AI regulation, a previously unaddressed risk driver."
+  },
+  {
+   "text": "Despite implementing a governance framework and policies and controls in place related to AI use, including human oversight of critical decisions and outputs, these risks could negatively affect operations, expose us to litigation or regulatory penalties or fines, increase costs and impair our ability to meet customer expectations, which could have a material adverse impact on our financial position, results of operations, and cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Summarizes potential material adverse impacts from AI risks including litigation and regulatory penalties, reinforcing a new risk category."
+  },
+  {
+   "text": "Our regulated companies are entitled to charge rates that are sufficient to recover prudently incurred costs and a reasonable return on investment on invested capital.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard description of regulated utility rate recovery framework, common boilerplate language."
+  },
+  {
+   "text": "Regulatory decisions may require us to cancel, delay, or reduce planned investments or incur costs we cannot recover.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing regulatory risk that decisions could affect investment recovery, an expansion of standard rate regulation risk."
+  },
+  {
+   "text": "Rates are subject to prudency reviews, refunds or disallowances and may not align with the timing of costs incurred.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reiterates standard rate regulation risk about prudency reviews and timing mismatches, typical of utility filings."
+  },
+  {
+   "text": "Customer affordability concerns, driven by volatility in energy supply costs, evolving public policy mandates and inflationary pressures, may limit our ability to recover costs or fund infrastructure upgrades.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific driver\u2014customer affordability concerns tied to inflation and policy mandates\u2014not previously disclosed."
+  },
+  {
+   "text": "Regulators may respond by imposing stricter cost recovery standards, delaying or denying rate increases or cost recovery or requiring alternative funding mechanisms increasing financial uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the affordability risk by detailing potential regulatory responses, expanding the newly introduced risk further."
+  },
+  {
+   "text": "Heightened political and public scrutiny of rate-setting processes may also lead to additional compliance obligations or reputational risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new risk dimension around political/public scrutiny of rate-setting leading to compliance and reputational risk."
+  },
+  {
+   "text": "State-Level Risks State commissions regulate rates, operations, accounting and certain financing activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory header describing state regulatory authority, standard framing language."
+  },
+  {
+   "text": "Rates are set in comprehensive base rate proceedings based on an analysis of invested capital, expenses and other factors, subject to periodic review and adjustments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard description of base rate proceeding process, common regulatory boilerplate."
+  },
+  {
+   "text": "Regulatory commissions may challenge the reasonableness or prudency of operating expenses (including storm restoration costs) incurred or capital investments made by our regulated operating companies and deny the full recovery of cost of service in rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing prudency review risk by specifically naming storm restoration costs as an example."
+  },
+  {
+   "text": "We have incurred significant storm restoration costs that are not yet approved by the regulatory commissions, and though we believe those costs were prudently incurred, it is possible that some amount may be disallowed.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, concrete fact that significant storm restoration costs are pending approval and could be disallowed, a material new disclosure."
+  },
+  {
+   "text": "Regulators may also impose penalties or reduce allowed returns, which would adversely affect our financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulators imposing penalties or reducing returns, standard regulatory risk language."
+  },
+  {
+   "text": "Regulatory approval is also required for certain dispositions of property and plant, mergers and consolidations and issuances of long-term securities, and construction and operation of facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard description of types of transactions requiring regulatory approval, typical boilerplate."
+  },
+  {
+   "text": "Failure to obtain required approvals on a timely basis, or at all, could result in increased costs, the postponement or cancellation of planned transactions or projects, changes in financing strategies, and an adverse effect on our financial condition, results of operations, and ability to implement our business strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence language about failure to obtain approvals, standard risk factor phrasing."
+  },
+  {
+   "text": "From time to time, various matters are pending before FERC relating to transmission rates, incentives, interconnections and transmission planning.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ongoing FERC matters, typical boilerplate disclosure."
+  },
+  {
+   "text": "Depending on the outcome, any of these matters could materially impact our results of operations and financial 17 condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential impact of FERC matters, standard cautionary language."
+  },
+  {
+   "text": "New processes and planning frameworks, including ISO-NE\u2019s Longer-Term Transmission Planning (LTTP) competitive solicitation process and advisory role as asset condition reviewer, introduce uncertainty around project timing, scope and cost recovery.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory process (ISO-NE LTTP) creating new uncertainty around project timing and cost recovery."
+  },
+  {
+   "text": "Competitive solicitations for certain transmission projects may require us to compete against non-incumbent developers, rather than relying on traditional cost-of-service recovery.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new competitive dynamic where the company must compete against non-incumbent developers instead of relying on cost-of-service recovery."
+  },
+  {
+   "text": "We also depend on third-party suppliers for power and natural gas.",
+   "category": "expanded_existing_risk",
+   "rationale": "States a dependency on third-party suppliers for power and natural gas, expanding on general supply chain risk."
+  },
+  {
+   "text": "In extreme cases, ISO-NE may require load shed if regional power capacity is insufficient.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific severe operational risk\u2014mandatory load shedding\u2014tied to regional capacity insufficiency."
+  },
+  {
+   "text": "Further, the view of natural gas as an attractive fuel source for heating and power generation may be at risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new market risk regarding natural gas's declining attractiveness as a fuel source."
+  },
+  {
+   "text": "Certain environmental activist groups, investors and governmental entities continue to oppose natural gas delivery and infrastructure investments because of perceived environmental impacts associated with the natural gas supply chain and end use.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific opposition risk from activist groups, investors, and government entities regarding natural gas infrastructure."
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "ticker": "APD",
+ "sector": "Materials",
+ "filing_date": "2025-11-20",
+ "accession": "0000002969-25-000055",
+ "prior_accession": "0000002969-24-000056",
+ "model": "claude-sonnet-5",
+ "n_added": 15,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "Changes in global and regional economic conditions may impact our ability to obtain financing or increase the cost of obtaining financing which may adversely impact our operations and financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about macroeconomic conditions affecting financing costs, a standard cautionary framing common to many filings without specific new detail."
+  },
+  {
+   "text": "Volatility and disruption in the U.S., European and global credit, capital, and money markets could increase the costs for or make it more difficult for us to obtain financing for our operations, potentially impacting our cash flows or creating financial risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate about credit/capital market volatility affecting financing, not a specific new risk."
+  },
+  {
+   "text": "In addition, our borrowing costs can be affected by short and long-term debt ratings assigned by independent rating agencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor tied to debt credit ratings affecting borrowing costs, a concrete financial risk not previously described."
+  },
+  {
+   "text": "A decrease in these debt ratings could increase the cost of borrowing or make it more difficult to obtain financing.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies the concrete consequence of a debt rating downgrade on financing costs, expanding the credit rating risk introduced just before it."
+  },
+  {
+   "text": "Further, if we are unsuccessful in developing new technologies, including development and application of artificial intelligence, our development activities do not keep pace with those of our competitors, or if we do not create new technologies that benefit customers, our competitive position and operating results may be negatively affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive risk tied to failure to develop technologies including artificial intelligence, a concrete and previously unmentioned risk driver."
+  },
+  {
+   "text": "17 Table of Contents Risks related to pension benefit plans may adversely impact our results of operations and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading-style statement introducing a new risk factor topic without specific detail."
+  },
+  {
+   "text": "Pension benefits represent significant financial obligations that will be ultimately settled in the future with employees who meet eligibility requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General explanatory statement about pension obligations, not itself describing a specific risk impact."
+  },
+  {
+   "text": "Because of the uncertainties involved in estimating the timing and amount of future payments and asset returns, significant estimates are required to calculate pension expense and liabilities related to our plans.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty in actuarial estimates, explanatory rather than a specific risk claim."
+  },
+  {
+   "text": "We utilize the services of third-party actuaries, whose models support these calculations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Operational detail about use of third-party actuaries, not a risk statement itself."
+  },
+  {
+   "text": "In addition to complying with local regulatory requirements for recognizing pension expense, liabilities, and cash flows, several key assumptions are used in the actuarial models to calculate pension expense and liability amounts recorded in the consolidated financial statements as well as the amounts that we contribute to such plans.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes regulatory compliance and actuarial assumption usage, explanatory background rather than a specific risk."
+  },
+  {
+   "text": "These assumptions include, but are not limited to, discount rates, expected long-term rates of return on plan assets, and demographic factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists actuarial assumption categories, purely descriptive without specifying an actual adverse impact."
+  },
+  {
+   "text": "Changes in actuarial assumptions, interest and inflation rates, and volatility in capital markets may adversely impact the valuation of pension liabilities and the performance of asset portfolios.",
+   "category": "new_substantive_risk",
+   "rationale": "States a specific and material risk that changes in assumptions, rates, and market volatility could adversely affect pension liability valuation and asset performance."
+  },
+  {
+   "text": "Additionally, significant changes in actual investment returns on pension assets, discount rates, or regulatory developments could impact future results of operations and required pension contributions.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a concrete financial risk that changes in investment returns, discount rates, or regulation could affect operating results and required pension contributions."
+  },
+  {
+   "text": "For example, in fiscal year 2025, we cancelled a project to build a green liquid hydrogen project in the U.S., based in part on a regulatory development that rendered existing hydroelectric power supply ineligible for the Clean Hydrogen Production Tax Credit (45V) and incurred a significant impairment charge for the amount that we had invested in the project.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific real event\u2014cancellation of a hydrogen project due to regulatory tax credit changes and resulting impairment charge\u2014introducing a concrete new risk example."
+  },
+  {
+   "text": "However, we have been taking actions since that time to reduce the size of our workforce and currently expect headcount to stabilize at approximately 20,000 at the end of fiscal 2026 as we complete certain projects and complete actions to right-size the organization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated specific detail on workforce reduction and stabilization plans, expanding on an existing restructuring/cost risk rather than introducing a new one."
+  }
+ ]
+}

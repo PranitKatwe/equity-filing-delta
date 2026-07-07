@@ -1,0 +1,28 @@
+{
+ "ticker": "VRSK",
+ "sector": "Industrials",
+ "filing_date": "2026-02-18",
+ "accession": "0001437749-26-004452",
+ "prior_accession": "0001437749-25-005160",
+ "model": "claude-sonnet-5",
+ "n_added": 2,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Evolved AI-based ecosystems and workflow automation developed by our customers or generic datasets enhanced by AI could compete more effectively with our products or solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive threat: AI-based ecosystems and workflow automation developed by customers or using generic AI-enhanced datasets could outcompete the company's products, a risk not previously described."
+  },
+  {
+   "text": "Contracts with governments are also subject to a number of issues, such as shutdowns, funding changes, policy and other government concerns that may impact the terms or performance of a contract.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new risk factors related to government contracts, including shutdowns, funding changes, and policy shifts that could affect contract terms or performance, which is a concrete and material risk not previously disclosed."
+  }
+ ]
+}

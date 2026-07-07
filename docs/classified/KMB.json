@@ -1,0 +1,218 @@
+{
+ "ticker": "KMB",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-12",
+ "accession": "0001628280-26-007567",
+ "prior_accession": "0000055785-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 32,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "We have pursued, and expect to continue to pursue, various business development activities, including joint ventures, equity investments, licensing agreements and acquisitions or divestitures of product lines or businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about pursuing business development activities generally, not itself a risk statement."
+  },
+  {
+   "text": "Such activities may affect the ability of the Company to maintain relationships with customers, suppliers, employees, stockholders and others.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk that business development activities may harm relationships with customers, suppliers, employees and stockholders."
+  },
+  {
+   "text": "The inability to effectively and efficiently manage business development activities, including acquisitions and divestitures, with the results we expect or in the timeframe we anticipate could adversely affect our business, consolidated financial condition, results of operations or liquidity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the preceding risk by specifying potential adverse effects on financial condition, results, or liquidity."
+  },
+  {
+   "text": "Risks Relating to the Pending Mergers with Kenvue K-C stockholders and Kenvue stockholders, in each case as of immediately prior to the mergers, will have reduced ownership in the combined company and less influence over management.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new, specific risk tied to the pending Kenvue merger regarding reduced ownership and influence."
+  },
+  {
+   "text": "We anticipate issuing approximately 280 million shares of common stock pursuant to the Merger Agreement.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, quantifiable dilution risk from issuing ~280 million new shares for the merger."
+  },
+  {
+   "text": "The actual number of shares of common stock to be issued pursuant to the Merger Agreement will be determined at the closing of the mergers based on the number of shares of Kenvue common stock outstanding immediately prior to the first merger.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural clarification about how share numbers will be finalized, not a new risk itself."
+  },
+  {
+   "text": "The issuance of these new shares could have the effect of depressing the market price of our common stock, through dilution of earnings per share or otherwise.",
+   "category": "new_substantive_risk",
+   "rationale": "States a concrete risk that new share issuance could depress stock price via dilution."
+  },
+  {
+   "text": "Any dilution of, or delay of any accretion to, our earnings per share could cause the price of our common stock to decline or increase at a reduced rate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the dilution risk already stated by discussing effects on EPS and stock price movement."
+  },
+  {
+   "text": "Immediately after the closing of the mergers, it is expected that K-C stockholders as of immediately prior to the mergers will own approximately 54%, and Kenvue stockholders as of immediately prior to the mergers will own approximately 46%, of the issued and outstanding shares of K-C common stock, in each case calculated based on the fully diluted market capitalizations of K-C and Kenvue as of the date of signing of the Merger Agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific ownership percentage details supporting the previously stated reduced-influence risk."
+  },
+  {
+   "text": "As a result, current K-C stockholders and current Kenvue stockholders will have less influence on the management and policies of the combined company than they currently have on the management and policies of K-C and Kenvue, respectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and quantifies the reduced influence risk already introduced."
+  },
+  {
+   "text": "The mergers may not be completed and the Merger Agreement may be terminated in accordance with its terms.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the specific risk that the merger may not be completed."
+  },
+  {
+   "text": "These conditions to the consummation of the mergers may not be satisfied or waived in a timely manner or at all, and, accordingly, the mergers may be delayed or may not be completed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the risk that closing conditions may not be satisfied, causing delay or failure."
+  },
+  {
+   "text": "In addition, if the first merger is not completed by November 2, 2026 (subject to automatic extension to the extent the only conditions not satisfied are those related to certain regulatory approvals or the absence of a legal restraint prohibiting the closing), either K-C or Kenvue may choose not to proceed with the mergers by terminating the Merger Agreement, and the parties can mutually decide to terminate the Merger Agreement at any time, before or after stockholder approval.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific termination date and conditions detail to the merger completion risk."
+  },
+  {
+   "text": "In addition, K-C and Kenvue may elect to terminate the Merger Agreement in certain other circumstances, including, among other things, (i) failing to cure the breach of a representation, warranty or 13 KIMBERLY-CLARK CORPORATION - 2025 Annual Report covenant without which a closing condition would not be satisfied, or (ii) a final and non-appealable legal restraint enjoining or otherwise prohibiting the consummation of the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details additional termination scenarios related to the same completion risk."
+  },
+  {
+   "text": "Failure to complete the mergers, or a delay in the closing of the mergers, could negatively impact our business, results of operations, financial condition and stock price.",
+   "category": "new_substantive_risk",
+   "rationale": "States a distinct consequence risk: failure or delay of the merger could harm business, operations, and stock price."
+  },
+  {
+   "text": "The Merger Agreement is subject to a number of conditions that must be fulfilled to complete the mergers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that the agreement is subject to conditions, without new specifics."
+  },
+  {
+   "text": "Those conditions include, among others, certain regulatory approvals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General reference to regulatory approvals as a condition, largely procedural."
+  },
+  {
+   "text": "A number of the conditions are not within our control and may prevent, delay or otherwise materially adversely affect the closing of the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the condition-related risk by noting lack of control over some conditions."
+  },
+  {
+   "text": "We cannot predict with certainty whether and when any of the required closing conditions will be satisfied or if another uncertainty may arise, and cannot assure you that we will be able to timely complete the mergers as currently contemplated under the Merger Agreement or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cautionary language about uncertainty of timing, standard risk disclaimer."
+  },
+  {
+   "text": "Litigation relating to the mergers could result in an injunction delaying or preventing the closing of the mergers and/or substantial costs or otherwise negatively affect our business and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new litigation risk tied specifically to the merger."
+  },
+  {
+   "text": "Following the announcement of the mergers, certain complaints related to the mergers and the related joint proxy statement/prospectus were filed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual detail (complaints filed) supporting the litigation risk already introduced."
+  },
+  {
+   "text": "Additional stockholder complaints, including stockholder class action complaints, and other complaints may be filed in the future against us, the K-C board, and others in connection with the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on potential future litigation risk."
+  },
+  {
+   "text": "The outcome of such litigation cannot be predicted, including the potential costs of defense or other liabilities that may arise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that litigation outcome cannot be predicted."
+  },
+  {
+   "text": "Future lawsuits that may be filed could delay or prevent the mergers, divert the attention of our management and employees from their day-to-day business or otherwise adversely affect our business, results of operations or financial condition and cause us not to realize, or delay in realizing, some or all of the benefits we expect to achieve upon completion of the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on how future lawsuits could affect the merger and business."
+  },
+  {
+   "text": "14 KIMBERLY-CLARK CORPORATION - 2025 Annual Report We will continue to incur substantial transaction-related costs in connection with the mergers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new financial risk regarding ongoing transaction-related costs."
+  },
+  {
+   "text": "We have incurred significant financial advisory, legal, accounting, consulting and other advisory fees, severance/retention employee benefit-related costs and other regulatory fees and other costs relating to the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific cost categories already incurred, expanding the cost risk."
+  },
+  {
+   "text": "We have incurred, and expect to continue to incur, additional costs in connection with the satisfaction of the various conditions to closing of the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing additional costs tied to the same risk."
+  },
+  {
+   "text": "If there is any delay in the consummation of the mergers, these costs could increase significantly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes that delay could increase costs, expanding the financial risk already stated."
+  },
+  {
+   "text": "If the mergers are completed, the combined company may not perform as we or the market expects and may fail to realize the projected benefits and cost savings of the mergers, which could adversely affect the value of the common stock held by our stockholders.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk that the combined company may fail to meet performance expectations."
+  },
+  {
+   "text": "The success of the combined company will depend, in part, on the ability of the combined company to realize the anticipated benefits and cost savings from combining K-C\u2019s and Kenvue\u2019s respective businesses, including operational and other synergies that we believe the combined company will be able to achieve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the integration/synergy risk already introduced."
+  },
+  {
+   "text": "The anticipated benefits and cost savings of the mergers may not be realized fully or at all, may take longer to realize than expected or could have other adverse effects that we do not currently foresee.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the risk that anticipated benefits may not be realized."
+  },
+  {
+   "text": "Risks that may be associated with the combined company include, among others, the risks related to market fluctuations, failure of integration, unforeseen liabilities, employee and customer retention and increased indebtedness.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific risk categories tied to the combined company, expanding the prior general risk."
+  },
+  {
+   "text": "The market price of our common stock will continue to fluctuate after the mergers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding continued stock price volatility post-merger."
+  },
+  {
+   "text": "The market price of our common stock may fluctuate significantly following the closing of the mergers and holders of our common stock could lose some or all of the value of their investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and expands on the stock price volatility risk."
+  },
+  {
+   "text": "In addition, the stock market has experienced significant price and volume fluctuations in recent times which, if they continue to occur, could have a material adverse effect on the market for, or liquidity of, our common stock, regardless of our actual operating performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic market volatility disclaimer not specific to the company or merger."
+  },
+  {
+   "text": "The market price of our common stock after the closing of the mergers may be affected by factors different from those that historically have affected or currently affect our common stock or Kenvue common stock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on stock price risk by noting new post-merger influencing factors."
+  },
+  {
+   "text": "Our financial position after the closing of the mergers may differ from our financial position before the closing of the mergers, and our results of operations or cash flows after the closing of the mergers may be affected by factors different from those currently affecting our financial position or results of operations or cash flows, or those of Kenvue.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk that financial position and results may differ materially post-merger."
+  },
+  {
+   "text": "Accordingly, the market price and performance of our common stock after the closing of the mergers likely will be different from the performance of our common stock or Kenvue common stock in the absence of the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes and restates the previously introduced post-merger performance divergence risk."
+  },
+  {
+   "text": "In addition, general fluctuations in stock markets could have a material adverse effect on the market for, or liquidity of, our common stock, regardless of our actual operating performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Repeats generic stock market fluctuation disclaimer already stated."
+  },
+  {
+   "text": "The failure to integrate the businesses and operations of K-C and Kenvue successfully in the expected time frame may adversely affect the future results of the combined company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct integration risk that failure to combine operations timely could hurt future results."
+  }
+ ]
+}

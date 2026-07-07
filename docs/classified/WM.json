@@ -1,0 +1,218 @@
+{
+ "ticker": "WM",
+ "sector": "Industrials",
+ "filing_date": "2026-02-09",
+ "accession": "0001104659-26-012049",
+ "prior_accession": "0001558370-25-001132",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 20
+ },
+ "items": [
+  {
+   "text": "Following our 2024 acquisition of Stericycle, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply provides context referencing the 2024 Stericycle acquisition; not a risk statement."
+  },
+  {
+   "text": "Additionally, through our Recycling Processing and Sales segment, we are a leading recycler in the U.S. and Canada, handling materials that include paper, cardboard, glass, plastic and metal.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about the recycling business segment, not a risk."
+  },
+  {
+   "text": "In addition, we intend to continue to return value to our stockholders through dividend payments and share repurchases.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of intent regarding capital return, not a specific risk."
+  },
+  {
+   "text": "Additionally, given the substantial progress already made on leverage reduction following the Stericycle acquisition, we resumed share repurchases in February 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure about resuming share repurchases; no risk articulated."
+  },
+  {
+   "text": "Our Board of Directors approved up to $3.0 billion in future share repurchases, exclusive of fees, commissions and taxes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual board authorization amount, not a risk statement."
+  },
+  {
+   "text": "This new authorization supersedes and replaces the remaining authority under the prior Board of Directors\u2019 authorization for share repurchases announced in December 2023.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Administrative detail about superseding prior authorization."
+  },
+  {
+   "text": "Under this new authorization, we currently expect to repurchase approximately $2.0 billion of shares during 2026, while continuing to prioritize a return to our targeted leverage level during the year.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Forward-looking factual guidance on repurchase amount, not a risk per se."
+  },
+  {
+   "text": "The amount of future share repurchases executed under our Board of Directors\u2019 authorization is determined in management\u2019s discretion, based on various factors, including our leverage level, net earnings, financial condition and cash required for future business plans, growth and acquisitions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about discretionary factors influencing repurchases."
+  },
+  {
+   "text": "The revenues from both WM owned and third-party owned facilities are primarily generated through (i) the sale of captured and converted landfill methane gas; (ii) the sale of RINs under the Renewable Fuel Standard (\u201cRFS\u201d) program implemented by the EPA; (iii) sale of Low Carbon Fuel credits designed to stimulate the use of low-carbon fuels and (iv) the sale of energy (electricity and capacity) and associated RECs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing revenue streams; descriptive, not risk-related."
+  },
+  {
+   "text": "Additionally, we generate and sell credits in Canadian and European markets through the Clean Fuels Regulations and the International Sustainability and Carbon Certification System, respectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes additional markets for credit sales; factual, not a risk."
+  },
+  {
+   "text": "As of December 31, 2025, we operated 42 autoclave facilities in the U.S. and Canada. \u25cf Alternative Technologies \u2014 We use several different non-incineration alternatives to autoclaves, predominantly outside of the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Facility count disclosure, purely factual."
+  },
+  {
+   "text": "Depending on local requirements, the waste may be shredded before or after treatment to render it unrecognizable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Operational description of waste treatment process."
+  },
+  {
+   "text": "As of December 31, 2025, we operated 17 medical waste incinerator facilities in the U.S., Canada and the U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Facility count disclosure, factual."
+  },
+  {
+   "text": "As of December 31, 2025, we operated 99 secure information destruction facilities in the U.S., Canada and Western Europe.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Facility count disclosure, factual."
+  },
+  {
+   "text": "While our overall results in 2025 did not demonstrate significant progress toward the 2030 goal, we continue 12 Table of Contents to focus efforts on priority districts and integrating safety culture and reporting throughout operations, including through acquisition activity.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses failure to meet a 2030 safety goal, indicating a new operational/safety performance risk."
+  },
+  {
+   "text": "Accordingly, while acquisitions can impact metric performance related to our established goal, we are confident that our programs and processes will continue to reduce incident frequency and severity in our operations in the years ahead.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on safety risk by noting acquisitions can affect safety metric performance."
+  },
+  {
+   "text": "The impact and timing of these shifts in regulatory policy impacting our industry and our Company remain uncertain, as many are subject to ongoing litigation and agency review.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that regulatory shifts are uncertain due to litigation, expanding existing regulatory risk."
+  },
+  {
+   "text": "Further, state and municipal governments may impose additional regulatory duties in response to such shifts in federal policy, which could lead to a patchwork of regulatory obligations across the U.S. for our industry and our Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of a patchwork of state/municipal regulations arising from federal policy shifts."
+  },
+  {
+   "text": "In September 2025, the EPA announced a proposed rule to significantly revise the Greenhouse Gas Reporting Program.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new EPA proposed rule affecting GHG reporting, a concrete regulatory development."
+  },
+  {
+   "text": "The proposal would eliminate reporting requirements for numerous source categories, including landfills.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the scope of the EPA proposal, elaborating the previously introduced risk."
+  },
+  {
+   "text": "This uncertainty regarding the status of the federal reporting program could result in increased state-level GHG reporting requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates the uncertainty and potential state-level consequences of the GHG rule change."
+  },
+  {
+   "text": "Demand and willingness to pay premium prices for recycled materials or enhanced sustainability solutions can fluctuate based on economic conditions, consumer preferences and trends.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding fluctuating demand and pricing for recycled materials."
+  },
+  {
+   "text": "At the same time, concerns regarding price and affordability have led some jurisdictions to scale back previously enacted EPR requirements, creating uncertainty for long-term planning.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk of jurisdictions scaling back EPR requirements, creating planning uncertainty."
+  },
+  {
+   "text": "Lawsuits have been filed in certain jurisdictions, contesting the constitutionality of certain programs, and the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new litigation risk challenging the constitutionality of EPR programs."
+  },
+  {
+   "text": "Department of Justice has indicated that state EPR laws may be among those subject to constitutional review.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds DOJ involvement, expanding the previously introduced litigation risk."
+  },
+  {
+   "text": "Deregulatory rulings or changes in program requirements in jurisdictions where we have adapted to meet customer demand may impact our operations, financial condition or result of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details how deregulatory changes could impact operations, building on prior EPR risk."
+  },
+  {
+   "text": "EPR implementation also involves new operational requirements and information-sharing obligations that affect how recycling programs are managed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new operational and information-sharing obligations stemming from EPR implementation."
+  },
+  {
+   "text": "Compliance with EPR laws often requires us to provide detailed operational data to state agencies, producer responsibility organizations and their consultants in connection with needs assessments and tracking of material recyclability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific compliance detail expanding on the EPR operational risk."
+  },
+  {
+   "text": "This includes sharing information that is typically considered competitively sensitive.",
+   "category": "expanded_existing_risk",
+   "rationale": "Highlights competitive sensitivity of shared data, expanding the EPR compliance risk."
+  },
+  {
+   "text": "Where feasible, we enter into non-disclosure agreements to safeguard such information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a mitigation measure (NDAs), not a risk itself."
+  },
+  {
+   "text": "Tax Legislation On July 4, 2025, President Trump signed the One Big Beautiful Bill Act (\u201cOBBBA\u201d) into law.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legislative event (OBBBA) that could affect the company's tax obligations."
+  },
+  {
+   "text": "We have evaluated the business tax provisions in the legislation, none of which had a material impact on our effective tax rate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States no material impact from tax provisions, essentially neutral disclosure."
+  },
+  {
+   "text": "However, we had a beneficial impact to cash taxes related to bonus depreciation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a beneficial tax impact, not a risk."
+  },
+  {
+   "text": "California also has been active in pursuing policies promoting vehicle electrification, despite U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about California's electrification push, expanding existing regulatory risk regarding state policies."
+  },
+  {
+   "text": "Congressional and presidential administration efforts to push back on the state\u2019s electrification agenda.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the electrification regulatory risk narrative with federal pushback context."
+  },
+  {
+   "text": "The current U.S. presidential administration, meanwhile, revisited and retroactively lowered the 2024 blending volumes, has proposed to revisit and lower the 2025 standards, has proposed low volumes for compliance years 21 Table of Contents 2026 and 2027 and departed from the previous administration in granting small refinery exemptions from RFS program requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory actions (lowered RFS volumes, exemptions) that could materially affect RIN values."
+  },
+  {
+   "text": "We do not yet know how these changes may impact the demand for renewable fuels and the value of RINs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expresses uncertainty about the impact of the newly described RFS changes, building on the prior risk."
+  },
+  {
+   "text": "A similar program has been adopted in Canada under the Clean Fuel Regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual note about a similar Canadian program, not a new risk."
+  },
+  {
+   "text": "You should carefully consider the following risk factors in conjunction with Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard introductory cross-reference language."
+  },
+  {
+   "text": "Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations and Item 8.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard introductory cross-reference language."
+  }
+ ]
+}

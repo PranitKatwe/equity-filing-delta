@@ -1,0 +1,83 @@
+{
+ "ticker": "SYY",
+ "sector": "Consumer Staples",
+ "filing_date": "2025-08-22",
+ "accession": "0000096021-25-000099",
+ "prior_accession": "0000096021-24-000128",
+ "model": "claude-sonnet-5",
+ "n_added": 13,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "We do not anticipate any material capital expenditures for compliance with these laws, rules and regulations in the foreseeable future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States no material capex expected for compliance, a routine forward-looking disclaimer rather than a new risk."
+  },
+  {
+   "text": "However, compliance costs under existing laws or under any new requirements could become material, and we could incur liability in any instance of noncompliance.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement that compliance costs could become material or noncompliance could cause liability, standard regulatory risk language."
+  },
+  {
+   "text": "Risk Factors\u201d for additional information regarding government regulations that could impact our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to other risk factor discussion, not a new risk."
+  },
+  {
+   "text": "General We have numerous trademarks that are of significant importance, including the SYSCO\u00ae and Brakes\u00ae trademarks, in addition to our privately branded product trademarks that include these trademarks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about trademark ownership, not a risk disclosure."
+  },
+  {
+   "text": "In addition, recent U.S. tariffs imposed or threatened to be imposed on other countries, any retaliatory actions taken by such countries and general political uncertainty surrounding trade relations and policies could have a negative impact on our business, results of operations and financial condition as well as consumer confidence and spending.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding U.S. tariffs, retaliatory actions, and trade policy uncertainty affecting business and consumer spending."
+  },
+  {
+   "text": "We also risk damage to our reputation if we fail to act responsibly in a number of other areas such as worker safety and welfare, human capital management, inclusion, environmental stewardship, support for local communities, and corporate governance and transparency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands reputational risk factor to include specific areas like worker safety, human capital, environmental stewardship, and governance."
+  },
+  {
+   "text": "On January 20, 2025, President Trump issued executive orders that the OECD Global Tax Deal has no force and effect in the U.S., and to investigate foreign countries\u2019 compliance with tax treaties and to prepare a list of options for protective measures the U.S. should adopt in response.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory development\u2014executive orders on OECD Global Tax Deal and tax treaty investigations\u2014that could affect the company."
+  },
+  {
+   "text": "Our analysis is ongoing as the OECD continues to release additional guidance, countries enact legislation, and the potential U.S. response.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that analysis is ongoing, provides no new specific risk detail."
+  },
+  {
+   "text": "To the extent additional legislative changes take place in the countries in which we operate, it is possible that these changes may yield an adverse impact on our effective tax rate, financial results. and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing tax risk by noting potential adverse impact from additional legislative changes on effective tax rate and cash flows."
+  },
+  {
+   "text": "For instance, in the UK, the adoption of the Data Use and Access Act may require more localized data storage facilities and could impact how we segregate personal data between markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new regulatory risk from the UK's Data Use and Access Act requiring localized data storage and impacting data segregation."
+  },
+  {
+   "text": "Of the $13.3 billion of total indebtedness, $1.75 billion will mature within the next twelve months.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new financial detail about $1.75 billion of debt maturing within twelve months, a concrete liquidity risk."
+  },
+  {
+   "text": "We expect to fund the repayment of this debt using a combination of cash flows from operations and the proceeds from issuances of commercial paper and long-term debt, however there can be no assurance that we will be able to refinance this indebtedness on terms that are favorable to the company, or at all, due to market conditions, our operating performance, investor sentiment, and risks impacting financial institutions and the credit markets more broadly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on refinancing risk by detailing funding sources and specific market/operational factors that could hinder favorable refinancing."
+  },
+  {
+   "text": "A failure to refinance such indebtedness on favorable terms, or at all, could adversely affect our business and liquidity position.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and reinforces the consequence of failing to refinance debt, expanding on the liquidity risk already introduced."
+  }
+ ]
+}

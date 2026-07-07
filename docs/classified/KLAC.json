@@ -1,0 +1,188 @@
+{
+ "ticker": "KLAC",
+ "sector": "Information Technology",
+ "filing_date": "2025-08-08",
+ "accession": "0000319201-25-000024",
+ "prior_accession": "0000319201-24-000021",
+ "model": "claude-sonnet-5",
+ "n_added": 34,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Entity List, and other facilities in China where the production of advanced node IC occurs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing existing export-restricted entities list for China semiconductor manufacturing, elaborating on prior export control risk."
+  },
+  {
+   "text": "In December 2024 and January 2025, Commerce again issued incremental 2024 BIS Rules and 2025 BIS Rules, adding even more companies to the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new BIS rule dates and actions to the already-existing export restriction risk on China."
+  },
+  {
+   "text": "Entity List and revising the definition of advanced DRAM, further restricting our ability to provide certain items and services to facilities in China producing advanced DRAM ICs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on the same ongoing Entity List/export restriction risk regarding DRAM."
+  },
+  {
+   "text": "In addition, the U.S. export restrictions on semiconductors and semiconductor technology to China and Chinese customers may reduce the need for our products and make it easier for our China-based competitors to develop and sell their own products and take market share from us.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive harm - export restrictions enabling China-based competitors to gain market share."
+  },
+  {
+   "text": "Recently announced and future U.S. tariffs or other restrictions placed on imports, retaliatory trade measures taken by other countries and resulting trade wars may have a material adverse impact on our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk topic: U.S. tariffs and trade restrictions materially harming operations."
+  },
+  {
+   "text": "In 2025, the U.S. implemented a number of tariffs on goods imported into the U.S., on a country and industry-specific basis (including aluminum, copper and steel).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific factual detail (2025 tariff implementation) supporting the newly introduced tariff risk."
+  },
+  {
+   "text": "Tariffs have been paused, certain U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues factual elaboration on tariff status changes within the new tariff risk discussion."
+  },
+  {
+   "text": "Tariffs are currently in effect, including a base tariff on nearly all imports into the U.S., certain reciprocal tariffs by country, and certain sectoral tariffs on copper, aluminum and steel, among others.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies current tariff details, elaborating on the newly introduced tariff risk."
+  },
+  {
+   "text": "In retaliation to the tariffs imposed on U.S. imports, a number of other countries announced reciprocal tariffs on goods imported from the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes retaliatory tariffs as part of the broader newly introduced tariff risk."
+  },
+  {
+   "text": "While most countries paused their reciprocal tariffs on U.S. imported goods, those reciprocal tariffs could be reinstated at any time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the status and uncertainty of retaliatory tariffs already introduced."
+  },
+  {
+   "text": "Tariffs imposed by the U.S. on goods imported into the U.S. and tariffs imposed by other countries on U.S. goods imported into those countries may continue to evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about tariffs continuing to evolve, lacking new specific detail."
+  },
+  {
+   "text": "In April 2025, Commerce announced the initiation of investigations into the effects on U.S. national security of imports of semiconductors under Section 232 of the Trade Expansion Act of 1962.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory action - Section 232 investigation into semiconductor imports."
+  },
+  {
+   "text": "The scope of the investigations include semiconductors, semiconductor manufacturing equipment and their derivative products including semiconductor substrates and bare wafers, legacy chips, leading-edge chips, microelectronics and other components.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the scope of the newly introduced Section 232 investigation."
+  },
+  {
+   "text": "While the results of the investigations are currently unknown, they may result in additional tariffs and trade restrictions which may adversely impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential outcomes of the newly introduced investigation, elaborating on that risk."
+  },
+  {
+   "text": "Tariffs have increased our cost of revenues due to the increase in the cost of importing foreign sourced components to our U.S. facilities to build the products that we manufacture in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "States a concrete, already-realized financial impact (increased cost of revenues) from tariffs, a specific quantifiable harm."
+  },
+  {
+   "text": "Tariffs imposed on U.S. goods by other countries may harm demand for our products from customers in those regions, or may cause our customers in those regions to push out or cancel previously placed purchase orders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tariff impact on customer demand, part of the broader tariff risk already introduced."
+  },
+  {
+   "text": "In addition, we have had to return deposits given to us by our customers upon cancellation of their purchase orders.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific actual event (returning deposits due to order cancellations) representing concrete financial harm."
+  },
+  {
+   "text": "Moreover, tariffs can make it difficult for us and our customers and suppliers to 14 Table of Contents make and execute business and capital equipment investment plans or increase supply chain complexity, which may have an impact on our ability to source the materials necessary to manufacture our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tariff-related operational complications already part of the tariff risk."
+  },
+  {
+   "text": "Our efforts to address these risks, such as through operational adjustments and pricing strategies, may not be successful.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that mitigation efforts may not succeed, without new specifics."
+  },
+  {
+   "text": "Such efforts may need time to take effect and may have an adverse impact on our results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about timing and impact of mitigation efforts, boilerplate in nature."
+  },
+  {
+   "text": "Unless rescinded or exemptions apply, tariffs and any escalations in the trade war could significantly harm our business, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General summary/cautionary statement reiterating potential harm from tariffs without new specifics."
+  },
+  {
+   "text": "For example, policymakers in the European Union, the State of California and elsewhere have adopted, or are considering adopting, various legal requirements on disclosures or other actions on certain climate or other sustainability matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific examples (EU, California) of regulatory bodies adopting ESG-related disclosure requirements, expanding existing ESG risk."
+  },
+  {
+   "text": "Stakeholders may have different, and at times conflicting, expectations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about differing stakeholder expectations without specific new risk."
+  },
+  {
+   "text": "While some external sources may seek to pressure us to adopt additional or more aggressive ESG initiatives, there are simultaneous efforts by others to reduce companies' efforts on such matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of conflicting external pressures on ESG matters, lacking specific new risk detail."
+  },
+  {
+   "text": "Such proponents and opponents of ESG matters are increasingly resorting to activism or litigation to advance their perspectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about activism/litigation trends, not a specific new business risk."
+  },
+  {
+   "text": "Such regulatory approaches are not uniform, which may increase the cost and complexity of compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about non-uniform regulations increasing compliance cost, without specific new detail."
+  },
+  {
+   "text": "Addressing stakeholder expectations, including regulations, entails costs and any failure to successfully navigate such expectations may result in reputational harm, loss of customers or contracts, potential regulatory or investor engagement, or other adverse impacts to our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General summary of potential adverse impacts from failing to meet stakeholder expectations, largely boilerplate."
+  },
+  {
+   "text": "Persistent hostilities involving Iran and Iran-backed groups, including Hezbollah in Lebanon and Hamas in the Gaza Strip, have involved missile strikes against civilian targets in various parts of Israel and attacks on marine vessels traversing the Red Sea.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new geopolitical conflict details (Iran, Hezbollah, Hamas, Red Sea attacks) not previously mentioned, representing a new risk factor."
+  },
+  {
+   "text": "On July 4, 2025, the enactment of the One Big Beautiful Bill Act (\u201cOBBBA\u201d) provides for several permanent changes to the United States tax code including, among other items, modifying the Global Intangible Low-Taxed Income (\u201cGILTI\u201d) and Foreign-Derived Intangible Income (\u201cFDII\u201d) rules that were included in the Tax Cuts and Jobs Act, which was enacted into law on December 22, 2017.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific law (OBBBA) enacting permanent tax code changes affecting the company."
+  },
+  {
+   "text": "The OBBBA renames GILTI to Net Controlled Foreign Corporation (\u201cCFC\u201d) Tested Income (\u201cNCTI\u201d) and modifies the percentage of foreign earnings under the GILTI regime that is taxable in the U.S. from 50% to 40% for tax years beginning after December 31, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on how OBBBA modifies GILTI/NCTI rates, elaborating on the newly introduced tax law risk."
+  },
+  {
+   "text": "It also renames FDII to Foreign-Derived Deduction Eligible Income (\u201cFDDEI\u201d) and modifies the percentage of U.S. earnings under the FDII regime that is not subject to tax in the U.S. from 37.5% to 33.34% for tax years beginning after December 31, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details how OBBBA modifies FDII/FDDEI rates, continuing elaboration on the new tax law risk."
+  },
+  {
+   "text": "In April 2025, the Chinese government imposed certain new export controls on a range of critical rare earth minerals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory action - Chinese export controls on rare earth minerals."
+  },
+  {
+   "text": "Rare earth minerals are critical to certain components contained in our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains relevance of rare earth minerals to products, supporting the newly introduced rare earth risk."
+  },
+  {
+   "text": "If our suppliers are unable to provide the components necessary to make our products because of restrictions placed on their access to rare earth minerals, our business, financial condition and results of operations could be materially harmed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential business harm from supplier access restrictions to rare earth minerals, elaborating on the newly introduced risk."
+  }
+ ]
+}

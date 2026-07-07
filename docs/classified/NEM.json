@@ -1,0 +1,218 @@
+{
+ "ticker": "NEM",
+ "sector": "Materials",
+ "filing_date": "2026-02-19",
+ "accession": "0001164727-26-000010",
+ "prior_accession": "0001164727-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 33,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Prices are obtained from the London Bullion Market Association for gold and silver and the London Metal Exchange for copper, lead and zinc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely factual description of where commodity prices are sourced from; no risk content."
+  },
+  {
+   "text": "Historically, the commodity markets have been very volatile, and there can be no assurance that commodity prices will not be subject to wide fluctuations in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about commodity price volatility, standard boilerplate language."
+  },
+  {
+   "text": "A substantial or extended decline in commodity prices could have a material adverse effect on the Company\u2019s financial position, results of operations, cash flows, access to capital, and on the quantities of reserves that the Company can economically produce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about adverse effects of commodity price decline, standard risk factor framing without new specifics."
+  },
+  {
+   "text": "At the beginning of the third quarter of 2025, management committed to a strategic plan designed to reduce operating costs and continue to advance the Company\u2019s ongoing commitment to profitability, which included streamlining its organizational structure and a reduction of the Company\u2019s workforce and office space in certain markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new restructuring plan involving workforce reduction and office closures not previously disclosed."
+  },
+  {
+   "text": "Such initiatives involve expenses primarily relating to employee severance, consulting costs, and other restructuring charges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the types of expenses tied to the newly disclosed restructuring plan."
+  },
+  {
+   "text": "Cost saving estimates are based on a number of assumptions, including compliance with local legal requirements across jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates assumptions underlying the restructuring cost estimates."
+  },
+  {
+   "text": "Actual costs, timing, and benefits may differ from current estimates as the Company continues to assess the full scope of the impact arising from, or related to, the workforce reduction and operating model changes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of uncertainty in restructuring cost estimates."
+  },
+  {
+   "text": "On January 26, 2026, we informed Barrick and the NGM Board of Managers that we had identified evidence of mismanagement at NGM, including diversion of resources from NGM to the benefit of Barrick\u2019s wholly-owned property Fourmile and Barrick, and that we were exercising our contractual inspection and audit rights.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new dispute alleging mismanagement and resource diversion at NGM involving Barrick."
+  },
+  {
+   "text": "On February 3, 2026, we sent Barrick a notice of default under the Nevada JV Agreement related to this conduct.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows on from the mismanagement allegation, adding the notice of default as part of the same dispute."
+  },
+  {
+   "text": "In 2025, the Company reassessed its strategy in Peru and is progressing mine closure activities while prioritizing other future development opportunities at Yanacocha ahead of any future re-evaluation of the Yanacocha Sulfides project, resulting in an indefinite deferral of the future development of this project and the impairment of the balances included in assets under construction and deferred mine development for the project.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses indefinite deferral and impairment of a specific development project (Yanacocha Sulfides), a concrete new financial risk."
+  },
+  {
+   "text": "See Note 2 to the Consolidated Financial Statement for additional information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to financial statement notes, no substantive content."
+  },
+  {
+   "text": "Merian was able to obtain a Legal Title (the right of leasehold, which is a surface right) to facilitate the expansion of its tailings storage facility (TSF2).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new land title arrangement tied to tailings storage facility expansion with conditions."
+  },
+  {
+   "text": "This title was granted by the Republic of Suriname in early 2025 under certain conditions as well as commitments to the local community in the area.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on the timing and conditions of the previously mentioned Legal Title."
+  },
+  {
+   "text": "To maintain this Legal Title in good legal standing, including its extension in due time, it remains important to adhere to the conditions related to the granting of this surface right as well as community commitments in relation to this surface right.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the risk of maintaining the previously disclosed Legal Title."
+  },
+  {
+   "text": "On March 31, 2025, Cadia Holdings was convicted of three offenses relating to applicable air emissions requirements and the Court ordered Cadia Holdings to pay a penalty of A$350 thousand and pay A$61.5 thousand to the Department of Climate Change, Energy, Environment and Water (the \u201cNSW DCCEEW\u201d) for the Rural Air Quality Monitoring Network funding for a new Dust Track system located in Mudgee NSW.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific legal conviction and monetary penalty related to environmental violations, a new concrete legal/regulatory risk."
+  },
+  {
+   "text": "The proceedings were withdrawn and discontinued on December 19, 2025, with no order as to costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the narrative of the same legal proceeding, noting its withdrawal."
+  },
+  {
+   "text": "Cadia Holdings and the NSW EPA entered into an enforceable undertaking where Cadia Holdings has agreed to pay A$307,500 to the NSW DCCEEW to support the Rural Dust Monitoring Network managed by Climate and Atmospheric Science and the NSW DCCEEW.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a follow-on settlement payment related to the same environmental legal matter."
+  },
+  {
+   "text": "Cadia Holdings will also pay A$25,000 to the NSW EPA as a contribution to the investigative and legal costs incurred by the NSW EPA in connection with the incidents and with respect to negotiating and entering into the enforceable undertaking.",
+   "category": "expanded_existing_risk",
+   "rationale": "Additional detail on costs paid as part of the same enforceable undertaking."
+  },
+  {
+   "text": "The NSW EPA continues to monitor Cadia\u2019s operations and EPL compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing regulatory monitoring, not a new specific risk."
+  },
+  {
+   "text": "The NSW EPA sampling program showed that upstream results for PFAS are the major source in the river system.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new finding that upstream sources are the major source of PFAS contamination, a new environmental risk detail."
+  },
+  {
+   "text": "The NSW EPA has placed conditions on Cadia and other EPA license holders in the area to engage an independent consultant to undertake a PFAS site investigations .",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a regulatory requirement tied to the newly disclosed PFAS issue."
+  },
+  {
+   "text": "There is also a risk that some or all of the expected benefits of achieving such targets and goals may fail to materialize within our anticipated time frames or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about failing to meet targets/goals, standard boilerplate."
+  },
+  {
+   "text": "Additional rebaselining was required to reflect Newmont\u2019s portfolio following the sale of non-core operating assets in 2025, and may be required again in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes rebaselining due to asset sales, expanding on existing target-setting risk discussion."
+  },
+  {
+   "text": "In late 2025, a bushfire that began in mid\u2011December affected the area surrounding our Boddington operations in Western Australia, resulting in a temporary suspension of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific bushfire event that caused operational suspension at Boddington, a new concrete operational risk."
+  },
+  {
+   "text": "While major infrastructure remained secure and undamaged due to established bushfire preparedness protocols, portions of the site\u2019s water supply infrastructure were impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on the impact of the bushfire event just disclosed."
+  },
+  {
+   "text": "Conversely, heavier\u2011than\u2011normal snowfall and severe winter storm conditions have the potential to obstruct transport routes and access roads to Brucejack and Red Chris.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of winter storms obstructing access to named mine sites."
+  },
+  {
+   "text": "In addition, in June 2025 two fall of ground incidents occurred in the access way to the underground work area of a non-producing project at the Red Chris Mine in British Columbia, Canada.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new safety incidents (fall of ground) at a named project, a concrete operational/safety risk."
+  },
+  {
+   "text": "Refer to Note 24 to the Consolidated Financial Statements under the heading Environmental Matters - Minera Yanacocha S.R.L , for additional information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement notes, no substantive new content."
+  },
+  {
+   "text": "The current governmental authorities are currently seeking to renegotiate the scope and manner of tax calculation for purposes of the 2025 to 2027 tax period, which includes request for expansion of taxable volumes of extracted materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new government attempt to renegotiate tax calculation and expand taxable extraction volumes, a concrete regulatory risk."
+  },
+  {
+   "text": "The Company continues to engage with the government to align renewal terms with the prior agreements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes ongoing engagement related to the newly disclosed tax renegotiation risk."
+  },
+  {
+   "text": "However, if the change to tax extraction volumes is imposed by the government, it would result in significantly higher tax obligations and would materially impact financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further quantifies the potential financial impact of the tax renegotiation risk already introduced."
+  },
+  {
+   "text": "With the expected election of state governor in 2027, a change in government authorities will also result in more uncertainty of this environmental tax calculation in future years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds political context increasing uncertainty around the same tax risk."
+  },
+  {
+   "text": "Also, in Mexico, a 2021 tax reform bill passed which eliminated the tax benefit to offset mining fees with mining tax.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific Mexican tax reform eliminating a tax benefit, a distinct new regulatory risk."
+  },
+  {
+   "text": "In Australia, the policy of allowing mining companies to benefit from fuel tax credits has been under increasing pressure, any changes to related regulations would impact the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new pressure on Australian fuel tax credit policy affecting the company."
+  },
+  {
+   "text": "In October 2025, the Congress declared the vacancy of President Dina Boluarte, assuming the presidency of Jos\u00e9 Jer\u00ed, making him the eighth Peruvian president in less than a decade.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific political instability event in Peru (presidential change) relevant to operational risk."
+  },
+  {
+   "text": "In February 2026, Peru's Congress voted to impeach Jos\u00e9 Jer\u00ed, resulting in further political uncertainties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the narrative of Peruvian political instability with a further specific event."
+  },
+  {
+   "text": "General elections are scheduled to be held in Peru in April 2026, which will also be impactful to the political and social environment in Peru.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds further detail on upcoming elections contributing to the same political uncertainty risk."
+  },
+  {
+   "text": "The process and requirements for approval of residence permits have also been heightened.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new heightened requirements for residence permit approvals, a new operational/regulatory risk."
+  },
+  {
+   "text": "The restrictions on expatriates may impact our ability to hire and retain skilled and experienced workers for core technical roles.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the impact of the newly disclosed permit restrictions on hiring."
+  },
+  {
+   "text": "Additionally, collective agreement negotiations has been protracted for eighteen months as at December 2025 and currently at the mediation board stage.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new labor risk regarding protracted collective agreement negotiations reaching mediation."
+  }
+ ]
+}

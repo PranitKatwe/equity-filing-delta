@@ -1,0 +1,193 @@
+{
+ "ticker": "EVRG",
+ "sector": "Utilities",
+ "filing_date": "2026-02-19",
+ "accession": "0001711269-26-000017",
+ "prior_accession": "0001711269-25-000004",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 24
+ },
+ "items": [
+  {
+   "text": "The Evergy Companies' labor agreements expire at varying times from 2026 through 2028.",
+   "category": "reworded_same_meaning",
+   "rationale": "Simply updates the specific years for labor agreement expirations, a factual detail update with no new substantive risk."
+  },
+  {
+   "text": "Humphrey (f) 55 Senior Vice President, General Counsel and Corporate Secretary 2010 Charles L.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive officer name/title/tenure listing, organizational boilerplate not a risk factor."
+  },
+  {
+   "text": "Reasoner (h) 60 Senior Vice President and Chief Nuclear Officer 2025 Matthew B.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive officer title/tenure listing, boilerplate biographical info."
+  },
+  {
+   "text": "Gummig (i) 40 Vice President and Chief Accounting Officer 2025 (a) Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive officer title/tenure listing, boilerplate biographical info."
+  },
+  {
+   "text": "(2024-2025) and as Senior Vice President, Public Affairs and Chief Customer Officer of Evergy, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about an executive's prior role, not a risk disclosure."
+  },
+  {
+   "text": "Bridson was appointed Senior Vice President, Generation and Operations Support of Evergy, Inc., effective October 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announcement of executive appointment, biographical boilerplate."
+  },
+  {
+   "text": "Bridson previously served as Vice President, Generation of Evergy, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about prior role, not a risk factor."
+  },
+  {
+   "text": "He previously served as Senior Vice President, Generation and Marketing of Evergy Kansas Central (2015-2018).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about prior role, not a risk factor."
+  },
+  {
+   "text": "He joined Evergy Kansas Central in 1993 and held several positions with the company, including Vice President of Generation, Executive Director of Generation, Executive Director of Lawrence Energy Center, Executive Director of Gas-fired Power Plants, Director of Operations and Plant Engineer at Jeffrey Energy Center.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, not a risk disclosure."
+  },
+  {
+   "text": "Reasoner was appointed Senior Vice President and Chief Nuclear Officer of Evergy, Inc., effective October 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive appointment announcement, biographical boilerplate."
+  },
+  {
+   "text": "Reasoner previously served as Vice President and Chief Nuclear Officer of Evergy, Inc (2019-2025).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about prior role, not a risk factor."
+  },
+  {
+   "text": "Reasoner also serves as President and Chief Executive Officer, Board of Directors Member, Chief Nuclear Officer and Treasurer of Wolf Creek Nuclear Operating Corporation (2019-present).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about current role at subsidiary, not a risk disclosure."
+  },
+  {
+   "text": "He previously served as Senior Vice President, Chief Nuclear Officer of Wolf Creek Nuclear Operating Corporation (2018-2019) and Site Vice President of Wolf Creek Nuclear Operating Corporation (2014-2018).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, not a risk factor."
+  },
+  {
+   "text": "Prior to joining Wolf Creek Nuclear Operating Corporation, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical transition sentence, not risk-related."
+  },
+  {
+   "text": "Reasoner served as Vice President of Engineering at Ameren Corporation's Callaway nuclear power plant and Site Vice President (2009-2014).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, not a risk factor."
+  },
+  {
+   "text": "Before joining Ameren's Callaway plant, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical transition sentence, not risk-related."
+  },
+  {
+   "text": "Reasoner started his nuclear career at Arkansas Nuclear One and served in a variety of engineering roles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, not a risk factor."
+  },
+  {
+   "text": "Gummig was appointed Vice President and Chief Accounting Officer of Evergy, Inc., effective April 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive appointment announcement, biographical boilerplate."
+  },
+  {
+   "text": "Gummig previously served as Director of External Reporting, Policy and Property Accounting of Evergy, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about prior role, not a risk factor."
+  },
+  {
+   "text": "Prior to that, he held the position of Senior Manager of External Reporting and various other roles of increasing responsibility within Evergy, Inc.'s accounting organization (2012-2023).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, not a risk factor."
+  },
+  {
+   "text": "Gummig also served in various roles within the assurance practice of Ernst & Young (2009-2011).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, not a risk factor."
+  },
+  {
+   "text": "The Evergy Companies' business and capital investment plan calls for significant investment in capital improvements and additions, including the construction or acquisition of additional generation and transmission facilities, interconnection with data centers and modernizing existing infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the existing capital investment risk by adding specifics about data center interconnection and infrastructure modernization needs."
+  },
+  {
+   "text": "Financial Risks: Evergy\u2019s business and capital investment plans depend, in part, on the viability of data centers and large load customers interconnecting with Evergy\u2019s utility subsidiaries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financial risk tied to the viability of data center and large load customer interconnections affecting capital plans."
+  },
+  {
+   "text": "The Evergy Companies are experiencing current and projected load demands that exceed recent experience, creating a business need for new power generating resources and transmission facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new operational risk: load demand exceeding historical experience creating need for new infrastructure."
+  },
+  {
+   "text": "Much of this demand is driven by interconnecting with and providing power to data centers and large load customers to serve an increasingly digital economy and to support artificial intelligence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the load demand risk by specifying data centers and AI as drivers, expanding the previously stated risk."
+  },
+  {
+   "text": "The business and capital investment plans of the Evergy Companies are focused on meeting these current and projected needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that plans are focused on meeting needs, framing language without new risk content."
+  },
+  {
+   "text": "If these increased demands for electricity do not occur as projected or are not sustained as projected, for any reason, it could have a material adverse effect on the Evergy Companies' financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that failure of projected demand growth to materialize could cause material adverse financial effects."
+  },
+  {
+   "text": "While the Evergy Companies currently expect sufficient available debt and equity capital from public and private funding sources, there is no guarantee such sources will be available in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about capital availability, standard forward-looking caveat."
+  },
+  {
+   "text": "The One Big Beautiful Bill Act (OBBBA) was signed into law on July 4, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory development (OBBBA) that did not exist in prior filings, a new legal/regulatory risk factor."
+  },
+  {
+   "text": "The OBBBA, among other things, changed most of the federal renewable energy initiatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how the new law changes renewable energy initiatives, expanding on the newly introduced regulatory risk."
+  },
+  {
+   "text": "The Evergy Companies' strategy is expected to result in the modernization and expansion of the generation fleet to support economic expansion in Kansas and Missouri and, as reflected in their IRPs, is expected in the future to be accompanied by the retirement of older coal-fired generation units and/or conversion of coal-fired generation resources to natural gas.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing generation transition risk with more detail on coal retirement/conversion strategy."
+  },
+  {
+   "text": "Kansas has enacted legislation that partially mitigates wildfire-related liability exposure for Kansas public utilities by establishing a two-year statute of limitations for wildfire-related claims and imposing a cap on punitive damages awarded under a fire-related claim.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal development (Kansas wildfire liability legislation) that materially affects litigation risk exposure."
+  },
+  {
+   "text": "The law also requires plaintiffs to prove fire-related claims by a preponderance of the evidence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail (burden of proof) to the newly introduced wildfire liability legislation risk."
+  },
+  {
+   "text": "This time frame is consistent with the majority of industry peers with stated net-zero emissions goals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic comparative framing statement about industry peer alignment, not a substantive risk."
+  },
+  {
+   "text": "The SPP's rules are primarily designed to provide for maximum cost-effectiveness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about SPP rules' purpose, generic framing without new specific risk."
+  }
+ ]
+}

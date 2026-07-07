@@ -1,0 +1,138 @@
+{
+ "ticker": "FOX",
+ "sector": "Communication Services",
+ "filing_date": "2025-08-06",
+ "accession": "0001628280-25-038077",
+ "prior_accession": "0001628280-24-036123",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "This has caused ratings and viewership declines for television networks, including some of our networks.",
+   "category": "expanded_existing_risk",
+   "rationale": "States that cord-cutting/streaming shift has already caused ratings/viewership declines, expanding a previously acknowledged industry risk with a factual claim of realized impact."
+  },
+  {
+   "text": "Periods of economic weakness also could accelerate industry-wide shifts in advertising expenditures from linear to digital advertising.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about economic weakness accelerating advertising shift, a standard cautionary framing."
+  },
+  {
+   "text": "Our ability to generate advertising revenue also depends on demand for our content, the viewers in our targeted demographics, advertising rates, targeting capabilities, results observed by advertisers, the perceived effectiveness of our advertising offerings and alternative advertising options.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of factors affecting advertising revenue, standard risk factor language."
+  },
+  {
+   "text": "In addition, factors such as terrorist acts, wars, political uncertainties and hostilities, natural and other disasters and widespread health emergencies can also negatively impact advertising revenues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of macro disruptive events affecting advertising revenue, common boilerplate."
+  },
+  {
+   "text": "Factors that have affected and could in the future affect economic and financial conditions include actual or perceived uncertainty about economic stability (including taxes and tariffs) and social and political uncertainties and conflicts, changes in consumer confidence, recession, high inflation, declining economic growth, diminished availability of credit, higher interest rates, unemployment rates and changes in consumer spending habits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the existing macroeconomic risk factor list to explicitly include taxes and tariffs among conditions affecting the business."
+  },
+  {
+   "text": "The Company\u2019s ability to compete effectively depends on a number of factors, including our ability to consistently offer popular content, successfully adapt to evolving technologies and distribution platforms and offerings, and maintain widespread distribution of our content.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about competitive factors, largely restating existing competitive risk framing."
+  },
+  {
+   "text": "Generative AI may enable new competitors to rapidly produce large volumes of content and replicate or imitate our proprietary content without authorization, attribution or compensation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: generative AI enabling competitors to replicate content without authorization, a concrete new technological threat."
+  },
+  {
+   "text": "This could dilute the value of our content, reduce audience engagement or lead to negative impacts on our revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and quantifies the impact of the newly introduced generative AI risk on revenue and engagement, expanding on sentence 6's risk."
+  },
+  {
+   "text": "In addition, our ability to compete could be negatively affected if our efforts to enhance the value of our offerings with these technologies are not successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the competitive impact tied to the new AI-related risk theme."
+  },
+  {
+   "text": "Our competitors also include companies with interests in multiple media and entertainment businesses that are vertically integrated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about vertically integrated competitors is a common, previously implied competitive risk restated."
+  },
+  {
+   "text": "The media and entertainment industry is undergoing a period of rapid and significant change, with several industry participants in the midst of transformative transactions that may further complicate the competitive environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing competitive landscape risk by noting industry-wide transformative transactions increasing complexity."
+  },
+  {
+   "text": "To the extent our content is not compelling to consumers, it may adversely impact our ability to maintain a positive reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement linking content quality to reputation, standard risk language."
+  },
+  {
+   "text": "FOX\u2019s brands, credibility and reputation also could be adversely impacted if AI tools misattribute incorrect information to the Company or if the Company\u2019s use of AI in its own products and services produces content, information, analyses or recommendations that are alleged to be deficient, inaccurate, biased, harmful, discriminatory, an intellectual property infringement, a violation of privacy rights or otherwise problematic.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new reputational risk tied to AI tools misattributing information or producing flawed AI-generated content."
+  },
+  {
+   "text": "During fiscal 2025, in connection with the Company\u2019s annual impairment assessment, the Company recorded a non-cash impairment charge for intangible assets of approximately $70 million at the Television segment primarily related to FCC licenses.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material $70 million non-cash impairment charge related to FCC licenses, a concrete financial event not previously disclosed."
+  },
+  {
+   "text": "Developments in technology increase the threat of content piracy by making it easier to create, access, duplicate, widely distribute, display and store high-quality pirated material.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing piracy risk by citing technological developments that make piracy easier, an expansion rather than a new risk."
+  },
+  {
+   "text": "The Company\u2019s use or adoption of such new technologies may also increase the Company\u2019s exposure to intellectual property claims and further increase its enforcement costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing IP risk discussion to cover new technologies like AI increasing exposure to claims and costs."
+  },
+  {
+   "text": "The Company could be adversely affected by new laws and regulations, changes in existing laws and regulations, changes in judicial and regulators\u2019 interpretations of laws and regulations or in regulators\u2019 priorities or activities, as well as by the threat that additional laws or regulations may be forthcoming.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory change risk, standard boilerplate language."
+  },
+  {
+   "text": "Developments in this area may adversely impact the Company\u2019s business, including through increased legal liability risk and compliance costs associated with the use of AI and large language models.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding legal liability and compliance costs tied to AI and large language model use."
+  },
+  {
+   "text": "In addition, new laws and regulations may vary between local, state, federal and international jurisdictions and may conflict, and the enforcement of these laws and regulations may be inconsistent and unpredictable, further intensifying compliance risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about inconsistency of laws across jurisdictions, standard regulatory risk boilerplate."
+  },
+  {
+   "text": "Changes in the legal or regulatory landscape could require FOX to change or limit certain of its business practices in ways that negatively impact the Company, including its competitive position and its ability to generate revenues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about regulatory changes affecting business practices, typical risk factor language."
+  },
+  {
+   "text": "FOX could also incur substantial costs to comply with new and existing laws and regulations and could face substantial penalties or other liabilities, reputational damage or increased scrutiny from regulators or stakeholders if it fails to comply with such laws and regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compliance costs and penalties, standard boilerplate."
+  },
+  {
+   "text": "In February 2025, the FCC began a proceeding to explore whether the remaining C-Band should be, in whole or in part, reallocated for commercial wireless and/or broadband services.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new FCC proceeding regarding reallocation of C-Band spectrum, a concrete regulatory development affecting the business."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act was signed into law, directing the FCC to conduct within two years an auction of at least 100 MHz of C-Band spectrum.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new law (One Big Beautiful Bill Act) mandating an FCC auction of C-Band spectrum, a concrete regulatory risk."
+  },
+  {
+   "text": "See Note 14, \u201cCommitments and Contingencies,\u201d to the accompanying consolidated financial statements included in this Form 10-K for a discussion of certain of these 27 matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to financial statement notes, not a substantive risk disclosure."
+  }
+ ]
+}

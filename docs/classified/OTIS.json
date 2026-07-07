@@ -1,0 +1,103 @@
+{
+ "ticker": "OTIS",
+ "sector": "Industrials",
+ "filing_date": "2026-02-05",
+ "accession": "0001781335-26-000011",
+ "prior_accession": "0001781335-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 17,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "These impacts may include hindering our ability to r ecruit and retain employees or deploy certain employees to the geographies where their skills are best utilized, increased costs for our customers, declining consumer confidence, significant inflation and diminished economic expectations, which could ultimately reduce demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on macroeconomic/trade impacts (labor, costs, demand) as an extension of existing economic/trade risk discussion rather than a new distinct risk."
+  },
+  {
+   "text": "While we take steps to mitigate or avoid these increased costs, disruptions and legal risks due to changes in trade policies, our ability to do so may be limited by operational and supply chain constraints, especially in the short term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about limitations on mitigating trade-policy-driven cost increases, expanding the existing trade policy risk discussion."
+  },
+  {
+   "text": "In addition, our ability to recover cost increases and maintain profitability levels through price adjustments may be limited by competitive pressures, customer acceptance, and contractual limitations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the existing risk of cost increases by noting competitive and contractual limits on price recovery."
+  },
+  {
+   "text": "Tariff actions by the U.S. and retaliatory actions by other countries have caused, and may in the future cause, significant disruption and volatility in the financial markets, which could adversely affect the availability, terms and cost of capital, including with respect to refinancing our existing debt, and which in turn could reduce our cash flows and harm our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that tariff-driven market volatility could affect the cost and availability of capital, including debt refinancing, which is a distinct financial risk not previously covered."
+  },
+  {
+   "text": "Additionally, the escalation of trade conflicts between the U.S. and China could further impact economic conditions in the U.S. and China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a general statement about trade conflict escalation affecting economic conditions, consistent with existing trade risk narrative."
+  },
+  {
+   "text": "Further, as we integrate emerging and rapidly evolving technologies, including AI, into our products and services, we face evolving risks related to safety, data governance, regulatory compliance and intellectual property and may not be able to anticipate or identify vulnerabilities, design flaws or security threats resulting from the use of such technology and develop adequate protection measures, which could lead to unintended consequences and significantly impact our business, reputation, and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risks tied to integrating AI technologies, including safety, data governance, and undetected vulnerabilities affecting business and reputation."
+  },
+  {
+   "text": "Changes in these laws or their interpretation, administration and/or enforcement may also occur over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about laws changing over time, standard cautionary language."
+  },
+  {
+   "text": "Additionally, we provide products and services to government entities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new factual disclosure that the company serves government entities, setting up a new risk category around government contracts."
+  },
+  {
+   "text": "Government contract laws and regulations impose certain risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement that government contract laws impose risks, without specific detail."
+  },
+  {
+   "text": "If violations of law are found, they could result in civil and criminal penalties and administrative sanctions, including termination of contracts, refund of a portion of fees received, forfeiture of profits, suspension of payments, fines and suspensions or debarment from future government business.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific severe consequences (penalties, debarment, contract termination) from violations of government contract laws, a new substantive risk not previously described."
+  },
+  {
+   "text": "Each of these factors could negatively impact our business, results of operations, financial condition, and reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all statement about negative impact on business, typical boilerplate."
+  },
+  {
+   "text": "See discussion of other risks associated with our international business, including changes in trade policies, discussed above and elsewhere in this Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to other sections, no new substantive content."
+  },
+  {
+   "text": "We report on our sustainability and responsibility projects and programs, as required by applicable law and voluntarily.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes routine reporting practice on sustainability, not a risk statement."
+  },
+  {
+   "text": "Our strategies reflect our focus on projects and programs that tie to business performance allowing us to adapt to evolving market needs and pursue new opportunities in alignment with our business strategies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic framing about sustainability alignment with business strategy, not a specific risk."
+  },
+  {
+   "text": "Nonetheless, there is no certainty that these projects and programs will deliver the desired outcomes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty about outcomes of sustainability programs, expanding on existing sustainability-related risk discussion."
+  },
+  {
+   "text": "As global standards and regulations relating to AI increase and change, they could result in additional costs, regulatory scrutiny, legal liability and reputational harm, including if we fail to comply with such standards and regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk specifically about evolving AI standards leading to costs, legal liability, and reputational harm."
+  },
+  {
+   "text": "Additionally, misuse of sensitive data used in AI models may lead to privacy violations or non-compliance with data protection laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding misuse of sensitive data in AI models causing privacy violations or non-compliance."
+  }
+ ]
+}

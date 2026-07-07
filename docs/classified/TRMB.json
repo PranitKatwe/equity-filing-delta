@@ -1,0 +1,188 @@
+{
+ "ticker": "TRMB",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-25",
+ "accession": "0000864749-26-000015",
+ "prior_accession": "0000864749-25-000090",
+ "model": "claude-sonnet-5",
+ "n_added": 34,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "Uncertainty persists around the ongoing heightened trade tensions between the U.S. and its trading partners, the resulting threats and imposition of tariffs (including those intended for foreign policy objectives), and their impacts on the global economy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generic elaboration on trade tension/tariff uncertainty, a topic likely already present, without new specifics."
+  },
+  {
+   "text": "We are also dependent on a number of suppliers as the sole source of certain materials.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about sole-source supplier dependency, expanding existing supply chain risk."
+  },
+  {
+   "text": "In addition, substantial increases in demand for certain commodities and components by major AI companies, who are able to pay high prices and acquire significant portions of the available supply, have made it difficult and more expensive to obtain certain commodities and components, and such challenges could continue unless there are increases in supply or decreases in demand by such companies for the affected commodities and components.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new driver of component shortages: AI companies competing for supply, a concrete new risk factor."
+  },
+  {
+   "text": "10 Table of Contents Further, certain components used in our products require long lead times for ordering, and if we do not accurately forecast the need for such components, we may end up with component shortages or excess inventory.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on forecasting/lead-time issues within existing component supply risk."
+  },
+  {
+   "text": "Catastrophic events, such as pandemics, acts of war, or natural disasters, and their resulting impacts can also cause shortfalls in available components, as we experienced during the global supply chain shortage in 2021 and 2022.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds historical example to existing catastrophic event/supply chain risk."
+  },
+  {
+   "text": "Due to the time required to prepare and file the prior delayed reports, the Company delayed the filing of its Annual Report on Form 10-K for the fiscal year ended January 3, 2025 (the \u201c2024 Form 10-K\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific delayed 10-K filing, a concrete compliance issue not previously mentioned."
+  },
+  {
+   "text": "Those filings disclosed additional material weaknesses as described more fully therein.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses additional material weaknesses, a specific and material internal control issue."
+  },
+  {
+   "text": "After the filings, the Company regained compliance with the Listing Rule.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States resolution of compliance issue; factual update rather than a new risk."
+  },
+  {
+   "text": "Continuing to develop and expand robust distribution channels is important for maintaining and increasing sales in our dynamic and evolving markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about importance of distribution channels, no new specific risk."
+  },
+  {
+   "text": "To do so successfully, we must, together with our partners, continue to invest in developing the sales, marketing, support, and infrastructure requirements for a robust distribution channel.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about continued investment needs, no new specifics."
+  },
+  {
+   "text": "We also maintain a minority, non-controlling interest in Platform Science, a private company that acquired our Mobility business in February 2025, and we continue to provide products and services to Platform Science under various commercial relationships.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new minority equity relationship with Platform Science following divestiture, a new business dependency."
+  },
+  {
+   "text": "The value of our minority equity interest in Platform Science, as well as the commercial benefits that we may realize from our commercial relationships, will depend upon the performance of Platform Science and the Mobility business, which we do not control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on risk tied to the newly disclosed Platform Science relationship."
+  },
+  {
+   "text": "AI functionality is becoming increasingly important, and if we do not develop and expand our AI capabilities on pace with our competitors, our product offerings may fall behind.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces competitive risk tied specifically to AI capability development."
+  },
+  {
+   "text": "Generative AI may also enable other parties to rapidly develop products and functionality that compete with our product offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of generative AI enabling competitors to rapidly develop competing products."
+  },
+  {
+   "text": "The growing availability of AI tools has increased the sophistication of attacks, enabling more convincing phishing schemes, automated vulnerability discovery, and the rapid creation of novel malware.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific cybersecurity risk from AI-enabled attacks like phishing and malware."
+  },
+  {
+   "text": "AI functionality is becoming increasingly important, and we must continue to develop and expand our AI capabilities.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same AI capability importance point made earlier in near-identical wording."
+  },
+  {
+   "text": "Our use of AI exposes us to a unique and rapidly evolving set of risks, including the following: \u2022 Our AI strategy requires substantial investment in technology and talent, and there can be no assurance that our investments will be beneficial to our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about AI investment uncertainty and lack of guaranteed business benefit."
+  },
+  {
+   "text": "If we fail to navigate these challenges effectively, we could suffer reputational, technical, or competitive harm and our business and results of operations could be negatively affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about potential harm, standard boilerplate closing."
+  },
+  {
+   "text": "The private party involved ultimately disclaimed any plans to implement such terrestrial operations, but this proposal or similar ones could be revived in the future and other countries have considered proposals for use of frequencies that could cause harmful interference to our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factual detail (disclaimed plans, other countries' proposals) to existing interference risk."
+  },
+  {
+   "text": "Such interference could degrade our product performance, damage our customer relationships, and require us to make expensive changes to our network of receivers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates known consequences of interference already implied by existing risk topic."
+  },
+  {
+   "text": "Given the complexity of these laws, there is a heightened risk that some provisions may be breached, either intentionally or inadvertently.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds emphasis on heightened breach risk within existing anti-corruption compliance risk."
+  },
+  {
+   "text": "In response to foreign corruption, some countries have adopted anti-corruption and anti-bribery laws, such as the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General contextual statement about anti-corruption laws, not a new risk."
+  },
+  {
+   "text": "In certain circumstances, strict compliance with anti-bribery laws may conflict with local customs and practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific nuance about conflicts between compliance and local customs, expanding existing legal risk."
+  },
+  {
+   "text": "Changes in any of these areas could increase our compliance burden, raise our operating costs, or require us to alter our business practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compliance burden and cost increases."
+  },
+  {
+   "text": "As a result, we are subject to a complex and evolving patchwork of data privacy and data security laws and regulations in the United States and other jurisdictions in which we operate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates existing data privacy risk framing with slightly more emphasis on complexity."
+  },
+  {
+   "text": "These include the EU Data Act, Europe's General Data Protection Regulation (GDPR), which carries fines of up to 4% of global annual revenue, and a growing number of comprehensive state-level privacy laws in the U.S., including the California Privacy Rights Act (CPRA) and similar legislation in other states.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific named laws (EU Data Act, GDPR, CPRA) to existing data privacy risk discussion."
+  },
+  {
+   "text": "In addition, our use of AI and machine learning relies on access to large datasets, which creates novel data privacy challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about AI/ML reliance on large datasets creating novel privacy challenges."
+  },
+  {
+   "text": "Evolving laws and regulations governing AI may impose new restrictions on how we collect and use data to train our models, potentially limiting our ability to innovate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about evolving AI regulations restricting data use for model training."
+  },
+  {
+   "text": "As a global company, we regularly transfer personal data across borders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on cross-border data transfers within existing privacy risk discussion."
+  },
+  {
+   "text": "Failure to comply with these data privacy 19 Table of Contents and data security laws and regulations may lead to significant fines, private litigation, reputational harm, and business interruption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consequences of non-compliance, standard boilerplate."
+  },
+  {
+   "text": "Such events, and the resulting damage to our reputation, could harm our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reputational harm boilerplate."
+  },
+  {
+   "text": "In response to the imposition of significant new tariffs on the importation of goods from various countries, we have restructured our global fulfillment network, moving away from a largely centralized inventory in the U.S. to maintaining more commodity, component, and product inventory in several regions around the world.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses concrete new operational change (restructuring fulfillment network) due to tariffs, a specific business impact."
+  },
+  {
+   "text": "This change has introduced new risks and challenges regarding local inventory management, procurement, and product distribution.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on risks introduced by the fulfillment network restructuring described just before."
+  },
+  {
+   "text": "Complying with these regulations and obligations may involve significant expense.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compliance costs, standard boilerplate."
+  }
+ ]
+}

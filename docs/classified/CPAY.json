@@ -1,0 +1,193 @@
+{
+ "ticker": "CPAY",
+ "sector": "Financials",
+ "filing_date": "2026-02-27",
+ "accession": "0001175454-26-000018",
+ "prior_accession": "0001628280-25-008746",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "Incidents affecting these third parties, including disruptions, system outages, technology failures or vulnerabilities, capacity constraints, insolvency, or other cybersecurity incidents could disrupt our services and extend recovery times beyond our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing third-party/vendor cybersecurity risk by adding specifics like capacity constraints and insolvency, expanding an existing risk category rather than introducing a wholly new one."
+  },
+  {
+   "text": "Disruptions could result in transaction delays or failure, financial losses, contractual penalties, regulatory scrutiny and damage to our reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of consequences of disruption (delays, financial loss, reputational harm) that is standard cautionary language following the prior sentence."
+  },
+  {
+   "text": "In addition, evolving regulatory frameworks focused on operational resilience and incident reporting may increase our obligations and potential exposure arising from such events.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk around operational resilience and incident reporting obligations."
+  },
+  {
+   "text": "We also operate in an evolving regulatory environment for cybersecurity and data privacy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about operating in an evolving regulatory environment, no specific risk detail."
+  },
+  {
+   "text": "New or expanded disclosure or notification obligations could increase our compliance costs and exposure to enforcement or litigation following an incident.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about compliance costs and enforcement exposure tied to the already-introduced regulatory evolution risk."
+  },
+  {
+   "text": "Artificial intelligence technologies, including machine learning and generative AI, are being rapidly adopted across the payments and enterprise software industries to improve automation, analytics, fraud detection, customer support and decision- making.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive market/industry context about AI adoption trends, not a specific risk statement."
+  },
+  {
+   "text": "Our competitors, customers and partners may increasingly expect AI-enabled functionality and efficiencies in the solutions they purchase and use.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new competitive pressure risk from customer/competitor AI expectations."
+  },
+  {
+   "text": "If we do not identify, develop, license, acquire and integrate AI technologies into our products and operations on a timely basis, or if we are unable to obtain the data, computing resources or specialized personnel needed to do so cost-effectively, our products and services may become less competitive, we may experience slower growth, reduced transaction volumes, loss of customers or partners, and pressure on margins.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific, material risk of competitive disadvantage, slower growth, and customer loss from failure to adopt AI."
+  },
+  {
+   "text": "In addition, AI-enabled products offered by competitors or third parties could disintermediate aspects of our offerings or reduce demand for certain of our solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of disintermediation by AI-enabled competitor products."
+  },
+  {
+   "text": "Additionally, we may be unable to attract, develop and retain personnel with the skills necessary to execute our strategy in key locations and at the pace required.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific talent-related risk tied to AI strategy execution."
+  },
+  {
+   "text": "Moreover, certain Corporate Payments competitors are able to operationalize and scale certain decentralized payment technologies quicker like cryptocurrencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific competitive risk from competitors scaling decentralized/crypto payment technologies faster."
+  },
+  {
+   "text": "We could also face liquidity constraints if we are unable to timely transfer or access funds, securities or collateral.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new liquidity risk tied to inability to access funds/collateral."
+  },
+  {
+   "text": "Shifts in expectations, together with evolving climate and sustainability reporting regimes and anti-ESG trends, may require changes to our governance practices and increased compliance and disclosure costs, and will subject us to heightened scrutiny.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk from anti-ESG trends and evolving climate/sustainability reporting requiring governance changes and increased scrutiny."
+  },
+  {
+   "text": "In addition, organizations that inform investors on corporate governance and sustainability matters, including ratings providers, proxy advisors and index compilers, continue to update their methodologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about third-party ratings/advisory organizations updating methodologies, contextual rather than a risk itself."
+  },
+  {
+   "text": "Unfavorable ratings, downgrades, or exclusion from indices, as well as perceived misalignment with stakeholder expectations, may lead to negative investor sentiment, reduced demand for our securities and the diversion of investment to other companies or industries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the ESG-related risk by detailing potential investor sentiment and demand impacts."
+  },
+  {
+   "text": "For example, (a) our limited partnership agreement with TPG requires us, under specified circumstances, to deliver minimum return payments to third-party investors up to 1.6 times invested capital in connection with a subsequent sale or other exit event, and (b) Mastercard has a limited right to sell, or put, its interest back to the Company for a period of six months, after which, the Company has a limited six-month reciprocal right to repurchase, or call, Mastercard\u2019s interest.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific, material contractual obligations (TPG minimum return, Mastercard put/call rights) not previously described."
+  },
+  {
+   "text": "Any payment under these provisions could be material, would reduce cash otherwise available upon a sale, and may require us to use cash or obtain additional financing, which may adversely affect our liquidity, leverage, covenant compliance and strategic flexibility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the financial consequences of the specific contractual provisions just introduced."
+  },
+  {
+   "text": "If stablecoins and other blockchain-based payments achieve broad adoption, our cross-corder solutions could be impacted and we may be required to make significant investments in new technologies and compliance frameworks, any of which could materially adversely affect our business, financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding stablecoin/blockchain adoption impacting cross-border solutions and requiring new investments."
+  },
+  {
+   "text": "Stablecoins and blockchain-based payments are continuing to evolve and garnering attention from financial institutions, payment providers and end users.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General contextual statement about stablecoins evolving and gaining attention, not a specific risk."
+  },
+  {
+   "text": "If we are unable to provide blockchain-based payments solutions to satisfy customer demand, there is a risk of decreased demand for our cross-corder solution.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the stablecoin risk theme by specifying decreased demand risk if unable to meet customer demand."
+  },
+  {
+   "text": "Because our cross-corder solution relies on carefully curated bank relationships, our exposure to these dynamics may be greater than that of certain competitors that are less dependent on traditional banking models.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific competitive disadvantage due to reliance on curated bank relationships versus less bank-dependent competitors."
+  },
+  {
+   "text": "The success of stablecoin and blockchain-based payments could increase price competition and diminish volume on our existing solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on stablecoin risk theme by adding price competition and volume diminishment concerns."
+  },
+  {
+   "text": "To remain competitive, we are integrating certain stablecoin and blockchain capabilities, but there is no assurance that our efforts will be sufficient.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the stablecoin risk narrative describing company's mitigation efforts and uncertainty of success."
+  },
+  {
+   "text": "These efforts could require significant time and expense, specialized talent and technology, and may divert management attention.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about efforts requiring time, expense, and management attention, common cautionary language."
+  },
+  {
+   "text": "Our potential pursuit of stablecoin-enabled solutions could also increase our dependence on third parties that may experience outages, security incidents, insolvency, regulatory restrictions or changes in terms that impair our services or increase our costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends stablecoin-related risk to third-party dependency issues like outages and regulatory restrictions."
+  },
+  {
+   "text": "We cannot assure you that any such initiatives will be timely, successful or accepted by customers, or that they will offset any deterioration in our current offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about uncertainty of initiative success, standard cautionary language."
+  },
+  {
+   "text": "In addition, the regulatory landscape for stablecoins and blockchain-based payments remains unsettled.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory uncertainty risk around stablecoins and blockchain payments."
+  },
+  {
+   "text": "Changes in, or inconsistent application of, laws and regulations relating to stablecoins could impose new licensing obligations, operational controls, reporting and disclosure obligations or other burdens.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced regulatory risk with specifics about licensing and reporting obligations."
+  },
+  {
+   "text": "If we or our partners are unable to obtain or maintain necessary approvals or licenses, or if regulatory authorities impose restrictions on stablecoin issuance, redemption, use or distribution, we may be required to modify, suspend or discontinue related services, potentially at short notice.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential operational impact (service suspension) from regulatory restrictions on stablecoins."
+  },
+  {
+   "text": "Compliance with multiple, evolving regimes could increase cost and complexity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about increased cost/complexity from multiple regulatory regimes."
+  },
+  {
+   "text": "Government budgets, policy shifts, prolonged or recurring government shutdowns and funding delays can affect the timing of awards, renewals and payments, and may reduce or pause spending under existing contracts or impede new awards.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding government shutdowns and funding delays affecting contracts and payments."
+  },
+  {
+   "text": "Any of the foregoing could adversely affect our business, operating results and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all statement about foregoing risks affecting business, standard boilerplate."
+  },
+  {
+   "text": "Certain subsidiaries are authorized and supervised as payment and/or e\u2011money institutions and are subject to customer fund safeguarding requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific regulatory status (payment/e-money institution supervision) and safeguarding requirements not previously mentioned."
+  },
+  {
+   "text": "These regimes permit safeguarding through segregation of customer funds in designated safeguarding accounts and, in certain cases, through insurance policies or comparable guarantees, and may permit a combination of methods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes mechanics of safeguarding methods, descriptive rather than a new risk."
+  },
+  {
+   "text": "We maintain a safeguarding and liquidity management framework intended to minimize the risk of loss or diminution of relevant funds through fraud, misuse, negligence or poor administration.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company's mitigation framework intended to minimize risk, a reassurance statement rather than a new risk disclosure."
+  }
+ ]
+}

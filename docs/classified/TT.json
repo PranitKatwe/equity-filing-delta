@@ -1,0 +1,178 @@
+{
+ "ticker": "TT",
+ "sector": "Industrials",
+ "filing_date": "2026-02-05",
+ "accession": "0001628280-26-005731",
+ "prior_accession": "0001466258-25-000039",
+ "model": "claude-sonnet-5",
+ "n_added": 32,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "To help promote inclusion and belonging in the workplace, we offer voluntary company forums such as: \u2022 Bridging Connection Sessions \u2013 Bridging Connections means bringing people and ideas together by respecting differences and making everyone feel included.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a voluntary DEI workplace program, not a business risk."
+  },
+  {
+   "text": "When we connect with openness and kindness, we help everyone understand and learn from each other.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic aspirational statement about inclusion, no risk content."
+  },
+  {
+   "text": "8 Table of Contents \u2022 The Work of the Inclusive Leader course \u2013 This course equips our employees with the skills to create an environment where people feel respected, valued, and empowered to contribute their best.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a leadership training course, not a risk disclosure."
+  },
+  {
+   "text": "It turns intention into action and shapes behaviors that drive our leadership principles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about behavior/leadership principles, no risk content."
+  },
+  {
+   "text": "To eliminate financial barriers, the program covers tuition costs in advance. \u2022 Dependent Scholarships \u2013 To support learning in our employees' families, we offer $2,500 scholarships to support their dependent children's pursuits beyond high school, whether for a traditional degree or a trade certification. \u2022 Compliance Training \u2013 Our Compliance Training curriculum covers key topics that are important to protect our Company, our people and our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee benefit and compliance training programs, not a risk."
+  },
+  {
+   "text": "To further support employee well-being, we implemented Inflection, a program that provides locally relevant information and support for Fertility, Family Building and Menopause in the U.S. in 2025, with global rollout in January 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new employee wellness benefit program, not a business risk."
+  },
+  {
+   "text": "In the U.S., we also increased the parental leave for non-birth parents to 4 weeks, which aligns with the leave provided to birth parents.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a parental leave policy change, not a risk factor."
+  },
+  {
+   "text": "Lazar (60) 9/29/2025 Senior Vice President, General Counsel and Secretary (since September 2025); Private Investor (August 2023 to September 2025); Executive Vice President, Chief Legal Officer and Secretary of TechnipFMC plc (November 2020 to July 2023) Mair\u00e9ad A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography information, unrelated to risk factors."
+  },
+  {
+   "text": "Approximately 75% of our net revenues in 2025 were derived inside the U.S., and we sold products in approximately 100 countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated specific figures on U.S. vs international revenue concentration, supporting existing international operations risk."
+  },
+  {
+   "text": "In addition, many of our customers, manufacturing operations and suppliers are located outside the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on international exposure of customers, manufacturing, and suppliers, expanding existing international risk."
+  },
+  {
+   "text": "Business\" for additional details.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing."
+  },
+  {
+   "text": "AI also presents emerging issues and the pace presents uncertainties, and we may experience competitive harm, harm to our reputation, or legal liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding AI's competitive, reputational, and legal implications."
+  },
+  {
+   "text": "The accelerating pace of technological change increases the risk of shortened product lifecycles.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on technology change risk by adding shortened product lifecycle concern."
+  },
+  {
+   "text": "The successful development and commercialization of products and services depends on attracting, retaining, and developing highly skilled talent in engineering, technology, and product management.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to talent acquisition and retention for engineering/tech roles."
+  },
+  {
+   "text": "Constraints in the labor market or increased competition for skilled professionals may delay innovation initiatives or increase costs, or require the company to accelerate automation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details labor market constraints impacting the newly introduced talent risk."
+  },
+  {
+   "text": "We also have investments in our subsidiaries located in foreign countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about foreign subsidiary investments, no new risk substance."
+  },
+  {
+   "text": "Changes in governmental policies on foreign trade, geopolitical tensions, and trade disputes can disrupt supply chains and increase the cost of our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding trade policy changes and geopolitical tensions disrupting supply chains."
+  },
+  {
+   "text": "The U.S. continues to implement certain trade actions, including imposing tariffs on certain goods imported from several countries, which has resulted in retaliatory tariffs by other countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on tariffs and retaliatory tariffs, expanding the newly introduced trade risk."
+  },
+  {
+   "text": "Additional tariffs have been proposed by the current U.S. administration and there are active negotiations for extending trade treaties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds further detail on proposed tariffs and trade negotiations, expanding the trade risk."
+  },
+  {
+   "text": "It is not possible to predict the extent or focus of any such tariffs at this time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty disclaimer about predicting tariff impact."
+  },
+  {
+   "text": "These lawsuits may include claims for compensatory damages, punitive and consequential damages, and/or injunctive relief.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic litigation risk boilerplate about types of damages sought."
+  },
+  {
+   "text": "The defense of these lawsuits may divert our management's attention, we may incur significant expenses in defending these lawsuits, we may experience disruption in supply or sales, and we may be required to pay damage awards or settlements or become subject to equitable remedies that could adversely affect our operations or financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic litigation risk boilerplate about management distraction and costs."
+  },
+  {
+   "text": "In addition, the rapid evolution and increased adoption of AI technologies may intensify our cybersecurity risks, including risks from malicious or misuse of AI to craft increasingly sophisticated cybersecurity attacks against us, our business partners, or our third-party vendors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cybersecurity risk stemming from malicious use of AI technologies."
+  },
+  {
+   "text": "Global Data Protection Regulation (GDPR), the various state privacy laws, and other regulatory requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to existing privacy regulations, no new risk substance."
+  },
+  {
+   "text": "Compliance with these regulations increases our costs, affects our competitiveness and can expose us to substantial fines or other penalties, and/or additional reporting or other obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on compliance cost and competitiveness impact from privacy regulations."
+  },
+  {
+   "text": "Failure to achieve our sustainability commitments, address stakeholder expectations related to sustainability, or meet evolving legal requirements related to sustainability could harm our reputation, business operations, and financial performance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding failure to meet sustainability commitments and stakeholder expectations."
+  },
+  {
+   "text": "We have previously announced certain defined sustainability commitments with a goal of achieving these commitments by 2030.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about prior sustainability commitment announcements, supporting context."
+  },
+  {
+   "text": "We also periodically announce new initiatives and product innovations that further our sustainability commitments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about periodic sustainability initiative announcements."
+  },
+  {
+   "text": "If we are unable to meet our targets and goals, it could result in reputational and other harm to our company, adverse publicity and reaction from investors, activist groups and other stakeholders, which could adversely impact our financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific reputational and financial consequences of failing sustainability targets, expanding the new sustainability risk."
+  },
+  {
+   "text": "Stakeholders are increasingly scrutinizing sustainability practices, and stakeholders' expectations regarding these practices are diverse and rapidly changing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds context on increasing stakeholder scrutiny, expanding the sustainability risk."
+  },
+  {
+   "text": "Furthermore, many jurisdictions where we operate have enacted or are in the process of enacting legislation regarding sustainability reporting, monitoring, and other requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on evolving sustainability reporting legislation, expanding the sustainability risk."
+  },
+  {
+   "text": "Failure to meet these evolving legal requirements may subject us to fines, penalties, or other legal obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies legal consequences (fines, penalties) for failing evolving sustainability legal requirements."
+  }
+ ]
+}

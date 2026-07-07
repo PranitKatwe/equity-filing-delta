@@ -1,0 +1,48 @@
+{
+ "ticker": "GLW",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-12",
+ "accession": "0000024741-26-000124",
+ "prior_accession": "0001628280-25-005347",
+ "model": "claude-sonnet-5",
+ "n_added": 6,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Further, the optical communications business faces risks related to fluctuations in telecommunication and hyperscale data center capital spending, which may negatively affect the demand for our products and have a material adverse impact on our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk driver (telecom/hyperscale data center capital spending fluctuations) affecting demand and financial results, not previously described."
+  },
+  {
+   "text": "Additionally, the display glass business is exposed to exchange rate movements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific currency exposure detail tied to the display glass business, likely an extension of a general foreign exchange risk already disclosed elsewhere."
+  },
+  {
+   "text": "Risks associated with the launch of a new business Launching new businesses involves inherent risks, including execution challenges, regulatory compliance, supply chain complexity, and uncertainty in market demand and competitive conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around launching a new business, citing execution, regulatory, supply chain, and market demand uncertainties not previously disclosed."
+  },
+  {
+   "text": "These factors may affect our ability to achieve anticipated returns and strategic objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ability to achieve anticipated returns and strategic objectives, lacking specific new risk content."
+  },
+  {
+   "text": "In connection with our recent entry into the solar industry, we face risks specific to this sector, such as dependence on government manufacturing tax incentives, exposure to policy and regulatory changes, and complexities in sourcing specialized components.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific and material new risks tied to entering the solar industry, including dependence on tax incentives and regulatory exposure."
+  },
+  {
+   "text": "These factors, along with market volatility and evolving industry standards, could further impact the profitability of this business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague reference to market volatility and evolving industry standards without specific new risk detail."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "WDAY",
+ "sector": "Information Technology",
+ "filing_date": "2026-03-06",
+ "accession": "0001327811-26-000014",
+ "prior_accession": "0001327811-25-000056",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 33,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 21,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "The risks and uncertainties described below reflect our beliefs and opinions as to the factors and events that could materially and adversely affect our business or the market price of our securities in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing language about the purpose of risk factors, no substantive content."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not any of the risks, events, or uncertainties described below have occurred in the past.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer about past events being illustrative, not a substantive risk."
+  },
+  {
+   "text": "For example, in July 2025, we identified and subsequently remediated an issue impacting reporting from high-volume data sources in the tenants of certain customers that may have yielded incomplete queries without displaying an error message.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific, previously undisclosed data reporting/incompleteness incident that could affect customers."
+  },
+  {
+   "text": "In addition, we may also encounter difficulties integrating acquired technologies, which may result in the failure of our applications to perform properly.",
+   "category": "expanded_existing_risk",
+   "rationale": "General acquisition integration risk, an extension of typical M&A integration risk language."
+  },
+  {
+   "text": "We may also face greater competition from non-specialist solutions relying on generic large language models (\u201cLLMs\u201d), generative AI, and general-purpose agents to address a broad range of business needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific competitive threat (generic LLMs/generative AI) to the existing competition risk factor."
+  },
+  {
+   "text": "As we attempt to sell our products and solutions to potential and current customers, we must demonstrate that our products and solutions are superior to other solutions available to their organizations, including generic LLMs, software created using natural language prompts and generative AI (referred to as vibe coding) and other emerging technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the same competitive differentiation risk introduced with generic LLMs and AI-based solutions."
+  },
+  {
+   "text": "We have and may continue to execute our growth plan through strategic investments to attract and retain executive officers, senior management, or other key employees that may not be offset by increased performance or revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generic statement about growth investments not being offset by revenue, an extension of existing talent/growth risk."
+  },
+  {
+   "text": "In February 2026, Aneel Bhusri, formerly Executive Chair, assumed the role of CEO and Carl Eschenbach ceased to serve as CEO.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material leadership transition (new CEO) not previously disclosed."
+  },
+  {
+   "text": "The compensation and incentives we have available to attract, retain, and motivate employees may not meet the expectations of current and prospective employees as the competition for talent intensifies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing talent retention risk to note compensation may not meet expectations amid intensifying competition."
+  },
+  {
+   "text": "For example, our equity awards may become less effective if our stock price decreases or increases at a slower rate than our talent competitors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific example tied to existing equity compensation risk regarding stock price effects."
+  },
+  {
+   "text": "In addition, we resell certain products and services offered by our partners and could incur potential liability and reputational harm if our partners fail to provide such products and services as represented to customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific liability/reputational risk tied to reselling partner products and services."
+  },
+  {
+   "text": "We believe that we must continue to dedicate a significant amount of resources to our development efforts to maintain our competitive position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about need to invest in R&D to remain competitive, standard boilerplate."
+  },
+  {
+   "text": "For example, we have and continue to make significant targeted investments in entering the medium-enterprise and U.S. federal government markets and see our success in these markets as key contributors to our future growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing market expansion risk with specific mention of medium-enterprise and federal government markets."
+  },
+  {
+   "text": "Additionally, we have made and continue to make significant investments in platform offerings and AI, including generative AI and agentic capabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extension of ongoing investment risk narrative to include AI and agentic capabilities specifically."
+  },
+  {
+   "text": "Similarly, the rate at which our customers purchase new or enhanced services depends on a number of factors, including general economic conditions and customer receptiveness to any price changes related to these additional features and services.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about factors affecting purchase rates, largely a rephrasing of existing demand-related risk language."
+  },
+  {
+   "text": "The markets and monetization strategies for certain of our offerings, including our agentic AI solutions and Workday Data Cloud, remain relatively new and uncertain and as a result, our expansion into such offerings, and related investments, may present additional risks and challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new, specific product lines (agentic AI, Workday Data Cloud) with uncertain monetization strategies as an added risk."
+  },
+  {
+   "text": "For example, we offer certain capabilities, including our AI agents, through Flex Credits, our new subscription-based flexible pricing model for certain AI solutions and platform capabilities, and may increase the number of products through which we do so.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific pricing model (Flex Credits) and associated business risk not previously disclosed."
+  },
+  {
+   "text": "We have limited experience with determining optimal pricing for Flex Credits-based contracts and may face customer resistance to new pricing models or have lower levels of customer adoption of our AI solutions than we expect, which could negatively impact our business and operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds directly on the newly introduced Flex Credits risk with further detail on pricing uncertainty and adoption risk."
+  },
+  {
+   "text": "We are increasingly building and integrating AI into the Workday product suite, including generative and agentic AI, and we are increasingly using AI products and technologies in the course of running our business at Workday.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing AI integration narrative to include agentic AI and internal use, without introducing a wholly new risk type."
+  },
+  {
+   "text": "Successfully promoting and maintaining our brand will depend on our ability to provide reliable solutions that meet the needs of our customers, our ability to successfully differentiate our products and solutions from those of our competitors, and the effectiveness of our marketing efforts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors affecting brand, standard risk factor language."
+  },
+  {
+   "text": "Additionally, the performance of our partners may affect our brand and reputation if customers do not have a positive experience with our partners\u2019 solutions or services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds partner performance as a factor affecting brand risk, extension of existing reputational risk."
+  },
+  {
+   "text": "These threats may be directed not only at us, but also at third parties in our supply chain, including cloud service providers, software vendors, open-source software maintainers, and other service providers or partners whose products or services are integrated with or support our platform and solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing cybersecurity threat risk to include supply chain third parties."
+  },
+  {
+   "text": "Threat actors may also target our AI models in ways that we cannot yet anticipate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk of threat actors targeting AI models directly."
+  },
+  {
+   "text": "For example, in August 2025, we were targeted as part of a social engineering campaign against many large organizations, resulting in unauthorized access to some of our internal systems including some commonly available business contact information in our third-party customer relationship management platform.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, previously unreported security incident (social engineering attack) with unauthorized access."
+  },
+  {
+   "text": "These risks may be further heightened by efforts by malicious actors to obtain or misuse authorized access credentials through deception or impersonation, including by posing as legitimate employees, contractors, or by infiltrating our workforce or service providers through fraudulent recruitment, onboarding, or credential-harvesting activities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing cybersecurity threat risk with detail on impersonation and credential-harvesting tactics."
+  },
+  {
+   "text": "If successful, such attacks could enable threat actors to gain persistent access to our systems, move laterally within our environment, exfiltrate sensitive data, disrupt operations, or facilitate additional cyber-attacks, and may be more difficult to detect or prevent due to the use of seemingly legitimate accounts and remote access tools.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential consequences of cyberattacks already covered by existing risk factor."
+  },
+  {
+   "text": "Other new EU laws, including the EU Data Act, which primarily governs access to and use of non-personal data generated by digital services, have been, and may continue to be implemented, interpreted, and enforced in ways that impose additional rules and restrictions on the deployment, operation, or use of our products and services and may require us to adapt our business practices or contractual arrangements to comply with such requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific regulation (EU Data Act) creating compliance obligations not previously disclosed."
+  },
+  {
+   "text": "In addition, numerous states have enacted, or are considering, comprehensive privacy laws and other laws that touch on the processing of personal data in specific contexts, including in connection with artificial intelligence and automated systems, further contributing to a fragmented and evolving regulatory landscape that has and may continue to create compliance challenges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing privacy law compliance risk to cover new state laws and AI-related data processing contexts."
+  },
+  {
+   "text": "Additionally, a final rule issued by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sentence fragment introducing a regulatory body name, part of restructured text rather than new risk content."
+  },
+  {
+   "text": "Department of Justice establishing a \u201cData Security Program\u201d came into effect on April 8, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory rule (DOJ Data Security Program) with an effective date, a new compliance risk."
+  },
+  {
+   "text": "The rule prohibits or restricts certain transactions that could result in access to bulk U.S. sensitive personal data or U.S. government-related data by countries of concern, including China (which includes Hong Kong and Macau).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the scope of the newly introduced DOJ rule already covered in the prior sentence."
+  },
+  {
+   "text": "The rule imposes certain diligence, security, audit and record-keeping requirements, and may adversely impact certain of our global business operations, including by restricting or conditioning certain data access or transfers involving subsidiaries, affiliates, and vendors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on compliance obligations from the same DOJ rule introduced previously."
+  },
+  {
+   "text": "In addition, as AI technologies are increasingly used across the industry, including in connection with data analytics, automation, customer service, and decision-support features, the speed, scale, and complexity of data processing may increase, which may heighten data privacy risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing data privacy risk discussion to note AI's role in heightening such risks."
+  },
+  {
+   "text": "AI-enabled or agentic AI features may be targeted, misused, or produce outputs or inferences that implicate personal data in ways that are difficult to anticipate or control, potentially resulting in regulatory scrutiny, litigation, or reputational harm, even in the absence of a data breach.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of AI-enabled features causing privacy-related harm even absent a data breach."
+  },
+  {
+   "text": "In addition, data protection laws, regulations and related enforcement activities may lead to significant fines, penalties, or liabilities for noncompliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential fines/penalties for noncompliance, standard risk boilerplate."
+  },
+  {
+   "text": "Our applications utilize open source software, including open source AI models and platforms, and our strategy of investing in and acquiring such technologies introduces new and heightened risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to open source AI model usage and acquisition strategy."
+  },
+  {
+   "text": "Furthermore, our strategy includes acquiring and investing in open-source AI platforms and utilizing AI models that may be governed by novel or untested licenses with ambiguous terms, use-based restrictions, or uncertain legal interpretation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced open-source AI risk with detail on licensing uncertainty."
+  },
+  {
+   "text": "Our increasing integration of proprietary AI agents and platforms with open source components may heighten this \u201ccopyleft\u201d risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further extends the open-source/AI licensing risk to address copyleft concerns from integration."
+  },
+  {
+   "text": "Beyond licensing compliance, our use of and investment in open source AI models and platforms create distinct and significant risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on open source AI risk theme, noting distinct risks beyond licensing."
+  },
+  {
+   "text": "Open source AI models may be trained on data of unknown or uncertain provenance, which could include copyrighted or otherwise proprietary, confidential, or private information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding uncertain provenance of AI training data, including potential IP/privacy issues."
+  }
+ ]
+}

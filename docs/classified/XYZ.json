@@ -1,0 +1,218 @@
+{
+ "ticker": "XYZ",
+ "sector": "Financials",
+ "filing_date": "2026-02-26",
+ "accession": "0001628280-26-012254",
+ "prior_accession": "0001628280-25-007376",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 34,
+ "counts": {
+  "new_substantive_risk": 19,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "In February 2026 we announced a workforce reduction restructuring plan designed to better align our organizational structure with our operating model and strategic priorities.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a newly announced workforce reduction restructuring plan, a specific new corporate action not previously disclosed."
+  },
+  {
+   "text": "We expect these actions and decisions will result in increased expenses in the short term, could materially impact our operating results in the periods incurred, may impact our ability to generate and increase revenue and may impact our ability to grow or quickly develop and introduce products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the financial and operational consequences of the newly announced restructuring plan introduced in [0]."
+  },
+  {
+   "text": "Actual costs related to these changes may also exceed our estimates due to changes in assumptions, additional actions, or unforeseen circumstances.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on cost uncertainty tied to the same new restructuring risk."
+  },
+  {
+   "text": "Similarly, any future actions and decisions could likewise result in increased expenses and may impact our ability to grow or quickly develop and introduce products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement extending the restructuring risk to unspecified future actions without new specifics."
+  },
+  {
+   "text": "Our recently announced workforce reduction and related reorganization, including the potential for increased reliance on proactive intelligence and artificial intelligence tools, may not achieve their intended benefits and could adversely affect our business, financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new named risk factor concerning the workforce reduction and AI reliance."
+  },
+  {
+   "text": "In February 2026 we announced a workforce reduction restructuring plan designed to better align our organizational structure with our operating model and strategic priorities.",
+   "category": "reworded_same_meaning",
+   "rationale": "Exact duplicate of sentence [0], repeated verbatim without adding new information."
+  },
+  {
+   "text": "As part of this plan, we expect an increased reliance on automation, proactive intelligence capabilities and AI tools that we believe will enhance productivity and maintain operational efficiency.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific plan detail: increased reliance on automation and AI tools as part of restructuring."
+  },
+  {
+   "text": "In addition, these actions will result in severance and other restructuring charges, and may require additional investments in technology and systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific financial impact (severance, restructuring charges) tied to the new plan."
+  },
+  {
+   "text": "We may not realize the expected cost savings, operating efficiencies or other anticipated benefits of these initiatives within the anticipated timeframe, or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that expected cost savings/benefits may not be realized."
+  },
+  {
+   "text": "The workforce reduction and reorganization may disrupt our operations and adversely affect employee morale and productivity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new operational/morale disruption risk from the workforce reduction."
+  },
+  {
+   "text": "The departure of employees, including experienced personnel, may result in the loss of institutional knowledge and expertise, and remaining employees may experience increased workloads, which could lead to increased error rates, reduced innovation and attrition of key talent.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of loss of institutional knowledge and increased error rates from departures."
+  },
+  {
+   "text": "Our ability to successfully operate with a reduced workforce is expected to depend in part on the effectiveness, reliability and adoption of our proactive intelligence and AI tools.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new dependency risk on AI tools for operating with reduced workforce."
+  },
+  {
+   "text": "These technologies may not perform as expected, may require more time or expense to implement effectively, may introduce operational or cybersecurity risks, or may fail to enhance productivity and maintain operational efficiency as expected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the AI tool performance risk introduced in [11]."
+  },
+  {
+   "text": "These actions could increase the risk of operational disruptions, service interruptions, control failures or other significant events, particularly during transition periods, as responsibilities are reassigned and processes are adjusted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the operational disruption risk with more specific transition-period detail."
+  },
+  {
+   "text": "We expect to continue to invest in employees we wish to retain and attract, including through increased compensation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about continuing to invest in employees, not itself a risk disclosure."
+  },
+  {
+   "text": "In addition, evolving regulatory requirements and public scrutiny relating to AI technologies could increase compliance costs or limit our ability to deploy such tools as intended.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory compliance cost risk tied to AI tool deployment."
+  },
+  {
+   "text": "We may also incur additional costs not currently contemplated, including costs related to technology implementation, operational disruptions, employee claims, regulatory compliance, or other matters arising from the workforce reduction and reorganization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details additional cost categories linked to the same restructuring/AI risk."
+  },
+  {
+   "text": "We may also suffer indirect harm to our business as a result of reputational harm or concerns our customers have regarding the use of AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new reputational harm risk tied to customer perceptions of AI use."
+  },
+  {
+   "text": "Any failure to successfully implement these actions, or any unintended consequences resulting from them, could result in delays in product development or strategic initiatives and could materially and adversely affect our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes consequences of failure to implement the new restructuring actions."
+  },
+  {
+   "text": "In addition, any reassignment of responsibilities, together with potential increased reliance on automation and AI tools to support certain legal, regulatory compliance and risk management functions, may limit our capacity and introduce additional oversight risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding AI reliance in legal/compliance functions limiting oversight capacity."
+  },
+  {
+   "text": "If such tools do not perform as anticipated or are not effectively implemented and monitored, our ability to maintain effective governance, compliance, and risk processes during and after the transition could be impaired, which could increase the risk of regulatory inquiries, investigations, litigation, enforcement actions, control deficiencies and penalties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates the compliance/governance risk introduced in [19]."
+  },
+  {
+   "text": "Our recent significant workforce reduction may create uncertainty regarding our financial condition, growth prospects, or operational stability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of investor/market uncertainty stemming from the workforce reduction."
+  },
+  {
+   "text": "Sellers, customers and business partners may delay or reconsider relationships, and investors may react negatively, which could adversely affect our reputation, relationships, and stock price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the uncertainty risk to specific stakeholder reactions (sellers, customers, investors)."
+  },
+  {
+   "text": "In addition, our reduced headcount, any future reduction in headcount or the attrition of key talent may limit our capacity to pursue new product development, geographic expansion, acquisitions, or other growth initiatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further ties headcount reduction to limits on growth initiatives, extending prior workforce risk."
+  },
+  {
+   "text": "If we are unable to allocate sufficient resources to key priorities, our competitive position and long-term growth prospects could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding risk statement about resource allocation and competitive position."
+  },
+  {
+   "text": "Refer to the risk factor titled \u201cOur recently announced workforce reduction and related reorganization, including the potential for increased reliance on proactive intelligence and artificial intelligence tools, may not achieve their intended benefits and could adversely affect our business, financial condition and results of operations.\u201d for additional risks related to our expected and planned use of AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor title, not new substantive content."
+  },
+  {
+   "text": "Actions taken by regulators, legislatures, and other government actors, including the current U.S. administration, in the cryptocurrency industry, may impact market demand for bitcoin and the supply and pricing for bitcoin.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory/political risk affecting bitcoin market demand and pricing."
+  },
+  {
+   "text": "27 The development and use of AI in our products may result in reputational and competitive harm and could adversely impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new named risk factor about AI in products causing reputational and competitive harm."
+  },
+  {
+   "text": "We have incorporated and expect to continue to incorporate AI technologies, including generative AI and AI agents, into our products and technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual/background statement about AI incorporation, not itself a risk claim."
+  },
+  {
+   "text": "Our use of AI depends on third-party large language models that we do not control, and these models may generate inaccurate, biased, or unexpected outputs that conflict with our business objectives or brand standards.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about reliance on third-party LLMs producing inaccurate or biased outputs."
+  },
+  {
+   "text": "Consumer and societal attitudes toward AI are evolving and there is a risk that customers, regulators or the public may perceive AI technologies negatively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the AI reputational risk narrative to evolving public/consumer attitudes."
+  },
+  {
+   "text": "Concerns about automation, privacy, security, bias, transparency, flawed datasets, or other ethical considerations could reduce trust in our products and services or deter customer adoption of AI-enabled features in our products or services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on specific factors (bias, privacy, transparency) that could reduce trust in AI features."
+  },
+  {
+   "text": "Our customers and sellers may become increasingly reliant on AI outputs in our products and services when making financial or operational decisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of customer over-reliance on AI outputs for financial/operational decisions."
+  },
+  {
+   "text": "AI-enabled features in our products may generate outputs that could be interpreted as regulated advice, even if unintended or automated.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk that AI outputs could be construed as unauthorized regulated advice."
+  },
+  {
+   "text": "If such AI outputs are, or are perceived to be, inaccurate, biased, flawed, or otherwise determined as providing regulated advice without appropriate authorization, we could face reputational harm, regulatory scrutiny, enforcement actions or liability claims, any of which could materially and adversely affect our business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences (regulatory scrutiny, liability) of the regulated-advice risk introduced in [33]."
+  },
+  {
+   "text": "Our ability to develop and deploy AI features depends on the availability and pricing of third-party AI models, tools, and technical infrastructure, and increases in such costs or constraints on availability could adversely affect our ability to scale and our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new dependency risk on third-party AI model availability and pricing affecting scalability."
+  },
+  {
+   "text": "Further, evolving and inconsistent legal frameworks governing AI across different jurisdictions, such as the EU AI Act, other international regimes, and emerging U.S. state regulations may create conflicting compliance obligations, all of which may impose additional costs on us, increase our risk of liability and fines, and may require us to modify, limit, or withdraw certain AI-enabled products or services in particular markets, and adversely affect our ability to scale globally.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk from evolving AI laws like the EU AI Act and state regulations."
+  },
+  {
+   "text": "Our AI initiatives may not improve efficiency, performance, or profitability as expected, and may underperform or fail entirely due to technological limitations, regulatory requirements, or other factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the AI investment risk to underperformance due to technological/regulatory factors."
+  },
+  {
+   "text": "If our investments in AI do not produce expected benefits, our operating results and long-term growth could be materially and adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further ties AI investment failure to financial/operating result impact, extending [37]."
+  },
+  {
+   "text": "Cash App Borrow is a consumer credit product, allowing our Cash App customers access to short-term loans for a fee.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific product risk: Cash App Borrow short-term consumer lending product."
+  }
+ ]
+}

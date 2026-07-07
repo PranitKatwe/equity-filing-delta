@@ -1,0 +1,43 @@
+{
+ "ticker": "NUE",
+ "sector": "Materials",
+ "filing_date": "2026-02-25",
+ "accession": "0001193125-26-071575",
+ "prior_accession": "0000950170-25-028427",
+ "model": "claude-sonnet-5",
+ "n_added": 5,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "The Organisation for Economic Co-operation and Development (the \u201cOECD\u201d) has estimated global steel production overcapacity to be approximately 704 million net tons in 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new data point about global steel overcapacity that quantifies a competitive market risk not previously disclosed."
+  },
+  {
+   "text": "This level of excess capacity is eight times the current annual steel production in the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional context/comparison to the overcapacity figure, expanding on the magnitude of an existing industry risk."
+  },
+  {
+   "text": "As a result, the OECD projects that excess global steel capacity could increase nearly 20% to an estimated 795 million net tons by 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the overcapacity risk with a forward-looking projection, elaborating on the existing risk trend."
+  },
+  {
+   "text": "After recent years of weakened effectiveness due to country exemptions and product exclusions, steel tariffs first imposed in 2018 under Section 232 of the Trade Expansion Act were fully reinstated in 2025 without exceptions or exclusions, and were broadened to cover approximately 600 fabricated steel products.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new regulatory development (full reinstatement and broadening of Section 232 tariffs) that materially changes the trade/regulatory risk landscape."
+  },
+  {
+   "text": "These comprehensive tariffs have been more effective in combating circumvention behaviors and keeping unfairly traded imports out of the U.S. market.",
+   "category": "reworded_same_meaning",
+   "rationale": "This is a general characterization of tariff effectiveness that restates the impact of the previously described tariff change rather than introducing new risk detail."
+  }
+ ]
+}

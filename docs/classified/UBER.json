@@ -1,0 +1,118 @@
+{
+ "ticker": "UBER",
+ "sector": "Industrials",
+ "filing_date": "2026-02-13",
+ "accession": "0001543151-26-000015",
+ "prior_accession": "0001543151-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 20,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "9 \u2022 To remain competitive in certain markets, we have in the past lowered, and may continue to lower, fares or service fees, and we have in the past offered, and may continue to offer, significant Driver incentives and consumer discounts and promotions. \u2022 We have incurred significant losses, including in the United States and other major markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates standard competitive pricing and loss risk language already present in prior filings."
+  },
+  {
+   "text": "Another example is in France, where the government is seeking social security contributions based on an allegation that Drivers are employees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal/regulatory action in France regarding driver classification and social security contributions."
+  },
+  {
+   "text": "The government issued a demand for contributions, which we are challenging and which is subject to ongoing discussions and engagement with authorities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about the government's demand for contributions and ongoing dispute, expanding the France example already introduced."
+  },
+  {
+   "text": "As another example, in November 2025, the New Zealand Supreme Court ruled that four drivers are employees while logged into the Uber app.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific new court ruling (New Zealand Supreme Court) creating a concrete new legal risk regarding driver classification."
+  },
+  {
+   "text": "There are also a number of companies developing and introducing autonomous vehicles and technologies 12 that either are competing with us or may compete with us in the future, including Alphabet (Waymo), Amazon (Zoox), and Tesla. \u2022 Delivery .",
+   "category": "expanded_existing_risk",
+   "rationale": "Names specific autonomous vehicle competitors, expanding the existing competitive risk discussion."
+  },
+  {
+   "text": "In addition, changes in or increased enforcement efforts pursuant to certain laws and regulations, including immigration and labor and employment laws, or laws that require us to make changes to our platform that decrease accessibility, including removing access to our platform, or flexibility provided to Drivers in certain jurisdictions, may result in a decrease in the pool of Drivers, which may result in increased competition for Drivers or higher costs of attracting and maintaining Drivers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how immigration/labor law changes could affect driver supply, expanding an existing labor-related risk."
+  },
+  {
+   "text": "For example, our investments into and commercial partnerships with various autonomous mobility and/or autonomous delivery companies currently support the development and deployment of autonomous vehicle technology capable of operation in the United States and globally.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples of autonomous vehicle partnerships supporting an existing risk about competition and technology investment."
+  },
+  {
+   "text": "For example, shifts in consumer behavior, including the use of new or emerging technologies, such as AI-enabled platforms and digital assistants, may disintermediate our relationship with consumers by controlling how our products are accessed, presented or selected, which could redirect demand to competitors and adversely affect our demand and growth.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk concerning AI-enabled platforms disintermediating consumer relationships and demand."
+  },
+  {
+   "text": "Our efforts to attract and retain high-quality personnel may be compounded by intensified restrictions on immigration or the availability of work visas.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a new factor (immigration restrictions) to the existing risk about attracting and retaining personnel."
+  },
+  {
+   "text": "For example, while progress has been made, we did not achieve some of our 2025 goals, and our 2030 goals will remain out of reach without more aggressive action from policymakers and the wider industry.",
+   "category": "new_substantive_risk",
+   "rationale": "Reveals failure to meet 2025 sustainability goals and risk of missing 2030 goals, a new concrete disclosure of underperformance."
+  },
+  {
+   "text": "The remaining $1.0 billion have an unlimited carryover period.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual figure update about carryover period, not a new risk."
+  },
+  {
+   "text": "The remaining $19.3 billion have an unlimited carryover period.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Similar factual figure update with different amount, no new risk introduced."
+  },
+  {
+   "text": "We obtained a favorable ruling in a judicial review, and the Hong Kong Transport Department has appealed the decision.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new legal development (favorable ruling and subsequent appeal) creating an unresolved regulatory risk in Hong Kong."
+  },
+  {
+   "text": "As of December 31, 2025, our platform is available in more than 15,000 cities in over 70 countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistical update on platform reach, purely factual and not risk-related."
+  },
+  {
+   "text": "We expect that antitrust enforcement agencies (including the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment introducing standard reference to antitrust agencies, part of existing regulatory risk discussion."
+  },
+  {
+   "text": "Department of Justice (the \u201c DOJ\u201d) and the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of agency name definition, purely administrative text."
+  },
+  {
+   "text": "Brazil and India similarly passed national privacy laws establishing new rights for individuals, and responsibilities for companies that collect personal data, in 2018 and 2023, respectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific examples of foreign privacy laws, expanding the existing data privacy compliance risk."
+  },
+  {
+   "text": "In addition, we are subject to regulations that prohibit the transfer of personal data to, or access to personal data from, certain countries, such as those implemented by the DOJ prohibiting the bulk transfer of U.S. persons\u2019 sensitive personal data to specified countries, including China and its territories.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory prohibition on data transfers to certain countries, a new compliance risk."
+  },
+  {
+   "text": "Such prohibitions could adversely impact our business and operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement that prohibitions could harm the business, restating implied risk without new detail."
+  },
+  {
+   "text": "In the event we are unable to comply with such prohibitions, we could be subject to investigations, enforcement actions, criminal penalties, and other penalties that may be costly or that may impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential penalties for noncompliance, expanding the newly introduced data transfer prohibition risk."
+  }
+ ]
+}

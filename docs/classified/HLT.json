@@ -1,0 +1,78 @@
+{
+ "ticker": "HLT",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-11",
+ "accession": "0001585689-26-000007",
+ "prior_accession": "0001585689-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "For existing franchised hotels, we provide franchisees with property improvement plans that must be satisfied to keep the hotels in compliance with our brand standards, so that they can remain in our hotel system.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about property improvement plans as part of the existing franchise brand-standards risk discussion, expanding on how compliance is achieved rather than introducing a new risk."
+  },
+  {
+   "text": "We continue to make progress towards our Travel with Purpose priorities, including: (i) building opportunities for all of our people; (ii) creating sustainable stays at our hotels; and (iii) strengthening our communities where we live, work and stay.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about corporate sustainability priorities with no specific risk content."
+  },
+  {
+   "text": "All of this work is underpinned by our commitment to responsible business by operating with accountability, integrity and transparency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about responsible business values, not a risk disclosure."
+  },
+  {
+   "text": "This dedication has earned Hilton global recognition as the 2025 #1 World's Best Workplace by Fortune and Great Place to Work, marking the ninth consecutive year as the top hospitality company in the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "PR/award recognition statement, not related to any business risk."
+  },
+  {
+   "text": "Hilton was recognized as a Great Place to Work in 67 countries in 2025, achieving #1 rankings in 18 markets, including the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Award recognition detail, purely promotional, no risk content."
+  },
+  {
+   "text": "Additionally, we continue to implement programs to further reduce waste and to advance sustainable procurement at our hotels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about sustainability programs, no specific risk introduced."
+  },
+  {
+   "text": "We partner with our corporate customers to support their sustainability, community impact and responsible sourcing goals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General partnership statement about sustainability goals, not a risk."
+  },
+  {
+   "text": "This included donating 20 thousand room nights in partnership with American Express to support those impacted by the Los Angeles wildfires.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Specific charitable donation example, promotional in nature, no risk implication."
+  },
+  {
+   "text": "Additionally, the Hilton Global Foundation made a series of donations to organizations providing immediate response support, including the Los Angeles Fire Department Foundation, Community Foundation of the Texas Hill Country and Jamaica's Promise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Charitable donation details, purely informational/promotional, not a risk factor."
+  },
+  {
+   "text": "During 2025, our employees continued to actively volunteer in their local communities, demonstrating their commitment to creating a positive impact, and reported approximately 1.5 million volunteer hours.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Employee volunteering statistic, promotional content unrelated to risk."
+  },
+  {
+   "text": "Conversely, if third-party property owners feel our brand standards are too restrictive or costly, we may fail to maintain and renew existing management and franchise contracts or enter into new contracts on favorable terms, and thus, we may be unable to expand our presence and our business, and our financial condition and results of operations may suffer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequence side of the existing franchise/brand standards risk (losing contracts if standards seen as too restrictive), expanding detail rather than introducing a new risk category."
+  },
+  {
+   "text": "Our competitors or other third parties may incorporate AI into their operations more quickly or successfully than us, or develop superior offerings with the aid of AI, which could impair our ability to compete effectively and adversely affect our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk concerning competitors' use of AI outpacing the company's own AI adoption, potentially impairing competitiveness\u2014this is a distinct, material risk not previously described."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "ticker": "NTRS",
+ "sector": "Financials",
+ "filing_date": "2026-02-24",
+ "accession": "0000073124-26-000016",
+ "prior_accession": "0000073124-25-000105",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Congress and the presidential administration have introduced and may continue to introduce changes in the laws or policies applicable to us and the agencies that regulate us, including their interpretations of rules and guidelines.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about regulatory/policy changes from the current administration and Congress affecting the company and its regulators."
+  },
+  {
+   "text": "These changes may subject financial institutions like us to change in regulation, supervision and enforcement that are difficult to predict and uncertain for a period of time and may create the possibility of significant impacts on business activity in the United States and globally, including impacts relating to the trade policies (including tariffs) of the United States or other countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the regulatory uncertainty theme by adding specific impact areas like trade policy and tariffs, expanding the prior risk."
+  },
+  {
+   "text": "Some of the regulations finalized in the prior administration that are applicable to financial institutions were modified, rescinded or withdrawn or are subject to reevaluation, creating further uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about prior administration rules being modified or rescinded, expanding the regulatory uncertainty risk already introduced."
+  },
+  {
+   "text": "It is possible the expected changed in law, regulation and policy do not occur or are reversed subsequently, or the regulatory measures that are ultimately enacted deliver significant competitive advantages to financial services that are structured differently or serve different markets than us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on possible outcomes of regulatory change, including competitive disadvantage, continuing the same regulatory uncertainty risk."
+  },
+  {
+   "text": "Widespread adoption and rapid evolution of emerging technologies, including with respect to digital assets, such as stablecoins, as well as developments in the regulatory landscape relating to emerging technologies, such as the enactment and implementation of the Guiding and Establishing National Innovation for U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding digital assets/stablecoins and related regulatory developments affecting client needs."
+  },
+  {
+   "text": "Stablecoins Act of 2025 (GENIUS ACT) and potential enactment of the Digital Asst Market Clarity Act of 2025 (CLARITY Act) or similar market structure legislation, may affect our clients\u2019 needs and expectations for products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies new legislative developments (GENIUS Act, CLARITY Act) that create a concrete new regulatory risk area not previously mentioned."
+  },
+  {
+   "text": "The physical risks of climate change include harm to people and property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on physical climate risks to people and property, expanding on existing climate risk disclosures."
+  },
+  {
+   "text": "These arise from acute climate-related events, such as floods, hurricanes, heatwaves, droughts and wildfires.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples of acute climate events, elaborating on the previously introduced physical climate risk."
+  },
+  {
+   "text": "Methodologies and data used to conduct more robust climate-related risk analyses are being developed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ongoing development of methodologies, lacking specific new risk content."
+  },
+  {
+   "text": "Despite internal policies in place with respect to the usage of AI, if any of our employees or service providers were to use any third-party AI-powered software in connection with our business or the services they provide to us, it may lead to the inadvertent disclosure or incorporation of our confidential information into publicly available training set, which may impact our ability to realize the benefit of, or adequately maintain, protect and enforce our intellectual property or confidential information, harming our competitive position and business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about employees using third-party AI tools potentially leaking confidential information and harming IP protection."
+  },
+  {
+   "text": "We may not be able to sufficiently mitigate or detect any of the foregoing limitations or risks given our and other market participant\u2019s lack of experience with using AI, the pace of technological change, and rapid adoption of AI by our business partners and competitors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on AI-related risk by discussing limitations in detecting or mitigating AI risks due to lack of experience, building on the previously introduced AI risk."
+  }
+ ]
+}

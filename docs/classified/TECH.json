@@ -1,0 +1,98 @@
+{
+ "ticker": "TECH",
+ "sector": "Health Care",
+ "filing_date": "2025-08-22",
+ "accession": "0001558370-25-011716",
+ "prior_accession": "0001558370-24-012430",
+ "model": "claude-sonnet-5",
+ "n_added": 16,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Recent examples include the investment in Spear Bio at the beginning of fiscal 2025 and the acquisition of Lunaphore SA (\u201cLunaphore\u201d) at the beginning of fiscal 2024.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds concrete, specific recent examples (Spear Bio investment, Lunaphore acquisition) to an existing risk about acquisitions/investments, making it more tangible."
+  },
+  {
+   "text": "In particular, we are affected by the impact of changes to tax laws or related authoritative interpretations in the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being affected by tax law changes, a standard cautionary framing without new specifics."
+  },
+  {
+   "text": "We anticipate that there may be additional impact to us in the future from the One Big Beautiful Bill Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new law (One Big Beautiful Bill Act) as a potential future risk factor not previously mentioned."
+  },
+  {
+   "text": "Developments or changes in national laws or policies to protect or promote domestic interests and/or address foreign competition can have an adverse effect on our business and financial statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about national laws affecting business, lacking specific detail; reads as standard cautionary language."
+  },
+  {
+   "text": "Developments or changes in national laws or policies to protect or promote domestic interests and/or address foreign competition, including laws and policies in areas such as trade, manufacturing, government purchasing, healthcare, intellectual property, regulatory enforcement and investment/development, can adversely affect our business and financial statements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the generic national-law risk statement by listing specific affected areas (trade, manufacturing, healthcare, IP, etc.), adding substantive detail."
+  },
+  {
+   "text": "The U.S. has announced and/or implemented new tariffs on imports from a wide range of countries, which has prompted retaliatory tariffs, or changes to existing tariffs, by a number of countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the specific and material development of new U.S. tariffs and retaliatory tariffs, a concrete new risk not previously described."
+  },
+  {
+   "text": "Beginning in early April 2025, the U.S. implemented and/or announced tariffs on imports from a wide range of countries, and which has prompted a number of countries to impose retaliatory tariffs and/or changes to existing tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more specific timing and detail (early April 2025) to the previously introduced tariff risk."
+  },
+  {
+   "text": "Many of these tariffs and announcements underwent continued revision, with certain tariff levels increasing while others decreased.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about the volatility and revision of tariff levels, expanding on the established tariff risk."
+  },
+  {
+   "text": "Additionally, the U.S. and a number of other countries have implemented a number of product- and industry- specific exclusions, though these exclusions have been subject to revision and/or announced revision as well.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new specific detail about product/industry exclusions and their volatility, expanding the tariff risk discussion."
+  },
+  {
+   "text": "As of the date of this report, a number of the recently-imposed tariffs remain in effect, including significant tariffs between the U.S. and China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete, current status update (tariffs between U.S. and China) that elaborates on the already-introduced tariff risk."
+  },
+  {
+   "text": "Collectively, these tariffs have increased and will continue to increase the cost to us of supplies and components we import, as well as our cost to serve certain markets, which in turn will require us to bear significant increased costs to do business, and/or implement surcharges, and/or increase the price of certain of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific financial consequences (increased costs, surcharges, price increases) stemming from the tariff risk already introduced."
+  },
+  {
+   "text": "As a result of any surcharge or price increase, there may be an adverse impact on the demand for our products, as well as an adverse impact as to our ability to serve the market in certain countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on downstream effects (reduced demand, market access issues) of the tariff-related cost increases."
+  },
+  {
+   "text": "The increased cost of importing raw materials and components from certain countries may disrupt our supply chains, with related impacts to our operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific supply chain disruption consequences tied to the already-introduced tariff cost risk."
+  },
+  {
+   "text": "In addition, whenever we are unable to fully recover higher costs, or whenever there is a time delay between the increase in costs and our ability to recover these costs, our margins and profitability can decline.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains margin/profitability impact from cost recovery delays, expanding on the tariff cost risk."
+  },
+  {
+   "text": "The U.S. and/or other countries may implement additional tariffs and/or other responsive or retaliatory measures, and which would exacerbate the risks and adverse effects noted above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Warns of potential additional tariffs or retaliatory measures that would worsen the already-described risk, an expansion rather than a new risk type."
+  },
+  {
+   "text": "Though the risks identified above in certain cases have already adversely impacted parts of our business, the full impact of these tariffs and other actions on the Company and on our business partners remains highly uncertain and subject to rapid change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cautionary statement about uncertainty and rapid change, without introducing new specific risk information."
+  }
+ ]
+}

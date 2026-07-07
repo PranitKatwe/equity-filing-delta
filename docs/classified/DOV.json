@@ -1,0 +1,23 @@
+{
+ "ticker": "DOV",
+ "sector": "Industrials",
+ "filing_date": "2026-02-13",
+ "accession": "0000029905-26-000009",
+ "prior_accession": "0000029905-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 1,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Emerging and evolving technologies such as artificial intelligence, our use of which we expect to increase over time, are rapidly developing, and our businesses may be adversely affected if we cannot successfully integrate these technologies into our business processes and product and service offerings in a timely and cost-effective manner.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk related to the company's use and integration of emerging technologies like AI, which was not previously identified, and describes a concrete business impact if integration fails."
+  }
+ ]
+}

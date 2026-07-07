@@ -1,0 +1,133 @@
+{
+ "ticker": "IRM",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-12",
+ "accession": "0001020569-26-000013",
+ "prior_accession": "0001020569-25-000040",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "SUSTAINABILITY As a global leader in innovative solutions, data center infrastructure and asset lifecycle and information management services, we strive to take responsibility for a sustainable future by unlocking opportunities in our operations and beyond.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic sustainability mission statement, no risk content."
+  },
+  {
+   "text": "We have embedded sustainability across our organizational processes to optimize performance and meet stakeholder needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about embedding sustainability, not a risk."
+  },
+  {
+   "text": "Our collaborative approach enables customers to make better decisions about how they manage their most valuable information and assets, prioritizes our employee well-being and development, and supports our local communities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing-style description of company approach, not a risk."
+  },
+  {
+   "text": "Our ALM business received the ITAD Company of the Year award at the ITAD Summit in July 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announcement of an award, purely promotional, no risk content."
+  },
+  {
+   "text": "This recognition reflects our continued commitment to delivering sustainable, secure and value-driven IT asset disposition solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of promotional statement about award recognition."
+  },
+  {
+   "text": "Our business is subject to regulation under a wide variety of laws and regulations in the jurisdictions which we operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that business is subject to various regulations, standard boilerplate."
+  },
+  {
+   "text": "Although we have policies and procedures designed to comply with applicable laws and regulations, failure to comply with the various laws and regulations may result in civil and criminal liability, fines and penalties and increased costs of compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard compliance risk boilerplate language used across filings."
+  },
+  {
+   "text": "Finally, emerging AI technology, such as AI and generative AI systems, have become subject to regulation under new laws and new applications of prior existing laws which require additional resources and increase compliance risks as we integrate AI into our services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding AI regulation increasing compliance costs and risks as AI is integrated into services."
+  },
+  {
+   "text": "Recent developments in the cybersecurity threat landscape include the use of AI and machine learning, as well as an increased number of cyber extortion and ransomware attacks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk disclosure by adding specifics about AI-driven attacks and ransomware trends."
+  },
+  {
+   "text": "As techniques used to breach security change frequently and are generally not recognized until launched against a target, we may not be able to promptly detect that a cyber breach has occurred, or implement security measures in a timely manner or, if and when implemented, we may not be able to determine the extent to which these measures could be circumvented .",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about inability to detect or prevent cyber breaches in similar terms."
+  },
+  {
+   "text": "Our ability to attract and retain customers, particularly in our Global Digital Solutions business, depends on our ability to offer innovative products and services, including through developing or deploying emerging technologies such as AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties existing competitive/innovation risk to new AI-related product development context."
+  },
+  {
+   "text": "Some of our products, services and processes leverage AI, including both machine learning and generative AI, and we continue to make investments in initiatives focused on the further development and deployment of these technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of AI use in products, not itself a risk statement."
+  },
+  {
+   "text": "However, there is no assurance that our use or development of AI will enhance our products or services or their marketability, improve operating results, or deliver anticipated benefits, and our product development initiatives involving AI may be unsuccessful.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that AI investments may not succeed or deliver expected benefits."
+  },
+  {
+   "text": "While implementation of these technologies offers the potential for innovation and competitive differentiation, it also poses significant risks and uncertainties, especially given its early stage of commercial adoption.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces risk related to early-stage adoption of AI technology causing uncertainty and risk exposure."
+  },
+  {
+   "text": "The use of AI in our product initiatives and offerings or services, or in our internal business operations, may give rise to risks related to accuracy, bias, discrimination, intellectual property infringement, misappropriation or leakage of proprietary, confidential and personal information, defamation, data privacy, and cybersecurity.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new risks from AI use including bias, IP infringement, privacy, and cybersecurity issues."
+  },
+  {
+   "text": "Any error, defect, or vulnerability in our AI-powered products or business processes could undermine the quality of our products and services, adversely impact our clients\u2019 businesses, subject us or our clients to regulatory scrutiny, fines or litigation and cause reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of AI errors/defects harming products, clients, and reputation."
+  },
+  {
+   "text": "We are exposed to similar risks in connection with the use of AI technology by our third-party vendors and clients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends AI risk exposure to third-party vendors and clients, building on prior AI risk disclosures."
+  },
+  {
+   "text": "These technologies are subject to an evolving and fragmented legal and regulatory landscape.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about evolving legal landscape, largely framing language."
+  },
+  {
+   "text": "The absence of a unified regulatory framework, and the risk of divergent or conflicting regulations across jurisdictions applicable to our business, could increase the complexity and costs of compliance for us and our clients.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of regulatory fragmentation increasing compliance complexity and cost."
+  },
+  {
+   "text": "New or changing legal requirements may limit or restrict our use of AI, impose burdensome obligations, or require us to modify or discontinue certain offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that new legal requirements could restrict or limit AI use and offerings."
+  },
+  {
+   "text": "Any of these factors, alone or in combination, could adversely affect our business, reputation, or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all statement summarizing potential adverse effects, standard risk factor closing language."
+  },
+  {
+   "text": "Unexpected events, including those resulting from climate change or geopolitical events, could disrupt our operations and adversely affect our reputation and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk factors tied to climate change and geopolitical events disrupting operations."
+  },
+  {
+   "text": "IRON MOUNTAIN 2025 FORM 10-K 19 Table of Contents Part I We face competition for customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading/title text with page formatting, not a substantive new risk statement."
+  }
+ ]
+}

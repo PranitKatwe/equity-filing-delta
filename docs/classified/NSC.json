@@ -1,0 +1,178 @@
+{
+ "ticker": "NSC",
+ "sector": "Industrials",
+ "filing_date": "2026-02-09",
+ "accession": "0001628280-26-006268",
+ "prior_accession": "0000702165-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 32,
+ "n_substantive": 27,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "The risks described below should be read in conjunction with the information regarding the Incident and Incident Proceedings provided in Note 19 in Item 8 \u201cNotes to Consolidated Financial Statements.\u201d RISKS RELATED TO THE MERGERS We have identified certain additional risk factors in connection with the Mergers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory reference to financial statement notes and a header announcing new risk factors; no substantive risk content itself."
+  },
+  {
+   "text": "For additional information concerning these risks, uncertainties and assumptions, please refer to the section entitled \u201cRisk Factors\u201d included in our proxy statement filed with the SEC on October 1, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another SEC filing for risk details; purely procedural/boilerplate."
+  },
+  {
+   "text": "The Mergers are subject to conditions, some or all of which may not be satisfied or completed on a timely basis, if at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the specific risk that merger conditions may not be satisfied, a new material risk tied to the pending Mergers."
+  },
+  {
+   "text": "Failure to complete the Mergers could have material adverse effects on the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "States a distinct new risk that failure to complete the Mergers could have material adverse effects on the Company."
+  },
+  {
+   "text": "The completion of the Mergers is subject to a number of conditions, including, among others, the receipt of the requisite regulatory approvals, which make the completion of the Mergers and timing thereof uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the regulatory approval condition already introduced, adding detail about uncertainty of timing."
+  },
+  {
+   "text": "Also, either Union Pacific or the Company may terminate the Merger Agreement if the Mergers have not been consummated by the end date (subject to an automatic extension in certain circumstances), except that this right to terminate the Merger Agreement will not be available to any party whose failure to perform any obligation under the Merger Agreement has been the primary cause of the failure of the Mergers to be consummated on or before that date.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific contractual termination mechanics related to the previously introduced merger completion risk."
+  },
+  {
+   "text": "In addition, if the Mergers are not completed, the Company could be subject to litigation related to any failure to complete the Mergers or related to any enforcement proceeding commenced against the Company to perform its obligations under the Merger Agreement, and whether or not any such litigation has any merit, the cost of defending such litigation may be significant.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk of litigation exposure if the Mergers are not completed."
+  },
+  {
+   "text": "The materialization of any of these risks could adversely impact the Company\u2019s ongoing business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary statement about risks impacting the business without adding new specifics."
+  },
+  {
+   "text": "Similarly, delays in the completion of the Mergers could, among other things, result in additional transaction costs, loss of revenue, or other negative effects associated with uncertainty about completion of the Mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on consequences (transaction costs, revenue loss) of delays already flagged as a risk."
+  },
+  {
+   "text": "The Mergers are subject to the receipt of the requisite regulatory approvals, which requisite regulatory approvals may never be obtained, therefore preventing completion of the Mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates the regulatory approval risk already introduced with slightly different phrasing."
+  },
+  {
+   "text": "In addition, in granting such approvals, regulatory authorities may impose conditions that could have a significant adverse effect on the Company or the combined company and the expected benefits of the Mergers therefore preventing completion of the Mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that regulators may impose adverse conditions, expanding on the regulatory approval risk."
+  },
+  {
+   "text": "Before the Mergers may be completed, the requisite regulatory approvals must have been obtained, including STB approval.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies STB approval as part of the previously introduced regulatory approval requirement."
+  },
+  {
+   "text": "While the initial Merger application with the STB was determined to be incomplete, the Company and Union Pacific are in process of preparing a revised application that incorporates the additional items identified by the STB.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a concrete new fact\u2014the initial STB application was deemed incomplete and a revised filing is being prepared\u2014adding material new information."
+  },
+  {
+   "text": "The terms and conditions of the approvals that are granted may impose requirements, concessions, limitations, or costs or place restrictions on the conduct of the combined company\u2019s business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on possible burdensome terms from regulatory approval, building on the already-introduced regulatory risk."
+  },
+  {
+   "text": "The STB and other regulatory and governmental authorities may impose requirements, concessions, and other conditions on the granting of such approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing possible regulatory conditions, an extension of the previously introduced risk."
+  },
+  {
+   "text": "If such regulatory and governmental authorities seek to impose such requirements, concessions, or conditions, lengthy negotiations may ensue among such authorities, Union Pacific and the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details negotiation process tied to the previously introduced regulatory condition risk."
+  },
+  {
+   "text": "Such requirements, concessions, and conditions and the process of obtaining regulatory approvals could have the effect of delaying completion of the Mergers and such requirements, concessions, and conditions may not be identified or satisfied for an extended period of time following the Union Pacific special meeting and the Company\u2019s special meeting.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds timing/delay detail to the already-introduced regulatory conditions risk."
+  },
+  {
+   "text": "Such requirements, concessions and conditions may also impose additional costs or limitations on the combined company following the completion of the Mergers and the parties have agreed to accept such requirements, concessions, and conditions, even if significant, subject to the agreed-upon materially burdensome regulatory condition limitation in favor of Union Pacific.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on cost/limitation impacts of regulatory conditions already introduced."
+  },
+  {
+   "text": "These requirements, concessions, and conditions may therefore reduce the anticipated benefits of the Mergers, including synergies, which could also have a significant adverse effect on the combined company\u2019s business and cash flows and results of operations, and K12 neither Union Pacific nor the Company can predict what, if any, requirements, concessions, and conditions may be required by regulatory or governmental authorities whose approvals are required.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues explaining reduced synergies from regulatory conditions, an extension of prior risk."
+  },
+  {
+   "text": "The requisite regulatory approvals may not be obtained at all, may not be obtained in a timely fashion, and may contain conditions on the completion of the Mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates uncertainty of obtaining regulatory approvals, already covered by prior sentences."
+  },
+  {
+   "text": "In addition, under existing law, railroad competitors and customers of Union Pacific and the Company and other interested parties may intervene to oppose the STB application or seek protective conditions in the event approval by the STB is granted, which might affect the decision of the STB, delay the approval process, or reduce the anticipated benefits of the Mergers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that competitors/customers may intervene to oppose the STB application, a distinct threat not previously mentioned."
+  },
+  {
+   "text": "Furthermore, if the STB does not provide final approval or imposes conditions on its approval in a final order, and Union Pacific and the Company decide to appeal such final order from the STB, any such appeal might not be resolved for a substantial period of time after the entry of such order by the STB.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about potential appeal delays, extending the regulatory approval risk already introduced."
+  },
+  {
+   "text": "The Company is subject to business uncertainties and contractual restrictions while the Mergers are pending, which could adversely affect the Company\u2019s business and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category regarding business uncertainties and contractual restrictions during the pendency of the Mergers."
+  },
+  {
+   "text": "In connection with the pendency of the Mergers, some customers, suppliers, and other persons with whom the Company has a business relationship have or may delay or defer certain business decisions or terminate, change, or renegotiate their relationships with the Company, as the case may be, as a result of the Mergers or responsive actions taken by one or more of our competitors, which could negatively affect the Company\u2019s revenues, earnings, and cash flows, as well as the market price of the Company\u2019s Common Stock, regardless of whether the Mergers are completed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples (customer/supplier relationship changes) that expand on the business uncertainty risk just introduced."
+  },
+  {
+   "text": "Under the terms of the Merger Agreement, the Company is subject to certain restrictions on the conduct of its business prior to completing the first Merger, which may adversely affect its ability to execute certain of its business strategies, including the ability in certain cases to enter into or amend contracts, acquire or dispose of assets, incur indebtedness, incur capital expenditures, settle litigation, amend organizational documents, declare dividends, enter new business lines, and invest in third parties.",
+   "category": "new_substantive_risk",
+   "rationale": "Details concrete, material restrictions on the Company's business operations under the Merger Agreement, a specific new operational risk."
+  },
+  {
+   "text": "Such limitations could adversely affect the Company\u2019s businesses and operations prior to the completion of the Mergers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about adverse effects, restating prior point without new substance."
+  },
+  {
+   "text": "Uncertainties associated with the Mergers may cause a loss of management personnel and other key employees, and the Company may have difficulty attracting and motivating management personnel and other key employees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding loss of management personnel due to merger uncertainty."
+  },
+  {
+   "text": "The Company is dependent on the experience and industry knowledge of its management personnel and other key employees to execute its business plans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on dependency on management, supporting the newly introduced personnel risk."
+  },
+  {
+   "text": "The combined company\u2019s success after the completion of the Mergers will depend in part upon the ability of the Company to attract and retain key management personnel and other key employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the retention risk tied to combined company success, extending prior point."
+  },
+  {
+   "text": "Prior to completion of the Mergers, current and prospective employees of the Company may experience uncertainty about their roles within the combined company following the completion of the Mergers, which may have an adverse effect on the ability of the Company to attract or retain management personnel and other key employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about employee uncertainty affecting retention, building on the previously introduced risk."
+  },
+  {
+   "text": "Each of the risks described above may be exacerbated by delays or other adverse developments with respect to the completion of the Mergers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that prior risks may be exacerbated by delays, without introducing new specifics."
+  },
+  {
+   "text": "Insurance coverage under Norfolk Southern's property and liability policies extends to certain acts of terrorism.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct, unrelated new disclosure about insurance coverage for acts of terrorism, a specific new risk factor."
+  }
+ ]
+}

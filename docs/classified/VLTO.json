@@ -1,0 +1,133 @@
+{
+ "ticker": "VLTO",
+ "sector": "Industrials",
+ "filing_date": "2026-02-20",
+ "accession": "0001967680-26-000011",
+ "prior_accession": "0001967680-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "These risks are discussed more fully in \u201cItem 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference sentence with no substantive content."
+  },
+  {
+   "text": "1 \u2022 Uncertainties with respect to the development, deployment, and use of artificial intelligence in our business and products may result in harm to our business and financial statements. \u2022 Non-U.S. economic, political, legal, compliance, social and business factors can negatively affect our business and financial statements. \u2022 Our growth can also suffer if the markets into which we sell our products and services decline, do not grow as anticipated or experience cyclicality.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new summary bullet highlighting AI risk as a distinct new risk topic for the company."
+  },
+  {
+   "text": "2 \u2022 Changes in our tax rates or exposure to additional income tax liabilities or assessments could affect our earnings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic tax rate risk bullet, standard boilerplate language common to many filings."
+  },
+  {
+   "text": "Throughout the course of 2025, Veralto has taken substantial actions through the application of VES tools and processes to actively address the impact of various tariffs applied by the U.S. government and reciprocal tariffs from other trading partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on company actions addressing tariffs, elaborating on the existing tariff risk rather than introducing a new one."
+  },
+  {
+   "text": "The U.S. government has imposed and may continue to impose significant tariffs or other restrictions on foreign imports, and such trade restrictions or related countermeasures taken by impacted foreign countries could negatively affect our business and financial statements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding U.S. government tariffs and foreign trade restrictions affecting the business."
+  },
+  {
+   "text": "The U.S. government has imposed significant tariffs or other restrictions on certain foreign imports and has raised the possibility of imposing additional tariff increases or expanding the tariffs to capture other countries and types of foreign imports.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands on the tariff risk already introduced, adding detail about possible future tariff increases."
+  },
+  {
+   "text": "For example, since January 2025, the U.S. government has threatened or imposed significant tariffs on imports from China and various new or additional tariffs on imports from other countries with limited, temporary 11 exclusions for certain goods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factual detail (timing, countries) to the previously introduced tariff risk."
+  },
+  {
+   "text": "Any such current or future tariffs, along with other U.S. trade actions, have triggered and could further trigger retaliatory actions by certain affected countries, and other foreign governments may also impose trade measures, including reciprocal tariffs, on other U.S. goods in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on retaliatory tariff actions as part of the same tariff risk narrative."
+  },
+  {
+   "text": "These tariffs and other trade actions could increase the cost of, and reduce demand for, our products and services, which would adversely impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the business impact of tariffs, expanding on the previously stated tariff risk."
+  },
+  {
+   "text": "In addition, political tensions as a result of trade policies could reduce trade volume, investment, technological exchange and other economic activities between major international economies, resulting in a material adverse effect on global economic conditions and the stability of global financial markets, which could adversely affect our business and financial statements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the tariff risk discussion to broader macroeconomic effects on global trade and markets."
+  },
+  {
+   "text": "Uncertainties with respect to the development, deployment, and use of artificial intelligence in our business and products may result in harm to our business and financial statements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI as a new specific risk area that could harm the business and financial results."
+  },
+  {
+   "text": "We are in the early stages of incorporating artificial intelligence (\u201cAI\u201d) into our business activities and our product and service offerings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on the company's early-stage AI adoption, elaborating on the newly introduced AI risk."
+  },
+  {
+   "text": "As with many innovations, AI presents risks and challenges that could adversely impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement expanding on AI risk already introduced."
+  },
+  {
+   "text": "The development, adoption, and use of AI technologies are still in their early stages and ineffective or inadequate AI development or deployment practices could result in unintended consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the AI risk regarding development and deployment practices."
+  },
+  {
+   "text": "For example, AI algorithms may be flawed or may be based on datasets that are biased or insufficient.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific example expanding on the AI risk of biased or flawed algorithms."
+  },
+  {
+   "text": "In addition, any disruption or failure in the AI functionality we incorporate into our business activities, products or services could adversely impact our business or result in delays or errors in our offerings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential operational impact of AI failures, expanding the AI risk."
+  },
+  {
+   "text": "Conversely, any failure to successfully develop and deploy AI in our business activities, products and services could adversely affect our competitiveness (particularly if our competitors successfully deploy AI in their businesses, products and services), and the development and deployment of AI will require additional investment and increase our costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands AI risk to competitive and cost implications."
+  },
+  {
+   "text": "There also may be real or perceived social harm, unfairness, or other outcomes that undermine public confidence in the use and deployment of AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds reputational/social harm dimension to the AI risk already described."
+  },
+  {
+   "text": "The legal and regulatory landscape surrounding AI technologies is rapidly evolving and uncertain, including in the areas of intellectual property, cybersecurity and privacy and data protection.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands AI risk into legal and regulatory uncertainty."
+  },
+  {
+   "text": "Compliance with new or changing laws, regulations or industry standards relating to AI may impose significant costs and may limit our ability to develop, deploy or use AI technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on compliance costs related to AI regulation, part of the same AI risk theme."
+  },
+  {
+   "text": "Failure to appropriately respond to this evolving landscape may result in legal liability, regulatory action, or brand and reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Concludes the AI risk discussion with potential legal and reputational consequences, still part of same risk theme."
+  },
+  {
+   "text": "Financial and Tax Risks We have incurred a significant amount of debt, and our debt may continue to increase.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk regarding increasing levels of company debt."
+  },
+  {
+   "text": "20 \u2022 We also have agreements to sell products and services to government entities (as well as agreements relating to government financing, as discussed above) and are subject to various statutes and regulations that apply to companies doing business with government entities (less than 2% of our 2025 sales were made to the U.S. federal government).",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific quantitative detail (percentage of government sales) to an existing risk about government contracting regulations."
+  }
+ ]
+}

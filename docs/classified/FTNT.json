@@ -1,0 +1,203 @@
+{
+ "ticker": "FTNT",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-25",
+ "accession": "0001262039-26-000007",
+ "prior_accession": "0001262039-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 37,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "U.S. tariffs, and any new or additional retaliatory tariffs that may be imposed by foreign countries, may also adversely affect our customers and, consequently, demand for our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that tariffs and retaliatory tariffs could reduce customer demand, a concrete geopolitical/trade risk not previously described."
+  },
+  {
+   "text": "Our billings, revenue and free cash flow growth, including our product and service billings and revenue, may slow, and our operating margins may decline, particularly if our billings and revenue do not improve or grow as anticipated, or if customer demand, renewal rates, pricing, competitive dynamics, implementation timing, cost structure, or macroeconomic conditions adversely affect our business, which could negatively impact our financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing revenue/margin growth risk by adding specific drivers like renewal rates, pricing, competitive dynamics, and macro conditions."
+  },
+  {
+   "text": "Additionally, if our channel partners experience issues such as cyberattacks or other operational disruptions, it could negatively impact our ability to receive orders from them and, among other things, may adversely affect our billings and revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that channel partner cyberattacks or disruptions could hurt order flow and billings."
+  },
+  {
+   "text": "Our business operations, contract awards, and revenue streams are subject to governmental actions, which may introduce risks to our financial performance and strategic growth.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk framing around governmental actions affecting contracts and revenue streams."
+  },
+  {
+   "text": "In addition, these actions could eliminate or reduce the operations of an agency that we work with, terminate employees with whom we have business relations with or cancel or modify a contract with us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific mechanisms (agency elimination, employee termination, contract cancellation) expanding on the governmental action risk just introduced."
+  },
+  {
+   "text": "For example, as a result of the rapid global build-out of AI infrastructure, there is currently a global shortage of memory chips, which are a component in certain of our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new supply chain risk: global memory chip shortage driven by AI infrastructure build-out."
+  },
+  {
+   "text": "As a result, we are currently experiencing, and may continue to experience, constraints on the availability of memory chips.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and reinforces the memory chip shortage risk just introduced."
+  },
+  {
+   "text": "If we are unable to obtain sufficient quantities of memory chips on commercially reasonable terms, we have experienced, and may continue to experience, delays in the production and delivery of our products and increased costs to source available memory chips, any of which could harm our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details concrete consequences (delays, increased costs) of the memory chip shortage risk already introduced."
+  },
+  {
+   "text": "To mitigate increased hardware costs resulting from these shortages, we are implementing price increases, which may negatively impact demand for our products and may not be sufficient or timely to offset rising input costs, potentially resulting in margin compression and adversely affecting our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes mitigation efforts (price increases) and their potential negative effects, expanding on the memory chip shortage risk."
+  },
+  {
+   "text": "Any new restrictions that negatively impact our ability to receive supply of hardware components from Taiwan would negatively impact our business and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific geopolitical supply risk tied to Taiwan hardware component restrictions."
+  },
+  {
+   "text": "Changes to our warranty reserve estimates could materially impact our gross margins and operating results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific financial risk regarding warranty reserve estimate changes impacting margins."
+  },
+  {
+   "text": "Increased competition from other companies implementing AI more effectively or rapidly could impact customer preferences and reduce demand for our products or services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk related to AI adoption by competitors affecting demand."
+  },
+  {
+   "text": "In addition, vulnerabilities within our AI systems or solutions may be identified by competitors, researchers, or malicious actors before we detect or remediate them, which could result in security incidents, reputational damage, or loss of customer confidence.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new security risk concerning vulnerabilities in AI systems being exploited before detection."
+  },
+  {
+   "text": "Data Privacy Framework, the UK Extension to the EU-U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply names a legal framework (Data Privacy Framework) without adding new risk content."
+  },
+  {
+   "text": "Data Privacy Framework and the Swiss-U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of naming legal frameworks (Swiss-U.S. extension) without substantive new risk."
+  },
+  {
+   "text": "In addition to the GDPR, the EU has also enacted legislation that would regulate non-personal data and establish new cybersecurity standards, and other countries, including the U.K., may similarly do so in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new EU legislation on non-personal data and cybersecurity standards as a regulatory risk."
+  },
+  {
+   "text": "In particular, the EU Data Act went into effect in 2024 and imposes certain data and cloud service interoperability and switching obligations to enable users to switch between cloud service providers (as well as certain requirements concerning cross-border international transfers of non-personal data outside the EEA).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on the EU Data Act's interoperability and cross-border requirements, expanding on the regulatory risk just introduced."
+  },
+  {
+   "text": "Additionally, the EU\u2019s Network and Information Security Directive II, adopted in 2023, regulates resilience and incident response capabilities of entities operating in a number of sectors, including the digital infrastructure sector and provides for EU member states to have issued implementing legislation by October 2024.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specifics about the NIS II Directive as part of the broader EU regulatory risk expansion."
+  },
+  {
+   "text": "Further, DORA became effective in January 2025 and imposes certain requirements on entities in the financial sector and their third-party cloud service providers related to managing and mitigating information and communication technology risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specifics about DORA's effective date and requirements, continuing the regulatory risk expansion."
+  },
+  {
+   "text": "If we are unable to transfer data, including personal data, between and among countries and regions in which we operate, or are otherwise required to modify our practices, including our data privacy and security controls and procedures, it could affect the manner in which we provide our services, the geographical location or segregation of our relevant systems and operations, and could adversely affect our financial results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates a generic cross-border data transfer risk already commonly disclosed, without new specifics."
+  },
+  {
+   "text": "We are currently, and may in the future become, involved in litigation that may adversely affect us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being involved in litigation, standard boilerplate."
+  },
+  {
+   "text": "We are regularly subject to claims, suits and government investigations and other proceedings including patent, product liability, class action, personal injury, property damage, labor and employment, commercial disputes, securities litigation, compliance with laws and regulatory requirements and other matters, and we may become subject to additional types of claims, suits, investigations and proceedings as our business expands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of litigation types, standard boilerplate risk language."
+  },
+  {
+   "text": "Such claims, suits and government investigations and proceedings are inherently uncertain and their results cannot be predicted with certainty.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of legal outcomes, boilerplate."
+  },
+  {
+   "text": "Regardless of the outcome, any of these types of legal proceedings can have an adverse impact on us because of legal costs and diversion of management attention and resources, and could cause us to incur significant expenses or liability, adversely affect our brand recognition and/or require us to change our business practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about legal proceeding impacts, standard boilerplate."
+  },
+  {
+   "text": "The expense of litigation and the timing of this expense from period to period are difficult to estimate, subject to change and could adversely affect our results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about litigation expense unpredictability, boilerplate."
+  },
+  {
+   "text": "It is possible that a resolution of one or more such proceedings could result in substantial damages, settlement costs, fines and penalties that could adversely affect our business, consolidated financial position, results of operations or cash flows in a particular period.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential damages from litigation, boilerplate."
+  },
+  {
+   "text": "These proceedings could also result in reputational harm, sanctions, consent decrees or orders requiring a change in our business practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reputational harm from proceedings, boilerplate."
+  },
+  {
+   "text": "Because of the potential risks, expenses and uncertainties of litigation, we may, from time to time, settle disputes, even where we have meritorious claims or defenses, by agreeing to settlement agreements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about settling disputes, boilerplate."
+  },
+  {
+   "text": "Because litigation is inherently unpredictable, we cannot assure you that the results of any of these actions will not have a material adverse effect on our business, financial condition, results of operations, and prospects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about litigation unpredictability, boilerplate."
+  },
+  {
+   "text": "Any of these consequences could adversely affect our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement about consequences affecting business, boilerplate."
+  },
+  {
+   "text": "For additional information regarding our litigation, claims and related contingencies, see Note 11.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, purely administrative."
+  },
+  {
+   "text": "Commitments and Contingencies, of our consolidated financial statements in Part II, Item 8 of this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of cross-reference to financial statements, administrative boilerplate."
+  },
+  {
+   "text": "42 Table of Contents Additional regulations involving single-use plastics in packaging resulting in import taxes in certain countries in the EU have resulted in additional costs to source appropriate packaging for hardware.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory cost risk from EU single-use plastics packaging import taxes."
+  },
+  {
+   "text": "Alternatively, for our cloud based systems, new EU energy efficiency laws relating to the power usage effectiveness and emerging water usage regulations of data centers will require us to source specific data centers or retrofit existing ones to meet the stringent energy efficiency requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk requiring sourcing or retrofitting data centers for EU energy efficiency laws."
+  },
+  {
+   "text": "Further deterioration of the macroeconomic environment and regulatory action may adversely affect our business, operating results and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about macroeconomic deterioration and regulatory action, standard cautionary language."
+  },
+  {
+   "text": "For example, the Chinese government recently instructed domestic companies in certain industries not to use cybersecurity products manufactured by the companies 47 Table of Contents based in the United States or Israel, including us and certain of our competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new geopolitical risk regarding Chinese government restrictions on U.S./Israel-based cybersecurity products."
+  },
+  {
+   "text": "For example, if one of our channel partners experiences issues such as cyberattacks or other operational disruptions at the end of a quarter, it could negatively impact our ability to receive orders from them and, among other things, may adversely affect our billings and revenue.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same channel partner cyberattack risk described in item [2] with minor added detail about timing at quarter end."
+  }
+ ]
+}

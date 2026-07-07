@@ -1,0 +1,128 @@
+{
+ "ticker": "SYK",
+ "sector": "Health Care",
+ "filing_date": "2026-02-11",
+ "accession": "0000310764-26-000010",
+ "prior_accession": "0000310764-25-000023",
+ "model": "claude-sonnet-5",
+ "n_added": 22,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "In addition, recently enacted tariffs by the United States government and retaliatory measures by other governments could adversely impact our supply chain or the availability of certain components.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about tariffs and retaliatory measures affecting supply chain and component availability."
+  },
+  {
+   "text": "For example, the United States has recently enacted and proposed to enact new tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting factual context for the tariff risk introduced elsewhere, not a new risk itself."
+  },
+  {
+   "text": "These developments, the perception they could occur, or changes to the existing exemption framework may have a material adverse effect on global economic conditions and may significantly reduce global trade.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential broader economic effects of the tariff-related risk already being described."
+  },
+  {
+   "text": "7 STRYKER CORPORATION 2025 FORM 10-K projects, the inability to realize the expected benefits, savings or synergies from the acquisition, the loss of key personnel, litigation resulting from the acquisition and exposure to unexpected liabilities of acquired companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail (synergy realization, personnel loss, litigation) to the existing acquisition-related risk discussion."
+  },
+  {
+   "text": "An increasing risk of civil unrest, political tensions, wars or other military conflicts may also impact the cybersecurity threat risk landscape.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new factor\u2014civil unrest and military conflict\u2014affecting the cybersecurity threat landscape."
+  },
+  {
+   "text": "9 STRYKER CORPORATION 2025 FORM 10-K technologies increases regulatory, cybersecurity and other significant risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about increased regulatory/cybersecurity risk without new specifics."
+  },
+  {
+   "text": "In January 2026 the OECD released Administrative Guidance containing the Side-by- Side system (SbS System) and introduced two new Pillar 2 safe harbors for multinationals headquartered in jurisdictions including the United States with eligible tax systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory development (OECD Pillar 2 guidance and safe harbors) affecting tax risk."
+  },
+  {
+   "text": "The safe harbors must now be legislated domestically by each country with enacted Pillar 2 legislation impacted by the new OECD Administrative Guidance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides implementation detail following from the newly introduced OECD guidance risk."
+  },
+  {
+   "text": "For example, we received a final audit report and assessments from the German Federal Central Tax Office (\"FCTO\") related to audits of tax years 2010 through 2017.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new tax audit and assessment from a foreign tax authority, a concrete new risk event."
+  },
+  {
+   "text": "Although we intend to defend our filing positions through the FCTO independent appeals process and, if necessary, litigation, there can be no assurance that we will be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detail on the company's response to the newly disclosed tax audit risk."
+  },
+  {
+   "text": "If the resolution of this matter results in additional German income taxes, we intend to seek associated foreign tax credits, but such credits may not be available on a timely basis or at all, or may not fully offset any additional liability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential financial consequences of the tax audit risk already introduced."
+  },
+  {
+   "text": "Any such outcome could materially adversely affect our business, financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about potential adverse effects, common boilerplate language."
+  },
+  {
+   "text": "See Note 11 to our Consolidated Financial Statements for more information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to financial statement notes, no substantive risk content."
+  },
+  {
+   "text": "In addition, as disclosed in our prior filings, we were previously contacted by the SEC, the United States Department of Justice, and other regulatory authorities involving whether certain business activities in certain foreign countries violated provisions of the FCPA and analogous local laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates previously disclosed FCPA investigation context rather than introducing a new risk."
+  },
+  {
+   "text": "We have completed our investigation into these matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides status update (completion) on an existing investigation risk."
+  },
+  {
+   "text": "On April 1, 2025, and December 16, 2025, we were informed by the DOJ and SEC, respectively, that each agency had closed its inquiry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific resolution details (dates, agency closures) to the previously disclosed investigation."
+  },
+  {
+   "text": "We are currently responding to inquiries by certain foreign authorities arising in the normal course of business, however, we do not expect these matters to have a material effect, if any, on our financial statements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes ongoing foreign regulatory inquiries but explicitly downplays material impact, expanding existing legal risk disclosure."
+  },
+  {
+   "text": "(Wright) legacy hip products discussed in Note 7 to our Consolidated Financial Statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note about legacy products, no new risk content."
+  },
+  {
+   "text": "11 STRYKER CORPORATION 2025 FORM 10-K state to facilitate domestic and cross-border class actions in a wide range of areas, including product liability claims with medical devices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new litigation risk regarding facilitation of cross-border class actions for product liability."
+  },
+  {
+   "text": "Such events, including hurricanes, tornadoes, wildfires, droughts, extreme temperatures, flooding, and other natural disasters, could damage our facilities and products, or those of our suppliers, disrupt manufacturing and distribution, reduce workforce availability, increase raw material and component costs, increase liabilities, or adversely affect the operations of hospitals, medical care facilities and other customers, any of which could negatively impact our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific natural disaster types and their concrete operational and financial impacts, expanding beyond generic risk language."
+  },
+  {
+   "text": "In addition, sustainability-related matters continue to be the subject of regulatory, legal and market attention.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about sustainability-related regulatory attention without specific new risk detail."
+  },
+  {
+   "text": "12 STRYKER CORPORATION 2025 FORM 10-K of environmental laws and regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference fragment about environmental laws, lacking substantive new content."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "SOLV",
+ "sector": "Health Care",
+ "filing_date": "2026-02-27",
+ "accession": "0001964738-26-000007",
+ "prior_accession": "0001964738-25-000019",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 38
+ },
+ "items": [
+  {
+   "text": "Risk Factors\" for a description of the risks related to the regulations that are applicable to Solventum.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference sentence with no risk content."
+  },
+  {
+   "text": "Regulation of Medical Devices and Pharmaceutical Products The products Solventum develops, manufactures, and commercializes are regulated in most of the markets Solventum serves.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that products are regulated, standard framing."
+  },
+  {
+   "text": "Some of these products meet the definition of medical devices, pharmaceuticals or combination products and are regulated, as such, by various governmental bodies, globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive classification of product types under regulatory bodies, no new risk."
+  },
+  {
+   "text": "All products produced by the MedSurg and Dental Solutions segments, with 10 Table of Contents very few exceptions, meet the definition of a medical device or pharmaceutical product.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of segment product classification, informational only."
+  },
+  {
+   "text": "Accordingly, the development, manufacture, and commercialization of these products must comply with the regulations governing medical devices or pharmaceuticals in the markets we serve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic compliance obligation statement, standard boilerplate."
+  },
+  {
+   "text": "Conversely, none of the products produced by the Health Information Systems segment meet the definition of medical devices or pharmaceuticals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about segment scope, not a risk."
+  },
+  {
+   "text": "The product portfolio of the segment is dynamic and changes with time, depending on the needs of the customers served.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about product portfolio dynamics."
+  },
+  {
+   "text": "While the Health Information Systems segment does not currently include medical devices or pharmaceutical products, this may change in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces possibility that a currently unregulated segment could become subject to medical device/pharma regulation in the future, a new specific exposure."
+  },
+  {
+   "text": "Determinations of the safety and efficacy of our products are solely within the authority of the United States Food and Drug Administration (\"FDA\") or other applicable regulatory authorities in jurisdictions outside the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory authority over safety/efficacy determinations."
+  },
+  {
+   "text": "United States In the United States, the Food, Drug, and Cosmetic Act authorizes the Food and Drug Administration to oversee and regulate the production, sale, and distribution of food, drugs, medical devices, and cosmetics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of FDA's statutory authority, standard background."
+  },
+  {
+   "text": "Medical Devices Solventum\u2019s medical devices are regulated by the FDA\u2019s Center for Devices and Radiological Health.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes which FDA center regulates devices, purely informational."
+  },
+  {
+   "text": "Class III devices typically require pre-market approval.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of regulatory classification requirement."
+  },
+  {
+   "text": "Most medical devices are cleared by the FDA through the Pre-Market Notification, or 510(k), process.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard 510(k) clearance process, general regulatory background."
+  },
+  {
+   "text": "This process requires medical device manufacturers to demonstrate that their devices are as safe and effective as (i.e., substantially equivalent to) a legally marketed medical device.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes substantial equivalence requirement, general process description."
+  },
+  {
+   "text": "Pre-market notifications are required for most Class II and some Class I medical devices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes which device classes require pre-market notification, general background."
+  },
+  {
+   "text": "Due to the level of risk associated with Class III devices, the FDA has determined that these devices require a pre-market approval (a \" PMA \" ).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general PMA requirement for Class III devices."
+  },
+  {
+   "text": "A PMA application is the most stringent type of marketing application required by the FDA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of PMA stringency, no company-specific risk."
+  },
+  {
+   "text": "Typically, PMA submissions require the submission of human clinical trials to achieve FDA approval.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of clinical trial requirement for PMA."
+  },
+  {
+   "text": "Currently, none of the medical devices in Solventum\u2019s portfolio of products are Class III medical devices in the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States current absence of Class III devices, reduces rather than expands risk exposure."
+  },
+  {
+   "text": "Pharmaceutical Products Solventum\u2019s pharmaceutical products are regulated by the FDA\u2019s Center for Drug Evaluation and Research.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes which FDA center regulates pharmaceuticals, informational."
+  },
+  {
+   "text": "Generally, drugs are brought to the market through the New Drug Application ( \" NDA \" ) process or an Over-the-Counter ( \" OTC \" ) Monograph.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of drug approval pathways."
+  },
+  {
+   "text": "Solventum\u2019s pharmaceutical products are brought to market through the NDA and OTC pathways.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about which pathways Solventum uses, informational."
+  },
+  {
+   "text": "The NDA process typically begins with the completion of extensive preclinical laboratory tests and preclinical animal studies, which may need to be performed in accordance with the Good Laboratory Practices regulations, followed by the submission to the FDA of an investigational new drug application which must become effective before human clinical trials may begin and must be updated annually.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of NDA process steps."
+  },
+  {
+   "text": "Before each clinical study may be initiated, an independent Institutional Review Board or ethics committee representing each clinical site must approve such study.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of IRB approval requirement."
+  },
+  {
+   "text": "The clinical studies must be adequate, well-controlled and conducted in accordance with Good Clinical Practice ( \" GCP \" ) requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of GCP requirements."
+  },
+  {
+   "text": "After the completion of the clinical trials, an NDA is submitted to the FDA to demonstrate that a drug is safe and effective in its proposed use(s), the benefits of the drug outweigh the risks, the drug\u2019s proposed labeling (package insert) is appropriate, and 11 Table of Contents the methods used to manufacture the drug are adequate to preserve the drug\u2019s identity, strength, quality, and purity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of NDA submission requirements."
+  },
+  {
+   "text": "A n OTC drug monograph is a type of \" recipe book \" covering acceptable ingredients, doses, formulations, labeling, and, in some cases, testing parameters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definition of OTC monograph system, informational."
+  },
+  {
+   "text": "OTC drug monographs are continually updated to add additional ingredients and labeling as needed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of monograph updates."
+  },
+  {
+   "text": "Products conforming to a monograph may be marketed without FDA pre-approval.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of monograph marketing pathway."
+  },
+  {
+   "text": "Under the OTC monograph system, selected OTC drugs are generally recognized as safe and effective and do not require the submission and approval of an NDA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of OTC drug recognition status."
+  },
+  {
+   "text": "The FDA OTC monographs include well-known ingredients and specific requirements for permitted indications, required warnings and precautions, allowable combinations of ingredients and dosage levels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of FDA monograph content."
+  },
+  {
+   "text": "Pharmaceutical products marketed under the OTC monograph system must conform to specific quality, formula and labeling requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General compliance requirement for OTC products."
+  },
+  {
+   "text": "Facilities where OTC drugs are manufactured, tested, packaged, stored or distributed must comply with cGMP regulations and/or regulations promulgated by the FDA or other competent authorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cGMP compliance requirement for facilities."
+  },
+  {
+   "text": "OTC monograph products that do not comply with these standards can be deemed unapproved new drugs and can be required to be withdrawn from the market.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly states that noncompliant OTC products can be deemed unapproved and forced off the market, a specific negative business consequence."
+  },
+  {
+   "text": "European Union Medical Devices All medical devices that are placed on the market or put into service in the European Union must meet the requirements of the Medical Device Regulation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of EU Medical Device Regulation applicability."
+  },
+  {
+   "text": "Manufacturers must demonstrate compliance to the requirements of the Medical Device Regulation, prior to affixing the CE Mark on the products and commercializing in the European Union.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of CE Mark compliance requirement."
+  },
+  {
+   "text": "A CE Mark is a symbol placed on a product that declares that the product is compliant with the essential requirements of applicable health, safety and environmental protection regulation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definition of CE Mark, purely informational."
+  },
+  {
+   "text": "Compliance to the Medical Device Regulation requires a manufacturer to demonstrate that its products comply with minimum standards of performance, safety, and quality, through a conformity assessment procedure that depends on the product\u2019s classification.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of MDR conformity assessment requirement."
+  },
+  {
+   "text": "The Medical Device Regulation describes four classes of medical devices: Class I (Lowest Risk), Class IIa, Class IIb, and Class III (Highest Risk).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes MDR device classification system, general background."
+  },
+  {
+   "text": "Classification is dependent on a variety of factors, including duration of use, whether the device is invasive or non-invasive, and whether the device is considered \"active.\" Notified bodies are responsible for ensuring that manufacturers comply with the requirements of the Medical Device Regulation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes classification factors and notified body role, general background."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "PFE",
+ "sector": "Health Care",
+ "filing_date": "2026-02-26",
+ "accession": "0000078003-26-000026",
+ "prior_accession": "0000078003-25-000054",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 30
+ },
+ "items": [
+  {
+   "text": "Government designed to lower drug costs for U.S. patients and to include certain Pfizer products on the TrumpRx.gov platform, Pfizer\u2019s plans to further invest in U.S. manufacturing and potential tariff impacts, including risks relating to entering into binding final agreements with the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new government pricing initiatives, TrumpRx.gov platform inclusion, manufacturing investment plans, and tariff risk tied to binding agreements\u2014these are concrete new risk exposures not previously described."
+  },
+  {
+   "text": "As a science-driven global biopharmaceutical company, we remain focused on advancing our product pipeline, supporting our marketed brands and deploying capital responsibly, with a focus on initiatives that can help contribute to our long-term revenue and future growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic mission statement about the company's focus areas, not a specific risk."
+  },
+  {
+   "text": "Maximize value of key transactions 2.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A bullet-point strategic priority label with no substantive risk detail."
+  },
+  {
+   "text": "Deliver on critical R&D milestones 3.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A bullet-point strategic priority label with no substantive risk detail."
+  },
+  {
+   "text": "Invest to maximize post-2028 growth 4.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A bullet-point strategic priority label with no substantive risk detail."
+  },
+  {
+   "text": "In addition, we are scaling AI across R&D, manufacturing, commercial and patient engagement to improve productivity and accelerate innovation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about scaling AI for productivity, informational rather than a risk disclosure."
+  },
+  {
+   "text": "In 2025, Pfizer made the decision to discontinue Pfizer Ignite and we are winding down this business while collaborating closely with our Ignite partners to ensure continuity and the successful transition of work.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new business decision to discontinue and wind down Pfizer Ignite, introducing transition and operational risk not previously disclosed."
+  },
+  {
+   "text": "Medical Affairs organizations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing an organizational unit name, no risk content."
+  },
+  {
+   "text": "Global Hospital and Biosimilars Includes the commercial organization covering Pfizer\u2019s product portfolio of off-patent branded and generic sterile injectables and biosimilars except in China, Hong Kong and certain other international markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive business segment definition, not a risk statement."
+  },
+  {
+   "text": "For additional information on our operating segments and products, including product revenues, see Note 17 , and for additional information on the key operational revenue drivers of our business, see the Analysis of the Consolidated Statements of Operations section within MD&A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to other filing sections, purely informational."
+  },
+  {
+   "text": "We manage our R&D operations for all therapeutic areas in a single R&D organization led by the Chief Scientific Officer and President, Research and Development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes R&D organizational structure, informational not risk-related."
+  },
+  {
+   "text": "This organization is responsible for overseeing all R&D activities with end-to-end responsibilities that span from discovery to late-phase clinical development and post-approval activities, including facilitating regulatory submissions, engaging with health authorities and global medical strategies, as well as U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes R&D organizational responsibilities, informational not risk-related."
+  },
+  {
+   "text": "For example, approximately $500 million of R&D savings achieved from our ongoing realigning our cost base program in 2025 is expected to be reinvested in R&D programs in 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Financial/operational detail about R&D cost savings reinvestment, not a risk disclosure."
+  },
+  {
+   "text": "See the Costs and Expenses\u2013\u2013Restructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives section within MD&A for more information .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to MD&A section, purely informational."
+  },
+  {
+   "text": "Pfizer has co-promotion rights in the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment describing co-promotion rights, factual business detail."
+  },
+  {
+   "text": "Our profit sharing rights, royalty rights and expense obligations relating to Tivdak vary by jurisdiction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement that profit sharing/royalty terms vary by jurisdiction, factual business detail."
+  },
+  {
+   "text": "Further, pursuant to our voluntary agreement with the U.S. government, we are participating on the TrumpRx.gov platform, which allows U.S. patients to purchase certain medicines at significant discounts to current retail prices.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new voluntary participation in a government pricing platform (TrumpRx.gov), a specific new business/regulatory exposure."
+  },
+  {
+   "text": "Basic Product Patent Expiration Year (1) Major Europe Basic Product Patent Expiration Year (1) Japan Basic Product Patent Expiration Year (1) Xeljanz 2026 2028 (2) 2025 Prevnar 13/Prevenar 13 2026 (3) 2029 Adcetris (4) 2026 (4) (4) Eliquis 2027 (5) 2026 (6) 2026 Ibrance 2027 2028 2028 Xtandi (7) 2027 (7) (7) Vyndaqel/Vyndamax/Vynmac 2026 (2028 pending PTE) (8) 2026 2026/2029 (9) Xalkori 2029 2027 (10) 2028 Pfizer Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Updated table of patent expiration dates, factual data update rather than new risk."
+  },
+  {
+   "text": "Pfizer has commercialization rights for Adcetris in the U.S. and its territories and in Canada.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes commercialization rights for a product, factual business detail."
+  },
+  {
+   "text": "Takeda has commercialization rights in the rest of the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes partner's commercialization rights, factual detail."
+  },
+  {
+   "text": "(10) Pediatric extension applications have been filed on SPCs for Xalkori in Europe.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual detail about pediatric extension filings."
+  },
+  {
+   "text": "In France, Germany, and Italy the pediatric extension has been granted, extending the SPC to 2028.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual detail about granted pediatric extensions and SPC dates."
+  },
+  {
+   "text": "Ono has exclusive rights to commercialize the product in Japan and South Korea, Medison Pharma Ltd. has exclusive rights to commercialize the product in Israel and Pierre Fabre has exclusive rights to commercialize the product in all other countries, including Europe and Asia (excluding Japan and South Korea).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes partner commercialization rights by territory, factual detail."
+  },
+  {
+   "text": "(15) Ngenla is licensed from OPKO Health, Inc., and is developed and commercialized by Pfizer, including in the U.S., Latin America, Europe, Africa, and Asia.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes licensing and commercialization territories for a product, factual detail."
+  },
+  {
+   "text": "Outside the U.S., Genmab has the sole right to promote Tivdak for second-line plus mCC and has co-promotion rights for other indications in all territories except certain territories where Zai Lab has commercialization rights (mainland China, Hong Kong, Macau, and Taiwan).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes partner promotion/commercialization rights by territory, factual detail."
+  },
+  {
+   "text": "For information regarding past reported, including recently expired, patent expiration dates, please see the Patents and Intellectual Property Rights sections of our prior Annual Reports on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to prior filings for patent information."
+  },
+  {
+   "text": "We seek to maximize the opportunity to establish a \u201cfirst-to- Pfizer Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmented sentence about seeking first-to-market opportunity, generic strategic language."
+  },
+  {
+   "text": "Over the last year, PBM practices have come under scrutiny from Federal and State policymakers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory scrutiny risk on PBM practices from policymakers, not previously mentioned."
+  },
+  {
+   "text": "These legislations, enforcements, settlements and related guidance and rules could have implications to our business, including how we engage with these entities as well as the formulary status of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential implications of the newly introduced PBM scrutiny risk regarding legislation and enforcement."
+  },
+  {
+   "text": "In September 2025, we announced an agreement with the Trump Administration in which we voluntarily agreed to implement measures designed to make certain drug prices for U.S. patients more comparable to those in other developed countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new agreement with the Trump Administration on drug pricing, a concrete new regulatory/business risk."
+  },
+  {
+   "text": "We are also participating in the TrumpRx.gov platform, which allows U.S. patients to purchase certain medicines at significant discounts to current retail prices, where the large majority of the Company\u2019s primary care treatments and some select specialty brands will be offered at savings that will range as high as 85% and on average 50%.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional specifics (discount percentages, product scope) on the previously introduced TrumpRx.gov participation risk."
+  },
+  {
+   "text": "The September 2025 agreement also provides a three-year grace period during which time our products will not face Section 232 tariffs, provided the Company further invests in manufacturing in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific conditional tariff relief details tied to the broader tariff/pricing agreement risk already introduced."
+  },
+  {
+   "text": "Pfizer is now in the process of entering into binding final agreements to implement these arrangements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the process and uncertainty of finalizing binding agreements referenced in the broader pricing agreement risk."
+  },
+  {
+   "text": "Prior to such approval, the FDA will evaluate whether the product is safe and effective for its intended use.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of FDA approval process, standard regulatory boilerplate."
+  },
+  {
+   "text": "The FDA regulates biosimilars which are follow-on products that reference an innovative biological product.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic definitional statement about FDA biosimilar regulation."
+  },
+  {
+   "text": "A product is biosimilar if the products are highly similar and there are no clinically meaningful differences between them.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic definition of biosimilar products, regulatory boilerplate."
+  },
+  {
+   "text": "A biosimilar is interchangeable if switching the products does not decrease safety or efficacy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic definition of interchangeable biosimilars, regulatory boilerplate."
+  },
+  {
+   "text": "In many states, interchangeable biosimilars may be substituted for the reference product at the pharmacy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about state substitution laws for biosimilars."
+  },
+  {
+   "text": "No other interchangeable may be approved until one year after approval of the first interchangeable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic regulatory rule about interchangeable exclusivity periods."
+  },
+  {
+   "text": "In May 2025, the Trump Administration issued an Executive Order titled \u201cDelivering Most-Favored Nation Prescription Drug Pricing to American Patients\u201d, outlining a plan to reduce prescription drug costs in the U.S., which was followed by formal letters to major pharmaceutical companies (including Pfizer) in July 2025 outlining steps they should take to lower prescription drug costs to U.S. patients and taxpayers (collectively, the MFN Initiatives).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new government policy action (Executive Order and follow-up letters) directly targeting Pfizer's pricing practices, a concrete new regulatory risk."
+  }
+ ]
+}

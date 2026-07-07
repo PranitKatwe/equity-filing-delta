@@ -1,0 +1,68 @@
+{
+ "ticker": "CB",
+ "sector": "Financials",
+ "filing_date": "2026-02-27",
+ "accession": "0000896159-26-000005",
+ "prior_accession": "0000896159-25-000004",
+ "model": "claude-sonnet-5",
+ "n_added": 10,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "We may not be able to effectively mitigate interest rate sensitivity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk statement about inability to mitigate interest rate sensitivity, a concrete financial risk not previously described in the shown text."
+  },
+  {
+   "text": "The amount of capital that our insurance subsidiaries have and must hold to maintain their financial strength and credit ratings and meet other requirements can vary significantly from time to time and is sensitive to a number of factors, some of which are outside of our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the variability and sensitivity of capital requirements for insurance subsidiaries, expanding on the existing capital adequacy risk topic with more detail."
+  },
+  {
+   "text": "Capital requirements for our insurance subsidiaries are prescribed by the applicable insurance regulators, while rating agencies establish requirements that inform ratings for our insurance subsidiaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General explanatory statement about how capital requirements and ratings are set by regulators and rating agencies, without adding a new specific risk."
+  },
+  {
+   "text": "Projecting surplus and the related capital requirements is complex and requires making assumptions regarding how our business will perform within the broader macroeconomic environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the complexity of projecting surplus and capital requirements, providing context rather than a new or expanded risk."
+  },
+  {
+   "text": "Insurance regulators and rating agencies evaluate company capital through financial models that calculate minimum capitalization requirements based on risk-based capital formulas for property and casualty insurance groups and their subsidiaries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on how regulators and rating agencies use risk-based capital formulas, expanding the mechanics of the existing capital risk factor."
+  },
+  {
+   "text": "In any particular year, capital levels and risk-based capital requirements may increase or decrease depending on a variety of factors including the mix of business written by our insurance subsidiaries and correlation or diversification in the business profile, the amount of additional capital our insurance subsidiaries must hold to support business growth, the value of securities in our investment portfolio, changes in interest rates and foreign currency exchange rates, as well as changes to the regulatory and rating agency models used to determine our required capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a detailed list of factors that can affect capital levels and risk-based capital requirements, substantively expanding the existing capital risk discussion."
+  },
+  {
+   "text": "Our insurance and reinsurance subsidiaries conduct business globally and are subject to varying degrees of supervision and regulation by the regulatory authorities under which they conduct business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about global regulatory oversight of insurance and reinsurance subsidiaries, standard regulatory boilerplate."
+  },
+  {
+   "text": "The extent of regulation on our insurance business varies across the jurisdictions where we operate, but generally is governed by laws that delegate regulatory, supervisory and administrative authority to insurance departments and similar regulatory agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of how insurance regulation is structured across jurisdictions, not introducing a new specific risk."
+  },
+  {
+   "text": "Several nations in Asia are also considering legislation or regulatory guidance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes that several Asian nations are considering new legislation or guidance, expanding the geographic scope of existing regulatory risk without detailing a new distinct risk."
+  },
+  {
+   "text": "Our Bermuda operations are subject to taxation in Bermuda because of the newly effective Bermuda Corporate Income Tax Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific tax law (Bermuda Corporate Income Tax Act) that newly subjects operations to taxation, a concrete and material new risk."
+  }
+ ]
+}

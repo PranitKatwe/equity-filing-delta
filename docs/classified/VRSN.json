@@ -1,0 +1,163 @@
+{
+ "ticker": "VRSN",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-05",
+ "accession": "0001014473-26-000006",
+ "prior_accession": "0001014473-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 29,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "For example, recent advances in AI-based tools have made, and will continue to make, cyber-attacks more sophisticated, harder to defend, and easier and faster to launch.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that AI tools are making cyber-attacks more sophisticated and harder to defend, a concrete threat not previously described."
+  },
+  {
+   "text": "These tools allow for rapid exploitation of vulnerabilities, which hinders our ability to defend against such exploitation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the AI-enabled cyber-attack risk just introduced, adding detail about rapid exploitation of vulnerabilities."
+  },
+  {
+   "text": "We and other registries as well as internet service providers have also adopted or have begun to adopt RPKI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes industry-wide adoption of RPKI as a mitigating practice, not a new specific risk to the business."
+  },
+  {
+   "text": "These factors may have varying impacts on different geographic regions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regional variation in impact, adds no specific new risk."
+  },
+  {
+   "text": "Additionally, the rapid increase in demand for compute and network hardware, including servers, chips, memory and other technology, caused by new demand from AI companies, is increasing our costs for some of these goods and could increase our capital and operating costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a concrete new cost pressure from AI-driven demand for compute/network hardware increasing capital and operating costs."
+  },
+  {
+   "text": "A variety of economic and non-economic factors may affect acceptance or adoption of our services in these locations, including regional internet infrastructure development and government regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about factors affecting service adoption without specific new risk detail."
+  },
+  {
+   "text": "Capital Structure Risk Factors We may not pay any dividends on our common stock in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor section concerning uncertainty of future dividend payments, tied to the company's new dividend practice."
+  },
+  {
+   "text": "During the second quarter of 2025, we began to declare quarterly dividends.",
+   "category": "new_substantive_risk",
+   "rationale": "States the material new fact that the company began paying dividends in Q2 2025, which underlies the new dividend-related risk."
+  },
+  {
+   "text": "Future dividends will be subject to declaration by the Board and, thus, may be subject to numerous factors in existence at the time of any such declaration including, but not limited to, prevailing market conditions, our results of operations, financial condition and liquidity, contractual prohibitions and other restrictions with respect to the payment of dividends.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about factors influencing future dividend declarations."
+  },
+  {
+   "text": "There is no assurance that the Board will declare and thus that we will pay, any dividends on our common stock in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic no-assurance disclaimer common to dividend risk factors."
+  },
+  {
+   "text": "The Board may, in its discretion, decrease the level of cash dividends.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement about board discretion to reduce dividends, generic framing."
+  },
+  {
+   "text": "A reduction or elimination of cash dividends could negatively affect the market price of our common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that dividend cuts could hurt stock price, standard boilerplate."
+  },
+  {
+   "text": "General Risk Factors The use of AI technology by third-parties, including our vendors, and our use of AI technology, tools, and services could expose us to cybersecurity, operational, intellectual property and regulatory risks that could adversely affect our business, reputation or financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding AI technology use by the company and third parties affecting cybersecurity, operations, IP, and regulation."
+  },
+  {
+   "text": "The use of AI technology by third parties may increase our exposure to cybersecurity and data protection risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically flags increased cybersecurity and data protection exposure from third-party AI use, a new distinct risk."
+  },
+  {
+   "text": "For example, recent advances in AI technology and tools have made, and will continue to make, cyber-attacks more sophisticated, harder to defend, and easier and faster to launch.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same AI cyber-attack sophistication point as sentence 0 with near-identical wording."
+  },
+  {
+   "text": "These tools permit rapid exploitation of vulnerabilities, which hinders our ability to defend against such exploitation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of sentence 1 restating rapid exploitation of vulnerabilities via AI tools."
+  },
+  {
+   "text": "In addition, the use and integration of AI technology into the products and services that we procure could create or exacerbate vulnerabilities, potentially resulting in unauthorized access to our systems including our sensitive or proprietary information.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific new risk that AI integration into procured products/services could create or worsen system vulnerabilities."
+  },
+  {
+   "text": "For more details on these risks, see our risk factor \u201cAttempted security breaches, including from the exploitation of vulnerabilities, cyber-attacks and Distributed Denial of Service (\u201cDDoS\u201d) attacks against our systems and services increase our costs, expose us to potentially material liability, and could materially harm our business and reputation.\u201d We may also experience challenges in the effective or timely adoption of AI technology.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor and generic mention of adoption challenges, not a new specific risk itself."
+  },
+  {
+   "text": "Our decision to adopt AI technologies in a low-risk manner could result in slower adoption of AI technology that could hinder or prevent us from realizing efficiencies or benefits, which could result in less efficient operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific operational risk that cautious AI adoption could hinder efficiency gains."
+  },
+  {
+   "text": "Further, although we have established AI policies and procedures, our use of AI technology, if not effectively governed, could result in unintended consequences, including errors, biased, and otherwise unreliable outputs.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a concrete risk of AI governance failures leading to errors, bias, or unreliable outputs."
+  },
+  {
+   "text": "The use of certain AI technology tools, including those provided by third parties, may also create intellectual property risks, such as uncertainty regarding ownership of AI-generated output, IP infringement, or the disclosure of confidential or proprietary information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific IP risks from AI tool usage such as ownership uncertainty and infringement."
+  },
+  {
+   "text": "Finally, AI is subject to increasing regulatory scrutiny and evolving laws, rules and regulations, which may increase our compliance costs and affect our development, adoption, use, implementation and maintenance of AI technologies or tools, and subject us to increased legal liability, regulatory scrutiny, and reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Flags a new specific regulatory risk tied to evolving AI laws affecting compliance costs and liability."
+  },
+  {
+   "text": "Short sellers have in the past, and may in the future, engage in efforts to lower the market price of our common stock through the dissemination of false or misleading information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor about short sellers spreading false information to lower stock price."
+  },
+  {
+   "text": "Short selling is the practice of selling securities that the seller does not own but rather has borrowed or intends to borrow from a third party with the intention of subsequently buying lower-priced identical securities to return to the lender.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely definitional explanation of short selling mechanics, not a risk statement."
+  },
+  {
+   "text": "Accordingly, it is in the interest of a short seller to want the price of our common stock to decline.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic logical statement about short seller incentives, adds no new specific risk."
+  },
+  {
+   "text": "Short sellers may seek to profit from declines in the market price of our common stock and, in some cases, may publish, or arrange for the publication of, false or misleading information regarding our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the short seller risk already introduced, adding detail about profit motive and misinformation tactics."
+  },
+  {
+   "text": "We have been, and may in the future be, the target of short sellers.",
+   "category": "new_substantive_risk",
+   "rationale": "States the material fact that the company has actually been targeted by short sellers, a concrete new disclosure."
+  },
+  {
+   "text": "The 19 Table of Contents dissemination of such information, regardless of its veracity, can lead to significant stock price volatility, reputational harm, and the diversion of management\u2019s attention from our core business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consequences of short seller misinformation, adding specifics like stock volatility and reputational harm."
+  },
+  {
+   "text": "Such activities may result in a decline in the market price of our stock or could lead to costly litigation or regulatory inquiries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential outcomes of short seller activity, including litigation and regulatory inquiry risk."
+  }
+ ]
+}

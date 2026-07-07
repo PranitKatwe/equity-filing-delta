@@ -1,0 +1,218 @@
+{
+ "ticker": "ANET",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-17",
+ "accession": "0001596532-26-000013",
+ "prior_accession": "0001596532-25-000028",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "These customers may decide to delay or cancel such orders for any reason.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about customers delaying/canceling orders; no new specifics added."
+  },
+  {
+   "text": "In addition, our contract manufacturing partners procure some components from China for use in the manufacturing of our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new fact that contract manufacturers source components from China, adding a concrete supply chain exposure."
+  },
+  {
+   "text": "Over the last decade, and especially under the current administration, the U.S. government has enacted various new and increased tariffs affecting the import of various items from various countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides historical context on tariff policy, expanding on an existing tariff risk rather than introducing a new one."
+  },
+  {
+   "text": "Since February 2025, the U.S. has also imposed additional country-specific tariffs on most trading partners, including China, as well as additional commodity-specific tariffs on certain imported items, in both instances pursuant to executive orders issued under various trade authorities, including the International Emergency Economic Powers Act and Section 232 of the Trade Expansion Act of 1962.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new country-specific tariffs and legal authorities used since Feb 2025, a concrete new development."
+  },
+  {
+   "text": "In response to these and other U.S. measures, China, Mexico and other countries have taken or threatened to take a range of retaliatory measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new retaliatory actions by China, Mexico and others, a specific new geopolitical risk."
+  },
+  {
+   "text": "These include the imposition of retaliatory tariffs on certain U.S.-origin goods; the implementation of new export controls by China on various critical minerals, including rare earths metals; the scheduling of further retaliatory tariff measures; and other actions that may affect us directly or indirectly.",
+   "category": "new_substantive_risk",
+   "rationale": "Lists concrete retaliatory measures such as export controls on rare earths, adding specific new risk detail."
+  },
+  {
+   "text": "The situation regarding these tariffs and trade policies has been and continues to be fluid, leading to significant uncertainty about the future relationship between the U.S., and other countries, with respect to tariffs and trade policies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about uncertainty in trade policy, largely cautionary language without new specifics."
+  },
+  {
+   "text": "The U.S., China, Malaysia, Vietnam, Mexico, Taiwan, Thailand, the Philippines and other governments may place additional tariffs and trade barriers on communication equipment products, our products and services, our inputs, or other items, which could result in higher costs to us and negatively affect our gross margins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing tariff risk by naming additional countries and reiterating margin impact."
+  },
+  {
+   "text": "We are adjusting our supply chain and manufacturing practices to minimize the impact of the tariffs and any impact on the supply chain of components sourced from affected countries, but our efforts may not be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes mitigation efforts related to already-established tariff risk, not a new risk itself."
+  },
+  {
+   "text": "Generally, we do not have guaranteed supply contracts with our component suppliers.",
+   "category": "new_substantive_risk",
+   "rationale": "States lack of guaranteed supply contracts, a specific new supply chain vulnerability."
+  },
+  {
+   "text": "For example, we see tightening supply conditions in the memory market.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new supply constraint in the memory market."
+  },
+  {
+   "text": "Although we have taken steps to mitigate these constraints, resulting shortages, increased lead times, reduced component allocations, and/or order decommitments may still adversely impact our revenue and gross margins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on impact of supply shortages already introduced, adding detail on revenue/margin effects."
+  },
+  {
+   "text": "Our growth strategy relies on maintaining our agility and increasing our investment in research and development to deliver market-leading features to enhance the functionality of existing cloud networking platform, expand our product offerings and build upon our technology leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General growth strategy language without specific new risk."
+  },
+  {
+   "text": "We must continue to expand our product offerings and build upon our technology leadership.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the need to expand product offerings, same as prior strategic language."
+  },
+  {
+   "text": "In addition we must continue to expand our global sales force and deepen our channel partnerships to reach new customers more effectively and increase sales to existing customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about sales force and channel partnerships."
+  },
+  {
+   "text": "Any delays in acceptance, or rejection, or any return, of those products could further negatively impact our revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing risk about revenue impact from returns/delays."
+  },
+  {
+   "text": "In addition, the markets for our products, particularly the AI Ethernet segment, are characterized by rapid evolution and volatility; consequently, these markets may experience significant fluctuations, including prolonged slowdowns, cyclical contractions, or the correction of speculative bubbles that could adversely affect demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific volatility risk tied to the AI Ethernet segment, a new market-specific concern."
+  },
+  {
+   "text": "We expect to continue to make substantial investments to introduce new products and services and enhance the functionality of our existing cloud networking platform through investments in our research and development organization, and investments in or acquisitions of complementary companies, products and technologies to expand our product offerings and build upon our technology leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about continued R&D investment, not a new risk."
+  },
+  {
+   "text": "New and changing laws, regulations, executive orders, directives, and enforcement priorities can adversely affect the Company\u2019s business by increasing the Company\u2019s costs, limiting the Company\u2019s ability to continuously navigate global supply chain options in lieu of optimizing tariff outcomes, offer a product or service to customers in a timely manner, impacting customer demand for the Company\u2019s products and services, and requiring changes to the Company\u2019s business or supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new regulatory/tariff-related costs and operational constraints."
+  },
+  {
+   "text": "New and changing laws, regulations, executive orders, directives, and enforcement priorities can also create uncertainty about how such laws and regulations will be interpreted and applied.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about legal uncertainty, restating known regulatory risk."
+  },
+  {
+   "text": "Our business is reliant on demand for network infrastructure, which rises and falls in cycles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cyclical business risk statement, not new."
+  },
+  {
+   "text": "Moreover, business cycles vary somewhat in different geographical regions and by customer type.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about regional variability, non-specific."
+  },
+  {
+   "text": "Our customers\u2019 demand is driven by, among other factors, the development of new network infrastructure and the refreshment of existing network infrastructure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of demand drivers."
+  },
+  {
+   "text": "Cyclical changes in our customers\u2019 demand for our products and services, particularly changes in the demand of our largest customers, could result in fluctuations in our revenue, revenue growth and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on cyclical demand risk with mention of largest customers' impact."
+  },
+  {
+   "text": "We anticipate continued volatility in our inventory and purchase commitments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing inventory volatility risk with anticipation of continued fluctuation."
+  },
+  {
+   "text": "This variability is driven by new product introductions, shifts in customer demand, and fluctuations in supplier lead times.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General explanation of variability drivers without new specifics."
+  },
+  {
+   "text": "In addition, w e may have to increase our purchase commitments in response to the tightening of supply conditions in the memory market.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of increased purchase commitments due to memory market tightening."
+  },
+  {
+   "text": "In particular, we have increased our purchase commitments to respond to the rapid deployment of AI networks and reduce overall lead times which will increase our working capital requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new specific risk of increased purchase commitments tied to AI network deployment."
+  },
+  {
+   "text": "We may also need to increase our purchase commitments in response to the tightening of supply conditions in the memory market.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats the memory market purchase commitment risk already stated in [26]."
+  },
+  {
+   "text": "Although we monitor our use of open-source software to avoid subjecting our products to conditions we do not intend, the terms of many open source licenses have not been interpreted by U.S. courts, and these licenses could be construed in a way that could impose unanticipated conditions or restrictions on our ability to commercialize our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces legal risk regarding open source license interpretation affecting commercialization."
+  },
+  {
+   "text": "Risks Related to Cybersecurity and Data Privacy Our products, services, and external facing or internal network systems, or those of third parties on which we rely, could experience cybersecurity incidents, and defects, errors, or vulnerabilities in our products, or the misuse of our products, could lead to cybersecurity incidents or a failure to detect cybersecurity incidents, create product liability risks, damage our reputation, adversely impact our operating results, or otherwise negatively impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category (cybersecurity/data privacy) with specific product and reputational impact language."
+  },
+  {
+   "text": "We, or third parties on which we rely, could experience cybersecurity incidents relating to our information systems, or our products, services, or data, which could disrupt our operations or our ability to provide services, cause vulnerabilities or perceived vulnerabilities in our product, compromise intellectual property or other sensitive data, harm our reputation, damage customer or other relationships, delay our ability to recognize revenue, lead to significant costs, legal proceedings, legal liability, or enforcement actions, or otherwise negatively impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced cybersecurity risk with additional consequences like revenue delay and legal liability."
+  },
+  {
+   "text": "We could experience disruptions, cybersecurity breaches, and other cybersecurity incidents relating to our information systems, or our products, services, or data.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the general cybersecurity incident risk already described."
+  },
+  {
+   "text": "We could also be impacted by cybersecurity incidents through third parties on which we rely.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates third-party cybersecurity risk already covered."
+  },
+  {
+   "text": "We also rely upon distributors, resellers and system integrators to sell our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about reliance on distributors/resellers, unrelated new specifics."
+  },
+  {
+   "text": "We also depend upon our employees, and the technology our employees use to comply with the security measures we have instituted to prevent and mitigate cybersecurity incidents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds employee/technology compliance angle to existing cybersecurity risk."
+  },
+  {
+   "text": "35 We, or third parties on which we rely, could experience disruptions, cybersecurity breaches, and other cybersecurity incidents with many different types of causes, including phishing schemes and other social engineering methods, fraud and other malfeasance, denial of service attacks, vulnerabilities or defects in design or manufacture, unintended technical errors, misconfigurations, \u201cbugs,\u201d viruses, ransomware and other malware, mishandling of data or other mistakes by employees or other insiders, and attacks by insiders or external parties.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides detailed enumeration of specific cyberattack methods, substantially expanding risk detail."
+  },
+  {
+   "text": "We may also face increased risks of cybersecurity incidents in connection with personnel working remotely.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new risk factor tied to remote work increasing cybersecurity exposure."
+  },
+  {
+   "text": "We may experience cybersecurity incidents that we do not detect, or that we do not detect for extended periods of time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about undetected incidents to the broader cybersecurity risk already introduced."
+  },
+  {
+   "text": "The techniques used to carry out attacks are constantly evolving, and it may be more difficult to detect attacks involving techniques that we are not aware of or have not anticipated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about evolving attack techniques, cautionary language without new specifics."
+  }
+ ]
+}

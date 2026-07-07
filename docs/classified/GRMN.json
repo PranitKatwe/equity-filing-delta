@@ -1,0 +1,218 @@
+{
+ "ticker": "GRMN",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2021-02-17",
+ "accession": "0001564590-21-006192",
+ "prior_accession": "0001564590-20-005133",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 32,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 24,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Public health emergencies or outbreaks of epidemics, pandemics, or contagious diseases have had and will likely continue to have significant impacts on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about pandemic impacts without new specifics."
+  },
+  {
+   "text": "Widespread public health emergencies or outbreaks of epidemics, pandemics, or contagious diseases, such as the COVID-19 pandemic, have had, and will likely continue to have, significant impacts on our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Nearly identical restatement of the prior generic pandemic risk statement."
+  },
+  {
+   "text": "The COVID-19 pandemic continues to rapidly evolve, creating disruption and uncertainty around the world, which has resulted in, and we expect will continue to result in, reduced overall demand for certain of our products and other operational impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about reduced demand due to COVID-19, expanding the pandemic risk."
+  },
+  {
+   "text": "There are unknown factors, such as the duration and severity of the pandemic, the nature and length of actions taken by governments, businesses and individuals to contain or mitigate its impact, the severity and duration of the economic impact caused by the pandemic, the uncertainty surrounding the efficacy, distribution and uptake of vaccines, along with the effectiveness of our response, that may affect the magnitude of effects to our business operations, results of operations, and its ultimate impact on our financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of unknown factors related to pandemic, typical cautionary language."
+  },
+  {
+   "text": "Demand for certain of our products has been, and is expected to continue to be, adversely affected in several ways.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies demand impact ways, expanding on pandemic risk."
+  },
+  {
+   "text": "Certain of our sales and distribution offices have experienced and may again experience temporary closure due to governmental restrictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific operational detail about office closures due to pandemic."
+  },
+  {
+   "text": "Additional or prolonged closures of certain sales and distribution offices could affect our ability to market and distribute products to meet customer demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on potential future closures affecting distribution."
+  },
+  {
+   "text": "The adverse impacts of the pandemic have created economic stress in the global marketplace, high levels of unemployment, loss of income and/or wealth for some individuals, and general economic uncertainty.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General economic conditions description, common cautionary language."
+  },
+  {
+   "text": "These conditions have affected and are expected to continue to affect the willingness or ability of customers to purchase certain of our products or those of original equipment manufacturers in which our products are installed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how economic conditions affect customer purchasing, expanding pandemic risk."
+  },
+  {
+   "text": "Our supply chain may also be adversely impacted by COVID-19.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces supply chain risk tied to COVID-19, expanding existing pandemic risk."
+  },
+  {
+   "text": "We may be unable to procure, or experience delays in procuring, certain components from our suppliers, and the cost of procuring components could increase.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details supplier procurement delays and cost increases due to pandemic."
+  },
+  {
+   "text": "Reduced demand for certain of our products has resulted in, and may continue to result in, reduced utilization of certain of our manufacturing facilities and higher per-unit costs for certain products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies manufacturing utilization and cost impacts from reduced demand."
+  },
+  {
+   "text": "Certain of our manufacturing facilities may also experience inopportune temporary closures or reduced hours, which could adversely affect the costs incurred to produce our products and our ability to meet demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further operational detail about manufacturing closures due to pandemic."
+  },
+  {
+   "text": "14 COVID-19 has had and will continue to have several other operational impacts on our business, which will or may include employees working remotely, temporarily ceasing operations in some offices due to government restrictions, business travel restrictions, and the cancellation of events that are otherwise important in the development , marketing and sale of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific operational impacts (remote work, travel restrictions) expanding pandemic risk."
+  },
+  {
+   "text": "These changes in our business operations may result in reduced efficiency and lower productivity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details productivity impact from operational changes due to pandemic."
+  },
+  {
+   "text": "We have incurred and are expected to continue to incur increased costs as we provide additional benefits to assist our employees during the COVID-19 pandemic and provide a safe and healthy workplace for employees who continue to work in our facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds cost impact from employee benefits during pandemic."
+  },
+  {
+   "text": "Similar operational and financial hardships on our business partners may result in aged or uncollectable receivables, and the reduced demand for certain of our products could result in obsolescence of certain inventory.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details receivable and inventory risks from pandemic-related business partner hardships."
+  },
+  {
+   "text": "If the economy experiences a sustained downturn of significant proportion that impacts portions of our business, we may also need to incur the costs and organizational impacts of personnel restructuring.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential restructuring costs from economic downturn tied to pandemic."
+  },
+  {
+   "text": "Additional risks and impacts associated with COVID-19 including gross margin fluctuation, foreign currency fluctuations, successful continued product development, impacts to our key personnel, and dependencies on third party suppliers, may be heightened as a result of the COVID-19 pandemic.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about heightened risks without new specifics."
+  },
+  {
+   "text": "There are further unknown risks and impacts due to the uncertainty and rapidly evolving nature of the pandemic including, but not limited to, uncertainty around the evolution of the pandemic, the unprecedented imposition of preventative measures by governments that impact the economy and normal operations of a business and the timing and manner of relaxation of those measures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General uncertainty language, typical cautionary boilerplate."
+  },
+  {
+   "text": "Potential future health emergencies may present risks and impacts similar to the ongoing COVID-19 pandemic.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about future health emergencies without specifics."
+  },
+  {
+   "text": "If we are unable to manage these risks and uncertainties, our business, financial condition, and results of operations could be materially impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk management statement, standard boilerplate."
+  },
+  {
+   "text": "We also electronically maintain personal information of our users and employees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific fact about storing personal data, setting up data security risk."
+  },
+  {
+   "text": "The Company was the victim of a cyber attack that encrypted some of our systems on July 23, 2020.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific cyberattack event impacting the company's systems."
+  },
+  {
+   "text": "As a result, many of our online services were interrupted including website functions, customer support, customer facing applications, and company communications.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the operational impact of the disclosed cyberattack."
+  },
+  {
+   "text": "We immediately began to assess the nature of the attack and started remediation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes remediation steps following the disclosed cyberattack."
+  },
+  {
+   "text": "Based on our due diligence and independent forensic analysis, we have no indication that any customer data was accessed, lost or stolen.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides mitigating detail about data security following the cyberattack."
+  },
+  {
+   "text": "Additionally, the functionality of Garmin products was not affected, other than the ability to access online services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies scope of cyberattack impact on product functionality."
+  },
+  {
+   "text": "The impact of this outage to our operations and financial results was not material, and we do not expect it to have material impacts on future periods.",
+   "category": "expanded_existing_risk",
+   "rationale": "States financial materiality of the cyberattack, part of same disclosure."
+  },
+  {
+   "text": "However, we may still suffer negative consequences, including certain of those described in the paragraphs above, beyond our current expectations .",
+   "category": "expanded_existing_risk",
+   "rationale": "Cautionary follow-up regarding potential future consequences of the cyberattack."
+  },
+  {
+   "text": "As a result, the UK is no longer part of the European Single Market and European Union Customs Union effective January 1, 2021.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific factual development about Brexit's effect on EU membership status."
+  },
+  {
+   "text": "The UK and EU signed the EU\u2013UK Trade and Cooperation Agreement (TCA) in December 2020, which has been applied provisionally since January 1, 2021 until it is ratified by all parties to the agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail about the Brexit trade agreement, expanding the Brexit risk."
+  },
+  {
+   "text": "Under the TCA, there is no longer the free movement of goods or people between the UK and the EU, which has resulted and could continue to result in certain delays in the shipment of these goods.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new operational risk of shipment delays due to loss of free movement of goods."
+  },
+  {
+   "text": "Brexit therefore has impacted and will continue to impact our operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement reaffirming ongoing Brexit impact, building on prior details."
+  },
+  {
+   "text": "Continued declines in consumer auto revenue could negatively impact the carrying value of the goodwill associated with the reporting unit.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific financial risk regarding goodwill impairment tied to consumer auto revenue decline."
+  },
+  {
+   "text": "Our business is subject to a variety of United States and international laws, regulations and other legal obligations regarding data protection.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk regarding data protection laws."
+  },
+  {
+   "text": "Noncompliance could result in significant penalties, governmental investigations and regulatory proceedings, litigation, harm to our brand, and a decrease in the use of our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of noncompliance, expanding the data protection risk."
+  },
+  {
+   "text": "Many of these laws provide for significant penalties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on penalty risk from data protection laws."
+  },
+  {
+   "text": "Under the General Data Protection Regulation in the European Union, for example, potential penalties can be as high as 4% of a company\u2019s total global revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific quantifiable penalty risk under GDPR (4% of global revenue)."
+  },
+  {
+   "text": "Space Force and Missile Systems Center continue to launch new satellites to replace retired and aged satellites.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific business risk related to satellite replacement by Space Force and Missile Systems Center."
+  }
+ ]
+}

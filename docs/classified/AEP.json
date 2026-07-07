@@ -1,0 +1,218 @@
+{
+ "ticker": "AEP",
+ "sector": "Utilities",
+ "filing_date": "2026-02-12",
+ "accession": "0000004904-26-000013",
+ "prior_accession": "0000004904-25-000027",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "The business and capital investment plans of AEP depend, in part, on the continued growth and viability of data centers and large load customers interconnecting with the AEP System.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new dependency risk: AEP's business and capital plans depend on continued growth of data centers and large load customers, a topic not previously present."
+  },
+  {
+   "text": "(Applies to all Registrants) AEP is experiencing current and projected load demands that exceed historical experience, creating a business need for new power generating resources and transmission facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk that current/projected load demand exceeds historical experience, creating need for new generation and transmission infrastructure."
+  },
+  {
+   "text": "Much of this demand is driven by interconnecting with and providing power to data centers and other large load customers to serve an increasingly digital economy and to support AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (data centers, AI, digital economy) to the newly introduced demand-growth risk."
+  },
+  {
+   "text": "The business and capital investment plans of AEP are focused on meeting these current and projected needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about business plans focusing on needs, no specific risk content."
+  },
+  {
+   "text": "If these increased demands for electricity do not occur as projected or are not sustained as projected, for any reason, it could affect AEP\u2019s financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific consequence: if demand projections don't materialize, AEP's financial condition could be affected."
+  },
+  {
+   "text": "The business and capital investment plans of AEP are subject to execution risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that plans are subject to execution risks, without specifics."
+  },
+  {
+   "text": "These risks include delays, supply chain disruption and the unavailability of materials, cost overruns, inflation, the cost and availability of capital, labor disputes or shortages and other factors that could cause the total cost and timing of any project to exceed estimates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific list of execution risk factors (supply chain, inflation, labor) elaborating on the execution risk introduced in the prior sentence."
+  },
+  {
+   "text": "This would cause financial results to be diminished.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement following from prior risk description."
+  },
+  {
+   "text": "Meeting the significant increase in electricity demand from new data centers and other large\u2011load customers will require substantial investment in new generation and transmission facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of substantial investment needs driven by data center/large-load demand growth."
+  },
+  {
+   "text": "These projects may require levels of capital that exceed historical utility financing needs, and the ability of the capital markets to supply sufficient funding for large\u2011scale infrastructure expansion is uncertain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding uncertain capital market capacity for large-scale infrastructure funding."
+  },
+  {
+   "text": "AEP\u2019s ability to undertake these capital\u2011intensive projects depends in part on continued access to debt and equity markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that AEP's ability to undertake projects depends on continued market access, elaborating prior capital risk."
+  },
+  {
+   "text": "If capital markets experience reduced liquidity, constrained capacity for utility issuances, or diminished investor appetite for long\u2011duration infrastructure investments, AEP may be unable to obtain the financing required to support these projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates specific scenarios (reduced liquidity, capacity, investor appetite) under the capital markets risk already introduced."
+  },
+  {
+   "text": "Even if capital is available, it may only be obtainable at significantly higher cost due to market conditions or competition for capital among utilities and other sectors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about higher cost of capital, continuing the same capital markets risk."
+  },
+  {
+   "text": "Any inability to secure adequate financing could delay or prevent the construction of required facilities, impair AEP\u2019s ability to serve its customers, and adversely affect future net income, cash flows and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of financing failure, continuing the same risk thread."
+  },
+  {
+   "text": "The occurrence of any of the following could reduce future net income and cash flows and negatively impact financial condition: \u2022 If regulated utility earnings exceed the return established by a relevant commission, that commission could reduce future rates; \u2022 The overturning or reversal on appeal of previously authorized recovery; and 19 \u2022 Any legislation, regulatory action or litigation outcome that triggers a reversal of a regulatory asset or deferred cost or establishment of a regulatory liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory scenarios (rate reduction, reversal of recovery, regulatory asset reversal) that could hurt financial results."
+  },
+  {
+   "text": "The increase in spending could trigger increased regulatory scrutiny to authorizing cost recovery, especially in a rising cost environment, whether due to inflation, tariffs, high fuel prices or otherwise, and/or in periods of economic decline or hardship.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk that increased spending could trigger heightened regulatory scrutiny amid inflation/tariffs."
+  },
+  {
+   "text": "Regulated electric revenues and earnings are subject to prudency review.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about prudency review, standard utility regulatory language."
+  },
+  {
+   "text": "(Applies to all Registrants) Regulators have initiated and may initiate additional proceedings to investigate the prudence of costs in the AEP regulated utility businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that regulators may initiate additional prudency investigations, expanding the prudency review risk."
+  },
+  {
+   "text": "Disallowance of these costs would adversely affect AEP\u2019s business, financial position, results of operations and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement following from cost disallowance risk."
+  },
+  {
+   "text": "Regulatory bodies may not allow recovery of costs incurred on a timely basis.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about timing of cost recovery, standard regulatory risk language."
+  },
+  {
+   "text": "AEP is subject to negative publicity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement introducing negative publicity topic without specifics."
+  },
+  {
+   "text": "In addition, the public holds diverse and often conflicting views on the use of fossil fuels which can subject AEP to adverse publicity in connection with its use of fossil fuels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about fossil fuel-related publicity risk, elaborating the negative publicity theme."
+  },
+  {
+   "text": "Any failure to timely construct contracted generation, transmission and distribution facilities or to negotiate successful project development agreements for new facilities with third-parties, including new data centers and large load customers, could impact future net income and cash flows and impact financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk tied to failure to construct facilities for new data center/large load customers, a new business driver."
+  },
+  {
+   "text": "Any failure to timely construct contracted generation, transmission and distribution facilities or to negotiate successful project development agreements for new facilities with third-parties, including new data centers and other large load customers, could impact future net income and cash flows and impact financial condition.",
+   "category": "reworded_same_meaning",
+   "rationale": "Nearly identical to the previous sentence with minor wording change ('large load' vs 'other large load' customers)."
+  },
+  {
+   "text": "21 \u2022 Uncertainties with respect to the technological and financial aspects of decommissioning nuclear plants at the end of their licensed lives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding technological/financial uncertainties of nuclear plant decommissioning."
+  },
+  {
+   "text": "(Applies to all Registrants) Risks from cybersecurity and physical threats to energy infrastructure are increasing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new topic of increasing cybersecurity and physical security threats to energy infrastructure."
+  },
+  {
+   "text": "Threat actors, including sophisticated nation-state actors and criminal groups, exploit potential vulnerabilities in the electric utility industry, grid infrastructure and other energy infrastructures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on threat actors exploiting vulnerabilities, expanding the newly introduced cybersecurity risk."
+  },
+  {
+   "text": "Attacks and disruptions, which could involve physical, cyber and hybrid targeting of physical and cyber assets, are increasingly sophisticated and dynamic.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on sophistication and dynamics of attacks, continuing the cybersecurity risk theme."
+  },
+  {
+   "text": "The increased implementation of, and reliance on, information technologies and networks to manage business operations, including the operation of technical systems, as well as AEP\u2019s use of numerous vendors and suppliers, create additional points of vulnerability that could be, and in certain instances have been, exploited by malicious threat actors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about IT reliance and vendor vulnerabilities as sources of exploitation."
+  },
+  {
+   "text": "Several U.S. government agencies have warned that the energy sector and its supply chains are subject to increasing risks of physical attacks, ransomware attacks and cybersecurity threats, and that the risks may escalate during periods of heightened geopolitical tensions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail citing government warnings about physical/cyber threats, expanding the same risk."
+  },
+  {
+   "text": "In addition, the rapid evolution and increased adoption of AI technologies may intensify AEP\u2019s cybersecurity risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific factor\u2014AI adoption intensifying cybersecurity risk\u2014not previously mentioned."
+  },
+  {
+   "text": "AEP has not identified any cybersecurity incidents that have materially affected or are reasonably likely to materially affect its business strategy, results of operation or financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure statement that no material cybersecurity incidents have occurred, a common compliance boilerplate."
+  },
+  {
+   "text": "If a material physical or cybersecurity breach or disruption were to occur, AEP\u2019s reputation could be negatively affected, customer confidence in AEP could be diminished and AEP could be subject to legal claims, regulatory exposure, loss of revenues, and increased costs, including infrastructure repairs or operations shutdown, all of which could materially affect AEP\u2019s financial condition and materially damage its business reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic standard consequence language about reputational and financial harm from breaches, typical boilerplate."
+  },
+  {
+   "text": "Moreover, the amount and scope of insurance maintained against losses resulting from any such security breaches or disruptions may not be sufficient to cover losses or otherwise adequately compensate for any resulting business disruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that insurance coverage may be insufficient, expanding the cybersecurity risk discussion."
+  },
+  {
+   "text": "The continued increase in federal and state regulatory requirements related to cybersecurity and evolving threat actor-capabilities could require changes to measures currently undertaken by AEP or to its business operations and could adversely affect its financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about evolving regulatory requirements requiring operational changes, expanding cybersecurity risk."
+  },
+  {
+   "text": "Changes in U.S. or foreign trade policies, including the imposition of tariffs and other protectionist trade measures, and other factors beyond AEP\u2019s control may adversely impact future net income and cash flows and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk topic regarding tariffs and trade policy changes affecting net income and cash flows."
+  },
+  {
+   "text": "Executive actions have been taken and additional measures proposed that are intended to alter the U.S. approach to international trade policy, the terms of certain existing bilateral or multi\u2010lateral trade agreements and trading arrangements with foreign countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on executive actions altering trade policy, expanding the newly introduced trade risk."
+  },
+  {
+   "text": "Such changes to U.S. international trade policy, and any retaliatory trade measures that foreign governments may take in response, including the imposition of tariffs, sanctions, export or import controls, or other measures that restrict international trade, or the threat of such actions, could result in additional increases in the cost of certain goods, services and cost of capital and exacerbate supply chain issues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences (tariffs, sanctions, cost increases) of trade policy changes, expanding the same risk."
+  },
+  {
+   "text": "In addition, related geopolitical and domestic political developments, such as existing and potential trade wars, uncertainty regarding changes in trade policy, and other events beyond AEP\u2019s control, have increased and may continue to increase levels of political and economic unpredictability globally and the volatility of global financial markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about geopolitical volatility and market unpredictability, continuing the trade policy risk theme."
+  },
+  {
+   "text": "Additionally, certain terms that AEP may be required to include in its financing agreements and arrangements may not be acceptable to certain investors, which could limit the availability of, or increase the cost of, capital.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that unacceptable financing terms could limit or raise the cost of capital availability."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "COF",
+ "sector": "Financials",
+ "filing_date": "2026-02-19",
+ "accession": "0000927628-26-000024",
+ "prior_accession": "0000927628-25-000092",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "As a banking organization, we are subject to extensive regulation and supervision by U.S. federal and state laws, as well as the applicable laws of the jurisdictions outside the U.S. in which we do business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that the company is subject to extensive regulation, standard framing language."
+  },
+  {
+   "text": "The Bank is subject to laws and regulations in foreign jurisdictions where it operates, currently in the U.K. and Canada.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific jurisdictions (U.K. and Canada) to the existing foreign regulation risk, providing detail rather than a new risk."
+  },
+  {
+   "text": "Non-bank subsidiaries are subject to regulation in foreign jurisdictions, including licensing and registration requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the existing foreign regulation risk to non-bank subsidiaries with specific licensing requirements."
+  },
+  {
+   "text": "On February 4, 2026, the Federal Reserve notified all participating firms, including the Company, that because the Stress Testing Transparency Proposal (defined below) remains subject to public comment, the Federal Reserve is maintaining stress capital buffer requirements for all such firms at their current levels.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory action by the Federal Reserve regarding stress capital buffer requirements tied to a pending proposal."
+  },
+  {
+   "text": "Consequently, absent further action from the Federal Reserve, the Company\u2019s stress capital buffer requirement will remain at 4.5% until September 30, 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific numeric consequence (4.5% buffer until 2027) flowing from the new regulatory action described above."
+  },
+  {
+   "text": "The Bank is also subject to the countercyclical capital buffer requirement (which is currently set at 0%).",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (current 0% rate) to the existing countercyclical capital buffer risk."
+  },
+  {
+   "text": "Any determination to increase the countercyclical capital buffer applicable to the Bank generally would be effective twelve months after the announcement of such an increase, unless the OCC sets an earlier effective date.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard procedural detail about timing of regulatory changes, not a new risk."
+  },
+  {
+   "text": "In April 2025, the Federal Reserve issued a notice of proposed rulemaking to amend the calculation of the stress capital buffer requirement (the \u201cSCB Averaging Proposal\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory proposal (SCB Averaging Proposal) not previously disclosed."
+  },
+  {
+   "text": "The proposal would average stress test results over two consecutive years for purposes of determining the stress capital buffer requirement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides mechanical detail of the newly introduced SCB Averaging Proposal."
+  },
+  {
+   "text": "The proposal would also shift the annual effective date of the stress capital buffer requirement from October 1 to January 1.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on the same proposal's effective date change."
+  },
+  {
+   "text": "The proposal has not yet been finalized, and our stress capital 10 Capital One Financial Corporation (COF) Table of Contents buffer requirement disclosed above has been calculated under the current framework and does not reflect the proposed averaging.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies current status of the proposal and its effect on disclosed capital ratios."
+  },
+  {
+   "text": "Market Risk Rule The \u201cMarket Risk Rule\u201d supplements the Basel III Capital Rules by requiring institutions subject to the rule to adjust their risk-based capital ratios to reflect the market risk in their trading book.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific regulatory capital rule (Market Risk Rule) affecting risk-based capital calculations, not previously mentioned."
+  },
+  {
+   "text": "The Federal Banking Agencies have indicated an intent to repropose the Basel III Finalization Proposal.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about regulators' intent regarding an existing Basel III proposal."
+  },
+  {
+   "text": "In April 2025, the Federal Reserve issued the SCB Averaging Proposal.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same SCB Averaging Proposal fact already introduced in sentence 7."
+  },
+  {
+   "text": "In October 2025, the Federal Reserve proposed revisions to its supervisory stress testing framework.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory proposal on stress testing framework revisions."
+  },
+  {
+   "text": "The first proposal included requirements for the Federal Reserve to annually disclose its supervisory stress test models and provide a formal public comment period on material changes to these models and the design of annual stress test scenarios, as well as shifting the \u201cas of\u201d or \u201cjump-off\u201d date of the stress test data from December 31 to September 30 (the \u201cStress Testing Transparency Proposal\u201d).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed content of the newly introduced stress testing transparency proposal."
+  },
+  {
+   "text": "The second proposal requested comment on the specific supervisory stress test scenarios proposed to be used in the 2026 stress test cycle.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on the second stress testing proposal mentioned above."
+  },
+  {
+   "text": "In addition, the Company may be required to submit an interim update to its resolution plan upon a joint determination of the Federal Reserve and the FDIC, or following material mergers or acquisitions or fundamental changes to the Company\u2019s resolution strategy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail about circumstances requiring resolution plan updates, extending existing regulatory risk."
+  },
+  {
+   "text": "As a result of the Transaction, the Federal Reserve and the FDIC in May 2025 required the Company to file an interim update to its resolution plan by October 1, 2025 and extended the Company\u2019s deadline for the next full resolution submission from October 1, 2025 to July 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory requirement and deadline tied directly to the Transaction, a concrete new obligation."
+  },
+  {
+   "text": "In October 2025, the OCC proposed to rescind these recovery planning guidelines in their entirety.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory proposal to rescind recovery planning guidelines."
+  },
+  {
+   "text": "If adopted as proposed, the Bank would no longer be subject to the guidelines.",
+   "category": "expanded_existing_risk",
+   "rationale": "States the consequence of the newly introduced OCC proposal."
+  },
+  {
+   "text": "On December 16, 2025, the FDIC issued an interim final rule providing that the FDIC will collect the special assessment over an initial seven quarters of the collection period, which began in the second quarter of 2024, at a quarterly rate of 3.36 basis points and reduce the rate at which the special assessment will be collected in the eighth collection quarter, which will have an invoice payment date of March 30, 2026, to 2.97 basis points.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new financial details (rates, timing) of the FDIC special assessment, a concrete cost risk."
+  },
+  {
+   "text": "Under the interim final rule, upon termination of the FDIC\u2019s receiverships of Silicon Valley Bank and Signature Bank, the FDIC will either provide an offset to insured depository institutions, if the special assessment amount then-collected exceeds losses, or collect from insured depository institutions a one-time final shortfall special assessment, if losses exceed the special assessment amount then-collected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details mechanics of the special assessment true-up already introduced."
+  },
+  {
+   "text": "In addition, the FDIC will provide an offset to regular quarterly deposit insurance assessments for banks subject to the special assessment if, following the final resolution of litigation between the FDIC and SVB Financial Trust, the total amount collected through the special assessment exceeds the loss estimate at that time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on offset mechanism tied to ongoing litigation, extending the special assessment risk."
+  },
+  {
+   "text": "Regulation II\u2019s cap on debit interchange fees, including the 2023 proposal, has been challenged in the courts.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure that Regulation II's interchange fee cap is being legally challenged, introducing litigation risk."
+  },
+  {
+   "text": "Changes to, or the invalidity of, Regulation II could result in lower debit card interchange fees issued on four-party networks.",
+   "category": "expanded_existing_risk",
+   "rationale": "States potential consequence (lower fees) of the newly disclosed legal challenge."
+  },
+  {
+   "text": "Risk Factors\u201d under the heading \u201cOur business, financial condition and results of operations may be adversely affected by legislation, regulation and merchants\u2019 efforts to reduce the fees (including the interchange component) charged by credit and debit card networks and acquirers to facilitate card transactions.\u201d Payment Card Networks The Global Payment Network operations are regulated by certain federal and state laws, including banking, payment services, privacy, data protection and data security laws, and are also subject to examination by the Federal Banking Agencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory oversight description for the Global Payment Network business, a new area of disclosed risk."
+  },
+  {
+   "text": "For example, Regulation II includes a number of requirements for debit cards issued on networks that are not three-party networks, such as certain requirements related to routing and network exclusivity, which apply to certain activities of the Global Payment Networks when third-party issuers issue debit cards on the Global Payment Networks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific regulatory requirement detail affecting the newly described Global Payment Network business."
+  },
+  {
+   "text": "In addition, because the Global Payment Network operates internationally, certain subsidiaries through which it operates are subject to government regulation and examination, directly or indirectly, in some countries in which we have operations, or where cards that are accepted on our networks are issued or accepted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the Global Payment Network regulatory risk to international operations."
+  },
+  {
+   "text": "The Company also is, or may become, subject to continuously evolving and developing laws and regulations in other jurisdictions regarding privacy, data protection and data security.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving privacy laws, standard cautionary language."
+  },
+  {
+   "text": "GDPR\u201d), a version of the EU GDPR as implemented into U.K law.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Minor definitional clarification about GDPR terminology, not a substantive risk change."
+  },
+  {
+   "text": "For further discussion of privacy, data protection and data security, and related risks for our business, see \u201cItem 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a substantive risk statement."
+  },
+  {
+   "text": "FinCEN has yet to issue most of the implementing regulations required by the AML Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific regulatory uncertainty (pending FinCEN AML Act regulations) not previously mentioned."
+  },
+  {
+   "text": "Certain of the acquired Discover businesses, including the Global Payment Network, are processed through a combination of data centers and the use of third-party vendors.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure about operational dependency on data centers and third-party vendors for Discover businesses, introducing operational risk."
+  },
+  {
+   "text": "Risks Relating to the Transaction and Integration of Discover We may not be able to successfully integrate our businesses associated with the Transaction, or such integration may be more difficult, time-consuming or costly than expected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard heading/introductory statement common to M&A risk factor sections."
+  },
+  {
+   "text": "The successful integration of two independent businesses is complex, difficult, time-consuming and costly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about integration difficulty, standard cautionary language."
+  },
+  {
+   "text": "The success of the Transaction depends, in part, on our ability to successfully integrate Discover\u2019s operations in a manner that results in various benefits and that does not materially disrupt existing customer relationships or materially decrease revenues due to loss of customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on specific integration risk factors tied to the Transaction already contemplated."
+  },
+  {
+   "text": "The successful combination of our businesses depends on the result of the factors listed above and on the resolution of any potential unknown liabilities, adverse consequences and unforeseen events and increased expenses associated with the Transaction, some or all of which may be outside of our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on unknown liabilities and unforeseen events related to the Transaction integration risk."
+  },
+  {
+   "text": "If we are unable to successfully integrate our businesses or manage risks related to the above factors, the anticipated benefits of the Transaction may not be fully realized or at all, or may take longer to realize than expected, all of which may have an adverse effect on our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "States potential consequence of failed integration, consistent with existing Transaction risk."
+  },
+  {
+   "text": "Our ability to continue to grow our business depends upon our ability to successfully hire, train, supervise, retain and manage new employees, obtain financing for our capital needs, expand our systems effectively, control increasing costs, allocate our human resources optimally, maintain clear lines of communication between our operational functions and our finance and accounting functions and manage the pressures on our management and administrative, operational and financial infrastructure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about managing growth and operational infrastructure, standard risk factor language."
+  }
+ ]
+}

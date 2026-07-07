@@ -1,0 +1,93 @@
+{
+ "ticker": "CBRE",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-12",
+ "accession": "0001138118-26-000005",
+ "prior_accession": "0001138118-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 15,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "We have invested in enhancing our service and product offerings globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about investing in service/product offerings, no specific risk identified."
+  },
+  {
+   "text": "Additionally, political, regulatory, and cultural conditions in certain countries may limit our ability to operate effectively or implement our strategic priorities, which could negatively impact our performance in those regions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on general international operating risk by tying political/regulatory/cultural conditions to strategic execution impact."
+  },
+  {
+   "text": "Our BOE clients also include the U.S. federal government.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific fact\u2014U.S. federal government as a client segment\u2014creating a new category of exposure."
+  },
+  {
+   "text": "Contracting with government entities carries additional risks, including uncapped liability and the absence of client indemnification.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (uncapped liability, no indemnification) to the newly introduced government contracting risk."
+  },
+  {
+   "text": "These engagements also require compliance with public disclosure obligations, government labor standards, and heightened ethical requirements associated with taxpayer\u2011funded work.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on compliance obligations tied to the government contracting risk just introduced."
+  },
+  {
+   "text": "Noncompliance may result in significant penalties, including potential debarment from future government contracts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences (penalties, debarment) of noncompliance within the same government contracting risk theme."
+  },
+  {
+   "text": "Extended shutdowns of the U.S. federal government may result in payment delays, contract cancellation or postponement and other disruptions from these clients, which may adversely affect the performance of our BOE business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a specific consequence (shutdown-related disruptions) of the government client relationship risk already introduced."
+  },
+  {
+   "text": "An inability to maintain a strong pipeline of successors for key management roles could also have a negative impact on our ability to achieve our strategic goals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk regarding leadership succession pipeline affecting strategic goals."
+  },
+  {
+   "text": "With respect to AI capabilities in particular, leveraging such AI capabilities for our internal functions and operations may present new risks, costs and challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk area concerning internal use of AI capabilities and associated costs/challenges."
+  },
+  {
+   "text": "The development, adoption and use of AI technologies is still in the early stages and involves significant uncertainties, which may expose us to legal, reputational and financial harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced AI risk by describing uncertainty and potential harms."
+  },
+  {
+   "text": "Moreover, the use of AI may give rise to risks related to harmful content, accuracy, bias, intellectual property infringement or misappropriation, defamation, data privacy, cybersecurity and health and safety, among others, and also brings the possibility of new or enhanced governmental or regulatory scrutiny, litigation or other legal liability, or ethical concerns and could adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details specific AI-related harms (bias, IP, privacy, litigation) within the same AI risk theme."
+  },
+  {
+   "text": "This includes fraud that relies upon \u201cdeep fake\u201d impersonation technology or other forms of generative automation that enhance the effectiveness of cyber threats.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific example (deep fake fraud) illustrating the AI-related risk already introduced."
+  },
+  {
+   "text": "Several jurisdictions in which we operate are considering or have proposed or enacted legislation and policies regulating AI and non-personal data, such as the European Union\u2019s AI Act.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes regulatory developments (e.g., EU AI Act) as part of the broader AI risk discussion."
+  },
+  {
+   "text": "These new regulations may diverge from one another, which could require us to navigate different obligations and enforcement actions in different geographies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing regulatory complexity from AI laws, elaborating on the same risk theme."
+  },
+  {
+   "text": "Any violations of these laws may lead to reputational damage, financial penalties and increased regulatory scrutiny and oversight.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential consequences (penalties, reputational damage) of AI regulation violations, extending the same risk theme."
+  }
+ ]
+}

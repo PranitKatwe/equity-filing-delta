@@ -1,0 +1,73 @@
+{
+ "ticker": "EOG",
+ "sector": "Energy",
+ "filing_date": "2026-02-24",
+ "accession": "0000821189-26-000054",
+ "prior_accession": "0000821189-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "We have undertaken (and continue to undertake) initiatives to increase our drilling, completions and operating efficiencies and improve the performance of our wells.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ongoing efficiency initiatives without introducing a new or expanded risk."
+  },
+  {
+   "text": "Such initiatives include (among others): (i) our downhole drilling motor program; (ii) enhanced techniques for completing our wells; (iii) drilling extended laterals; and (iv) our self-sourced sand program.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on operational initiatives (drilling motor program, extended laterals, sand program) that elaborate on existing drilling/operational risk factors."
+  },
+  {
+   "text": "We plan to continue these initiatives and actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply states intent to continue existing initiatives, no new risk content."
+  },
+  {
+   "text": "For discussion of the rules and regulations adopted by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing, no substantive risk content."
+  },
+  {
+   "text": "EPA and the Bureau of Land Management with respect to GHG emissions and related matters and the related actions taken by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of cross-reference sentence, no new risk information."
+  },
+  {
+   "text": "Congress, see ITEM 1, Business \u2013 Regulation \u2013 Climate Change \u2013 United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to regulation section, purely navigational."
+  },
+  {
+   "text": "The U.S. withdrew from the Paris Agreement effective January 27, 2026 and, on January 7, 2026, it was announced that the U.S. will also withdraw from the United Nations Framework Convention on Climate Change.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory/political development (U.S. withdrawal from Paris Agreement and UNFCCC) not previously disclosed, which could materially affect climate regulation exposure."
+  },
+  {
+   "text": "For further discussion regarding the Paris Agreement, the UAE Consensus and related matters, see ITEM 1, Business \u2013 Regulation \u2013 Climate Change \u2013 United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, no new substantive content."
+  },
+  {
+   "text": "Lastly, as noted above, the SEC, in March 2024, finalized extensive climate-related disclosure rules that would require U.S. public companies to significantly expand the climate-related disclosures in their SEC filings (although these rules have been stayed in abeyance by the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about the status (stay) of previously disclosed SEC climate disclosure rules, expanding on an existing regulatory risk."
+  },
+  {
+   "text": "Court of Appeals for the Eighth Circuit until such time as the SEC reconsiders the challenged rules by notice-and-comment rulemaking or renews its defense of the rules).",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the explanation of the SEC rule stay, providing more detail on an already identified regulatory risk."
+  },
+  {
+   "text": "Recent changes to the GMT rules would exempt U.S. multinationals (like EOG) from certain of its provisions after 2025, if ultimately legislated into law in the countries where EOG has current or may have future operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated specifics on how GMT rule changes may affect U.S. multinationals like EOG, expanding on the pre-existing global minimum tax risk."
+  }
+ ]
+}

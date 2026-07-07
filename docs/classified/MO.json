@@ -1,0 +1,153 @@
+{
+ "ticker": "MO",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-25",
+ "accession": "0000764180-26-000017",
+ "prior_accession": "0000764180-25-000019",
+ "model": "claude-sonnet-5",
+ "n_added": 27,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "Tobacco products imported to the United States are subject to the same federal excise tax as those manufactured domestically.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual/regulatory background fact about excise tax treatment of imported tobacco, not itself a new risk."
+  },
+  {
+   "text": "Manufacturers of tobacco products imported to the United States can receive refunds of certain duties, taxes and fees paid on those products when offsetting volumes of the same or substantially similar products are subsequently exported out of the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains the mechanics of the duty drawback program, providing background context rather than a new risk."
+  },
+  {
+   "text": "The program that allows for these refunds is referred to as \u201cduty drawback.\u201d If PM USA is unable to realize duty drawback to the same extent as other manufacturers, we may be at a competitive disadvantage with respect to our ability to invest in the long-term growth of our core tobacco businesses and contribute to the strategic growth of our innovative nicotine product portfolio.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive disadvantage risk if PM USA cannot realize duty drawback benefits."
+  },
+  {
+   "text": "For example, in the first quarter of 2026, we commercialized on!",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about product commercialization timing, not a risk statement."
+  },
+  {
+   "text": "PLUS oral nicotine pouch products, and we have plans to commercialize additional on! and NJOY products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes future product plans, contextual rather than risk-specific."
+  },
+  {
+   "text": "We have appealed these bans to the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on ongoing litigation/appeal process for existing bans, expanding known risk."
+  },
+  {
+   "text": "Court of Appeals for the Federal Circuit, but the bans will remain in effect during the pendency of the appeal.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the same litigation narrative, clarifying that bans remain in effect during appeal."
+  },
+  {
+   "text": "Our operating companies may decide to commercialize products that have not received marketing granted orders from the FDA if the operating company submitted a PMTA with respect to any such product in compliance with the FSPTCA and the FDA failed to issue a marketing order within the statutory review period.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory risk of commercializing products without FDA marketing orders."
+  },
+  {
+   "text": "It is possible that the FDA may bring an enforcement action relating to commercialized products for which a PMTA has been pending longer than the statutory review period.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new specific enforcement risk from FDA related to pending PMTAs."
+  },
+  {
+   "text": "Any such relationships or transactions may not improve our competitive position or have the intended financial outcomes and may subject us to increased legal risk, including with respect to intellectual property infringement or breach of contract claims.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk regarding strategic relationships and legal exposure, not a new category of risk."
+  },
+  {
+   "text": "For example, our former investment in JUUL Labs, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "References a past investment example, providing context rather than a new risk."
+  },
+  {
+   "text": "We may not be able to realize the expected benefits of our acquisition of NJOY Holdings, Inc.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk tied to the NJOY acquisition and ITC/cease-and-desist orders affecting expected benefits."
+  },
+  {
+   "text": "(\u201cNJOY Transaction\u201d) in the expected manner or timeframe, if at all, including due to the ITC exclusion order and cease-and-desist orders prohibiting the importation and sale of NJOY ACE in the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the NJOY Transaction risk already introduced, adding specifics about regulatory orders."
+  },
+  {
+   "text": "In 2025, we recorded impairments of the value of the goodwill and other intangible assets within our e-vapor reporting unit as a result of these orders and our expectation that effective enforcement against illicit flavored disposable e-vapor products would occur more gradually than initially anticipated.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a concrete financial impact (2025 impairments) tied to new regulatory developments."
+  },
+  {
+   "text": "PM USA imports cigarettes manufactured outside the United States for sale domestically, and PM USA has entered into strategic commercial relationships to manufacture cigarettes in the United States for export to third parties for sale in international markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes PM USA's import/export business model as background context."
+  },
+  {
+   "text": "If PM USA is unable to maintain, expand upon or enter into new relationships of this type, it may hinder PM USA\u2019s ability to increase the efficiency of its cigarette manufacturing operations, develop capabilities needed to comply with various international product and other standards and invest in the long-term growth of our core tobacco businesses and the strategic growth of our innovative nicotine product portfolio.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific operational risk about maintaining manufacturing relationships affecting efficiency and growth."
+  },
+  {
+   "text": "In 2025, we recorded impairments of the values of the goodwill and other intangible assets within our e-vapor reporting unit as a result of the ITC exclusion order and cease-and-desist orders prohibiting the importation and sale of NJOY ACE into the United States and our expectation that effective enforcement against illicit flavored disposable e-vapor products would occur more gradually than initially anticipated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates the impairment disclosure already covered in a related sentence, expanding on the same risk."
+  },
+  {
+   "text": "If we experience unfavorable outcomes with respect to litigation proceedings (including actions alleging patent infringement), the discount rate used to estimate the fair values of the goodwill and other intangible assets within our e-vapor reporting unit increases or any of the judgments or assumptions we made regarding the future state of the e-vapor category and NJOY\u2019s business fail to materialize, we could record additional non-cash impairments of our e-vapor reporting unit goodwill in future periods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the impairment risk to future periods based on litigation and valuation assumptions."
+  },
+  {
+   "text": "Fair value calculations are sensitive to changes in these judgments and assumptions, some of which relate to broader macroeconomic conditions and governmental actions outside of our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about sensitivity of fair value calculations to macro conditions, largely explanatory."
+  },
+  {
+   "text": "The Initiative includes centralizing work, outsourcing certain transactional activities and streamlining, automating and standardizing processes across the enterprise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific components of an operational initiative that could pose execution risk, expanding on existing restructuring risk."
+  },
+  {
+   "text": "Similar issues may subject us to liability with respect to products our operating companies manufacture for third parties under contract manufacturing agreements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new liability exposure related to contract manufacturing for third parties."
+  },
+  {
+   "text": "JUUL has filed similar actions in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to ongoing JUUL litigation already referenced elsewhere."
+  },
+  {
+   "text": "District Court for the District of Arizona and with the ITC alleging patent infringement based on our sale of NJOY Daily in the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specifics on existing patent infringement litigation venue and basis."
+  },
+  {
+   "text": "11 Table of Contents We cannot predict the outcome of any litigation proceedings or governmental investigations, and unfavorable outcomes in any such proceedings or investigations could materially adversely affect our results of operations, cash flows or financial position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unpredictability of litigation outcomes."
+  },
+  {
+   "text": "Changes to federal or state tax laws or challenges to one or more of our positions with respect to those laws, including with respect to the availability of duty drawback, which allows manufacturers to receive refunds of certain duties, taxes and fees paid on imported tobacco products when offsetting volumes of those products or substantially similar products are subsequently exported, could give rise to additional liabilities (including interest and potential penalties) or reduce the amount of duties, taxes and fees paid by our operating companies for which refunds are available.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific tax risk concerning potential loss of duty drawback benefits and related liabilities."
+  },
+  {
+   "text": "The criteria by which third-party providers of assessments and ratings measure such performance may vary or change over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about variability of third-party rating criteria, not a specific new risk."
+  },
+  {
+   "text": "We can provide no guarantee that any investments or safeguards will protect our information systems and data from all threats.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about cybersecurity investments not guaranteeing protection."
+  }
+ ]
+}

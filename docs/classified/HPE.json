@@ -1,0 +1,218 @@
+{
+ "ticker": "HPE",
+ "sector": "Information Technology",
+ "filing_date": "2025-12-18",
+ "accession": "0001645590-25-000130",
+ "prior_accession": "0001645590-24-000139",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 15,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events, and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not the factors, events or contingencies have occurred in the past and instead reflect our beliefs and opinions as to the factors, events, or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing about how to interpret the disclosures, not a substantive risk."
+  },
+  {
+   "text": "18 Table of Content Risks Related to Our Business Strategy and Industry Our success depends on our ability to successfully execute our go-to-market strategy, including offering solutions as-a-Service, effectively planning and managing our resources, and continuing to develop and manage our offerings to integrate new features and solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates the existing execution/strategy risk with added emphasis on as-a-Service offerings and resource management."
+  },
+  {
+   "text": "This incremental capital investment approach may require additional sales, marketing, or other expenses that negatively impact cash flows in the near term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a financial detail (near-term cash flow impact) to the existing capital investment/strategy risk."
+  },
+  {
+   "text": "In addition, through HPE Networking we now offer a full networking IP stack: from silicon, to infrastructure, to the operating system, to security, to software and services, in a cloud-native and AI-driven approach following the Merger.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about product/service scope post-merger, not framed as a risk."
+  },
+  {
+   "text": "These offerings also depend on the continued growth of demand for secure network and internet protocol (\u201cIP\u201d) infrastructure from customers that are able to build their network capacity, grow their IP services, and choose to deploy our products in their networks and IP infrastructures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing dependency on market demand for network infrastructure products."
+  },
+  {
+   "text": "19 Table of Content We depend on third-party suppliers, contract manufacturers (including original equipment and original design manufacturers), as well as single-source and limited source suppliers, and our financial results could suffer if we fail to manage these third party relationships effectively.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard supplier/manufacturer dependency risk restated."
+  },
+  {
+   "text": "Any delay in our ability to produce and deliver our products could cause our customers to purchase alternative products from our competitors.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard consequence of production delays, already implied by existing supply risk."
+  },
+  {
+   "text": "Manufacturing and supply problems that we have faced, and could face in the future, are described below. \u2022 Manufacturing Issues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Subheading introducing a list, no new substantive content itself."
+  },
+  {
+   "text": "We may experience supply shortfalls or delays in shipping products to our customers if our manufacturers experience delays, disruptions, or quality control problems in their manufacturing operations, or if we have to change or add manufacturers or contract manufacturing locations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard supply shortfall/delay risk restated."
+  },
+  {
+   "text": "We have contracts with our manufacturers that include terms to protect us in the event of an early termination or breach, yet we may not have adequate time to transition all of our manufacturing needs to an alternative manufacturer under comparable commercial terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about contractual protections but also risk of inadequate transition time, expanding existing manufacturer risk."
+  },
+  {
+   "text": "We have experienced in the past, and may experience in the future, an increase in the expected time required to manufacture our products or ship products.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates prior experience of manufacturing/shipping delays."
+  },
+  {
+   "text": "Moreover, a significant portion of our manufacturing is performed in foreign countries.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates known fact about foreign manufacturing operations."
+  },
+  {
+   "text": "These operations are therefore subject to risks associated with doing business outside of the U.S., including trade restrictions and related costs, government sanctions, disruptions to our supply chain, cyberattacks, cyberwarfare, pandemics, regional health emergencies, regional climate-related events, or regional conflicts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the list of specific international risks (cyberwarfare, pandemics, climate events) beyond generic trade risk."
+  },
+  {
+   "text": "Any disruptions to our supply chain, significant increase in component costs or logistics costs, or shortages of critical components, could decrease our sales, earnings, and liquidity or otherwise adversely affect our business and result in increased costs.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard supply chain disruption/cost risk restated."
+  },
+  {
+   "text": "In addition, the development, licensing, or acquisition of new products in the future may increase the complexity of supply chain management.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor: increased supply chain complexity from new product development/acquisition."
+  },
+  {
+   "text": "Failure to effectively manage the supply of components and products would adversely affect our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of failure to manage supply risk."
+  },
+  {
+   "text": "In this environment of heightened trade restrictions, we have experienced, and may continue to experience, cost increases from certain of our suppliers that result in price increases for some of our offerings and could subsequently limit demand for such offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of cost increases due to heightened trade restrictions affecting suppliers and pricing."
+  },
+  {
+   "text": "If we are unable to pass on all or some of such cost increases to our customers, such increased prices may reduce our current margins and future margins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on margin impact from inability to pass through cost increases, building on trade restriction risk."
+  },
+  {
+   "text": "Furthermore, certain of our suppliers have discontinued conducting business with us or failed to perform under their contracts with us. \u2022 Component Supply Shortages .",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk that suppliers have discontinued business or failed to perform under contracts."
+  },
+  {
+   "text": "We provide demand forecasts for our products to our manufacturers, who order components and plan capacity based on these forecasts.",
+   "category": "reworded_same_meaning",
+   "rationale": "Descriptive explanation of forecasting process supporting existing supply risk."
+  },
+  {
+   "text": "We have experienced adverse impacts to our business and financial performance due to excess supply and could do so again in the future. \u2022 Contractual Terms .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of adverse impact from excess supply, distinct from shortage risk."
+  },
+  {
+   "text": "The development of alternate sources for components is time-consuming, complex, and costly.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard restatement about difficulty developing alternate suppliers."
+  },
+  {
+   "text": "As a result, if an existing source of supply is unable to provide components in quantities sufficient to meet our requirements on a timely basis, we may not be able to deliver, or be delayed in delivering, products and services to our customers, which may affect present and future sales.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk of supply shortfalls affecting sales."
+  },
+  {
+   "text": "If we are unable to buy components in quantities sufficient to meet our requirements on a timely basis, we will not be able to deliver products and services to our customers, which would seriously affect present and future sales, and would, in turn, adversely affect our business, financial condition, and results of operations. \u2022 Contingent Workers.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate/restated risk about inability to buy sufficient components affecting sales."
+  },
+  {
+   "text": "In the ordinary course of business, we store sensitive data, including intellectual property, personal data, our proprietary business information and that of our employees, contractors, customers, vendors, partners, suppliers, and other third parties with whom we do business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard description of sensitive data storage, part of existing cybersecurity risk."
+  },
+  {
+   "text": "In addition, we store sensitive data through cloud-based services that may be hosted by third parties and in data center infrastructure maintained by third parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about cloud-based and third-party hosted data storage, expanding existing data risk."
+  },
+  {
+   "text": "We have been, and expect to be, subject to cyberattacks and other attempted intrusions into our networks and systems by a wide range of actors, including, but not limited to, nation state actors, criminal enterprises, terrorist organizations, and other organizations or individuals, as well as errors, wrongful conduct or malfeasance by employees and third-party service providers, (collectively, \u201cmalicious parties\u201d) who have at times been able to circumvent or bypass our cyber security measures.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard cyberattack exposure statement restated with typical threat actor list."
+  },
+  {
+   "text": "Despite our security measures, our information systems, infrastructure, and data have experienced security incidents and breaches and may be subject to or vulnerable to security incidents and breaches in the future, including ransomware and distributed denial-of-service attacks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific attack types (ransomware, DDoS) to existing breach risk."
+  },
+  {
+   "text": "The cybersecurity threat landscape is rapidly evolving and becoming increasingly sophisticated, and there can be no assurance that our controls and procedures will be sufficient to address future threats or remediate future incidents.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving threat landscape without specific new risk."
+  },
+  {
+   "text": "Additionally, the proliferation of generative AI models within the internal systems, processes, and tools of HPE, our suppliers, our customers, or other third parties with whom we do business may create new attack methods for threat actors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of generative AI enabling new attack methods."
+  },
+  {
+   "text": "The emergence of deepfakes and advanced social engineering tactics presents new challenges in preventing deception and unauthorized access, underscoring the importance of advanced verification and detection mechanisms.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk related to deepfakes and advanced social engineering tactics."
+  },
+  {
+   "text": "Zero-day vulnerabilities may include newly discovered security flaws in software that are exploited before patches are released, requiring proactive monitoring and immediate remediation efforts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk category: zero-day vulnerabilities requiring proactive remediation."
+  },
+  {
+   "text": "Quantum computing may in the future present a risk to our business by potentially breaking traditional cryptographic methods on which we rely, thereby necessitating the shift to quantum-resistant encryption techniques.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new forward-looking risk of quantum computing breaking cryptographic methods."
+  },
+  {
+   "text": "Advanced persistent threats can include 22 Table of Content highly sophisticated intrusions by threat actors aiming to establish prolonged access within our network.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new threat type: advanced persistent threats aiming for prolonged network access."
+  },
+  {
+   "text": "Given resource limitations, operational constraints, and our broad and diverse network environment, when vulnerabilities are discovered, we evaluate the risk, prioritize our responses, apply patches or take other remediation actions and notify customers, business partners, and suppliers, as appropriate.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes standard vulnerability management process, not a new risk."
+  },
+  {
+   "text": "Exploitation of vulnerabilities and critical security defects have occurred and may occur in the future if we fail to patch certain security vulnerabilities in time to prevent successful disruptions of our infrastructure or exposure of information, or the failure of third-party providers to remedy vulnerabilities or security defects, or customers not deploying security releases or deciding not to upgrade products, services or solutions, could, in each case, result in claims of liability against us, damage our reputation or otherwise harm our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consequences of unpatched vulnerabilities including liability claims and reputational harm."
+  },
+  {
+   "text": "Our suppliers, vendors, partners, and other third parties with whom we do business also face similar cybersecurity threats, risks, and concerns as those set forth above, which introduces vulnerabilities to our business and operations, including our manufacturing supply chain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends cybersecurity risk to suppliers/vendors, expanding scope of existing risk to manufacturing supply chain."
+  },
+  {
+   "text": "Although HPE requires strict cybersecurity and data controls through its contractual agreements with third parties, if these third parties do not have adequate safeguards or their safeguards fail, it may result in breaches of their systems, networks, or applications, potentially leading to breaches of our networks and systems or unauthorized access to or disclosure of our and/or our customers' confidential data, thereby compromising us and our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on third-party safeguard failures leading to breaches, expanding existing third-party risk."
+  },
+  {
+   "text": "While HPE relies on independent audit reports, in addition to our own security assessments and diligence of third parties with whom we do business as part of our third-party risk management practices, these efforts may not detect or identify all cybersecurity risks or vulnerabilities.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates limitation of third-party risk management audits, consistent with existing risk language."
+  },
+  {
+   "text": "The markets that we serve are rapidly evolving and highly competitive and include well-established companies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive market statement, standard industry framing."
+  }
+ ]
+}

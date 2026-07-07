@@ -1,0 +1,118 @@
+{
+ "ticker": "D",
+ "sector": "Utilities",
+ "filing_date": "2026-02-23",
+ "accession": "0001193125-26-063120",
+ "prior_accession": "0000950170-23-003287",
+ "model": "claude-sonnet-5",
+ "n_added": 20,
+ "n_substantive": 0,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 20
+ },
+ "items": [
+  {
+   "text": "Governance Dominion Energy\u2019s Board of Directors, including its operations committee, provides oversight of the Companies\u2019 risks from cybersecurity threats.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard board oversight structure for cybersecurity, a routine governance disclosure rather than a new risk."
+  },
+  {
+   "text": "Dominion Energy\u2019s Board of Directors as well as its operations committee receive presentations and reports throughout the year on cybersecurity and information security risk from management, including Dominion Energy\u2019s chief security officer, vice president of cybersecurity (CISO) and chief information officer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes reporting cadence and personnel involved in board updates, organizational detail not a new risk."
+  },
+  {
+   "text": "These presentations and reports address a broad range of topics, including the Companies\u2019 cyber risk management program, updates on recent cybersecurity threats and incidents across the industry, policies and practices, industry trends, threat environment and vulnerability assessments and specific and ongoing efforts to prevent, detect and respond to internal and external critical threats, including management\u2019s hosting in 2025 of its fourth annual practical exercise with external federal, state and local incident response partners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists topics covered in board presentations; descriptive detail, not a new substantive risk."
+  },
+  {
+   "text": "In addition, Dominion Energy\u2019s Board of Directors receives briefings from time to time from outside experts for an independent view on cybersecurity risks, including assessments by independent consulting firms and legal counsel of the Companies\u2019 readiness and resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes use of outside experts for board briefings; governance detail, no new risk introduced."
+  },
+  {
+   "text": "The Companies utilize an organization structure known as a converged security model that brings together cybersecurity, physical security and threat intelligence within one department led by the chief security officer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes organizational structure (converged security model); descriptive, not a risk statement."
+  },
+  {
+   "text": "The chief security officer joined Dominion Energy in this role in 2018 and has an extensive background in security having retired from the Federal Bureau of Investigation after a more than 20-year career focused on criminal, counter-terrorism, counter-intelligence and cyber investigations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical background of the chief security officer; not risk-related content."
+  },
+  {
+   "text": "The chief security officer belongs to the Federal Bureau of Investigation\u2019s Domestic Security Alliance Council, the Department of Homeland Security\u2019s Classified Intelligence Forum and is a member of the national Government/Business Executive Forum.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists professional affiliations of the chief security officer; biographical, no risk implication."
+  },
+  {
+   "text": "In addition to serving on multiple university advisory boards, the chief security officer also serves on the Commonwealth of Virginia\u2019s Informational Technology Advisory Council.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Additional biographical detail about advisory board memberships; not a risk factor."
+  },
+  {
+   "text": "The vice president of cybersecurity (CISO) has over 30 years of experience at Dominion Energy primarily in various roles within the information technology department, including information technology risk management, as well as cybersecurity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes CISO's experience and tenure; biographical, no new risk."
+  },
+  {
+   "text": "The vice president of cybersecurity (CISO) has been involved in designing and evolving the Companies\u2019 cyber risk management policies, practices and procedures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes CISO's role in policy development; organizational detail, not a new risk."
+  },
+  {
+   "text": "This individual has deep relationships with key external partners and is recognized within the industry and the U.S. as a leading cybersecurity expert.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes CISO's external reputation; biographical, no risk content."
+  },
+  {
+   "text": "In addition, management of cybersecurity threats is shared with the chief information officer who is responsible for the Companies\u2019 technology assets including hardware, software, networks, servers and telecommunications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes CIO's responsibilities over technology assets; organizational detail, not a new risk."
+  },
+  {
+   "text": "The chief information officer has over 25 years of experience at Dominion Energy primarily in various roles within the information technology department, including information technology risk management.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes CIO's experience; biographical, no risk implication."
+  },
+  {
+   "text": "In addition, the chief information officer previously served on the board of the Virginia Cybersecurity Partnership, a collaboration between private industry and the Federal Bureau of Investigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes CIO's prior board service; biographical detail, no risk."
+  },
+  {
+   "text": "The chief security officer, vice president of cybersecurity (CISO) and chief information officer are supported by the senior vice president of administrative services as well as the Companies\u2019 operations, compliance, legal, audit, corporate risk, supply chain, human resources and accounting departments in executing its cybersecurity program.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal support structure for cybersecurity program; organizational detail, not a risk."
+  },
+  {
+   "text": "In addition, the chief security officer and chief information officer provide periodic updates concerning recent developments affecting cybersecurity and privacy risk to the Companies\u2019 executive cyber risk council, which includes executive officers responsible for administrative services, corporate affairs, supply chain, corporate secretary and corporate risk along with legal counsel.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal reporting to executive risk council; governance detail, not a new risk."
+  },
+  {
+   "text": "35 The Companies maintain a robust, tested and regularly revised Cyber Security Incident Response Plan and a Vendor Compromise Response Plan.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States existence of incident response plans; standard risk-management disclosure, not a new risk."
+  },
+  {
+   "text": "These plans detail roles, responsibilities and actions to be taken in response to a detected event whether internal or associated with a third-party service provider.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes contents of response plans; procedural detail, not a new risk."
+  },
+  {
+   "text": "The plans provide clear direction for escalation of information to leadership, including Dominion Energy\u2019s Board of Directors as appropriate, and drive collaboration amongst relevant members of management representing cybersecurity, information technology, operations, supply chain, legal and accounting departments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes escalation procedures within response plans; procedural detail, not a new risk."
+  },
+  {
+   "text": "As necessary, the chief administrative and projects officer, CFO and chief legal officer will advise the CEO on any incidents which could potentially have a material effect on the Companies\u2019 business operations, results of operations or financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal advisory chain for material incidents; procedural governance detail, not a new risk."
+  }
+ ]
+}

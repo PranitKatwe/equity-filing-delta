@@ -1,0 +1,218 @@
+{
+ "ticker": "CSCO",
+ "sector": "Information Technology",
+ "filing_date": "2025-09-03",
+ "accession": "0000858877-25-000111",
+ "prior_accession": "0000858877-24-000017",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 0,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 40
+ },
+ "items": [
+  {
+   "text": "We are simplifying how our technology is delivered, managed and optimized and helping customers maximize the business value of their technology investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General mission statement about simplifying technology delivery; no risk described."
+  },
+  {
+   "text": "Strategy and Priorities In today's digital-first world, businesses and organizations globally are deploying technology to pursue their strategic objectives, from accelerating growth to enhancing operational efficiency and fostering innovation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic industry framing about digital transformation, not a specific risk."
+  },
+  {
+   "text": "Cisco is at the forefront of this evolution, developing innovative solutions that leverage advanced AI to deliver more valuable outcomes for our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing statement about AI leadership, no risk content."
+  },
+  {
+   "text": "Now more than ever it is crucial for businesses to remain competitive while managing resource constraints.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing about competitiveness, not a specific risk."
+  },
+  {
+   "text": "Our customers continue to focus on modernizing their infrastructure with a focus on speed, agility, productivity, innovation and energy efficien cy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer priorities/trends, not a risk to the company."
+  },
+  {
+   "text": "These three customer priorities drive our innovation and technology, making them our priorities as well.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Strategic alignment statement, no risk described."
+  },
+  {
+   "text": "To help deliver on them, we are bringing together the power of our portfolio, which we refer to as One Cisco, which provides three key outcomes to our customers: i) AI-ready data centers, ii) future-proofed workplaces, and iii) digital resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes 'One Cisco' strategy and product outcomes, promotional not risk."
+  },
+  {
+   "text": "AI-Ready Data Centers We are transforming data centers to power AI workloads anywhere.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product/strategy description for data centers, no risk."
+  },
+  {
+   "text": "Whether customers need to modernize parts of their existing infrastructure or power new, massive AI workloads, Cisco brings together a wide array of infrastructure (across networking, compute, storage, and silicon) with unified management across traditional and AI workloads, and security from on-premise to cloud to power AI-ready data centers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes infrastructure offerings, not a risk statement."
+  },
+  {
+   "text": "Future-Proofed Workplaces Cisco helps deliver \"future-proofed\" workplaces, modernizing how people and technology work and serve their customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of workplace solutions."
+  },
+  {
+   "text": "This includes environments ranging from factory floors with plant workers and robots to hospitals with healthcare workers, as well as to social workers and salespeople on the move.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer environments, no risk."
+  },
+  {
+   "text": "For secure campus and branch networking, we offer a flexible range of solutions that help ensure secure, reliable connections for users and devices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of networking solutions."
+  },
+  {
+   "text": "Our smart building technology turns network devices into sensors for enhanced intelligence and control of physical spaces.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description, no risk."
+  },
+  {
+   "text": "To support productivity, we provide collaboration devices and software to enable collaboration no matter where people work.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of collaboration tools."
+  },
+  {
+   "text": "Digital Resilience We help to keep the data center, workplace, and entire IT environment securely up and running in the face of any disruption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic statement about resilience, no specific risk."
+  },
+  {
+   "text": "Our network assurance capabilities, powered by ThousandEyes, are integrated throughout our portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product capability description (ThousandEyes)."
+  },
+  {
+   "text": "This technology helps ensure seamless connectivity and optimal digital experiences across cloud, Internet, and enterprise networks, for the delivery of applications and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes technology benefits, not a risk."
+  },
+  {
+   "text": "Our observability solution monitors the entire enterprise to help prevent downtime and improve experiences across networks, infrastructures, and applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of observability solution."
+  },
+  {
+   "text": "Additionally, Cisco provides robust security measures for threat prevention, detection, investigation, and response for organizations of any size and security maturity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of security offerings, not a risk."
+  },
+  {
+   "text": "Cisco enables enterprises and service providers to deliver highly secure connectivity from workplaces to data centers worldwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company capability, not a risk."
+  },
+  {
+   "text": "Our strength lies in our ability to deliver unified architecture with integrated, end-to-end solutions to help simplify complex challenges.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing language about unified architecture."
+  },
+  {
+   "text": "These capabilities are accelerated with Cisco AI, enhancing outcomes for customers globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Promotional statement about AI-enhanced capabilities."
+  },
+  {
+   "text": "By integrating these capabilities across our networking portfolio, we aim to deliver continuous value to our customers through enhanced flexibility, scalability, and operational efficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Strategic goal statement, no risk described."
+  },
+  {
+   "text": "This unified approach positions us to address the diverse needs of businesses as they transition to hybrid and cloud-first environments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes positioning for hybrid/cloud transition, no risk."
+  },
+  {
+   "text": "Our switching portfolio now also includes the newly launched Cisco Smart Switches \u2014 Cisco 9350 and Cisco 9610\u2014 which represent the next generation of enterprise networking.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "New product announcement, descriptive not risk-related."
+  },
+  {
+   "text": "These switches are AI-ready with advanced telemetry and assurance capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description."
+  },
+  {
+   "text": "They are built on Cisco Silicon One (which is our single, unified, and scalable networking silicon architecture) and are equipped with quantum-resistant security and post-quantum cryptography to protect against future threats.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical product description including security features, not a risk statement."
+  },
+  {
+   "text": "They also offer flexibility for one hardware to be managed via either the Cisco Catalyst Center or Meraki Dashboard user interface.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product flexibility description."
+  },
+  {
+   "text": "During fiscal 2025, we introduced the Cisco N9300 Series Smart Switches with a new class of intelligent networking silicon alongside embedded Data Processing Units (DPUs), representing our new vision for AI data center designs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "New product introduction description, no risk."
+  },
+  {
+   "text": "Complex data processing tasks can be offloaded to the DPUs on the switch to improve both network architecture and the security posture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical capability description."
+  },
+  {
+   "text": "Cisco Hypershield, our cloud-native and AI-powered approach to highly distributed security for AI-scale data centers that is built into the fabric of the network, is the first service offering available embedded on these new switches.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of Hypershield security offering."
+  },
+  {
+   "text": "This helps to narrow the gap between security and networking layers by converging them into a single solution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product integration benefit, no risk."
+  },
+  {
+   "text": "Our routed optical networking systems and our pluggable optic solutions allow us to transform the economics of building and operating networks for our service provider customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of optical networking systems."
+  },
+  {
+   "text": "With a product portfolio that includes both on-premises and cloud-managed wireless access points and controllers, we provide customers with a powerful and intuitive converged access solution when paired with our switching portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of wireless solutions."
+  },
+  {
+   "text": "Security Security is at the core of our business strategy, reflecting our commitment to addressing the evolving needs of organizations of every size across industries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about security being core to strategy, no specific risk."
+  },
+  {
+   "text": "We are dedicated to continuous innovation, with significant investments in cloud-based security, AI-driven threat detection, and end-to-end security architectures designed to help customers proactively safeguard their most critical assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment areas, promotional not risk-related."
+  },
+  {
+   "text": "In the third quarter of fiscal 2024, we acquired Splunk, a recognized leader in security analytics and observability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about Splunk acquisition, descriptive not risk."
+  },
+  {
+   "text": "The Splunk platform and security offerings significantly strengthen our TIDR capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strengthened capabilities from acquisition, no risk."
+  },
+  {
+   "text": "Our security offerings also include Cisco Hypershield, our cloud-native, AI-powered approach to highly distributed security for AI-scale data centers that is built into the fabric of the network.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of Hypershield security offering."
+  },
+  {
+   "text": "Our security strategy positions us well to capture growing market demand for comprehensive, scalable, and integrated security solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Promotional statement about market positioning, no risk described."
+  }
+ ]
+}

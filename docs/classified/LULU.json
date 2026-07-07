@@ -1,0 +1,218 @@
+{
+ "ticker": "LULU",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-17",
+ "accession": "0001397187-26-000020",
+ "prior_accession": "0001397187-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 18
+ },
+ "items": [
+  {
+   "text": "Our strategy within these categories include: \u2022 Women's - Our women's range remains core to our business, and we continue to innovate in bringing new performance fabrics and styles to attract and retain our guests; \u2022 Men's - Our men's range is a key pillar of our strategic growth plans.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing product category strategy (women's/men's) without introducing a new risk."
+  },
+  {
+   "text": "We continue to build brand awareness through a product activation strategy which is aligned with our new product innovation, including leveraging our ambassadors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General marketing/brand-building description, not a risk statement."
+  },
+  {
+   "text": "We continue to invest in brand building in our China Mainland segment, and our increased penetration of new product is also expected to drive revenue growth in China Mainland.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing investment strategy in China, not a risk."
+  },
+  {
+   "text": "Sourcing and Manufacturing We obtain our fabrics and produce our products through a limited number of suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of sourcing/manufacturing process, no new risk."
+  },
+  {
+   "text": "Events predominantly impacting our international net revenue, such as those related to Lunar New Year and Singles Day, can fall in different fiscal quarters from year to year.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about revenue timing variability tied to international holiday events."
+  },
+  {
+   "text": "Human Capital In 2025, we launched Impact Agenda 2030, which sets out our vision, strategy, and set of goals to guide our impact work, and is composed of two pillars - People and Planet.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new corporate initiative (Impact Agenda) with no risk content."
+  },
+  {
+   "text": "The People pillar of our Impact Agenda focuses on wellbeing for our employees, supply chain, and community.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of ESG program pillar, not a risk."
+  },
+  {
+   "text": "We strive to create a workplace where individuals feel respected and valued, and have the resources and support to grow and thrive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Aspirational statement about workplace culture, no risk."
+  },
+  {
+   "text": "Our goal is to elevate employee wellbeing through a culture of high performance and high care, which we believe leads to higher employee retention and productivity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about employee wellbeing goals, no risk."
+  },
+  {
+   "text": "We also see strong engagement across our global employee base for inclusion-focused education and training, which helps us reflect a variety of perspectives and better meet the needs of the communities we serve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about employee engagement, no risk."
+  },
+  {
+   "text": "We strive to maintain equal pay within our global employee population, meaning equal pay for equal work by geography.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about pay equity policy, no risk."
+  },
+  {
+   "text": "We have achieved gender pay equity globally and full pay equity in the United States and have continued to maintain it based on periodic analysis.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes achievement of pay equity, not a risk."
+  },
+  {
+   "text": "(1) (1) We define full pay equity as including gender and race.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional clarification, no risk content."
+  },
+  {
+   "text": "Our analyses are point-in-time and may vary as workforce composition and roles evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Methodological caveat about analyses, no risk."
+  },
+  {
+   "text": "Our Vendor Code of Ethics outlines our expectations of suppliers, and our policies are informed by international human and labor rights standards and guidelines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes vendor code of ethics, no risk."
+  },
+  {
+   "text": "We approve new suppliers and facilities only after determining that they meet, in all material respects, the requirements of our New Vendor Approval Process, which evaluates adherence to worker rights and labor practices as outlined by the Vendor Code of Ethics, environmental practices, and core business factors such as quality, sourcing, and production at the facility level.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes vendor approval process, no risk."
+  },
+  {
+   "text": "8 Table of Contents Our Responsible Recruitment & Employment Standard sets out the minimum requirements for the recruitment, selection, hiring, and management of migrant workers by or on behalf of our vendors, their service providers, and labor recruiters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes recruitment standard policy, no risk."
+  },
+  {
+   "text": "Community Wellbeing We aim to foster mental health and wellbeing through movement and mindfulness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General community wellbeing statement, no risk."
+  },
+  {
+   "text": "Our brand presence and visibility in certain markets may encourage some guests to try or migrate to emerging competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive risk that guests may migrate to emerging competitors."
+  },
+  {
+   "text": "Even when these products infringe our intellectual property rights, we may not be able to identify all infringing parties, enforce our rights effectively, or obtain timely and meaningful relief.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing IP enforcement risk by adding difficulty identifying infringers."
+  },
+  {
+   "text": "If \"dupe\" or imitation products proliferate, whether through traditional retail channels or social media-driven trends, and lead consumers to perceive less differentiation between our products and lower-priced alternatives, our ability to maintain our brand premium, drive net revenue growth, and sustain our profitability could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about 'dupe' products eroding brand premium and profitability."
+  },
+  {
+   "text": "Any defects could make our products unsafe and create a risk of property damage or personal injury.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequence (property damage/personal injury) to existing product defect risk."
+  },
+  {
+   "text": "Our Chief Executive Officer stepped down effective January 31, 2026, and we appointed interim co-Chief Executive Officers to lead during a transition period while we conduct a search for a permanent Chief Executive Officer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk event: CEO departure and leadership transition."
+  },
+  {
+   "text": "In addition, we have had other recent changes at the senior executive level.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds context about other executive changes, expanding the leadership transition risk."
+  },
+  {
+   "text": "These changes may create uncertainty and divert management\u2019s attention and resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential effects of leadership uncertainty already introduced."
+  },
+  {
+   "text": "We may not identify or attract a permanent successor on a timely basis, and a prolonged search could extend uncertainty and heighten the risks described in this paragraph.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on risk of prolonged CEO search."
+  },
+  {
+   "text": "Our interim leadership model may not align with expectations of employees, vendor partners, or other external stakeholders, and could negatively affect our operations, strategic initiatives, employee engagement, and retention.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on leadership transition risk impacts on stakeholders."
+  },
+  {
+   "text": "These changes may also lead to negative public perception, including among consumers and our brand community.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on negative perception risk tied to leadership change."
+  },
+  {
+   "text": "Any resulting disruption could have a material adverse impact on our business, financial performance, or the market price of our stock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential material adverse impact of the leadership disruption already described."
+  },
+  {
+   "text": "The rapid rise of artificial intelligence (\"AI\")\u2011enabled shopping tools may reduce our control over consumer decision\u2011making and brand loyalty, as third\u2011party AI platforms increasingly influence product discovery and purchases on behalf of customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk regarding AI-enabled shopping tools affecting brand control."
+  },
+  {
+   "text": "Events predominantly impacting our international net revenue, such as those related to Lunar New Year and Singles Day, can fall in different fiscal quarters from year to year.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate of new risk regarding revenue timing variability from international events."
+  },
+  {
+   "text": "Risks related to global economic, political, and regulatory conditions Changes to U.S. tariff and customs policy, including the elimination of the de minimis exemption, have and may further materially increase product costs and negatively affect margins.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about tariff and de minimis policy changes increasing costs."
+  },
+  {
+   "text": "As a result of the increased tariffs since April 2025, the cost of inventory in the United States has increased.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific data expanding on the newly introduced tariff cost risk."
+  },
+  {
+   "text": "The United States also eliminated the de minimis duty-free exemption for certain shipments effective May 2, 2025, and an Executive Order extends this elimination globally beginning August 29, 2025, with legislation enacted to repeal the statutory exemption entirely by July 1, 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds regulatory detail expanding on the de minimis exemption risk."
+  },
+  {
+   "text": "The countries from which we source the majority of our products are now subject to higher tariffs on imports into the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on which countries are affected by tariff increases, expanding existing risk."
+  },
+  {
+   "text": "Further, the majority of our sales to U.S. e-commerce guests are currently fulfilled from distribution centers in Canada, and historically a significant proportion of these orders qualified for the de minimis exemption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific operational detail about Canadian fulfillment tied to tariff risk."
+  },
+  {
+   "text": "The removal of this exemption increases the cost of fulfilling those orders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains cost impact of exemption removal, expanding tariff risk."
+  },
+  {
+   "text": "As a result, more shipments are now subject to duties, taxes, and customs procedures, which increased product costs during 2025, and which we expect to continue into 2026 and beyond.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further quantifies ongoing cost impact from tariff changes."
+  },
+  {
+   "text": "We are taking steps designed to mitigate some of the financial impact, although we expect the tariff and de minimis changes to adversely affect product costs, gross profit, and income from operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes mitigation efforts but reaffirms expected adverse impact, expanding tariff risk."
+  },
+  {
+   "text": "On February 20, 2026, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete sentence fragment with no substantive content."
+  }
+ ]
+}

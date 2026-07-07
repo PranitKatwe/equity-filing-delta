@@ -1,0 +1,218 @@
+{
+ "ticker": "CEG",
+ "sector": "Utilities",
+ "filing_date": "2026-02-24",
+ "accession": "0001868275-26-000032",
+ "prior_accession": "0001868275-25-000023",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 33
+ },
+ "items": [
+  {
+   "text": "QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK for additional information on hedging and risk management.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another Item (7A) for hedging information; no new risk content."
+  },
+  {
+   "text": "Active External Engagement Our business is at the intersection of heavy capital deployment, complex microeconomics and high-profile public policy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about the business environment, not a specific risk."
+  },
+  {
+   "text": "Through active external engagement with key stakeholders on behalf of our business and customers, we believe we can support the effective design and operation of the electric markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about stakeholder engagement, not a risk disclosure."
+  },
+  {
+   "text": "We are the nation\u2019s largest producer of clean and reliable energy and following the Calpine merger we are the largest private-sector power producer in the world, and we bring an informed perspective to public policy discussions at the state, regional and national levels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive fact about company size and Calpine merger, framed as business positioning rather than a risk."
+  },
+  {
+   "text": "Our consistently rigorous and balanced advocacy has made our perspective one that is sought out by key decision makers when considering the path forward in legislative and policy arenas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Self-promotional statement about advocacy influence, not a risk statement."
+  },
+  {
+   "text": "We are committed to maintaining sufficient financial liquidity and an appropriate capital structure to support safe, secure and reliable operations, even in volatile market conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic commitment to liquidity/capital structure, standard cautionary language."
+  },
+  {
+   "text": "This strategy was realized, in part, with the acquisition of Calpine, a combination that brings together premier nuclear, natural gas, and geothermal fleets with a leading commercial platform to deliver innovative customer solutions and strengthen U.S. energy leadership, national security, and economic prosperity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic rationale for Calpine acquisition; narrative, not a risk."
+  },
+  {
+   "text": "Nuclear energy remains the largest source of zero-emissions electricity in the U.S., providing more than half of all emissions-free power.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statistic about nuclear energy's share of clean power, not a risk statement."
+  },
+  {
+   "text": "Federal policymakers from both parties have underscored the importance of preserving existing nuclear assets through the nuclear PTC enacted in the IRA and maintained under the OBBBA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes favorable federal policy support for nuclear, not a risk."
+  },
+  {
+   "text": "The action by New York to extend the NY ZEC program in January 2026 reaffirms that states recognize that existing nuclear generation facilities are essential to meeting their policy objectives to reduce GHG emissions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive factual note about state policy support, not a risk."
+  },
+  {
+   "text": "In addition, a number of states including Delaware, New Jersey, Illinois, Maryland, New York, and Texas, are currently drafting bills to add nuclear energy to clean energy targets by repealing bans, studying methods to accelerate their development, or in some cases, providing financial incentives to drive their construction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes favorable state legislative trends, not a risk."
+  },
+  {
+   "text": "Policy Support for New, Reliable Generation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header, no substantive content."
+  },
+  {
+   "text": "With our significantly increased presence in Texas following the Calpine acquisition, our fleet is positioned to play a critical role in ensuring reliability within ERCOT.",
+   "category": "expanded_existing_risk",
+   "rationale": "Highlights increased exposure to the Texas/ERCOT market following the Calpine acquisition, expanding existing geographic/market concentration considerations."
+  },
+  {
+   "text": "In November 2023, Texas voters approved a state constitutional amendment to create the TEF, which provides up to $7.2 billion in low-interest loans and completion bonuses to support as much as 10 GW of new dispatchable generation statewide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a favorable state funding program (TEF), factual, not a risk."
+  },
+  {
+   "text": "Project selections announced in Fall 2025 included a $278 million loan for Calpine's 460 MW Pin Oak Creek peaking facility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Specific factual detail about a loan award, not a risk."
+  },
+  {
+   "text": "Policy mechanisms like the TEF are essential to maintaining the reliability of the Texas energy market by enhancing the economic viability of new dispatchable generation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about policy mechanisms supporting reliability, not a risk."
+  },
+  {
+   "text": "In Maryland, the Next Generation Energy Act of 2025 directed the Maryland Public Service Commission (MPSC) to solicit and approve applications for dispatchable and large-capacity resources through an expedited Certification of Public Convenience and Necessity process.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new state regulatory process, factual/favorable, not framed as a risk."
+  },
+  {
+   "text": "We submitted multiple proposals, and the MPSC approved our application to advance more than 700 MW of natural gas generation under the streamlined pathway.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update on regulatory approval, not a risk."
+  },
+  {
+   "text": "We are also continuing to evaluate additional resource options for Maryland, including battery storage projects, under a separate solicitation established by the Next Generation Energy Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing evaluation of additional projects, factual, not a risk."
+  },
+  {
+   "text": "The rapid expansion of data centers continues to accelerate, driven by widespread adoption of AI technologies and large-scale infrastructure investments by major hyperscalers such as Microsoft, Google, Meta, and Amazon.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market growth trend (AI/data centers) as opportunity, not a risk statement."
+  },
+  {
+   "text": "This growth is creating unprecedented demand for reliable, around-the-clock electricity in the U.S. and globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about demand growth, not a specific risk."
+  },
+  {
+   "text": "As AI workloads scale and computing needs increase, the energy requirements of data centers are expected to grow substantially, further reinforcing the need for dependable, 24/7 power supply.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of demand growth narrative, framed as opportunity, not risk."
+  },
+  {
+   "text": "This transition has the potential to materially increase overall electricity demand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about potential demand increase, not a specific risk."
+  },
+  {
+   "text": "Recent federal industrial policy, most notably the CHIPS and Science Act and the IRA, explicitly incentivize the return of manufacturing and supply\u2011chain capacity back to the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes favorable federal industrial policy, not a risk."
+  },
+  {
+   "text": "This resurgence in domestic industrial activity is driving a meaningful increase in electricity demand, as new facilities are both expanding and becoming more energy intensive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes positive demand growth trend from industrial policy, not a risk."
+  },
+  {
+   "text": "These trends are further amplified by broader shifts such as electrification and rapid data center growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about broader economic trends, not a risk."
+  },
+  {
+   "text": "The resulting load growth presents a strategic opportunity for our business as our expanded generation fleet is well positioned to enable this national policy objective.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Frames load growth as a strategic opportunity, not a risk."
+  },
+  {
+   "text": "Consumers are increasingly purpose-driven and knowledgeable about solutions that reduce emissions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General consumer behavior observation, not a risk."
+  },
+  {
+   "text": "As a result, they place greater value on being able to trace the sources of their clean energy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General consumer preference statement, not a risk."
+  },
+  {
+   "text": "Customers are also showing heightened interest in long-term energy agreements that provide price stability and reliability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer interest in long-term agreements, not a risk."
+  },
+  {
+   "text": "At the same time, continued innovation and digitization across the economy are empowering customers with more visibility and control over their energy usage.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about digitization trends, not a risk."
+  },
+  {
+   "text": "This increased engagement enables both residential and business customers to make more informed choices about their energy supply and the products and solutions we provide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about customer engagement, not a risk."
+  },
+  {
+   "text": "In June 2025, EPA issued a proposal to repeal its regulations addressing GHG emissions from the sector.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a specific regulatory development (EPA proposal to repeal GHG rules) that expands on existing environmental/regulatory risk disclosures."
+  },
+  {
+   "text": "In February 2026, EPA issued a final rule to repeal the 2009 \u201cEndangerment Finding\u201d underpinning all GHG regulation by EPA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a major regulatory action (repeal of Endangerment Finding) directly affecting compliance risk landscape, expanding existing environmental regulatory risk."
+  },
+  {
+   "text": "EPA is expected to separately finalize its repeal of power sector GHG regulations in 2026, which will directly address the compliance obligations under those rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes upcoming EPA action affecting compliance obligations, expanding on existing regulatory uncertainty risk."
+  },
+  {
+   "text": "Our nuclear plants are meaningful contributors to the clean energy mix where they operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about nuclear plants' role in clean energy mix, not a risk."
+  },
+  {
+   "text": "In January 2026, the NYPSC approved a 20-year extension of its ZEC program to sustain the state\u2019s nuclear power plants through 2049.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details extension of a state subsidy program (NY ZEC) that existing risk factors likely discuss regarding reliance on state support; expands with specific extension terms."
+  },
+  {
+   "text": "The extension is designed to preserve the state's carbon-free electricity supply and ensure grid reliability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on the ZEC extension's purpose, expanding existing risk narrative about state program dependency."
+  },
+  {
+   "text": "The structure of the NY ZEC program remains largely intact, with similar rate-setting methodology, adjusted over time for inflation through 2049.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specifics on the continuation of the ZEC program structure, expanding existing risk discussion about regulatory/subsidy dependence."
+  },
+  {
+   "text": "Regional Greenhouse Gas Initiative (RGGI).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header referencing RGGI, no substantive new content shown."
+  }
+ ]
+}

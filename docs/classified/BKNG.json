@@ -1,0 +1,218 @@
+{
+ "ticker": "BKNG",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-18",
+ "accession": "0001075531-26-000009",
+ "prior_accession": "0001075531-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 6,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "Barriers to entry are low, and we compete with online travel companies (\"OTCs\"), travel service providers offering direct booking (such as airlines, hotels, and rental car companies), traditional travel agencies and operators, companies offering travel-related software, payments, or technology solutions, financial services and credit card companies, and global technology companies with significantly greater scale, data, and financial resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Competition risk already existed; this adds detail about specific new categories of competitors (OTCs, tech giants) without introducing a fundamentally new risk."
+  },
+  {
+   "text": "For example, Google links travel search to its dominant search engine and has integrated travel products into Google Maps and its Gemini generative AI (\"Gen AI\") offering.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific example (Google Gemini) illustrating the existing competitive risk, adding detail rather than a new risk category."
+  },
+  {
+   "text": "Other large technology platforms and AI-native competitors are developing Gen AI-powered assistants and agents that can search, compare, recommend, and facilitate travel and dining reservations directly within their search engines, operating systems, messaging platforms, or \"super-apps.\" These offerings may reduce consumers choosing to visit dedicated online travel platforms, reducing direct traffic, bookings, and customer relationships.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive threat: AI-native assistants/agents that could bypass dedicated travel platforms, reducing traffic and bookings."
+  },
+  {
+   "text": "Gen AI also lowers barriers to entry and enables competitors to potentially replicate or improve core functionality, personalize recommendations and pricing, and acquire customers more efficiently through non-travel consumer interactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies Gen AI as lowering barriers to entry and enabling new forms of competition, a specific new mechanism not previously disclosed."
+  },
+  {
+   "text": "AI agents may further evolve into full-service booking platforms, increasing competitive pressure and disintermediating OTCs.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new potential disintermediation threat from AI agents evolving into booking platforms."
+  },
+  {
+   "text": "Some competitors may operate at minimal or negative margins to gain market share.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitors operating at low margins, a common competitive risk framing."
+  },
+  {
+   "text": "We derive a substantial portion of our gross bookings from countries outside the United States.",
+   "category": "reworded_same_meaning",
+   "rationale": "Simple factual restatement that a substantial portion of bookings come from outside the US, consistent with existing international risk disclosure."
+  },
+  {
+   "text": "The growth rate of our operations outside the United States have generally declined over time as the absolute level of our gross bookings increased and online travel growth rates declined, and they may also be impacted by factors such as economic conditions, changes in foreign currency exchange rates, declines in ADRs, increases in cancellations, adverse changes in travel market conditions, and competition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about declining growth rates and specific contributing factors to the existing international operations risk."
+  },
+  {
+   "text": "Further, as industry consolidation, including among travel service providers, increases, the potential adverse effect of reduced usage or withdrawal from our services by a significant travel service provider also increases.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk tied to industry consolidation among travel service providers affecting business relationships."
+  },
+  {
+   "text": "A significant portion of consumer traffic to our services is derived from third-party platforms, including Google and other search engines, mobile operating systems, app marketplaces, mapping services, and other digital distribution channels.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing reliance on third-party platforms for traffic, a previously disclosed risk."
+  },
+  {
+   "text": "These platforms increasingly incorporate Gen AI features, such as AI-generated answers, assistants, and recommendations, that may satisfy user intent without directing users to our services or may favor the platform's own or affiliated offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk: AI-generated answers on third-party platforms satisfying user intent without directing traffic to the company's services."
+  },
+  {
+   "text": "Changes in algorithms, ranking methodologies, user interfaces, access terms, pricing, or the placement of AI-generated content by these platforms could reduce the visibility of our services, increase customer acquisition costs, or decrease traffic and bookings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing search/algorithm risk to include AI-generated content placement effects."
+  },
+  {
+   "text": "In addition, platform providers may restrict data access, limit interoperability, or impose commercial terms that disadvantage us relative to competing or native AI-enabled services.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding platform providers restricting data access or interoperability specifically related to AI-enabled competition."
+  },
+  {
+   "text": "If we are unable to maintain favorable placement, access, or economics across traditional digital search as well as evolving AI-mediated distribution channels, our distribution of travel and restaurant reservations through such third-party distribution channels is likely to decline and our business, competitive position, and results of operations could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing distribution channel risk by extending it to AI-mediated channels."
+  },
+  {
+   "text": "We may not be able to keep pace with the competitive pressure to innovate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive innovation pressure without specific new detail."
+  },
+  {
+   "text": "Additionally, if we don't offer features preferred by alternative accommodation property owners or our competitors have better features, our alternative accommodations business could be negatively impacted.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about competitive feature parity in alternative accommodations."
+  },
+  {
+   "text": "If applicable, this insurance provides coverage up to $1.0 million equivalent per occurrence (subject to limitations and exclusions).",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific numeric detail ($1.0 million coverage limit) to existing insurance risk disclosure."
+  },
+  {
+   "text": "We retain certain financial risks and could be required to pay amounts in excess of the policy limit.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details financial exposure beyond insurance limits, expanding existing insurance risk."
+  },
+  {
+   "text": "There is a risk that employees, partners, and consumers are overreliant on AI without sufficient human review of outputs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about overreliance on AI outputs without human review."
+  },
+  {
+   "text": "In addition, some users may also engage in fraudulent or abusive activities through our AI services, such as unauthorized account access, payment fraud, or launching cyberattacks.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new fraud and cyberattack risks specifically tied to AI services."
+  },
+  {
+   "text": "Additionally, our Gen AI initiatives could alter our infrastructure and workforce.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding Gen AI initiatives impacting infrastructure and workforce structure."
+  },
+  {
+   "text": "During fiscal year 2025, as a result of our annual goodwill impairment test, we recognized goodwill and intangible assets impairment charges.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses an actual goodwill and intangible asset impairment event, a new material financial risk."
+  },
+  {
+   "text": "See Note 11 to our Consolidated Financial Statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to financial statement note, purely procedural."
+  },
+  {
+   "text": "The estimation of fair value reflects numerous assumptions that are subject to risks and uncertainties, including key assumptions regarding expected growth rates and operating margin, discount rates, and market comparables.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on assumptions underlying fair value estimates related to the new impairment disclosure."
+  },
+  {
+   "text": "It requires significant judgments and estimates and actual results could be materially different than the judgments and estimates used to estimate fair value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about judgment and estimate uncertainty, standard disclosure language."
+  },
+  {
+   "text": "Inability to successfully implement or adapt these technologies in a timely manner could adversely affect our business or results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about technology implementation challenges."
+  },
+  {
+   "text": "Threat actors may exploit AI-based technologies to breach systems and weaponize AI to target our employees to gain unauthorized access to systems and data.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cybersecurity threat involving AI-based attacks on systems and employees."
+  },
+  {
+   "text": "Furthermore, the emergence of quantum technologies may enable threat actors to overcome traditional encryption protocols and launch more sophisticated AI-enabled attacks at scale.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies emerging quantum computing threat enabling more advanced AI-enabled cyberattacks, a new specific risk."
+  },
+  {
+   "text": "Disruptions in connectivity could materially adversely affect our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about connectivity disruptions affecting business, standard risk language."
+  },
+  {
+   "text": "We are subject to various taxes around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to various taxes, standard disclosure."
+  },
+  {
+   "text": "The One Big Beautiful Bill Act (the \"BBB Act\") enacted in July 2025 made changes to certain international, foreign tax credit, and domestic tax provisions in the U.S. effective in 2025 and 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "References a specific new piece of legislation (BBB Act) with tax implications, a new concrete risk."
+  },
+  {
+   "text": "See Note 16 to our Consolidated Financial Statements for information regarding certain legal proceedings in which we are involved.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to financial statement note, procedural."
+  },
+  {
+   "text": "To resolve certain of the proceedings or investigations we have been or are involved in, we have made commitments regarding future business practices or activities including related to our parity arrangements, the information we provide about our search results ranking, and how we display prices, discounts, and popularity and availability statements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific commitments made to regulators, expanding existing legal/regulatory risk disclosure."
+  },
+  {
+   "text": "Competition and consumer-law-related investigations, legislation, judgments, or issues have in the past resulted in and could in the future result in private litigation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk that investigations can lead to private litigation."
+  },
+  {
+   "text": "We are currently involved in such litigation and aware of such potential litigation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Simple statement of current litigation involvement, consistent with prior disclosures."
+  },
+  {
+   "text": "For example, a Dutch consumer group has filed a claim against Booking.com relating to the historical use of contractual parity provisions, as well as allegations that Booking.com and Agoda employed misleading practices, and we are aware of similar efforts to pursue potential claims in other jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new lawsuit (Dutch consumer group claim) against Booking.com and Agoda."
+  },
+  {
+   "text": "See Note 16 to our Consolidated Financial Statements for more information regarding this and other such claims or potential claims.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to financial statement note for more litigation details."
+  },
+  {
+   "text": "Class action litigation can be time-consuming, costly, and unpredictable, regardless of merit, and there may be evolving jurisprudence and less experience with such matters in certain of the geographies where we are or may be involved in such litigation, making outcomes less certain and harder to forecast.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unpredictability of class action litigation."
+  },
+  {
+   "text": "If we were to be found liable, it could result in, among other things, payment of damages, commitments to change certain business practices, or reputational damage, any of which could harm our business, results of operations, brands, or competitive position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential consequences of litigation liability, standard risk language."
+  },
+  {
+   "text": "If future 14 legislation utilizes a \"gatekeeper\" or VLOP designation to extend its scope, we could be subject to further regulations, restrictions, or compliance or other obligations that are not applicable to our competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk related to potential 'gatekeeper' or VLOP designation under future legislation."
+  }
+ ]
+}

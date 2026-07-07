@@ -1,0 +1,218 @@
+{
+ "ticker": "FISV",
+ "sector": "Financials",
+ "filing_date": "2026-02-19",
+ "accession": "0000798354-26-000009",
+ "prior_accession": "0000798354-25-000047",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "We use artificial intelligence in our business, and challenges with properly managing its use could result in legal liability or reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about AI use leading to legal liability or reputational harm, not previously mentioned."
+  },
+  {
+   "text": "The One Fiserv action plan may not generate the benefits that we anticipate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk tied to a newly announced strategic plan (One Fiserv action plan) not achieving anticipated benefits."
+  },
+  {
+   "text": "In 2025, we announced a strategic plan, referred to as the One Fiserv action plan, that focuses on: operating with a client-first mindset to win new enterprise clients and grow average revenue per client; building the pre-eminent small business operating platform through Clover; creating differentiated, innovative platforms in finance and commerce, including embedded finance and stablecoin; delivering operational excellence enabled by artificial intelligence; and employing disciplined capital allocation for the long-term.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes the specific new strategic initiative (One Fiserv plan) including new business lines like stablecoin and embedded finance, providing substantive new context for risk."
+  },
+  {
+   "text": "To successfully execute the plan, we must implement operational, technological and cultural changes across our organization, which may be difficult to do.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced plan-execution risk by specifying operational, technological and cultural change challenges."
+  },
+  {
+   "text": "In addition, although we have planned for a certain level of expense in implementing the plan, there are factors beyond our control that could cause the total amount or the timing of the expenses we may incur to be different than anticipated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on the same new plan risk regarding uncontrollable expense variability."
+  },
+  {
+   "text": "As a result, the actual benefits of the plan may be less significant than anticipated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and reinforces the same newly introduced plan-benefit risk already stated in prior sentences."
+  },
+  {
+   "text": "Furthermore, we may not be able to achieve expected benefits of the plan on our anticipated timeline or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the same plan risk regarding timeline uncertainty."
+  },
+  {
+   "text": "We make significant investments in emerging, innovative areas of financial services and technology that may not achieve expected returns.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category about investments in emerging financial technology areas not achieving expected returns."
+  },
+  {
+   "text": "We expect to continue to make significant investments in research, development, and marketing for new and existing products, services, and technologies, including embedded finance, stablecoin and artificial intelligence based products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on the investment risk by naming new technology areas (embedded finance, stablecoin, AI)."
+  },
+  {
+   "text": "We may not achieve significant revenue from our investment in innovative platforms and product offerings for several years, if at all, due to regulatory uncertainty, competitors\u2019 success with similar offerings, lack of demand from our customer base for these offerings, our inability to successfully integrate these offerings into our established platforms, or other factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on reasons revenue may not materialize, expanding the newly introduced investment risk."
+  },
+  {
+   "text": "New products and services may not be profitable or may not achieve operating margins as high as we have experienced historically.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on profitability concerns tied to the same new investment risk."
+  },
+  {
+   "text": "The costs associated with developing, integrating and deploying these product offerings may be higher than anticipated, and these product offerings may require significant additional investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds cost-related detail to the same emerging technology investment risk."
+  },
+  {
+   "text": "Competitors may identify and develop applications for these technologies that reduce our ability achieve our desired financial returns.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds competitive threat detail to the same investment/technology risk."
+  },
+  {
+   "text": "Our customers\u2019 rate of adoption of novel product offerings may be slower than we anticipate and impact the feasibility of these product offerings going forward.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds customer adoption risk detail to the same emerging product risk theme."
+  },
+  {
+   "text": "Perceptions of mismanagement, driven by regulatory activity or negative public reaction to our practices or product experiences, could negatively impact product and feature adoption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds reputational/regulatory perception risk as part of the same product adoption risk theme."
+  },
+  {
+   "text": "Developing new technologies is complex.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complexity of developing new technology, lacking specific new risk detail."
+  },
+  {
+   "text": "It can require long development and testing periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about long development/testing periods, no specific new risk."
+  },
+  {
+   "text": "We could experience significant delays in new releases or significant problems in creating new products or services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequence (delays, product problems) to the ongoing new technology development risk."
+  },
+  {
+   "text": "Among the new services we intend to offer is custody for stablecoin reserves held under the GENIUS Act and other stablecoin regulations to help financial institutions retain funds associated with FIUSD stablecoin issuance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new business offering (stablecoin custody under GENIUS Act) representing a new operational and regulatory exposure."
+  },
+  {
+   "text": "Our stablecoin offering has only recently been enabled by regulation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on regulatory recency for the newly introduced stablecoin risk."
+  },
+  {
+   "text": "We have made certain assumptions about future stablecoin regulation, but there is no certainty about the favorability of the final regulatory environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory uncertainty specific to the new stablecoin offering."
+  },
+  {
+   "text": "Additionally, given the relative recency of the GENIUS Act, it is not clear what the market demand will be for our stablecoin offering from our financial institution customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds market demand uncertainty detail to the same new stablecoin risk."
+  },
+  {
+   "text": "Our embedded finance business is an emerging product area that could expose us to liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to the embedded finance business exposing the company to liability."
+  },
+  {
+   "text": "Our embedded finance business involves providing financial services to a merchant\u2019s customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement explaining what embedded finance is, not a risk statement itself."
+  },
+  {
+   "text": "These financial services may be branded in the name of a merchant.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further descriptive detail about branding, no new risk content."
+  },
+  {
+   "text": "In addition, these financial services may be incorporated into the merchant\u2019s products or services or may be used to facilitate financial transactions that permit the merchant to sell more products or services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive explanation of how embedded finance services are used, not a risk statement."
+  },
+  {
+   "text": "In some cases, we resell the services of third parties, including financial institutions, technology providers, or program managers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about reselling third-party services, expanding the embedded finance liability risk."
+  },
+  {
+   "text": "Those 13 Table of Contents third-party services may be integrated with our own technology or services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes integration of third-party services without adding new risk substance."
+  },
+  {
+   "text": "We are exposed to financial and performance risks related to the third parties whose services we resell.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies financial and performance risk exposure tied to third parties, expanding the embedded finance risk."
+  },
+  {
+   "text": "In addition, we may be contractually entitled to a percentage of the revenue earned by the financial institution or other third party, and accordingly, we may assume risks, either contractually or as a matter of law, that would ordinarily be risks assumed by a financial institution and not by a technology provider.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the assumption of financial-institution-like risks, expanding the embedded finance liability risk."
+  },
+  {
+   "text": "These risks include credit risk, consumer fraud risk, operational risk, and compliance risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific risk types (credit, fraud, operational, compliance) expanding the embedded finance risk."
+  },
+  {
+   "text": "It is possible that state or federal regulators may determine that we are directly subject to regulations that have not previously applied directly to us.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk that regulators could newly classify the company as directly subject to certain regulations."
+  },
+  {
+   "text": "16 Table of Contents Regulatory and Compliance Risks We have claims and lawsuits against us and have received governmental inquiries that may result in adverse outcomes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor disclosing existence of claims, lawsuits, and governmental inquiries that could adversely affect the company."
+  },
+  {
+   "text": "We are currently, and may in the future, be subject to claims, lawsuits and governmental inquiries arising from the operation of our business, including those related to new product releases, significant business transactions, employee matters, artificial intelligence activities, and regulation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced litigation risk with specific categories including AI-related claims."
+  },
+  {
+   "text": "Commitments and Contingencies - Litigation and Investigation Matters to our consolidated financial statements, we are also currently subject to federal securities law complaints, derivative complaints and governmental investigations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific pending federal securities law complaints, derivative complaints, and governmental investigations, adding material new factual risk detail."
+  },
+  {
+   "text": "As we continue to expand our business and offerings, we may be subject to additional types of legal claims.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that business expansion may lead to additional legal claims, lacking specificity."
+  },
+  {
+   "text": "Any claims asserted against us, regardless of merit or eventual outcome, may harm our reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about reputational harm from claims, standard legal boilerplate."
+  },
+  {
+   "text": "Litigation could be costly, time-consuming and divert attention of our management and employees from daily operational needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about litigation being costly and time-consuming, standard boilerplate."
+  },
+  {
+   "text": "There is no guarantee that we will be successful in defending ourselves in pending or future litigation or similar matters under various laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about no guarantee of success in litigation, standard boilerplate."
+  },
+  {
+   "text": "Adverse outcomes in some or all of these claims may result in significant monetary damages or injunctive relief that could adversely affect our ability to conduct our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential monetary damages from litigation, standard boilerplate."
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "ticker": "EXR",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-20",
+ "accession": "0001289490-26-000011",
+ "prior_accession": "0001628280-25-009060",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "We undertake no obligation to publicly update or revise forward-looking statements which may be made to reflect events or circumstances after the date made or to reflect the occurrence of unanticipated events.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statements disclaimer with no new risk content."
+  },
+  {
+   "text": "We periodically review our portfolio to identify stores for disposal that no longer align with our strategic, geographic, or performance criteria.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes routine portfolio review practice, not a risk in itself."
+  },
+  {
+   "text": "This disciplined approach to dispositions allows us to optimize portfolio quality and redeploy capital into markets and assets that better support our long\u2011term growth objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic framing about capital redeployment, not a specific risk."
+  },
+  {
+   "text": "For example, in response to wildfires in 2018, 2019, and early 2025 and floods in 2023, the State of California and some localities in California adopted temporary regulations that imposed certain limits on the rents we could charge at certain of our facilities and the extent to which we could increase rents to existing tenants.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of regulatory rent restrictions tied to wildfires/floods with concrete historical examples."
+  },
+  {
+   "text": "Similar restrictions could be imposed in the future in response to significant events, and these restrictions could adversely impact our operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the newly introduced regulatory restriction risk to potential future events."
+  },
+  {
+   "text": "The risks described below are not the only risks facing us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that risks listed are not exhaustive."
+  },
+  {
+   "text": "Additionally, any integration of artificial intelligence in our or any third party\u2019s operations, products or services is expected to pose new or unknown cybersecurity risks and challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific cybersecurity risk tied to AI integration."
+  },
+  {
+   "text": "Furthermore, remote and hybrid working arrangements at our company (and at many third-party providers) also increase cybersecurity risks due to the challenges associated with managing remote computing assets and security vulnerabilities that are present in many non-corporate and home networks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk from remote/hybrid work increasing cybersecurity vulnerabilities."
+  },
+  {
+   "text": "The use of, or inability to take advantage of the benefits of, artificial intelligence by us presents risks and challenges that may adversely impact our business and operating results or may adversely impact the demand for storage with the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk category around AI use and its potential adverse impact on business and demand."
+  },
+  {
+   "text": "We have begun and may continue to use artificial intelligence and machine learning (collectively, \u201cAI\u201d) tools in our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about beginning to use AI tools, background rather than risk."
+  },
+  {
+   "text": "We use AI in assessing marketing decisions and operating our stores.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes specific AI use case factually without stating a risk."
+  },
+  {
+   "text": "However, there can be no assurance that we will realize the desired or anticipated benefits, or any benefits, and we may fail to properly implement such technology.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on AI risk by noting uncertainty of realizing benefits and implementation failure."
+  },
+  {
+   "text": "While AI tools may facilitate optimization and operational efficiencies, they also have the potential for inaccuracy, bias, infringement or misappropriation of intellectual property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential negative outcomes (bias, IP infringement) of AI use within the new AI risk theme."
+  },
+  {
+   "text": "The use of AI tools may introduce errors or inadequacies that are not easily detectable, including deficiencies, inaccuracies, or biases in the data used for AI training, or in the content, analyses, or recommendations generated by AI applications.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on errors and data bias risks tied to the AI risk already introduced."
+  },
+  {
+   "text": "Additionally, if our peers use AI tools to optimize operations and we fail to utilize AI tools in a comparable manner, we may be competitively disadvantaged.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends AI risk to competitive disadvantage scenario."
+  },
+  {
+   "text": "New laws and regulations are being adopted, and existing laws and regulations may be interpreted, in ways that could affect our business operations and the way in which we use AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds regulatory uncertainty dimension to the AI risk already established."
+  },
+  {
+   "text": "Our ongoing efforts to comply with privacy and data protection laws, as well as initiatives to comply with new legal regulations relating to privacy, data protection and AI, impose significant costs and challenges that are likely to increase over time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on compliance cost risk related to AI and privacy laws."
+  },
+  {
+   "text": "Additionally, this complex and rapidly evolving landscape around AI may expose us to claims, inquiries, demands and proceedings by private parties and global regulatory authorities and subject us to legal liability as well as reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates legal and reputational exposure from AI regulatory landscape."
+  },
+  {
+   "text": "Uncertainty around the safety and security of new and emerging AI applications may require additional investment in the development of proprietary datasets, machine learning models and systems to test for security, accuracy, bias and other variables, which are often complex, may be costly and could impact our operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details additional investment needs due to AI safety/security uncertainty, extending the AI risk."
+  },
+  {
+   "text": "Cybersecurity threat actors may also utilize AI tools to automate and enhance cybersecurity attacks against us and could lead to data breaches, loss of confidential or sensitive information, and financial or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mechanism (AI-enhanced attacks) to the previously introduced cybersecurity risk."
+  },
+  {
+   "text": "These outcomes could impair our ability to compete effectively, damage our reputation, result in the loss of valuable property or information and adversely affect our business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes cumulative adverse effects of the AI/cybersecurity risks already described."
+  },
+  {
+   "text": "Dividends payable by REITs may be taxed at higher rates than dividends of non-REIT corporations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new tax-related risk about REIT dividend taxation rates."
+  },
+  {
+   "text": "A downgrade in our credit ratings could materially adversely affect our business and financial condition and the market value of our outstanding notes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk regarding credit rating downgrades affecting business and note values."
+  }
+ ]
+}

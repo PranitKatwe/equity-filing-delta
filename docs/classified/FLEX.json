@@ -1,0 +1,218 @@
+{
+ "ticker": "FLEX",
+ "sector": "Information Technology",
+ "filing_date": "2026-05-20",
+ "accession": "0000866374-26-000012",
+ "prior_accession": "0000866374-25-000027",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 37,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 27,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "References to past events are provided by way of example only.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about examples, no risk content."
+  },
+  {
+   "text": "You should read this summary together with the more detailed description of each risk factor contained below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic instruction to read summary, no substantive risk content."
+  },
+  {
+   "text": "Business and Operational Risks Customer order cancellations, production changes, and demand variability could adversely affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading and generic topic sentence introducing subsection, not itself a specific new risk detail."
+  },
+  {
+   "text": "In addition, certain of our customer contracts contain provisions that permit the customer to terminate the agreement for convenience upon prior written notice, which notice periods may be relatively short.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific contractual risk of customer termination-for-convenience clauses with short notice."
+  },
+  {
+   "text": "If a customer exercises such termination rights, we may not be entitled to receive payment for work in process, stranded inventory, or other costs incurred in anticipation of future orders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on financial consequences of the termination risk just introduced."
+  },
+  {
+   "text": "We may not have adequate contractual protections, such as termination fees or wind-down payments, to offset the financial impact of an early termination by a significant customer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on lack of protections tied to the termination risk."
+  },
+  {
+   "text": "Customer concentration is particularly pronounced in our Cloud and Power Infrastructure businesses, where a limited number of hyperscale cloud providers, colocation companies, and large enterprise data center operators represent a substantial portion of demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new concentration risk tied to hyperscale/cloud customers in named business segments."
+  },
+  {
+   "text": "Hyperscale customers typically have substantial purchasing power and negotiating leverage, which they may use to obtain favorable pricing, extended payment terms, volume flexibility, or other concessions that could reduce our margins or adversely affect our cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the negotiating leverage aspect of the hyperscale concentration risk just introduced."
+  },
+  {
+   "text": "As these customers grow larger through consolidation or organic growth, their bargaining power may increase further.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the concentration/bargaining power risk to future consolidation trends."
+  },
+  {
+   "text": "In addition, certain hyperscale customers have developed, or may develop, internal design, engineering, or manufacturing capabilities that compete with our offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces distinct risk of customers developing competing in-house capabilities (insourcing threat)."
+  },
+  {
+   "text": "These customers may choose to reduce their reliance on third-party providers like us over time, which could result in reduced order volumes, loss of programs, or increased pricing pressure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequences of the insourcing risk just introduced."
+  },
+  {
+   "text": "Investments in our Cloud and Power Infrastructure businesses may adversely affect our margins, and demand for these offerings is subject to factors outside our control.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding margin impact from investments in Cloud/Power Infrastructure businesses."
+  },
+  {
+   "text": "In particular, demand for our cloud and power infrastructure solutions serving data center applications is significantly influenced by continued investment in AI, machine learning, and high-performance computing infrastructure by our customers, particularly hyperscale cloud providers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on demand drivers tied to the investment risk just introduced."
+  },
+  {
+   "text": "Capital expenditure cycles among hyperscale cloud providers and other data center operators can be volatile and are influenced by factors outside our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on volatility of capex cycles affecting the demand risk."
+  },
+  {
+   "text": "While overall market trends toward increased demand for compute capacity and power infrastructure driven by AI and cloud applications have supported recent growth, there can be no assurance that such trends will continue at current rates, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of uncertainty in AI/cloud demand trends."
+  },
+  {
+   "text": "Any reduction in the rate of AI adoption, shifts in customer investment priorities, or technological developments that reduce demand for high-density computing infrastructure would adversely affect demand for our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies potential negative scenarios affecting the previously introduced demand risk."
+  },
+  {
+   "text": "Demand for our cloud and power infrastructure solutions also depends on our customers and third-party data center operators securing sufficient and reliable electrical power and water at acceptable costs and within required timelines.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk tied to power and water availability for data centers."
+  },
+  {
+   "text": "The development and expansion of data center capacity is power-intensive and requires significant water resources for cooling, and both power and water availability have become critical factors in determining deployment speed and location for our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the power/water intensity aspect of the risk just introduced."
+  },
+  {
+   "text": "Limitations on power generation, transmission, and distribution capacity, utility interconnection lead times, planned and unplanned outages, curtailments, and volatility in energy markets can delay the energization of customer facilities, restrict available capacity, increase operating costs, and materially affect project economics and our customers\u2019 ability to deploy our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on power infrastructure limitations affecting the same risk."
+  },
+  {
+   "text": "Similarly, water scarcity, drought conditions, competing demands for water resources, and regulatory restrictions on water use may constrain data center cooling capacity, limit site selection, increase operating costs, or delay project timelines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the same risk narrative to water scarcity specifics."
+  },
+  {
+   "text": "In several markets, regulators and local authorities have imposed or are considering restrictions on data center power and water consumption, requirements for operators to fund grid upgrades, and other conditions that may delay or increase the cost of power and water procurement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds regulatory dimension to the same power/water risk."
+  },
+  {
+   "text": "Public utility capacity constraints, broader grid reliability events, and inflationary or geopolitical pressures on energy prices may further increase volatility and uncertainty for our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds additional contributing factors (grid, geopolitical) to same risk."
+  },
+  {
+   "text": "If customers or third-party operators are unable to secure timely and cost-effective power or water, or if permitting and approval processes for power or water infrastructure are delayed or restricted, we could experience project delays, missed milestones, service-level exposure under our contracts, reduced margins, and lost or deferred revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes consequences of the power/water risk already detailed."
+  },
+  {
+   "text": "In addition, misalignment between contracted program volumes and actual customer deployment, whether from program delays, changes in deployment plans, or infrastructure readiness issues, can result in underutilized capacity, excess inventory, increased working capital needs, and significant period-to-period variability in our results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces distinct risk of volume/deployment misalignment causing inventory and capacity issues."
+  },
+  {
+   "text": "These power and water availability and infrastructure readiness risks are largely outside our control, and any sustained constraints on our customers\u2019 ability to develop or expand data center capacity could materially and adversely affect our business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Concluding summary of the power/water infrastructure risk already described."
+  },
+  {
+   "text": "Furthermore, as rack power densities increase and liquid or hybrid cooling becomes more prevalent, many existing data center facilities require retrofits to power distribution, structural supports, and fluid handling infrastructure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about need for facility retrofits due to increasing power density and cooling needs."
+  },
+  {
+   "text": "Where customers or third-party operators manage these retrofits, we have limited control over their timing, execution, and quality.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details lack of control over retrofit execution, extending the retrofit risk."
+  },
+  {
+   "text": "In addition, capital market conditions may indirectly affect our Cloud and Power Infrastructure businesses by constraining our customers\u2019 ability to fund infrastructure investments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk pathway: capital market conditions affecting customers' infrastructure funding."
+  },
+  {
+   "text": "The development and expansion of data center capacity, including site acquisition, power procurement, and infrastructure buildouts, are capital intensive and often depend on our customers\u2019 access to debt and equity markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on capital intensity underlying the capital market risk just introduced."
+  },
+  {
+   "text": "Higher interest rates, tighter credit conditions, reduced investor appetite for digital infrastructure investment, or broader concerns regarding economic conditions and financial market volatility may lead our data center customers to delay, scale back, or reprioritize projects, renegotiate commercial terms, or reduce order volumes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific macro conditions (rates, credit) affecting the capital market risk."
+  },
+  {
+   "text": "Any sustained reduction in customer capital spending on data center infrastructure could reduce our order flow, slow program ramps, and adversely affect our business, results of operations, and growth prospects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes business impact of reduced customer capital spending, extending prior point."
+  },
+  {
+   "text": "We may incur significant losses if customer-specific capital equipment becomes impaired or obsolete.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of losses from impairment/obsolescence of customer-specific capital equipment."
+  },
+  {
+   "text": "We make investments in capital equipment that is designed for or dedicated to specific customers, products, or programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides background detail supporting the capital equipment impairment risk."
+  },
+  {
+   "text": "These investments are often based on forecasts of customer demand and anticipated long-term relationships.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on basis of equipment investment decisions."
+  },
+  {
+   "text": "In certain cases, such equipment has limited alternative use and may not be readily redeployable to other customers or applications without significant modification or additional cost.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details redeployment limitations tied to the equipment risk."
+  },
+  {
+   "text": "If a customer reduces, delays, or terminates its orders, exits a product line, experiences financial distress, or otherwise ceases to do business with us, we may be unable to recover the carrying value of the related equipment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes specific loss scenario for the equipment impairment risk."
+  },
+  {
+   "text": "14 Table of Contents In addition, the timing and magnitude of customer demand may differ from our expectations, leading to underutilization of such equipment and reduced returns on our investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds underutilization scenario extending the same equipment risk."
+  },
+  {
+   "text": "While we may seek contractual protections, including customer commitments or reimbursement provisions, such protections may be insufficient or may not be enforceable in all cases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes insufficiency of contractual protections, extending the equipment risk discussion."
+  },
+  {
+   "text": "Certain components that we use are sourced from a limited number of suppliers, and in some cases from a single supplier, which increases the risk that regulatory actions, geopolitical developments, trade restrictions or other events affecting those suppliers could disrupt our supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new supply chain risk regarding reliance on limited or single suppliers."
+  },
+  {
+   "text": "In addition, certain of our customers direct or require us to purchase components, materials, or subsystems from specified suppliers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the supplier concentration risk to customer-directed sourcing requirements."
+  }
+ ]
+}

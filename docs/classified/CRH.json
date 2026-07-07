@@ -1,0 +1,28 @@
+{
+ "ticker": "CRH",
+ "sector": "Materials",
+ "filing_date": "2026-02-18",
+ "accession": "0001628280-26-009043",
+ "prior_accession": "0001628280-25-008179",
+ "model": "claude-sonnet-5",
+ "n_added": 2,
+ "n_substantive": 0,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "The following risks are considered material to our business based upon current knowledge, information, and assumptions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is generic cautionary framing language about risk factors being based on current knowledge and assumptions, a standard disclaimer common in risk factor sections without introducing any specific new risk."
+  },
+  {
+   "text": "See \u201cNon-GAAP Reconciliation and Supplementary Information\u201d on pages 35 to 38 for a reconciliation to the most directly comparable GAAP measure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This sentence merely points readers to a page reference for a non-GAAP reconciliation table, which is administrative/navigational text rather than a substantive risk disclosure."
+  }
+ ]
+}

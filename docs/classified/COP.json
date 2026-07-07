@@ -1,0 +1,63 @@
+{
+ "ticker": "COP",
+ "sector": "Energy",
+ "filing_date": "2026-02-17",
+ "accession": "0001163165-26-000009",
+ "prior_accession": "0001163165-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "We continue to evaluate low carbon opportunities for potential future investment in support of our operational emission reduction targets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evaluating low carbon opportunities; not a risk disclosure."
+  },
+  {
+   "text": "Additionally, legislation has been introduced in certain U.S. states that would provide Attorneys General, insurers and individuals a right to recover against certain energy companies for alleged climate change impacts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legislative risk allowing legal claims against energy companies for climate impacts."
+  },
+  {
+   "text": "Should such legislation become law, we may be exposed to additional, significant liabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Directly quantifies the liability exposure introduced by the new legislation risk, part of the same newly introduced risk."
+  },
+  {
+   "text": "However, in 2025 the EPA moved to dismantle some climate-related regulations (e.g. delaying compliance deadlines for methane standards and proposing to eliminate most obligations under the Greenhouse Gas Reporting Program).",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new regulatory development (EPA rollback of methane/reporting rules) creating new compliance uncertainty."
+  },
+  {
+   "text": "These policy swings create additional uncertainty for companies who need to plan for operations that will endure through administrations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about uncertainty from policy swings, not a specific new risk."
+  },
+  {
+   "text": "These regulatory changes may also complicate our ability to access non-operated or joint venture emissions data to complete our inventory of emissions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how regulatory changes could impair emissions data access, expanding on the previously introduced regulatory risk."
+  },
+  {
+   "text": "Additionally, international climate initiatives, such as the United Nations Conference of the Parties summits, continue to shape the global response to climate change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General background statement about international climate summits shaping global response, not a specific risk."
+  },
+  {
+   "text": "These summits can lead to commitments from numerous countries to meet the objectives of agreements like the Paris Agreement, through adopting country level regulation to reduce greenhouse gas emissions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic explanatory statement about outcomes of climate summits, lacks specific business risk."
+  },
+  {
+   "text": "In 2025, a putative class action was filed against oil and gas companies, including ConocoPhillips, seeking to hold energy companies liable for increased home insurance premiums allegedly due to climate change losses.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new lawsuit filed against the company alleging climate-related liability, a concrete new legal risk."
+  }
+ ]
+}

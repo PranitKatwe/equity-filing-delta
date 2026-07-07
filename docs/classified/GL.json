@@ -1,0 +1,58 @@
+{
+ "ticker": "GL",
+ "sector": "Financials",
+ "filing_date": "2026-02-25",
+ "accession": "0000320335-26-000090",
+ "prior_accession": "0000320335-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Our investment portfolio contains certain alternative investments that may be illiquid and volatile, which could negatively affect our investment income and liquidity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk concerning illiquidity and volatility of alternative investments affecting income and liquidity, not previously highlighted."
+  },
+  {
+   "text": "Over the past several years, we have increased our investment in alternative investments, such as limited partnerships.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual context about increased exposure to alternative investments, supporting and expanding the newly introduced risk rather than introducing a separate one."
+  },
+  {
+   "text": "These and other similar investments may have different, more significant risk characteristics than investments in fixed maturity securities, may be more volatile and may be illiquid due to restrictions on sales, transfers and redemption terms, all of which could negatively affect our investment income and overall portfolio liquidity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the specific risk characteristics (illiquidity, volatility) of these investments, expanding the detail of the risk already introduced."
+  },
+  {
+   "text": "9 GL 2025 FORM 10-K Table of Contents These alternative investments may not meet regulatory admissibility requirements or may result in increased regulatory capital charges to the insurance subsidiaries that hold these investments, which could limit those subsidiaries\u2019 ability to pay dividends and negatively impact our liquidity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory consequence\u2014admissibility issues and increased capital charges\u2014that could limit subsidiary dividends and liquidity, a distinct new risk driver."
+  },
+  {
+   "text": "Under an intercompany reinsurance agreement initiated in 2025, we have ceded approximately $1.2 billion of our life statutory reserves from Liberty National Life Insurance Company, Globe Life And Accident Insurance Company, and American Income Life Insurance Company to GL Re, as of December 31, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new intercompany reinsurance transaction ceding $1.2 billion in reserves, introducing a concrete new business arrangement risk."
+  },
+  {
+   "text": "Future regulatory changes made by the BMA or other events may impact the capital efficiency of the reinsurance structure and could require the holding company to contribute additional capital to GL Re or our U.S. insurance subsidiaries to recapture ceded business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly disclosed reinsurance arrangement by describing potential regulatory impacts and capital contribution requirements, expanding that risk rather than introducing a wholly separate one."
+  },
+  {
+   "text": "See Note 5\u2014Commitments and Contingencies f or a discussion of such litigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to a financial statement note about litigation, not a substantive risk statement."
+  },
+  {
+   "text": "Refer to Note 1\u2014Significant Accounting Policie s under the caption Accounting Pronouncements Yet to be Adopted .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to accounting policy note, purely administrative and not a risk disclosure."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "BBY",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-18",
+ "accession": "0000764478-26-000009",
+ "prior_accession": "0000764478-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 35,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 22,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Any decrease in consumer demand due to macroeconomic conditions may negatively impact our financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about macroeconomic demand impact, standard cautionary language without specific new detail."
+  },
+  {
+   "text": "Consequently, our financial results are highly sensitive to changes in trade policies, tariffs and cross-border logistics.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific sensitivity to trade policies, tariffs and cross-border logistics as a new named risk driver."
+  },
+  {
+   "text": "The scope, timing, and implementation of these policies remains uncertain and may result in new or modified tariff regimes, additional regulatory requirements, or further trade friction with U.S. trading partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the uncertainty of tariff policy scope and implementation introduced in the prior sentence."
+  },
+  {
+   "text": "The uncertainty caused by ongoing tariff volatility creates challenges for planning inventory, pricing and supply chain strategies, which could continue to impact our cost structure, supply chain stability and overall financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the operational impacts (inventory, pricing, supply chain) of the tariff risk already introduced."
+  },
+  {
+   "text": "Additionally, conflict in the Middle East, and the resulting disruption of transit through the Persian Gulf and the Strait of Hormuz, continues to disrupt global supply chain flows and impact fuel prices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new geopolitical risk (Middle East conflict, Strait of Hormuz) affecting supply chain and fuel prices."
+  },
+  {
+   "text": "Furthermore, these conflicts or other international policies and efforts may impact, or continue to impact, our critical international trade routes, such as the Panama Canal, the Red Sea and the Suez Canal.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the geopolitical/trade route disruption risk to additional specific routes."
+  },
+  {
+   "text": "Geopolitical tensions may provoke further retaliatory actions by our trading partners that may increase costs, disrupt our supply chain and/or impact our business operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the geopolitical tensions/trade risk theme with potential retaliatory actions."
+  },
+  {
+   "text": "China maintains significant control over the majority of rare earth elements, which are essential elements in many electronic devices.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new supply chain vulnerability tied to China's control of rare earth elements."
+  },
+  {
+   "text": "Should China reinstate its export ban on rare earth elements or take other actions that restrict U.S. supply of these minerals, it would impact both the consumer electronics we sell and our business\u2019s underlying technological infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the potential consequences of the rare earth element risk already introduced."
+  },
+  {
+   "text": "Catastrophic events could adversely affect our operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that catastrophic events could affect results, standard cautionary framing."
+  },
+  {
+   "text": "Catastrophic events, including those driven or intensified by climate change, pose a growing risk to our operating results and financial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds climate change linkage to the existing catastrophic events risk, expanding scope."
+  },
+  {
+   "text": "The frequency and severity of natural disasters or extreme weather events (such as storms, blizzards, extreme temperatures, earthquakes, hurricanes, floods, fires and droughts) are increasing in many of our key markets, particularly in our three largest states by total sales (California, Texas and Florida).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific geographic detail (CA, TX, FL) expanding the catastrophic events risk."
+  },
+  {
+   "text": "We may experience other catastrophic events beyond natural disasters, including pandemics, civil unrest, power loss, telecommunications failures, software and hardware malfunctions, terrorism (including related cyber threats) and other acts of violence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens the catastrophic events risk to include additional event types like pandemics and cyber threats."
+  },
+  {
+   "text": "Additionally, the locations where we do business could continue to be the subject of unrest and national attention, which impacts our ability to operate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about civil unrest impacting operational ability, extending existing catastrophic event risk."
+  },
+  {
+   "text": "The adverse effects of these events may be amplified should multiple events occur simultaneously, such as a natural disaster during a pandemic.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about compounding effects of simultaneous catastrophic events."
+  },
+  {
+   "text": "Such events may prevent our workforce and/or customers from reaching our stores and properties, disrupt segments of our supply chain and distribution network or impact critical third-party services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details operational impacts of catastrophic events on workforce/customer access."
+  },
+  {
+   "text": "Catastrophic events could result in significant physical damage to, or closure of, our facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement about physical damage/closure, typical risk factor language."
+  },
+  {
+   "text": "They may also necessitate preventative investments in our facilities and infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about need for preventative infrastructure investment tied to catastrophic events."
+  },
+  {
+   "text": "Moreover, insufficient infrastructure investment may increase the risk that large-scale disruptive events could impact our critical infrastructure, potentially having a material adverse impact on our operations and financial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on infrastructure investment risk linked to catastrophic events."
+  },
+  {
+   "text": "Shoppers are increasingly price-conscious when making discretionary purchases.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific consumer behavior risk regarding price sensitivity."
+  },
+  {
+   "text": "At the same time, online and multi-channel retailers are prioritizing fast, low-cost delivery options, including curbside pickup and guaranteed shipping times.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details competitive delivery pressures, expanding existing competitive risk."
+  },
+  {
+   "text": "Failure to manage these factors effectively while offering competitive delivery options could negatively impact our profit margins and the demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects delivery competition failure to margin and demand impact, elaborating existing risk."
+  },
+  {
+   "text": "Our ability to remain competitive also depends on effectively maintaining and growing our customer base and accurately forecasting their spending levels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about maintaining competitiveness and customer base, generic framing."
+  },
+  {
+   "text": "An inability to drive traffic to physical and digital channels or to maintain brand relevance with target audiences could pose both an operational and financial risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specifics about traffic and brand relevance risk, expanding competitive risk."
+  },
+  {
+   "text": "Additionally, failure to consistently meet customer expectations across stores, in-home services and online platforms could negatively impact our financial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details customer expectation failures across channels, expanding existing risk."
+  },
+  {
+   "text": "Inability to quickly adapt to changes in customer behavior (e.g., AI-driven search, AI shopping bots) could have an adverse impact our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific technology-driven risk regarding AI search and shopping bots."
+  },
+  {
+   "text": "Competition is becoming increasingly diverse, including through the expansion of retail media networks, such as our retail media network, Best Buy Ads, which competes for brand marketing spend and advertiser attention.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk from retail media networks, a specific new business area."
+  },
+  {
+   "text": "Additionally, as our Best Buy Marketplace platform expands, where third-party sellers can sell products on our platform, we face the added challenge of competing not only with external sellers but also with third-party sellers on our own platform.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of competing with third-party sellers on Best Buy's own marketplace."
+  },
+  {
+   "text": "In addition, prolonged external stressors (e.g., from violence, political unrest or customer behavior) may affect the mental wellbeing of employees and lead to fatigue, reduced engagement and/or attrition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific human capital risk regarding employee mental wellbeing from external stressors."
+  },
+  {
+   "text": "In addition, significant turnover of our executive team or other employees in key positions with specific knowledge relating to our operations and industry may negatively impact our operations and financial results and potentially have cascading effects on our employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing employee turnover risk to include cascading effects on other employees."
+  },
+  {
+   "text": "12 Table of Contents Our reliance on key vendors and mobile network carriers subjects us to various risks and uncertainties which could affect our revenue and profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific dependency risk on key vendors and mobile network carriers."
+  },
+  {
+   "text": "Globally, the cost and availability of memory components have been, and may continue to be, affected by industry-wide supply constraints.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new supply chain risk regarding memory component shortages."
+  },
+  {
+   "text": "While we work with vendors to adjust product and pricing strategies, these actions may not fully offset higher costs and inventory constraints, which may impact our margins and financial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how vendor pricing strategies may not offset cost pressures, expanding existing supply/cost risk."
+  },
+  {
+   "text": "As we grow certain areas of the business (including Best Buy Marketplace, where there is a risk that third-party sellers, products, partners and services may fail to meet customer expectations), our reputation may be negatively affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects Marketplace expansion to reputation risk, expanding on earlier third-party seller risk."
+  },
+  {
+   "text": "Further, these risks, along with others, may be compounded by a polarized political climate and social activism directed at companies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific socio-political risk factor (polarized climate, social activism) compounding other risks."
+  },
+  {
+   "text": "If our new or emerging strategies are unsuccessful, our reputation could be negatively impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about new strategies potentially harming reputation, lacks specific detail."
+  },
+  {
+   "text": "For example, we recorded impairment charges related to our decision to exit a component of our Best Buy Health business in fiscal 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financial event\u2014impairment charges from exiting part of Best Buy Health."
+  },
+  {
+   "text": "Failure to effectively manage our infrastructure, real estate portfolio and market segmentation strategy may negatively impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing operational risk to include real estate portfolio and market segmentation strategy."
+  },
+  {
+   "text": "A rising dependency on critical partners (e.g., software as a service (\u201cSaaS\u201d), advertising, shipping) may lead to limited leverage to manage cost escalation or contractual terms and could negatively impact our operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific dependency risk on critical third-party partners like SaaS and shipping providers."
+  },
+  {
+   "text": "15 Table of Contents Our ability to find qualified vendors who can supply products that meet our internal standards of quality and safety in a timely and efficient manner can be difficult, especially with respect to goods sourced from outside the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing vendor risk with specific quality/safety standard challenges for foreign sourcing."
+  }
+ ]
+}

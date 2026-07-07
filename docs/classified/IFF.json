@@ -1,0 +1,218 @@
+{
+ "ticker": "IFF",
+ "sector": "Materials",
+ "filing_date": "2026-02-27",
+ "accession": "0000051253-26-000006",
+ "prior_accession": "0000051253-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "Demand for such consumer products depends on consumer preferences that are driven by a variety of factors, such as the increasing use of weight management pharmaceutical products, increasing health and wellness awareness, greater transparency in product labeling, and changes in global, regional or local economic conditions (such as inflation, unemployment, salaries and wage rates stagnation, low growth rates, and impacts of supply disruptions, climate events, or geopolitical developments).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new demand driver \u2014 increasing use of weight management pharmaceutical products (e.g., GLP-1 drugs) \u2014 that materially affects consumer preferences and thus demand for the company's products, a specific new risk not previously mentioned."
+  },
+  {
+   "text": "At the same time, increased regulatory requirements, statements or questions around certain of our products, may result in changes in customer orders or delays in developing, manufacturing or marketing of new or existing products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about regulatory scrutiny or statements about products causing changes in customer orders, expanding on general regulatory risk."
+  },
+  {
+   "text": "Moreover, given that the timing or volumes in our customers\u2019 orders are generally at our customers\u2019 discretion, customers may cancel, reduce or postpone orders with us on relatively short notice.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that customers can cancel or delay orders at their discretion, standard commercial risk language."
+  },
+  {
+   "text": "11 Table of Contents We face intense global competition from multinational and specialized companies across our product offerings, as well as consumer product companies developing their own alternatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive landscape statement without new specifics."
+  },
+  {
+   "text": "Competitors may have greater resources, proprietary technologies, or benefit from recent industry consolidation, enabling them to respond more effectively to customer or market demands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about competitors having greater resources or benefiting from consolidation, standard competitive risk framing."
+  },
+  {
+   "text": "Failure to invest in growth, scale new concepts, or adapt to technological advancements could erode our competitive position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk about failing to invest or adapt, standard competitive positioning language."
+  },
+  {
+   "text": "Increased competition, including aggressive pricing, may lead to lost sales, margin pressure, and reduced profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive pricing pressure affecting margins, standard risk language."
+  },
+  {
+   "text": "We may not be in a position to allocate the appropriate level of investment in research and development efforts, due to other macroeconomic pressures, and such investments may not yield expected returns due to poor execution or delays by our customers in launching relevant products, changing consumer trends, or disruptive competitor innovations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about R&D investment risk tied to macroeconomic pressures and customer execution delays, expanding existing competitive/innovation risk."
+  },
+  {
+   "text": "Additionally, a significant portion of our sales comes from a relatively small number of large multinational customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "States concentration of sales among large multinational customers, expanding on customer dependency risk."
+  },
+  {
+   "text": "Beyond large multinational customers, our customer base continues to be diverse.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about customer base diversity without specific new risk."
+  },
+  {
+   "text": "This diversity requires ongoing adjustments to product development, manufacturing, distribution, marketing, and infrastructure to support varied go-to-market models.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about needing operational adjustments for diverse customers."
+  },
+  {
+   "text": "Managing a geographically and operationally diverse portfolio adds complexity, and failure to maintain relationships or gain market share with these customers could adversely affect our growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about complexity of managing diverse customer portfolio, standard risk language."
+  },
+  {
+   "text": "Successfully completing such transactions depends on factors beyond our control, such as industry and macroeconomic conditions, third party interest and financing, underlying asset performance, regulatory approvals, and entanglements with the rest of our businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factors affecting transaction completion (financing, regulatory approvals, entanglements), expanding on M&A-related risk."
+  },
+  {
+   "text": "Moreover, such transactions are complex, costly, and time-consuming, and may divert management\u2019s and employees\u2019 attention, lead to significant stranded and separation costs, and dis-synergies, risk of assuming liabilities, failure to meet business case objectives for such transactions, as well as employee turnover, and negative impacts on customer and supplier relationships.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more detailed list of costs and risks from complex transactions (stranded costs, dis-synergies, employee turnover), expanding existing M&A risk."
+  },
+  {
+   "text": "At the same time, we also continue to pursue collaborations, joint ventures, partnerships, acquisitions to enhance innovation, expand our product portfolio, and support growth, but these transactions also involve significant risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes pursuit of collaborations and joint ventures as part of growth strategy, an expansion of existing business development risk."
+  },
+  {
+   "text": "Negotiating and implementing such arrangements is similarly complex and time-consuming, and we may fail to close deals, agree on favorable terms, or avoid post-closing disputes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complexity of negotiating deals, standard risk language."
+  },
+  {
+   "text": "Revenue from collaborations depends on our partners\u2019 performance, and these arrangements may not lead to timely or successful product development or commercialization.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific dependency risk on partners' performance for collaboration revenue, a new specific business risk not previously described."
+  },
+  {
+   "text": "Acquisitions present additional risks, including integration challenges, failure to achieve anticipated synergies, cost savings, or revenue growth, and exposure to incremental liabilities or contractual obligations to minority investors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on acquisition risk by adding specific liabilities like minority investor obligations and failure to achieve synergies."
+  },
+  {
+   "text": "We may also incur impairment charges if acquired businesses underperform.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific risk of impairment charges from underperforming acquisitions, expanding on M&A risk."
+  },
+  {
+   "text": "Failure to enter into such transactions or complete them on time, manage costs, or negotiate favorable terms could increase expenses, hinder our portfolio strategy, and negatively affect our financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about failing to complete transactions timely or on favorable terms, standard business risk language."
+  },
+  {
+   "text": "Even when successful, expected benefits may not be realized or may take longer than anticipated, and failure to meet these challenges could materially impact our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about benefits not being realized as expected."
+  },
+  {
+   "text": "We manage inventory based on shelf life, sourcing levels, and anticipated demand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about inventory management practices, not a specific new risk."
+  },
+  {
+   "text": "Effective inventory control is critical to meeting customer needs without incurring excess storage costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about importance of inventory control, standard operational language."
+  },
+  {
+   "text": "If we fail to accurately forecast customer demand, it may lead 12 Table of Contents to excess or obsolete inventory, requiring markdowns or disposal charges that negatively impact our financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequence of forecasting failure (markdowns, disposal charges), expanding on inventory risk."
+  },
+  {
+   "text": "Similarly, our failure to maintain proper control over collection of receivables and payment of payables could similarly impact our cash flows and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding failure to control receivables and payables impacting cash flow, not previously covered."
+  },
+  {
+   "text": "For instance, product liability claims may arise from supplying ingredients to food, beverage, and personal care industries, while the operation of our facilities may expose us to environmental and personal injury claims, regulatory actions, and fines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies product liability and environmental/personal injury claim sources tied to particular industries and facility operations, expanding general liability risk."
+  },
+  {
+   "text": "Additional suits and investigations may follow, and outcomes are uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about additional suits and investigations with uncertain outcomes, generic legal risk language."
+  },
+  {
+   "text": "Enforcement actions could result in regulators imposing significant fines, penalties, or business restrictions, adversely affecting results of operations, liquidity, or financial condition, and overall business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences of enforcement actions (fines, penalties, restrictions), expanding regulatory risk."
+  },
+  {
+   "text": "We operate in a complex global environment and we are exposed, directly or indirectly through our suppliers, to risks, inherent in global development, manufacturing, distribution or sale of goods, including agricultural products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about operating in a complex global environment with indirect supplier risk exposure, standard risk framing."
+  },
+  {
+   "text": "These include trade wars (including tariffs and duties), sanctions, geopolitical developments, supply chain disruptions, environmental events, natural disasters and public health crises, terrorism, industrial accidents, labor disputes, political or economic crises, as well as other external factors over which neither our suppliers nor we have control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific categories of global risk (trade wars, sanctions, natural disasters) expanding on general global operational risk."
+  },
+  {
+   "text": "Our products depend on a wide range of raw materials sourced globally, such as essential or vegetable oils, botanical extracts, animal products, organic and petroleum-based chemicals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies particular raw materials sourced globally, adding detail to existing supply chain risk."
+  },
+  {
+   "text": "Tariffs and trade restrictions, sanctions, and geopolitical tensions (e.g., U.S.-China relations, Russia-Ukraine war, Middle East conflicts), as well as supply chain disruptions, along with energy price fluctuations, may further strain operations and margins.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific named geopolitical conflicts (U.S.-China relations, Russia-Ukraine war, Middle East conflicts) as new distinct risk factors affecting operations and margins."
+  },
+  {
+   "text": "Environmental and climate-related events, including severe weather, droughts, floods, and water scarcity, can also impact crop yields, transportation, and energy costs, increasing sourcing challenges or prices of input costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific climate-related impacts (crop yields, transportation, energy costs) expanding on general environmental risk."
+  },
+  {
+   "text": "Many of our manufacturing and research and development sites are highly specialized, and some are the sole location for producing certain products or uniquely situated to support our innovation efforts, respectively.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of sole-source manufacturing/R&D sites, a concentration risk not previously disclosed."
+  },
+  {
+   "text": "Disruptions affecting these sites, including due to the risks outlined above, could lead to costly delays, reformulations, or relocation expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of disruptions at specialized sites (delays, reformulations, relocation costs), expanding on facility risk."
+  },
+  {
+   "text": "While we maintain strategic stock levels of certain raw materials and seek alternative sources when needed, these measures may not fully mitigate risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about mitigation efforts (stock levels, alternative sources) not fully mitigating risk, standard risk qualifier."
+  },
+  {
+   "text": "Increases in input costs, including raw materials, transportation, and energy, have been exacerbated by recent inflationary and tariff pressures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific cause (inflation and tariffs) for increased input costs, expanding on cost risk."
+  },
+  {
+   "text": "Persistent cost volatility could lead 13 Table of Contents customers to seek alternative suppliers or reformulate products, resulting in long-term sales declines or loss of market share.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific long-term consequence of cost volatility (customers seeking alternative suppliers), expanding on cost/margin risk."
+  },
+  {
+   "text": "Additionally, inflationary or deflationary trends may affect the financial health of customers and suppliers, further impacting demand and supply.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how inflation/deflation affects customer and supplier financial health, expanding on macroeconomic risk."
+  },
+  {
+   "text": "We rely on information technology systems, including third-party providers, to support critical business processes such as product development, manufacturing, sales, distribution, financial reporting, regulatory compliance, and data storage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding reliance on IT systems and third-party providers for critical business functions, a new operational dependency risk."
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "ticker": "MET",
+ "sector": "Financials",
+ "filing_date": "2026-02-19",
+ "accession": "0001099219-26-000013",
+ "prior_accession": "0001099219-25-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 17,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "Market conditions resulting in reductions in the value of assets we manage or lower transaction volume may have an adverse effect on the revenues and profitability of our institutional asset management services, which depend on fees related primarily to the value of assets under management (\u201cAUM\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tying institutional asset management revenue/profitability directly to market-driven declines in AUM value and transaction volume, a distinct business exposure not previously described."
+  },
+  {
+   "text": "Sustained investment underperformance relative to benchmarks or competitors could result in an increase of client withdrawals of assets from investment products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific mechanism (performance-driven client withdrawals) that elaborates on the newly described AUM-dependent revenue risk."
+  },
+  {
+   "text": "Asset market stress may also adversely affect real estate strategies we manage under client mandates, reducing AUM and related fees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the asset management market risk to a specific asset class (real estate strategies), building on the broader AUM risk already described."
+  },
+  {
+   "text": "Strategies we manage for clients may face similar collateral and margin requirements, which can affect liquidity and performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about collateral and margin requirements affecting liquidity, further elaborating the asset management risk exposure."
+  },
+  {
+   "text": "Client portfolios of our institutional asset management business may also be impacted by liquidity issues under such conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on liquidity impacts to client portfolios within the same asset management risk theme."
+  },
+  {
+   "text": "Our decisions and priorities must balance multiple objectives simultaneously, and our practices may not change in the manner or time frame some stakeholders expect.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about balancing stakeholder expectations without identifying a specific business risk."
+  },
+  {
+   "text": "Standards, data sources, analytical tools and regulatory requirements related to sustainability practices continue to evolve, and the availability, quality, and comparability of data varies across our operations, supply chain, and investment activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic ESG disclaimer about evolving standards and data quality, common cautionary language rather than a specific new risk."
+  },
+  {
+   "text": "We also rely on data provided by third parties, which may be incomplete, inaccurate, delayed, or unavailable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on third-party data being potentially inaccurate, a standard cautionary disclosure."
+  },
+  {
+   "text": "As techniques, industry standards, and regulatory expectations continue to develop, our assessments, reporting, and targets may change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that assessments and targets may change as standards evolve, lacking specific risk detail."
+  },
+  {
+   "text": "Competition may also result in fee compression or a shift toward lower-fee passive products, which could reduce the profit margins of our institutional asset management business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk\u2014fee compression and shift to lower-fee passive products\u2014that could materially reduce profit margins."
+  },
+  {
+   "text": "We may fail to adopt new technologies as effectively or efficiently as others, leading to competitive harm, or we may fail to adjust our investments accordingly or suffer stranded assets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk of failing to adopt new technologies effectively, leading to competitive harm or stranded assets, a concrete new exposure."
+  },
+  {
+   "text": "Mistakes can subject us to claims from our customers, regulatory fines, or the obligation to reimburse clients for investment losses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequences (claims, fines, reimbursing clients for investment losses) to an existing operational risk theme."
+  },
+  {
+   "text": "The personnel and financial resources we commit to maintaining and upgrading our information systems may not be sufficient to address all potential issues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing IT/infrastructure risk by noting resource constraints may not address all issues."
+  },
+  {
+   "text": "For instance, costs associated with the use of legacy systems or efforts to address system degradation, including the development or onboarding of new systems, may increase over time, which may adversely affect our business results and operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about rising costs from legacy systems and new system onboarding, expanding an existing technology risk."
+  },
+  {
+   "text": "Moreover, we may be unable to attract or retain personnel with the appropriate skillset to maintain such legacy systems, and/or third-party providers may decrease or sunset support for legacy applications, which may affect our ability to identify, prevent, patch or otherwise respond to vulnerabilities associated with such systems or applications.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new vulnerability: inability to retain skilled personnel or loss of third-party support for legacy systems, impacting security response capability."
+  },
+  {
+   "text": "These factors may reduce our control over financial returns from, or the value of, a joint venture.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific consequence (reduced control over financial returns) to an existing joint venture risk."
+  },
+  {
+   "text": "Brighthouse may not succeed as a standalone entity or may enter into a transaction, including a sale, which could adversely affect separation-related arrangements or expose us to litigation, financial or regulatory risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk concerning Brighthouse's standalone viability or potential transactions, including litigation and regulatory exposure not previously mentioned."
+  }
+ ]
+}

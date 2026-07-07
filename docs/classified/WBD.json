@@ -1,0 +1,218 @@
+{
+ "ticker": "WBD",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-27",
+ "accession": "0001437107-26-000020",
+ "prior_accession": "0001437107-25-000031",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 37,
+ "counts": {
+  "new_substantive_risk": 28,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Risks Related to the PSKY Merger The completion of the PSKY Merger is subject to a number of conditions, many of which are largely outside the parties\u2019 control, and, if these conditions are not satisfied or waived, the PSKY Merger may not be completed within the expected timeframe or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new merger agreement (PSKY Merger) and the risk that closing conditions may not be satisfied, a wholly new specific transaction risk."
+  },
+  {
+   "text": "On February 27, 2026, WBD entered into the PSKY Merger Agreement, pursuant to which, at the effective time of the PSKY Merger, a wholly owned subsidiary of PSKY will merge with and into WBD, with WBD surviving as a wholly owned subsidiary of PSKY.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses the specific new merger structure and agreement date, a new material corporate event."
+  },
+  {
+   "text": "15 There can be no assurance that the conditions to completion of the PSKY Merger, including the receipt of required regulatory approvals, will be satisfied or waived on a timely basis or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk regarding regulatory approval uncertainty for the newly announced merger."
+  },
+  {
+   "text": "Further, there can be no assurance that governmental authorities will not impose conditions, terms, obligations or restrictions and that such conditions, terms, obligations or restrictions will not have the effect of delaying or preventing consummation of the PSKY Merger.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk about governmental authorities imposing conditions on the new merger."
+  },
+  {
+   "text": "If WBD is required to divest assets or businesses, there can be no assurance that we will be able to negotiate such divestitures expeditiously or on favorable terms or that the governmental authorities will approve the terms of such divestitures.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk about potential forced divestitures tied to the new merger."
+  },
+  {
+   "text": "In addition, we can provide no assurance that these conditions, terms, obligations or restrictions will not result in the abandonment of the PSKY Merger.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that regulatory conditions could cause abandonment of the new merger."
+  },
+  {
+   "text": "If the conditions to completion of the PSKY Merger are not satisfied or waived, we may be unable to complete the PSKY Merger in the timeframe or manner currently anticipated or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of failure to complete the merger due to unmet conditions."
+  },
+  {
+   "text": "Failure to complete the PSKY Merger could adversely affect our business, results of operations and financial condition, including in the event WBD is required to pay the Company Termination Fee and reimburse PSKY for certain payments.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk tied to termination fee payment obligations under the new merger agreement."
+  },
+  {
+   "text": "Either WBD or PSKY may terminate the PSKY Merger Agreement if the PSKY Merger has not been consummated by March 4, 2027, subject to an extension to June 4, 2027 specified in the PSKY Merger Agreement.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific termination date terms of the merger agreement."
+  },
+  {
+   "text": "Further, pursuant to the PSKY Merger Agreement, we are subject to certain restrictions on the conduct of our business prior to the closing of the PSKY Merger that restrict us from taking certain or omitting to take certain actions without PSKY\u2019s prior written consent (not to be unreasonably withheld, conditioned or delayed), which may adversely affect our ability to execute certain of our business strategies.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk describing operating restrictions imposed by the merger agreement prior to closing."
+  },
+  {
+   "text": "If the PSKY Merger is not completed, these risks could materially affect the business and financial results of WBD and the price of our common stock, including to the extent that the current market price of our common stock is positively affected by a market assumption that the PSKY Merger will be completed.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding stock price impact if the new merger fails to close."
+  },
+  {
+   "text": "In addition, if the PSKY Merger is terminated, in certain circumstances, we could be required to pay to PSKY a termination fee of $3.0 billion (the \u201cCompany Termination Fee\u201d) and reimburse PSKY for (i) any payment made by PSKY, which will in no event be more than $1,528 million, in connection with WBD\u2019s obligation to complete the Junior Lien Exchange Offer by December 30, 2026 and (ii) the Netflix Termination Fee (the \u201cPSKY Reimbursements\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new financial termination fee and reimbursement obligations tied to the new merger."
+  },
+  {
+   "text": "In such circumstances, we may be required to use available cash that would have otherwise been available for general corporate purposes or other uses, which may materially and adversely affect our business, results of operations and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk describing potential cash usage impact from merger-related termination obligations."
+  },
+  {
+   "text": "While the PSKY Merger is pending, we will be subject to business uncertainties and certain contractual restrictions that could adversely affect our business, results of operations and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of business uncertainty and contractual restrictions while merger is pending."
+  },
+  {
+   "text": "We have expended, and continue to expend, significant management time and resources in an effort to complete a strategic transaction, including the PSKY Merger, which may have a negative impact on our ongoing business and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk describing management distraction from pursuing the new strategic transaction."
+  },
+  {
+   "text": "Uncertainty regarding the outcome of the PSKY Merger and our future could disrupt our business relationships with our existing and potential customers, suppliers, distributors, advertisers, content providers, vendors and other business partners, who may attempt to negotiate changes to existing business relationships or consider entering into business relationships with parties other than us.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of business relationship disruption due to merger uncertainty."
+  },
+  {
+   "text": "Uncertainty regarding the outcome of the PSKY Merger and related transactions could also adversely affect our ability to recruit and retain key personnel and other employees.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding recruitment/retention impact from merger uncertainty."
+  },
+  {
+   "text": "In addition, due to certain restrictions in the PSKY Merger Agreement on the conduct of our business prior to completing the PSKY Merger, we may be unable (without PSKY\u2019s prior written consent, not to be unreasonably withheld, conditioned or delayed), during the pendency of the PSKY Merger, to pursue strategic transactions, undertake certain significant financing transactions and otherwise pursue other actions, even if such actions would prove beneficial, and such restrictions may cause WBD to forego certain opportunities we might otherwise pursue.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk describing restrictions on strategic and financing actions due to merger agreement."
+  },
+  {
+   "text": "Further, the PSKY Merger Agreement contains provisions, including the \u201cno shop\u201d provisions, the Company Termination Fee and the PSKY Reimbursements, that could discourage a potential competing acquiror of WBD from making a competing proposal more favorable to us than the PSKY Merger.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk describing deal protection provisions that could deter competing offers."
+  },
+  {
+   "text": "Further, litigation may be filed against the board of directors in connection with the PSKY Merger, including putative stockholder complaints or stockholder class action complaints.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of shareholder litigation arising from the new merger."
+  },
+  {
+   "text": "Such litigation, the outcome of which is uncertain, could divert the attention of WBD management and employees from its day-to-day business, otherwise adversely affect WBD\u2019s business, results of operations and financial condition, result in material adverse judgments or settlements and delay or prevent the completion of the PSKY Merger.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk describing potential adverse effects of merger-related litigation."
+  },
+  {
+   "text": "These increased competitive pressures have resulted in, and could continue to result in, increased costs, including with respect to talent and intellectual property rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing competitive pressure risk by adding specifics about increased costs for talent and IP."
+  },
+  {
+   "text": "The advertising market is also evolving and sensitive to general economic conditions, consumer buying patterns, advertising agency influences (such as how those advertising agencies manage their clients\u2019 marketing budgets and negotiate for our advertising inventory), and developments in AI technology.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing advertising market risk discussion to include AI-related developments."
+  },
+  {
+   "text": "The use of AI tools in advertising technology is also becoming more prevalent.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about AI tools in advertising technology to existing advertising risk discussion."
+  },
+  {
+   "text": "If our competitors are able to adopt the use of these tools more rapidly than us, potential advertisers may prefer to advertise with them, which could lead to declines in our advertising revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competition risk by specifying AI adoption as a competitive factor affecting ad revenue."
+  },
+  {
+   "text": "New distribution platforms, as well as increased competition from new entrants and emerging technologies and the availability of alternative forms of entertainment (including user-generated content), have added to the complexity of maintaining predictable revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competitive landscape risk with mention of new platforms and technologies."
+  },
+  {
+   "text": "Technology such as AI may be used in ways that increase access to publicly available free or relatively inexpensive content that could reduce demand for our content, products and streaming services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds AI-specific detail to existing risk about alternative content reducing demand."
+  },
+  {
+   "text": "Regulations governing new technological developments, such as AI, remain unsettled, and these developments could affect aspects of our business model, including revenue streams for the use of our intellectual property and how we create and distribute our content.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing regulatory uncertainty risk to specifically include AI technology."
+  },
+  {
+   "text": "In addition, to the extent our content is perceived as low quality, offensive or otherwise not compelling to viewers, our business could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about content quality affecting business, a common cautionary framing without new specifics."
+  },
+  {
+   "text": "Furthermore, to the extent our marketing, customer service and public relations efforts are not effective or result in negative reaction, the acceptance of our content could likewise be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about marketing/PR effectiveness, boilerplate cautionary language."
+  },
+  {
+   "text": "Risk Factors), subscription-based revenue also represents a significant portion of our revenue.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary sentence referencing subscription revenue, appears to be a reworded or relocated boilerplate statement."
+  },
+  {
+   "text": "The value of programming licenses may be negatively affected by factors outside of our control, such as league agreements and decisions to alter the number, frequency and timing of regular and post-season games played during a season, which could affect the value of our sports rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about sports league scheduling decisions affecting existing programming rights risk."
+  },
+  {
+   "text": "We rely on communications satellites, cloud service providers, and other third-party infrastructure and service providers to support the transmission, storage, processing, and delivery of our content and to operate key aspects of our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates existing reliance-on-third-parties risk with added mention of cloud service providers."
+  },
+  {
+   "text": "22 Risks Related to Our Financial, Capital and Corporate Structure The terms of the Bridge Loan Facility may restrict our current and future operations, particularly our ability to respond to changes or to take certain actions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new debt instrument (Bridge Loan Facility) and associated restrictive covenant risks."
+  },
+  {
+   "text": "In June 2025, we and DGH, a wholly-owned subsidiary of the Company, entered into the Bridge Loan Facility with respect to an 18-month $17 billion term loan, and in February 2026, the Bridge Loan Facility was extended.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific financial transaction details of the Bridge Loan Facility."
+  },
+  {
+   "text": "The Bridge Loan Facility contains a number of restrictive covenants that impose operating restrictions on us and may limit our ability to engage in acts that may be in our long-term best interest, including the right to engage in mergers, consolidations and asset sales, incur debt and liens, enter into transactions with affiliates, pay dividends and certain other restricted payments and make certain restricted investments.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new specific restrictive covenants tied to the new Bridge Loan Facility."
+  },
+  {
+   "text": "The Bridge Loan Facility requires the dedication of a substantial portion of our cash flow from operations to service our debt, thereby reducing the amount of cash flow available for other purposes such as capital expenditures, investments, share repurchases, mergers and acquisitions, other business opportunities, and other purposes.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk about cash flow dedication to service the new debt facility."
+  },
+  {
+   "text": "The Bridge Loan Facility bears interest at a variable rate, which exposes us to the risk of increased interest rates.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of variable interest rate exposure from the new Bridge Loan Facility."
+  },
+  {
+   "text": "If we are not able to service our debt or refinance our debt as it becomes due, we could be forced to take unfavorable actions, including limiting investment in our business or selling assets.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding potential inability to service or refinance the new debt."
+  },
+  {
+   "text": "A breach of the covenants, nonpayment of any principal or interest when due under the Bridge Loan Facility or upon the occurrence of certain significant corporate events could result in an event of default under the Bridge Loan Facility, which may allow lenders to declare all loans outstanding under the Bridge Loan Facility (including accrued interest and fees payable thereunder) immediately due and payable.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of default and acceleration under the new Bridge Loan Facility covenants."
+  }
+ ]
+}

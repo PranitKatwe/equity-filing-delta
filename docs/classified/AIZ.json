@@ -1,0 +1,218 @@
+{
+ "ticker": "AIZ",
+ "sector": "Financials",
+ "filing_date": "2026-02-19",
+ "accession": "0001267238-26-000010",
+ "prior_accession": "0001267238-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 30
+ },
+ "items": [
+  {
+   "text": "Our business model in our Global Lifestyle and Global Housing segments focuses on business-to-business-to-consumer (B2B2C) distribution, partnered with some of the world\u2019s leading brands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of business model, not a risk statement."
+  },
+  {
+   "text": "Investments and innovation enable services that complement our protection and specialty insurance products, creating customized solutions for clients and customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General marketing-style description of investments enabling services, no specific risk."
+  },
+  {
+   "text": "We provide customized solutions supported by integrated technology platforms to create a superior customer experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of customer experience approach."
+  },
+  {
+   "text": "Investing in talent and technology.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading with no substantive content."
+  },
+  {
+   "text": "We continue to invest in technology, including digital, robotics and AI, and seek to integrate technology platforms with our clients, to create superior customer experiences.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing narrative about technology investment without new risk detail."
+  },
+  {
+   "text": "2025 Highlights In 2025, we delivered another year of profitable growth and reinforced our solid foundation for the future by prioritizing disciplined investments in innovation across our diversified Global Lifestyle and Global Housing businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Annual highlights summary, promotional in nature, not a risk."
+  },
+  {
+   "text": "In Global Lifestyle, growth was driven by new client programs and the continued expansion of our partnerships and capabilities, supported by our investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business growth commentary, not a risk factor."
+  },
+  {
+   "text": "In Connected Living, we made progress in expanding and supporting partnerships across mobile, extended service contracts and financial services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Progress update on partnerships, not risk-related."
+  },
+  {
+   "text": "In mobile, subscriber growth remained strong, supported by the expansion of device protection programs globally, and we deepened key carrier relationships, including by signing a new agreement with a large U.S. mobile carrier.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive business update on subscriber growth and carrier agreement."
+  },
+  {
+   "text": "We expanded our reverse logistics business in mobile through a multi-year reverse logistics agreement and a dedicated logistics facility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business expansion description, not a risk."
+  },
+  {
+   "text": "In retail extended service contracts, we continued to build momentum across appliances and consumer electronics, and we saw strong progress in financial services as we scaled our card benefits business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business momentum description, not a risk statement."
+  },
+  {
+   "text": "In Global Automotive, we continue to expand and protect our position through new and renewed partnerships across distribution channels, including large dealer groups.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Partnership expansion commentary, not a risk."
+  },
+  {
+   "text": "We are also accelerating progress in heavy equipment and our leased and financed business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business growth commentary, not a risk."
+  },
+  {
+   "text": "In Global Housing, we continued to outperform through policy growth in lender-placed, supported by a hardened voluntary homeowners\u2019 insurance market and our success renewing key clients and winning new partnerships.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business performance narrative, not a risk statement."
+  },
+  {
+   "text": "Across the businesses, we are investing in technology, including AI, to transform our operations, support our clients and improve the customer experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technology investment description, no new risk."
+  },
+  {
+   "text": "In 2025, we made a series of strategic leadership appointments that leverage the strength of our executive bench and position us for continued long-term success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Leadership appointment narrative, administrative not risk."
+  },
+  {
+   "text": "Effective September 2025, Michael Campbell, previously the President of our Global Housing segment, was appointed Chief Operating Officer and is responsible for leading efforts to enhance operational efficiency, accelerate our technology roadmap, and fully leverage our global scale and capabilities across all product lines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Specific executive appointment description, informational not risk."
+  },
+  {
+   "text": "In addition, Ryan Lumsden, who had led the Renters and Other business for nearly six years, was appointed President of Global Housing, succeeding Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive succession description, informational."
+  },
+  {
+   "text": "In August 2025, we issued $300.0 million of 5.55% senior notes due 2036 and used the net proceeds to redeem all of the $175.0 million outstanding aggregate principal amount of our 6.10% senior notes due 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "New debt issuance and refinancing detail adds specificity to existing leverage/debt-related risk exposure."
+  },
+  {
+   "text": "These priorities strengthen Assurant for the future, including how we attract, empower and reward an inclusive workforce to drive innovation, contribute to the 4 development and adoption of sustainable products, and reduce the environmental impact of Assurant\u2019s operations and supply chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General sustainability and workforce framing language."
+  },
+  {
+   "text": "These services support both our insurance and non-insurance customers and are powered by our AI-driven dynamic fulfillment platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI-driven platform supporting services, promotional not risk."
+  },
+  {
+   "text": "We have repair operations within our device care centers, including our Nashville Innovation and Device Care Center, which leverages automation, robotics and AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes operational capability, not a risk statement."
+  },
+  {
+   "text": "Global Lifestyle is dependent on a few clients, in particular those in the mobile eco-system including carriers and MSOs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces explicit client concentration risk within a segment, a specific new business risk."
+  },
+  {
+   "text": "U.S. new vehicle sales have shown modest improvements since 2024, remaining stable despite tariff uncertainty, while affordability challenges continue to steer more buyers toward the used vehicle market.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new market dynamics (tariff uncertainty, affordability shifting demand) affecting the automotive business risk profile."
+  },
+  {
+   "text": "Inventory of used vehicles has recovered slightly from the shortages of 2021-2022, but remains below historical levels, with scarcity of low-mileage vehicles keeping prices elevated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates on the vehicle market risk introduced regarding inventory and pricing."
+  },
+  {
+   "text": "In select international regions, new and used vehicle sales are expanding, broadening addressable markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive market expansion statement, not a risk."
+  },
+  {
+   "text": "While interest rates and credit volatility are beginning to ease, inflation on parts and labor underscores the mixed macroeconomic environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on macroeconomic factors (rates, inflation) affecting existing automotive-related risk."
+  },
+  {
+   "text": "We also carry the parts and device inventory to support our repair operations based in our device care centers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Operational description of inventory support, not a new risk."
+  },
+  {
+   "text": "2025 reinsurance premiums for the total program were $203.2 million pre-tax, as of December 31, 2025, compared to $188.9 million pre-tax for 2024.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated financial figures for reinsurance premiums, quantifying existing catastrophe/reinsurance risk."
+  },
+  {
+   "text": "2025 reinsurance premiums reflected our exposure changes, expected Florida Hurricane Catastrophe Fund (\u201cFHCF\u201d) program impacts and favorable underlying rates from improved reinsurance market conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains drivers behind reinsurance premium changes, elaborating existing catastrophe risk factors."
+  },
+  {
+   "text": "2024 reinsurance premiums reflected a premium benefit from changing the timing of program placement to a single placement date.",
+   "category": "reworded_same_meaning",
+   "rationale": "Comparative explanation of prior year premium timing, not a new risk."
+  },
+  {
+   "text": "In August 2025, we announced two strategic leadership appointments, drawing on the strength of our leadership bench, and in January 2026, we expanded our Management Committee to support accelerated business growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Leadership appointment announcement, administrative not risk."
+  },
+  {
+   "text": "Central to this approach is recognizing and rewarding performance and supporting career development and growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about performance recognition culture."
+  },
+  {
+   "text": "The program is designed to expand opportunities for anonymous, real-time feedback between managers and employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes HR feedback program, not a risk."
+  },
+  {
+   "text": "1 Frontline and managerial employees do not include employees who do not have, or do not yet have, an assigned pay grade, such as interns and casual employees, and workers transferred from an acquired company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional clarification of employee categories."
+  },
+  {
+   "text": "Results across most engagement drivers were at or above relevant industry benchmarks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive engagement survey result, not a risk."
+  },
+  {
+   "text": "We expect to finalize compliance with the EU Pay Transparency Directive as required in mid-2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory compliance obligation (EU Pay Transparency Directive) that could pose compliance risk."
+  },
+  {
+   "text": "In 2026, we enhanced our EAP to include additional sessions per issue at no additional cost to our employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefit program enhancement, not a risk."
+  },
+  {
+   "text": "Our live company-wide signature events across the mental and financial wellbeing landscape have consistently attracted a large global audience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company events, promotional not risk."
+  },
+  {
+   "text": "We made several enhancements to benefits starting in 2026, including no cost increases for dental and vision care, a new weight management program and offering mobile pop-up clinics at select on site locations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee benefit enhancements, not a risk."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "ISRG",
+ "sector": "Health Care",
+ "filing_date": "2026-02-03",
+ "accession": "0001035267-26-000010",
+ "prior_accession": "0001035267-25-000017",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 33
+ },
+ "items": [
+  {
+   "text": "Product and brand names and logos, including Intuitive, da Vinci, and Ion, are trademarks or registered trademarks of Intuitive Surgical, Inc. or one of its subsidiaries or of their respective owners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard trademark ownership disclosure, not risk-related."
+  },
+  {
+   "text": "Additional information about our trademarks can be found on our website at www.intuitive.com/trademarks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to website for trademark info, administrative boilerplate."
+  },
+  {
+   "text": "Although we reference our trademarks located on our website, this list of trademarks and any other materials on our corporate website are not incorporated by reference into this Form 10-K or any of our other filings under the Securities Act of 1933, as amended, or the Exchange Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer about website content not being incorporated by reference."
+  },
+  {
+   "text": "Da Vinci Surgical Systems Intuitive launched its first da Vinci surgical system in 1999, with the goals of enhancing surgical capabilities and facilitating less invasive care through improved precision, vision, and control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical/product description narrative, not a risk statement."
+  },
+  {
+   "text": "Our recently released da Vinci 5 surgical system builds on da Vinci Xi\u2019s highly functional design, featuring force feedback technology and instruments that enable surgeons to sense and measure the force exerted on tissue during surgery.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description of da Vinci 5, informational not risk."
+  },
+  {
+   "text": "It also includes new surgeon controllers, powerful vibration and tremor controls, a next-generation 3D display and image system, and throughput and workflow enhancements, such as an integrated electrosurgical unit and insufflation capabilities technology.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further product feature description, no risk content."
+  },
+  {
+   "text": "Da Vinci 5 has more than 10,000 times the computing power of da Vinci Xi, allowing for innovative new system capabilities and advanced digital experiences, including integration with our My Intuitive app, SimNow (virtual reality simulator), Case Insights (computational observer), and Intuitive Hub (edge computing system).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical specification and feature list, not a risk."
+  },
+  {
+   "text": "Additionally, the redesigned console provides greater surgeon comfort with customizable positioning, allowing surgeons to find their best fit for surgical viewing and comfort, including the ability to sit completely upright.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Ergonomic feature description, not risk-related."
+  },
+  {
+   "text": "A single arm delivers three multi-jointed instruments and a fully articulating 3DHD endoscope for visibility and control in narrow surgical spaces.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product design description, informational."
+  },
+  {
+   "text": "Ion incorporates real-time shape-sensing technology, which allows for navigation into all segments of the lung and provides the procedural stability necessary for precision in a biopsy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical capability description of Ion device, not a risk."
+  },
+  {
+   "text": "Additionally, we recently introduced our 8 mm SureForm 30 Curved-Tip stapler and reloads (gray, white, and blue), which were designed to help surgeons better visualize and reach anatomy through a combination of the 8 mm diameter instrument shaft and jaws, 120-degree cone of wristed articulation, and the curved tip.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "New product introduction description, informational not risk."
+  },
+  {
+   "text": "As it fits through the 8 mm da Vinci surgical system instrument cannula, the stapler allows different angles for surgeons to approach patient anatomy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product compatibility description, not risk-related."
+  },
+  {
+   "text": "Consistent with our other SureForm staplers, the 8 mm SureForm 30 Curved-Tip stapler integrates SmartFire technology, which makes automatic adjustments to the firing process as staples are formed and the transection is made.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Feature description of stapler technology, informational."
+  },
+  {
+   "text": "The technology takes more than 1,000 measurements per second, helping achieve a consistent staple line.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical performance detail, not a risk statement."
+  },
+  {
+   "text": "When connected to a da Vinci surgical system, the E-200 delivers high-frequency energy to da Vinci instruments, with control and status messages communicated through an Ethernet cable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product connectivity description, informational."
+  },
+  {
+   "text": "The E-200 generator is also compatible with third-party handheld monopolar and bipolar instruments, as well as fingerswitch-equipped instruments and Intuitive-provided auxiliary footswitches.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Compatibility description, not risk-related."
+  },
+  {
+   "text": "The E-200 8 Table of Contents generator includes the same advanced energy capability as the E-100 generator and supports the same vessel sealing instruments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Comparative product capability description, informational."
+  },
+  {
+   "text": "Data that powers our digital solutions comes from our vast network of connected surgical systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about data sourcing, not a risk."
+  },
+  {
+   "text": "My Intuitive+ is a digital subscription package available with the da Vinci 5 platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product/service description of subscription package, informational."
+  },
+  {
+   "text": "It is designed to enable da Vinci users to access surgical video and data collected to objectively understand their surgical performance, 10 Table of Contents collaborate in real time, and receive personalized training exercises.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Feature description of digital subscription, not risk-related."
+  },
+  {
+   "text": "The solutions included in this package are Case Insights, Telepresence, and SimNow 2.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of included solutions, informational."
+  },
+  {
+   "text": "We help surgeons easily track and analyze their procedures and processes through the My Intuitive app to explore their data and gain insights into their program and training needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about app functionality, not risk."
+  },
+  {
+   "text": "Clinical Summary General Surgery Cholecystectomy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading/title, no substantive content."
+  },
+  {
+   "text": "Upper GI surgery treats conditions affecting the upper part of the digestive system, such as stomach ulcers, esophageal strictures, hiatal hernias, and various cancers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clinical/medical background description, not a risk factor."
+  },
+  {
+   "text": "Common procedures includes gastrectomy, hiatal hernia repair, and Nissen fundoplication to treat severe gastroesophogeal reflux disease.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of procedures, informational medical content."
+  },
+  {
+   "text": "Da Vinci surgical systems allow surgeons to reach and operate in constricted areas of the abdomen that can be difficult to reach.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product capability description in clinical context, not risk."
+  },
+  {
+   "text": "Thousands of peer-reviewed articles have demonstrated favorable perioperative outcomes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General claim about clinical literature, not a risk statement."
+  },
+  {
+   "text": "An appendectomy is the surgical removal of the appendix, most commonly performed to treat appendicitis, which, if left untreated, can rupture and lead to a life-threatening infection.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Medical background information, not risk-related."
+  },
+  {
+   "text": "Use of the da Vinci surgical system for appendectomy procedures has shown to result in shorter length of stay and fewer conversions as compared to a laparoscopic approach.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clinical outcome comparison, informational not a risk."
+  },
+  {
+   "text": "In addition, SureForm 30, as well as our advanced energy products, may have particular utility in appendectomy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product utility description, informational."
+  },
+  {
+   "text": "(collectively, the \u201cJoint Venture\u201d), with Fosun Pharma), Japan, South Korea, India, Taiwan, and Canada.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business/market structure detail, factual not risk."
+  },
+  {
+   "text": "(for some government customers), China, and Japan, we also utilize certain distributors in addition to our direct sales organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Distribution channel description, factual not risk."
+  },
+  {
+   "text": "Our revenues may be reduced due to pricing pressure if our competitors develop and market products that are more effective or less expensive than our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk that revenues may decline due to pricing pressure from competitors with better or cheaper products."
+  },
+  {
+   "text": "In July 2025, we received regulatory clearance for our latest da Vinci 5 surgical system for use in all surgical specialties and procedures indicated for da Vinci Xi, except for cardiac indications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual regulatory clearance update, not itself a risk statement."
+  },
+  {
+   "text": "Pursuing marketing of medical devices in the EU will notably require that our devices be certified under the new regime set forth in the EU MDR.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about EU MDR certification requirement, expanding on existing regulatory compliance risk."
+  },
+  {
+   "text": "In the EU, there is currently no premarket government review of medical devices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional regulatory context about EU premarket review process, elaborating existing regulatory risk discussion."
+  },
+  {
+   "text": "Medical devices must be safe and effective and must not compromise the clinical condition or safety of patients, or the safety and health of users and, where applicable, other persons, provided that any risks that may be associated with their use constitute acceptable risks when weighed against the benefits to the patient and are compatible with a high level of protection of health and safety, taking into account the generally acknowledged state of the art.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details safety/effectiveness standards under EU MDR, expanding existing regulatory compliance risk with specifics."
+  },
+  {
+   "text": "To demonstrate compliance with the general safety and performance requirements, medical device manufacturers must undergo a conformity assessment procedure, which varies according to the type of medical device and its (risk) classification.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes conformity assessment procedure requirement, adding detail to existing regulatory risk factor."
+  },
+  {
+   "text": "As a general rule, demonstration of conformity of medical devices and their manufacturers with the general safety and performance requirements must be based, among other things, on the evaluation of clinical data supporting the safety and performance of the products during normal conditions of use.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on clinical data requirements for regulatory conformity, expanding existing regulatory risk."
+  },
+  {
+   "text": "Specifically, a manufacturer must demonstrate that the device achieves its intended performance during normal conditions of use, that the known and foreseeable risks, and any adverse events, are minimized and acceptable when 19 Table of Contents weighed against the benefits of its intended performance, and that any claims made about the performance and safety of the device are supported by suitable evidence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific demonstration requirements for device safety/performance claims, expanding existing regulatory compliance risk."
+  }
+ ]
+}

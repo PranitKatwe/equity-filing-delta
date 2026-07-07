@@ -1,0 +1,153 @@
+{
+ "ticker": "ON",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-09",
+ "accession": "0001097864-26-000006",
+ "prior_accession": "0001628280-25-004557",
+ "model": "claude-sonnet-5",
+ "n_added": 27,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "Developing and selling new products or expanding sales to new customers, including government entities, may subject us to additional regulations and legal obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to selling to government entities and new regulatory/legal obligations not previously disclosed."
+  },
+  {
+   "text": "Our failure to comply with such requirements could increase our operational risks and reduce our competitiveness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement about failing to comply, lacking specific new risk content."
+  },
+  {
+   "text": "Our gross margins may fluctuate across time periods and operating segments and could experience volatility or downward pressure due to a variety of factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about gross margin volatility across segments/time, elaborating on an existing margin risk."
+  },
+  {
+   "text": "The automotive industry is cyclical and the industrial sector tends to thrive during a time of economic expansion.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific characterization of automotive/industrial industry cyclicality not previously mentioned."
+  },
+  {
+   "text": "We had one customer, a distributor, whose revenue accounted for approximately 11% and 10% of the total revenue for the years ended 2025 and 2024, respectively, across all reportable segments.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new quantified customer concentration data (11%/10% of revenue) not previously disclosed."
+  },
+  {
+   "text": "Although we are not dependent on any single customer, a significant disruption in key customer relationships could adversely affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about customer relationship disruption without new specifics."
+  },
+  {
+   "text": "Further, we could experience fluctuations in our customer base or the mix of revenue by customer or end-market, as markets and strategies evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about revenue mix fluctuation, no new specific risk introduced."
+  },
+  {
+   "text": "In addition, if AI-related technologies fail to achieve the effectiveness or adoption levels currently anticipated, including due to insufficient available power or other utilities, or if our customers delay or scale back their AI deployments, demand for our AI-related products and solutions and returns on associated investments could be materially lower than we currently expect.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding AI adoption, power/utility constraints, and reduced demand/returns."
+  },
+  {
+   "text": "Further, because AI has become the focus of significant societal and regulatory debate, including concerns about safety, bias, misuse and environmental impact, our association with AI infrastructure could expose us to reputational harm, stakeholder criticism or increased regulatory scrutiny, even if we do not control the design or use of AI systems that incorporate our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new reputational and regulatory risk tied to association with AI infrastructure."
+  },
+  {
+   "text": "In addition, compliance with evolving government regulations worldwide related to AI may increase the costs related to the development of AI products and solutions and limit global adoption, which may also adversely impact demand for our AI-related products and solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of increased costs and limited adoption due to evolving AI regulation."
+  },
+  {
+   "text": "We are exposed to risks related to the use of AI tools by us and others.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic introductory heading sentence for the AI risk discussion, no specific content."
+  },
+  {
+   "text": "We are increasingly incorporating AI tools and capabilities into our business operations where we believe appropriate, which may subject us to significant competitive, legal, regulatory and other risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new fact of incorporating AI tools into operations and associated risk exposure."
+  },
+  {
+   "text": "There can be no assurance that our use of AI tools will enhance our business operations or result in a benefit to us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement lacking specific risk detail."
+  },
+  {
+   "text": "Our competitors may be more successful in their use of AI tools, including by developing superior products or improving their operations with the assistance of AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific competitive risk related to competitors' superior use of AI."
+  },
+  {
+   "text": "Additionally, there could be adverse impacts from inaccurate or flawed algorithms.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of inaccurate or flawed AI algorithms."
+  },
+  {
+   "text": "Our use of AI tools could also result in the loss of confidential information or intellectual property or an inability to claim or enforce intellectual property rights, as well as subject us to risks related to intellectual property infringement or misappropriation, data privacy, cybersecurity, and the unauthorized use of Company data.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks of IP loss, data privacy, and cybersecurity tied to AI tool use."
+  },
+  {
+   "text": "The jurisdictions in which we conduct business have and may adopt laws and regulations related to AI, which could cause us to incur greater compliance costs, limit our use of AI tools, or subject us to legal liabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk regarding AI laws across jurisdictions."
+  },
+  {
+   "text": "We have sizeable operations in the Asia/Pacific region and Europe and, although a majority of our revenue is denominated in U.S. dollars, a significant portion of our cost of revenue and operating expenses are payable in foreign currencies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on foreign currency exposure tied to regional operations, expanding a previously likely existing currency risk."
+  },
+  {
+   "text": "For example, a number of domestic and foreign jurisdictions regulate, or may seek to regulate, the use of a class of chemicals known as per- and polyfluoroalkyl substances (\u201cPFAS\u201d), which are currently used in our products or the manufacture of some of our products, which may negatively impact our supply chain due to the potentially decreased availability, or non-availability, of PFAS-containing products or suitable alternatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk regarding PFAS chemicals affecting supply chain."
+  },
+  {
+   "text": "25 On July 4, 2025, the U.S. government enacted the One Big Beautiful Bill Act (the \u201cOBBBA\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new legislative event (OBBBA) with potential business impact not previously disclosed."
+  },
+  {
+   "text": "While we are subject to the Corporate Alternative Minimum Tax (\u201cCAMT\u201d), we currently have no CAMT liability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on CAMT liability status, expanding tax-related risk discussion tied to OBBBA."
+  },
+  {
+   "text": "However, future changes in our financial results, business operations, or the interpretation and implementation of the OBBBA could result in a CAMT liability in subsequent periods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential future CAMT liability, extending the newly introduced tax risk."
+  },
+  {
+   "text": "The expectations of our stakeholders with respect to corporate social and environmental matters are not uniform and can change rapidly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about varying stakeholder expectations without specific new risk."
+  },
+  {
+   "text": "There is also no assurance that we will be able to refinance the Outstanding Notes on favorable terms, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific uncertainty about refinancing terms, expanding existing debt-related risk."
+  },
+  {
+   "text": "Holders of our common stock should be aware that repurchases of our common stock under any repurchase plan then in effect are discretionary and may be suspended or discontinued at any time for any reason regardless of our financial position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about discretionary nature of stock repurchases."
+  },
+  {
+   "text": "We have in the past and could in the future experience period-to-period fluctuations in operating results due to general industry or economic conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about historical and potential future fluctuations due to economic conditions."
+  },
+  {
+   "text": "These macroeconomic and global financial risks could also negatively impact the value and liquidity of our investment portfolio.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing macroeconomic risk discussion to include impact on investment portfolio liquidity/value."
+  }
+ ]
+}

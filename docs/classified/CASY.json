@@ -1,0 +1,33 @@
+{
+ "ticker": "CASY",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-06-22",
+ "accession": "0000726958-26-000046",
+ "prior_accession": "0000726958-25-000065",
+ "model": "claude-sonnet-5",
+ "n_added": 3,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "The rapid evolution and increased adoption of artificial intelligence technologies may also heighten our cybersecurity risks by making cyber-attacks more difficult to detect, contain, and mitigate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that AI adoption increases cybersecurity vulnerabilities by making attacks harder to detect and mitigate, which is a concrete new threat vector not previously disclosed."
+  },
+  {
+   "text": "In addition, there may also be known and unknown risks associated with the use or incorporation of artificial intelligence within certain of these systems, for example, if the types of information that systems with embedded artificial intelligence assist in producing are or are alleged to be deficient, inaccurate, or biased.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk tied to AI-embedded systems producing deficient, inaccurate, or biased outputs, a concrete and previously undisclosed operational/legal risk."
+  },
+  {
+   "text": "Furthermore, if our competitors or third parties introduce new or innovative products or ways of doing business, or incorporate new or innovative technologies, including but not limited to artificial intelligence, more quickly or more successfully than us, it could impair our ability to compete effectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "This restates a generic competitive risk (competitors innovating faster) but expands it to explicitly include AI as an example, rather than introducing a wholly new risk category."
+  }
+ ]
+}

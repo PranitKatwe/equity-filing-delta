@@ -1,0 +1,123 @@
+{
+ "ticker": "EL",
+ "sector": "Consumer Staples",
+ "filing_date": "2025-08-20",
+ "accession": "0001001250-25-000099",
+ "prior_accession": "0001001250-24-000116",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "The beauty business can change rapidly due to consumer preferences and industry trends.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about industry change, not a specific risk."
+  },
+  {
+   "text": "Our Company has a well-recognized and strong reputation and our ability to maintain our reputation is critical to our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reputation importance statement, no specific new risk."
+  },
+  {
+   "text": "In addition, the assumptions we use to evaluate acquisition opportunities have in the past, and may in the future, prove to be inaccurate, and intended benefits may not be realized.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about acquisition assumption inaccuracies, expanding existing M&A risk discussion."
+  },
+  {
+   "text": "In addition, we could be perceived as not acting responsibly in connection with these matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about perception of responsibility, no concrete risk detail."
+  },
+  {
+   "text": "We use AI, and challenges with properly managing its use could have an adverse impact on our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a brand-new risk topic: use of AI and challenges managing it."
+  },
+  {
+   "text": "We are using AI solutions, including machine learning and generative AI tools, to assist in the development of our products, engage with consumers, and in the use of internal tools that support our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced AI risk with specifics about AI applications."
+  },
+  {
+   "text": "These applications may become increasingly important in our operations over time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaboration on AI's growing role, part of the same new AI risk narrative."
+  },
+  {
+   "text": "This emerging technology presents risks inherent in its use, including risks related to harmful content, inaccuracies, hallucinations, bias or discrimination, and intellectual property infringement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific AI risks (bias, hallucination, IP) as part of the newly introduced AI risk."
+  },
+  {
+   "text": "In addition, the use of AI may increase cybersecurity and data privacy risks, such as intended, unintended, or inadvertent access to, transmission, or leakage of proprietary or sensitive information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds cybersecurity/data privacy angle to the AI risk already introduced."
+  },
+  {
+   "text": "These risks may become more pronounced as organizational reliance on AI increases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on AI risk growth, not a new topic."
+  },
+  {
+   "text": "No assurance can be made that the usage of AI will assist us in being more efficient in all cases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further nuance on AI risk regarding efficiency uncertainty."
+  },
+  {
+   "text": "Our competitors or other third parties may incorporate AI into their business, services, and products more rapidly or more successfully than us, which could hinder our ability to compete effectively and adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds competitive dimension to the AI risk already introduced."
+  },
+  {
+   "text": "The technologies underlying AI and their use cases are rapidly developing, and it is not possible to predict all the legal, reputational, operational or technological risks related to the use of AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of uncertainty and unpredictability of AI risk."
+  },
+  {
+   "text": "While new AI initiatives, laws, and regulations are emerging and evolving, uncertainty will remain, and our obligation to comply with the evolving regulatory landscape could entail significant costs, negatively affect our business, or limit our ability to incorporate certain AI capabilities into our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds regulatory compliance angle to the AI risk already introduced."
+  },
+  {
+   "text": "For example, tariffs imposed on goods we import into the United States and/or tariffs on goods we import into other countries could have a material adverse effect on our business, as could geopolitical tensions involving countries that are key markets for us, or where we manufacture our products or source ingredients.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding tariffs and geopolitical tensions affecting business operations."
+  },
+  {
+   "text": "We have had, and may continue to have, changes to senior management and the composition of our Board of Directors, and we are still in the process of implementing a change in our organizational design, including through Beauty Reimagined and our Profit Recovery and Growth Plan (\u201cPRGP\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about leadership changes and organizational redesign initiatives (Beauty Reimagined, PRGP)."
+  },
+  {
+   "text": "Transition periods accompanying changes in leadership and changes due to business reorganization may result in uncertainty, impact business performance and strategies and retention of personnel.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced leadership/reorganization risk."
+  },
+  {
+   "text": "As we restructure our workforce from time to time, the risk of potential employment-related claims and disputes may also increase, resulting in potential reputational harm, costs, losses, and other liabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds employment claim risk stemming from the newly introduced restructuring risk."
+  },
+  {
+   "text": "Competition for employees can be intense, and although many of our key personnel have signed non-compete agreements, it is possible that these agreements would be unenforceable, in whole or in part, in some jurisdictions, permitting employees in those jurisdictions to work for our competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about enforceability of non-compete agreements affecting employee retention/competition."
+  },
+  {
+   "text": "The failure of one or more such providers to deliver the expected services, provide them on a timely basis or to provide them at the prices or service levels that we expect, the failure of one or more of such providers to meet our performance standards and expectations, including with respect to data security, compliance with laws, disruptions arising from the transition of functions to an outsourcing provider, or the costs incurred in returning these outsourced functions to being performed under our management and direct control, could have a material adverse effect on our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about third-party service provider failures impacting operations."
+  },
+  {
+   "text": "Such incidents have also caused, and may in the future cause, disruption to parts of our business operations and result in various expenses for investigation, remediation and other related matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds operational disruption and expense consequences to an existing cybersecurity incident risk."
+  }
+ ]
+}

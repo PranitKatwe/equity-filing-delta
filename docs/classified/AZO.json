@@ -1,0 +1,68 @@
+{
+ "ticker": "AZO",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2025-10-27",
+ "accession": "0001104659-25-102611",
+ "prior_accession": "0001558370-24-013758",
+ "model": "claude-sonnet-5",
+ "n_added": 10,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Strategic and Operational Risks \u200b The current global economic and geopolitical landscape has increased uncertainty about key areas of doing business internationally and may have a negative impact on our business. \u200b During fiscal 2025, new global trade tariffs were announced on imports to the United States, including additional tariffs on various countries from which the Company directly or indirectly imports and/or sources merchandise, including Canada, China and Mexico, among others.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding newly announced global trade tariffs on imports from Canada, China, Mexico, etc., which is a concrete new business risk not previously described."
+  },
+  {
+   "text": "In response, several countries have imposed or threatened reciprocal tariffs on imports from the U.S. and other measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the tariff narrative by adding detail about reciprocal tariffs imposed by other countries, expanding the newly introduced tariff risk rather than introducing a wholly separate risk."
+  },
+  {
+   "text": "Various modifications to the U.S. tariffs have been 13 Table of Contents announced, and further changes are expected to be made in the future, including in response to pending litigation, which may include additional sector-based tariffs or other measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the tariff risk by noting modifications and expected future changes, building on the same tariff risk theme."
+  },
+  {
+   "text": "Additionally, the current administration has directed various federal agencies to further evaluate key aspects of U.S. trade policy and amid ongoing discussion and commentary regarding further potentially significant changes to U.S. trade policies, enforcement priorities, sanctions, treaties and tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about federal agency review of trade policy, extending the tariff/trade policy risk discussion already introduced."
+  },
+  {
+   "text": "As a result of these ongoing developments, significant uncertainty continues with respect to the future economic and political relationship between the U.S. and other countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about uncertainty in economic/political relationships is cautionary framing without new specific risk detail."
+  },
+  {
+   "text": "The ultimate impact of tariffs and other trade policies on the Company\u2019s business will depend on several factors, including whether additional or incremental U.S. tariffs or other measures are announced, revised, or rescinded, to what extent other countries implement tariffs or other measures in response, the overall magnitude and duration of these measures and our ability to mitigate the impacts of such measures more effectively than our competitors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the factors influencing the impact of tariffs, expanding on the previously introduced tariff risk with more specificity."
+  },
+  {
+   "text": "14 Table of Contents \u200b If we are unable to compete successfully against other businesses that sell the products that we sell, we could lose customers and our sales and profits may decline. \u200b The sale of automotive parts, accessories and maintenance items is highly competitive.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes competitive risk in the automotive parts industry, which is a standard, previously existing risk restated in similar terms."
+  },
+  {
+   "text": "There are also challenges inherent in establishing and managing international operations, in addition to the specific costs, risks and difficulties unique to that market.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific challenges related to establishing and managing international operations, a concrete new risk area."
+  },
+  {
+   "text": "20 Table of Contents \u200b The cost to remediate and respond to a cyber incident involving unauthorized use, access, damage or loss of systems, data or other information could be significant.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about the significant cost to remediate and respond to a cyber incident, adding a concrete financial risk not previously detailed."
+  },
+  {
+   "text": "There is added uncertainty surrounding potential changes to the regulatory environment in the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory uncertainty without specific new risk detail, functioning as cautionary boilerplate."
+  }
+ ]
+}

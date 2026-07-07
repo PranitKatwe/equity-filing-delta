@@ -1,0 +1,218 @@
+{
+ "ticker": "CTSH",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-12",
+ "accession": "0001058290-26-000008",
+ "prior_accession": "0001058290-25-000017",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 33
+ },
+ "items": [
+  {
+   "text": "As an AI builder, we provide deep expertise at the intersection of industry and technology, combining our perspective with extensive knowledge of our clients' organizations to build industry-specific platforms and incorporate context into systems, AI models and custom solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of the company's business capabilities, not a risk statement."
+  },
+  {
+   "text": "Our clients are expanding enterprise AI adoption to enhance customer experience, improve risk and fraud management, accelerate underwriting and lending and modernize payments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes client demand trends, not a risk to the business."
+  },
+  {
+   "text": "These initiatives require core platform modernization, greater use of advanced analytics and responsible AI frameworks to ensure transparency, security and compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market initiatives requiring modernization, not a specific risk."
+  },
+  {
+   "text": "In response to this demand, our focus areas include AI and analytics, data modernization, customer experience design, supporting clients as they launch new products and services, transforming client interactions with customers, telecom network monetization, media supply chain transformation and applications, as well as infrastructure modernization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists focus areas/offerings, descriptive business content."
+  },
+  {
+   "text": "This has intensified demand for next-gen capabilities in AI, automation, digital commerce, secure distributed work and the design and integration of full-stack AI solutions tailored to each enterprise's specific needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes demand trends for tech capabilities, not a risk."
+  },
+  {
+   "text": "Leveraging a wide range of technologies across our clients\u2019 enterprises, together with our proprietary platforms and accelerators and those of our ecosystem partners, we help clients implement and operate AI solutions with integration, governance, security and monitoring controls.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes how the company helps clients implement AI, business description."
+  },
+  {
+   "text": "These offerings, many including unique IP developed in our AI Lab, improve efficiency, enable new customer experiences, and support business outcomes that align to our clients' industries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes offerings and benefits, not a risk."
+  },
+  {
+   "text": "Our GCC offerings also help clients establish, scale and optimize GCCs to build resilient, cost-effective and innovation-focused operating models.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes GCC offerings, business description."
+  },
+  {
+   "text": "These offerings combine domain expertise, digital engineering capabilities, and global delivery to help clients improve productivity, enhance governance and accelerate modernization at scale.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes offerings and benefits, not a risk."
+  },
+  {
+   "text": "Security Established in 2026, our Security practice helps clients protect their digital environments and maintain regulatory compliance through comprehensive cybersecurity solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new practice area, business description not risk."
+  },
+  {
+   "text": "We provide governance, risk and compliance services to manage cyber risks and ensure adherence to regulatory standards, threat and vulnerability management to enable proactive detection and mitigation of sophisticated threats, data protection and privacy services including classification, encryption and leakage prevention, identity and access management solutions delivering identity-centric, zero-trust security and cloud and infrastructure security services protecting network, workload and cloud environments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes services offered under Security practice, business description."
+  },
+  {
+   "text": "We are redesigning career paths to transition roles highly impacted by AI to higher value roles by building adjacent skills. \u2013 We build future workforce capability both internally and in our communities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes workforce development initiatives, not a risk."
+  },
+  {
+   "text": "In 2025, we doubled our Synapse program commitment having achieved our original goal early, and are now targeting upskilling 2 million future workers by 2030. \u2022 Career and talent development : We believe broad, interdisciplinary experience strengthens talent in an AI-driven world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes talent development program goals, not a risk."
+  },
+  {
+   "text": "Recognition is also enabled through manager toolkits, funds for team celebrations, a global annual awards event and more. \u2022 Talent sourcing: We avail ourselves of broad talent pools to identify the best talent to shape the future. \u2013 Cognizant believes early-in-career talent have a competitive edge in this dynamic moment as AI natives and lifelong learners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes talent sourcing strategy, not a risk."
+  },
+  {
+   "text": "Our talent programs across regions focus on robust upskilling, AI exposure and real-world experience. \u2013 We have strengthened our North America talent strategy with expanded recruiting, training, a revitalized internship program, and increased office presence across multiple locations, while in India we are scaling operations into tier two cities to access emerging talent pools. \u2013 To meet dynamic client demand, we utilize subcontractors for additional capacity and agility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes talent programs and subcontractor usage, business description."
+  },
+  {
+   "text": "Historically, subcontractor usage has been immaterial relative to our overall headcount. \u2013 We are not party to any significant collective bargaining agreements. \u2013 Globally, we manage visa-dependent roles with careful consideration of business needs and associated risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes subcontractor usage and labor relations facts, not a new risk."
+  },
+  {
+   "text": "His previous title was EVP and President, Intuitive Operations and Automation and Industry Solutions, which he had from April 2023 to March 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "From July 2022 to April 2023, he served as EVP and President, Intuitive Operations and Automation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "From September 2023 to March 2025, her title was EVP, Chief People Officer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Previously, his title was EVP and President, Americas from January 2023 to March 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "From June 2019 to December 2023, she served as VP, Global Revenue Controller and Head of External Reporting.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Prior to that she held several finance roles of increasing responsibility at the Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "She joined the Company in 2010 from Ernst & Young LLP, where she began her career in 2001.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "She holds a bachelor\u2019s degree in accounting and finance from the New York University Stern School of Business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "She is also an alumna of the Advanced Management Program of the Wharton School of the University of Pennsylvania.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "From February 2024 to March 2025 his title was EVP, Chief Legal Officer, Chief Administrative Officer and Corporate Secretary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Before March 2021, he served as Senior Vice President, Interim General Counsel from January 2021 to March 2021, after joining Cognizant in November 2019 as our Senior Vice President and Deputy General Counsel, Global Commercial Contracts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Rajesh Varrier has held the title of President \u2013 Operations and Managing Director, Cognizant India since March 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "From October 2024 to March 2025, he held the title of EVP, Global Head of Operations, and Chairman and Managing Director, Cognizant India.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Upon joining the Company in September 2024 until October 2024, he served as EVP, Global Head of Operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "The disclosure below reflects our beliefs and opinions as to the factors, events, or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary framing language common to risk factor sections."
+  },
+  {
+   "text": "References to past events are provided as examples only and are not intended to be a complete list or representation as to whether or not the other risks described below have occurred in the past.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about past events, cautionary boilerplate."
+  },
+  {
+   "text": "Additional risks and uncertainties not previously known to us, or that we currently see as immaterial, may also adversely affect us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about unknown risks, standard boilerplate."
+  },
+  {
+   "text": "In addition, our third-party alliance partners may also experience reduced demand for their technology, including as a result of changes in technology, which could reduce demand for our services and solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing technology/partner risk discussion to include reduced demand for alliance partners' technology."
+  },
+  {
+   "text": "AI technology and services require access to high-quality datasets, models (including foundation models), and other AI system components.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about AI technology dependencies within an existing AI risk discussion."
+  },
+  {
+   "text": "Ongoing uncertainty around the performance, safety and security of new and emerging AI applications requires continued significant investment in monitoring, validation and implementation of governance processes and controls across the AI lifecycle relating to security, accuracy, bias and other variables to ensure alignment with industry standards and meet customer expectations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on need for governance and investment amid AI uncertainty, expanding existing AI risk narrative."
+  },
+  {
+   "text": "Furthermore, the legal and regulatory landscape surrounding AI technologies is rapidly evolving, uncertain and varies significantly by jurisdiction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory uncertainty already part of AI-related risk discussion."
+  },
+  {
+   "text": "Regulatory approaches may differ or conflict across jurisdictions, which could require us to expend resources to tailor or limit certain AI-related offerings in specific markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on regulatory conflicts requiring resource allocation, expanding existing regulatory risk."
+  },
+  {
+   "text": "For example, the EU AI Act may increase costs or impact the operation of our AI services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk tied to the EU AI Act impacting costs and operations."
+  },
+  {
+   "text": "In certain circumstances, these requirements could delay, limit or prevent our ability to develop, deploy or use AI technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential regulatory impacts on AI development, expanding the existing AI regulatory risk."
+  }
+ ]
+}

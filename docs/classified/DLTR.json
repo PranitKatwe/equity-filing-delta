@@ -1,0 +1,218 @@
+{
+ "ticker": "DLTR",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-03-16",
+ "accession": "0000935703-26-000025",
+ "prior_accession": "0000935703-25-000015",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 7,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "In fiscal 2025, we deepened our Dollar Tree leadership culture by defining our Leadership Framework which sets clear expectations of leadership at every level and provides a common language for how we will lead with purpose and stay rooted in our shared values.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal leadership culture initiative, not a business risk."
+  },
+  {
+   "text": "We also expanded leadership academy offerings to not only our field district managers but to our supply chain, field and Store Support Center directors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expansion of internal training programs, not a risk disclosure."
+  },
+  {
+   "text": "Additionally, we launched formal high potential director and vice president leadership development programs to build our internal talent pipeline to support our future growth. \u2022 Culture and belonging.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal talent development programs, not a substantive risk."
+  },
+  {
+   "text": "We support this goal through associate training focused on workplace respect, collaboration, and inclusive engagement, as well as through associate resource groups (\u201cARGs\u201d) open to all associates that encourage professional development, mentoring, community involvement, cross-functional collaboration, and customer engagement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes associate training and resource groups, generic culture content."
+  },
+  {
+   "text": "These efforts are designed to strengthen connections among our associates, our customers, and the communities in which we operate, consistent with our business objectives and applicable laws. \u2022 Workplace safety.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about community/business objectives, not a risk."
+  },
+  {
+   "text": "For example, we recently have experienced, and could continue to experience, increased merchandise costs associated with the tariff environment and related mitigation efforts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of increased merchandise costs tied to tariff environment."
+  },
+  {
+   "text": "In addition to pressures from a tight labor market, we recently have experienced increased labor costs in connection with our multi-price rollout.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new specific labor cost increase tied to multi-price rollout."
+  },
+  {
+   "text": "We continue to expand and refine our multi-price assortment to deliver a broader, more relevant offering while preserving our foundational value proposition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on ongoing multi-price assortment strategy, expanding prior risk discussion."
+  },
+  {
+   "text": "Although our multi-price assortment has grown, the majority of our products are priced at $1.25, and 85% of products in the average Dollar Tree store are currently priced at $2.00 or less, and we generally have fewer price bands for our goods than other retailers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific pricing statistics to existing pricing risk discussion."
+  },
+  {
+   "text": "Accordingly, we may not be able to adjust our prices to effectively offset cost increases while providing 10 Table of Contents expected value.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about inability to adjust prices without new substance."
+  },
+  {
+   "text": "Our ability to re-negotiate supplier terms, re-engineer products for efficiency, shift country of origin where it adds advantage or discontinue lower-margin or underperforming items, in addition to targeted retail price changes, in order to address a volatile cost environment is critical to maintaining our profitability levels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific mitigation tactics expanding on existing cost risk."
+  },
+  {
+   "text": "Subsequently, there have been various updates and revisions to these tariffs and the United States\u2019 tariff policy, with some tariffs delayed or temporarily paused as country-specific agreements have been negotiated with certain countries.",
+   "category": "new_substantive_risk",
+   "rationale": "New factual detail about evolving tariff policy changes and negotiations."
+  },
+  {
+   "text": "On February 20, 2026, the Supreme Court ruled that certain of the tariffs imposed under the International Emergency Economic Powers Act (\u201cIEEPA\u201d) were unlawful.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legal development (Supreme Court ruling) affecting tariffs."
+  },
+  {
+   "text": "Following the Supreme Court\u2019s decision, the United States imposed new, temporary tariffs on imports from all countries under Section 122 of the Trade Act of 1974 and could take action to invoke other laws to collect tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific tariff action under a different legal authority."
+  },
+  {
+   "text": "While the company has taken action to preserve its rights, there remains substantial uncertainty regarding the impacts of this decision on the availability, timing, and amount of potential refunds, if any, for the invalidated tariffs, the scope and duration of newly announced tariffs, and the possibility of further additional or modified tariffs or retaliatory actions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new uncertainty regarding tariff refunds and future actions."
+  },
+  {
+   "text": "We have actively implemented mitigation strategies to offset the impact of tariffs and other cost pressures by re-negotiating supplier terms, re-engineering products for efficiency, shifting country of origin where it adds advantage, discontinuing lower-margin or underperforming items and executing targeted retail price changes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on mitigation strategies already referenced elsewhere."
+  },
+  {
+   "text": "We experienced increased costs during fiscal 2025 related to the implementation of these mitigation strategies, including significant labor and other discrete costs related to price changes, and our results could continue to be negatively impacted by tariffs 11 Table of Contents and related measures in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific cost impact data from tariff mitigation, expanding existing risk."
+  },
+  {
+   "text": "We expect tariff volatility to persist in the near-term, and implementation costs associated with our mitigation strategies may continue to be experienced before the benefits from those efforts are expected to materialize.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing tariff risk narrative with forward-looking expectation."
+  },
+  {
+   "text": "Further, there is no guarantee that we will be able to successfully mitigate the impact of tariffs through one or more of the foregoing strategies or that our customers will respond favorably to the implementation of these strategies.",
+   "category": "reworded_same_meaning",
+   "rationale": "General cautionary statement about mitigation uncertainty, no new specifics."
+  },
+  {
+   "text": "The competitiveness of our products could be reduced if our competitors are able to react quickly to changes in the tariff environment to increase the relative value of their products or are otherwise able to offset the impact of tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk tied specifically to tariff environment reactions."
+  },
+  {
+   "text": "We are executing on a number of initiatives to modernize our distribution network, expand distribution center capacity, enhance warehouse management systems, and improve transportation systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of ongoing operational initiatives, not a new risk."
+  },
+  {
+   "text": "These initiatives are expected to increase our costs in the short term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes short-term cost increase from initiatives, expanding existing operational risk."
+  },
+  {
+   "text": "In 2025, we purchased a distribution center outside of Phoenix, Arizona that we plan to open in 2026 and broke ground on a new distribution center in Marietta, Oklahoma that is expected to be fully operational by 2027.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new specific facts about new distribution center locations and timelines."
+  },
+  {
+   "text": "While we experienced lower domestic and import freight costs in fiscal 2025, we expect those costs to increase in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new data point on freight cost trends within existing freight risk topic."
+  },
+  {
+   "text": "We could experience increased freight costs due to shifts in country of origin to mitigate tariff impacts and increased spot market usage.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new specific risk of increased freight costs due to sourcing shifts and spot market use."
+  },
+  {
+   "text": "We have experienced in recent years, and could continue to experience, difficulties in sourcing adequate truck drivers, which could increase our costs or require us to increase our use of more expensive surge carriers to transport our merchandise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing driver shortage risk with updated framing."
+  },
+  {
+   "text": "In addition, we could experience increased costs related to fuel prices due to ongoing conflicts in the Middle East and Ukraine and other geopolitical tensions. \u2022 Shipping disruptions .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new geopolitical risk factors affecting fuel costs."
+  },
+  {
+   "text": "12 Table of Contents \u2022 Labor disagreement .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header only, no substantive content."
+  },
+  {
+   "text": "Some of our facilities are in areas that are vulnerable to earthquakes, hurricanes, tornadoes or floods, such as the tornado that destroyed our Marietta, Oklahoma distribution center in 2024 and resulted in the loss of inventory and the facility itself as well as additional distribution and storage costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific factual event (2024 tornado destroying distribution center) as new risk detail."
+  },
+  {
+   "text": "In addition, the potential long-term impacts of a changing climate may be widespread and unpredictable and present the possibility of physical risks (such as extreme weather conditions or rising sea levels) and transition risks (such as regulatory changes and reputational considerations).",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing climate risk discussion with more detail on physical/transition risks."
+  },
+  {
+   "text": "Our strategic plan includes improvements in store productivity through initiatives to improve store standards and operational consistency, refresh and renovation programs, shelf productivity optimization, and elevated store execution and cleanliness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic initiative description, not a new risk."
+  },
+  {
+   "text": "Our growth is dependent on our ability to expand our square footage profitably.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing growth dependency risk without new specifics."
+  },
+  {
+   "text": "In certain cases, we have obtained substantial numbers of leases from other retailers, either by assumption in bankruptcy or by sublease of their closed stores, which may subject us to risks relating to their creditworthiness, such as to the original landlords.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding leases obtained via bankruptcy or sublease."
+  },
+  {
+   "text": "We continue to expand and refine our multi-price assortment to deliver a broader, more relevant offering while preserving our foundational value proposition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Duplicate expansion of multi-price assortment risk."
+  },
+  {
+   "text": "Further, our failure to drive brand clarity and loyalty around our expanded product assortment could negatively affect our customer\u2019s perception of our value proposition or harm our reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about brand clarity and reputational harm from expanded assortment."
+  },
+  {
+   "text": "In addition, the success of our business depends in part on our ability to anticipate, identify and respond promptly to evolving trends in consumer preferences.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of need to anticipate consumer trends."
+  },
+  {
+   "text": "If we are unable to accurately predict the products that our customers will demand, implement competitive and effective pricing and marketing strategies, or timely and appropriately respond to changing demographics, consumer needs, preferences or spending patterns, then the demand for our products (including our higher-margin discretionary merchandise), our market share and our results of operations could be adversely affected.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about failing to predict demand without new specifics."
+  },
+  {
+   "text": "Our ability to successfully differentiate ourselves depends on many competitive factors, including customer perceptions regarding our shopping experience, the safety and cleanliness of our stores, our ability to offer attractive products at affordable prices, and our in-stock levels.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of competitive differentiation factors."
+  },
+  {
+   "text": "While we have partnered with online personal shopping providers like Instacart and UberEats, some of our current and potential competitors have more significant online and mobile shopping platforms or other advances in technologies and capabilities (including artificial intelligence) than we currently do.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new detail about AI and online competitor platforms, expanding competitive risk."
+  },
+  {
+   "text": "Our ability to effectively compete will depend upon our ability to successfully develop and execute on our strategic initiatives and to anticipate or respond effectively to competitive pressures, industry changes that may include mergers and acquisitions, technological advancements and changing customer preferences and shopping habits.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of competitive strategy dependency without new specifics."
+  }
+ ]
+}

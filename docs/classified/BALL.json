@@ -1,0 +1,88 @@
+{
+ "ticker": "BALL",
+ "sector": "Materials",
+ "filing_date": "2026-02-19",
+ "accession": "0001104659-26-017410",
+ "prior_accession": "0001558370-25-001190",
+ "model": "claude-sonnet-5",
+ "n_added": 14,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "11 Table of Contents We have a significant level of debt that could have important consequences for our business and any investment in our securities. \u200b The company had $7.01 billion of debt at December 31, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific current debt figure ($7.01 billion) to the existing generic debt risk disclosure, quantifying but not introducing a new risk."
+  },
+  {
+   "text": "For example, in September 2025, we received notice from the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory dispute (CBP notice in Sept 2025) not previously disclosed."
+  },
+  {
+   "text": "Customs and Border Protection challenging the tariff classification and applicable rate of duty of certain aluminum imports asserting additional duties and tariffs are payable, as well our use of certain exemptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific allegations of tariff misclassification and additional duties owed, a concrete new legal/regulatory exposure."
+  },
+  {
+   "text": "We intend to vigorously defend the matter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate statement of intent to defend litigation, adds no new risk detail."
+  },
+  {
+   "text": "While the outcome of this matter is uncertain at this time, the company believes it is reasonably possible any such additional tariffs, interest and penalties could be owed and impact our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential financial impact of the newly disclosed tariff matter, expanding the specific risk already introduced."
+  },
+  {
+   "text": "The company is unable to develop a reasonable estimate of loss at this time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard legal disclosure language about inability to estimate loss, common boilerplate."
+  },
+  {
+   "text": "The company has not recorded a reserve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement about no reserve recorded, typical boilerplate accompanying litigation disclosures."
+  },
+  {
+   "text": "The realization of the expected benefits of these investments is based in part on our ability to cost effectively execute our development plans and, in certain instances, to integrate these investments with our business operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk regarding execution and integration of investments/development plans."
+  },
+  {
+   "text": "If we fail to execute our development plans in a cost effective or timely manner or fail to integrate the investments with our existing operations, our internal controls over financial reporting or our information systems, we may experience increases in costs of operations, loss of customers or suppliers, difficulties servicing our debt obligations and our financial performance may not meet shareholder expectations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences of failing to execute or integrate investments, consistent with prior investment risk framing."
+  },
+  {
+   "text": "In addition, our final estimates of the fair value of any assets or liabilities acquired with the investments may be materially different from our initial estimates and the company may not fully realize the anticipated benefits of the investments. \u200b Our investments in joint ventures include investments in companies that we may not control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of fair value estimate risk tied to investments, expanding on existing investment risk theme."
+  },
+  {
+   "text": "The performance of these investments may change as a result of decisions that are made by our joint venture partners who have control over these joint ventures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that joint venture partners control decisions affecting investment performance, not previously mentioned."
+  },
+  {
+   "text": "In addition, we may be obligated under the joint venture arrangement to assume certain costs, perform certain services or make additional capital investments.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new specific obligation risk\u2014being required to assume costs, provide services, or make additional capital investments in joint ventures."
+  },
+  {
+   "text": "If we are unable to realize the benefits of our joint venture and other investments, our business, our operating results and the financial condition of our business could be materially adversely affected. \u200b Governmental and regulatory risks \u200b Changes in laws and governmental regulations may adversely affect our business and operations. \u200b We and our customers and suppliers are subject to various federal, state, provincial and local laws and regulations, which have been increasing in number and complexity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential adverse impact from joint venture risks, tying together the newly detailed joint venture concerns."
+  },
+  {
+   "text": "Federal, state and local regulations imposing taxes and restrictions on our customers products could adversely impact the purchasing levels by our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory/tax risks affecting customers' purchasing, lacks specific new detail."
+  }
+ ]
+}

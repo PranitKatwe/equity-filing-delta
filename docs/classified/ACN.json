@@ -1,0 +1,133 @@
+{
+ "ticker": "ACN",
+ "sector": "Information Technology",
+ "filing_date": "2025-10-10",
+ "accession": "0001467373-25-000217",
+ "prior_accession": "0001467373-24-000278",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "The disclosures in this section reflect our beliefs and opinions as to factors that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing about the nature of disclosures, no specific risk content."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such factors have occurred in the past.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cautionary boilerplate about past events not being exhaustive, no substantive risk."
+  },
+  {
+   "text": "If we are unable to introduce or if our clients do not accept new pricing or commercial models that reflect the value of these AI-enabled solutions, our results of operations may be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk about failure to monetize AI-enabled solutions through new pricing models."
+  },
+  {
+   "text": "There is increasing divergence globally among AI regulations, which will require us to navigate different obligations in different geographies.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk of divergent global AI regulations requiring navigation of different obligations."
+  },
+  {
+   "text": "Violations of these laws may lead to reputational damage, financial penalties and increased regulatory scrutiny and oversight.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes generic consequences of legal violations, likely extending an existing regulatory compliance risk section."
+  },
+  {
+   "text": "The timing and amount of costs related to these business optimization actions and the nature and extent of benefits realized from such actions are subject to uncertainties and other factors, including local country consultation processes and regulations, and may differ from our current expectations and estimates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on uncertainty of costs/benefits from business optimization actions, expanding existing restructuring risk."
+  },
+  {
+   "text": "Although only a very small percentage of our people in the U.S. are on H-1B visas, changes in immigration laws or policies, or the application of those laws and policies, could limit the availability of H-1B or other visas in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding reliance on H-1B visas and potential immigration policy changes."
+  },
+  {
+   "text": "These developments are increasing the difficulty of detecting and defending against cybersecurity attacks and maintaining effective security measures and protocols.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on evolving cybersecurity threat landscape, expanding existing cybersecurity risk discussion."
+  },
+  {
+   "text": "On June 28, 2025, the G7 released a statement on global minimum taxes that outlined, among other items, that work will be done to simplify the overall Pillar Two administration and compliance framework.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific new event (G7 statement on Pillar Two taxes) introducing a concrete regulatory development risk."
+  },
+  {
+   "text": "Ongoing volatility in global trade relations may prompt governments to implement new tax, tariff and compliance measures, which could extend to services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of trade volatility leading to new tariffs and compliance measures affecting services."
+  },
+  {
+   "text": "Sovereignty initiatives or other nationalist trends in our markets may result in local sourcing initiatives, conflicting local or regional requirements, or other developments that may make it more difficult or costly to operate in or negatively impact demand for our solutions and services in those markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk from sovereignty/nationalist trends affecting local sourcing and market access."
+  },
+  {
+   "text": "Table of Contents ACCENTURE 2025 FORM 10-K Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table of contents header text, not a risk statement."
+  },
+  {
+   "text": "Similarly, we periodically are and in the future could become the target of litigation, investigations, or other proceedings initiated by government authorities or private actors alleging that our activities or positions related to ESG (including inclusion and diversity) are anti-competitive, discriminatory or otherwise unlawful.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new litigation risk related to ESG and diversity programs being challenged as unlawful."
+  },
+  {
+   "text": "Additionally, various U.S federal and state government agencies and departments may initiate legal proceedings asserting our actions or programs violate the U.S False Claims Act, civil rights laws or other similar federal or state orders, laws or regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of False Claims Act and civil rights law litigation from government agencies."
+  },
+  {
+   "text": "A violation of these or similar federal or state orders, laws or regulations, may expose us to penalties and sanctions discussed above and jeopardize our ability to continue to do work with the U.S. federal government and certain state governments, which may materially adversely affect our future results of operations. \u2022 U.S. government contracting regulations impose strict compliance and heightened disclosure obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates on consequences of government contracting violations, expanding existing government risk section."
+  },
+  {
+   "text": "Table of Contents ACCENTURE 2025 FORM 10-K Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table of contents header text, not substantive content."
+  },
+  {
+   "text": "Risk Factors 23 \u2022 Government entities typically fund projects through appropriated monies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes general government funding mechanism, expanding existing government contracting risk discussion."
+  },
+  {
+   "text": "Furthermore, if insufficient funding is appropriated to the government entity to cover termination costs, we may not be able to fully recover our investments. \u2022 In 2025, the U.S. administration began efforts to reduce federal spending and the size of the federal workforce under the guidance of the Department of Government Efficiency.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk tied to 2025 federal spending cuts initiative (DOGE) affecting government contracts."
+  },
+  {
+   "text": "In addition, the General Services Administration (GSA)\u2013the U.S. federal procurement agency\u2013has instructed all federal agencies to review their contracts with consulting firms and technology product resellers contracting with the U.S. federal government, including AFS.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of GSA reviewing consulting contracts with federal agencies."
+  },
+  {
+   "text": "It is also possible that compliance with sanctions imposed by one country could lead to reputational harm or other negative impacts to our business in another country or countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing sanctions compliance risk regarding cross-border reputational impact."
+  },
+  {
+   "text": "Due to the varying degrees of Table of Contents ACCENTURE 2025 FORM 10-K Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table of contents/header fragment, not substantive risk text."
+  },
+  {
+   "text": "Risk Factors 25 claim that we or our clients are infringing upon their intellectual property rights.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Header/fragment text continuing table of contents formatting."
+  },
+  {
+   "text": "Table of Contents ACCENTURE 2024 FORM 10-K",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table of contents header from prior year's filing, not a risk statement."
+  }
+ ]
+}

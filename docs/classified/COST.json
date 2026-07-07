@@ -1,0 +1,133 @@
+{
+ "ticker": "COST",
+ "sector": "Consumer Staples",
+ "filing_date": "2025-10-08",
+ "accession": "0000909832-25-000101",
+ "prior_accession": "0000909832-24-000049",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 18
+ },
+ "items": [
+  {
+   "text": "In the U.S., we recently added exclusive shopping hours for our Executive members and our gasoline operations generally have extended hours.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an operational detail about shopping hours, not a risk to the business."
+  },
+  {
+   "text": "These expired memberships make up a small percentage of these membership counts, and many of them are subsequently renewed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explanatory statistic about membership renewal, not a risk statement."
+  },
+  {
+   "text": "Memberships that have an expiration date in the six months prior to the end of our reporting period are excluded from this calculation, regardless of whether or not they have been renewed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Methodology clarification for membership counting, not substantive risk content."
+  },
+  {
+   "text": "Although most members renew prior to expiration, the vast majority of those who renew late do so within six months of expiration.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explanatory detail about renewal timing, purely descriptive."
+  },
+  {
+   "text": "The timing of 5 Table of Contents renewal after expiration is impacted by a variety of factors, such as warehouse openings and promotional activity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further explanatory detail on renewal timing factors, not a new risk."
+  },
+  {
+   "text": "Listening to our employees is one of the ways Costco takes care of its workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about employee engagement philosophy, no risk content."
+  },
+  {
+   "text": "In 2025, we hosted the Costco Connects meetings, its second annual Costco Connects campaign.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of an internal event, not a risk."
+  },
+  {
+   "text": "These open listening sessions are an invitation for employees to talk about what is on their minds and what is impacting them both personally and professionally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive detail about listening sessions, no risk implication."
+  },
+  {
+   "text": "This allows Costco leaders to engage with their employees on a deeper level and for employees to build connections with each other.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive benefit statement, not a risk."
+  },
+  {
+   "text": "This year we had approximately 200,000 employees participate globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Participation statistic, purely informational."
+  },
+  {
+   "text": "Frates will be appointed Senior Executive Vice President, Warehouse Operations - U.S. and Mexico, effective February 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Routine executive appointment announcement, not a risk factor."
+  },
+  {
+   "text": "Richard Wilcox Executive Vice President, Chief Operating Officer, Southwest Division.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive title listing, informational only."
+  },
+  {
+   "text": "Wilcox was Senior Vice President, General Manager - San Diego Region from 2016 to October 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive background detail, not a risk."
+  },
+  {
+   "text": "With continued growth in global demand for electricity and water stress in certain regions, we may have difficulty securing long-term utility contracts for new buildings or incur additional costs due to onsite generation and storage requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding difficulty securing utility contracts and added costs from onsite generation/storage due to energy and water constraints, which could materially affect expansion."
+  },
+  {
+   "text": "We are subject to a wide and growing array of federal, state, local and international laws and regulations relating to (among other things), product and food safety, marketing, information security and privacy, labor and employment, imports and customs, transportation, intellectual property, anti-corruption, and environmental or social matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the scope of existing regulatory compliance risk by listing a broader, growing array of specific legal domains."
+  },
+  {
+   "text": "The impact of changes to or the introduction of new laws, regulations and policies and enforcement practices, can be unpredictable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unpredictability of regulatory changes, standard boilerplate."
+  },
+  {
+   "text": "These may require extensive system and operational changes, be difficult to implement, increase the cost of doing business, require significant capital expenditures, adversely impact the products or services we offer, or result in adverse publicity and harm to our reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of potential compliance impacts, standard risk factor language."
+  },
+  {
+   "text": "If we fail to comply or respond adequately to changes in laws and regulations, our business, operations and financial performance may be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about compliance failure impact, boilerplate."
+  },
+  {
+   "text": "We are committed to doing what is right for the business, our members, employees and shareholders over the long-term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic values statement, no risk content."
+  },
+  {
+   "text": "Costco has set public targets and disclosed intentions for future action regarding sustainability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Neutral factual statement about having ESG targets, not itself a risk."
+  },
+  {
+   "text": "For example, multiple states are implementing extended producer responsibility laws that will require us to enact policies and processes and will increase expenses in the form of fees paid to the state governments, else be subject to fines and penalties, among other effects.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk regarding extended producer responsibility laws creating new compliance costs, fees, and potential fines."
+  },
+  {
+   "text": "Furthermore, federal, state and local regulatory authorities, private organizations and individuals may challenge our approach to ESG issues, including allegations that we failed in our efforts, should not have undertaken such efforts or that we improperly engaged other entities in our approach to ESG issues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about legal and stakeholder challenges to the company's ESG approach, expanding the existing ESG-related risk disclosure."
+  },
+  {
+   "text": "A failure or perceived failure to meet our goals or otherwise meet evolving and diverse stakeholder expectations could lead to reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties failure to meet ESG goals to reputational harm, elaborating on the existing ESG risk rather than introducing a wholly new risk."
+  }
+ ]
+}

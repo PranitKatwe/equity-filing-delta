@@ -1,0 +1,113 @@
+{
+ "ticker": "PWR",
+ "sector": "Industrials",
+ "filing_date": "2026-02-19",
+ "accession": "0001050915-26-000006",
+ "prior_accession": "0001050915-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 19,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "In conjunction with this change, certain prior period amounts have been recast to conform to this new segment reporting structure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Administrative note about recasting prior period segment amounts, not a risk statement."
+  },
+  {
+   "text": "Business Environment With respect to our electric infrastructure service offerings, utility and other customers are continuing to invest significant capital in their infrastructure systems and programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General market/business environment framing describing customer investment trends, not a specific risk."
+  },
+  {
+   "text": "Our utility customers continue to face increased demand for electricity, including as a result of electrification trends and increased demand for data center and other technology infrastructure and advanced manufacturing facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes positive demand trends (electrification, data centers) as market context, not a risk to the business."
+  },
+  {
+   "text": "In addition, utility and other customers are increasing their investment in various forms of power generation in response to load growth expectations, which have accelerated based on demand for electricity driven by data centers, manufacturing and reshoring, industrialization, electrification and power grid expansion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes growth in customer investment driven by demand trends; contextual market narrative, not a risk."
+  },
+  {
+   "text": "Utility and other customers are also increasing their investments in other forms of base load power generation, such as combined cycle gas generation and gas peaker generation plants.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer investment in other generation types; market context, not a risk statement."
+  },
+  {
+   "text": "These overall market dynamics support demand for our capabilities and our solutions-based approach for our high-quality customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States market dynamics support demand for the company's services; positive framing, not a risk."
+  },
+  {
+   "text": "Through recent acquisitions we have expanded our capabilities and solutions related to turnkey mechanical, plumbing and process infrastructure solutions, which we believe position us to meet strong demand for these services by data center, manufacturing, semiconductor and other large load facilities and provide opportunities in other core end markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expanded capabilities via acquisitions and resulting business opportunities; not a risk disclosure."
+  },
+  {
+   "text": "We have also expanded our capabilities and solutions related to civil solutions through recent acquisitions, which allows us to meet strong demand for these services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Similar to above, describes expanded civil solutions capabilities from acquisitions; business description, not risk."
+  },
+  {
+   "text": "GENERAL Recent Acquisitions On July 25, 2025, we completed the acquisition of Dynamic Systems (DSI), LLC (Dynamic Systems), which provides turnkey mechanical, plumbing and process infrastructure solutions to a diversified customer base that includes technology, semiconductor, healthcare and other load center markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of a recent acquisition and its services; informational, not a risk."
+  },
+  {
+   "text": "CEI is located in the United States, and its results have been included in the Electric segment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about segment reporting location of an acquired entity; administrative detail."
+  },
+  {
+   "text": "Our customers include utility, power developer, technology, communications, and energy delivery companies, as well as governmental entities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists customer types; descriptive business information, not a risk factor."
+  },
+  {
+   "text": "Material Resources Equipment We depend on the availability of a wide range of equipment to perform our services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific operational dependency risk on equipment availability that could affect service delivery."
+  },
+  {
+   "text": "We also own a large fleet of aircraft, primarily helicopters, that are utilized in connection with our solution offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company-owned aircraft fleet used in operations; factual asset description, not a risk."
+  },
+  {
+   "text": "For example, certain services within our Underground and Infrastructure segment, including large pipeline infrastructure services, have experienced periodic challenges as a result of concerns regarding the impact of fossil fuels or refined products on the environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing environmental/political risk affecting pipeline infrastructure services, adding specificity to a known concern."
+  },
+  {
+   "text": "However, such concerns have recently lessened as a result of the overall increase in demand for electricity, which has in turn increased demand for our services and solutions associated with all forms of power generation, including legacy energy resources such as natural gas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains that prior environmental concerns have lessened due to demand growth; mitigating context rather than a new risk."
+  },
+  {
+   "text": "Furthermore, in recent years, many utility customers have increased their renewable power generation portfolios (e.g., solar, wind, battery storage ) in part as a result of concerns associated with changes in climate, which has in turn increased demand for our services associated with renewable power generation and related electric power infrastructure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes positive business impact from customers' renewable energy investments; contextual, not a risk statement."
+  },
+  {
+   "text": "For more information see Risk Management and Insurance in Item 1.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing; purely administrative."
+  },
+  {
+   "text": "The DoD has also finalized the Cybersecurity Maturity Model Certification (CMMC) process and commenced in late 2025 the process of incorporating CMMC assessments in applicable procurements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory compliance risk tied to DoD's CMMC cybersecurity certification requirements affecting future contracts."
+  },
+  {
+   "text": "Negative economic conditions in the electric power, energy or communications industries can also result in reduced spending by, or the loss of, one or more of our customers, including as a result of, among other things, consolidation, competition, capital constraints, concerns regarding the affordability of electricity to end consumers or a decrease in demand for electric power required by large load facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing customer concentration/economic risk by adding new specific causes like affordability concerns and large load facility demand shifts."
+  }
+ ]
+}

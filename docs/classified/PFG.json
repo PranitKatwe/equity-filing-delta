@@ -1,0 +1,218 @@
+{
+ "ticker": "PFG",
+ "sector": "Financials",
+ "filing_date": "2026-02-18",
+ "accession": "0001104659-26-017031",
+ "prior_accession": "0001410578-25-000160",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 25,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Risk Factors In the discussion below, we exclude investments held under coinsurance with funds withheld reinsurance agreements when providing details related to our investment portfolio, as these assets support related obligations and are less relevant to investor risk assessment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a methodological/disclosure note about how investments are presented, not a risk statement."
+  },
+  {
+   "text": "If internal sources of liquidity are insufficient, we may need external financing, which may not be available on favorable terms.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about liquidity/external financing risk, a standard boilerplate risk restated."
+  },
+  {
+   "text": "Negative regulatory authority or rating agency actions may impair our access to external funds.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties existing liquidity risk to rating agency/regulatory actions, adding detail to an existing risk theme."
+  },
+  {
+   "text": "Market conditions may hinder our ability to meet obligations, satisfy capital requirements, and access the capital needed to grow our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing about market conditions hindering obligations and capital access, cautionary language without new specifics."
+  },
+  {
+   "text": "We may face higher capital costs or reduced flexibility, impacting liquidity and profitability.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of liquidity/profitability impact, no new specifics."
+  },
+  {
+   "text": "A prolonged downturn in economic conditions could adversely impact the earnings of our borrowers and, therefore, their ability to honor their debt obligations, while also reducing the returns from our equity investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mechanism (borrower defaults and equity investment return reduction) to existing economic downturn risk."
+  },
+  {
+   "text": "Market turmoil leading to investor withdrawal from markets may reduce AUM, AUA, revenues and net income.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects market turmoil to AUM/AUA and revenue impact, elaborating an existing market risk."
+  },
+  {
+   "text": "Economic downturns may reduce demand for our financial and insurance products.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about reduced demand during downturns."
+  },
+  {
+   "text": "We may also face increased claims and policy lapsation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific insurance risk (claims, lapsation) tied to economic downturn theme."
+  },
+  {
+   "text": "Reduced payroll deferrals in retirement plans and increased withdrawals of investment accounts may lower AUM, AUA and revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies mechanism (payroll deferrals, withdrawals) affecting AUM/AUA, expanding existing risk."
+  },
+  {
+   "text": "In addition, increased reliance on passive investment strategies, including target date funds, may amplify market volatility impacts and reduce flexibility in responding to adverse economic conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor about passive investment strategies and target date funds amplifying volatility, not previously covered."
+  },
+  {
+   "text": "Prolonged low interest rates may reduce asset yields below pricing assumptions, lowering profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Standard low interest rate risk detail, elaborating existing risk."
+  },
+  {
+   "text": "For certain products, we cannot lower crediting rates, even when investment returns decline.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific product-level detail (inability to lower crediting rates) to existing interest rate risk."
+  },
+  {
+   "text": "Lower rates may also reduce trust and custody revenues.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new impact on trust and custody revenues from low rates, a distinct revenue stream risk not previously mentioned."
+  },
+  {
+   "text": "Lower surrender rates may extend liability duration, creating asset-liability mismatches.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a specific mechanism (surrender rates/duration mismatch) under existing interest rate risk."
+  },
+  {
+   "text": "Low rates may affect pension and other postretirement employee benefit (\u201cOPEB\u201d) valuations, impacting financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on pension/OPEB valuation impact from low rates to existing interest rate risk discussion."
+  },
+  {
+   "text": "Asset returns may lag rising rates, compressing spreads and reducing profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Standard rising rate spread compression risk, elaborating existing risk."
+  },
+  {
+   "text": "Prolonged high interest rates may adversely impact the ability of our borrowers to service their debt, leading to outcomes that are more adverse than modeled.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing credit/interest rate risk to borrower repayment ability under high rates."
+  },
+  {
+   "text": "Higher surrenders may accelerate deferred acquisition cost (\u201cDAC\u201d) amortization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific accounting impact (DAC amortization) tied to existing surrender/interest rate risk."
+  },
+  {
+   "text": "Tighter spreads reduce income from new fixed maturity investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details spread compression effect on new investment income, part of existing interest rate risk."
+  },
+  {
+   "text": "Volatile markets may impair valuation of thinly traded securities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about valuation impairment for thinly traded securities under existing market volatility risk."
+  },
+  {
+   "text": "Our investment portfolio\u2019s risks may reduce asset values, credited returns and overall financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary statement about investment portfolio risk without new specifics."
+  },
+  {
+   "text": "An increase in the default rate of fixed maturity issuers could harm our financial strength and decrease our profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific default rate impact detail to existing credit risk discussion."
+  },
+  {
+   "text": "\u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations \u2014 Investments \u2014 U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a risk statement."
+  },
+  {
+   "text": "Investment Operations \u2014 Mortgage Loans \u2014 Commercial Mortgage Loan Credit Monitoring.\u201d A portion of our commercial mortgage loans have balloon maturities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor about balloon maturities in commercial mortgage loans, not previously disclosed."
+  },
+  {
+   "text": "Balloon maturities carry higher default risk than amortizing loans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced balloon maturity risk with additional detail."
+  },
+  {
+   "text": "Defaults on balloon loans may result in greater losses due to lump-sum repayments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on balloon loan default risk introduced just prior."
+  },
+  {
+   "text": "\u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations \u2014 Investments \u2014 U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section."
+  },
+  {
+   "text": "Fair value changes may reduce profitability and increase income volatility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on fair value change impact to existing investment risk."
+  },
+  {
+   "text": "Future acquisitions may expand exposure to mark-to-market volatility.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a forward-looking risk about future acquisitions increasing mark-to-market volatility exposure, a new specific consideration."
+  },
+  {
+   "text": "In a time of market illiquidity, we may be forced to sell assets at unfavorable prices as reported asset values may not reflect potential sale prices in stressed markets. \u200b 20 Table of Contents The impairment of derivative counterparties could adversely affect us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about forced asset sales in illiquid markets, expanding existing liquidity risk."
+  },
+  {
+   "text": "We face counterparty credit risk on in-the-money derivative positions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details counterparty credit risk on derivatives, part of existing derivative risk discussion."
+  },
+  {
+   "text": "We mitigate exposure through collateral agreements with most counterparties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing risk mitigation practice (collateral agreements), not a new risk."
+  },
+  {
+   "text": "Credit risk may increase if collateral proves to be insufficient or unrecoverable.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on collateral insufficiency risk within existing counterparty risk discussion."
+  },
+  {
+   "text": "We may also hold unsecured debt and equity investments, increasing exposure to these institutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details unsecured investment exposure to counterparties, expanding existing credit risk discussion."
+  },
+  {
+   "text": "Derivative agreements may require collateral posting under certain conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details collateral posting requirements under derivative agreements, part of existing risk theme."
+  },
+  {
+   "text": "Under certain conditions collateral requirements may rise, reducing our liquidity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on liquidity impact from rising collateral requirements, expanding existing risk."
+  },
+  {
+   "text": "Such payments carry unsecured counterparty risk due to lack of segregation or custodial safeguards.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new structural risk regarding lack of segregation/custodial safeguards for certain payments, not previously described."
+  },
+  {
+   "text": "In some jurisdictions, environmental liens may take precedence over our mortgage, impairing foreclosure rights.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about environmental liens taking precedence over mortgages in certain jurisdictions, not previously mentioned."
+  },
+  {
+   "text": "We may incur this liability even after foreclosure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates on the newly introduced environmental lien risk regarding post-foreclosure liability."
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "ticker": "NOW",
+ "sector": "Information Technology",
+ "filing_date": "2026-01-29",
+ "accession": "0001373715-26-000007",
+ "prior_accession": "0001373715-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 31,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Risk Factors Summary This summary provides an overview of the risks we face and should not be considered a substitute for the more fulsome risk factors discussed immediately following this summary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary framing sentence with no specific risk content."
+  },
+  {
+   "text": "Risks Related to the Operation of Our Business \u2022 Actual or perceived cybersecurity events experienced by us or our third-party service providers may create the perception that our platform is not secure, and we may lose customers or incur significant liabilities. \u2022 We may lose key members of our management team or qualified employees or may not be able to attract and retain employees we need.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates existing cybersecurity and personnel risks as summary bullet points, not new substantive content."
+  },
+  {
+   "text": "Companies whose products are integrated with our Platform could also seek to compete with us by blocking, limiting or imposing fees on particular integrations or data access.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive risk of integration partners blocking or charging for data access."
+  },
+  {
+   "text": "Further, to remain competitive, we may make significant investments in changing how we offer our products or services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about needing to invest to stay competitive, lacks specificity."
+  },
+  {
+   "text": "These changes could include, among others, bundling certain products and services, modifying service delivery methods, or altering pricing models, such as incorporating more consumption-based pricing components into our offerings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples (bundling, pricing changes) expanding the generic investment risk in the prior sentence."
+  },
+  {
+   "text": "With respect to service delivery methods, we entered into agreements with public cloud service providers to achieve greater operational and financial efficiencies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about cloud provider agreements as part of the broader service delivery risk."
+  },
+  {
+   "text": "Our strategy of migrating an increasing portion of Company hosted instances to these providers depends on our ability to adequately prepare our operations to facilitate the migration, our customers\u2019 willingness to use public cloud services to host their instances, and customer demand not materially falling short of our commitments with the public cloud service providers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific operational risk factors tied to migration execution and customer demand shortfalls."
+  },
+  {
+   "text": "AI technology is evolving quickly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that AI technology is evolving, no specific risk."
+  },
+  {
+   "text": "AI systems may not perform as intended or may produce outcomes, such as unreliable or biased results, that could negatively affect customer trust, result in limited adoption of our AI enabled products, expose us to reputational harm or create potential liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific AI performance risks including bias, trust loss, and liability exposure."
+  },
+  {
+   "text": "In addition, we could be precluded from doing further business with governmental entities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific consequence of being barred from government business."
+  },
+  {
+   "text": "This includes tariffs imposed by the U.S. government and other countries on imports, which we are responsible to pay in certain circumstances.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific tariff-related financial responsibility risk."
+  },
+  {
+   "text": "Additionally, as AI technologies continue to advance, threat actors can leverage these technologies to develop more sophisticated attack methods that are increasingly automated, targeted, coordinated and more difficult to defend against.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of AI-enhanced cyberattack sophistication."
+  },
+  {
+   "text": "The proliferation of these technologies could enable less skilled threat actors to initiate attacks and increase the frequency, scale and impact of security incidents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the AI-driven threat actor risk by noting increased frequency and lower skill barriers."
+  },
+  {
+   "text": "Consistent with our vulnerability management program, we prioritize security risks and consider their severity and potential impact in determining whether and when to remediate or mitigate them.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing mitigation program rather than introducing or expanding a risk."
+  },
+  {
+   "text": "As our reliance on public cloud service providers increases, we face heightened risks of outages or performance degradation beyond our direct control.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of outages tied to increasing reliance on public cloud providers."
+  },
+  {
+   "text": "We also have a large ecosystem of vendors and service providers that we use for our products, and a data compromise, supply chain issue or other incident involving a critical service provider could impact our ability to provide our services and reduce our productivity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on vendor/supply chain risk with specifics about productivity and service impact."
+  },
+  {
+   "text": "Such improvements are often complex, costly, time consuming, and may lead to impairments or write downs of existing technologies and other assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds financial consequence detail (impairments/write-downs) to existing technology improvement risk."
+  },
+  {
+   "text": "Additionally, certain of our products may use or be developed with data sets subject to open-source licenses, which may contain restrictions on data set use.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding open-source data licensing restrictions."
+  },
+  {
+   "text": "In addition, the increasing prevalence of corporate sustainability laws and regulations across the jurisdictions in which we operate may increase compliance risks and costs and, together with differing views on the appropriate role of sustainability practices and disclosures, may subject us to greater stakeholder scrutiny.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific compliance risk from sustainability laws and stakeholder scrutiny."
+  },
+  {
+   "text": "For example, the One Big Beautiful Bill Act (\u201cOBBBA\u201d) was enacted on July 4, 2025, introducing a broad range of tax reform provisions that will affect our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax legislation (OBBBA) affecting financial results."
+  },
+  {
+   "text": "During 2025, multiple jurisdictions where the Company operates enacted legislation to implement the Organisation for Economic Co-operation and Development (\u201cOECD\u201d) Pillar 2 global minimum tax rules (generally imposing a 15% minimum effective tax rate on relevant groups).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new global minimum tax legislation (Pillar 2) affecting the company."
+  },
+  {
+   "text": "In January 2026, the OECD issued additional guidance, including a safe harbor framework for certain U.S.-parented groups such as ours.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about safe harbor guidance building on the newly introduced Pillar 2 risk."
+  },
+  {
+   "text": "Even with this safe harbor, we could still be subject to local minimum tax regimes in countries that have adopted these rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates limitations of the safe harbor within the Pillar 2 risk."
+  },
+  {
+   "text": "Based on legislation enacted to date and currently available guidance, we have not recorded a material tax liability related to Pillar 2.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure that no material liability has been recorded, not itself a risk statement."
+  },
+  {
+   "text": "However, these global minimum tax rules are new and technically complex, and governments continue to issue updates on how they should be interpreted and applied.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on complexity of the newly introduced Pillar 2 rules."
+  },
+  {
+   "text": "Differences in how jurisdictions implement the rules, as well as future guidance from the OECD or taxing authorities, could change our tax obligations in future periods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues explaining how future guidance could affect tax obligations under Pillar 2."
+  },
+  {
+   "text": "These developments, along with changes in U.S. or foreign tax laws or the interaction of Pillar 2 with other tax regimes, may increase our effective tax rate and could have a material impact on our financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains potential financial impact of the newly introduced tax regime changes."
+  },
+  {
+   "text": "In addition, we are subject to ongoing tax audits globally.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk regarding ongoing global tax audits."
+  },
+  {
+   "text": "2025 Annual Report 37 Table of Contents Part I Risks Related to General Economic and Political Conditions Our industry and business may be harmed by global economic and political conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading/statement about economic and political conditions harming business."
+  },
+  {
+   "text": "In addition, from time to time, the U.S. and other key international economies have been impacted and may continue to be impacted by geopolitical and economic instability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about geopolitical and economic instability, lacks specificity."
+  },
+  {
+   "text": "Our certificate of incorporation and bylaws contain provisions that could depress our stock price by discouraging, delaying or preventing a change in control or changes in our management that our shareholders may deem advantageous.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard anti-takeover provision disclosure common to many filings, not a new specific risk."
+  }
+ ]
+}

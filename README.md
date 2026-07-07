@@ -68,7 +68,9 @@ The instructive part: a 30-name subsample showed a **strong, significant** holdo
 | NVDA | 2026 | 65 | 57 | 43 |
 | JPM  | 2026 | 79 | 55 | 18 |
 
-The labels are sensible on inspection: Apple's *"The risks and uncertainties described below are not exhaustive..."* is tagged `boilerplate_or_reorder`, while *"Beginning in the second quarter of 2025, new tariffs were announced on imports to the U.S."* is tagged `new_substantive_risk`. Roughly a quarter to a third of mechanically-added sentences are noise the classifier filters out. Whether the sharpened signal survives the full harness (all 4,705 events, holdout, net of costs) remains the open, documented next step; it is not asserted as a result here.
+The labels are sensible on inspection: Apple's *"The risks and uncertainties described below are not exhaustive..."* is tagged `boilerplate_or_reorder`, while *"Beginning in the second quarter of 2025, new tariffs were announced on imports to the U.S."* is tagged `new_substantive_risk`. Roughly a quarter to a third of mechanically-added sentences are noise the classifier filters out.
+
+The classifier was then run once over every company's latest 10-K (473 companies, 13,208 added sentences) on Claude Sonnet 5 via the Batch API ([`scripts/classify_batch.py`](scripts/classify_batch.py), about $8 one-time). The labels are cached as static JSON under [`docs/classified/`](docs/classified/) and browsable per company on the site, so visitors read a stored run rather than triggering paid model calls. Cross-model sanity check: on the four Opus-labeled names, Sonnet's substantive share agrees closely (NVDA 88% in both runs, and both models label the two Apple example sentences identically); the boundary between `new_substantive_risk` and `expanded_existing_risk` is more model-sensitive, which is why the signal counts both. Whether the sharpened signal survives the full harness (all 4,705 historical events, holdout, net of costs) remains the open, documented next step; it is not asserted as a result here.
 
 Reproduce end-to-end: `build_panel.py` → `run_study.py` (see below).
 
@@ -144,7 +146,7 @@ api/_panel.py           generated: server-side trusted panel (all events, ground
 api/_passages.py        generated: real Item 1A diff passages per company (Q&A grounding)
 tests/                  alignment gate, diff, returns engine, portfolio, tone, narrator, api, ask
 scripts/                verify_acceptance_tz, fetch_lm_dictionary, build_panel, run_study,
-                        classify_sample, narrate_event, build_web_panel, build_passages
+                        classify_sample, classify_batch, narrate_event, build_web_panel, build_passages
 docs/index.html         static page: grounded narrator + Q&A on top, verdict + charts below
 docs/panel_index.json   generated: lightweight company/event index for the search UI
 vercel.json             Vercel config (serves docs/ statically, wires /api/narrate + /api/ask)

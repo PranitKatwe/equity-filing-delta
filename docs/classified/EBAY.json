@@ -1,0 +1,218 @@
+{
+ "ticker": "EBAY",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-19",
+ "accession": "0001065088-26-000027",
+ "prior_accession": "0001065088-25-000037",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 29
+ },
+ "items": [
+  {
+   "text": "The information in this Annual Report on Form 10-K is based upon the events and circumstances known as of the date of this Annual Report on Form 10-K, and any forward-looking statements in this Annual Report on Form 10-K speak only as of the date of this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statements disclaimer language, no risk content."
+  },
+  {
+   "text": "We earn revenue primarily through fees collected on paid transactions, first-party advertising and shipping. eBay\u2019s strategy is centered on reinventing the future of ecommerce for enthusiasts by delivering trusted, engaging shopping experiences for our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business/revenue description, not a risk statement."
+  },
+  {
+   "text": "Our approach leverages our 30+ years of global commerce expertise and data with advanced technology, including the use of artificial intelligence (\u201cAI\u201d), to enhance the marketplace experience, reduce transactional friction and drive operational efficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of company strategy and technology use, not a risk."
+  },
+  {
+   "text": "In recent years, we have evolved our strategic focus around three foundational pillars \u2014 Relevant Experiences, Scalable Solutions and Magical Innovations \u2014 each designed to advance our mission of empowering enthusiasts and strengthening the eBay marketplace ecosystem. \u2022 Relevant Experiences focus on delivering personalized, intuitive and trusted shopping journeys that inspire discovery and foster loyalty, particularly within our Focus Categories, such as motor vehicles parts and accessories, collectibles, refurbished items, apparel, luxury goods and sneakers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic pillars/business focus, not a risk factor."
+  },
+  {
+   "text": "Through enhanced search, AI-powered discovery tools and curated experiences, we aim to make it easier for enthusiasts to find and buy what they love. \u2022 Scalable Solutions empower sellers of all sizes, from individual entrepreneurs to global businesses, with tools and infrastructure to grow efficiently on eBay\u2019s platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business strategy description, no risk identified."
+  },
+  {
+   "text": "We continue to invest in AI-enhanced listing capabilities, advanced advertising solutions, global shipping improvements and flexible payment options that simplify the user experience, expand reach and reduce transactional friction on eBay.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product investments, not a risk."
+  },
+  {
+   "text": "5 Table of Contents \u2022 Magical Innovations accelerate the pace of technological advancement to redefine how people buy and sell on eBay.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business strategy narrative, no risk content."
+  },
+  {
+   "text": "Initiatives such as AI-enhanced listings, live commerce experiences and next-generation personalization exemplify how we are enhancing the marketplace to be more dynamic, efficient and engaging for our community.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes innovation initiatives, not a risk."
+  },
+  {
+   "text": "Together, these foundational pillars underpin our ongoing commitments to trust and safety, community building and seller empowerment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General commitment statement, no specific risk."
+  },
+  {
+   "text": "By fostering a trusted and inclusive marketplace and equipping sellers with the tools to succeed, we aim to strengthen the resilience and vibrancy of the eBay ecosystem.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Aspirational statement about marketplace goals, not a risk."
+  },
+  {
+   "text": "We provide a comprehensive suite of features and services designed to enhance the overall customer experience, leveraging innovation and trust-based programs to simplify commerce, improve efficiency and strengthen engagement and consumer confidence across our global marketplaces.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer experience features, not a risk."
+  },
+  {
+   "text": "For sellers, we continue to expand AI across the listing workflow, using Generative AI (\u201cGen AI\u201d) to prefill item details, generate optimized titles and descriptions and in some cases recognize product images enabling faster, more complete listings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI listing features, not a risk."
+  },
+  {
+   "text": "We also continue to expand our financial services offerings, including Seller Capital, which has helped our partners provide more than $1 billion in cumulative funding since inception to small businesses, along with new payment partnerships that enhance flexibility and reliability across key markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes financial services offerings, not a risk."
+  },
+  {
+   "text": "We continue to enhance our first-party advertising solutions by introducing new dashboards and data-driven tools that help sellers increase visibility and optimize performance more efficiently.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes advertising tools, not a risk."
+  },
+  {
+   "text": "In addition, we continue to broaden our shipping programs in conjunction with our partners to provide integrated shipping solutions that lower costs, improve delivery transparency and address cross-border shipping challenges.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes shipping program expansion, not a risk."
+  },
+  {
+   "text": "For buyers, we continue to invest in technologies that enhance discovery, trust and convenience across our Marketplace platforms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes buyer-facing investments, not a risk."
+  },
+  {
+   "text": "Our AI-enhanced features and services power dynamic product recommendation feeds within our enhanced discovery platform, as well as our AI shopping agent pilot that delivers personalized search results tailored to individual preferences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI features for buyers, not a risk."
+  },
+  {
+   "text": "These innovations make it easier for buyers to discover relevant inventory and connect with products that reflect their interests and style.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes discovery benefits, not a risk."
+  },
+  {
+   "text": "We continue to expand our Focus Categories with enhancements designed for enthusiast buyers, including one-click card grading and resale for trading cards through our partnership with PSA, AI-enhanced discovery tools and interactive live shopping experiences through eBay Live.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes category expansion features, not a risk."
+  },
+  {
+   "text": "We also launched Secure Purchase which enables end-to-end digital vehicle transactions covering financing, insurance and title transfer creating a seamless experience for collectible and high-value automotive purchases.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new product launch, not a risk."
+  },
+  {
+   "text": "We continue to focus on strengthening buyer confidence and trust across our Marketplace platforms through programs that promote safety, reliability and transparency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes trust programs, not a risk."
+  },
+  {
+   "text": "The eBay Money Back Guarantee program allows buyers to obtain a refund if an item does not arrive, is damaged or faulty, or differs materially from its description, and applies to most purchases completed through qualifying payment methods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing guarantee program, not a risk."
+  },
+  {
+   "text": "In addition, our Authenticity Guarantee program continues to enhance trust and transparency by authenticating eligible luxury, collectible and high-value items across major geographical markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes authenticity program, not a risk."
+  },
+  {
+   "text": "Collectively, these programs demonstrate our ongoing commitment to maintaining a secure, reliable and transparent marketplace experience for buyers worldwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary statement about trust programs, not a risk."
+  },
+  {
+   "text": "Aligned with these climate targets, eBay conducted a comprehensive climate scenario analysis in 2025 to better understand climate-related risks and opportunities associated with leading climate models.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes sustainability analysis activity, not a specific business risk."
+  },
+  {
+   "text": "This exercise identified several areas of risk and opportunity that can be managed to enhance eBay\u2019s long-term sustainability and highlighted eBay\u2019s unique position to grow with rising consumer demand for resale and sustainable shopping.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about sustainability opportunity, not a specific risk."
+  },
+  {
+   "text": "In 2025, eBay received multiple industry awards, including America\u2019s Greenest Companies by Newsweek, World\u2019s Most Sustainable Companies by TIME, Fortune\u2019s Most Innovative Companies and Forbes Greatest Companies for Women.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes awards received, not a risk."
+  },
+  {
+   "text": "The expectations of our consumers and the type of competition we face around these factors is intense and can evolve quickly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague generic statement about competitive intensity without specifics."
+  },
+  {
+   "text": "In 2025, the One Big Beautiful Bill Act set forth new and amended withholding and reporting requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new tax law (One Big Beautiful Bill Act) creating new withholding/reporting obligations affecting sellers."
+  },
+  {
+   "text": "For example, all businesses that process payments are required to issue a Form 1099-K for all sellers who receive more than $20,000 and have over 200 transactions; however, circumstances exist in which businesses are required to withhold and issue a Form 1099-K to sellers for their first transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on the new 1099-K withholding threshold risk introduced in the prior sentence."
+  },
+  {
+   "text": "In 2025, the United States government eliminated the long-standing \u201cde minimis\u201d exemption (under Section 321 of the Tariff Act of 1930), which previously allowed low-value parcels (valued at USD $800 or less) to enter the United States without duties or formal customs clearance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces elimination of de minimis customs exemption, a major new regulatory/cost risk for cross-border commerce."
+  },
+  {
+   "text": "The exemption was first eliminated for shipments originating in China and Hong Kong on May 2, 2025, and then for all parcels effective August 29, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides timeline detail on the de minimis exemption elimination risk already introduced."
+  },
+  {
+   "text": "As a result, all imports, regardless of value, are now subject to applicable duties, taxes, fees and standard customs compliance procedures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the consequence (duties/taxes on all imports) of the previously introduced de minimis risk."
+  },
+  {
+   "text": "Importers, such as eBay buyers and sellers, must supply additional data for entry (e.g., 10-digit Harmonized Tariff Schedule codes, Country of Origin, etc.) and all shipments are now subject to applicable tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific compliance requirements stemming from the de minimis exemption removal risk."
+  },
+  {
+   "text": "These developments fundamentally change how cross-border transactions are handled, especially when sellers ship directly to U.S. buyers, and they increase cost, complexity and compliance burden for many cross-border sellers, which could lead to reduced cross-border volume or reconfiguration of supply-chain and fulfillment strategies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes business impact (cost, complexity, volume reduction) of the same customs risk already introduced."
+  },
+  {
+   "text": "The European Union has announced it will also eliminate its de minimis exemption, which is currently set at EUR 150, in July 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new geographic risk: EU eliminating its own de minimis exemption, a distinct regulatory change."
+  },
+  {
+   "text": "For all packages containing goods valued under EUR 150, a simplified tax duty of EUR 3 per item will be introduced.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific tax mechanism related to the EU de minimis risk just introduced."
+  },
+  {
+   "text": "In addition, a so-called \u201chandling fee\u201d per package is expected to be introduced in 2026 for all packages entering the European Union from outside the European Union.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on additional handling fee related to the EU regulatory risk."
+  },
+  {
+   "text": "The United Kingdom is also expected to follow suit by eliminating its de minimis exemption, although the timing remains uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the de minimis elimination risk to another jurisdiction (UK), same category of risk."
+  },
+  {
+   "text": "Our scale enables us to make targeted investments that enhance our ability to serve customers globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about scale enabling investment, not a specific risk."
+  }
+ ]
+}

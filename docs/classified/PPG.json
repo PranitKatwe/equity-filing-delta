@@ -1,0 +1,58 @@
+{
+ "ticker": "PPG",
+ "sector": "Materials",
+ "filing_date": "2026-02-19",
+ "accession": "0000079879-26-000046",
+ "prior_accession": "0000079879-25-000034",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "We are incorporating artificial intelligence technologies into our research, products, services and processes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply states the company is incorporating AI into its operations; a factual/contextual statement without describing a specific risk."
+  },
+  {
+   "text": "These technologies may present business, operational, compliance and reputational risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic, vague framing that AI 'may present' various risks without specifying any concrete new exposure."
+  },
+  {
+   "text": "Artificial intelligence (\u201cAI\u201d) and machine-learning technology continue to advance rapidly, presenting both opportunities and risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about AI technology advancing and presenting opportunities/risks; standard cautionary framing with no specific risk detail."
+  },
+  {
+   "text": "If we cannot incorporate these rapidly advancing technologies as quickly or effectively as other companies, our competitive position and business results may suffer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk: failing to adopt AI as fast as competitors could harm competitive position and results."
+  },
+  {
+   "text": "Incorporation of these new technologies into our processes may result in new or expanded risks, including risks related to regulatory compliance, litigation, ethical concerns, confidentiality or cybersecurity, among other factors that could potentially adversely impact our business, reputation and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Enumerates specific new risk categories (regulatory compliance, litigation, ethical concerns, confidentiality, cybersecurity) tied to AI adoption, a concrete expansion of risk exposure."
+  },
+  {
+   "text": "The use of AI in the development of our products and services could increase the risk of loss or theft of our intellectual property and could subject us to incremental risks related to data privacy and cybersecurity.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies concrete new risks of IP theft and data privacy/cybersecurity exposure specifically from AI use in product development."
+  },
+  {
+   "text": "The use of AI can lead to unintended consequences, including generating content that appears correct but is factually inaccurate, misleading or otherwise flawed, or that results in unintended biases and discriminatory outcomes, which could harm our stakeholders, our reputation and our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a specific new risk: AI generating inaccurate or biased content that could harm stakeholders, reputation, and business."
+  },
+  {
+   "text": "Additionally, we face risks of competitive disadvantage if our competitors are able to more effectively use AI to create products or services at a lower cost or higher quality compared to PPG\u2019s competing products or services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk where rivals' more effective use of AI could produce superior or cheaper products, disadvantaging the company."
+  }
+ ]
+}

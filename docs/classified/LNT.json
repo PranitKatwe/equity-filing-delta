@@ -1,0 +1,193 @@
+{
+ "ticker": "LNT",
+ "sector": "Utilities",
+ "filing_date": "2026-02-20",
+ "accession": "0000352541-26-000007",
+ "prior_accession": "0000352541-25-000014",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 20,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "Subsequent to December 31, 2025, IPL exited the steam business.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a concrete business change\u2014IPL exiting the steam business\u2014introducing a new, specific operational/financial risk not previously disclosed."
+  },
+  {
+   "text": "IPL would apply excess earnings to the remaining net book value of IPL\u2019s highest earning asset with advance ratemaking principles based on its authorized return on common equity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific regulatory mechanism detail about how excess earnings are applied, expanding on existing rate-making risk disclosures."
+  },
+  {
+   "text": "In February 2026, the EPA finalized a rule to rescind its 2009 finding that GHG contributes to climate change, concluding that regulation of GHG falls outside of the scope of the CAA.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new EPA action rescinding the GHG endangerment finding, a material regulatory development affecting climate risk exposure."
+  },
+  {
+   "text": "In addition, the final rule does not impact existing natural gas-fired combustion turbines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifies scope limitation of a rule (no impact on existing turbines) rather than introducing or expanding a risk."
+  },
+  {
+   "text": "In June 2025, the EPA proposed to repeal CAA Section 111(d) and a final rule is expected in the first half of 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory action (proposed repeal of CAA 111(d)) with a timeline, a concrete new regulatory risk."
+  },
+  {
+   "text": "The proposed repeal has delayed the submittal of state plans for EPA approval by the May 2026 deadline.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on regulatory timeline delays stemming from the previously noted repeal proposal."
+  },
+  {
+   "text": "In June 2025, the EPA proposed to repeal the May 2024 111(b) revised standards and a final rule is expected in the first half of 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory action (proposed repeal of 111(b) standards) affecting compliance obligations."
+  },
+  {
+   "text": "In January 2026, EPA finalized updates to the NSPS for combustion turbines built, reconstructed, or modified after December 13, 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new finalized EPA rule updating NSPS requirements, a concrete new compliance risk."
+  },
+  {
+   "text": "The rule established revised nitrogen oxides emission limits based on the size, capacity factor, efficiency, and fuel type for new, reconstructed or modified combustion turbines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on the new emission limits, expanding on the previously mentioned NSPS rule."
+  },
+  {
+   "text": "The rule maintained the prior sulfur dioxide emission limits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States that prior SO2 limits were maintained, indicating no new risk, just clarifying detail."
+  },
+  {
+   "text": "Alliant Energy, IPL and WPL expect to be able to comply with the updated NSPS requirements and will continue to monitor potential litigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General reassurance statement about expected compliance, not introducing new risk."
+  },
+  {
+   "text": "In December 2025, EPA finalized an extended timeframe for the new requirements, which must now be implemented no later than December 31, 2034.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds timeline detail (extended compliance deadline) to the previously disclosed regulatory change."
+  },
+  {
+   "text": "In February 2026, the EPA issued a final rule extending certain compliance deadlines under the CCR Rule.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on a new EPA rule extending CCR compliance deadlines, expanding existing environmental compliance risk."
+  },
+  {
+   "text": "IPL\u2019s wholesale power agreement with Southern Minnesota Energy Cooperative expired in 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses expiration of a specific wholesale power agreement, a concrete new business/financial risk regarding lost revenue."
+  },
+  {
+   "text": "Subsequent to December 31, 2025, IPL exited the steam business.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate disclosure of IPL exiting the steam business, a specific new operational risk."
+  },
+  {
+   "text": "Risks Related to Data Center and Other Large Load Growth Customers Demand from data centers and other large load growth customers may impact our business - Our ability to manage the development and implementation of complex business opportunities related to the growing demand for data centers may be limited by financial, operational, or regulatory factors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding data center and large load growth customer demand affecting business operations."
+  },
+  {
+   "text": "We may enter into agreements requiring significant capital investment in generation and transmission capacity for large load growth customers before realizing any potential returns.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific financial risk of significant capital investment before returns are realized for large load customers."
+  },
+  {
+   "text": "We may not be able to affordably and timely construct generation, or cause transmission companies to affordably and timely construct transmission infrastructure to meet potential load growth from any large load growth customer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding inability to timely and affordably build generation/transmission for large load customers."
+  },
+  {
+   "text": "We may not be able to adequately protect against the risks inherent in relying on rapid growth within a small number of large customers in a single industry.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new concentration risk related to reliance on a small number of large customers in a single industry."
+  },
+  {
+   "text": "The individual customer rates may not provide sufficient revenues to fully recover the costs, the contracts with large load growth customers may increase counterparty credit risk, and the costs to provide service may be higher than expected.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new specific risks of insufficient revenue recovery and counterparty credit risk from large load contracts."
+  },
+  {
+   "text": "Large load growth customers may not be able to meet obligations in our contracts, including the obligation to pay any termination charges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of large customers failing to meet contractual obligations, including termination charges."
+  },
+  {
+   "text": "Additionally, if pipeline expansions needed for new gas\u2011fired generation are delayed or not approved, we may be unable to meet peak requirements for data center load, increasing market purchases or capacity procurement costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding pipeline expansion delays affecting ability to meet data center peak demand."
+  },
+  {
+   "text": "16 Table of Contents Laws, regulations, and opposition to data centers may impact our business - Federal, state or local legislation, rulemaking, or siting standards that specifically restrict or delay the zoning, siting or operation of data centers could reduce or defer expected load growth and impair cost recovery for associated infrastructure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory/legislative risk specific to data center siting restrictions impacting load growth and cost recovery."
+  },
+  {
+   "text": "Community opposition to data centers\u2014driven by concerns about land use, water consumption, generation emissions, noise, or traffic\u2014could result in permitting delays, litigation, project cancellations, or additional mitigation costs, reducing expected load growth.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of community opposition to data centers causing delays, litigation, or cancellations."
+  },
+  {
+   "text": "As a result, we may experience adverse impacts on our financial condition and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic conclusory statement about potential adverse impacts, not adding new specific risk detail."
+  },
+  {
+   "text": "Legislative or regulatory changes that enable large load growth customers, including data centers, to own or procure on-site generation or to self-supply through sources behind-the-meter or behind-the-meter arrangements could materially reduce retail sales, shift cost recovery to remaining customers, and impact our ability to earn authorized rates of return.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding legislative changes enabling customer self-supply that could materially reduce retail sales."
+  },
+  {
+   "text": "We may not be able to meet our resource adequacy requirements if GHG regulations require us to shut down fossil fuel generating facilities before we can build new generating facilities to meet growing demand for electricity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing GHG regulation risk by specifying resource adequacy concerns tied to fossil fuel plant retirements."
+  },
+  {
+   "text": "However, the One Big Beautiful Bill Act (OBBB Act) includes significant changes to renewable tax credits, including accelerating the termination of production tax credits and investment tax credits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legislative change (OBBB Act) affecting renewable tax credit timelines, a material new financial risk."
+  },
+  {
+   "text": "These changes may materially limit our ability to sell or transfer renewable tax credits at reasonable terms in future periods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced OBBB Act risk by detailing limits on selling/transferring tax credits."
+  },
+  {
+   "text": "The OBBB Act\u2019s early termination of production tax credits for projects beginning construction more than 12 months after enactment may also limit our ability to qualify new facilities for future production tax credits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the OBBB Act's early termination provisions affecting qualification for future tax credits, expanding the prior point."
+  },
+  {
+   "text": "The Inflation Reduction Act and related guidance also include limitations on the use of components and/or financing from entities with ties to certain foreign countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on existing IRA-related foreign sourcing restrictions relevant to tax credit risk."
+  },
+  {
+   "text": "If our generation or energy storage projects include equipment or subcomponents sourced from entities with ties to certain foreign countries, related production or investment tax credits may be reduced or denied, which could increase customer costs and adversely affect our financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific financial impact (reduced/denied tax credits) from foreign-sourced components, expanding on the IRA restriction risk."
+  },
+  {
+   "text": "The OBBB Act further expands limitations on the use of components and/or financing from entities with ties to certain foreign countries, which could reduce or disqualify renewable tax credits for generation and energy storage projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on foreign sourcing restrictions now under the OBBB Act, building on the previously mentioned IRA limitations."
+  },
+  {
+   "text": "We may not realize anticipated or expected growth from large load growth customers, due to many factors, including changes in customers\u2019 goals, changes in environmental policies, improvements in energy efficiency or technology, or competition from other companies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that anticipated growth from large load customers may not materialize due to various factors."
+  },
+  {
+   "text": "We may not be able to provide sufficient transmission capacity in a timely manner or transmission providers may be unable to timely provide transmission upgrades to enable connecting new generation to the grid, which could delay expected system load demand from large load growth customers such as data centers, expose us to market purchases and reduce expected revenues.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding insufficient transmission capacity delaying large load customer connections and exposing to market purchase costs."
+  }
+ ]
+}

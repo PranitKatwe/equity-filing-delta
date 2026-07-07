@@ -1,0 +1,218 @@
+{
+ "ticker": "UDR",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-17",
+ "accession": "0000074208-26-000013",
+ "prior_accession": "0000074208-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 33
+ },
+ "items": [
+  {
+   "text": "At December 31, 2025, the Company was developing one wholly-owned community totaling 300 apartment homes, none of which have been completed .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure about a development community, not a risk statement."
+  },
+  {
+   "text": "Human Capital Management \u200b Our people are fundamental to executing our strategy, serving our residents and customers, and delivering long-term value for our company and shareholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about human capital importance, no specific risk."
+  },
+  {
+   "text": "We focus on building a workforce and culture that supports operational excellence, strong leadership, and an associate experience that attracts, develops, motivates, and retains talent in a competitive labor environment. \u200b As of December 31, 2025, our Company had approximately 1,420 full-time associates and 6 part-time associates, all of whom are dedicated to the success of our organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive workforce statistics, not a risk."
+  },
+  {
+   "text": "4 Table of Contents Strategy and Governance In 2025, we strengthened our human capital foundation and advanced a multi-year Human Resources (\u201cHR\u201d) evolution roadmap designed to build a scalable, disciplined people-function capable of supporting long-term growth and transformation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General narrative about HR strategy initiatives, no specific risk identified."
+  },
+  {
+   "text": "HR placed an emphasis on strengthening execution, reducing risk, and improving consistency across key human capital practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about HR focus areas."
+  },
+  {
+   "text": "Across the organization, leadership and HR partner to build a culture aligned to strategy and ensure human capital risks and opportunities are identified and addressed through policy, process, and governance enhancements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic governance description, no concrete risk."
+  },
+  {
+   "text": "Associate Engagement and Culture Workforce health is a competitive advantage for us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about workforce health as competitive advantage."
+  },
+  {
+   "text": "In 2025, we maintained strong engagement results that were consistently above industry benchmarks and experienced turnover that remained well below industry averages, reflecting trust in leadership, alignment to strategy, and a positive outlook for the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive engagement/turnover results, not a risk."
+  },
+  {
+   "text": "Turnover continued to trend downward, reaching 19.4%, which outperformed the industry benchmark of 34% and improved compared to prior periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Turnover statistic, favorable data point, not a risk."
+  },
+  {
+   "text": "These results reinforce our view that continued investment in the associate experience supports performance, retention, and organizational resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement reinforcing positive HR investment view."
+  },
+  {
+   "text": "In 2025, we activated our culture and people philosophy through the launch of Life@UDR, our company-wide culture platform and employee value proposition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of a culture platform launch, descriptive not risk."
+  },
+  {
+   "text": "This work strengthened how we communicate across the organization and improved clarity and connection for both associates and candidates through consistent storytelling, refreshed communications channels, and a more cohesive cultural narrative.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive communication improvement, no risk."
+  },
+  {
+   "text": "Associate Compensation We believe competitive rewards are essential to attracting and retaining talent, and we are committed to maintaining fair, market-competitive compensation practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General compensation philosophy statement."
+  },
+  {
+   "text": "To support informed and equitable decisions, we benchmark compensation using a combination of broad-based market data and industry- and geography-specific public compensation information, and we review and adjust our salary ranges as appropriate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benchmarking process, not a risk."
+  },
+  {
+   "text": "These benchmarks and related compensation updates are reviewed annually with executive leadership and presented to our Board of Directors to support oversight of our compensation practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes review process for compensation, not a risk."
+  },
+  {
+   "text": "To strengthen governance and alignment between pay and performance, we also improved compensation oversight and structure, including centralized ownership of the annual compensation planning cycle, an internal Compensation Committee to provide executive-level oversight, a company-wide market-pricing refresh and streamlined pay structures, and a redesigned officer bonus plan to strengthen performance accountability and alignment between results and rewards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes governance improvements, not a risk factor."
+  },
+  {
+   "text": "Associate Health and Wellness We believe robust and affordable benefits programs are essential to prioritizing the well-being of our associates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General benefits philosophy statement."
+  },
+  {
+   "text": "In response to associate feedback and rising healthcare costs, we redesigned medical benefits to better align with market practices by simplifying plan options, introducing a high-deductible plan with employer-funded Health Savings Account (\u201cHSA\u201d) contributions, conducting active enrollment to increase education and participation, and expanding family planning benefits to include infertility coverage and support.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefit redesign, operational detail not risk."
+  },
+  {
+   "text": "We continued differentiated wellbeing support through our Lifestyle Spending Account benefit, which provides associates with $1,000 annually to spend as they choose, with nearly 91% participation companywide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a benefit program and participation rate, not a risk."
+  },
+  {
+   "text": "5 Table of Contents Associate Growth and Development We invest in learning and development to improve leadership capability, support internal mobility, and strengthen performance outcomes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about investing in development."
+  },
+  {
+   "text": "In 2025, we advanced manager effectiveness through a unified enterprise learning strategy and targeted training aligned to key moments in the talent journey.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes training initiative, not a risk."
+  },
+  {
+   "text": "A strong talent pipeline and thoughtful succession planning support business continuity and execution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about succession planning importance."
+  },
+  {
+   "text": "In 2025, we modernized key talent processes and expanded tools to support performance management, talent reviews, and succession planning, including the deployment of modules to support performance reviews, potential assessments, and succession planning.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes talent process modernization, not a risk."
+  },
+  {
+   "text": "We use structured talent frameworks to promote consistent performance expectations and to identify and develop high-performing and high-potential talent.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes talent frameworks, not a risk."
+  },
+  {
+   "text": "We also evaluate retention risk and business impact as part of leadership-level talent discussions to inform targeted development, engagement, and succession actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes retention risk evaluation process, generic HR practice not a disclosed business risk."
+  },
+  {
+   "text": "Compliance and Risk Mitigation We partner closely with legal and operational leaders to manage employment-related risk, maintain compliance, and drive consistent workplace practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about compliance partnership."
+  },
+  {
+   "text": "In 2025, key enhancements included strengthening employment law and employee relations support, improving compensation governance, and implementing new and updated policies and controls to mitigate risk and strengthen compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes compliance enhancements, not a specific risk."
+  },
+  {
+   "text": "Diversity and Inclusion We seek to attract qualified talent while maintaining fair and consistent hiring processes and prioritize respect, fairness, and the promotion of diverse perspectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General diversity and inclusion statement."
+  },
+  {
+   "text": "Over the three-year period ending December 31, 2025, 438 promotions occurred, with 52% of those promoted to resident services manager, director, or more senior job classifications being female and 44% non-White. \u200b Reporting Segments We report in two segments: Same-Store Communities and Non-Mature Communities/Other .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Diversity statistics and segment reporting description, not a risk."
+  },
+  {
+   "text": "(b) In January 2024, the Company acquired its joint venture partner\u2019s common equity interest in a 173 apartment home operating community.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure about a past acquisition transaction."
+  },
+  {
+   "text": "At December 31, 2025, the Company was developing one wholly-owned community totaling 300 apartment homes, none of which have been completed .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate factual disclosure about development community."
+  },
+  {
+   "text": "At December 31, 2025, the Company was developing one wholly-owned community totaling 300 apartment homes, none of which have been completed .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate factual disclosure about development community."
+  },
+  {
+   "text": "We intend to continue to do so in the future as appropriate opportunities arise.",
+   "category": "reworded_same_meaning",
+   "rationale": "General continuation statement about future opportunities, follows from investment risk context without adding new specifics."
+  },
+  {
+   "text": "We may also invest, directly or indirectly, in technology companies developing technologies that are of interest to us and we may not realize the intended benefits of such investments and may incur losses in connection with such investments. \u200b Potential Liability for Environmental Contamination Could Result in Substantial Costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of losses from investments in technology companies."
+  },
+  {
+   "text": "These laws, regulations and policies may apply prospectively or retroactively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic legal/regulatory boilerplate about laws applying prospectively or retroactively."
+  },
+  {
+   "text": "For example, in 2023, Montgomery County, Maryland enacted rent control that initially impacts a portion of our portfolio in that market.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new rent control law in Montgomery County affecting portfolio."
+  },
+  {
+   "text": "In 2024, the State of New York passed the Good Cause Eviction Law, which established rent limits on certain market-rate apartments.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new Good Cause Eviction Law in New York imposing rent limits."
+  },
+  {
+   "text": "In the City of New York, the new administration is seeking to freeze rent increases for covered properties.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new regulatory action seeking to freeze rent increases in NYC."
+  },
+  {
+   "text": "Although our properties currently have minimal exposure to the city\u2019s allowable annual rent increases, such a freeze, or other measures that seek to increase affordability, would in turn reduce our property values.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential impact of the NYC rent freeze on property values, expanding on the previously introduced risk."
+  },
+  {
+   "text": "In 2024, the City of Salinas, California passed a rent stabilization ordinance that impacted all our properties within the city.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new rent stabilization ordinance in Salinas, California impacting properties."
+  }
+ ]
+}

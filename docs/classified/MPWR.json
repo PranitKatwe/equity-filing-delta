@@ -1,0 +1,218 @@
+{
+ "ticker": "MPWR",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-27",
+ "accession": "0001437749-26-006113",
+ "prior_accession": "0001437749-25-005903",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 18
+ },
+ "items": [
+  {
+   "text": "Storage and computing was our largest end market in 2025, closely followed by enterprise data.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about market composition, not a risk disclosure."
+  },
+  {
+   "text": "In addition, diversifying our manufacturing footprint across multiple countries helps mitigate operational risks and enhances our ability to adapt and maintain continuity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive statement about mitigation strategy, generic framing rather than a new risk."
+  },
+  {
+   "text": "Our total compensation packages are competitive, fair, and structured to encourage employees to invest in our future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compensation competitiveness, not risk-related."
+  },
+  {
+   "text": "Blegen will cease to serve as Executive Vice President and Chief Financial Officer.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific CFO leadership transition, a concrete organizational change not previously disclosed."
+  },
+  {
+   "text": "Rob Dean, our current Corporate Controller, will commence serving as the Interim Chief Financial Officer at that time.",
+   "category": "new_substantive_risk",
+   "rationale": "Names a new interim CFO, part of the same leadership transition disclosure."
+  },
+  {
+   "text": "Michael Hsing founded MPS in 1997 and currently serves as our President, Chief Executive Officer, Chairman of the Board of Directors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical background information about the founder/CEO."
+  },
+  {
+   "text": "Hsing took the company through its IPO.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical fact about the IPO, not a risk."
+  },
+  {
+   "text": "Under his leadership, we are constantly creating cutting-edge products to improve the quality of life with green, easy-to-use systems solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic promotional language about leadership and products."
+  },
+  {
+   "text": "Bernie Blegen currently serves as Executive Vice President and Chief Financial Officer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical statement about current CFO role."
+  },
+  {
+   "text": "Blegen served as our Corporate Controller, and from March 2016 to July 2016, as our interim Chief Financial Officer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical career background, not a risk."
+  },
+  {
+   "text": "Blegen joined us with more than 25 years of experience in corporate strategy, mergers and acquisitions, tax, finance and accounting in the semiconductor, software and publishing industries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical experience details."
+  },
+  {
+   "text": "He served as our President of Asia Operations since January 2008.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical role description."
+  },
+  {
+   "text": "Saria Tseng currently serves as Executive Vice President, Strategic Corporate Development, General Counsel and Corporate Secretary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical statement about an executive's current role."
+  },
+  {
+   "text": "We are also subject to U.S. laws restricting or prohibiting investments in certain countries, that may harm our ability to purchase from, invest in, or collaborate with, companies in those countries and could subject us to fines, penalties or other enforcement action.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific legal/regulatory risk regarding U.S. investment restrictions affecting business operations."
+  },
+  {
+   "text": "Although we have made significant progress in diversifying capacity outside of China, there is no guarantee that our progress is sufficient or will be sufficient to mitigate these risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing China concentration risk by noting diversification may be insufficient."
+  },
+  {
+   "text": "Furthermore, we cannot guarantee that our new manufacturing, testing, assembly and packaging partners will not be costlier than our legacy partners in China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing supply chain diversification risk regarding cost implications."
+  },
+  {
+   "text": "In addition, as we pivot our manufacturing, testing, assembly and packaging capacity concentration from China to another region, we will be subject to the risks of doing business in that particular region.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing manufacturing concentration risk by noting new regional risks from diversification."
+  },
+  {
+   "text": "If we decide to further diversify our capacity, it could be costly due to lost pricing benefits from production volume, as well as the time and cost to qualify new partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on cost risks tied to existing diversification/supply chain risk."
+  },
+  {
+   "text": "Furthermore, there is no guarantee that the quality of the products from new suppliers will be acceptable to us, or that these suppliers will be able to meet our demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new detail about supplier quality/capacity risk tied to existing diversification risk."
+  },
+  {
+   "text": "Specifically, our top three customers, all of which are distributors, accounted for an aggregate of 54%, 61% and 55% of our revenue in the years ended December 31, 2025, 2024 and 2023, respectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated concentration percentages, expanding on existing customer concentration risk."
+  },
+  {
+   "text": "Concentration in a small number of distributors increases our exposure to their credit profiles, inventory practices, covenant constraints, and strategic priorities, any of which can amplify order volatility or returns.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factors tied to distributor concentration such as credit exposure and inventory practices."
+  },
+  {
+   "text": "Such concessions can include long\u2011term capacity reservations, prepayments, take\u2011or\u2011pay terms, or tool funding, which may increase working capital needs and reduce flexibility across product cycles.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific contractual mechanisms that expand on the customer concentration risk."
+  },
+  {
+   "text": "We work with our engineers and suppliers to continuously seek opportunities to reduce our product costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cost reduction efforts, not a risk disclosure."
+  },
+  {
+   "text": "However, the price and availability of these commodities is beyond our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about commodity price volatility."
+  },
+  {
+   "text": "Cybersecurity incidents, attacks and threats are increasingly sophisticated, constantly evolving and originate from many sources globally and often cannot be recognized or understood until the target has already been attacked.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of cybersecurity threat sophistication, common boilerplate language."
+  },
+  {
+   "text": "Despite our efforts to prevent these threats and disruptions to our information technology systems, these systems and those of our third-party providers may be affected by damage or interruption resulting from, among other causes, cybersecurity incidents, attacks, security breaches, power outages, system or operational failures or malware (including ransomware and other programs that operate with malicious intent).",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing cybersecurity risk language about potential system disruptions."
+  },
+  {
+   "text": "In addition, we also use third-party cloud services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple statement of fact about using third-party cloud services, no new risk detail."
+  },
+  {
+   "text": "Such use of AI tools poses potential risks relating to intellectual property and data protection, including cybersecurity risks, exposure of our proprietary information to unauthorized recipients, the misuse of our or third-party intellectual property, and the inability to claim ownership of intellectual property rights in outputs of AI tools.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risks specifically related to AI tool usage, IP exposure, and data protection."
+  },
+  {
+   "text": "Governments around the world have adopted, and may continue to adopt, laws and regulations related to AI, including the European Union\u2019s (\u201cEU\u201d) Artificial Intelligence Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new specific regulatory risk from AI laws such as the EU AI Act."
+  },
+  {
+   "text": "In addition to AI regulations under general consumer protection and privacy laws, legislations specifically aimed at regulating the development, deployment and use of AI have been enacted in several states and have also been proposed at the federal level.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on AI regulatory risk by noting additional state and federal developments."
+  },
+  {
+   "text": "Recent Executive Orders have further addressed federal regulation and policies related to AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands AI regulatory risk with mention of Executive Orders."
+  },
+  {
+   "text": "These laws, proposed laws, and Executive Orders may create inconsistent and evolving compliance obligations, which may be costly and difficult to resolve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes compliance risk from the previously introduced AI regulatory landscape."
+  },
+  {
+   "text": "In June 2025, the Group of Seven agreed to exclude U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific tax policy development (G7 exclusion) that could affect the company's tax exposure."
+  },
+  {
+   "text": "Multi-National Entities from certain aspects of the global minimum tax (the \u201cG7 Statement\u201d).",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of the G7 tax statement providing further detail on the same new risk."
+  },
+  {
+   "text": "We will continue to monitor developments of the new Administrative Guidance and the G7 Statement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring developments, no new risk substance."
+  },
+  {
+   "text": "We cannot predict the timing or manner in which we would adopt the new Administrative Guidance, the G7 Statement, or whether the OECD will release additional guidance in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty detail to the previously introduced tax policy risk."
+  },
+  {
+   "text": "The potential impact could materially and adversely our future global tax provision and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential financial impact tied to the newly introduced tax risk."
+  },
+  {
+   "text": "We base our management judgements on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, as provided in the section titled Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about management's use of judgment and cross-reference to MD&A."
+  },
+  {
+   "text": "Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another filing section."
+  },
+  {
+   "text": "Our operating results may be adversely affected if our assumptions change or if actual circumstances differ from those in our assumptions, which could cause our operating results to fall below the expectations of securities analysts and investors, resulting in a decline in the trading price of our common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about assumptions affecting stock price, common boilerplate."
+  }
+ ]
+}

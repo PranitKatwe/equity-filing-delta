@@ -1,0 +1,138 @@
+{
+ "ticker": "ADBE",
+ "sector": "Information Technology",
+ "filing_date": "2026-01-15",
+ "accession": "0000796343-26-000003",
+ "prior_accession": "0000796343-25-000004",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "For example, artificial intelligence (\u201cAI\u201d), including generative and agentic, enables users of all skill levels to create and provide new ways of marketing, creating and editing content and interacting with documents.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General descriptive statement about AI capabilities and market trends without asserting a specific risk to the company."
+  },
+  {
+   "text": "Our numerous competitors include companies of various sizes and both public and private companies, including large, global companies and smaller companies with more specialized focuses, new entrants, and AI or cloud-native companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the existing competition risk factor to explicitly include new categories of competitors such as AI or cloud-native companies."
+  },
+  {
+   "text": "Our competitors may deploy technical, marketing and financial resources more easily and effectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate language about competitors having more resources, common in competition risk sections."
+  },
+  {
+   "text": "Our competitors may undertake faster and more far-reaching and successful development efforts or marketing campaigns, may adopt more aggressive pricing policies or may more effectively appeal to customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate competitive risk language about faster development or aggressive pricing, not specific or new."
+  },
+  {
+   "text": "Our competitors or other third parties may develop AI solutions more rapidly or successfully, including but not limited to different data training strategies or proprietary access to data and, as a result, other AI solutions may achieve greater and faster adoption.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive threat tied to AI development speed and data strategies, a materially new risk angle."
+  },
+  {
+   "text": "AI regulatory framework remains in development and has been introduced at the federal level through executive orders and legislation has been introduced and enacted at the state level.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory risk regarding evolving AI legislation at federal and state levels."
+  },
+  {
+   "text": "Some of our operations are subject to the EU AI Act and depending on how the EU AI Act is implemented and interpreted, we may have to adapt our business practices, contractual arrangements and services to comply with such obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new compliance risk tied to the EU AI Act affecting business practices and contracts."
+  },
+  {
+   "text": "Non-compliant companies under the EU AI Act may be subject to administrative fines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a consequence (administrative fines) of the previously introduced EU AI Act risk, expanding on it."
+  },
+  {
+   "text": "The use and availability of third-party AI models in our solutions could result in scrutiny and legal liability, including intellectual property infringement claims.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legal risk regarding third-party AI model use and IP infringement claims."
+  },
+  {
+   "text": "Such claims or scrutiny could cause reputational harm and loss of customers, and adversely impact our business and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the previous sentence by detailing potential reputational and financial consequences of AI-related legal scrutiny."
+  },
+  {
+   "text": "We have acquired and may continue to acquire businesses, products, talent and technologies as part of our business strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about acquisition strategy, common boilerplate language without specific new risk detail."
+  },
+  {
+   "text": "Some of our solutions include third-party open-source software, which may contain security vulnerabilities that may be exploited, potentially compromising our solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding open-source software vulnerabilities that could be exploited."
+  },
+  {
+   "text": "Increasing use of AI in our internal systems and solutions may create new attack methods.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that AI use internally could create novel attack vectors."
+  },
+  {
+   "text": "Our solutions are incorporated into the supply chain of a large number of companies worldwide and, as a result, if our solutions experience a compromise, a large portion or, in some instances, all of our customers and their data for a given solution could be simultaneously affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific supply chain risk describing potential simultaneous impact on many customers from a single compromise."
+  },
+  {
+   "text": "The potential liability and associated consequences we could suffer as a result of such a large scale event could be significant, and materially and adversely impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequences of the previously introduced supply chain compromise risk."
+  },
+  {
+   "text": "There can be no assurance that we have the capability to detect all vulnerabilities or new attack methods and our internal security controls may not keep pace with quickly evolving threats.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing cybersecurity risk discussion about detection limitations, not a wholly new risk category."
+  },
+  {
+   "text": "Certain other countries in which we do business have also established specific legal requirements for cross-border transfers of personal information and data localization.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory risk regarding cross-border data transfer and localization laws in other countries."
+  },
+  {
+   "text": "We may be subject to certain aspects of the EU\u2019s Digital Services Act, which imposes additional legal requirements on certain types of digital service providers, including online platforms and content sharing sites.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory risk under the EU Digital Services Act."
+  },
+  {
+   "text": "Moreover, some of our customers are subject to the EU\u2019s Digital Operational Resilience Act and similar UK regulatory requirements on operational resilience.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory risk tied to the EU Digital Operational Resilience Act and UK equivalents."
+  },
+  {
+   "text": "There may be certain aspects of the EU\u2019s Data Act that could apply to certain types of cloud services providers and require them to facilitate data portability (e.g., switching between services), as well as certain requirements concerning cross border international transfers of, and governmental access to, non-personal information outside of the European Economic Area.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory risk under the EU Data Act regarding data portability and cross-border transfers."
+  },
+  {
+   "text": "Department of Justice issued a rule entitled Preventing Access to U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory action (DOJ rule) creating new compliance obligations."
+  },
+  {
+   "text": "Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons, which placed additional restriction on certain data transactions involving countries of concern and covered individuals that may impact certain business activities, and has impacted the transfer of data in connection with certain transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail and impact of the DOJ rule introduced in the prior sentence."
+  },
+  {
+   "text": "These changes may impact the duration of customer relationships and result in additional compliance and operational costs, which may adversely impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes downstream business impacts of the previously introduced regulatory changes, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "Additionally, we are subject to complex regulatory requirements and executive orders, including those related to procurement; export controls; employment; security; and other evolving government-specific contractual requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk categories (procurement, export controls, employment, security) not previously mentioned."
+  }
+ ]
+}

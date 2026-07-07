@@ -1,0 +1,183 @@
+{
+ "ticker": "SW",
+ "sector": "Materials",
+ "filing_date": "2026-02-27",
+ "accession": "0001628280-26-012555",
+ "prior_accession": "0002005951-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 33,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 17
+ },
+ "items": [
+  {
+   "text": "The Company may not be able to accurately predict, control or mitigate these risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about inability to predict/control risks, no specific content."
+  },
+  {
+   "text": "Statements in this section are based on the Company\u2019s beliefs and opinions regarding matters that could materially adversely affect the Company in the future and are not representations as to whether such matters have or have not occurred previously.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statement disclaimer language."
+  },
+  {
+   "text": "The risks and uncertainties described below are not exhaustive and should not be considered a complete statement of all potential risks or uncertainties that the Company faces or may face in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that risk list is not exhaustive."
+  },
+  {
+   "text": "For example, we experienced market-related downtime at certain of our mills during the fourth quarter of fiscal 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, concrete operational event (mill downtime in Q4 2025) not previously disclosed."
+  },
+  {
+   "text": "There is a risk that we will not have enough free allowances to meet our compliance requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific compliance risk regarding insufficient free emissions allowances."
+  },
+  {
+   "text": "Certain jurisdictions in which we conduct business have enacted extended producer responsibility legislation that requires producers to assume financial accountability for the complete lifecycle of products, including associated fees on packaging.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific extended producer responsibility legislation creating new financial/compliance obligations."
+  },
+  {
+   "text": "We also utilize and intend to expand our use of automation, robotics and machine learning in many of our products, including consumer-facing features, and we leverage generative artificial intelligence in our business processes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes expanded use of automation, robotics, and generative AI, building on existing technology risk disclosures."
+  },
+  {
+   "text": "While we believe the use of these emerging technologies can present significant benefits, they also create risks and challenges.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement that new technologies create risks and benefits."
+  },
+  {
+   "text": "Data sourcing, technology, integration and process issues, bias in decision-making algorithms, concerns over intellectual property, reputational implications if use becomes controversial, system security concerns, or the protection of privacy could impair the adoption and acceptance of autonomous machine solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on AI-related risks (bias, IP, security) expanding on the general AI risk theme."
+  },
+  {
+   "text": "Additionally, if we are unable to match or surpass the advances of artificial intelligence that our competitors implement for their products or for internal operations, our competitive position could be impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on competitive risk tied to AI adoption, expanding existing technology risk."
+  },
+  {
+   "text": "New targets for Smurfit Westrock are expected to be published in the second quarter of 2026 in the 2025 sustainability report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Informational statement about future publication timing of sustainability targets, not a risk."
+  },
+  {
+   "text": "33 We continue to implement and have in the past developed and endeavored to implement a number of operating plans designed to enhance our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing operating plans, reworded framing."
+  },
+  {
+   "text": "For example, during February 2026, we announced our medium-term plan (\u201cMedium-Term Plan\u201d) targeting an accelerated path to growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces specific new strategic plan (Medium-Term Plan) that expands on existing business strategy risk."
+  },
+  {
+   "text": "The anticipated benefits described in the Medium-Term Plan are based on assumptions that may prove to be inaccurate, and a variety of factors could cause us to fail to realize some or all of the expected benefits and targets outlined in the plan.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details risk that new plan's benefits may not materialize, expanding on strategic execution risk."
+  },
+  {
+   "text": "If, for any reason, the benefits we realize, or our actual results, are less than our goals or targets, or the implementation of related growth initiatives, strategies (including our capital allocation strategy) and/or plans adversely affect our operations or cost more or take longer to effectuate than we expect, or if our assumptions prove inaccurate, our results of operations, cash flows and financial condition, and share price may be materially adversely affected .",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates specific financial and operational consequences if plan targets are not met."
+  },
+  {
+   "text": "34 We face risks related to the Combination.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Header/topic sentence introducing existing Combination risk, not new content."
+  },
+  {
+   "text": "We closed the Combination between Smurfit Kappa and WestRock on July 5, 2024.",
+   "category": "reworded_same_meaning",
+   "rationale": "States factual closing date of prior disclosed Combination, informational restatement."
+  },
+  {
+   "text": "For instance, we have already incurred significant costs and expect to incur additional costs in connection with integrating the operations of legacy Smurfit Kappa and legacy WestRock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about integration costs incurred and expected, expanding existing Combination risk."
+  },
+  {
+   "text": "In addition, from time to time our Board may authorize share repurchase programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about Board's authority to authorize share repurchases."
+  },
+  {
+   "text": "The amount and timing of share repurchases are subject to capital availability and our determination that share repurchases are in the best interest of our shareholders and are in compliance with all respective laws and our applicable agreements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard language about factors affecting share repurchase decisions."
+  },
+  {
+   "text": "Our ability to repurchase shares will be subject to applicable Board approval and authorization and management discretion and will depend upon, among other factors, our cash balances and potential future requirements for strategic transactions, our results of operations, our financial condition, price and economic and market conditions and other factors beyond our control that we may deem relevant.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of factors influencing repurchase decisions, standard disclosure."
+  },
+  {
+   "text": "We can provide no assurance that we will repurchase shares at favorable prices, if at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer about no assurance of favorable repurchase prices."
+  },
+  {
+   "text": "We are not obligated to make any purchases and may discontinue any program at any time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about discretion to discontinue repurchase programs."
+  },
+  {
+   "text": "We cannot guarantee that any share repurchase program or dividend program will be continuously active or fully consummated since it can be discontinued, suspended or delayed at any time, or will enhance long-term shareholder value, and share repurchases or dividends could increase the volatility of our stock prices and could diminish our cash reserves .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk language about repurchase/dividend program continuity and stock volatility, standard boilerplate."
+  },
+  {
+   "text": "38 The tax laws of Ireland and other jurisdictions in which we operate could change in the future, including through the enactment of additional laws, the revision of existing laws, and/or developments in case law, regulations and policy changes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing tax risk disclosure to include Ireland-specific and broader jurisdictional tax law changes."
+  },
+  {
+   "text": "U ncertainty in the legal and regulatory regime relating to artificial intelligence may require significant resources to modify and maintain business practices to comply with international laws and regulations, the nature of which cannot be determined at this time.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding evolving AI regulatory compliance burdens."
+  },
+  {
+   "text": "Several jurisdictions, including Europe, the U.S. federal government, and certain U.S. states, have already proposed or enacted laws, regulations, and other requirements governing artificial intelligence.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General factual statement about jurisdictions proposing AI laws, supporting context rather than new specific risk."
+  },
+  {
+   "text": "Other jurisdictions may decide to adopt similar or more restrictive requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that other jurisdictions may adopt similar rules."
+  },
+  {
+   "text": "These requirements may make it harder for us to conduct our business using artificial intelligence, lead to regulatory fines or penalties, require us to change our business practices, or require us to limit artificial intelligence usage, which may lead to inefficiencies or competitive disadvantages .",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific business consequences of AI regulation, expanding the AI regulatory risk."
+  },
+  {
+   "text": "For example, on July 29, 2025, we were named among the defendants in a class action lawsuit filed in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new antitrust class action lawsuit filed against the company."
+  },
+  {
+   "text": "District Court for the Northern District of Illinois alleging violations of U.S. antitrust laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific details of the newly disclosed antitrust lawsuit, continuing the new risk."
+  },
+  {
+   "text": "For additional information, see \u201cNote 21.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, administrative in nature."
+  },
+  {
+   "text": "Pursuant to Section 404(a) of the Sarbanes-Oxley Act, we are required to furnish a report by management on the effectiveness of our internal control over financial reporting.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement of regulatory requirement under Sarbanes-Oxley, not a new risk."
+  }
+ ]
+}

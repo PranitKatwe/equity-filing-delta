@@ -1,0 +1,123 @@
+{
+ "ticker": "STZ",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-04-22",
+ "accession": "0000016918-26-000011",
+ "prior_accession": "0000016918-25-000022",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "References to past events are provided as examples only and are not intended to be a complete listing or representation as to whether such factors have occurred in the past or their likelihood of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing about examples, not a specific risk."
+  },
+  {
+   "text": "President and Chief Executive Officer transition Nicholas Fink became our President and Chief Executive Officer on April 13, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a specific, material leadership change (new CEO) not previously disclosed."
+  },
+  {
+   "text": "Our future performance will depend, in part, on the successful transition of Mr.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced CEO transition risk."
+  },
+  {
+   "text": "Fink as our new President and Chief Executive Officer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of the CEO transition sentence, part of the same new risk elaboration."
+  },
+  {
+   "text": "Leadership transitions and the onboarding process can be inherently difficult to manage, will take time, and could result in changes in our business strategy, operations, processes, and workforce.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on the difficulty of leadership transition, expanding the newly introduced risk."
+  },
+  {
+   "text": "If we do not successfully manage this transition, it may cause disruption to our business and be viewed negatively by various stakeholders, including our consumers, Customers, stockholders, employees, and/or suppliers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential negative outcomes of the leadership transition, expanding the same risk."
+  },
+  {
+   "text": "Our future performance will also continue to depend on the services and contributions of our other senior management and key employees to execute on our strategy and business plans and to identify and pursue new opportunities and product innovations.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about dependence on senior management, a standard restated risk without new specifics."
+  },
+  {
+   "text": "The loss of services of senior management or other key employees and the onboarding and transition of new senior leaders and key employees could significantly delay or prevent the achievement of our strategic objectives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about risk of losing key employees amid transition, expanding existing management dependency risk."
+  },
+  {
+   "text": "RISK FACTORS Table of Contents pay certain costs, make capital investments, fulfill alone our joint venture partners\u2019 obligations, or purchase other parties\u2019 interests.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmented text referencing joint venture obligations appears to be a formatting artifact, not a new risk."
+  },
+  {
+   "text": "Developments in international trade relations have produced heightened uncertainty with respect to trade and tariff policies and regulations affecting trade between the U.S. and other countries, which could continue to impact the global trade environment and tariff rates applicable to goods we or our suppliers import and export.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing trade/tariff uncertainty risk with updated context."
+  },
+  {
+   "text": "Supreme Court decision invalidating the use of IEEPA to authorize certain tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "References a specific Supreme Court decision affecting tariff authority, a new legal development."
+  },
+  {
+   "text": "These uncertainties and Constellation Brands, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment appears to be a page header/footer artifact, not substantive content."
+  },
+  {
+   "text": "Mexico recently reformed certain laws related to water rights, which altered the country\u2019s regulatory framework governing water resources.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk regarding Mexican water rights reform."
+  },
+  {
+   "text": "Among the changes were a prohibition on the transfer of water concessions between private parties, elimination of the private secondary market for concessions, and new sanctions for water-related violations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on the newly introduced water rights regulatory risk."
+  },
+  {
+   "text": "Modular capacity addition activities continue at our breweries, with initial production at the Veracruz Brewery expected to commence around the middle of Fiscal 2027.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new operational development (Veracruz Brewery capacity timeline) not previously mentioned."
+  },
+  {
+   "text": "Such activities or the replacement or poor performance of our major Customers could result in temporary or longer-term sales disruptions and could have a material adverse effect on our business, liquidity, financial condition, and/or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing customer concentration/disruption risk with additional consequences."
+  },
+  {
+   "text": "The current interest rate environment is elevated relative to the interest rates on certain of our outstanding indebtedness that will be maturing over the next several years.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding elevated interest rates relative to maturing debt."
+  },
+  {
+   "text": "If we experience reduced access to credit or higher future interest rates to refinance our maturing indebtedness, to incur additional indebtedness, or on our variable interest rate exposures, it could increase our overall interest expense and adversely affect our liquidity and capital resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of the interest rate risk, expanding on the newly stated rate environment risk."
+  },
+  {
+   "text": "In addition, our business may not Constellation Brands, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmented text likely a formatting artifact from page break, not substantive."
+  },
+  {
+   "text": "Interest rate fluctuations and credit market disruption or volatility may also impact our consumers, Customers, and/or suppliers which could, in turn, adversely effect our business, liquidity, financial condition, and/or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends interest rate risk discussion to third parties, expanding existing risk scope."
+  },
+  {
+   "text": "U.S. tax changes or changes in how international corporations are taxed, including changes from the OB3 Act, in how existing tax laws are interpreted or enforced, or to accounting standards, elections, or assertions as well as to our accounting policies, could have a material adverse effect on our business, liquidity, financial condition, and/or results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "References specific new tax law (OB3 Act) as a new potential risk factor."
+  }
+ ]
+}

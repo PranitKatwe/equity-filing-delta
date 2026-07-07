@@ -1,0 +1,38 @@
+{
+ "ticker": "BRK.B",
+ "sector": "Financials",
+ "filing_date": "2022-02-28",
+ "accession": "0001564590-22-007322",
+ "prior_accession": "0001564590-21-009611",
+ "model": "claude-sonnet-5",
+ "n_added": 4,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Buffett be needed currently, Berkshire\u2019s Board of Directors has agreed that Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This sentence appears to be a fragment referring to management succession planning, not describing a new risk in substantive detail."
+  },
+  {
+   "text": "Climate change may impact our businesses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces climate change as a new risk category not previously disclosed."
+  },
+  {
+   "text": "Climate change could cause increases in hurricanes, floods, wildfires, and other risks that could produce losses affecting our businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the climate change risk introduced by specifying hurricanes, floods, wildfires as potential causes of loss."
+  },
+  {
+   "text": "Also, failure to comply with new or existing regulations or reinterpretations of existing regulations relating to climate change could have a significant adverse effect on our financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands the climate change risk by adding a regulatory compliance dimension tied to the same newly introduced risk theme."
+  }
+ ]
+}

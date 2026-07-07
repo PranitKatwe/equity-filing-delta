@@ -1,0 +1,218 @@
+{
+ "ticker": "AMGN",
+ "sector": "Health Care",
+ "filing_date": "2026-02-13",
+ "accession": "0000318154-26-000010",
+ "prior_accession": "0000318154-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 14
+ },
+ "items": [
+  {
+   "text": "Phase 3 Clinical trials investigate the short- and long-term safety and efficacy of our product candidates, compared to commonly used treatments, in a large number of patients who have the disease or condition under study.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of Phase 3 clinical trial methodology, standard boilerplate language."
+  },
+  {
+   "text": "Antibody-peptide conjugates 2038 Europe Antibody-peptide conjugates 2038 Olpasiran U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table/list fragment of product pipeline data, not a risk statement."
+  },
+  {
+   "text": "Pegloticase Pegloticase is a PEGylated uricase approved for the treatment of uncontrolled gout by intravenous administration.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic product description of Pegloticase, not a risk statement."
+  },
+  {
+   "text": "See Significant Developments for additional information regarding the termination of our collaboration agreement with Kyowa Kirin.",
+   "category": "expanded_existing_risk",
+   "rationale": "References termination of a specific collaboration agreement, expanding on known collaboration-related risks."
+  },
+  {
+   "text": "It is being investigated for subcutaneous administration for the treatment of TED and chronic/low clinical activity score TED in Japan.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Pipeline/product description detail about investigational use, not a new risk."
+  },
+  {
+   "text": "Xaluritamig Xaluritamig is an anti-six transmembrane epithelial antigen of the prostate 1 (STEAP1) x anti-CD3 XmAb \u00ae BiTE \u00ae molecule.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic scientific description of a drug candidate."
+  },
+  {
+   "text": "AMG 732 AMG 732 is a monoclonal antibody against IGF-1R.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic scientific description of a drug candidate."
+  },
+  {
+   "text": "Following entry into an amendment to this collaboration by Amgen and BeOne on November 11, 2025, BeOne will retain the right to commercialize XGEVA, BLINCYTO and KYPROLIS in China for so long as such products are sold in China.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new collaboration amendment affecting commercialization rights in China, a material business/contractual change."
+  },
+  {
+   "text": "In 2025, we invested in general upskilling of our staff on skills for the future, including topics such as AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR/talent development statement, not a risk."
+  },
+  {
+   "text": "We also maintain a global talent marketplace that enables staff to contribute to work beyond their core responsibilities, providing opportunities to broaden professional networks, support organizational priorities and develop additional skills.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR program description, not a risk."
+  },
+  {
+   "text": "A cross-functional, executive-level council, which includes our CEO, regularly discusses matters related to workplace culture and, as appropriate, takes actions to support and evolve Amgen\u2019s culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic corporate culture governance statement."
+  },
+  {
+   "text": "Multiple cohorts are underway across various sites, including a new 18 month manufacturing apprenticeship at Amgen North Carolina, which serves as a key talent pipeline.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic workforce development program detail."
+  },
+  {
+   "text": "Grygiel joined the Company in 2015 and has held leadership roles within the worldwide compliance and business ethics organization, including as Vice President, Compliance, from 2016 to 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "Khosla joined the Company in 2013 and has held leadership roles in corporate development, licensing, and mergers and acquisitions, including as Vice President Business Development, from 2018 to 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "Such tax liabilities could adversely affect our profitability and results of operations. \u2022 Our business may be affected by litigation and government investigations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk factor heading/summary language about litigation and taxes, no new specifics."
+  },
+  {
+   "text": "On July 4, 2025, OB3 was enacted and included several changes to Medicare, Medicaid and Affordable Care Act policies, including provisions affecting eligibility, that, when implemented, are expected to adversely affect coverage and reimbursement for our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legislation (OB3) with concrete expected adverse effects on coverage and reimbursement."
+  },
+  {
+   "text": "On May 12, 2025, the Administration issued the Most-Favored-Nations (MFN) Prescription Drug Pricing Executive Order (MFN EO) aimed at using price benchmarks from other developed countries to set U.S. pricing targets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific executive order establishing a drug pricing policy mechanism (MFN)."
+  },
+  {
+   "text": "Subsequently, on July 31, 2025 the Administration sent letters to many pharmaceutical manufacturers, including Amgen (the July MFN Letter) as further described below, outlining steps that such manufacturers could take to advance actions consistent with elements of the MFN EO.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on implementation of the MFN EO already introduced, naming Amgen directly."
+  },
+  {
+   "text": "In December 2025, we announced that we are taking actions that satisfy the components outlined in the July MFN Letter, including the Administration\u2019s MFN pricing requests.",
+   "category": "expanded_existing_risk",
+   "rationale": "Company-specific update on compliance with MFN pricing requests, expanding on the MFN risk already described."
+  },
+  {
+   "text": "Further, the Administration has called on Congress to enact legislation that would codify the terms that the Administration arrived at with recipients of the July MFN Letter (the MFN Terms).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces potential new legislative codification of MFN terms, a new specific regulatory threat."
+  },
+  {
+   "text": "The details of such legislative framework are unknown and, if enacted, such legislation could apply to a broader range of products, payers or pricing arrangements for a longer period than those resulting from the MFN Terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on uncertainty and scope of potential MFN-related legislation already introduced."
+  },
+  {
+   "text": "It remains unclear what further policies, legislation and/or actions the Administration, Congress, or state governments will advance with respect to other drug pricing proposals or other healthcare regulations affecting pharmaceuticals, including the MFN EO, IRA and OB3 implementation, trade policies, or state laws affecting the 340B Program or Medicaid reimbursement that could ultimately be adopted more broadly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens uncertainty language across multiple named policy areas already discussed."
+  },
+  {
+   "text": "To the extent such actions reduce or modify coverage or reimbursement for our products, increase rebates or other costs, constrain pricing decisions, or otherwise limit product use, they would have an adverse effect on our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about adverse effects, summarizing prior points without new specifics."
+  },
+  {
+   "text": "CMS has set Medicare Part D prices for ENBREL, effective January 1, 2026, and Otezla, effective January 2027, in each case at significantly lower prices that are expected to negatively impact their profitability in Medicare.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new CMS pricing actions on named products (ENBREL, Otezla) with concrete financial impact."
+  },
+  {
+   "text": "Further, CMS has issued guidance that allows for the re-setting of prices for drugs for which it previously set a price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on CMS pricing authority already discussed, adding re-setting mechanism."
+  },
+  {
+   "text": "On April 15, 2025, the Administration issued an executive order (the April 2025 EO) that, among other directives, directs HHS to work with Congress to align the treatment of small molecule drugs and biologics in the Medicare price setting program under the IRA.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific executive order affecting IRA price-setting treatment of drug categories."
+  },
+  {
+   "text": "It is currently unclear how such modifications would affect the timeframe in which Medicare price setting becomes applicable for selected drugs or biologics.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty detail about timeframe effects of the newly introduced EO."
+  },
+  {
+   "text": "Implementation of OB3 also may impact access to and reimbursement of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on OB3 implementation risk already introduced."
+  },
+  {
+   "text": "For example, the Congressional Budget Office has projected that the OB3 will result in significant reductions in federal Medicaid spending over the next decade and an increase in the number of people without health insurance.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites specific CBO projection of Medicaid spending cuts and increased uninsured population, a concrete new data point."
+  },
+  {
+   "text": "These developments would place greater stress on state budgets and hospital finances, and could result in reduced access to medicines, additional pressure to further discount medicines and further growth of 340B Program utilization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands consequences of OB3/Medicaid changes already introduced with more specific downstream effects."
+  },
+  {
+   "text": "The MFN EO directs HHS to pursue pricing policies that align U.S. drug prices with the prices available in certain comparably developed countries and directs a range of actions to advance that objective, including through regulatory, trade and other policy measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and elaborates on MFN EO mechanics already introduced."
+  },
+  {
+   "text": "In July 2025, the Administration delivered the July MFN Letter to us and a number of other manufacturers that called for drug manufacturers to: 1) extend MFN pricing to Medicaid; 2) guarantee MFN pricing to Medicaid, Medicare and commercial payers on all newly launched drugs; 3) use future increased revenues from outside the U.S. to lower U.S. drug prices; and 4) participate in direct-to-patient models to provide MFN pricing for certain drugs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detailed demands from the July MFN Letter already referenced."
+  },
+  {
+   "text": "Since the issuance of the July MFN Letter, most recipients have announced that they have reached agreement with the Administration to address the matters described in the letter.",
+   "category": "expanded_existing_risk",
+   "rationale": "Factual update on industry response to MFN Letter, expanding existing risk narrative."
+  },
+  {
+   "text": "In December 2025, we announced that we are taking actions that satisfy the components outlined in the July MFN Letter, including the Administration\u2019s MFN pricing requests.",
+   "category": "expanded_existing_risk",
+   "rationale": "Duplicate of company-specific MFN compliance update, expanding existing risk."
+  },
+  {
+   "text": "We also announced the expansion of our direct-to-patient program.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces expansion of a direct-to-patient program, a new business model change tied to pricing risk."
+  },
+  {
+   "text": "While this development reflects ongoing engagement on pricing policy, the ultimate effects on our pricing, reimbursement, net sales and profitability remain uncertain in light of evolving regulatory and policy expectations.",
+   "category": "reworded_same_meaning",
+   "rationale": "General uncertainty statement restating existing risk concerns without new specifics."
+  },
+  {
+   "text": "Existing and proposed state pricing laws, which may move forward more rapidly than similar efforts at the federal level, have added complexity to the pricing of drugs.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement expanding on state pricing law risk already known."
+  },
+  {
+   "text": "In 2025, Maryland expanded the scope of its PDAB law to include the commercial market.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new Maryland law expansion affecting commercial market pricing."
+  },
+  {
+   "text": "On July 16, 2025, Washington state\u2019s PDAB selected ENBREL for one of its first affordability reviews.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory action targeting a named product (ENBREL) for affordability review."
+  },
+  {
+   "text": "Following the timeline and process established by the state for such affordability review, the manufacturer and the PDAB will undertake a number of required interactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes procedural follow-up to the newly introduced PDAB review, expanding on that specific risk."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "ticker": "PHM",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-04",
+ "accession": "0000822416-26-000007",
+ "prior_accession": "0000822416-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Further, if our competitors are able to develop or leverage AI technologies more effectively than we do, including to better anticipate customer preferences, improve operational efficiency, or enhance products or services, our competitive position could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding competitors' use of AI technology potentially eroding the company's competitive position, a topic not previously covered."
+  },
+  {
+   "text": "Although recently imposed tariffs have not had a material impact on our construction costs, newly imposed or increased tariffs, duties and/or trade restrictions on imported materials and goods that are used in connection with the construction and delivery of our 12 homes may raise our costs for these items or for the products made with them.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about tariffs and trade restrictions on imported construction materials raising costs, a concrete new risk factor not previously disclosed."
+  },
+  {
+   "text": "Across various regions in which we operate, costs associated with homeowner, hazard, and flood insurance have increased in recent years, driven in part by the increasing frequency and severity of weather\u2011related losses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing insurance cost risk by adding specific detail about weather-related loss frequency driving cost increases."
+  },
+  {
+   "text": "In some cases, these conditions have constrained homeowners\u2019 ability to obtain adequate coverage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to the existing insurance risk discussion about homeowners' constrained ability to obtain coverage."
+  },
+  {
+   "text": "While these issues have not had a material impact on our business thus far, continued increases in insurance costs, further limitations on coverage availability, or insufficient insurance coverage for business interruptions or losses could adversely affect home affordability, demand, and our operating results in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating the same insurance cost/coverage risk with potential future impacts, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "At December 31, 2025, we had cash, cash equivalents, and restricted cash of $2.0 billion as well as $892.9 million available under our revolving credit facility, which was amended effective February 4, 2026 to extend its maturity date to February 4, 2031, increase the total committed capacity to $1.75 billion, and expand the uncommitted accordion feature to $750 million, providing for potential capacity of $2.5 billion, subject to certain conditions and the availability of additional bank commitments (\"Revolving Credit Facility\").",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a factual liquidity/financial disclosure about cash and credit facility terms, not a risk statement or new risk introduction."
+  },
+  {
+   "text": "17 Our business could be materially and adversely affected by epidemics, pandemics, or other public health emergencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading-style statement about pandemics/public health emergencies affecting business, standard cautionary boilerplate."
+  },
+  {
+   "text": "Our business could be materially and adversely disrupted by the outbreak and spread of contagious diseases, including epidemics, pandemics, or other serious public health threats, such as the COVID-19 pandemic, as well as by the fear of such events.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic restatement of pandemic risk referencing COVID-19, standard boilerplate language common in filings."
+  },
+  {
+   "text": "Public health emergencies may result in measures taken by international, federal, state, and local governments, agencies, law enforcement, and or health authorities, including travel restrictions, quarantines, business closures, workforce limitations, and other regulatory or emergency actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of possible government measures during public health emergencies, standard boilerplate without specific new risk detail."
+  },
+  {
+   "text": "Any epidemic, pandemic, or similar public health issue, including events like COVID-19, and the related governmental, regulatory, or private sector responses could adversely affect our operations, supply chain, workforce availability, customer demand, and ability to deliver products or services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about pandemic effects on operations and supply chain, standard cautionary language without specific new substance."
+  },
+  {
+   "text": "Such events and responses could also contribute to broader macroeconomic effects, including inflation, labor shortages, changes in consumer behavior, and supply chain disruptions, which could further negatively impact our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic macroeconomic risk language tied to pandemics, standard boilerplate without new specific risk."
+  },
+  {
+   "text": "The extent to which future public health emergencies may affect our business will depend on a number of factors, including the duration and severity of the outbreak, the timing and effectiveness of containment measures, the impact on global and regional economic conditions, and our ability to adapt our operations in response to changing circumstances.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors influencing future pandemic impact, standard cautionary boilerplate."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "STE",
+ "sector": "Health Care",
+ "filing_date": "2026-05-29",
+ "accession": "0001628280-26-039136",
+ "prior_accession": "0001757898-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "In addition, the United States-Mexico-Canada Agreement (\u201cUSMCA\u201d) requires a formal six-year joint evaluation of the agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about a USMCA joint review mechanism, expanding on existing trade/tariff regulatory risk."
+  },
+  {
+   "text": "The first such review is expected to commence on July 1, 2026, the sixth anniversary of the agreement's entry into 13 Table of Contents force.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Merely states a specific date for the review, a factual detail with no new risk substance."
+  },
+  {
+   "text": "The U.S. has solicited feedback from the trading community regarding the operation of the USMCA, and the joint review could result in changes, including, for example, the processes by which goods qualify for preferential treatment, the tariffs applicable to products or other restrictions on the movement of goods within the region under the USMCA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential outcomes of the USMCA review affecting tariffs and goods qualification, expanding existing trade risk."
+  },
+  {
+   "text": "We cannot predict the ultimate scope, duration, or impact of current or future tariff measures, changes to existing trade agreements, such as the USMCA, or the imposition of other trade restrictions.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about unpredictability of tariffs/trade measures, consistent with typical existing risk language."
+  },
+  {
+   "text": "For example, in 2025, the United States passed the One Big Beautiful Bill Act (the \u201cOBBBA\u201d) which may reduce Medicaid funding, result in decreased Medicaid reimbursements and negatively impact Customers who purchase our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new law (OBBBA) that may reduce Medicaid funding and negatively impact customers, a concrete new risk."
+  },
+  {
+   "text": "Further, our effective tax rate may increase as a result of withholding taxes incurred in connection with cross-border cash movements to fund operations, investments, and shareholder returns.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new tax risk related to withholding taxes on cross-border cash movements affecting effective tax rate."
+  },
+  {
+   "text": "These transfers may be subject to withholding taxes, and increases in such taxes or changes in applicable tax laws could place upward pressure on our effective tax rate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reinforces and elaborates on the withholding tax risk just introduced."
+  },
+  {
+   "text": "Some limited guidance has been issued clarifying the application of some of the provisions in this legislation, and more guidance is expected to be issued in the near future with respect to a number of income tax provisions in the OBBBA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes that guidance on OBBBA is pending, an informational statement without new risk substance."
+  },
+  {
+   "text": "The law did not have a material impact on our fiscal 2026 consolidated financial statements, and we do not expect it to have a material impact on our effective tax rate in future years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States no material impact expected, which mitigates rather than introduces risk."
+  },
+  {
+   "text": "In the most recent guidance, issued in January of 2026, OECD modified, among other things, certain rules relating to the one-year extension of the transitional country-by-country reporting safe harbor and the addition of both a permanent simplified effective tax rate safe harbor and a substance-based tax incentive safe harbor.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on OECD Pillar Two guidance changes, expanding existing global tax risk disclosure."
+  },
+  {
+   "text": "This guidance also introduced a so-called \u201cside-by-side\u201d safe harbor pursuant to which multinational groups with an ultimate parent entity (or a \"UPE\") located in a qualifying jurisdiction are effectively exempt from certain GloBE taxes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on new safe harbor mechanisms under existing global minimum tax risk framework."
+  },
+  {
+   "text": "At this time, only the United States is included on the list of qualifying jurisdictions allowing U.S.-parented multinational companies to avoid such GloBE taxes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Factual detail supporting the existing global tax risk about qualifying jurisdictions."
+  },
+  {
+   "text": "While we have substantial presence in the U.S., we do not anticipate to benefit from the side-by-side safe harbor at this time, because we are a multinational enterprise with a UPE organized in Ireland.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically discloses that the company, due to its Irish UPE structure, does not benefit from a tax safe harbor, a concrete new tax exposure."
+  },
+  {
+   "text": "Further, our organization under the laws of Ireland could be challenged by the IRS.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk that IRS could challenge the company's organizational structure in Ireland."
+  },
+  {
+   "text": "We also continue to work with our suppliers to implement plans to improve our competitive position by reducing material costs and manufacturing inefficiencies and realize productivity gains and distribution and supply chain efficiencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing supplier cost improvement efforts, standard operational language without new risk."
+  },
+  {
+   "text": "Maintaining and improving our competitive position will require continued investment by us in manufacturing, engineering, quality standards, marketing, Customer service and support of our distribution networks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about need for continued investment to maintain competitiveness."
+  },
+  {
+   "text": "In addition, we also face competition within our AST segment from our Customers who may insource their sterilization needs by utilizing their own technology and systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new competitive threat: customers insourcing sterilization needs within the AST segment."
+  },
+  {
+   "text": "If we cannot successfully implement our strategies to compete, our revenues and results of operations may be negatively impacted, which could adversely affect our business, financial condition and results of operations or our long-term prospects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about competitive strategy failure impacting financials."
+  },
+  {
+   "text": "For instance, the European Union has generally adopted more extensive sustainability reporting requirements and environmental regulations, while certain U.S. federal and state authorities have adopted or proposed measures that may restrict or penalize companies for adopting certain ESG-related practices, targets or investment criteria.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details divergent ESG regulatory approaches between EU and US, expanding existing regulatory complexity risk."
+  },
+  {
+   "text": "The introduction and evolution of climate- and sustainability-related laws, regulations and reporting requirements\u2014many of which are not uniform across jurisdictions\u2014can increase the complexity and cost of compliance and heighten our exposure to enforcement actions, litigation and reputational harm.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about complexity and cost of evolving climate/sustainability regulations, largely restating known risk."
+  },
+  {
+   "text": "For example, the European Union adopted the CSRD in 2023, and in 2025 the European Commission proposed amendments to the CSRD aimed at simplifying sustainability reporting in Europe.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factual detail about CSRD amendments, expanding existing sustainability compliance risk."
+  },
+  {
+   "text": "Such amendments entered into force in March 2026, with transposition into national law by EU member states required in 2027, while changes to the ESRS are expected to be finalized later in calendar year 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides timeline details for regulatory implementation without new risk substance."
+  },
+  {
+   "text": "While the EU has adopted extensive requirements through CSRD and ESRS, which continue to evolve, other jurisdictions, including, for example, the United Kingdom and California, have their own sustainability reporting frameworks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes additional jurisdictions with their own sustainability frameworks, expanding existing compliance complexity risk."
+  },
+  {
+   "text": "Managing compliance across these inconsistent regimes is complex and costly, and may result in disclosures that emphasize different metrics, use different methodologies or reach different conclusions depending on the applicable frameworks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about complexity and cost of managing multiple regimes, consistent with existing risk framing."
+  },
+  {
+   "text": "We may also face challenges in presenting consistent and comparable sustainability information to global stakeholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about challenges in presenting consistent sustainability data."
+  },
+  {
+   "text": "A claims process regarding confidential settlement agreements is ongoing and subject to final court approval.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific ongoing claims process related to confidential settlement agreements pending court approval, a concrete legal development."
+  },
+  {
+   "text": "Furthermore, some claims would be subject to further litigation if certain terms of the applicable settlement agreements are not fulfilled and we exercise our walkaway rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on litigation risk tied to settlement agreements by noting walkaway rights and potential further litigation."
+  },
+  {
+   "text": "Similarly, we continue to invest in smart manufacturing to drive structural cost reduction in our facilities, including aligning work to more efficient manufacturing centers, implementing advanced manufacturing capabilities such as digital initiatives, automation and robots, and closing facilities that are not required to meet future capacity and work needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing smart manufacturing and cost reduction initiatives, standard operational disclosure."
+  },
+  {
+   "text": "Our success will depend on various factors, including our ability to either source or custom develop the necessary technology and components, and the digital transformation initiative\u2019s cost-effectiveness, utility and competitive positioning.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about factors affecting success of digital transformation initiative."
+  },
+  {
+   "text": "If our digital transformation initiative fails to develop as we expect, or progresses more slowly than expected, such failure to realize efficiencies and cost reduction benefits could adversely impact our financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential financial impact if digital transformation initiative underperforms, expanding existing operational risk."
+  },
+  {
+   "text": "Likewise, governments and regulatory bodies worldwide are actively developing new laws, regulations and ethical guidelines governing AI use, including the European Union\u2019s Artificial Intelligence Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk area tied specifically to AI regulation, including the EU AI Act."
+  },
+  {
+   "text": "Compliance with evolving and potentially inconsistent AI regulations across jurisdictions may be costly and complex.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on AI regulatory risk by noting cost and complexity of compliance across jurisdictions."
+  },
+  {
+   "text": "Failure to comply could result in significant penalties, restrictions on our use of AI, or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential penalties and restrictions from AI regulatory noncompliance."
+  },
+  {
+   "text": "The use of AI may also raise data privacy concerns, particularly if AI systems process sensitive health information subject to GDPR, HIPAA or other privacy regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk linking AI use to data privacy concerns involving sensitive health information and privacy laws."
+  },
+  {
+   "text": "If our competitors deploy AI technologies more effectively than we do, we may lose market share or be unable to maintain our competitive position.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk specifically related to competitors' more effective use of AI technologies."
+  },
+  {
+   "text": "Failure to adequately manage AI-related risks could have a material adverse effect on our business, reputation, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary statement about AI risk management failure impacting business, reputation, and financials."
+  },
+  {
+   "text": "From time to time, we may invest in technology, business infrastructure, new businesses, product offerings and manufacturing innovations and expansion of existing businesses, each of which may require substantial cash investments and management attention.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about potential future investments in technology and business infrastructure."
+  },
+  {
+   "text": "We believe cost-effective investments are essential to business growth and profitability; however, significant investments are subject to typical risks and uncertainties inherent in developing a new business or expanding an existing business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the importance of cost-effective investments and inherent risks of growth."
+  },
+  {
+   "text": "The failure of any significant investment to provide expected returns or profitability could have a material adverse effect on our financial results and divert management attention from more profitable business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cautionary statement about investment returns and management attention diversion."
+  },
+  {
+   "text": "The integration of acquired businesses into STERIS or working arrangements with joint venture partners may not be as successful as anticipated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing M&A integration risk by explicitly mentioning joint venture partner arrangements alongside acquisitions."
+  }
+ ]
+}

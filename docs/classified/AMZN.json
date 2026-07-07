@@ -1,0 +1,28 @@
+{
+ "ticker": "AMZN",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-06",
+ "accession": "0001018724-26-000004",
+ "prior_accession": "0001018724-25-000004",
+ "model": "claude-sonnet-5",
+ "n_added": 2,
+ "n_substantive": 0,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "The disclosures in this section reflect our beliefs and opinions as to factors that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing about beliefs and opinions, no specific risk introduced."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such factors have occurred in the past.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Boilerplate clarification about the nature of examples used, not a substantive risk."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "VICI",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-25",
+ "accession": "0001705696-26-000034",
+ "prior_accession": "0001705696-25-000033",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 24
+ },
+ "items": [
+  {
+   "text": "This portfolio includes certain real estate debt investments which were originated for strategic purposes, including (i) the potential to convert our investment into the ownership of the underlying real estate, (ii) the opportunity to develop relationships with owners and operators that may lead to other investments in experiential asset classes that fit within our investment policies and objectives, and (iii) the ability to make investments in experiential asset classes outside of gaming with a goal of increasing our investment activity in these asset classes over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic rationale for existing debt investment portfolio, not a risk statement."
+  },
+  {
+   "text": "We are one of the largest triple net lease REITs with over $4.0 billion in revenues in 2025 and 100% rent collection since formation (including through COVID). \u2022 Mission critical complex real estate .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing-style highlight about company size and rent collection track record, not a risk."
+  },
+  {
+   "text": "The significant complexity and high replacement cost of our assets, combined with the gaming regulatory environment in which certain properties operate, create high barriers to entry that contribute to our current 100% occupancy rate. \u2022 Non-commodity experiential real estate .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes competitive strengths (barriers to entry, occupancy) rather than a risk."
+  },
+  {
+   "text": "Our triple-net lease model for non-commodity experiential assets allows for operators to unlock their real estate value while providing us with susta ined and sustainable rental growth. \u2022 Contractual escalation with inflation protection .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits of triple-net lease model, promotional framing not risk."
+  },
+  {
+   "text": "As of December 31, 2025, 42% of our full-year 2025 rent and 90% of our rent over the long-term feature CPI-linked escalation (subject to applic able caps). \u2022 Tenant transparency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistic about CPI-linked rent escalation presented as a strength, not a risk."
+  },
+  {
+   "text": "As of December 31, 2025, 79% of our rent is derived from SEC reporting operators providing transparency into tenant performance and credit quality. \u2022 Investment-grade balance sheet .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistic about tenant transparency presented as a strength."
+  },
+  {
+   "text": "We have investment-grade ratings from all three major credit rating agencies, which broadens our access across capital markets and supports a stronger cost of capital. \u2022 S&P 500 constituent .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment-grade ratings as a strength, not a risk."
+  },
+  {
+   "text": "We were added to the S&P 500 Index in June 2022, representing the shortest time from IPO to S&P 500 Index inclusion for any REIT.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical fact about S&P 500 inclusion, promotional not risk-related."
+  },
+  {
+   "text": "(7) Upon closing of MGM\u2019s pending sale of the operations of MGM Northfield Park to an affiliate of funds managed by Clairvest Group Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual footnote describing pending MGM Northfield Park sale, no risk framing."
+  },
+  {
+   "text": "(\u201cClairvest\u201d), we have agreed to enter into a new triple-net lease agreement with an affiliate of Clairvest with respect to the real property of Northfield Park.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new lease agreement tied to the Clairvest transaction, factual not risk."
+  },
+  {
+   "text": "The transaction is subject to customary closing conditions and regulatory approvals and is expected to be completed in the first half of 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes transaction subject to closing conditions and regulatory approval, tying to existing transaction/closing risk."
+  },
+  {
+   "text": "(8) On December 4, 2025, we combined the existing individual leases with respect to the Hollywood Casino at Greektown and Margaritaville Resort Casino into one master lease with PENN.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of Golden Portfolio acquisition announcement."
+  },
+  {
+   "text": "(11) On November 6, 2025, we announced that we entered into an agreement to acquire 100% of the land, real property and improvements of seven casino properties (the \u201cGolden Portfolio\u201d) from Golden Entertainment, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of factual acquisition description."
+  },
+  {
+   "text": "(\u201cGolden\u201d) and to enter into the Golden Master Lease with a newly formed entity that will be owned and controlled by Blake L.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new entity formation for lease, factual not risk."
+  },
+  {
+   "text": "Sartini, current chairman and chief executive officer of Golden, which entity will acquire the operating business of Golden in connection with the closing of the transaction (\u201cGolden OpCo\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ownership structure of new tenant entity, factual."
+  },
+  {
+   "text": "The obligations of the tenant under the Golden Master Lease will be guaranteed by a holding company that is owned and controlled by Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes guarantee structure, factual disclosure."
+  },
+  {
+   "text": "Sartini and owns all of the gaming and operating assets of Golden.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ownership of gaming assets by guarantor, factual."
+  },
+  {
+   "text": "The transaction is subject to the approval of the Golden stockholders, as well as customary closing conditions and regulatory approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes transaction subject to stockholder approval and regulatory conditions, expanding existing transaction-closing risk."
+  },
+  {
+   "text": "See Item 1A \"Risk Factors - Risks Related to Our Business and Operations\" .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Pure cross-reference to another risk factor section."
+  },
+  {
+   "text": "(12) Represents the initial term, assuming the four five-year tenant renewal options are not exercised.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Footnote clarifying lease term assumptions, not a risk statement."
+  },
+  {
+   "text": "Although many gaming properties are characterized by a broad range of consumer offerings, including entertainment venues, convention centers, food and beverage, retail and other experiential offerings, the gaming industry also competes for consumer engagement with an increasing variety of gaming-related and other alternatives, including experiential destinations, online entertainment, and digital alternatives, that may impact the underlying economics and viability of the traditional gaming model.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive threats from experiential, online, and digital alternatives impacting gaming economics."
+  },
+  {
+   "text": "Certain emerging platforms, such as prediction markets, currently operate under federal rather than state regulation, potentially allowing them to offer gaming-related products in states where traditional gaming is prohibited and without being subject to state gaming licensing requirements, taxation, and consumer protection obligations that apply to traditional gaming operators.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new regulatory disparity risk from federally-regulated prediction markets versus state-regulated gaming."
+  },
+  {
+   "text": "This regulatory disparity may create competitive advantages for such platforms relative to our tenants.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly states competitive advantage created by regulatory disparity, a new specific risk."
+  },
+  {
+   "text": "Further, the existing regulatory environment and licensure status of traditional gaming operators may limit their ability to adapt their businesses and compete effectively with emerging platforms operating under different regulatory structures.",
+   "category": "new_substantive_risk",
+   "rationale": "Details limitation on traditional operators' ability to compete due to regulatory structure, a new specific risk."
+  },
+  {
+   "text": "We invest in employee education, training, and development through regular programs, including our \u201cVICI U\u201d program and \u201cLunch and Learn\u201d seminar series.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee training programs, human capital description not risk."
+  },
+  {
+   "text": "These sessions, led by internal and external subject-matter experts, advance our employees' understanding of concepts relevant to our business, such as credit underwriting, derivatives and hedging, and sector-specific investing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further detail on training content, not risk-related."
+  },
+  {
+   "text": "We also host periodic training and development opportunities with respect to issues such as compliance, communication and feedback, public speaking and engagement, and anti-harassment and other matters outlined in our Code of Business Conduct.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes compliance and development training, not a risk factor."
+  },
+  {
+   "text": "We continually focus on enhancing our professional development and performance management processes to provide further development and growth opportunities to our employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about professional development focus, not risk."
+  },
+  {
+   "text": "Emerging forms of gambling, such as internet gaming, sports betting and prediction markets, have introduced regulatory uncertainty and potential conflicts between federal and state jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new regulatory uncertainty from emerging gambling forms and federal/state jurisdictional conflicts."
+  },
+  {
+   "text": "The extent to which these emerging platforms are or will be regulated by existing gaming authorities remains subject to ongoing legal challenges, with conflicting court decisions regarding whether federal commodities law or state gaming law applies.",
+   "category": "new_substantive_risk",
+   "rationale": "Details ongoing legal challenges and conflicting court decisions creating new regulatory risk."
+  },
+  {
+   "text": "This regulatory uncertainty may impact the traditional gaming regulatory framework and could create disparities in licensing requirements, taxation, and consumer protection obligations between traditional gaming operators and newer platforms.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies potential disparities in licensing, taxation, and consumer protection between traditional and new platforms, a new risk dimension."
+  },
+  {
+   "text": "We monitor and track available utility data at our Golf Courses in order to evaluate the environmental profile of our operations, the impact of implemented sustainability improvements, and potential opportunities to improve sustainability performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes sustainability monitoring practices, not a risk factor."
+  },
+  {
+   "text": "Although not all of our leases include such provisions, certain of our tenants also report voluntarily regarding such matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes voluntary tenant reporting, informational not risk."
+  },
+  {
+   "text": "18 Table of Contents Financial difficulties experienced by any of our tenants, borrowers or guarantors, including their potential bankruptcy or insolvency, could result in defaults under, or requests to modify or terminate, their lease agreements, related guarantees or loan agreements, or otherwise have a material adverse effect on our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing tenant credit/default risk with more detail on bankruptcy and lease modification consequences."
+  },
+  {
+   "text": "If a tenant or borrower is unable to meet its financial obligations, including required payments to us, such inability may result in delayed rental or loan payments, failure by such tenant or borrower to fulfill their contractual obligations under their lease or loan agreement, such tenant or borrower seeking modifications to their lease or loan agreement, or such tenant\u2019s or borrower\u2019s bankruptcy or insolvency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates mechanisms of tenant financial distress already covered by existing risk factor."
+  },
+  {
+   "text": "Adverse developments affecting any of them, whether arising from conditions in the markets in which a tenant operates, the performance of such tenant\u2019s portfolio or individual properties therein, or broader economic or industry factors, could impair such tenant\u2019s ability to perform its obligations under its lease agreement with us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on causes of tenant distress affecting lease obligations, expanding existing risk."
+  },
+  {
+   "text": "In such circumstances, a tenant could default on its obligations or, in advance thereof or in connection therewith, seek to modify or renegotiate its lease agreement with us, including with respect to economic provisions (such as rent escalators, base rental payments, capital expenditure requirements, or other provisions), covenants, or changes with respect to the composition of properties under the lease agreement (including the potential sale or disposition of such properties, whether to the tenant or other third parties).",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific renegotiation scenarios (rent escalators, capex, property sales) expanding existing tenant default risk."
+  },
+  {
+   "text": "A tenant also could take other actions that could impact us, including seeking the ability to sell certain of its operations at our properties, electing not to renew its lease at maturity or pursuing a strategic transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new tenant actions (asset sales, non-renewal, strategic transactions) as further detail on existing risk."
+  },
+  {
+   "text": "Any such modification, non-renewal, strategic transaction or other action could materially and adversely affect our results of operations, the value of the underlying real estate or our ability to re-lease such real estate on comparable terms, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential adverse effects of tenant actions, consistent with expanding existing risk factor."
+  },
+  {
+   "text": "These risks are heightened with respect to our larger tenants due to, among other things, the concentration of our revenues received from them.",
+   "category": "expanded_existing_risk",
+   "rationale": "Highlights concentration risk with larger tenants, an expansion of existing tenant credit risk discussion."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "LUV",
+ "sector": "Industrials",
+ "filing_date": "2026-02-05",
+ "accession": "0000092380-26-000004",
+ "prior_accession": "0000092380-25-000024",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 6,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Government foreign-relations actions, including tariffs and immigration policies, may also reduce the willingness of non-U.S. persons to travel to or within the United States, including by air.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor: government tariff and immigration policies reducing travel demand, not previously mentioned."
+  },
+  {
+   "text": "Passengers often purchase tickets well in advance of their travel, and the Company may not be able to increase fares, impose fuel surcharges, increase revenues, or decrease other operating costs sufficiently to offset rapid or prolonged fuel price increases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing fuel price/fare risk by adding detail about advance ticket purchasing limiting pricing flexibility."
+  },
+  {
+   "text": "Further, the Company faces the risk that higher fares may drive a decrease in air travel demand generally or a disproportionate decrease in leisure travel due to price sensitivity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific consequence (demand decrease from higher fares) to the existing fuel/fare risk discussion."
+  },
+  {
+   "text": "Conversely, prolonged periods of low fuel prices may hinder the Company\u2019s ability to execute on its strategic initiatives as other carriers compete by offering lower fares, flying longer-haul routes, or increasing capacity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about low fuel price scenario impacting strategic initiatives, expanding existing fuel price risk."
+  },
+  {
+   "text": "However, based on higher fuel hedging premium costs over time and other factors, the Company terminated its remaining fuel hedge positions in second quarter 2025 and does not intend to add new fuel derivatives to its portfolio.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific material action\u2014termination of all fuel hedge positions in Q2 2025\u2014representing a new factual risk exposure."
+  },
+  {
+   "text": "The Company may review its approach to hedging from time to time based on market conditions and other factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reviewing hedging approach, adds no specific risk."
+  },
+  {
+   "text": "Purchasing jet fuel at prevailing market prices, which could change substantially over short periods of time, may make the Company\u2019s earnings more vulnerable to volatile fuel prices and could have a material adverse effect on the Company\u2019s results of operations and financial condition.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the standard fuel price volatility risk already present in filings."
+  },
+  {
+   "text": "The Company\u2019s ability to enter into fuel derivative instruments in the future could also be limited by market conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about potential market limits on fuel derivative use, expanding existing hedging risk."
+  },
+  {
+   "text": "The Company\u2019s low-cost structure has been one of its primary competitive advantages, as it has generally enabled the Company to offer low fares, drive traffic volume, grow market share, and protect profits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about low-cost structure advantage, not a new risk."
+  },
+  {
+   "text": "These agreements include required work rules and wage\u2011rate provisions, as well as other negotiated terms, that may restrict the Company\u2019s operational flexibility and result in increased staffing or scheduling inefficiencies, thereby pressuring its cost structure relative to certain competitors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on how labor agreements restrict flexibility, expanding existing labor cost risk."
+  },
+  {
+   "text": "If new or amended labor agreements include additional pay increases, work rule requirements, or other terms that further elevate costs, the Company\u2019s competitive cost position could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential cost impact from future labor agreement terms, expanding existing risk."
+  },
+  {
+   "text": "The Company\u2019s wholly-owned insurance captive uses actuarial services to determine the value of policies and reserves, which can be subject to fluctuation as past trends are not always indicative of future 31 Table of Contents loss developments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific detail about insurance captive actuarial reserve risk not previously disclosed."
+  },
+  {
+   "text": "The Company\u2019s transformational initiatives are discussed in more detail under \u201cBusiness.\u201d The Company made certain assumptions in developing its strategic plans and initiatives related to, for example, customer demand (in light of changing economic conditions), fuel costs, delivery of aircraft, aircraft certification approval timelines, labor market constraints and related costs, supply chain constraints, inflationary pressures, voluntary or mandatory groundings of aircraft, its network, competition, market consolidation, and other macroeconomic and geopolitical factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of assumptions underlying strategic plans, largely contextual/boilerplate."
+  },
+  {
+   "text": "Furthermore, the execution of the Company\u2019s strategic plans may exacerbate other risks described in this Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that execution may exacerbate other risks, no new specifics."
+  },
+  {
+   "text": "Actual conditions may be different from the Company\u2019s assumptions at any time and could cause the Company to further adjust its strategic plan.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about assumptions changing, no new substance."
+  },
+  {
+   "text": "To meet Customer preferences and better compete with the major U.S. airlines, the Company has moved to a more segmented approach, offering a basic economy product 32 Table of Contents and a premium economy fare product with extra legroom.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new business strategy (segmented fare products) not previously mentioned."
+  },
+  {
+   "text": "The Company has also moved to an assigned seating model and now charges bag fees for most fare products.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new operational changes (assigned seating, bag fees) representing a substantive business model shift."
+  },
+  {
+   "text": "The competitiveness of the Company\u2019s offerings could be adversely affected if it is unable to implement new initiatives in a timely and successful manner or if Customers are unwilling to accept the Company\u2019s product and policy changes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds risk that new initiatives may fail, expanding on the newly introduced product changes."
+  },
+  {
+   "text": "The Company may not be able to procure aircraft in the future in a timely manner or on favorable commercial terms, which could limit the Company\u2019s growth or negatively affect the Company\u2019s cost structure and competitive position.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates aircraft procurement risk with added specificity about timing and terms."
+  },
+  {
+   "text": "The Company\u2019s ability to execute its growth, fleet modernization, and strategic and operational plans may be affected by the timely procurement of additional aircraft on commercially favorable terms.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing aircraft procurement risk in different wording."
+  },
+  {
+   "text": "Industry demand for new 33 Table of Contents aircraft may exceed supply, and manufacturers may face production constraints, supply chain shortages, changes in production rates, labor disruptions, or order backlogs that limit availability of aircraft.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about supply chain and production constraints affecting aircraft procurement risk."
+  },
+  {
+   "text": "The Company may also encounter less favorable pricing, reduced delivery slot availability, more restrictive contractual terms, or diminished negotiating leverage with aircraft manufacturers, sellers, or lessors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential negative terms from manufacturers, expanding procurement risk."
+  },
+  {
+   "text": "If the Company is unable to procure additional aircraft on acceptable terms or within planned timeframes, the resulting constraints could negatively affect the Company\u2019s ability to meet evolving Customer demands, pursue growth or network expansion opportunities, or replace aircraft planned for retirement, any of which could adversely affect the Company\u2019s competitive position, operating results, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates consequences of failing to procure aircraft, expanding existing risk."
+  },
+  {
+   "text": "Introducing a new aircraft manufacturer or fleet type could impose significant operational complexities, regulatory requirements, and costs on the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding potential new aircraft manufacturer/fleet type complexities."
+  },
+  {
+   "text": "Renegotiating labor agreements or entering into new labor agreements can require significant costs and extensive bargaining and, in some instances, may not be successful.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about labor negotiation costs without new specifics."
+  },
+  {
+   "text": "As a result, the Company offered a voluntary separation program to certain Employees in 2024, and the Company implemented a reduction in workforce in 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new events: voluntary separation program and workforce reduction, indicating tangible operational changes."
+  },
+  {
+   "text": "The Company is expanding its use of AI and machine-learning.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk area regarding expanding AI use, previously unmentioned."
+  },
+  {
+   "text": "Any failure in the Company\u2019s AI implementation strategy, compliance with regulations, or failure to otherwise manage the risks related to AI technologies effectively could materially adversely affect its operations, reputation, and/or financial position.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific risks from AI implementation failures, a new risk category."
+  },
+  {
+   "text": "For example, in November 2025 during the partial government shutdown, the FAA issued an emergency order mandating an industry-wide reduction in flights at 40 major U.S. airports.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific new event (FAA emergency flight reduction order) illustrating a concrete operational risk."
+  },
+  {
+   "text": "The FAA has received funds to support upgrades to the air traffic control system, but ongoing modernization efforts continue to face bureaucratic and budgetary constraints, and the FAA may not be able to secure adequate additional funding to implement sufficient system upgrades in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing ATC modernization risk with funding/bureaucratic details."
+  },
+  {
+   "text": "Additionally, telecommunications outages such as the 2025 Newark outages and September 2025 Dallas outages have caused air traffic controllers to lose radar and communications, resulting in ground stops, delays, and cancellations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new incidents (Newark/Dallas outages) causing operational disruptions."
+  },
+  {
+   "text": "Further, various state agencies have proposed regulation that would subject fossil jet fuel to lower emissions standards.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new specific regulatory proposals affecting fossil jet fuel emissions standards."
+  },
+  {
+   "text": "Proposal or adoption of such obligations could increase the demand for and the costs of the limited supply of SAF currently available and could result in increased costs of fossil jet fuel.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on SAF cost/demand risk already part of sustainability discussion."
+  },
+  {
+   "text": "The Company is subject to risks related to its sustainability goals and disclosures, which may affect stakeholder sentiment and the Company\u2019s reputation and brand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds broader framing to existing sustainability risk about reputation impact."
+  },
+  {
+   "text": "The Company has voluntarily set near- and long-term environmental sustainability plans and goals, and any failure or perception of failure to meet or adequately progress against its sustainability plans or goals, which are often aspirational, or any modifications to such goals could adversely affect the Company\u2019s reputation and brand.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing sustainability goal risk with similar meaning."
+  },
+  {
+   "text": "The Company\u2019s sustainability goals are subject to risks and uncertainties related to the Company\u2019s ability to successfully implement its business strategy, effectively respond to changes in market dynamics, and realize the anticipated benefits and associated cost savings of its actions.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about business strategy affecting sustainability goal achievement."
+  },
+  {
+   "text": "The Company may also face pressure from local and state governments as they continue advancing their own, sometimes conflicting, climate-related policies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about state/local government climate policy pressures."
+  },
+  {
+   "text": "Heightened competition for alternative fuel sources like SAF may impact the Company\u2019s ability to negotiate contracts with third parties at commercially reasonable and economically favorable terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing SAF-related risk to include competitive sourcing challenges."
+  },
+  {
+   "text": "The Company\u2019s achievement of its sustainability goals (whether mandated or voluntary) may also depend on technology developments that have not yet occurred or been implemented in a commercially feasible and cost-competitive manner.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about technology dependency for sustainability goals."
+  },
+  {
+   "text": "Failures or delays in sufficient SAF production and delivery, or ceased operations or bankruptcies of the Company\u2019s counterparties, could inhibit the Company\u2019s ability to meet its stated goals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific counterparty risk detail to existing SAF supply risk."
+  }
+ ]
+}

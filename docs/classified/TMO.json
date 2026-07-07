@@ -1,0 +1,63 @@
+{
+ "ticker": "TMO",
+ "sector": "Health Care",
+ "filing_date": "2026-02-26",
+ "accession": "0000097745-26-000018",
+ "prior_accession": "0000097745-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "In October 2025, the federal government entered a shutdown due to a lapse in appropriations, resulting from an inability by Congress to pass a budget or continuing resolution.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new external event (federal government shutdown) as a risk factor not previously disclosed."
+  },
+  {
+   "text": "For example, we are incorporating AI and machine learning technologies into our products, services and internal processes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement describing company's use of AI, not itself a risk statement."
+  },
+  {
+   "text": "Failure to keep pace with rapid developments in AI technologies could adversely affect our competitive position and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific competitive risk related to failing to keep pace with AI developments."
+  },
+  {
+   "text": "14 THERMO FISHER SCIENTIFIC INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer text, not substantive content."
+  },
+  {
+   "text": "Improper or unauthorized use of AI by our employees or third parties working on our behalf could create additional risks, including exposure of confidential information, errors in output, or the generation of inaccurate, misleading or biased results, which could negatively impact our customers, stakeholders and reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks around improper AI use, including data exposure and biased outputs."
+  },
+  {
+   "text": "The integration of AI, including generative AI, into our products, services or internal operations may expose us to increased risks of intellectual property infringement or misappropriation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding IP infringement from AI integration."
+  },
+  {
+   "text": "16 THERMO FISHER SCIENTIFIC INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer text, not substantive content."
+  },
+  {
+   "text": "As of December 31, 2025, numerous countries where we operate have enacted legislation, or have indicated their intent to adopt legislation, to implement certain aspects of the Pillar Two rules.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific tax-related risk from Pillar Two legislation adoption."
+  },
+  {
+   "text": "17 THERMO FISHER SCIENTIFIC INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer text, not substantive content."
+  }
+ ]
+}

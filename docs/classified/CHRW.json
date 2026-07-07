@@ -1,0 +1,93 @@
+{
+ "ticker": "CHRW",
+ "sector": "Industrials",
+ "filing_date": "2026-02-13",
+ "accession": "0001043277-26-000009",
+ "prior_accession": "0001043277-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 15,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "We face substantial industry competition, including impacts from technological disruption and automation adoption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates competitive risk but adds automation/technological disruption as a new competitive factor, expanding the existing competition risk framing."
+  },
+  {
+   "text": "The industry is undergoing rapid technological change, including the emergence of disruptive technologies and accelerated adoption of automation and AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on industry competition risk by adding detail about technological change and AI/automation adoption trends."
+  },
+  {
+   "text": "Competitors are leveraging advanced digital platforms, AI-driven freight matching, and automation to improve efficiency and reduce costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on how competitors use AI and automation, elaborating the existing competitive risk rather than introducing a wholly new risk."
+  },
+  {
+   "text": "If we fail to maintain the pace, scale, or quality of automation and AI adoption, we may be unable to achieve our strategic goals for operational efficiency and digital transformation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to the company's own failure to adopt automation/AI at sufficient pace, scale, or quality, affecting strategic goals."
+  },
+  {
+   "text": "Inability to keep up with these advancements could increase our cost to serve customers, reduce productivity and negatively impact our ability to compete.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates the consequences of failing to keep up with technology, building on the newly introduced automation/AI risk."
+  },
+  {
+   "text": "Delays in implementing new systems or integrating emerging technologies into our workflows may also lead to higher operating expenses and missed opportunities for growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on operational consequences of technology adoption delays, continuing the same risk theme."
+  },
+  {
+   "text": "If we cannot effectively respond to competitive pressures and technological disruption, our business, financial condition, and results of operations could be materially and adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about competitive/technological risk without new specific content."
+  },
+  {
+   "text": "Our business outside of the United States is subject to various risks, including: \u2022 changes in tariffs, trade restrictions, trade agreements, and taxations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard list-style disclosure of general international business risks including tariffs, common boilerplate language."
+  },
+  {
+   "text": "In 2025, the United States government made significant changes to our national trade policy, including imposing tariffs on certain goods imported into the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific factual development: new 2025 U.S. tariffs on imported goods, a concrete new risk driver."
+  },
+  {
+   "text": "The tariffs impacted our Global Forwarding business in 2025, most significantly in the second quarter of 2025, with volatile market conditions causing global demand fluctuations and lower volumes.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific, quantifiable impact of tariffs on the Global Forwarding segment in 2025, a new substantive disclosure."
+  },
+  {
+   "text": "Changes in United States trade policy, including tariffs on certain imported goods, could continue to increase our costs and disrupt global supply chains.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generalizes the tariff risk into ongoing trade policy risk, expanding on the newly disclosed tariff issue."
+  },
+  {
+   "text": "These actions, and any retaliatory measures by other countries, may lead to higher transportation costs and reduced demand, resulting in potential loss of freight volume.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential consequences (retaliation, higher costs, lost volume) of the tariff risk already introduced."
+  },
+  {
+   "text": "Additionally, heightened customs requirements could delay shipments and require significant internal resources, increasing operating expenses and negatively impacting our ability to serve customers efficiently.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details additional operational impacts (customs delays, increased expenses) stemming from the same tariff/trade risk."
+  },
+  {
+   "text": "We leverage machine learning and AI technologies to enhance operational efficiency, automate processes, and improve the customer experience across our logistics platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes use of AI/ML positively for efficiency and customer experience, not a risk disclosure."
+  },
+  {
+   "text": "Department of Agriculture (\u201cUSDA\u201d) as required by Perishable Agricultural Commodities Act (\u201cPACA\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to regulatory body/act (USDA/PACA) is factual/regulatory context, not a new or expanded risk."
+  }
+ ]
+}

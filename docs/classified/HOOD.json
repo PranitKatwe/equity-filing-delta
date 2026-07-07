@@ -1,0 +1,218 @@
+{
+ "ticker": "HOOD",
+ "sector": "Financials",
+ "filing_date": "2026-02-18",
+ "accession": "0001783879-26-000023",
+ "prior_accession": "0001783879-25-000049",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 33,
+ "counts": {
+  "new_substantive_risk": 19,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "30 Table of Contents \u2022 Our future success depends on the continuing efforts of our key employees and our ability to attract and retain senior management and other highly skilled personnel. \u2022 Rothera, owned and operated as a joint venture with SIG, operates a futures and derivatives exchange and clearinghouse through its subsidiary, Rothera E&C.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new joint venture entity Rothera and its futures/derivatives clearinghouse business, a new specific business risk not previously disclosed."
+  },
+  {
+   "text": "For instance, as a result of our acquisition of Bitstamp in June 2025, we now provide additional cryptocurrency products and services to institutional customers both in parts of the U.S. and internationally, including products and services such as on-exchange lending, off-exchange settlement, post-trade settlement, and perpetual futures.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new products and services (lending, settlement, perpetual futures) from the Bitstamp acquisition, expanding the company's business into new specific risk areas."
+  },
+  {
+   "text": "These offerings to certain institutional clients expose us to risks we have not historically faced at scale, including credit risk, regulations and laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly states new exposure to credit risk and regulatory risk not previously faced at scale, a concrete new risk."
+  },
+  {
+   "text": "On September 30, 2025 and October 31, 2025, the SEC granted temporary exemptive relief from certain compliance dates adopted under the September 2024 Final Rules, including those relating to amended Rule 605 reporting, rules related to the requirement that exchange fees be determinable at the time of execution and the rules related to minimum pricing increments and access fee caps, which extended the effective dates to February, August, and November of 2026 respectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific new regulatory timeline details on existing SEC rule compliance risk."
+  },
+  {
+   "text": "For instance, the SEC previously proposed rules relating to best execution requirements in December 2022 but formally withdrew them in June 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates on withdrawal of a previously proposed SEC rule, refining existing regulatory risk disclosure."
+  },
+  {
+   "text": "Further, RHEU and Bitstamp Europe S.A., are licensed crypto asset service providers under the EU\u2019s MiCA, the provisions of which went into effect as of December 30, 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new regulatory licensing status under MiCA for specific subsidiaries, introducing new compliance exposure."
+  },
+  {
+   "text": "Among other requirements, 38 Table of Contents RHEU and Bitstamp Europe S.A. are subject to mandatory capital requirements that vary based on the services we provide.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new mandatory capital requirements applicable to specific subsidiaries, a concrete new regulatory burden."
+  },
+  {
+   "text": "Failure to meet these capital requirements or any future increases to these requirements could limit our ability to obtain or maintain authorization, constrain operational flexibility, or result in penalties or sanctions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates consequences of failing new capital requirements introduced in prior sentence."
+  },
+  {
+   "text": "For example, in May 2025, the UK\u2019s FCA published three papers which announced new proposals for certain aspects of the prudential requirements for crypto firms.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new regulatory proposals from the FCA affecting crypto firms' capital requirements."
+  },
+  {
+   "text": "These proposals are largely modelled on the requirements for investment firms and, if adopted, would, among other requirements, require authorized crypto asset firms to hold a required minimum amount of regulatory capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the substance of the new FCA proposals mentioned previously."
+  },
+  {
+   "text": "In particular, any increase in capital or liquidity requirements under the proposed FCA regime could reduce available liquidity and constrain flexibility in Bitstamp\u2019s operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential impact of proposed FCA capital/liquidity requirements on operations."
+  },
+  {
+   "text": "If adopted, these regulations could also limit our ability to obtain or maintain authorization, constrain operational flexibility, affect our ability to raise capital or result in penalties or sanctions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing potential consequences of the new FCA regulatory proposals."
+  },
+  {
+   "text": "This competition is likely to increase further due to ongoing changes in U.S. immigration policies and enforcement practices, particularly given the foreign national employee population from which we and other companies hire for these positions, and is likely to present increased challenges to attracting, integrating or retaining qualified personnel.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific external factor\u2014immigration policy changes\u2014affecting talent competition risk."
+  },
+  {
+   "text": "Rothera, owned and operated as a joint venture with SIG, operates a futures and derivatives exchange and clearinghouse through its subsidiary, Rothera E&C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate repetition of the Rothera description already introduced in sentence 0."
+  },
+  {
+   "text": "On November 19, 2025, Robinhood invested in Rothera, a joint venture established to operate an independent and institutional-grade futures and derivatives exchange and clearinghouse.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific investment and joint venture transaction (Rothera) not previously disclosed."
+  },
+  {
+   "text": "On January 20, 2026, Rothera acquired 90% of the issued and outstanding equity of Rothera E&C, a CFTC-licensed DCM, DCO, and SEF to accelerate delivery of futures and derivative product offerings, including prediction markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new acquisition by Rothera of a CFTC-licensed entity, introducing new regulatory and operational exposure."
+  },
+  {
+   "text": "Rothera is an independent entity with its own management team and employees responsible for the day-to-day operations of the joint venture.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional descriptive detail about Rothera's independent management structure, supporting the new venture risk."
+  },
+  {
+   "text": "Although we do not own a majority of Rothera\u2019s equity interests and Rothera\u2019s day-to-day operations are conducted by its management team, we designate the majority of the members of its board of directors which exercises governance control over Rothera, and thus consolidate the financial results of 43 Table of Contents Rothera and its subsidiaries into our consolidated financial statements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new consolidation accounting and governance control risk related to Rothera."
+  },
+  {
+   "text": "As a result, any failure by Rothera or its subsidiaries to operate effectively, comply with applicable laws or regulations, maintain adequate internal controls, manage liquidity or capital requirements, or successfully execute their business strategy, could adversely affect our business, financial condition, results of operations, and reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new risk that Rothera's operational or compliance failures could adversely affect the company's financials and reputation."
+  },
+  {
+   "text": "In addition, Bitstamp, which we acquired in June 2025 and expect to help accelerate our international growth, currently has entities operating internationally in the U.K., EU, Singapore, and the British Virgin Islands, and also offers services in other countries globally.",
+   "category": "new_substantive_risk",
+   "rationale": "Details expanded international operations from Bitstamp acquisition, introducing new geographic regulatory exposure."
+  },
+  {
+   "text": "Congress continues to consider potential legislation relating to digital assets and cryptocurrencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing Congressional consideration of legislation, lacking specific new risk detail."
+  },
+  {
+   "text": "For example, on July 17, 2025, the House of Representatives passed the CLARITY Act, which seeks to provide for a system of regulation of the offer and sale of digital assets by the SEC and CFTC and establish a provisional registration regime.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on legislative progress (CLARITY Act passage) relevant to existing digital asset regulatory risk."
+  },
+  {
+   "text": "The CLARITY Act is currently under consideration by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Transitional factual statement about Senate consideration, no new substantive risk content."
+  },
+  {
+   "text": "Senate, where the Senate Committee on Banking, Housing, and Urban Affairs released preliminary discussion drafts on July 22, 2025, September 5, 2025, and January 12, 2026, of its proposed \u201cDigital Asset Market Clarity Act\u201d that builds upon the CLARITY Act.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific procedural detail on Senate committee drafts related to existing legislative risk."
+  },
+  {
+   "text": "On January 29, 2026, the Senate 46 Table of Contents Committee on Agriculture, Nutrition, and Forestry voted in favor of advancing its proposed \u201cDigital Commodity Intermediaries Act,\u201d which likewise builds upon the CLARITY Act.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further legislative update expanding existing regulatory uncertainty risk."
+  },
+  {
+   "text": "Additionally, on July 18, 2025, the President signed into law the GENIUS Act, which establishes a federal regulatory framework for \u201cpayment stablecoins\u201d and their issuers, as well as contemplates scope for state-only regulation.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports enactment of a new federal law (GENIUS Act) establishing a new regulatory framework for stablecoins, a substantive new legal development."
+  },
+  {
+   "text": "If the CLARITY Act or any of the related bills discussed above are enacted, or as the GENIUS Act is implemented, we could be required to make significant operational changes and incur increased compliance costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential compliance cost impact from the newly enacted/proposed legislation, expanding existing regulatory risk."
+  },
+  {
+   "text": "District Court for the District of Nevada denied our motion for a preliminary injunction on November 25, 2025, we agreed to cease offering new sports-related event contracts in Nevada as of December 1, 2025, and to take action to explore unwinding longer-duration open sports-related event contracts in Nevada.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific litigation outcome and forced business change (ceasing Nevada sports contracts), a new concrete legal/operational risk."
+  },
+  {
+   "text": "Similarly, our broker-dealer subsidiary in the U.K., RHUK, is subject to comprehensive regulation by the FCA, including the Consumer Duty which establishes standards requiring regulated firms to, among other things, deliver good outcomes for retail customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific FCA Consumer Duty regulatory requirement applicable to UK subsidiary."
+  },
+  {
+   "text": "This includes outcomes relating to products and services, price and value, consumer understanding, and consumer support.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Elaborates generic categories of Consumer Duty outcomes without adding new substantive risk."
+  },
+  {
+   "text": "Our TradePMR insurance agency subsidiary is subject to regulation by state insurance regulators.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new subsidiary (TradePMR insurance agency) subject to new regulatory oversight."
+  },
+  {
+   "text": "Rothera E&C, a subsidiary of the Rothera joint venture, is also registered with the CFTC and operates as a regulated DCM, DCO and SEF and is similarly subject to extensive regulation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory registration and oversight for Rothera E&C subsidiary."
+  },
+  {
+   "text": "Our subsidiaries, RAM and RHV are registered as investment advisers with the SEC under the Advisers Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new subsidiaries (RAM, RHV) registered as investment advisers, introducing new regulatory exposure."
+  },
+  {
+   "text": "The Advisers Act mandates a variety of requirements for RIAs, including fiduciary duties, record-keeping, operational protocols, and disclosure obligations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of standard Advisers Act requirements, boilerplate regulatory framing."
+  },
+  {
+   "text": "The Advisers Act grants regulatory bodies such as the SEC significant administrative authority to govern investment advisory firms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory authority under Advisers Act, no specific new risk."
+  },
+  {
+   "text": "If the SEC or other government agencies determine that RAM or RHV have not complied with relevant laws or regulations, they can impose fines, suspend registrants and individual employees, or enact other sanctions, which may include revoking RAM\u2019s and RHV\u2019s registrations under the Advisers Act.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential sanctions for noncompliance by newly disclosed subsidiaries, expanding regulatory risk already introduced."
+  },
+  {
+   "text": "Regulations As investment firms and crypto-asset service providers, our subsidiaries RHEU, Bitstamp Europe S.A., Bitstamp Financial Services Ltd., Bitstamp Asia Pte.",
+   "category": "new_substantive_risk",
+   "rationale": "Lists new subsidiaries subject to extensive crypto-asset regulation across multiple jurisdictions, a new compliance exposure."
+  },
+  {
+   "text": "Ltd., and Bitstamp UK Limited are subject to extensive regulation by regulators in Lithuania, Luxembourg, Slovenia, Singapore, and the U.K., respectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides jurisdiction-specific detail expanding on the newly disclosed subsidiary regulatory exposure."
+  },
+  {
+   "text": "Specifically, our subsidiaries, RHEU and Bitstamp Europe S.A., are licensed crypto asset service providers under MiCA, the provisions of which went into effect as of December 30, 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates the MiCA licensing fact already introduced in sentence 5."
+  },
+  {
+   "text": "Among other provisions, MiCA introduces a comprehensive authorization and compliance regime for crypto-asset service providers, including requirements related to governance, reserves, capital, asset safeguarding, segregation and security.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific compliance elements under MiCA, expanding on previously introduced regulatory risk."
+  }
+ ]
+}

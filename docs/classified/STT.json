@@ -1,0 +1,183 @@
+{
+ "ticker": "STT",
+ "sector": "Financials",
+ "filing_date": "2026-02-19",
+ "accession": "0000093751-26-000124",
+ "prior_accession": "0000093751-25-000111",
+ "model": "claude-sonnet-5",
+ "n_added": 33,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "For example, the adoption and implementation of evolving and emerging technologies, such as artificial intelligence and distributed ledger technology, and related regulatory frameworks, have the potential to disrupt materially the activities of the financial services industry, the operation of financial markets, processes, infrastructure and service providers, including State Street, and the servicing and other requirements of financial services clients, including our clients.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding AI and distributed ledger technology disrupting financial services and market infrastructure."
+  },
+  {
+   "text": "All of these effects may occur, regardless of our response to these financial, technological, regulatory or other changes, including our own investment in innovation, product development, business process optimization and regulatory compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that effects may occur regardless of response; adds no new specific risk."
+  },
+  {
+   "text": "Widespread adoption and rapid evolution of emerging technologies, including with respect to digital assets, such as stablecoins, as well as developments in the regulatory landscape relating to emerging technologies, such as the enactment and implementation of the Guiding and Establishing National Innovation for U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk related to digital assets/stablecoins and named emerging legislation (GENIUS Act, CLARITY Act)."
+  },
+  {
+   "text": "Stablecoins Act of 2025 (GENIUS Act) and potential enactment of the Digital Asset Market Clarity Act of 2025 (CLARITY Act) or similar market structure legislation or regulation, may affect our clients\u2019 needs and expectations for products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Continues to detail specific new legislative risk (GENIUS/CLARITY Acts) affecting client needs, a new regulatory risk not previously disclosed."
+  },
+  {
+   "text": "Market influences may also continue to affect client demand for securities finance, and as a result our revenue from, and the profitability of, our securities lending activities in future periods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about market influences on securities lending revenue, an area already covered as a business risk."
+  },
+  {
+   "text": "In addition, the constantly evolving regulatory environment, including revised or proposed capital and liquidity standards, interpretations of those standards, and our own balance sheet management activities, may influence modifications to the way in which we deliver our agency lending or prime services businesses, the volume of our securities lending activity and related revenue and profitability in future periods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory environment's effect on securities lending business, building on existing risk disclosure."
+  },
+  {
+   "text": "Our FX trading revenue is influenced by multiple factors, including: the volume and type of client FX transactions and related spreads; currency volatility reflecting market conditions; and our management of exchange rate, interest rate and other market risks associated with our FX activities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details factors affecting FX trading revenue, an already existing risk area now elaborated with specifics."
+  },
+  {
+   "text": "The relative impact of these factors on our total FX trading revenues often differs from period to period.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about variability of factor impact over time, no new risk content."
+  },
+  {
+   "text": "For example, assuming all other factors remain constant, increases or decreases in volumes or bid-offer spreads across product mix tend to result in corresponding changes in client-related FX revenue.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Illustrative example of how volume/spread changes affect revenue; explanatory, not a new risk."
+  },
+  {
+   "text": "Our return of capital to shareholders through common share repurchases and common stock dividends may be variable and is subject to various business and financial factors and regulatory requirements and approvals of our Board of Directors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary statement about variability of capital return decisions, typical disclosure language."
+  },
+  {
+   "text": "Stock purchases under our common share repurchase program may be made using various types of transactions, including open market purchases, accelerated share repurchases or other transactions off the market, and may be made under Rule 10b5-1 trading programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard mechanics of share repurchase transactions, not a risk."
+  },
+  {
+   "text": "The timing and amount of any stock purchases and the type of transaction may not be ratable over the duration of the program, may vary from reporting period to reporting period and will depend on several factors, including our capital position and our financial performance, investment opportunities, market conditions, the nature and timing of implementation of revisions to the Basel III framework and the amount of common stock issued as part of employee compensation programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains factors influencing timing of repurchases; standard disclosure, no new risk."
+  },
+  {
+   "text": "The common share repurchase program does not have specific price targets and may be suspended at any time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States repurchase program lacks price targets and can be suspended; procedural, not a new risk."
+  },
+  {
+   "text": "For information regarding our common share repurchases, refer to \u201cMarket for Registrant\u2019s Common Equity\u201d included under Item 5, Market for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities in this Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing, purely administrative."
+  },
+  {
+   "text": "Federal and state banking regulations place certain restrictions on dividends paid by subsidiary banks to the parent holding company.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates well-known regulatory restriction on bank dividend payments, an existing risk."
+  },
+  {
+   "text": "In addition, banking regulators have the authority to prohibit bank holding companies from paying dividends.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates regulators' authority to prohibit dividends, consistent with existing risk disclosures."
+  },
+  {
+   "text": "For information concerning limitations on dividends from our subsidiary banks, refer to \u201cRelated Stockholder Matters\u201d included under Item 5, Market for Registrant\u2019s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities, and to Note 15 to the consolidated financial statements in this Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to other filing sections, no substantive content."
+  },
+  {
+   "text": "Our common stock and preferred stock dividends, including the declaration, timing and amount thereof, are subject to consideration and approval by the Board at the relevant times.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States dividends require Board approval, a standard procedural fact."
+  },
+  {
+   "text": "The 2023 Basel III Endgame Proposal would, among other things, eliminate the advanced approaches for monitoring risk-based capital adequacy in favor of a new standardized expanded risk-based approach that includes new standardized methodologies for credit risk, operational risk and CVA risk components, and would also replace the existing market risk rule with the new FRTB framework.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on the Basel III Endgame Proposal's mechanics, expanding an existing regulatory capital risk."
+  },
+  {
+   "text": "The 2023 G-SIB Surcharge Proposal would, among other things, measure the G-SIB surcharge in 0.1% increments as opposed to the 0.5% increments that currently apply.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the G-SIB Surcharge Proposal's measurement change, expanding existing capital regulation risk."
+  },
+  {
+   "text": "Public statements by U.S. banking agency officials indicate that the 2023 Basel III Endgame Proposal and 2023 G-SIB Surcharge Proposal are under reconsideration.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes regulatory proposals are under reconsideration, adding update to existing regulatory uncertainty risk."
+  },
+  {
+   "text": "While a re\u2011proposal is currently expected in March 2026, the timing and content of any potential re-proposal, and the effects on us, remain uncertain at this stage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific timing detail (March 2026) to existing regulatory uncertainty risk."
+  },
+  {
+   "text": "Some of the regulations finalized in the prior presidential administration that are applicable to financial institutions have been modified, rescinded or withdrawn or are subject to revaluation, creating further uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory uncertainty due to changes in prior administration's regulations, building on existing risk theme."
+  },
+  {
+   "text": "Although the presidential administration has indicated an intent to pursue the regulation of the financial services industry differently than was the case under the previous administration, there is significant uncertainty regarding the direction this will take, the implementation of new policies and objectives, and the ultimate impact on potential new regulatory initiatives and the enforcement of existing laws and regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty from new administration's regulatory approach, consistent with existing regulatory risk disclosures."
+  },
+  {
+   "text": "It is possible the expected changes in regulation do not occur or are reversed by a subsequent administration, or the regulatory measures that are ultimately enacted deliver significant competitive advantages to financial services firms that are structured differently or serve different or other markets than us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds scenario of regulatory changes being reversed or creating competitive disadvantage, expanding existing regulatory risk."
+  },
+  {
+   "text": "Capital Markets Union Action Plan.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Appears to be a title or heading fragment with no substantive content."
+  },
+  {
+   "text": "We have also become members of various organizations focused on climate change and other sustainability or ESG issues, in order to participate in industry discussions on these topics, but we remain independent at all times in making investment decisions, developing our proxy voting and engagement policies and voting our clients\u2019 proxies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes participation in ESG-related organizations while maintaining independence; not a risk statement."
+  },
+  {
+   "text": "Certain U.S. officials have suggested that index fund managers should not be permitted to vote proxies on behalf of index funds, which, if enacted into law, could impact our ability to attract and retain clients.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk regarding potential restrictions on proxy voting by index fund managers."
+  },
+  {
+   "text": "For some of these third parties with which we do business, some of whom provide material services to us, there are few or no viable alternative providers, and we therefore face transition risks to either change to a new external provider (which may be a current alternative provider), if available with sufficient capacity and on terms acceptable to us, or to internalize the service or technology, in the event the third party is unable to resume the provision of services or technology on substantially the same basis as prior to the relevant incident.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding lack of alternative providers and transition difficulties for critical third-party services."
+  },
+  {
+   "text": "These transition risks include out-of-pocket costs, client loss, regulatory scrutiny and reputational harm, any of which could be material.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences (costs, client loss, reputational harm) of the transition risk introduced just prior."
+  },
+  {
+   "text": "All of these programs involve the risks of delay cost over-runs, and legacy systems may present vulnerabilities during transition periods, increasing exposure to outages, security incidents or other operational errors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new operational risk regarding legacy systems' vulnerabilities during technology transitions."
+  },
+  {
+   "text": "These technologies introduce additional risks, including potential vulnerabilities in cryptographic protocols, interoperability challenges, and accelerated obsolescence of existing security frameworks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new technology risks including cryptographic vulnerabilities and interoperability challenges."
+  },
+  {
+   "text": "Some of the vendors on which we rely, including cloud service providers, are large, well known and used by many other major financial and other institutions, which increases the risk that they will be targeted by malefactors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cybersecurity risk that widely used vendors, including cloud providers, are prime targets for attacks."
+  }
+ ]
+}

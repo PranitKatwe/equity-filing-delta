@@ -1,0 +1,218 @@
+{
+ "ticker": "FITB",
+ "sector": "Financials",
+ "filing_date": "2026-02-24",
+ "accession": "0000035527-26-000124",
+ "prior_accession": "0000035527-25-000079",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "Refer to page 19 for cautionary information regarding forward-looking statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to forward-looking statements section."
+  },
+  {
+   "text": "Refer to the Credit Risk Management subsection of the Risk Management section in Item 7 of this Annual Report for more information on specific concentrations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the annual report."
+  },
+  {
+   "text": "These ratings also affect the interest rates that Fifth Third pays when issuing new debt securities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how credit ratings affect cost of debt, an extension of existing ratings risk discussion."
+  },
+  {
+   "text": "Additionally, downgrades may trigger obligations or create liabilities under the terms of Fifth Third\u2019s existing arrangements that could increase costs, impair the marketability of affected securities, prompt further downgrades and otherwise have a negative effect on Fifth Third\u2019s financial condition or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of ratings downgrades, expanding existing ratings risk."
+  },
+  {
+   "text": "28 Fifth Third Bancorp Table of Contents OPERATIONAL RISKS Fifth Third\u2019s business is dependent on the availability and performance of operational and information technology systems, including those provided by third-party service providers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic topic sentence introducing operational risk section, standard framing."
+  },
+  {
+   "text": "Interruptions or failures could materially adversely affect operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about interruptions."
+  },
+  {
+   "text": "Failure, disruption, interruption or outage to any system may cause disruptions in critical business operations such as the ability to use accounting, deposit, loan, payment and other systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples of business operations affected, expanding operational risk description."
+  },
+  {
+   "text": "It could also cause unfavorable effects to clients and customers, including delays or other disruptions in services, limitations on Fifth Third\u2019s ability to collect data needed for its business, inability to settle or clear transactions, the possibility that fund transfers are completed erroneously and fraudulent transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific client/customer impacts, expanding existing operational risk."
+  },
+  {
+   "text": "While Fifth Third invests in automation and emerging technologies such as AI, to prevent, detect and remedy any interruptions or failures, manual oversight remains a critical component of its risk mitigation strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new use of AI and automation in risk mitigation, a new operational element not previously disclosed."
+  },
+  {
+   "text": "Exception handling and control testing are employed to help identify and remediate errors that may not be captured through automated processes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard control processes, generic risk management language."
+  },
+  {
+   "text": "Despite these controls, failures are still possible and could result in operational disruptions or financial loss.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that controls may fail."
+  },
+  {
+   "text": "Risks of operational failures, disruptions or outages in Fifth Third\u2019s operational and information technology systems, and those provided by third-party providers, can result from a variety of factors, only some of which may be wholly or partially within the control of Fifth Third, its third-party providers or the financial services industry more generally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about factors affecting operational risk, standard framing."
+  },
+  {
+   "text": "Such events could affect Fifth Third\u2019s systems or limit Fifth Third\u2019s ability to use information technology due to effects on underlying infrastructure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about infrastructure effects."
+  },
+  {
+   "text": "Although Fifth Third regularly updates and replaces systems that it depends on, financial institutions generally continue to utilize some older systems alongside newer systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about legacy systems, standard industry framing."
+  },
+  {
+   "text": "Causes of system failures, disruptions or outages may be difficult to detect.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty detecting failures."
+  },
+  {
+   "text": "Despite this, there can be no assurance that any cyber-attacks, security breaches or system failures or interruptions will not occur or, if any do occur, that it can be remediated in such a way to eliminate the risk.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary disclaimer about inability to guarantee prevention of failures."
+  },
+  {
+   "text": "Financial institutions are the targets of frequent efforts to breach systems, including through denial of service attacks, social engineering such as phishing and smishing, placement of insider threats, and ransomware, among others.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific attack methods (phishing, smishing, ransomware, insider threats) expanding existing cybersecurity risk."
+  },
+  {
+   "text": "The increasing interdependence and complexity of financial institutions and infrastructure also means a disruption, compromise or failure that 29 Fifth Third Bancorp Table of Contents affects one segment of the financial services industry could also impact Fifth Third.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on interconnectedness risk within financial industry, building on existing systemic risk discussion."
+  },
+  {
+   "text": "The prospect that AI may be used to conduct attacks may make them more difficult to detect.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk that AI may be used by attackers to conduct harder-to-detect cyberattacks."
+  },
+  {
+   "text": "Additionally, the growing sophistication of AI increases the risk of cyber-attacks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk factor tying AI sophistication to increased cyberattack risk."
+  },
+  {
+   "text": "Even with reasonable investment and diligence by Fifth Third, Fifth Third\u2019s ability to prevent cyber-attacks, security breaches or system failures or interruptions impacting its third- and fourth-party service providers may be limited.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing third-party risk disclosure to include fourth-party providers."
+  },
+  {
+   "text": "While controls are robust, the speed and automation of these systems introduce a risk of erroneous transactions that could result in financial loss.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of erroneous transactions due to system speed and automation, a specific new exposure."
+  },
+  {
+   "text": "Further, clients and customers use their own devices to utilize mobile banking and online services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about customer device usage, not a specific new risk."
+  },
+  {
+   "text": "Not all of Fifth Third\u2019s clients, customers or counterparties have appropriate controls in place to protect information exchanged between them and Fifth Third.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing third-party/counterparty risk by noting lack of controls."
+  },
+  {
+   "text": "This may create new security risks and increase the likelihood of security incidents impacting customers\u2019 information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of security incidents from customer-side technology, a specific new exposure."
+  },
+  {
+   "text": "Customers\u2019 information may not always be protected by third-party applications or other third-party technology used in connection with such services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on third-party technology risk already introduced."
+  },
+  {
+   "text": "This can result and has resulted in fraud.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses concrete outcome that fraud has already resulted, a specific new admission of realized harm."
+  },
+  {
+   "text": "For more detail on Fifth Third\u2019s cybersecurity governance structure and practices, see Item 1C of this Annual Report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to cybersecurity governance section."
+  },
+  {
+   "text": "Further, Fifth Third may utilize new technology, such as AI, in connection with its business and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new disclosure that Fifth Third may use AI in its business and operations, a new risk area."
+  },
+  {
+   "text": "AI may be developed internally by Fifth Third, or may be provided to Fifth Third by third- or fourth-party service providers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes sourcing of AI (internal vs third-party), a factual clarifying statement without new risk substance."
+  },
+  {
+   "text": "AI may introduce Fifth Third to novel or intensified legal, regulatory, ethical, operational, reputational or other risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces broad new risk category tied to AI adoption across legal, regulatory, ethical, and operational dimensions."
+  },
+  {
+   "text": "AI models employed by Fifth Third or its service providers might be flawed due to improper design, implementation, or training or outputs based on data or algorithms that are incomplete, inadequate, misleading, biased or of poor quality.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of flawed AI models due to design or data issues."
+  },
+  {
+   "text": "These flaws may not be easily identifiable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic follow-on statement that flaws may be hard to identify, not adding new substance."
+  },
+  {
+   "text": "Additionally, there is no certainty that Fifth Third\u2019s use of AI will successfully enhance its business operations or achieve its intended outcomes, and its competitors may adopt AI more swiftly or effectively than Fifth Third does.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive and performance risk tied to AI adoption uncertainty."
+  },
+  {
+   "text": "AI usage is subject to a range of existing laws and regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk specific to AI usage under existing laws."
+  },
+  {
+   "text": "AI is also expected to be governed by new laws and regulations, or new applications of existing laws and regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory risk by noting anticipated new AI-specific laws, building on prior sentence."
+  },
+  {
+   "text": "AI is under ongoing scrutiny by various governmental and regulatory bodies, with federal, state and international authorities either implementing or considering legal frameworks that could impact Fifth Third\u2019s ability to leverage AI effectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details regulatory scrutiny of AI, expanding on the newly introduced AI regulatory risk."
+  },
+  {
+   "text": "Fifth Third may find it challenging to predict and adapt to these rapidly evolving legal requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty adapting to legal change, lacks specific new risk detail."
+  },
+  {
+   "text": "Additionally, if Fifth Third does not possess adequate rights to the data or algorithms underpinning its AI solutions, or the outputs they generate, Fifth Third could face liabilities for breaching applicable laws and regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new liability risk tied to data/algorithm rights underlying AI solutions."
+  },
+  {
+   "text": "The limited experience with novel AI algorithms or applications within financial services generally, coupled with the swift pace of technological advancements and the rapid adoption of AI by Fifth Third\u2019s partners and competitors, may hinder Fifth Third\u2019s ability to effectively mitigate or detect these risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding limited industry experience with AI hindering risk mitigation efforts."
+  }
+ ]
+}

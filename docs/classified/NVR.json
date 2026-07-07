@@ -1,0 +1,33 @@
+{
+ "ticker": "NVR",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-11",
+ "accession": "0000906163-26-000018",
+ "prior_accession": "0000906163-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 3,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "In such circumstances, we could be required, among other things, to fund our commitments to our buyers with our own financial resources, which are limited, or require our home buyers to find another source of financing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific financial consequence\u2014needing to self-fund buyer commitments or requiring buyers to find alternate financing\u2014which is a concrete, previously unmentioned business risk."
+  },
+  {
+   "text": "The rapid evolution and increased adoption of artificial intelligence technologies may also heighten our cybersecurity risks by making cyber-attacks more difficult to detect, contain, and mitigate.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk mechanism: AI technology making cyber-attacks harder to detect and mitigate, which is a distinct, material addition beyond generic cybersecurity boilerplate."
+  },
+  {
+   "text": "Higher operating costs could negatively impact our profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a generic, non-specific statement about operating costs affecting profitability, typical of standard risk factor framing without new detail."
+  }
+ ]
+}

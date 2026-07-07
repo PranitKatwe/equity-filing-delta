@@ -1,0 +1,133 @@
+{
+ "ticker": "AVY",
+ "sector": "Materials",
+ "filing_date": "2026-02-25",
+ "accession": "0000008818-26-000015",
+ "prior_accession": "0000008818-25-000003",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 13
+ },
+ "items": [
+  {
+   "text": "In 2025, the U.S. implemented a 10% global baseline tariff rate on nearly all imports, with higher rates on certain goods.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new fact about a 10% global baseline tariff, a concrete new trade risk not previously disclosed."
+  },
+  {
+   "text": "Additionally, it applied significant tariffs on goods from Canada, Mexico, China and the European Union, each of which announced reciprocal tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on additional country-specific tariffs and reciprocal actions, expanding the tariff risk introduced above."
+  },
+  {
+   "text": "The amount of these tariffs or the classes of goods on which they are applied continues to evolve and could significantly change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that tariff details could change, without new specific risk information."
+  },
+  {
+   "text": "The U.S. government continues to negotiate with countries regarding the tariffs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing negotiations, no specific new risk."
+  },
+  {
+   "text": "In July 2025, the U.S. and the European Union agreed to a framework for a trade deal that included a baseline tariff rate of 15% on most goods imported from the European Union into the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new factual detail about a concrete trade agreement and tariff rate with the EU."
+  },
+  {
+   "text": "The indirect impact on demand for our products and solutions as a result of these events, which have resulted in softer consumer volumes, continues to be uncertain and elevated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the tariff-related demand impact already introduced, adding softer consumer volume detail."
+  },
+  {
+   "text": "We estimate that the indirect impact of tariffs resulted in an aggregate low single digit rate decrease in sales in our overall apparel categories over the second, third and fourth quarters of 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Quantifies actual financial impact of tariffs on sales, a specific material data point."
+  },
+  {
+   "text": "Supreme Court issued a decision holding that the International Emergency Economic Powers Act does not authorize the President to impose tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new legal/regulatory development (Supreme Court ruling) affecting tariff authority, a material new risk factor."
+  },
+  {
+   "text": "While this may provide immediate relief from these specific duties, there will likely be a period of trade policy instability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about potential trade policy instability without specific new risk detail."
+  },
+  {
+   "text": "Approximately 40% of our net sales in 2025 originated in emerging markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific quantitative exposure to emerging markets, a new concrete risk metric."
+  },
+  {
+   "text": "In our Solutions Group reportable segment, sales in our overall apparel categories declined in 2025 as a result of tariff-related uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on previously mentioned tariff-related risk by specifying segment-level sales decline."
+  },
+  {
+   "text": "Environmental Protection Agency rescinded its 2009 Greenhouse Gas Endangerment Finding, which served as the foundation for various regulations of GHG emissions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new regulatory development (EPA rescinding GHG finding) that changes the regulatory risk landscape."
+  },
+  {
+   "text": "Developments in regulatory actions regarding these matters are likely to continue and may require conflicting responses, which could divert the attention of management.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about regulatory developments diverting management attention."
+  },
+  {
+   "text": "After partnering with a third-party expert to assess our disclosures against the recommendations regarding the information that companies should disclose to allow their stakeholders to assess and price 9 Table of Contents their climate-related risks, we have preliminarily aligned our reporting with Financial Stability Board\u2019s Task Force on Climate-related Financial Disclosures requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes voluntary disclosure alignment efforts, not a specific new risk."
+  },
+  {
+   "text": "In 2025, no single customer represented 10% or more of our net sales, with our customer base highly fragmented.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides factual customer concentration data indicating low risk, not introducing a new substantive risk."
+  },
+  {
+   "text": "For example, in 2025, we completed a European footprint optimization in Belgium for our Materials Group reportable segment, and in 2024, we consolidated our Solutions Group reportable segment's operations in Mexico.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes operational restructuring history, factual and not risk-specific."
+  },
+  {
+   "text": "In 2025, we opened our first RFID inlay and label production site in India.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new facility opening, factual operational detail rather than a risk."
+  },
+  {
+   "text": "In January 2026, a large customer of our Materials Group reportable segment filed for prepackaged Chapter 11 bankruptcy protection; we currently expect to collect on our prepetition outstanding receivables from this customer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: a major customer's bankruptcy filing affecting receivables."
+  },
+  {
+   "text": "Federal Reserve and similar monetary policymaking entities around the world modestly reduced rates in 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General macroeconomic commentary on interest rates, not a specific new risk to the business."
+  },
+  {
+   "text": "As of December 31, 2025, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete, generic factual statement with no substantive risk content."
+  },
+  {
+   "text": "Refer to \u201cCapital Resources\u201d in Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a risk statement."
+  },
+  {
+   "text": "In performing impairment tests, we have the option to first assess qualitative factors to determine whether it is necessary to perform a quantitative assessment for goodwill impairment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard accounting policy description regarding goodwill impairment testing methodology."
+  },
+  {
+   "text": "If the qualitative assessment indicates that it is more-likely-than-not that the fair value of a reporting unit is less than its carrying value, we perform a quantitative assessment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of standard accounting policy description, not a new risk."
+  }
+ ]
+}

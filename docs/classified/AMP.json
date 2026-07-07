@@ -1,0 +1,83 @@
+{
+ "ticker": "AMP",
+ "sector": "Financials",
+ "filing_date": "2026-02-19",
+ "accession": "0000820027-26-000011",
+ "prior_accession": "0000820027-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 13,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "While the job market has cooled in some industries, financial services remains exceptionally competitive for the best talent.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General commentary on job market conditions in financial services; framing/context rather than a specific risk."
+  },
+  {
+   "text": "To expand access to top talent, we have strategically broadened our footprint, ensuring we have the right capabilities in place to support long-term growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a mitigation strategy (broadening footprint) rather than introducing or expanding a risk."
+  },
+  {
+   "text": "A robust advisor network underpins our wealth management growth, requiring focused recruitment, retention, and succession planning as demographics shift.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity to the existing talent/succession risk by tying it to advisor network demographics and succession planning needs."
+  },
+  {
+   "text": "Regulatory changes and industry trends can alter competitive dynamics or adversely affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory/industry changes affecting competition; lacks specific detail."
+  },
+  {
+   "text": "Loss of employees or advisors without succession plans increases the risk of client attrition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a concrete consequence (client attrition) to the existing employee/advisor turnover risk."
+  },
+  {
+   "text": "Prolonged challenges in attracting and retaining talent, or significant increases in related costs, could materially impact our financial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the financial impact of prolonged talent retention challenges, building on existing risk theme."
+  },
+  {
+   "text": "We are also subject to deepfake threats that use AI to digitally alter images, video or audio to make it appear as though someone said or did something that could cause damage to our reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk regarding AI-generated deepfakes damaging reputation, not previously mentioned."
+  },
+  {
+   "text": "21 Index Ameriprise Financial, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page/index reference, not a risk statement."
+  },
+  {
+   "text": "23 Index Ameriprise Financial, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page/index reference, not a risk statement."
+  },
+  {
+   "text": "We and our vendors, along with developers of AI solutions, rely on third\u2011party and commercial AI technologies that could introduce risks that are not anticipated by existing governance, vendor risk management and model oversight frameworks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about reliance on third-party AI technologies creating unanticipated governance gaps."
+  },
+  {
+   "text": "Failure to adequately mitigate such risks at the design or development stage could lead to problems when AI technologies are deployed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced AI vendor risk by specifying failure points at design/development stage."
+  },
+  {
+   "text": "A growing patchwork of state AI laws with differing definitions, obligations and compliance expectations may require adjustments to our processes, documentation and oversight of third\u2011party technology, and how we manage AI use in our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding fragmented state AI regulations requiring compliance adjustments."
+  },
+  {
+   "text": "At the same time, more prescriptive frameworks in certain jurisdictions\u2014such as the European Union\u2014include detailed governance, transparency and reporting expectations that may not align with expectations or requirements elsewhere, increasing operational complexity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the newly introduced AI regulatory risk to international frameworks, adding operational complexity detail."
+  }
+ ]
+}

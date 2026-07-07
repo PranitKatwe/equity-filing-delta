@@ -1,0 +1,218 @@
+{
+ "ticker": "MSI",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-12",
+ "accession": "0000068505-26-000010",
+ "prior_accession": "0000068505-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "We support public safety and defense agencies in their mission to protect communities and countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mission statement about supporting public safety, no risk content."
+  },
+  {
+   "text": "This integrated workflow helps schools to detect, respond to and resolve safety and security threats faster and more effectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product benefit/workflow, marketing description not a risk."
+  },
+  {
+   "text": "Business Organization We manage our business through two segments: \u201cProducts and Systems Integration\u201d and \u201cSoftware and Services.\u201d Within these segments, we report net sales across three principal product lines: \u2022 MCN: Infrastructure, mobile ad-hoc network (\"MANET\") technology, devices (two-way radio and broadband, including both for public safety and professional and commercial radio (\"PCR\")), software and AI-powered capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes business segments and product lines, factual business organization not a risk."
+  },
+  {
+   "text": "Following the acquisition of Silvus Technologies Holdings Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about acquisition timing, no risk described."
+  },
+  {
+   "text": "(\u201cSilvus\u201d) in August 2025, we renamed our \"Land Mobile Radio Communications\" technology to \"Mission Critical Networks.\" We combined our legacy Land Mobile Radio portfolio with the newly acquired Silvus and now report net sales under MCN.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains rebranding of product line after acquisition, descriptive not risk."
+  },
+  {
+   "text": "This name change does not require any financial information to be reclassified from previous periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States no financial reclassification needed, purely administrative."
+  },
+  {
+   "text": "As new system releases and data security updates become available, we work with our customers to upgrade software, hardware, or both.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes normal customer support/upgrade process, not a risk."
+  },
+  {
+   "text": "We also provide central monitoring services for customers who prefer a turnkey offering.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes optional service offering, descriptive not risk."
+  },
+  {
+   "text": "Our portfolio includes software applications and AI-powered capabilities that unify voice and data from public safety agencies, enterprises and the community, enabling a broad informational view of operations and incidents while helping to accelerate workflows and improve the accuracy, speed and trust of decisions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product portfolio capabilities, marketing description."
+  },
+  {
+   "text": "Our software serves call takers, dispatchers, first responders, intelligence analysts, records and evidence specialists, detectives, crime analysts, and corrections officers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer base/users of software, descriptive."
+  },
+  {
+   "text": "We provide flexibility with both cloud-native applications for the command center and devices, as well as cloud features that augment existing on-premises applications, allowing customers to optimize technology investments and adopt a hybrid approach.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes deployment flexibility, descriptive not risk."
+  },
+  {
+   "text": "In addition, we import products, materials and components that are subject to import duties, and various trade actions affecting these imported products could have a negative impact on our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific exposure to import duties and trade actions impacting results, a new tangible risk."
+  },
+  {
+   "text": "In 2025, the U.S. initiated a series of trade actions that imposed new tariffs and increased existing tariffs on goods imported from various countries, contributing to higher import duties applicable to us in 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on 2025 tariff actions that materially expand the tariff risk introduced just before."
+  },
+  {
+   "text": "We are intensely focused on investing in our employees' growth, offering structured mentorship, rotational programs and a wide array of technical and professional development resources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee development programs, not a risk."
+  },
+  {
+   "text": "Our human resources team works with business functional leaders to perform annual talent reviews, assessing every team member's performance and identifying development opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes HR talent review process, not a risk."
+  },
+  {
+   "text": "This is complemented by specialized training that enables these leaders to use our corporate values to guide behaviors and lead teams effectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes leadership training, not a risk."
+  },
+  {
+   "text": "Our MCN sales could also be adversely affected by evolving technologies created to defeat encryption or our products\u2019 ability to communicate in a contested environment, which could result in our MCN radios becoming less secure or effective.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific technical risk of encryption-defeating technologies undermining MCN radio security."
+  },
+  {
+   "text": "For example, with our acquisition of Silvus in August 2025 and expanded defense opportunities, we now face increased competition for certain products and services from startups and defense contractors that may have certain competitive advantages.",
+   "category": "new_substantive_risk",
+   "rationale": "New competitive risk arising specifically from Silvus acquisition and defense market expansion."
+  },
+  {
+   "text": "Another area in which we face significant competition is AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies AI as a new specific area of significant competition."
+  },
+  {
+   "text": "Failure to comply with such requirements could result in liabilities, including potential enforcement actions, fines, penalties, product bans or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generic compliance failure consequences, expanding on existing regulatory compliance risk with specific outcomes."
+  },
+  {
+   "text": "We use AI in our products and services, and challenges related to the use of AI could subject us to legal liability or additional regulatory oversight, or adversely affect our business, financial condition, results of operations or business reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of legal liability and regulatory oversight from use of AI in products."
+  },
+  {
+   "text": "We expect to increasingly leverage AI, including generative AI, in our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Signals increasing reliance on AI, expanding the scope of AI-related risk already introduced."
+  },
+  {
+   "text": "AI may not always operate as intended and if we use AI that is based on data, algorithms, or other inputs that are flawed or insufficient, or if the AI assists in producing content, analyses or recommendations that are or are alleged to be deficient, inaccurate, violative of third-party intellectual property, or biased, our business, financial condition, or results of operations may be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific failure modes of AI (flawed data, bias, IP violation) expanding the AI risk already stated."
+  },
+  {
+   "text": "Additionally, AI presents emerging ethical issues, and if our use of AI becomes controversial, we may experience reputational harm, legal liability or additional regulatory oversight.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds ethical/reputational dimension to the AI risk already introduced."
+  },
+  {
+   "text": "The occurrence of any such catastrophic event, and the measures taken in response thereto, could have varied impacts and adversely impact our operations, including through impacts to our workforce and supply chain, inflationary pressures and increased costs (including increased insurance costs), impacts to sources or supply of energy, schedule or production delays, loss of spoilage of inventory, market volatility, physical damage to our facilities or those of our suppliers or customers, and other financial impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on catastrophic event risk with detailed list of specific operational impacts."
+  },
+  {
+   "text": "Any failure or perceived failure of certain mission-critical products and services we develop for use in areas such as defense, public safety and unmanned systems, could result in litigation by persons alleging harm, such as injuries or loss of life, or economic damage, including property damage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific litigation risk tied to mission-critical products causing injury or economic damage."
+  },
+  {
+   "text": "Recently, we have experienced increased costs on materials and components as a result of the dynamic global supply chain environment.",
+   "category": "new_substantive_risk",
+   "rationale": "States a concrete recent increase in costs due to supply chain issues, a new tangible impact."
+  },
+  {
+   "text": "Mitigation actions that we develop going forward, such as working with our global supply base to mitigate our exposure to such risks, may not be successful in counteracting any such increased costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on supply chain cost risk by noting mitigation efforts may fail."
+  },
+  {
+   "text": "Additionally, some stakeholders may disagree with our goals, initiatives and other actions and the focus of stakeholders may evolve over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about stakeholder disagreement, vague and non-specific."
+  },
+  {
+   "text": "At the same time, the EU is considering several proposals to modify key provisions of the AI Act in order to reduce the burden on businesses, as part of its initiative for regulatory simplification.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory development regarding EU AI Act modifications affecting compliance landscape."
+  },
+  {
+   "text": "Additionally, the EU may enact certain restrictions on the geographic location of AI solutions and domicile location of providers of AI products to customers within the EU.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific potential EU restrictions on AI product location/domicile, a new regulatory risk."
+  },
+  {
+   "text": "With respect to cybersecurity laws and regulations, in the EU and other jurisdictions we are subject to, and expect to continue to become subject to, increasingly stringent and prescriptive cybersecurity legislation mandating the implementation of distinct cybersecurity risk management measures and obligations to demonstrate our compliance through certification or self-attestations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cybersecurity regulatory requirements in EU and other jurisdictions."
+  },
+  {
+   "text": "Such legislation typically includes obligations for ensuring the integrity of our supply chain, including supplier-focused cybersecurity obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about supply chain cybersecurity obligations, expanding the newly introduced cybersecurity regulation risk."
+  },
+  {
+   "text": "The cybersecurity legal and regulatory environment is complex and continues to evolve across many jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that cybersecurity legal environment is complex, non-specific framing."
+  },
+  {
+   "text": "A comprehensive U.S. federal privacy law is also in the process of being drafted by the House Privacy Working Group.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific development of a U.S. federal privacy law being drafted, a new regulatory risk."
+  },
+  {
+   "text": "Our business with U.S. government customers depends, in part, upon our customers\u2019 continued expenditures on programs in areas we support such as law enforcement and national security.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates dependency on government program spending, an existing risk restated with specificity."
+  },
+  {
+   "text": "These expenditures have not remained constant over time, have been and in the future may be reduced in certain periods, and have been and in the future may be affected by efforts to reduce costs generally.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on variability of government expenditures affecting the existing dependency risk."
+  },
+  {
+   "text": "Changes to these compliance requirements could result in our inability to renew or perform under certain contracts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds consequence detail (inability to renew/perform contracts) to existing compliance risk."
+  },
+  {
+   "text": "While the 2025 enactment of the One Big Beautiful Bill Act (\u201cOBBBA\u201d) introduced several taxpayer-favorable provisions, such as the restoration of immediate expensing for qualified domestic research and experimental expenditures, it has also added complexity to the U.S. tax code.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new tax law (OBBBA) impacts adding complexity to tax compliance, a new specific risk factor."
+  },
+  {
+   "text": "For example, the interplay between new domestic incentives and modified international provisions, without future comprehensive administrative guidance, creates complexity with respect to our compliance with the OBBBA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on OBBBA complexity introduced in prior sentence."
+  }
+ ]
+}

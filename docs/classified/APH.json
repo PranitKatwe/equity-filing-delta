@@ -1,0 +1,218 @@
+{
+ "ticker": "APH",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-11",
+ "accession": "0001104659-26-013549",
+ "prior_accession": "0001558370-25-000714",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 18
+ },
+ "items": [
+  {
+   "text": "The Company\u2019s customers are located throughout the world, and the Company has many manufacturing, administrative and sales facilities outside the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about global operations and facilities, standard framing without new specifics."
+  },
+  {
+   "text": "As of December 31, 2025, approximately 79% of the Company\u2019s long-lived assets were located outside of the United States, with approximately 37% located in China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated concrete percentages on geographic concentration of long-lived assets, quantifying an existing concentration risk."
+  },
+  {
+   "text": "This compares to approximately 73% and 29%, respectively, in 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply provides prior-year comparison figures for context, not a new risk."
+  },
+  {
+   "text": "The U.S. continued to impose new tariffs on imports to the U.S. throughout 2025, and in response, several countries have imposed, or threatened to impose, reciprocal tariffs on imports from the U.S. and other retaliatory measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tariff escalation and retaliatory measures risk not previously described."
+  },
+  {
+   "text": "These systems are subject to numerous and evolving cybersecurity threats that are designed to disrupt operations or gain unauthorized access and threaten the confidentiality, integrity and availability of our information technology systems and confidential information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cybersecurity threat language common to many filings."
+  },
+  {
+   "text": "As a result, we may be unable to detect, investigate, remediate, or recover from future attacks or incidents, or avoid a material adverse impact to our business. \u200b 14 Table of Contents While we maintain a cybersecurity risk management program, there can be no assurance that it will eliminate all risk in protecting our information technology systems and confidential information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on inability to detect/remediate attacks, expanding on existing cybersecurity risk disclosure."
+  },
+  {
+   "text": "We rely on third-party providers, including cloud hosting and managed security service providers, for critical aspects of our information technology and cybersecurity infrastructure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new reliance on third-party cloud/security providers as a distinct risk vector."
+  },
+  {
+   "text": "A cybersecurity incident affecting any such provider, including incidents involving our cloud hosting environments, could materially disrupt our operations, even if our internal systems are not directly compromised.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the third-party reliance risk by describing potential disruption impact."
+  },
+  {
+   "text": "Cybersecurity herein. \u200b In the course of operating our business, we and certain of our third-party providers collect, maintain and process data about customers, employees, suppliers and others, including personally identifiable information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about data collection practices, standard context-setting."
+  },
+  {
+   "text": "We are therefore subject to a variety of laws, regulations and other requirements relating to information security and privacy, including those related to handling of personally identifiable information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about being subject to privacy laws, common boilerplate."
+  },
+  {
+   "text": "The regulatory environment surrounding information security and privacy is increasingly demanding, with frequent imposition of new and changing requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic characterization of regulatory environment without specific new risk."
+  },
+  {
+   "text": "The application and interpretation of such requirements are constantly evolving and are subject to change, creating a complex compliance environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving legal interpretation, standard boilerplate."
+  },
+  {
+   "text": "In some cases, these requirements may either be unclear in their interpretation and application, or they may have inconsistent or conflicting requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continues generic regulatory ambiguity language."
+  },
+  {
+   "text": "Further, there has been a substantial increase in legislative activity and regulatory focus on data privacy and security in the U.S. and elsewhere, including in relation to cybersecurity incidents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes increased legislative/regulatory focus on privacy and cybersecurity, expanding on existing risk trend."
+  },
+  {
+   "text": "Any failure or perceived failure by us to comply with laws, regulations and other requirements relating to information security and privacy could result in legal claims or proceedings (including class actions), regulatory investigations or enforcement actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about potential legal consequences of non-compliance."
+  },
+  {
+   "text": "We could incur significant costs investigating and defending such claims and, if found liable, pay significant fines, penalties and other related costs or be required to make changes to our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about costs of defending claims, common boilerplate."
+  },
+  {
+   "text": "For example, some of our customers are making significant investments in AI, and these investments are driving robust demand for certain of the Company\u2019s products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new business dependency on AI-driven customer demand as a growth/risk factor."
+  },
+  {
+   "text": "The continued growth of this market will be dependent upon many factors, including our go-forward market share for such products, the demand for our customers\u2019 products and services, the amount and mix of capital spending by our customers, changing technology priorities and changes in government regulations and policies related to AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on factors affecting the newly introduced AI-driven market growth risk."
+  },
+  {
+   "text": "Additionally, on January 9, 2026, the Company closed the CommScope acquisition, which is the largest acquisition in the Company\u2019s history.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a major new acquisition (CommScope) representing significant integration and operational risk."
+  },
+  {
+   "text": "The Company also has similar financial and other covenants associated with its three-year unsecured delayed draw term loan credit agreement (the \u201cThree-Year Delayed Draw Term Loan\u201d) and 364-day unsecured delayed draw term loan credit agreement (the \u201c364-Day Delayed Draw Term Loan\u201d and, together with the Three-Year Delayed Draw Term Loan, the \u201cDelayed Draw Term Loans\u201d), each of which was entered into in August 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific debt instruments (Delayed Draw Term Loans) with covenants not previously disclosed."
+  },
+  {
+   "text": "However, the Company borrowed $1,534.1 million under each of the Delayed Draw Term Loans in January 2026 to fund a portion of the consideration for the CommScope acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a large specific new borrowing ($1,534.1 million) tied to the acquisition, a material new financial risk."
+  },
+  {
+   "text": "This increase in debt requires a larger portion of the Company\u2019s cash flow to be dedicated to the payment of principal and interest on its debt, which could, among other things, prevent the Company from carrying out capital spending that is necessary or important to the Company\u2019s growth strategy and reduce our flexibility to respond to changing business and economic conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on how increased debt affects cash flow and strategic flexibility, building on the new debt risk."
+  },
+  {
+   "text": "Further, the amount of cash required for the payment of principal and interest on the increased debt, and thus the demands on the Company\u2019s capital resources, have increased.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on increased cash demands from new debt levels."
+  },
+  {
+   "text": "More specifically, the Company expects interest expense, net of interest income, to increase from $367.8 million in 2025 to approximately $800.0 million in 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific quantified interest expense increase, a material new financial impact figure."
+  },
+  {
+   "text": "However, outstanding debt subject to floating interest rates will be higher going forward as a result of the borrowings under the Delayed Draw Term Loans that occurred subsequent to December 31, 2025, as discussed above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes increased floating rate debt exposure due to new borrowings, expanding interest rate risk."
+  },
+  {
+   "text": "To the extent that interest rates change, our interest expense and interest payments on floating rate debt will be impacted accordingly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about interest rate impact, standard boilerplate."
+  },
+  {
+   "text": "There can be no assurance that interest rates will not change significantly from current levels. \u200b The Company relies on the global capital markets, and an inability to access those markets on favorable terms could adversely affect the Company\u2019s results. \u200b The Company has used the global capital markets to raise capital to invest in its business and make strategic acquisitions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on capital markets, standard boilerplate."
+  },
+  {
+   "text": "In addition, we cannot guarantee that we will be able to maintain our current credit rating.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about credit rating maintenance, common boilerplate."
+  },
+  {
+   "text": "For example, under the executive order titled \u201cPrioritizing the Warfighter in Defense Contracting\u201d issued in January 2026, defense contractors designated as underperforming by the Secretary of War are prohibited from conducting stock buybacks and issuing dividends until their performance improves.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory/executive order risk restricting buybacks/dividends for underperforming defense contractors."
+  },
+  {
+   "text": "Although we have compliance programs in place designed to reduce the likelihood of potential violations of these laws and regulations, our employees, contractors, or agents could violate such laws and regulations or our policies and procedures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard compliance program disclaimer language."
+  },
+  {
+   "text": "Although the Company believes its tax positions are appropriate and is currently discussing the matter with the relevant tax authorities, the Company has recorded a charge of $100.0 million in the fourth quarter of 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new $100 million charge related to a tax dispute, a material new financial risk."
+  },
+  {
+   "text": "The $100.0 million charge represents the Company\u2019s current best estimate of the costs that may be incurred to resolve this matter; however, the range of potential costs is estimated to be $100.0 million to approximately $300.0 million.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a range of potential costs, expanding on the newly disclosed tax charge risk."
+  },
+  {
+   "text": "The Company is unable to estimate the timing for resolution of this matter. \u200b On August 16, 2022, the Inflation Reduction Act of 2022 (the \u201cIRA\u201d), a tax and spending package that introduced several tax-related provisions, including a 15% corporate alternative minimum tax (\u201cCAMT\u201d) on certain large corporations and a 1% excise tax on certain corporate stock repurchases, was enacted into law.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical background on IRA enactment, standard contextual/legal boilerplate."
+  },
+  {
+   "text": "This legislation contains changes to previously enacted provisions of the Internal Revenue Code and provides for extensions of certain expiring tax provisions included in the Tax Cuts and Jobs Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of legislative changes, not a new specific risk."
+  },
+  {
+   "text": "Certain corporate tax provisions in H.R.",
+   "category": "reworded_same_meaning",
+   "rationale": "Fragment referencing H.R. 1 provisions, part of standard tax legislation description."
+  },
+  {
+   "text": "1 were enacted with retroactive effect to January 1, 2025.",
+   "category": "reworded_same_meaning",
+   "rationale": "Clarifies retroactive effective date of tax provisions, minor factual detail."
+  },
+  {
+   "text": "1 did not have a material impact on our effective tax rate for the year ended December 31, 2025.",
+   "category": "reworded_same_meaning",
+   "rationale": "States no material impact on effective tax rate, a neutral factual clarification."
+  },
+  {
+   "text": "The Company continues to evaluate the corporate tax provisions contained within H.R.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing evaluation of tax law impact."
+  },
+  {
+   "text": "1, and the future impact of H.R.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continues generic statement about uncertain future tax impact pending guidance."
+  },
+  {
+   "text": "1 depends on several factors, including interpretive regulatory guidance, which has not yet been released. \u200b The Organization for Economic Co-operation and Development (OECD)/G20 Inclusive Framework, known as Pillar Two, provides guidance for a global minimum tax.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new international tax risk from OECD Pillar Two global minimum tax framework."
+  }
+ ]
+}

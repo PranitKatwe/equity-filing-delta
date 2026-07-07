@@ -1,0 +1,58 @@
+{
+ "ticker": "EMR",
+ "sector": "Industrials",
+ "filing_date": "2025-11-10",
+ "accession": "0000032604-25-000087",
+ "prior_accession": "0000032604-24-000041",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "We May Use Artificial Intelligence in Our Businesses and in Our Products and Services, and Challenges With Managing its Use Could Result in Reputational Harm, Competitive Harm, and Legal Liability, and Adversely Affect Our Results of Operations Our businesses increasingly rely on artificial intelligence solutions to optimize our operations, improve customer experiences, and enhance our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk area: reliance on AI in operations and products, which is a new substantive business risk not previously disclosed."
+  },
+  {
+   "text": "While the use of artificial intelligence presents significant 8 opportunities, it also introduces a range of risks that could result in reputational harm, competitive harm, and legal liability, and adversely affect our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the AI risk just introduced, listing broad categories of harm (reputational, competitive, legal) without new specifics beyond the initial risk."
+  },
+  {
+   "text": "Our artificial intelligence efforts subject us to risks related to accuracy, intellectual property infringement or misappropriation, data privacy, and cybersecurity, among others, and if our use of artificial intelligence becomes controversial, we may experience brand or reputational harm, competitive harm, or legal liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific, concrete risk vectors (IP infringement, data privacy, cybersecurity) tied to AI use that materially expand the nature of the risk beyond generic framing."
+  },
+  {
+   "text": "Additionally, our competitors or other third parties may incorporate artificial intelligence into their products, services or operations more quickly or successfully than us, or develop superior products and services with the aid of artificial intelligence, which could impair our ability to compete effectively and adversely affect our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific competitive risk\u2014competitors outpacing the company in AI adoption\u2014which is a distinct, material business risk."
+  },
+  {
+   "text": "Finally, the regulatory landscape surrounding artificial intelligence is rapidly evolving and the use of artificial intelligence may be subject to new legal or regulatory requirements, the impact of which may be prohibitive or pose further risks from a legal or regulatory perspective.",
+   "category": "new_substantive_risk",
+   "rationale": "Highlights a specific new risk regarding evolving AI regulation that could impose legal/regulatory burdens, a concrete and material addition."
+  },
+  {
+   "text": "The recent changes in U.S. trade policy involving the application or increase of tariffs and the subsequent retaliatory measures against the U.S. have created a dynamic environment that may have a material adverse impact on our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to U.S. trade policy changes and tariffs impacting the business, not previously disclosed."
+  },
+  {
+   "text": "While we have deployed strategies to mitigate the impact of these dynamic trade policies, there is no assurance that we will be able to mitigate the full impact of all such tariffs, retaliatory tariffs or other trade policies that have or may develop in this rapidly changing environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced tariff risk by discussing mitigation efforts and their limitations, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "Increasing trade tensions and changes in trade policies have the potential to adversely impact our costs, the demand for our products, our supply chain and the global economy, which may have an adverse impact on our business, including operating and financial results and conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the trade policy risk by specifying impacted areas (costs, demand, supply chain, economy), expanding the previously introduced tariff risk."
+  }
+ ]
+}

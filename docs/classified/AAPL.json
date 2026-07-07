@@ -1,0 +1,218 @@
+{
+ "ticker": "AAPL",
+ "sector": "Information Technology",
+ "filing_date": "2025-10-31",
+ "accession": "0000320193-25-000079",
+ "prior_accession": "0000320193-24-000123",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "The Company may not be able to accurately predict, control or mitigate these risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about inability to predict risks; standard framing language."
+  },
+  {
+   "text": "Statements in this section are based on the Company\u2019s beliefs and opinions regarding matters that could materially adversely affect the Company in the future and are not representations as to whether such matters have or have not occurred previously.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statement disclaimer common to risk factor sections."
+  },
+  {
+   "text": "The risks and uncertainties described below are not exhaustive and should not be considered a complete statement of all potential risks or uncertainties that the Company faces or may face in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that risks listed are not exhaustive; standard boilerplate."
+  },
+  {
+   "text": "Restrictive measures can increase the cost or limit the availability of the Company\u2019s products and the components and rare earths and other raw materials that go into them.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding restrictive measures increasing cost/limiting availability of rare earths and raw materials."
+  },
+  {
+   "text": "Trade and other international disputes can also have an adverse impact on the overall macroeconomic environment and result in shifts and reductions in consumer spending and negative consumer sentiment for the Company\u2019s products and services, all of which can further adversely affect the Company\u2019s business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how trade disputes affect macroeconomic environment and consumer sentiment, expanding on the tariff risk theme."
+  },
+  {
+   "text": "Beginning in the second quarter of 2025, new tariffs were announced on imports to the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific factual disclosure about new tariffs announced in Q2 2025 affecting imports."
+  },
+  {
+   "text": "Tariffs\u201d), including additional tariffs on imports from China, India, Japan, South Korea, Taiwan, Vietnam and the European Union (\u201cEU\u201d), among others.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk detailing additional tariffs on imports from named countries."
+  },
+  {
+   "text": "In response, several countries have imposed, or threatened to impose, reciprocal tariffs on imports from the U.S. and other retaliatory measures.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk of retaliatory tariffs and measures from other countries."
+  },
+  {
+   "text": "Various modifications to the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment/transitional phrase leading into further tariff discussion, not substantive on its own."
+  },
+  {
+   "text": "Tariffs have been announced and further changes could be made in the future, which may include additional sector-based tariffs or other measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and expands on the tariff risk by noting potential future changes and additional measures."
+  },
+  {
+   "text": "Department of Commerce has initiated an investigation under Section 232 of the Trade Expansion Act of 1962, as amended, into, among other things, imports of semiconductors, semiconductor manufacturing equipment, and their derivative products, including downstream products that contain semiconductors.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new government investigation (Section 232) into semiconductor imports, a concrete new risk."
+  },
+  {
+   "text": "The ultimate impact remains uncertain and will depend on several factors, including whether additional or incremental U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of impact, standard hedging language."
+  },
+  {
+   "text": "Tariffs or other measures are announced or imposed, to what extent other countries implement tariffs or other retaliatory measures in response, and the overall magnitude and duration of these measures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of generic uncertainty language about tariff impact magnitude and duration."
+  },
+  {
+   "text": "The Company\u2019s products and services are offered in highly competitive global markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive global markets, standard framing."
+  },
+  {
+   "text": "These markets are characterized by aggressive price competition, downward pressure on gross margins, continual improvement in product performance, and price sensitivity on the part of consumers and businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of competitive market characteristics without new specifics."
+  },
+  {
+   "text": "These markets are further defined by frequent introduction of new products and services, short product life cycles, evolving industry standards, and rapid adoption of technological advancements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic market characterization language, standard boilerplate."
+  },
+  {
+   "text": "The Company\u2019s ability to compete successfully also depends on the effective protection and enforcement of its intellectual property rights.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about dependence on IP protection, standard framing."
+  },
+  {
+   "text": "Regulatory requirements, government investigations and litigation can force the Company to withdraw from, or modify its products and services for, certain countries and limit its ability to derive value from, or to enjoin others from using, its intellectual property rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on IP/regulatory risk by specifying forced withdrawal or modification of products due to regulation and litigation."
+  },
+  {
+   "text": "Additionally, they may require the Company to share its innovations with competitors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that company may be required to share innovations with competitors, expanding IP risk."
+  },
+  {
+   "text": "The success of new product and service introductions depends on a number of factors, including the Company\u2019s ability to recruit and retain highly skilled personnel to execute on its strategic initiatives, and the timely and successful development and market acceptance of new products, services and technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors affecting new product success, standard framing."
+  },
+  {
+   "text": "Additionally, quality issues or other defects or deficiencies can adversely affect the success of new product and service introductions and market acceptance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about quality issues affecting new product success, expanding existing product risk."
+  },
+  {
+   "text": "This risk may be exacerbated by the use of new and emerging technologies, including machine learning and artificial intelligence, which can involve, among other things, the acquisition and use of copyrighted materials for training as well as the potential reproduction of copyrighted materials in their outputs .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk related to AI/ML training data and copyright reproduction issues."
+  },
+  {
+   "text": "Periods of intense competition for talent in particular fields can lead to increased costs as the Company seeks to offer competitive compensation to recruit and retain highly skilled employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about talent competition and compensation costs."
+  },
+  {
+   "text": "Laws and regulations, including immigration, labor and employment laws and export controls, among others, can materially adversely affect the Company\u2019s ability to recruit and retain a highly skilled, global workforce.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on workforce risk by specifying immigration, labor, and export control laws as factors."
+  },
+  {
+   "text": "These attacks target the confidentiality, integrity or availability of confidential information and may disrupt normal business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of cyberattack targets, standard cybersecurity risk language."
+  },
+  {
+   "text": "These risks, and the risks of novel claims being attempted, may be exacerbated as new and emerging technologies, including machine learning and artificial intelligence, are further integrated into the Company\u2019s products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of novel legal claims exacerbated by AI/ML integration."
+  },
+  {
+   "text": "Additionally, such agreements may require the Company to change its business practices and limit the Company\u2019s ability to offer certain products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on legal/regulatory risk by noting agreements may require changing business practices or limiting offerings."
+  },
+  {
+   "text": "Further, such an outcome can result in significant monetary damages, disgorgement of revenue or profits, remedial corporate measures or injunctive relief against the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on potential monetary damages, disgorgement, and injunctive relief, expanding legal risk."
+  },
+  {
+   "text": "Adverse resolution of legal matters has from time to time required, and can in the future require, the Company to change its business practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on legal risk by noting past and future requirements to change business practices."
+  },
+  {
+   "text": "As a result, the Company\u2019s products could be banned, delayed or prohibited from importation, which could materially adversely affect the Company\u2019s business, reputation, results of operations, financial condition and stock price.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of products being banned or prohibited from importation."
+  },
+  {
+   "text": "Various stakeholders, including governments, regulators, investors, employees, customers and others, have differing expectations about a wide range of social and other issues related to the Company\u2019s business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about stakeholder expectations on social issues, standard ESG framing."
+  },
+  {
+   "text": "Globally, several jurisdictions have adopted, or may in the future adopt, competition-related laws and regulations imposing wide-ranging obligations on technology companies and significant limitations on businesses, including the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory risk by noting global adoption of competition laws targeting tech companies."
+  },
+  {
+   "text": "Changes to the Company\u2019s business in response to the DMA or other laws and regulations could materially adversely affect the Company\u2019s business, reputation, results of operations, financial condition and stock price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies DMA as a concrete regulatory driver expanding on prior general regulatory risk."
+  },
+  {
+   "text": "If such investigations or litigation are resolved against the Company, the Company can be exposed to significant fines and may be required to make further changes to its business practices, all of which could materially adversely affect the Company\u2019s business, reputation, results of operations, financial condition and stock price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory/litigation risk with specifics about fines and forced business practice changes."
+  },
+  {
+   "text": "On August 5, 2024, Google was found to have violated U.S. antitrust laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, real antitrust violation finding against Google, a concrete new legal risk factor."
+  },
+  {
+   "text": "In connection with this finding, on September 2, 2025, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new factual detail about court-ordered remedies following the antitrust finding."
+  },
+  {
+   "text": "District Court for the District of Columbia (\u201cD.C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment naming the court, purely descriptive continuation without new substantive content."
+  },
+  {
+   "text": "District Court\u201d) ordered certain remedies.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new disclosure that the court ordered certain remedies, a concrete legal development risk."
+  },
+  {
+   "text": "The court\u2019s order is subject to further proceedings before the D.C.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the litigation risk by noting further proceedings could alter remedies."
+  },
+  {
+   "text": "District Court, which may result in changes to the interpretation or application of the remedies ordered by the court, as well as new or changed remedies being ordered.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on potential for new or changed remedies stemming from the same litigation."
+  }
+ ]
+}

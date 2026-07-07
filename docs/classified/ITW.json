@@ -1,0 +1,28 @@
+{
+ "ticker": "ITW",
+ "sector": "Industrials",
+ "filing_date": "2026-02-13",
+ "accession": "0000049826-26-000008",
+ "prior_accession": "0000049826-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 2,
+ "n_substantive": 0,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Szafranski 59 Executive Vice President 2020 Mark A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is simply an executive officer name, title, and age listing, not a risk statement at all."
+  },
+  {
+   "text": "It divested one business in the first quarter of 2023 as it continues portfolio refinements to maintain portfolio discipline.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This sentence is a factual business update about a divestiture and portfolio refinement, not a statement identifying or expanding a specific risk to the business."
+  }
+ ]
+}

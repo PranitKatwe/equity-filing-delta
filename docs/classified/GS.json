@@ -1,0 +1,58 @@
+{
+ "ticker": "GS",
+ "sector": "Financials",
+ "filing_date": "2026-02-25",
+ "accession": "0000886982-26-000091",
+ "prior_accession": "0000886982-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "For example, in April 2025, the U.S. announced broad tariffs on imports from China and other U.S. trading partners, and China subsequently announced changes in trade practices, including with respect to the export of rare earth minerals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding tariffs on China and other trading partners and retaliatory trade practices, including rare earth export controls."
+  },
+  {
+   "text": "Treasury or agency obligations, and shutdowns could adversely affect our underwriting business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Appears to extend an existing risk discussion about government obligations/shutdowns to specifically call out impact on the underwriting business."
+  },
+  {
+   "text": "Our activities expose us to many different counterparties and countries, as well as different industries, including new and emerging industries, such as those related to AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new exposure to emerging industries such as AI, which is a concrete new risk vector not previously identified."
+  },
+  {
+   "text": "Penalties and fines sought by regulatory authorities have increased substantially over time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Quantifies/expands an existing regulatory penalty risk by noting substantial increase over time rather than introducing a wholly new risk."
+  },
+  {
+   "text": "For example, our competitors may be more timely or successful in developing or integrating AI technologies to increase their productivity and reduce their costs or to provide better transaction execution or improved products and services to clients.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new competitive risk tied to competitors' use of AI technology for productivity, cost, and service improvements."
+  },
+  {
+   "text": "In addition, due to increasingly divergent policies and viewpoints regarding climate change, we are at increased risk of being subject to conflicting legal and regulatory requirements and stakeholder expectations regarding climate-related matters.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of conflicting legal/regulatory requirements due to divergent climate policy viewpoints."
+  },
+  {
+   "text": "See \u201cBusiness \u2014 Regulation \u2014 Sustainability and Other\u201d in Part I, Item 1 of this Form 10-K for further information about such regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is merely a cross-reference to another section of the filing, not a substantive risk statement."
+  },
+  {
+   "text": "In January 2026, we acquired Industry Ventures, through which we intend to expand our offering of venture capital solutions, and in December 2025, we announced an agreement to acquire Innovator Capital Management, through which we intend to expand our ETF offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new acquisitions (Industry Ventures, Innovator Capital Management) that introduce new business lines and associated integration/execution risks."
+  }
+ ]
+}

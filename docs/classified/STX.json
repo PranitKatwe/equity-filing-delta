@@ -1,0 +1,218 @@
+{
+ "ticker": "STX",
+ "sector": "Information Technology",
+ "filing_date": "2025-08-01",
+ "accession": "0001137789-25-000157",
+ "prior_accession": "0001137789-24-000068",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 34
+ },
+ "items": [
+  {
+   "text": "These providers address data storage needs for cloud, enterprise and other edge markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic descriptive statement about industry providers, no specific risk."
+  },
+  {
+   "text": "Additionally, the need for data storage and management between the edge and cloud continues to increase.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General market trend statement, not a specific risk."
+  },
+  {
+   "text": "According to IDC\u2019s 2025 Cloud Infrastructure Index, hard drives store 87% of exabytes in large data center deployments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistical citation providing market context, not a risk statement."
+  },
+  {
+   "text": "As HDD capacities continue to increase, demand for higher capacity drives is expected to grow due to their better total cost of ownership compared with lower capacity drives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General industry trend statement about capacity demand."
+  },
+  {
+   "text": "As a result, we can address higher exabyte demand with fewer HDD units that have higher average capacity per drive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive business capability statement, not a risk."
+  },
+  {
+   "text": "In addition, HAMR technology utilizes a laser and a near-field transducer on the read/write head to heat an extremely small spot on the magnetic disk, allowing for higher data density storage.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical description of HAMR technology, informational."
+  },
+  {
+   "text": "HAMR technology requires media with higher coercivity alloys that are stable at room temperature.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical detail about media requirements, informational."
+  },
+  {
+   "text": "The laser temporarily lowers the coercivity allowing data to be written.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical detail about laser function, informational."
+  },
+  {
+   "text": "Lyve Cloud Object Storage is a consumption-based, mass storage simple storage service (\u201cS3\u201d) compatible cloud, completing our comprehensive edge-to-cloud portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of Lyve Cloud offering."
+  },
+  {
+   "text": "Lyve Cloud is available in standard and infrequent access tiers, across multiple geographic regions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product availability description."
+  },
+  {
+   "text": "We believe our HDDs\u2019 supply and demand remained well balanced during fiscal year 2025, supporting a healthy pricing environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive statement about supply/demand balance, not framed as a risk."
+  },
+  {
+   "text": "Research and Development Our Research & Development (R&D) organization is focused on the development of storage solutions leveraging our areal density leadership in mass capacity hard disk drives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General R&D organizational description."
+  },
+  {
+   "text": "Our portfolio also includes solid state drives and systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Portfolio description statement."
+  },
+  {
+   "text": "We continue to develop innovative magnetic recording technologies as well as conduct research on adjacent technologies necessary for the development of scalable, high-availability storage products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General R&D activity description."
+  },
+  {
+   "text": "Seagate\u2019s HAMR based Mozaic platform reflects our ability to productize complex nanoscale technologies, create a foundation for scaling to increasingly higher capacity hard drive storage products, and extend our areal density leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product platform description, promotional in nature."
+  },
+  {
+   "text": "In addition, we continue to optimize our perpendicular magnetic recording (\u201cPMR\u201d) product development and manufacturing by leveraging design systems that extend across product generations and result in more efficient resource utilization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "R&D process description."
+  },
+  {
+   "text": "Our wafer and media development, recording subsystems, firmware, and system development happens around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of global R&D operations."
+  },
+  {
+   "text": "Our primary R&D centers are located in Northern Ireland, Singapore, Thailand and in the U.S. in California, Colorado and Minnesota.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of R&D center locations, informational."
+  },
+  {
+   "text": "The expenses related to R&D depend on several factors including the stage of technological development and product qualification timelines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about factors affecting R&D expenses."
+  },
+  {
+   "text": "We thrive as a global workforce by leveraging our collective strengths and experiences to develop and deliver our business strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General workforce culture statement."
+  },
+  {
+   "text": "Our ERGs are open to all employees, representing a wide range of backgrounds and focus on leadership topics, networking, and community outreach.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of ERG program."
+  },
+  {
+   "text": "There are 32 ERG chapters across seven countries, all led by employees and supported by Seagate leaders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistic about ERG chapters, informational."
+  },
+  {
+   "text": "We also celebrate our culture of belonging and inclusion by recognizing cultural and heritage months across our global locations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Culture statement, not risk-related."
+  },
+  {
+   "text": "Events such as Lunar New Year, Veterans Day, and International Women\u2019s Day are marked with activities like educational panels, cultural recipe sharing, employee interviews, and other community-relevant celebrations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of cultural events."
+  },
+  {
+   "text": "This year to support STEM, we organized Take Our Children to Work Day at eight of our largest sites.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of STEM outreach event."
+  },
+  {
+   "text": "More than 330 children visited and engaged in educational activities including hard drive assembly, AI design workshops, and electromagnetic experiments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Event participation statistic."
+  },
+  {
+   "text": "We also continued to promote sustainability and environmental programs including Earth Day in April.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sustainability program description."
+  },
+  {
+   "text": "Employees around the world participated in environmentally friendly activities, including litter cleanups and tree planting.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of employee environmental activities."
+  },
+  {
+   "text": "Employees in Singapore maintain a rooftop garden where the food produced is donated to a local home for the elderly, a great example of sustaining a partnership between employee volunteers and a community need.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Community garden description, non-risk."
+  },
+  {
+   "text": "We continued supporting various food banks, blood drives, and other non-profit organizations including Habitat for Humanity in Minnesota where employees spent 11 days building homes for those in need.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Charitable activity description."
+  },
+  {
+   "text": "Our community engagement program prioritizes local relationships to strengthen ties within the communities we work and live in.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Community engagement philosophy statement."
+  },
+  {
+   "text": "By collaborating with various local organizations, participating in community-driven initiatives, and addressing specific needs near our locations, we aim to create a more sustainable and positive impact that resonates both now and in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General community impact statement."
+  },
+  {
+   "text": "Lee oversees all legal operations, government relations and public policy at Seagate, as well as leads the enterprise-wide strategy for identifying, incubating, and commercializing emerging technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive role description, organizational not risk."
+  },
+  {
+   "text": "We develop and manufacture technologically advanced products that require precision engineering, specialized manufacturing processes and rigorous quality control standards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about product complexity, sets context without specific risk detail."
+  },
+  {
+   "text": "During periods of increasing demand, the complexity of these products and our manufacturing processes has contributed to challenges in recommissioning and effectively utilizing our production equipment to meet customer needs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding challenges recommissioning and utilizing production equipment during demand increases."
+  },
+  {
+   "text": "These difficulties may arise again in the future, potentially delaying our ability to respond to an improving demand environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates on the newly introduced production equipment risk, indicating recurrence potential."
+  },
+  {
+   "text": "Any inability to efficiently restart or fully utilize our production equipment could result in missed revenue opportunities, increased operational costs, and adverse effects on our business and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates the financial and operational consequences of the production equipment risk introduced above."
+  },
+  {
+   "text": "Many of these rare earth elements are sourced from China, which accounts for a majority of the global supply and processing capacity for these materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific supply chain concentration risk regarding rare earth elements sourced primarily from China."
+  },
+  {
+   "text": "As a result, recent or potential future export restrictions or bans by the Chinese government, as well as any import restrictions or bans by the U.S. government, on rare earth minerals could materially and adversely impact our supply chain continuity and operating results.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a concrete new risk of export/import restrictions on rare earth minerals impacting supply chain and operations."
+  },
+  {
+   "text": "Trade policy developments, including retaliatory measures by other countries, could exacerbate these risks by further restricting the availability and/or increasing the cost of critical components, delaying shipments, resulting in the relocation of certain manufacturing processes or otherwise disrupting our global supply chain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the rare earth/trade risk by adding potential retaliatory trade measures and broader supply chain disruption."
+  }
+ ]
+}

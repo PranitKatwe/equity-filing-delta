@@ -1,0 +1,103 @@
+{
+ "ticker": "MSFT",
+ "sector": "Information Technology",
+ "filing_date": "2022-07-28",
+ "accession": "0001564590-22-026876",
+ "prior_accession": "0001564590-21-039151",
+ "model": "claude-sonnet-5",
+ "n_added": 17,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "In January 2022 we announced a definitive agreement to acquire Activision Blizzard , Inc. for $68.7 billion.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, large pending acquisition (Activision Blizzard for $68.7B) that introduces new integration, financing, and regulatory risks not previously disclosed."
+  },
+  {
+   "text": "Nation-state attacks against us or our customers may intensify during periods of intense diplomatic or armed conflict, such as the ongoing conflict in Ukraine.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of intensified nation-state cyberattacks tied to the Ukraine conflict, a concrete geopolitical threat not previously identified."
+  },
+  {
+   "text": "When discovered by users, such content may negatively affect our reputation, our brands, and user engagement.",
+   "category": "reworded_same_meaning",
+   "rationale": "This is a generic elaboration on reputational impact of objectionable content, consistent with existing content-risk disclosures rather than a new risk."
+  },
+  {
+   "text": "We are building AI into many of our offerings, including our productivity services, and we are also making first- and third-party AI available for our customers to use in solutions that they build.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes expanding AI integration into products, which sets context for AI-related risks but is largely descriptive of business strategy rather than a wholly new risk."
+  },
+  {
+   "text": "These deficiencies and other failures of AI systems could subject us to competitive harm, regulatory action, legal liability, including under new proposed legislation regulating AI in jurisdictions such as the European Union (\u201cEU\u201d), and brand or reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new legal/regulatory exposure from AI system failures under emerging EU AI legislation, a concrete new risk area."
+  },
+  {
+   "text": "Our datacenters depend on predictable energy and networking supplies, the cost or availability of which could be adversely affected by a variety of factors, including the transition to a clean energy economy and geopolitical disruptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factors (clean energy transition, geopolitical disruptions) affecting datacenter energy supply, not previously disclosed."
+  },
+  {
+   "text": "An example of increasing international regulatory complexity is the EU Whistleblower Directive, initiated in 2021, which may present compliance challenges to the extent it is implemented in different forms by EU member states.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific new regulatory requirement (EU Whistleblower Directive) creating compliance risk not previously mentioned."
+  },
+  {
+   "text": "Periods of intense diplomatic or armed conflict, such as the ongoing conflict in Ukraine, may result in (1) new and rapidly evolving sanctions and trade restrictions, which may impair trade with sanctioned individuals and countries, and (2) negative impacts to regional trade ecosystems among our customers, partners, and us.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new risks from sanctions, trade restrictions, and disrupted trade ecosystems due to the Ukraine conflict."
+  },
+  {
+   "text": "This ruling continues to generate uncertainty about the legal requirements for data transfers from the EU under other legal mechanisms and has resulted in some EU data protection authorities blocking the use of U.S.-based services that involve the transfer of data to the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing data transfer legal uncertainty risk by noting continued blocking by EU authorities, building on a previously known issue."
+  },
+  {
+   "text": "The U.S. and the EU in March 2022 agreed in principle on a replacement framework for the Privacy Shield, called the Trans-Atlantic Data Privacy Framework.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a factual update on ongoing EU-U.S. data transfer framework negotiations, expanding existing privacy/data transfer risk disclosure."
+  },
+  {
+   "text": "A failure of the U.S. and EU to finalize the Trans-Atlantic Data Privacy Framework could compound that uncertainty and result in additional blockages of data transfers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that failure to finalize the new framework could worsen data transfer blockages, a concrete potential business impact."
+  },
+  {
+   "text": "More recently, the EU has been developing new requirements related to the use of data, including in the Digital Markets Act, the Digital Services Act, and the Data Act, that will add additional rules and restriction on the use of data in our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new EU regulations (Digital Markets Act, Digital Services Act, Data Act) that will impose new restrictions, a new regulatory risk category."
+  },
+  {
+   "text": "The highest fines assessed under GDPR have recently been increasing, especially against large technology companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes increasing GDPR fine amounts, which expands on the already-existing GDPR compliance risk rather than introducing a new risk type."
+  },
+  {
+   "text": "34 PART I Item 1A \u2022 Public scrutiny of our decisions regarding user privacy, data practices, or content. \u2022 Data security breaches, compliance failures, or actions of partners or individual employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a formatting/header artifact with bullet points summarizing existing risk categories, not new substantive content."
+  },
+  {
+   "text": "Our global workforce is primarily non-unionized, but we have several unions and works councils outside of the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses previously unmentioned facts about unionization and works councils affecting the workforce, introducing a new labor-relations risk."
+  },
+  {
+   "text": "In the U.S., there has been a general increase in workers exercising their right to form or join a union.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced unionization topic by noting a broader trend of increased unionization activity in the U.S."
+  },
+  {
+   "text": "While Microsoft has not received such petitions in the U.S., the unionization of significant employee populations could result in higher costs and other operational changes necessary to respond to changing conditions and to establish new relationships with worker representatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a concrete potential business impact (higher costs, operational changes) from unionization, a new specific risk not previously disclosed."
+  }
+ ]
+}

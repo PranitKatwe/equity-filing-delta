@@ -1,0 +1,38 @@
+{
+ "ticker": "MAS",
+ "sector": "Industrials",
+ "filing_date": "2026-02-10",
+ "accession": "0000062996-26-000005",
+ "prior_accession": "0000062996-25-000004",
+ "model": "claude-sonnet-5",
+ "n_added": 4,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "We are currently focused on: \u2022 Building a pipeline of great leaders \u2022 Enabling a high-performance and continuous development culture \u2022 Supporting holistic well-being and celebrating our people \u2022 Providing competitive benefits and compensation \u2022 Engaging and retaining our employees by continuously listening and improving We believe that these initiatives work together to help our employees grow and thrive, and cultivate a culture where our employees feel like they belong.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about talent and culture initiatives; no specific business risk described."
+  },
+  {
+   "text": "In particular, we have experienced and may continue to experience significantly higher costs as a result of increased duties and tariffs, mainly in our Plumbing Products segment, due to duties and tariffs related to China and other international jurisdictions as well as related to materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of increased costs from tariffs and duties tied to China and other jurisdictions affecting a specific segment."
+  },
+  {
+   "text": "In addition, our Behr business grants to The Home Depot Behr brand exclusivity in the retail sales channel in North America and exclusivity with respect to Kilz branded primer products in the home improvement big box retail sales channel and across online only mass market retail marketplaces in the United States and in the retail sales channel in Canada.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about exclusivity terms granted to a major customer, expanding on existing customer concentration/relationship risk."
+  },
+  {
+   "text": "In addition, we may be harmed if our proprietary or confidential information regarding our business is exposed through the unauthorized use of artificial intelligence technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding exposure of confidential information through unauthorized use of AI technologies."
+  }
+ ]
+}

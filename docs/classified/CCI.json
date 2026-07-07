@@ -1,0 +1,218 @@
+{
+ "ticker": "CCI",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-23",
+ "accession": "0001051470-26-000016",
+ "prior_accession": "0001051470-25-000089",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "As the aforementioned sale represents a material strategic shift for the Company, the Fiber Business' results and net assets are presented herein as discontinued operations and comparable prior periods have been recast to reflect this change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes accounting presentation of discontinued operations, a procedural disclosure rather than a new business risk."
+  },
+  {
+   "text": "Pending the closing of the Strategic Fiber Transaction, we will continue to operate the Fiber Business in accordance with the Strategic Fiber Agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds operational detail about continuing to operate the Fiber Business pending the already-known Strategic Fiber Transaction."
+  },
+  {
+   "text": "Following the classification of the Fiber Business as discontinued operations, the Company has one reportable segment, which is also its operating segment, that constitutes consolidated results consisting of its towers operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes segment reporting structure post-classification, an organizational/accounting disclosure, not a new risk."
+  },
+  {
+   "text": "Unless otherwise noted, all activities and amounts reported in this document relate to the continuing operations of the Company and exclude activities and amounts related to the Fiber Business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifies scope of reported figures relative to discontinued operations; procedural note."
+  },
+  {
+   "text": "Site rental revenues represented 95% of our 2025 net revenues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Updated statistic on revenue composition, factual data update not a new risk."
+  },
+  {
+   "text": "This deduction was made permanent with Public Law 119-21, commonly referred to as the \"One Big Beautiful Bill Act\", being signed into law in the U.S. on July 4, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes a tax law change affecting an existing deduction, expanding on known tax-related considerations."
+  },
+  {
+   "text": "Following the classification of the Fiber Business as discontinued operations, the Company has one reportable segment, which is also its single operating segment, that constitutes consolidated results consisting of its towers operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate/rephrased segment description, procedural disclosure."
+  },
+  {
+   "text": "All of our employees are based in the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about employee location, no risk implication."
+  },
+  {
+   "text": "Risk Factors\" and note 17 to our consolidated financial statements for further discussion of our 2023 and 2024 Restructuring Plans, which resulted in a reduction of total employee headcount in prior years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to prior restructuring disclosures, informational pointer."
+  },
+  {
+   "text": "On January 12, 2026, we delivered a notice of default and termination to DISH relating to our Master Lease Agreement and underlying agreements with DISH as a result of DISH failing to make required payments and defaulting on its obligations under the agreements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an actual default and termination event with a major customer (DISH), a concrete new financial/operational risk."
+  },
+  {
+   "text": "As a result of the termination, we assert in the notice that DISH owes us all remaining payments under these agreements, which total in excess of $3.5 billion.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a large monetary claim (>$3.5B) tied to the DISH default, a material new financial exposure."
+  },
+  {
+   "text": "As of December 31, 2025, associated with our agreements with DISH, we had recorded on our consolidated balance sheet approximately $50 million within \"Receivables, net\" and approximately $150 million within \"Deferred site rental receivables,\" partially offset by approximately $34 million recorded within \"Deferred revenues\" and \"Other long-term liabilities.\" We expect the total net balance sheet impact of approximately $165 million will ultimately be recoverable, and accordingly no adjustments have been made to reserve such net amount as of December 31, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific balance sheet exposure and recoverability assumptions tied to the new DISH default event."
+  },
+  {
+   "text": "We do not intend to recognize additional revenue under these agreements pending further developments with respect to this matter.",
+   "category": "new_substantive_risk",
+   "rationale": "Confirms revenue recognition impact from the DISH default, part of the same new material risk event."
+  },
+  {
+   "text": "Business\u2014The Company\" and note 15 to our consolidated financial statements for further information regarding our largest tenants.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement notes, informational only."
+  },
+  {
+   "text": "In addition, integration and adoption of artificial intelligence and machine learning (\"AI\") into our business may pose new information security risks and challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI integration as a new source of information security risk not previously disclosed."
+  },
+  {
+   "text": "The increased prevalence of AI may 19 also heighten cybersecurity and data protection risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically ties AI prevalence to heightened cybersecurity and data protection risk, a new risk vector."
+  },
+  {
+   "text": "AI-enabled systems, as well as AI-driven techniques used by threat actors, may increase the sophistication, scale, frequency, and speed of cyberattacks targeting our information technology systems, operational technology, or sensitive data.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes AI-enabled cyberattack sophistication as a new specific threat to IT and operational systems."
+  },
+  {
+   "text": "If we do not continue to make appropriate investments in, and effectively implement and maintain, our information technology systems and digital capabilities, our business and operating results could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding inadequate IT investment affecting business and operating results."
+  },
+  {
+   "text": "Our business relies on information technology (\"IT\") systems to support key operational, commercial, and financial processes, including site and asset management, leasing and contract administration, billing and collections, construction and supply chain activities, regulatory compliance, and financial reporting.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on reliance on IT systems across business functions, supporting the newly introduced IT risk."
+  },
+  {
+   "text": "Our industry continues to experience increasing operational complexity and growing reliance on digital tools, automation, data analytics, and integrated systems, including the use of artificial intelligence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides industry context on digital complexity, supporting the new IT/AI risk discussion."
+  },
+  {
+   "text": "We continue to seek to drive organizational improvement through digital transformation initiatives and modernizing our legacy IT systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes ongoing digital transformation efforts, contextual support for the new IT risk factor."
+  },
+  {
+   "text": "If we do not invest in modernizing our IT systems or fail to effectively execute our digital transformation initiatives, we may experience operational inefficiencies, higher operating costs, reduced scalability, and limitations on our ability to respond to customer requirements or support deployment activity.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete negative consequences (inefficiencies, higher costs) from failing to modernize IT systems, a new risk detail."
+  },
+  {
+   "text": "In addition, reliance on legacy or fragmented systems may affect data accuracy, system reliability, and management\u2019s ability to obtain timely and actionable information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on legacy system risks tied to the newly introduced IT risk factor."
+  },
+  {
+   "text": "Some of our IT and digital initiatives require significant investment, which can be complex and are subject to risks, including implementation delays, cost overruns, integration challenges, and disruption to ongoing operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details implementation risks of IT initiatives, supporting the new IT risk discussion."
+  },
+  {
+   "text": "Even when successfully implemented, such systems may not deliver anticipated benefits or may require ongoing investment to remain effective as technologies, customer expectations, and industry practices evolve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on IT investment risk, part of the broader new risk narrative."
+  },
+  {
+   "text": "If our competitors or customers adopt advanced digital capabilities more quickly than we do, we could be at a competitive disadvantage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces competitive disadvantage risk from slower digital adoption relative to peers, a new specific risk."
+  },
+  {
+   "text": "Any failure to effectively invest in or execute our IT and digital initiatives could adversely affect our operational performance, financial results, and ability to execute our business strategy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential adverse effects of IT/digital failures, concluding the new risk factor discussion."
+  },
+  {
+   "text": "In March 2025, we appointed Sunit Patel as EVP and CFO, effective April 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a specific executive leadership change (new CFO), introducing management transition risk not previously disclosed."
+  },
+  {
+   "text": "Additionally in March 2025, we announced the appointment of Mr.",
+   "category": "reworded_same_meaning",
+   "rationale": "Continuation of the leadership announcement narrative, restating context already covered."
+  },
+  {
+   "text": "Schlanger as interim CEO and the termination of Mr.",
+   "category": "reworded_same_meaning",
+   "rationale": "Part of the same leadership transition narrative as prior sentences, no new distinct risk."
+  },
+  {
+   "text": "In August 2025, we announced the appointment of Christian Hillabrant as President and CEO, effective September 2025, after which Mr.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a new CEO appointment, a significant leadership change introducing management continuity risk."
+  },
+  {
+   "text": "Schlanger was appointed EVP and Chief Transformation Officer.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the prior executive's new role, continuation of leadership change details."
+  },
+  {
+   "text": "21 In June 2024, we initiated the 2024 Restructuring Plan as part of our efforts to drive operational efficiencies and reduce operating costs and capital expenditures, with a primary focus on our Fiber segment.",
+   "category": "expanded_existing_risk",
+   "rationale": "References the previously known 2024 Restructuring Plan, providing historical context rather than a new risk."
+  },
+  {
+   "text": "In February 2026, we initiated the 2026 Restructuring Plan as part of our efforts to enhance the efficiency and effectiveness of the our standalone tower business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new 2026 Restructuring Plan targeting the standalone tower business, a new operational change."
+  },
+  {
+   "text": "As a result, we announced a reduction of our total tower and corporate employee headcount by approximately 20%.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a material 20% workforce reduction, a new concrete operational and financial risk."
+  },
+  {
+   "text": "In addition to the 2023 and 2024 Restructuring Plans and 2026 Restructuring Plan, we may from time to time take actions to realign our business, operations, and cost structure with our strategic priorities.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about ongoing realignment efforts, extending existing restructuring risk language."
+  },
+  {
+   "text": "In March 2025, we announced that Mr.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates prior leadership change announcement, duplicative of earlier disclosed information."
+  },
+  {
+   "text": "Patel resigned from our board of directors, effective immediately, and was be appointed as Executive Vice President and CFO, effective April 2025.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates CFO appointment details already described earlier, same substantive content."
+  },
+  {
+   "text": "An increase in interest rates driven by the Federal Reserve would increase our cost of borrowing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reaffirms existing interest rate risk exposure tied to Federal Reserve policy, not a new risk category."
+  },
+  {
+   "text": "Between March 2022 and August 2023 the Federal Reserve raised the federal funds rate from 0.20% to 5.33%.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides historical rate data as factual context, not a new or expanded risk."
+  }
+ ]
+}

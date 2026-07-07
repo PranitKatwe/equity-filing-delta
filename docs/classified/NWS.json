@@ -1,0 +1,218 @@
+{
+ "ticker": "NWS",
+ "sector": "Communication Services",
+ "filing_date": "2025-08-06",
+ "accession": "0001564708-25-000419",
+ "prior_accession": "0001564708-24-000408",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 13
+ },
+ "items": [
+  {
+   "text": "BUSINESS OVERVIEW On April 2, 2025, the Company completed the sale of Foxtel.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a completed factual transaction (Foxtel sale) as business overview, not a risk statement."
+  },
+  {
+   "text": "All assets and liabilities, results of operations and cash flows for Foxtel have been classified as discontinued operations for all periods presented.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting/reporting classification detail following the Foxtel sale, not a risk."
+  },
+  {
+   "text": "Upon reclassification, the Company determined that the Subscription Video Services segment was no longer a reportable segment, and the residual results of the segment were aggregated into the News Media segment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment reclassification disclosure, administrative/organizational fact."
+  },
+  {
+   "text": "Excludes off-platform distribution, except for certain custom workflow integration products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional/scope clarification for a metric, not a risk statement."
+  },
+  {
+   "text": "The professional information business also faces increasing competition from a variety of AI-powered platforms and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new competitive threat from AI-powered platforms in professional information business."
+  },
+  {
+   "text": "REA Group\u2019s international operations consist primarily of its 78.0% interest in REA India, a leading digital real estate services provider in India (News Corp holds a 22.0% interest in REA India).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual ownership percentage disclosure about REA India, not a risk."
+  },
+  {
+   "text": "During fiscal 2025, HarperCollins U.S. had 164 titles on the New York Times print and digital bestseller lists, with 19 titles hitting number one, including Cher: The Memoir Part One by Cher, Hillbilly Elegy by J.D.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Performance/achievement statistics, not a risk disclosure."
+  },
+  {
+   "text": "Business\u2014Explanatory Note Regarding Certain Metrics\u201d for more information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference pointer to another section."
+  },
+  {
+   "text": "Business\u2014Explanatory Note Regarding Certain Metrics\u201d for more information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate cross-reference pointer."
+  },
+  {
+   "text": "9 Table of Contents Data Privacy and Security Regulation In the course of its business, the Company collects, stores, uses and transmits personal data from consumers, customers, employees and other sources.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about data collection practices restating existing privacy risk context."
+  },
+  {
+   "text": "Certain of the Company\u2019s information services businesses also use content that includes personal data from public and government records, other publicly available information and media.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on sourcing personal data from public/government records, expanding existing privacy risk."
+  },
+  {
+   "text": "California\u2019s privacy regulators have been active in enforcing the CCPA\u2019s requirements, particularly with regard to ensuring individual rights relating to targeted advertising are offered and honored by entities effectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on CCPA enforcement activity, expanding existing privacy regulation risk."
+  },
+  {
+   "text": "National security imperatives have also significantly expanded restrictions on the access by and transfer of broadly defined categories of sensitive personal data and U.S. government data to \u201ccountries of concern\u201d pursuant to U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific national security-driven restrictions on data transfers to countries of concern."
+  },
+  {
+   "text": "Department of Justice data regulations effective in April 2025, which may impact certain of the Company\u2019s current or potential partner, vendor, service provider and customer relationships.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new DOJ regulation effective April 2025 impacting business relationships."
+  },
+  {
+   "text": "In June 2025, the Data (Use and Access) Act 2025 (\u201cDUA Act\u201d), which amends the UK GDPR and the UK\u2019s Privacy and Electronic Communications Regulations 2003 (\u201cPECR\u201d), became law.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific UK law (DUA Act) creating new compliance obligations."
+  },
+  {
+   "text": "The DUA Act raises maximum fines under PECR to match the UK GDPR, increasing the potential financial exposure for breaches relating to direct marketing and online tracking, and amends the UK GDPR in certain respects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on financial exposure increase under the newly introduced DUA Act."
+  },
+  {
+   "text": "The Australian government passed the Privacy and Other Legislation Amendment Bill 2024 in November 2024 implementing the first tranche of legislative amendments to the AU Privacy Act following the completion of a review of the country\u2019s privacy regime initiated in 2020.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new Australian legislative amendment affecting privacy compliance."
+  },
+  {
+   "text": "These amendments include a mandate for the Australian privacy regulator to develop and register a privacy code for children by December 2026 and new transparency requirements for automated decision making that will apply from December 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific new requirements under the Australian amendments already introduced."
+  },
+  {
+   "text": "For example, the Company seeks to prevent unauthorized exploitation of its content and other intellectual property by generative AI tools through paywalls, bot management and AI crawler blocking tools, opt-out directives and other means, but these measures may not be effective, particularly if AI operators do not adhere to the restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new specific measures and risks related to AI content exploitation and their potential ineffectiveness."
+  },
+  {
+   "text": "Effective intellectual property protection may also be either unavailable or limited in certain foreign territories.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement expanding on existing IP protection risk in foreign territories."
+  },
+  {
+   "text": "Additional information regarding the calculation of certain metrics is provided below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to additional metric calculation information, not substantive risk content."
+  },
+  {
+   "text": "Some of the factors, events and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not they have in fact occurred in the past and instead reflect the Company\u2019s beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect it in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary disclaimer about forward-looking risk factors."
+  },
+  {
+   "text": "Technological advances, including in AI, have also increased the availability of public sources of free or inexpensive information and reduced the cost to process and package this information, which enables additional third parties to compete with the Company\u2019s information products and services, often at a lower cost, and potentially diminishes their perceived value.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of AI reducing perceived value and increasing competition for information products."
+  },
+  {
+   "text": "The Company expects to continue to pursue new strategic initiatives, incorporate new technologies and develop new and enhanced products and services to remain competitive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking strategic statement, not a specific risk."
+  },
+  {
+   "text": "These include licensing arrangements with certain large platforms for the use of its content by or on such platforms, the continued expansion into new business models and adjacencies at its digital real estate services businesses, streaming audio partnerships for its books, multi-product digital bundles and other innovative digital news products and experiences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic initiatives and business models rather than a risk."
+  },
+  {
+   "text": "These advantages may allow them to respond more effectively to changes in technology, consumer and customer needs and preferences and market conditions, including by developing new or enhanced products and services or leveraging new technologies, including generative AI, more quickly or successfully than the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of competitors outperforming via generative AI adoption."
+  },
+  {
+   "text": "Recent changes in political policies and priorities in the U.S. and internationally, including expanded or retaliatory tariffs and other trade barriers, and an increase in hostilities and conflicts have created business and economic uncertainty and lowered consumer confidence.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new macroeconomic/political risk factors including tariffs and trade barriers affecting business."
+  },
+  {
+   "text": "Recent economic uncertainty and lower consumer confidence have also contributed to softer consumer spending within the U.S. book publishing industry, which may continue in the near term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific impact detail (softer consumer spending in book publishing) tied to broader economic uncertainty risk."
+  },
+  {
+   "text": "The Company is particularly exposed to business risks in the U.S., Australia and the U.K., its three main operating geographies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement identifying main operating geographies, not a specific new risk."
+  },
+  {
+   "text": "In the U.S. residential real estate industry, settlements of recent class action lawsuits against certain brokerages and franchisors, as well as NAR, have led to changes in NAR\u2019s rules and practices, including elimination of the cooperative compensation rule, thereby prohibiting REALTOR\u00ae MLSs from publishing buyer broker compensation offers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legal/regulatory risk from NAR settlement changes affecting real estate business model."
+  },
+  {
+   "text": "The settlements are also being appealed, and the Company cannot predict the final outcomes of these matters or any future lawsuits, which could result in additional changes that impact the industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on ongoing appeals and uncertainty tied to the newly disclosed NAR settlement risk."
+  },
+  {
+   "text": "The Company generates substantial revenues from the sale of advertising, and a decline in advertising revenues has had, and could continue to have, an adverse effect on its business, financial condition and results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the well-established advertising revenue risk in standard boilerplate language."
+  },
+  {
+   "text": "Visibility on these platforms depends on algorithms that are outside the Company\u2019s control and change frequently, and recent changes have adversely affected traffic to some of the Company\u2019s digital properties, particularly in the U.K.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on algorithm changes affecting traffic, particularly in the U.K., expanding existing platform dependency risk."
+  },
+  {
+   "text": "Divestitures require the Company to expend costs and management and operational resources, and the Company may not be able to find buyers on favorable terms or complete any particular transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on general divestiture risk with specifics about costs and resource strain, relevant post-Foxtel sale."
+  },
+  {
+   "text": "The Company may have continued financial exposure to divested businesses through continuing equity ownership, retention of certain liabilities related to the divested business, indemnities, guarantees or other post-closing obligations, transition services and deferred payments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of continued financial exposure from divested businesses (e.g., Foxtel) via retained obligations."
+  },
+  {
+   "text": "The Company also obtains significant data and information through contractual arrangements with content suppliers, some of which may be competitors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about data sourcing from competitors, expanding existing supplier/data risk."
+  },
+  {
+   "text": "17 Table of Contents From time to time, suppliers seek to change the fees and other terms of supply arrangements and may terminate existing arrangements, in some cases with short notice, to gain a marketplace advantage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on suppliers changing terms or terminating arrangements, expanding supplier risk."
+  },
+  {
+   "text": "Any consolidation among suppliers would further decrease the number of providers and increase their scale and leverage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential supplier consolidation effects, expanding existing supplier concentration risk."
+  },
+  {
+   "text": "Issues affecting the Company\u2019s suppliers, including cybersecurity incidents, data center or systems outages, labor shortages, insufficient capacity and supply chain issues, may reduce, interrupt, or delay the supply of, or cause defects or errors in, the products, services, data and information on which the Company\u2019s businesses rely.",
+   "category": "expanded_existing_risk",
+   "rationale": "Enumerates specific supplier-related operational risks (cybersecurity, outages, labor shortages), expanding existing risk."
+  },
+  {
+   "text": "Changes in reporting methodologies, available data or the Company\u2019s operations or reporting processes and disparate and evolving reporting standards, including regulatory requirements, may impact the Company\u2019s disclosure and progress towards achieving its commitments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on evolving reporting standards affecting ESG/commitment disclosures, expanding existing compliance risk."
+  }
+ ]
+}

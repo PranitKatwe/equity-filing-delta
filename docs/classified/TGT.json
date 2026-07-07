@@ -1,0 +1,203 @@
+{
+ "ticker": "TGT",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-03-11",
+ "accession": "0000027419-26-000016",
+ "prior_accession": "0000027419-25-000018",
+ "model": "claude-sonnet-5",
+ "n_added": 37,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "As technology (including artificial intelligence) in the digital retail market continues to evolve, new competitors may emerge due to lowered barriers of entry, which could negatively impact our ability to compete.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds AI-related competitive dynamic to the existing competition risk factor, not a wholly new risk."
+  },
+  {
+   "text": "Beginning in 2025, we began a company-wide business transformation effort to increase speed and agility across the organization in support of our strategic priorities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new company-wide business transformation initiative not previously disclosed."
+  },
+  {
+   "text": "This initiative is intended to simplify cross-functional ways of working, increase role clarity, leverage technology (including artificial intelligence) and data to enhance decision-making, and reduce costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the goals of the newly introduced transformation initiative."
+  },
+  {
+   "text": "These efforts have required, and may continue to require, significant changes to the day-to-day ways of working of our team members.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the impact of the transformation effort on team members, part of the same new initiative."
+  },
+  {
+   "text": "The success of this initiative is subject to the related risks discussed throughout this Item 1A, Risk Factors, as it is interconnected with our broader strategy and further depends on, among other things, effective execution and change management.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cross-reference framing tying the initiative to other risk factors."
+  },
+  {
+   "text": "If our execution is ineffective, if adoption by our team members is slower or more limited than expected, or if the initiative otherwise fails to adequately support our strategy, our competitive position, results of TARGET CORPORATION 2025 Form 10-K 11 RISK FACTORS Table of Contents Index to Financial Statements operations, and financial condition could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential negative outcomes of the transformation initiative, extending the new risk already introduced."
+  },
+  {
+   "text": "We cannot assure that we will achieve all of the intended benefits of this initiative, including anticipated efficiencies, cost savings, or operational improvements, or that such benefits will be realized within expected timeframes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary disclaimer about uncertain benefit realization."
+  },
+  {
+   "text": "In addition, the execution of our business transformation efforts has resulted, and may continue to result, in additional costs, including impairment of long-lived assets and costs associated with exiting certain activities or terminating commercial relationships.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific financial risks (impairments, exit costs) tied to the transformation effort."
+  },
+  {
+   "text": "For example, in 2025, we recognized costs and charges related to reductions in our workforce, facility exits, and the termination of a commercial partnership.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific 2025 events\u2014workforce reductions, facility exits, partnership termination\u2014not previously disclosed."
+  },
+  {
+   "text": "Such costs and charges could adversely affect our results of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that costs could affect financial results."
+  },
+  {
+   "text": "Our Roundel retail media network may not maintain or grow advertising revenue, which could adversely affect our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor concerning Roundel's ability to grow advertising revenue."
+  },
+  {
+   "text": "Roundel, our in-house retail media network, offers advertising services on a variety of digital platforms primarily to our merchandise vendors, either directly or via advertising agencies, and Target Plus third-party sellers to promote their products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive background information about Roundel's business, not a risk statement."
+  },
+  {
+   "text": "The digital advertising environment is highly competitive, and our advertisers do not have long-term commitments with us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds competitive context to the newly introduced Roundel risk."
+  },
+  {
+   "text": "The performance of Roundel depends on a number of factors, including the size and composition of our merchandise vendor and seller base, levels of consumer engagement with Target-branded digital platforms, and our ability to maintain effective relationships with key search and social media platforms and third-party technology providers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details factors affecting Roundel's performance, expanding on the new risk."
+  },
+  {
+   "text": "If our vendor or seller base shrinks, consumer traffic to our digital platforms decreases, or we are unable maintain key relationships, our advertising revenue may fail to meet expectations or may decline.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential negative outcomes for Roundel's revenue."
+  },
+  {
+   "text": "In addition, changes in data privacy laws and regulations (as discussed elsewhere in this Item 1A, Risk Factors), as well as new or modified policies of third-party platforms through which Roundel\u2019s offerings are delivered, could negatively affect Roundel\u2019s business model.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory and platform policy risks affecting Roundel's business model."
+  },
+  {
+   "text": "Increased competition, including from new or enhanced technology offerings such as artificial intelligence-enabled advertising solutions, may further pressure demand for our services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds AI-enabled competition as a factor within the already-introduced Roundel competitive risk."
+  },
+  {
+   "text": "If advertisers reduce or discontinue their use of Roundel\u2019s offerings, our competitive position and results of operations could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing consequences of reduced advertiser engagement with Roundel."
+  },
+  {
+   "text": "U.S. trade policy is changing rapidly and remains subject to uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about trade policy uncertainty, expanding existing tariff risk discussion."
+  },
+  {
+   "text": "Supreme Court ruled that tariffs imposed under the International Emergency Economic Powers Act (IEEPA) were not authorized by the statute.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific Supreme Court ruling affecting tariff authority, a new legal development."
+  },
+  {
+   "text": "The U.S. government then imposed additional, non-IEEPA global Section 122 tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tariffs (Section 122) imposed by the government."
+  },
+  {
+   "text": "Many of these tariffs were imposed under IEEPA and were subsequently impacted by the February 2026 ruling, though the process, timing, and amount of any potential refund recovery for such tariffs remain uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on uncertainty of tariff refunds tied to the newly disclosed ruling."
+  },
+  {
+   "text": "We continue to closely monitor these developments and their ultimate impact on our business, results of operations, and financial condition, all of which may be adversely impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring developments and potential impact."
+  },
+  {
+   "text": "We also utilize a first sale declaration program, which is subject to rigorous requirements, to pay duties and tariffs to U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific customs duty program (first sale declaration) not previously described."
+  },
+  {
+   "text": "Customs for merchandise on the basis of the price paid by our vendors rather than the price paid by the importer of record.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues explanation of how the first sale program works, part of the newly introduced program."
+  },
+  {
+   "text": "Our program may be subject to inquiries, investigations, or regulatory proceedings by U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes potential regulatory scrutiny of the newly disclosed program."
+  },
+  {
+   "text": "The amount of duties and tariffs that we pay to import merchandise could rise substantially if the U.S. government eliminates the availability of the first sale declaration methodology, if the requirements to utilize this methodology change, or if our ability to rely on this methodology is limited or eliminated.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific financial risk of increased duties if the first sale methodology is restricted or eliminated."
+  },
+  {
+   "text": "In addition, the continuous advancements in automation and artificial intelligence capabilities will continue to impact the skills required in our workforce, and our recruiting and training needs must evolve to maintain pace.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds AI/automation dimension to existing workforce skills and training risk."
+  },
+  {
+   "text": "Shareholder activism could adversely affect our business, strategic execution, and stock price.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor concerning shareholder activism impacting business and stock price."
+  },
+  {
+   "text": "We regularly engage with shareholders with a goal of strengthening our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about routine shareholder engagement."
+  },
+  {
+   "text": "From time to time, shareholders may pursue public or private campaigns to influence our corporate strategy, capital allocation, or environmental, political, social, and governance matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on types of activist campaigns, expanding the newly introduced activism risk."
+  },
+  {
+   "text": "Any such activist campaigns, including rumors of such campaigns, could result in increased costs, including legal expenses, and diversion of management and board attention.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific cost and attention impacts of activist campaigns."
+  },
+  {
+   "text": "Public activism campaigns may also create actual or perceived uncertainty regarding our strategic direction, which could impair relationships with guests, suppliers, team members, and others, or cause volatility in our stock price that is not reflective of our underlying business fundamentals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further describes potential business and stock price effects of activism, continuing the new risk topic."
+  },
+  {
+   "text": "These risks could adversely impact our reputation, ability to execute on strategic objectives, results of operations, and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary statement about potential adverse impacts."
+  },
+  {
+   "text": "Changes in the environment may occur rapidly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, generic statement lacking specific risk content."
+  },
+  {
+   "text": "TARGET CORPORATION 2025 Form 10-K 19 RISK FACTORS & UNRESOLVED STAFF COMMENTS Table of Contents Index to Financial Statements Financial Risks Increases in our effective income tax rate could adversely affect our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new financial risk factor regarding increases in effective income tax rate."
+  },
+  {
+   "text": "For example, the IRS is auditing certain aspects of our intercompany transfer pricing for fiscal years 2021 and 2022.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific IRS audit of transfer pricing for 2021-2022, a concrete new risk detail."
+  }
+ ]
+}

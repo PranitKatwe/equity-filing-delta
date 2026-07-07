@@ -1,0 +1,193 @@
+{
+ "ticker": "PODD",
+ "sector": "Health Care",
+ "filing_date": "2026-02-18",
+ "accession": "0001145197-26-000028",
+ "prior_accession": "0001145197-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 14
+ },
+ "items": [
+  {
+   "text": "Further, we anticipate that recently enacted and proposed legislative changes affecting Medicare, Medicaid, and the Affordable Care Act may impact healthcare coverage, which, if implemented could adversely affect both demand for and pricing of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mention of recent Medicare/Medicaid/ACA legislative changes to the pre-existing healthcare reimbursement risk, providing more detail rather than a wholly new risk."
+  },
+  {
+   "text": "Guidelines for reimbursement vary from jurisdiction to jurisdiction and we may not have the needed experts or clinical evidence within a particular jurisdiction to achieve reimbursement and thereby patient access.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new concern about lacking jurisdiction-specific expertise or clinical evidence needed to secure reimbursement, a concrete new risk driver."
+  },
+  {
+   "text": "Outside the U.S., several of our major markets have government involvement in their healthcare payment system that may impose negative pricing pressure or limit access to or reimbursement for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the already-known risk of government-controlled healthcare payment systems abroad affecting pricing/access."
+  },
+  {
+   "text": "We compete with established companies that produce insulin pumps, such as Medtronic Diabetes, a division of Medtronic plc (which division is being spun out into a new, independent publicly traded company), Tandem Diabetes Care Inc., as well as emerging companies like Beta Bionics Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply updates the list of named competitors (including a corporate spin-out) without introducing a new risk."
+  },
+  {
+   "text": "Our competitors may develop products in the future that are superior to ours which would inhibit our ability to compete effectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive risk statement common to many filings, no new specifics."
+  },
+  {
+   "text": "A significant element of our strategy is to increase revenue growth by continuing to focus on innovation and new product development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A strategy statement, not a risk disclosure."
+  },
+  {
+   "text": "The results of our product development efforts may be affected by a number of factors, including our ability to anticipate customer needs, innovate and develop new products and technologies, successfully complete clinical trials, obtain regulatory approvals and reimbursement in the U.S. and abroad, gain and maintain market acceptance of our products, manufacture products in a cost-effective manner, and obtain appropriate intellectual property rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists factors affecting product development, elaborating on existing product development risk."
+  },
+  {
+   "text": "Further, governmental regulation and laws related to AI and other emerging technologies may increase the burden and cost of research and development or require increased transparency that makes it more difficult to protect our intellectual property.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding AI-related regulation increasing R&D costs and complicating IP protection."
+  },
+  {
+   "text": "In addition, patents attained by others can preclude or delay our commercialization of a product.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard patent-related risk language, not new or expanded specifics."
+  },
+  {
+   "text": "There can be no assurance that any products currently in development, or that we may seek to develop in the future, will achieve technological feasibility, obtain regulatory approval, or gain market acceptance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about no assurance of product success, common boilerplate."
+  },
+  {
+   "text": "If we are unable to develop and launch new products, our ability to maintain or expand our market position in the markets in which we participate may be negatively impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about failure to launch new products affecting market position, standard risk framing."
+  },
+  {
+   "text": "Even if we successfully develop new products, enhancements, or new generations of existing products, they may be quickly rendered obsolete by changing customer preferences, changing industry or regulatory standards, or competitors\u2019 innovations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk about product obsolescence due to competition or changing standards."
+  },
+  {
+   "text": "Further, increased availability and adoption of the GLP-1 class of drugs may delay the progression of type 2 diabetes in obese patients.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new market risk: GLP-1 drugs delaying disease progression, potentially reducing demand for the company's products."
+  },
+  {
+   "text": "Risks Related to our Intellectual Property We may be unable to adequately protect our intellectual property rights, which could limit our ability to sell our products profitably, or at all, and cause us to incur additional costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header/introductory sentence for IP risks, not a substantive change."
+  },
+  {
+   "text": "Our failure to effectively navigate these geopolitical and economic challenges may result in decreased demand for our products and increased competition, downward pricing pressure, and increased user attrition, which could have a material adverse effect on our business, revenue, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing geopolitical/economic risk framing without introducing a new specific threat."
+  },
+  {
+   "text": "International expansion is a key component of our growth strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Strategic statement about international expansion, not itself a risk."
+  },
+  {
+   "text": "Expansion of U.S. tariffs could have a material adverse effect on our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about expanding U.S. tariffs materially affecting financial results."
+  },
+  {
+   "text": "Tariffs, sanctions or other trade barriers imposed by the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding tariffs, sanctions, and trade barriers imposed by the U.S."
+  },
+  {
+   "text": "(and countermeasures by non-U.S. governments) could adversely impact our supply chain costs or availability of certain components, demand for our products and our business, revenue, financial condition, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates on the tariff/trade barrier risk introduced in the prior sentence."
+  },
+  {
+   "text": "Unpredictability of trade policy compounds this risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance (unpredictability) to the newly introduced tariff risk rather than presenting a separate risk."
+  },
+  {
+   "text": "Department of Commerce Bureau of Industry and Security (\u201cBIS\u201d) has announced the initiation of an investigation into the effects on U.S. national security of imports of personal protective equipment, medical consumables, and medical equipment, including medical devices such as insulin pumps.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, previously unmentioned government investigation into imports of medical devices including insulin pumps."
+  },
+  {
+   "text": "BIS is conducting the investigation under Section 232 of the Trade Expansion Act of 1962 (Section 232), a law that empowers the president to restrict imports of products that threaten to impair national security.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides legal basis detail for the investigation described in the prior sentence, elaborating rather than introducing a new risk."
+  },
+  {
+   "text": "The investigation could result in overriding the tariff exemption currently in place for certain medical devices, which could have a material impact on our results of operations in future years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential material impact of the investigation, continuing the newly disclosed tariff/investigation risk."
+  },
+  {
+   "text": "Our inventory is produced and maintained in a limited number of locations, including one operated by a third party in China, and any loss could have a material adverse effect on our ability to manufacture and sell our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Reveals a specific new operational vulnerability: inventory concentrated in limited locations including a third-party site in China."
+  },
+  {
+   "text": "Our failure to scale manufacturing appropriately to meet future demand, or encountering quality issues or unexpected operational delays when commencing operation of new manufacturing lines, would have an adverse effect on our gross margins and could result in product shortages.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing manufacturing scalability risk with more specific operational details."
+  },
+  {
+   "text": "Additionally, inefficient processes can strain relationships with suppliers and partners, further exacerbating operational disruptions and financial losses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about downstream effects of inefficiencies on supplier relationships, building on existing manufacturing risk."
+  },
+  {
+   "text": "Significant manufacturing problems could have a material adverse effect on our business, results of operations, financial condition, and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about manufacturing problems affecting business, standard risk language."
+  },
+  {
+   "text": "Any delays in obtaining approval for our products, or any failure to meet regulatory requirements could adversely affect our ability to sell our products resulting in a negative impact to our financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard regulatory approval delay risk language."
+  },
+  {
+   "text": "If our or our contract manufacturer\u2019s facility fails a quality system inspection or fails to take adequate and timely corrective action in response to an adverse quality system inspection or QSR violation, or otherwise fails to adhere to QSR requirements, this could delay production of our products and lead to business disruption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about quality system inspection failures, expanding existing regulatory compliance risk."
+  },
+  {
+   "text": "Even an unsuccessful challenge or investigation into our practices could cause adverse publicity, and be costly to respond to, and thus could have a material adverse effect on our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reputational/financial impact from investigations, common boilerplate."
+  },
+  {
+   "text": "Further, we expect that the breadth and complexity of our IT systems and infrastructure will increase as we utilize cloud technologies and AI, which present inherent enterprise technology risks, including those related to privacy, data protection, and cybersecurity, that need to be managed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk related to increasing use of cloud and AI technologies expanding cybersecurity/privacy exposure."
+  },
+  {
+   "text": "The foregoing could expose us to further risk of potential breaches, failures, interruptions, and disruptions, which could result in adverse consequences, including regulatory inquiries or litigation, increased costs and expenses, reputational damage, lost revenue, and fines or penalties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates on the cybersecurity risk introduced by the AI/cloud sentence."
+  },
+  {
+   "text": "Our efforts may not be adequate to safeguard against all data security breaches, misuse of data, or sabotage of our systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about data security efforts, standard risk language."
+  },
+  {
+   "text": "In 2025, we had changes in key leadership roles, including our Chief Executive Officer and Chief Financial Officer, among others.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, previously unmentioned leadership transition risk (CEO and CFO changes in 2025)."
+  },
+  {
+   "text": "If an acquired business fails to operate as anticipated or cannot be successfully integrated into our existing business, our stock price, business, financial condition, and results of operations could be materially and adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic M&A integration risk statement, standard boilerplate."
+  }
+ ]
+}

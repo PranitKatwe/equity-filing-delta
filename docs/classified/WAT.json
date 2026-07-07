@@ -1,0 +1,218 @@
+{
+ "ticker": "WAT",
+ "sector": "Health Care",
+ "filing_date": "2026-02-23",
+ "accession": "0001193125-26-062604",
+ "prior_accession": "0001193125-25-034579",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 36,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 27,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Risks Related to our Business \u2022 The Company\u2019s financial results will be subject to changes in customer demand, which may decrease for a number of reasons, many beyond the Company\u2019s control. \u2022 Competitors may introduce more effective or less expensive products than the Company\u2019s, which could result in decreased sales.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about demand and competition risk, standard boilerplate language."
+  },
+  {
+   "text": "Our failure to attract or retain qualified personnel, including our senior management team and technical personnel, could lead to a loss of revenue or profitability. \u2022 The Company may be subject to labor disruptions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic personnel/labor risk language common to most 10-Ks, not specific to new facts."
+  },
+  {
+   "text": "On July 13, 2025, the Company entered into an Agreement and Plan of Merger, dated as of July 13, 2025 (the \u201cMerger Agreement\u201d), by and among the Company, BD, SpinCo and Beta Merger Sub, Inc. and a Separation Agreement, dated as of July 13, 2025 (as amended, the \u201cSeparation Agreement\u201d), by and among the Company, BD and SpinCo in order to give effect to the BDS Business Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new major merger transaction (BDS Business Acquisition) not previously disclosed."
+  },
+  {
+   "text": "The transaction was structured as a Reverse Morris Trust transaction, where the BDS Business was spun off to BD shareholders and simultaneously merged with a wholly-owned subsidiary of the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual structural detail about the same newly disclosed merger transaction."
+  },
+  {
+   "text": "The BDS Business Acquisition involved numerous operational, strategic, financial, accounting, legal, tax and other risks, including potential liabilities associated with the integrated businesses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks (operational, financial, legal, tax) tied to the acquisition."
+  },
+  {
+   "text": "The success of the Company will depend, in significant part, on its ability to successfully integrate the BDS Business with the Company\u2019s existing business and its ability to grow revenues and realize the anticipated strategic benefits and synergies from the BDS Business Acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on integration risk already introduced regarding the BDS acquisition."
+  },
+  {
+   "text": "Difficulties in integrating the practices and operations of these two businesses may result in the Company performing differently than expected, operational challenges or the delay or failure to realize anticipated benefits and synergies, and could have an adverse effect on the Company\u2019s business, financial condition, results of operations and/or cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on integration difficulties risk already established."
+  },
+  {
+   "text": "Additionally, the success of the Company will depend, in part, on the Company\u2019s ability to realize the anticipated benefits and synergies from combining the business of the Company and the BDS Business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same integration/synergy risk already described."
+  },
+  {
+   "text": "The anticipated benefits and synergies of the BDS Business Acquisition may not be realized fully or at all, may take longer to realize than expected or could have other adverse effects that the Company does not currently foresee.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on risk that synergies may not be realized, building on prior sentences."
+  },
+  {
+   "text": "In addition, the anticipated benefits and synergies of the BDS Business Acquisition as well as the related integration costs are based on a number of estimates and assumptions that are inherently uncertain and subject to risks that could cause the actual results to differ materially from those contained in such anticipated benefits and synergies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on uncertainty of synergy estimates, same risk theme."
+  },
+  {
+   "text": "If the Company fails to realize the anticipated synergies or other benefits, or the estimated integration costs of the BDS Business Acquisition are exceeded, the business rationale of the BDS Business Acquisition might not be realized and the value of the shares of the Company\u2019s stock could decrease.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on consequences of failing to realize synergies."
+  },
+  {
+   "text": "19 Table of Contents In connection with the BDS Business Acquisition, the Company may incur additional costs and charges as a result of restructuring activities related to its manufacturing operations and supply chain as well as in order to streamline ancillary business functions that are intended to reduce ongoing costs, and those restructuring activities also may be disruptive to the Company\u2019s business and may not result in anticipated cost savings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of restructuring costs from manufacturing/supply chain changes due to acquisition."
+  },
+  {
+   "text": "Following the BDS Business Acquisition, the Company has undertaken and expects to undertake various measures with regard to its manufacturing and supply chain, including, without limitation, site rationalization, direct procurement savings and freight lane optimization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific details of restructuring measures already introduced."
+  },
+  {
+   "text": "The Company has also begun to streamline commercial infrastructure, service and technology functions, inside sales, and sales operations and eliminate duplicative digital infrastructure and central service oversight.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifics on restructuring/streamlining actions."
+  },
+  {
+   "text": "Additionally, the Company expects to leverage indirect procurement saving and efficiencies gains by utilizing capacity centers in non-U.S. jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Additional detail on cost-saving measures tied to same restructuring risk."
+  },
+  {
+   "text": "The Company has incurred and expects to incur additional costs and restructuring charges in connection with the measures described above as well as other cost reduction measures that could adversely affect the Company\u2019s future earnings and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details financial impact of restructuring charges already discussed."
+  },
+  {
+   "text": "Furthermore, such actions may be disruptive to the Company\u2019s business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates disruption risk from restructuring, same theme."
+  },
+  {
+   "text": "In addition, the Company may not realize the cost savings that it expects to realize as a result of such actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates risk of not achieving expected cost savings."
+  },
+  {
+   "text": "These activities require substantial management time and attention and may divert management from other important work or result in a failure to meet operational targets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about management distraction as part of restructuring risk."
+  },
+  {
+   "text": "Moreover, the Company could encounter changes to, or delays in executing, any restructuring plans, any of which could cause disruption and additional unanticipated expense.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on restructuring plan risks and delays."
+  },
+  {
+   "text": "The amount of indebtedness that the Company assumed as a result of the BDS Business Acquisition is substantial.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new material fact of substantial indebtedness assumed from the acquisition."
+  },
+  {
+   "text": "This increased level of indebtedness could adversely affect the Company\u2019s operational flexibility and increase its borrowing costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains consequences of the newly disclosed debt increase."
+  },
+  {
+   "text": "As of December 31, 2025, the Company had approximately $1.4 billion in total debt outstanding, approximately $588 million in cash and cash equivalents, and approximately $1.6 billion in available borrowing capacity under its existing revolving credit facility, after taking into account outstanding letters of credit.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new financial figures on debt, cash, and credit capacity."
+  },
+  {
+   "text": "Upon consummation of the BDS Business Acquisition, the Company assumed $4.0 billion of indebtedness incurred by SpinCo in connection with the payment of the SpinCo Cash Distribution which consists of a $3.5 billion tranche maturing and payable in full on February 6, 2027 and a $500 million tranche maturing and payable in full on February 6, 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new $4.0 billion debt assumption details tied to the acquisition."
+  },
+  {
+   "text": "The Company plans to refinance the $3.5 billion tranche in the first quarter of 2026 with long-term bond financing and repay the $500 million tranche prior to maturity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details refinancing plan for previously disclosed debt tranches."
+  },
+  {
+   "text": "The Company\u2019s ability to make required payments of principal and interest on its indebtedness levels will depend on its future performance, which, to a certain extent, is subject to general economic, financial, competitive and other factors that are beyond the Company\u2019s control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on general risk of ability to service the newly disclosed debt."
+  },
+  {
+   "text": "The Company cannot provide any assurances that its business will generate cash flow from operations or that future borrowings will be available under its credit facilities in an amount sufficient to enable the Company to service its indebtedness or to fund its other liquidity needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of liquidity risk related to new debt."
+  },
+  {
+   "text": "The Company\u2019s ability to comply with these financial and restrictive covenants is dependent on the Company\u2019s future performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further covenant compliance risk tied to new debt structure."
+  },
+  {
+   "text": "The Company\u2019s failure to comply with such covenants could result in an event of default that, if not cured or waived, could result in the acceleration of all of the Company\u2019s indebtedness or otherwise have a material adverse effect on the Company\u2019s business, financial condition, results of operations and debt service capability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of covenant default, expanding on debt risk."
+  },
+  {
+   "text": "In addition, the Company\u2019s substantial indebtedness may have the effect of, among other things, reducing the Company\u2019s flexibility to respond to changing business and economic conditions, lowering its credit ratings, 20 Table of Contents increasing its borrowing costs and/or requiring the Company to reduce or delay investments, strategic acquisitions and capital expenditures or seek additional capital to refinance its indebtedness and there can be no assurance that the Company will be able to do so on commercially reasonable terms or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes broader effects of increased indebtedness already discussed."
+  },
+  {
+   "text": "In connection with the BDS Business Acquisition, the Company entered into the Tax Matters Agreement, dated as of February 9, 2026 (the \u201cTax Matters Agreement\u201d), by and among the Company, BD and SpinCo, which imposes certain restrictions on the Company and SpinCo during the two-year period following the SpinCo Cash Distribution, subject to certain exceptions, with respect to actions that could cause the Spin-Off and the SpinCo Cash Distribution to fail to qualify for their intended tax treatment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new Tax Matters Agreement and related tax restrictions from the transaction."
+  },
+  {
+   "text": "If the Company or SpinCo take or omit to take any actions enumerated in the Tax Matters Agreement, or if certain events relating to SpinCo occur that would cause the Spin-Off or the SpinCo Cash Distribution to become taxable, the party whose actions or omissions (or event relating to) caused the Spin-Off or the SpinCo Cash Distribution to become taxable generally will be required to bear the cost of any resulting tax liability of BD (but not BD\u2019s shareholders).",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific tax liability consequences under the newly disclosed agreement."
+  },
+  {
+   "text": "Such taxes would be expected to be material, and could cause the Company\u2019s business, financial condition and operating results to suffer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of material tax risk from the same agreement."
+  },
+  {
+   "text": "The Company may be unable to provide (or obtain from third parties) the same types and level of services to the BDS Business that historically have been provided by BD or may be unable to provide (or obtain) them at the same cost.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about inability to replicate services previously provided by BD."
+  },
+  {
+   "text": "As part of a separate reporting segment of BD, the BDS Business has been able to receive services from BD.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual background statement about BD's prior service arrangement, not itself a risk."
+  },
+  {
+   "text": "Following the BDS Business Acquisition, the Company will need to replace these services either by providing them internally from our existing services or by obtaining them from unaffiliated third parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the risk of replacing BD-provided services."
+  },
+  {
+   "text": "These services include legal, accounting, information technology, human resources and other infrastructure support of which the effective and appropriate performance is critical to the operations of the Company following the BDS Business Acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the critical nature of these services, expanding on prior risk statement."
+  },
+  {
+   "text": "Upon consummation of the BDS Business Acquisition, the Company, SpinCo and BD entered into several transition services agreements (the \u201cTransition Services Agreements\u201d), pursuant to which BD will provide services to SpinCo on a transitional basis to facilitate the transition of the BDS Business to the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new Transition Services Agreements as part of the acquisition structure."
+  },
+  {
+   "text": "BD will provide to SpinCo various services, including legal, accounting, information technology, human resources and other infrastructure support, for a duration ranging from three months up to 24 months.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific duration details of the newly disclosed TSAs."
+  },
+  {
+   "text": "Additionally, under manufacturing and supply agreements, BD will manufacture certain products for the BDS Business and its subsidiaries following the consummation of the BDS Business Acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about manufacturing and supply agreements tied to the same transaction."
+  }
+ ]
+}

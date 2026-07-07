@@ -1,0 +1,213 @@
+{
+ "ticker": "DHR",
+ "sector": "Health Care",
+ "filing_date": "2026-02-24",
+ "accession": "0000313616-26-000062",
+ "prior_accession": "0000313616-25-000043",
+ "model": "claude-sonnet-5",
+ "n_added": 39,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 13
+ },
+ "items": [
+  {
+   "text": "For example, elections can result in significant political shifts and/or disruptions, and the 2025 change in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific example (2025 U.S. political change) to existing generic political/economic risk discussion, not a new risk category."
+  },
+  {
+   "text": "The Biotechnology segment consists of the bioprocessing business and the discovery and medical business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about segment composition, not a risk factor."
+  },
+  {
+   "text": "The Life Sciences segment consists of the life sciences instruments business, the life sciences consumables business and the filtration, separation and purification business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business segment description, purely descriptive/organizational."
+  },
+  {
+   "text": "The life sciences instruments business enables the discovery, development and manufacture of new therapies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes what the instruments business does, not a risk."
+  },
+  {
+   "text": "Key product areas include validated centrifugation, automated liquid handling systems, advanced cell culture and analytical technologies for selection, process optimization and development of drugs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product area description, no risk content."
+  },
+  {
+   "text": "Typical users include research, scientific, medical and surgical professionals as well as quality assurance and quality control technicians operating in pharmaceutical and biotechnology companies, contract development and manufacturing organizations (\u201cCDMO\u201d), clinical research organization universities, medical schools, surgical theaters and research institutions and in some cases industrial manufacturers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer base, purely descriptive."
+  },
+  {
+   "text": "The life sciences instruments business includes the flow cytometry and lab automation solutions business, the mass spectrometry business and the microscopy business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment composition description."
+  },
+  {
+   "text": "The life sciences consumables business bridges the gap between research and practical application, enabling the discovery, development, and manufacture of new therapies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business description, not risk-related."
+  },
+  {
+   "text": "The business provides consumables and services including antibodies and assays to accelerate scientific research, plasmid DNA, RNA, critical nucleic acids and proteins used to develop and manufacture gene and cell therapies, and analytical tools and services to accelerate discovery, clinical applications and manufacturing for therapies across pharmaceutical, biopharmaceutical, diagnostic and emerging biotechnology companies, research institutions and universities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product/service description, no risk stated."
+  },
+  {
+   "text": "The life sciences consumables business includes the genomic medicines business and the protein consumables business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment composition description."
+  },
+  {
+   "text": "The Diagnostics segment consists of the molecular diagnostics business and the clinical diagnostics businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment composition description."
+  },
+  {
+   "text": "The clinical diagnostics businesses provide diagnostic testing instruments, consumables and software that enable laboratories and healthcare professionals to accurately diagnose, monitor and manage a wide range of diseases and health conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes business function, not a risk."
+  },
+  {
+   "text": "The clinical diagnostics businesses include the 7 clinical lab business, the acute care diagnostics business and the pathology diagnostics business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment composition listing."
+  },
+  {
+   "text": "The cost and availability of certain of these items can be subject to shifting trade policies around the world, including tariffs and trade protectionism measures that can impact the cost and/or availability of components.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific concern about tariffs and trade protectionism affecting cost/availability of components."
+  },
+  {
+   "text": "In addition, lower levels of funding available to biotechnology companies (particularly smaller and emerging companies) in recent years has reduced demand for certain of our products and may have a similar impact in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific demand risk tied to reduced biotech funding levels."
+  },
+  {
+   "text": "The availability of governmental research funding has been, and may in the future be, adversely affected by policy changes, economic conditions and governmental spending reductions, including the downsizing or reduced funding of certain government agencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of reduced governmental research funding due to policy and spending changes."
+  },
+  {
+   "text": "Incorporating AI into our business operations presents new risks relating to intellectual property, disclosure of confidential data, data protection, data privacy and cybersecurity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk category around AI integration affecting IP, data protection, privacy, and cybersecurity."
+  },
+  {
+   "text": "For example, incorporating confidential information into AI systems may result in the loss of intellectual property or attorney-client privilege protections, and our use of AI technologies to develop products or services may adversely affect our intellectual property rights or violate third-party intellectual property rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific example elaborating on the newly introduced AI risk."
+  },
+  {
+   "text": "Over the past several years we have not 19 consummated acquisitions at rates similar to our historical practice and going forward we may not be able to consummate acquisitions at rates similar to our historical practice, which can adversely impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific M&A-related risk about reduced acquisition activity impacting business."
+  },
+  {
+   "text": "We also have products and systems that connect to the internet, hospital networks, electronic medical record systems or electronic health record systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about connected products expanding existing cybersecurity risk discussion."
+  },
+  {
+   "text": "In some cases, we may address software and hardware vulnerabilities through security updates and patches we make available to customers, and such vulnerabilities may persist if customers do not promptly install (or promptly schedule service in connection with) such updates and patches.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing cybersecurity risk with specifics about patch management."
+  },
+  {
+   "text": "In addition, any businesses or technologies that we acquire may exacerbate the risks set forth above, for example due to acquired vulnerabilities or threats that were unknown or were ineffectively managed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing cybersecurity/acquisition risk to acquired businesses."
+  },
+  {
+   "text": "These risks are exacerbated by the increasing importance of AI and the increasing incorporation of AI in our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects AI trend to existing cybersecurity risk, expanding scope."
+  },
+  {
+   "text": "In addition, a significant number of countries where we operate have enacted privacy or data protection laws, rules and regulations, many of which have extraterritorial scope, with significant penalties for non-compliance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on extraterritorial privacy laws to existing data privacy risk."
+  },
+  {
+   "text": "Data privacy regulation and enforcement continues to evolve, with recent, increased focus on topics such as the use of AI, biometrics and surveillance technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing privacy risk discussion to include AI, biometrics, surveillance topics."
+  },
+  {
+   "text": "For example, the Company expects to incur debt to finance a portion of the purchase price for our pending acquisition of Masimo Corporation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new financial risk tied to debt financing for the pending Masimo acquisition."
+  },
+  {
+   "text": "The U.S. has announced and/or implemented significant new tariffs on imports from a wide range of countries, which has prompted retaliatory tariffs by a number of countries and a cycle of retaliatory tariffs by both the U.S. and other countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tariff actions and retaliatory tariff risk."
+  },
+  {
+   "text": "Subsequently, actions have been taken by the U.S. and certain other countries to modify certain of these tariffs and/or delay their effective dates, and the U.S. has entered into trade agreements with certain countries implementing new tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on tariff modifications and trade agreements, expanding the tariff risk already introduced."
+  },
+  {
+   "text": "Supreme Court ruled that the International Emergency Economic Powers Act (\u201cIEEPA\u201d), which the U.S. administration relied on to impose certain tariffs, does not authorize the administration to impose tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific legal development (Supreme Court ruling on IEEPA) creating new uncertainty risk."
+  },
+  {
+   "text": "In response, the administration announced plans to implement new tariffs under alternative statutory authority.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the tariff/legal uncertainty narrative introduced by the Supreme Court ruling."
+  },
+  {
+   "text": "Supreme Court\u2019s ruling and the administration\u2019s response remain uncertain; as of the date of this Annual Report, a number of tariffs issued by the United States and other countries remain in effect.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty from the same tariff/legal situation."
+  },
+  {
+   "text": "In addition, whenever we are unable to fully recover higher costs, or whenever there is a time delay between the increase in costs and our ability to recover these costs, our margins and profitability are adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific margin risk from inability to recover increased costs, not previously stated."
+  },
+  {
+   "text": "Supreme Court\u2019s February 2026 ruling and the administration\u2019s response remain uncertain, the U.S. may implement additional tariffs and other measures, further retaliatory tariffs and other retaliatory actions may follow and the risks and adverse effects noted above may increase.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing tariff uncertainty risk to potential future actions."
+  },
+  {
+   "text": "Please see \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d for further discussion of the impact of these tariffs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a risk statement."
+  },
+  {
+   "text": "Though the risks identified above in certain cases have already adversely impacted parts of our business, the full impact of these tariffs and other actions on the Company and on our business partners remains highly uncertain and subject to rapid change.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes and reinforces already-introduced tariff risk uncertainty."
+  },
+  {
+   "text": "In addition to the environmental, health, safety, healthcare, medical device, anticorruption, data privacy, AI, sustainability and other regulations noted elsewhere in this Annual Report, our businesses are subject to extensive regulation by U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands regulatory risk list to include AI and sustainability among existing regulatory categories."
+  },
+  {
+   "text": "Recent reductions in U.S. government agency staffing and government spending more generally could impact ordinary course operations of agencies with which we interact routinely (such as the FDA).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about government agency staffing/spending reductions affecting operations."
+  },
+  {
+   "text": "Following these reductions, the agencies may lack adequate staff and resources to meet current review, approval and inspection schedules, which could delay the receipt of or otherwise adversely affect the outcomes of regulatory clearances or approvals we seek.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced agency staffing risk with specific consequences."
+  },
+  {
+   "text": "For example, many regulatory agencies are imposing new and evolving regulatory requirements on the safe use of particular chemicals, including ethylene oxides and polyfluoroalkyl substances (\u201cPFAS\u201d) and their potential impact on health and the environment, which may impact both our direct operations and our supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk regarding chemicals like ethylene oxide and PFAS."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "WEC",
+ "sector": "Utilities",
+ "filing_date": "2026-02-20",
+ "accession": "0000783325-26-000018",
+ "prior_accession": "0000107815-25-000103",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "In February 2026, PGL agreed on the terms of a proposed settlement that would, among other things, resolve all proceedings of the open reconciliation years related to the QIP rider.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a status update on the previously disclosed QIP rider reconciliation dispute, noting a proposed settlement."
+  },
+  {
+   "text": "As a result, we recorded a charge to income during the fourth quarter of 2025 through an impairment to net property, plant, and equipment and a reduction to revenues.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new financial impact\u2014an impairment charge and revenue reduction recorded in Q4 2025."
+  },
+  {
+   "text": "The proposed settlement is subject to ICC approval.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural detail noting the settlement requires regulatory approval, standard disclosure language."
+  },
+  {
+   "text": "Many of these rules are now the subject of a large deregulatory effort by the EPA and have resulted, and are expected to continue to result in, the adoption of new federal, state, and/or local level laws and regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing environmental regulatory risk by noting EPA deregulatory efforts and resulting new rules."
+  },
+  {
+   "text": "Any EPA actions will require formal rulemaking proceedings and are likely to be subject to legal challenges.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about rulemaking procedures and legal challenges."
+  },
+  {
+   "text": "In addition, at the end of 2025, the President issued executive orders directing the DOE to issue orders keeping certain coal plants running for grid reliability despite utilities' plans to retire them.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new government action (executive orders keeping coal plants running) not previously disclosed."
+  },
+  {
+   "text": "Future orders impacting our planned retirements of coal plants could impact our ability to execute on our capital plan and to meet our environmental goal.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the coal retirement risk theme by noting potential impact on capital plan from future orders."
+  },
+  {
+   "text": "We continue to monitor the evolving regulatory landscape and standards for impacts on our business operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring regulatory landscape, no new specific risk."
+  },
+  {
+   "text": "In February 2025, the State of Wisconsin filed a petition for review of this classification in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new litigation event\u2014Wisconsin's petition for review of an air quality classification."
+  },
+  {
+   "text": "Court of Appeals for the Seventh Circuit.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation fragment naming the court, no independent substantive content."
+  },
+  {
+   "text": "Wisconsin subsequently moved for a stay of the reclassification, which was granted in September 2025, pending the Court\u2019s review.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides procedural update (stay granted) on the ongoing litigation described in prior sentence."
+  },
+  {
+   "text": "As a result, southeast Wisconsin has returned to \"moderate\" status while the underlying lawsuit proceeds.",
+   "category": "expanded_existing_risk",
+   "rationale": "Factual update on the outcome of the litigation affecting regional air quality status."
+  },
+  {
+   "text": "The cost of compliance with these regulations, and other factors, has resulted in certain of our coal-fired electric generating units being retired or converted to an alternative type of fuel, and may impact the future operations of our existing fossil-fueled generation.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of existing risk regarding compliance costs leading to coal unit retirements/conversions."
+  },
+  {
+   "text": "Although the EPA is pursuing a large deregulatory effort of GHG laws and regulations, significant laws and regulations restricting emissions of GHGs continue to impact our current and planned operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes continuing impact of GHG regulations despite deregulatory efforts, expanding on existing regulatory risk."
+  },
+  {
+   "text": "In July 2025, the OBBBA was signed into law, enacting significant modifications to clean-energy tax credits previously provided under the IRA.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new law (OBBBA) that materially changes clean-energy tax credit structure, a new specific development."
+  },
+  {
+   "text": "The OBBBA provides companies the ability to earn solar and wind tax credits at current credit rates under new beginning of construction rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how the new law affects tax credit eligibility, expanding on the newly introduced OBBBA risk."
+  },
+  {
+   "text": "Table of Contents equipment beyond statutory guidelines from prohibited foreign entities or for taxpayers that exceed certain thresholds of equity or debt held by prohibited foreign entities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing statutory thresholds, appears to be leftover text formatting rather than a new risk."
+  },
+  {
+   "text": "Certain of our natural gas facilities have experienced significant disruptions to operations as a result of problems with interstate pipelines.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new operational disruptions to natural gas facilities from pipeline problems."
+  },
+  {
+   "text": "Further governmental actions related to trade policy could exacerbate global supply chain disruptions and/or inflation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about trade policy and supply chain/inflation risk."
+  },
+  {
+   "text": "We face risks related to providing service to our large-scale customers, including potential customers under our proposed VLC and Bespoke Resources Tariffs, which could impact our business, results of operations, and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category tied to specific new tariffs (VLC and Bespoke Resources) and large-scale customers."
+  },
+  {
+   "text": "We are engaged in discussions with a small number of customers to provide power to large-scale data centers being constructed to support AI and other technology capabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new business development\u2014discussions to serve AI data center customers."
+  },
+  {
+   "text": "Because of the significant demand and energy needs associated with these facilities, extending service to these facilities requires investment in incremental electric infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on infrastructure investment needs tied to the newly disclosed data center customer risk."
+  },
+  {
+   "text": "Subject to pending regulatory approvals from the PSCW, WE has made and will continue to make significant infrastructure investments in new solar and battery projects, natural gas power plants, and other generation and distribution assets to power and serve these large-scale data centers and other projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on infrastructure investments being made to serve data centers, expanding the new risk theme."
+  },
+  {
+   "text": "Our transmission affiliate, ATC, also has made and will continue to make significant investments in additional transmission infrastructure to serve the increased customer load.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the infrastructure investment risk to affiliate ATC's transmission investments."
+  },
+  {
+   "text": "In March 2025, WE filed an application with the PSCW requesting approval to implement a VLC Tariff and a Bespoke Resources Tariff.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory filing (VLC and Bespoke Resources Tariff application) not previously mentioned."
+  },
+  {
+   "text": "Under these proposed inter-connected tariffs, VLCs directly pay for the electricity they consume, along with the power plants and distribution facilities built to serve them and transmission costs allocated to their usage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the structure of the newly disclosed tariffs, expanding on the previous filing disclosure."
+  },
+  {
+   "text": "The proposed tariffs are designed so that the costs associated with these VLCs are not subsidized by or shifted to residential or other business customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains the tariff design intent, part of the same new tariff risk disclosure."
+  },
+  {
+   "text": "WE requires VLCs to enter into payment and cancellation agreements which obligate the VLC to reimburse WE for all costs associated with projects requested by the customer until service agreements are executed under the approved tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific contractual requirements under the new tariff framework."
+  },
+  {
+   "text": "Reimbursement is also required if, among other things, the VLC terminates the payment and cancellation agreement or reduces its anticipated load, or regulatory approval is not received for the construction of a project.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details reimbursement conditions under the newly described tariff agreements."
+  },
+  {
+   "text": "In addition, the ability to obtain regulatory approval of one or more projects and/or the VLC and Bespoke Resources Tariffs may affect our ability to recover costs with acceptable conditions for these large-scale customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes cost recovery risk tied to the new tariff and project approval process."
+  },
+  {
+   "text": "The ability to complete large capital projects is dependent upon a number of factors, including the ability to obtain financing of such projects on satisfactory terms and conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about financing dependency for capital projects, standard risk language."
+  },
+  {
+   "text": "Along with the significant capital spend, a portion of the expected earnings growth from these projects will result in an increase in AFUDC as part of CWIP, with recovery of these costs delayed until the capital project is placed in service.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific financial mechanism detail (AFUDC/CWIP) related to the capital project risk."
+  },
+  {
+   "text": "As a result of this delay in receiving cash proceeds, we may be required to issue additional debt and/or equity to support these projects, which could negatively impact our earnings, balance sheet, and/or credit metrics.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential financing consequences (debt/equity issuance) from project delays, expanding financial risk."
+  },
+  {
+   "text": "Other dependent factors include the ability to secure regulatory permits, secure sufficient land for the siting of power generation facilities, obtain necessary interconnection or transmission service in MISO, garner public support for these projects, and the ability of suppliers and contractors to fulfill their obligations under contracts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of factors affecting project completion, standard risk factor language."
+  },
+  {
+   "text": "Successful completion of these projects may be further influenced by changes in law or regulation, such as new legislation or regulation impacting large data center cost allocation or environmental compliance requirements, trade and tariff issues, including those associated with imported solar panels, as well as supply chain delays or disruptions, workforce challenges, and other events beyond our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies particular regulatory and supply chain factors (data center cost allocation, solar panel tariffs) affecting the newly disclosed large-scale projects."
+  },
+  {
+   "text": "If these projects are significantly delayed or become subject to cost overruns or cancellation due to these or other factors, we could incur additional costs and termination payments or face increased risk of potential write-offs of our investments in these projects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk language about cost overruns, delays, and write-offs."
+  },
+  {
+   "text": "The occurrence of any of these events may materially affect the schedule, cost, and performance of these projects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about project schedule/cost/performance risk."
+  },
+  {
+   "text": "This concentration of business with a small number of customers in an industry based on emerging technologies, including AI and machine learning, presents several risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new customer concentration risk tied specifically to emerging AI/data center business models."
+  },
+  {
+   "text": "We cannot predict the rate at which or the extent to which these emerging technologies will be broadly adopted and successful as business models.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty regarding adoption of AI technologies, part of the newly introduced concentration risk."
+  },
+  {
+   "text": "Changes in industry practice or advances in these technologies could reduce the demand for electricity to power data centers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the AI-related demand risk theme by noting potential reduction in data center electricity demand."
+  }
+ ]
+}

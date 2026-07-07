@@ -1,0 +1,213 @@
+{
+ "ticker": "WRB",
+ "sector": "Financials",
+ "filing_date": "2026-02-27",
+ "accession": "0000011544-26-000005",
+ "prior_accession": "0000011544-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 39,
+ "n_substantive": 34,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 27,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Rates for workers' compensation and certain professional liability lines of business continue to decrease.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about workers' comp and professional liability rates decreasing, elaborating on the existing insurance pricing cycle risk."
+  },
+  {
+   "text": "Recently, insurance rate increases have generally moderated for many lines of business, particularly for property lines, which in some instances are experiencing rate decreases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on market rate trends (moderation, property rate decreases), part of the existing pricing cycle risk discussion."
+  },
+  {
+   "text": "Rates for workers' compensation and certain professional liability lines of business continue to decrease.",
+   "category": "expanded_existing_risk",
+   "rationale": "Repeats the same specific rate-decrease detail, elaborating on the existing pricing risk."
+  },
+  {
+   "text": "Loss costs continue to increase, principally due to continued social inflation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on loss cost trends and social inflation, expanding the existing loss cost/pricing risk discussion."
+  },
+  {
+   "text": "31 \u2022 Claims and coverage issues may emerge that extend coverage beyond our underwriting intent or increase the number and/or size of claims. \u2022 Our reinsurers may refuse to pay reinsurance recoverables due to uncertainty regarding reinsurance coverage for losses related to COVID-19 or any future pandemics.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding reinsurers refusing to pay recoverables due to COVID-19 or future pandemic uncertainty, a concrete new exposure."
+  },
+  {
+   "text": "Adverse economic factors, including recessions, inflation, periods of high unemployment, the impact of tariffs or lower economic activity could result in the sale of fewer policies than expected or an increase in frequency or severity of claims and premium defaults or both, which, in turn, could affect our growth and profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces tariffs as a new specific macroeconomic factor affecting sales and claims, a concrete new risk driver not previously named."
+  },
+  {
+   "text": "Numerous factors, such as business revenue, economic conditions, the impact of tariffs, the volatility and strength of the capital markets and inflation can affect the business and economic environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates tariff impact within broader economic factors already covered, adding detail rather than a wholly new risk."
+  },
+  {
+   "text": "These same factors affect our ability to generate revenue and profits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic transitional statement linking prior factors to revenue/profit impact, no new content."
+  },
+  {
+   "text": "In an economic downturn that is characterized by higher unemployment, declining spending and reduced corporate revenues, the demand for insurance products is generally adversely affected, which directly affects our premium levels and profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how economic downturns affect insurance demand and profitability, consistent with existing macroeconomic risk disclosure."
+  },
+  {
+   "text": "Negative economic factors may also affect our ability to receive the appropriate rate for the risk we insure with our policyholders and may adversely affect the number of policies we can write, including with respect to our opportunities to underwrite profitable business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on how negative economic factors affect pricing and underwriting opportunities, part of existing economic risk discussion."
+  },
+  {
+   "text": "In an economic downturn, customers may have less need for insurance coverage, cancel existing insurance policies, modify their coverage or not renew the policies they hold.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes customer behavior in downturns (cancellations, non-renewal), an elaboration of existing economic risk factor."
+  },
+  {
+   "text": "Existing policyholders may exaggerate or even falsify claims to obtain higher claims payments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of policyholder fraud (exaggerated or falsified claims) not previously mentioned."
+  },
+  {
+   "text": "These outcomes would reduce our underwriting profit to the extent these factors are not reflected in the rates we charge.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about reduced underwriting profit, restating consequence without new specifics."
+  },
+  {
+   "text": "Given the inherent uncertainty of models, the usefulness of such models as a tool to evaluate risk is subject to a high degree of uncertainty that could result in actual losses that are materially different than our estimates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on inherent model uncertainty, part of existing risk-modeling disclosure."
+  },
+  {
+   "text": "A deviation from our loss estimates may adversely impact, perhaps significantly, our financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on impact of loss estimate deviations, consistent with existing risk model discussion."
+  },
+  {
+   "text": "Our approach to risk management relies on subjective variables that entail significant uncertainties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes subjective risk management variables, expanding existing model risk narrative."
+  },
+  {
+   "text": "For example, we consider estimates of probability of exceedance and deterministic scenarios for certain events that are generated by computer-run models.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on probability of exceedance and deterministic scenario models used, part of existing risk modeling disclosure."
+  },
+  {
+   "text": "In addition, we use historical data and scenarios, among other factors, to analyze and manage credit and interest rate risks in our investment portfolio.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details use of historical data for credit/interest rate risk analysis, expanding existing investment risk discussion."
+  },
+  {
+   "text": "It is possible that actual events could give rise to losses materially different to those estimated by these models.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates possibility of actual losses differing from model estimates, consistent with existing risk factor."
+  },
+  {
+   "text": "Small changes in assumptions, which depend heavily on our judgment and foresight, can have a significant impact on the modeled outputs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details sensitivity of model outputs to assumption changes, elaborating existing model risk."
+  },
+  {
+   "text": "For example, catastrophe models that simulate loss estimates based on a set of assumptions are important tools used to estimate our exceedance probability curves.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides example of catastrophe models used for exceedance probability curves, expanding existing risk factor."
+  },
+  {
+   "text": "These assumptions address a number of factors that impact loss potential including, but not limited to, the characteristics of a given natural catastrophe event; the increase in claim costs resulting from limited supply of labor and materials needed for repairs following a catastrophe event (demand surge); the types, function, location and characteristics of exposed risks; susceptibility of exposed risks to damage from an event with specific characteristics; and the financial and contractual provisions of the (re)insurance contracts that cover losses arising from an event.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific factors (demand surge, exposure characteristics) affecting catastrophe loss models, an elaboration of existing model risk factor."
+  },
+  {
+   "text": "We run many model simulations in order to understand the impact of these assumptions on a catastrophe\u2019s loss potential.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes running simulations to assess assumption impact, part of existing model risk narrative."
+  },
+  {
+   "text": "35 Furthermore, there are risks associated with catastrophe events, which are either poorly represented or not represented at all by catastrophe models.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes catastrophe risks poorly represented by models, expanding existing model limitation discussion."
+  },
+  {
+   "text": "Each modeling assumption or un-modeled risk introduces uncertainty into estimated modeled losses that management must consider.",
+   "category": "expanded_existing_risk",
+   "rationale": "States that unmodeled risks add uncertainty, consistent with existing risk factor about model reliance."
+  },
+  {
+   "text": "As a result of these factors and contingencies, our reliance on assumptions and data used to estimate exceedance probability curves and modeled scenario losses is subject to a high degree of uncertainty that could result in actual losses that are materially different from our modeled estimates and our financial results could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes cumulative uncertainty in modeled loss estimates, reiterating existing risk factor without new substance."
+  },
+  {
+   "text": "Our employees could take excessive risks, which could negatively affect our financial condition and business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk topic: employees taking excessive risks that could harm financial condition, not previously addressed."
+  },
+  {
+   "text": "As an insurance enterprise, we are in the business of binding certain risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the nature of the insurance business, no specific risk content."
+  },
+  {
+   "text": "The employees who conduct our business, including executive officers and other members of management, underwriters, product managers and other employees, do so in part by making decisions and choices that involve exposing us to risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how employees' decisions expose the company to risk, supporting the newly introduced employee risk-taking topic."
+  },
+  {
+   "text": "These include decisions such as setting underwriting guidelines and standards, product design and pricing, determining which business opportunities to pursue and other decisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific decision types (underwriting guidelines, pricing) that could involve risk-taking, elaborating the new risk theme."
+  },
+  {
+   "text": "We endeavor, in the design and implementation of our compensation programs and practices, to avoid giving our employees incentives to take excessive risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes compensation program design aimed at mitigating risk-taking, supporting detail for the new risk topic."
+  },
+  {
+   "text": "Employees may, however, take such risks regardless of the structure of our compensation programs and practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes that employees may still take risks despite compensation design, further elaborating the risk-taking theme."
+  },
+  {
+   "text": "Similarly, although we employ controls and procedures designed to monitor employees\u2019 business decisions and prevent them from taking excessive risks, these controls and procedures may not be effective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discusses potential ineffectiveness of controls monitoring employee risk-taking, part of the same risk elaboration."
+  },
+  {
+   "text": "If our employees take excessive risks, the impact of those risks could have a material adverse effect on our financial condition and business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General concluding statement about material adverse effect from employee risk-taking, restating prior point."
+  },
+  {
+   "text": "As we make significant investments in AI and related technology and increasingly rely on the use of AI by third parties, we may not achieve the expected operational and other benefits, or such benefits may take longer than anticipated, and our competitors may adopt AI technologies more effectively or efficiently than we do, which may adversely affect our market position and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding investments in AI technology and potential competitive disadvantage."
+  },
+  {
+   "text": "Our investment in and use of AI technologies and the introduction of new products and services may also expose us to new or enhanced risks, particularly in areas where we have less experience or our existing internal control systems may be insufficient, which could require us to make substantial expenditures or subject us to legal liability, heightened regulatory scrutiny and brand or reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risks from AI adoption including regulatory scrutiny, legal liability, and reputational harm."
+  },
+  {
+   "text": "Similarly, our investments in foreign government fixed maturity securities expose us to currency risk, in addition to the underlying credit, interest rate and other risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on currency risk from foreign government securities, expanding existing investment risk disclosure."
+  },
+  {
+   "text": "In addition, Mitsui Sumitomo Insurance Co., Ltd.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply introduces the entity name (MSI) without new risk content."
+  },
+  {
+   "text": "(\"MSI\"), which owns approximately 14.7% of our common stock as of February 23, 2026, has entered into voting and other arrangements with members of the Berkley family, such that the Berkley family can, subject to certain exceptions, determine the voting of the Company shares held by MSI, including with respect to an 40 extraordinary transaction, other than one expected to result in a business combination that would give rise to a significant, direct and irresolvable conflict of interest for MSI.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new specific governance risk regarding MSI's voting arrangement with the Berkley family and potential conflicts of interest in extraordinary transactions."
+  }
+ ]
+}

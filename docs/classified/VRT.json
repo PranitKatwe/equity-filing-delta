@@ -1,0 +1,218 @@
+{
+ "ticker": "VRT",
+ "sector": "Industrials",
+ "filing_date": "2026-02-13",
+ "accession": "0001674101-26-000008",
+ "prior_accession": "0001628280-25-005905",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 31
+ },
+ "items": [
+  {
+   "text": "As businesses, industries, and communities become more connected, we pioneer and deliver end-to-end power and cooling technologies to help our customers stay resilient, optimized, and future-ready.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic marketing/mission statement about company purpose, not a risk."
+  },
+  {
+   "text": "With our industry-leading innovative technologies and global services network, we are fueling the revolution of the digital world \u2014 keeping technology ecosystems running efficiently and without interruption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing language describing company's technology leadership, no risk content."
+  },
+  {
+   "text": "We believe that Vertiv is supercharging data\u2019s potential; accelerating the pace of technology, raising the bar for accelerated compute and redefining the limits of densification.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Promotional statement about AI compute capabilities, not a risk factor."
+  },
+  {
+   "text": "The world depends on data we power and cool\u2122.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing tagline, no substantive risk."
+  },
+  {
+   "text": "Our Business Vertiv has the most complete portfolio of critical digital infrastructure offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business description statement, not a risk."
+  },
+  {
+   "text": "Vertiv leads with first-to-market designs engineered for next-gen rack-scale artificial intelligence (\"AI\") compute \u2014 enabling transformation and scale to stay multiple compute generations ahead.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing claim about product leadership, not a risk factor."
+  },
+  {
+   "text": "Risk factors\u2014Risks relating to our customers and our industry\u2014We may not realize all of the sales expected from our backlog of orders and contracts.",
+   "category": "reworded_same_meaning",
+   "rationale": "This is a restated risk factor heading referencing backlog risk that already existed."
+  },
+  {
+   "text": "Data Centers : Data centers are purpose-built facilities that enable the processing, storage, and distribution of data across both traditional workloads and high-density compute, including AI training and inference.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business/industry description defining data centers, not a risk statement."
+  },
+  {
+   "text": "Examples of companies in this space include Digital Realty, Equinix, Compass, and QTS.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of example companies in a market segment, descriptive not risk."
+  },
+  {
+   "text": "7 Table of contents \u2022 Neocloud: These providers deliver AI-optimized cloud infrastructure as a service, offering high-performance compute environments designed for AI and accelerated workloads.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive definition of a new market segment (Neocloud), business context not risk."
+  },
+  {
+   "text": "This segment is growing rapidly, driven by AI training and inference demand and customers seeking alternatives to traditional hyperscale platforms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes growth trend in a market segment, not a specific risk to the business."
+  },
+  {
+   "text": "Products We identify delivery of products as performance obligations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting/product description language, not a risk."
+  },
+  {
+   "text": "Such products include AC and DC power management, thermal management, low/medium voltage switchgear, busbar, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software for managing IT equipment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of product types, descriptive business content."
+  },
+  {
+   "text": "Building on this foundation, we have further strengthened our operating model through the development of a comprehensive performance management system and key performance indicator framework.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes operational management system, general business narrative not risk."
+  },
+  {
+   "text": "This framework ensures discipline performance monitoring, promptly identifies deviations, and accelerates agile problem-solving and corrective actions through clear ownership and accountability across the organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes performance monitoring framework, operational description not risk."
+  },
+  {
+   "text": "In parallel, we have fostered lean deployment across the organization through a widely adopted Lean Six Sigma belt certification program, providing employees with a common knowledge base, tools, and discipline to drive transformation more autonomously while ensuring consistency, coordination, and rigor.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes Lean Six Sigma training program, operational narrative."
+  },
+  {
+   "text": "To accelerate lean maturity and embed a high-performance culture, we have also launched a new enhanced VOS capability framework across our manufacturing sites, reinforcing standard work, leadership behaviors and operational excellence practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal capability framework rollout, not a risk."
+  },
+  {
+   "text": "In addition, we are progressing toward the establishment of an enterprise Transformation Office that provides a fully integrated and cross-functional end-to-end management for our transformation agenda, encompassing IT enablement \u2014 including advanced digital and AI capabilities \u2014 and supported by dedicated resources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal transformation office initiative, operational description."
+  },
+  {
+   "text": "Finally, we have reinforced our customer-centric approach by bringing together order-to-cash and order-to-fulfillment under a unified end-to-end ownership model.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal reorganization of customer-facing functions, not a risk."
+  },
+  {
+   "text": "This integration strengthens coordination across functions and manufacturing sites, improves customer order management, and ensures that customer experience remains at the center of our operational and transformation efforts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continues describing operational integration benefits, not risk-related."
+  },
+  {
+   "text": "Content focuses on Vertiv's high performance culture and our leadership philosophy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes content of internal culture programs, not a risk."
+  },
+  {
+   "text": "10 Table of contents \u2022 VOS training is delivered globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes training delivery method, operational detail."
+  },
+  {
+   "text": "Our Strategy We are committed to attracting, hiring and developing the best and brightest talent and focus significant resources on supporting and managing our global employee population.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about talent strategy, not a risk."
+  },
+  {
+   "text": "At an enterprise level, Vertiv was recognized in Greater China by earning the \"2025 Ram Charan Award\" by the Harvard Business Review China and in Asia our Philippines office earned the \"Great Place to Work\" certification.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes awards/recognition, promotional not risk-related."
+  },
+  {
+   "text": "Employee Development In 2025, Vertiv introduced a leadership model that is based on Vertiv\u2019s strategic behaviors: Drive + Engage.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new leadership model, HR program description."
+  },
+  {
+   "text": "This new model enables a foundation of what it means to lead in a high performance culture effectively, understanding your individual style, and how it presents every day to your direct team and/or peers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further describes leadership model, not a risk."
+  },
+  {
+   "text": "During 2025, we continued to focus on reducing and controlling workplace risks through training, operational discipline, and employee engagement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about safety focus, boilerplate HR/safety narrative."
+  },
+  {
+   "text": "In connection with this commitment, we continued our enterprise-wide safety engagement efforts, including the ongoing evolution of our \u201cWe Lead with Safety\u201d campaign, which emphasizes shared accountability and encourages employees to speak up about safety concerns for themselves and others.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing safety campaign, not a new risk."
+  },
+  {
+   "text": "Employee participation in proactive safety reporting increased during the year, reflecting growing engagement and a strengthening safety culture across the organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive metric about safety reporting engagement, not a risk."
+  },
+  {
+   "text": "These efforts support Vertiv's ongoing objective of improving workplace safety awareness and managing risk across its global operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about safety objectives, boilerplate."
+  },
+  {
+   "text": "We are subject to a broad range of foreign and domestic environmental, health and safety laws, regulations and requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to environmental/health/safety laws, standard boilerplate risk framing."
+  },
+  {
+   "text": "The majority of our combined backlog is considered firm and expected to be delivered within 12 to 18 months.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (12-18 month delivery window) to existing backlog risk discussion."
+  },
+  {
+   "text": "Also, due to our large backlog, pricing changes may take longer to be reflected in our financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing backlog risk by noting pricing changes may lag due to backlog size."
+  },
+  {
+   "text": "Our recent acquisitions have added to our sales pipeline and backlog.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes acquisitions have added to backlog, expanding existing backlog risk context."
+  },
+  {
+   "text": "The contracts associated with our acquisitions may have differing terms, allowing customers to reduce firm orders or terminate contracts, with varying costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that acquired contracts may allow customers to reduce or terminate orders, a concrete new exposure."
+  },
+  {
+   "text": "Our customers\u2019 markets could suffer disruption due to a number of factors, including government policy changes, local zoning decisions, community opposition or temporary or permanent local moratoria that limit or restrict the siting, 15 Table of contents construction or expansion of data centers and other critical digital infrastructure, industry consolidations or the shifting of market size and purchasing power among customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factors like zoning, local moratoria, and community opposition affecting data center siting/expansion."
+  },
+  {
+   "text": "Evolving customer strategy resulting from consolidation or reduction in technology spend could lead to a significant decline in business with, or pricing pressure from, one or more of our key customers, which could adversely affect our business, results of operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing customer concentration/pricing risk due to evolving customer strategy."
+  },
+  {
+   "text": "In addition, changes in our customers\u2019 investment priorities, for example, shifts in the level or focus of spending on artificial intelligence, cloud or other technology projects or in the types of facilities they deploy, may result in reduced demand or increased pricing pressure for certain of our offerings, even if overall technology spending remains robust.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding shifts in AI/cloud technology spending priorities affecting demand or pricing, a new concrete factor."
+  },
+  {
+   "text": "These are competitors that compete with us in a limited geographic area.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic definition of competitor type, not a new or expanded risk."
+  },
+  {
+   "text": "If we fail to meet this increased customer demand in a timely manner, or at all, of if we fail to obtain the necessary raw materials or otherwise satisfy the performance obligations in our contracts related to these orders, we could be subject to penalty provisions, liquidated damages or other claims.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing demand-fulfillment risk by detailing potential penalty provisions and claims."
+  }
+ ]
+}

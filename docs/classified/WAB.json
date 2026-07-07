@@ -1,0 +1,63 @@
+{
+ "ticker": "WAB",
+ "sector": "Industrials",
+ "filing_date": "2026-02-13",
+ "accession": "0001628280-26-008067",
+ "prior_accession": "0001628280-25-005100",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "The advancement of artificial intelligence technologies may significantly accelerate the pace and broaden the scope of technological innovation impacting the industry.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI as a new, specific technological risk factor not previously mentioned, potentially reshaping competitive dynamics."
+  },
+  {
+   "text": "As a result of our acquisitions from time to time, we have goodwill recorded on our balance sheet.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces goodwill impairment risk to the filing by disclosing goodwill on the balance sheet, a new financial risk topic."
+  },
+  {
+   "text": "Goodwill is tested for impairment annually or more often if events or changes in circumstances indicate a potential impairment may exist.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the goodwill impairment testing process introduced in the prior sentence."
+  },
+  {
+   "text": "Factors that could indicate that our goodwill could be impaired include a decline in our stock price and market capitalization, lower than projected operating results and cash flows, and slower growth rates in our industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific factors that could trigger goodwill impairment, expanding on the newly introduced risk."
+  },
+  {
+   "text": "If we determine at a future time that impairment exists, it may result in a significant non-cash charge to earnings and lower stockholders' equity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the financial consequence of goodwill impairment, continuing the same newly introduced risk theme."
+  },
+  {
+   "text": "Further, we regularly implement organization changes and streamlining, such as divestitures and realignments, to support our growth and cost management strategies and to encourage efficiencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding organizational changes such as divestitures and realignments affecting cost management and growth."
+  },
+  {
+   "text": "If we are unable to successfully manage these and other organizational changes, the ability to complete such activities and realize anticipated benefits and cost savings as well as our results of operations and financial condition could be materially adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the previously introduced organizational change risk by describing potential adverse financial impacts."
+  },
+  {
+   "text": "The security and functionality of our information technology systems, and the process of data by these systems, are critical to our business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about IT systems' importance without specific new risk detail, akin to standard framing language."
+  },
+  {
+   "text": "If these systems are damaged, intruded upon, attacked, shutdown, or cease to function properly, and we suffer any resulting interruption in our ability to manage and operate our business, or if our products are affected, our results of operations and financial condition could be materially adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding IT system failures or cyberattacks materially affecting operations and financial condition."
+  }
+ ]
+}

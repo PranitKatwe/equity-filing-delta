@@ -1,0 +1,218 @@
+{
+ "ticker": "WELL",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-12",
+ "accession": "0000766704-26-000010",
+ "prior_accession": "0000766704-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 19
+ },
+ "items": [
+  {
+   "text": "CON and licensure laws may limit the number of potential operators of our tenant healthcare facilities, which could reduce the value of such properties if put up for sale.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific consequence (reduced property value on sale) to the already-existing CON/licensure risk."
+  },
+  {
+   "text": "The recently-passed \u201cOne Big Beautiful Bill Act\u201d or \u201cOBBBA\u201d may impact the availability of Medicaid reimbursement but may also expand the availability of states to obtain waivers for home and community based services, as discussed below. \u2022 Long-Term/Post-Acute Care Facilities The majority of the revenues received by the operators of these facilities are from the Medicare and Medicaid programs, with the balance representing reimbursement payments from private payors and patients.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the newly passed OBBBA legislation and its potential effects on Medicaid reimbursement and waivers, a new specific regulatory risk."
+  },
+  {
+   "text": "Additionally, CMS ties a portion of SNF Medicare reimbursement to the SNF Value-Based Purchasing Program (\u201cSNF VBP\u201d).",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about SNF VBP tying Medicare reimbursement to quality metrics, expanding existing reimbursement risk discussion."
+  },
+  {
+   "text": "While the SNF VBP only considered one quality measure in the FY 2025 Program Year, the SNF VBP will consider four quality measures in the FY 2026 Program Year.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Minor factual update on number of quality measures used across program years, not a new risk."
+  },
+  {
+   "text": "This may impact the reimbursement levels and public perception of our SNF tenants and operators. \u25e6 Medicaid Reimbursement Many states reimburse nursing facilities using fixed daily rates, which are applied prospectively based on patient acuity and the historical costs incurred in providing patient care.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic descriptive statement about how states calculate Medicaid reimbursement rates."
+  },
+  {
+   "text": "In addition, Medicaid reimbursement rates may decline if state revenues in a particular state are not sufficient to fund budgeted expenditures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing Medicaid reimbursement risk tied to state budget constraints."
+  },
+  {
+   "text": "Further, in 2025, Congress passed and the President signed Public Law No.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory/factual statement about legislative passage, no specific risk detail."
+  },
+  {
+   "text": "The OBBBA included a number of changes which are anticipated to reduce the size of the Medicaid eligible population\u2014including work requirements for certain Medicaid recipients and caps on the value of assets, such as homes, that Medicaid recipients may own while qualifying for Medicaid coverage\u2014and otherwise decrease the amount of Medicaid spending\u2014including shortening the length of retroactive Medicaid coverage and reducing states\u2019 ability to tax Medicaid providers to fund state contributions to Medicaid\u2014as compared to prior law.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new statutory changes (work requirements, asset caps, funding cuts) that materially affect Medicaid population and spending."
+  },
+  {
+   "text": "OIG may publish guidance as to other entity types in the future or revise its guidance for SNFs and Nursing Facilities. \u25e6 Health Reform Laws Certain health reform measures could be implemented as a result of political, legislative, regulatory and administrative developments and judicial proceedings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic transitional statement about potential future health reform measures."
+  },
+  {
+   "text": "However, on December 2, 2025, HHS and CMS announced repeal of the Final Rule.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports a specific new regulatory action (repeal of a Final Rule) that is a concrete new development."
+  },
+  {
+   "text": "The OBBBA, as discussed above, may affect both the size of the Medicaid population and reimbursement per Medicaid beneficiary.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and reinforces the OBBBA's effect on Medicaid size/reimbursement already introduced elsewhere."
+  },
+  {
+   "text": "At least one federal judge has held that federal qui tam provisions are unconstitutional, though other qui tam cases continue nationwide.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new legal development regarding qui tam provisions' constitutionality, a specific litigation risk."
+  },
+  {
+   "text": "These laws also may require a business to issue notifications in the event of the data breach.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about data breach notification laws, standard compliance language."
+  },
+  {
+   "text": "States have also passed and proposed new statutes and regulations that may affect the use of artificial intelligence in healthcare.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new and specific regulatory risk area concerning AI use in healthcare."
+  },
+  {
+   "text": "The relevant regulatory body for England is the Care Quality Commission, for Wales is the Care Inspectorate Wales (and for some regulated activities, Healthcare Improvement Scotland) and for Northern Ireland is the Regulation and Quality Improvement Authority (each a \u201cRelevant Regulatory Body\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply names the UK regulatory bodies, descriptive only."
+  },
+  {
+   "text": "\u201cRegulated Activities\u201d include provision of accommodation for persons who require nursing, and also, treatment of disease, disorder or injury.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines 'Regulated Activities', purely descriptive."
+  },
+  {
+   "text": "Relevant Regulatory Bodies regulate the health and social care services industry, conduct inspections, issue reports, and take enforcement action to ensure compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of regulator functions, no new risk specified."
+  },
+  {
+   "text": "With respect to our senior housing facilities (care homes) in the UK, care services are delivered by our operators, who own the assets (equipment, leases, patient-relationships) and third-party operators, who are responsible for staff management at the facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes operator structure for UK senior housing, expanding on existing operator risk context."
+  },
+  {
+   "text": "Both our operators and third-party operators must be registered with the relevant Regulatory Bodies (depending on the locations of our facilities) for their activities at these facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a registration requirement, standard compliance description."
+  },
+  {
+   "text": "Failures in compliance increase reputational and enforcement risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes reputational and enforcement risk from compliance failures, expanding existing regulatory risk."
+  },
+  {
+   "text": "Relevant Regulatory Body inspection reports are published on the Relevant Regulatory Body\u2019s website, making them publicly accessible.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes public availability of inspection reports, factual/administrative."
+  },
+  {
+   "text": "If a provider regulated by the CQC receives a \u2019Requires Improvement\u2019 or \u2019Inadequate\u2019 rating or an equivalent rating from the Relevant Regulatory Body in another UK nation\u2014they are required to develop and implement a remediation plan.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequence (remediation plan requirement) for poor inspection ratings, expanding regulatory risk."
+  },
+  {
+   "text": "The provider must address the identified issues and achieve compliance within a timeframe agreed upon with the Relevant Regulatory Body.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes procedural timeline for compliance, administrative detail."
+  },
+  {
+   "text": "Failure to do so may result in enforcement actions, including suspension or withdrawal of registration or statutory penalties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies enforcement consequences (suspension, penalties) for non-compliance, expanding existing regulatory risk."
+  },
+  {
+   "text": "The Department of Health and Social Care is responsible for the provision of care services for seniors in England, and equivalent Government Departments in other UK nations are responsible for the provision of care services in their jurisdictions, primarily through local commissioning bodies (\u201cLocal Authorities\u201d), which contract with care home providers within their jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes government department responsibilities, background/context only."
+  },
+  {
+   "text": "Many of our senior housing facilities in the UK have been contracted by Local Authorities to provide care home services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about existing contracting arrangements, no new risk."
+  },
+  {
+   "text": "Residents placed by a Local Authority under these arrangements are either fully government-funded or eligible for a government subsidy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes funding source for residents, contextual detail."
+  },
+  {
+   "text": "Residents at our care homes outside these arrangements are exclusively private pay.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes private-pay resident category, contextual detail."
+  },
+  {
+   "text": "Under arrangements with Local Authorities, we are required to comply with contractual standards that are generally aligned with Relevant Regulatory Body requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes compliance obligations under Local Authority contracts, expanding regulatory compliance risk."
+  },
+  {
+   "text": "Local Authorities conduct their own inspections to assess compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes inspection process by Local Authorities, procedural detail."
+  },
+  {
+   "text": "If we or our operators are found to be non-compliant, this may result in termination risks under our agreements with Local Authorities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific risk of contract termination for non-compliance, expanding existing regulatory/operator risk."
+  },
+  {
+   "text": "However, in most cases, a remediation plan will be agreed upon, and ongoing monitoring may be required until compliance is achieved.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes remediation process, procedural and mitigating in tone."
+  },
+  {
+   "text": "General Data Protection Regulation and the Privacy and Electronic Communications (EC Directive) Regulation 2003 (collectively \u201cU.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Names applicable UK data protection laws, purely descriptive."
+  },
+  {
+   "text": "One of the most significant changes due to DUAA is the closer alignment of regulatory enforcement (including the level of fines) between the U.K.",
+   "category": "expanded_existing_risk",
+   "rationale": "Highlights increased regulatory enforcement alignment (fines) under new UK data law, expanding existing data privacy risk."
+  },
+  {
+   "text": "DP Laws may create restrictions or requirements in our operators; and other business partners\u2019 use, sharing and retention of data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes new restrictions on data use by operators under UK DP laws, expanding existing data compliance risk."
+  },
+  {
+   "text": "These include notification to the regulator and individuals in the event of a personal data breach which meets certain thresholds, and an annual registration fee for each entity operating a care home.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes notification and registration fee requirements, administrative detail."
+  },
+  {
+   "text": "The costs to a business such as ours or to an operator of a healthcare property associated with developing and maintaining programs and systems to comply with the U.K.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes costs associated with compliance programs, expanding existing cost/regulatory risk."
+  },
+  {
+   "text": "DP Laws, including any related claims, requests and regulatory enforcement actions can be substantial.",
+   "category": "expanded_existing_risk",
+   "rationale": "Highlights potential substantial costs from claims and enforcement, expanding existing compliance risk."
+  },
+  {
+   "text": "Importantly, the UKBA created a corporate offense of failure to prevent bribery.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal exposure: corporate offense for failure to prevent bribery under UKBA."
+  },
+  {
+   "text": "Similarly, the \u201cfailure to prevent\u201d model applies in respect of the corporate failure to prevent the facilitation of (UK and/or foreign) tax evasion, pursuant to the Criminal Finances Act 2017.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legal risk regarding failure to prevent tax evasion under the Criminal Finances Act 2017."
+  }
+ ]
+}

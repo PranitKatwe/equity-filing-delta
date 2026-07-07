@@ -1,0 +1,93 @@
+{
+ "ticker": "LEN",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-01-28",
+ "accession": "0001628280-26-003870",
+ "prior_accession": "0001628280-25-002404",
+ "model": "claude-sonnet-5",
+ "n_added": 15,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "The harm may be immediate, without affording us an opportunity for redress or correction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic phrase about harm being immediate lacks specific new risk detail; reads as boilerplate embellishment."
+  },
+  {
+   "text": "Because a significant portion of our land inventory is acquired through land purchase option arrangements], in the event of adverse changes in economic, market, or community conditions, we may elect not to exercise our land purchase options and we may not be able to satisfactorily renegotiate the purchase price of the land under option.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the existing risk about land purchase option arrangements and renegotiation difficulty, already a known risk factor."
+  },
+  {
+   "text": "Such actions could result in the forfeiture of some or all of any deposits, fees or investments paid or made in respect of such arrangements, including any cost overruns.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about forfeiture of deposits/investments/cost overruns, expanding on the existing land option risk."
+  },
+  {
+   "text": "The forfeiture of option deposits or inventory impairments may result in a loss that could have a material adverse effect on our profitability, stock performance, business operations and financial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates the financial impact of forfeiture, an extension of the existing land option risk."
+  },
+  {
+   "text": "Our results of operations and financial condition may be adversely affected by public health issues and governmental actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about public health issues affecting operations without specific new details, typical cautionary language."
+  },
+  {
+   "text": "New or evolving U.S. government regulations, guidance, executive orders or judicial decisions, including, but not limited to, as a result of public health concerns, could adversely affect our business operations and financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General regulatory/public health boilerplate language, not a specific new risk."
+  },
+  {
+   "text": "12 Table of Contents Multifamily .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a page header/table of contents artifact, not a risk statement."
+  },
+  {
+   "text": "In addition, our land bank option contracts often include provisions under which delays in land development and/or longer land takedown periods cause us to incur additional cost.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific cost detail to the existing land bank option risk regarding delays and takedown periods."
+  },
+  {
+   "text": "In May 2025, we entered into a new unsecured delayed draw term loan facility (\"Delayed Draw Term Loan Facility\") with total borrowing availability up to $1.7 billion.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new $1.7 billion delayed draw term loan facility, a new financial obligation not previously disclosed."
+  },
+  {
+   "text": "In February 2025, we completed the spin-off Millrose, which serves as a source of recycled capital for land acquisitions.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new corporate spin-off (Millrose) that creates a new capital source and business relationship not previously present."
+  },
+  {
+   "text": "Additionally, if in the future we are unable to identify or to develop and maintain the necessary relationships with suitable land banks, including Millrose, we will not be able to fully implement our land-light business strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces dependency risk on Millrose and land banks for the land-light strategy, a new specific business relationship risk."
+  },
+  {
+   "text": "A significant portion of the land inventory that we control is held by land banks, including the portion of our inventory that was transferred to Millrose in connection with the Millrose Spin-Off.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing land bank inventory risk by specifying Millrose's role post spin-off."
+  },
+  {
+   "text": "In fact, the majority of our land banking arrangements are concentrated in a limited number of land banks, including Millrose, which exposes our business to risks if one of our principal land banks were to face financial difficulties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces concentration risk tied to Millrose and a limited number of land banks, a new specific exposure."
+  },
+  {
+   "text": "In addition, we are in the early stages of integrating AI into our business to support our business operations and customer-facing systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new integration of AI into business operations, a new technological initiative not previously mentioned."
+  },
+  {
+   "text": "Our development and adoption of AI and other new technologies may present new technological threats, vulnerabilities and uncertainties, which may expose us to legal, reputational and financial harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new AI-related legal, reputational, and financial risks stemming from adoption of new technology."
+  }
+ ]
+}

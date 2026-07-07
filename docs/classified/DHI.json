@@ -1,0 +1,78 @@
+{
+ "ticker": "DHI",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2025-11-19",
+ "accession": "0000882184-25-000081",
+ "prior_accession": "0000882184-24-000057",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "The facility includes bank commitments of $2.04 billion maturing on December 18, 2029 and $265 million maturing on October 28, 2027.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides specific dollar amounts and maturity dates for an existing credit facility; factual detail rather than a new risk."
+  },
+  {
+   "text": "In October 2025, Forestar utilized the accordion feature and increased the size of its revolving credit facility to $665 million through an additional commitment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes Forestar increasing the size of its existing revolving credit facility via an accordion feature, expanding the scale of existing debt-related exposure."
+  },
+  {
+   "text": "The facility includes bank commitments of $600 million maturing on December 18, 2029 and $65 million maturing on October 28, 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Similar factual disclosure of bank commitment amounts and maturities for a facility, not a new risk itself."
+  },
+  {
+   "text": "Borrowings under the revolving credit facility are subject to a borrowing base calculation based on the book value of Forestar\u2019s real estate assets and unrestricted cash.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new constraint\u2014borrowing base calculation tied to real estate asset value and cash\u2014that could limit borrowing capacity, a concrete new risk mechanism."
+  },
+  {
+   "text": "In addition, other types of lawsuits, claims and proceedings have been and may in the future be instituted or asserted against us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about possible future lawsuits, standard cautionary language with no specifics."
+  },
+  {
+   "text": "Some of these claims may result in significant defense costs and potentially significant judgments against us, some of which are not, or cannot be, insured against.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about potential litigation costs and judgments, typical boilerplate language."
+  },
+  {
+   "text": "We intend to defend ourselves vigorously in any litigation that has been or may be instituted or asserted against us; however, litigation is inherently uncertain and we cannot be certain of the ultimate outcomes of any claims that have arisen or may arise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard defensive litigation posture statement, no new specific risk introduced."
+  },
+  {
+   "text": "Additionally, in certain regions, the cost to obtain homeowner and various hazard and flood insurance has risen significantly in recent years, reflecting the increasing frequency and severity of damage caused by severe weather and natural disasters.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, quantifiable new risk: rising insurance costs due to increased severe weather/natural disaster frequency in certain regions."
+  },
+  {
+   "text": "In some areas, these events have limited the ability of homeowners to secure insurance coverage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced insurance cost risk by adding that some homeowners cannot secure coverage at all, expanding the scope of the same risk."
+  },
+  {
+   "text": "In March 2025, the SEC terminated its defense of the rules; however, if they become effective, they would require public companies to make a wide range of climate-related disclosures.",
+   "category": "reworded_same_meaning",
+   "rationale": "Provides a factual update on the status of SEC climate disclosure rules (termination of defense) rather than introducing a new risk."
+  },
+  {
+   "text": "Changes in income tax and securities laws could adversely affect our business and financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic header-like statement about tax and securities law changes, a common risk factor framing sentence."
+  },
+  {
+   "text": "We are subject to income taxes at the federal, state and local levels, and any changes in tax legislation could adversely affect our future effective tax rates and the value of our deferred tax assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure about being subject to income taxes and potential effects of tax legislation changes, typical boilerplate risk language."
+  }
+ ]
+}

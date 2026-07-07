@@ -1,0 +1,218 @@
+{
+ "ticker": "CI",
+ "sector": "Health Care",
+ "filing_date": "2026-02-26",
+ "accession": "0001739940-26-000006",
+ "prior_accession": "0001739940-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 28
+ },
+ "items": [
+  {
+   "text": "Powered by our dedicated people and valued brands, we advance our mission to improve the health and vitality of those we serve by staying grounded in the needs of our customers and patients - delivering a personalized, transparent and affordable health care experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mission statement language with no specific risk content."
+  },
+  {
+   "text": "We play an important role in the health care system, and the breadth and depth of our customer relationships - as well as our approximately 1.7 million relationships with health care providers, clinics and facilities - give us opportunities to drive positive change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes scale of relationships without identifying a new or expanded risk."
+  },
+  {
+   "text": "Together, Evernorth Health Services and Cigna Healthcare combine pharmacy and medical capabilities to create solutions that improve affordability, transparency and health outcomes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of business segment combination, not a risk statement."
+  },
+  {
+   "text": "This combination helps us anticipate needs, accelerate innovation and deliver personalized experiences for customers and patients at scale.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing-style language about innovation and personalization, no risk content."
+  },
+  {
+   "text": "1 Commitments to Better Through our Commitments to Better, we embarked on a new, multiyear chapter to accelerate our ongoing evolution and industry leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a strategic initiative name/branding, not a specific risk."
+  },
+  {
+   "text": "We know we play an important role in a health care system that needs changing for the better, and we are determined to lead that change for the health and vitality of those we serve.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing company mission/role language already implied in prior filings."
+  },
+  {
+   "text": "We have many roles in the health care system to deliver better outcomes to our customers, including helping to make healthcare more affordable, administering health care claims and working to reduce health care waste.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of company's roles in healthcare system, not a specific risk."
+  },
+  {
+   "text": "Evernorth Health Services has announced a transformative new pharmacy benefits model to make discounts negotiated with drug companies available upfront to customers buying their medications, lowering their costs at the counter.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new, transformative pricing/benefit model that changes revenue mechanics and could materially affect financial results."
+  },
+  {
+   "text": "Cigna Healthcare will adopt this new model for its fully insured customers beginning in 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides implementation timeline for the new model described in the prior sentence, expanding on the same emerging business risk."
+  },
+  {
+   "text": "It will become the standard model available for Evernorth Health Services pharmacy benefit clients beginning in 2028. \u2022 Home Delivery Pharmacy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further timeline detail for the new pharmacy benefit model rollout, extending the same risk theme."
+  },
+  {
+   "text": "Our Evernorth EnGuide SM Pharmacy (\"EnGuide Pharmacy\") was established in 2025 to focus on the growing population of customers that are prescribed GLP-1 medications requiring clinical support.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new pharmacy entity focused on GLP-1 medications, a new specific business line with associated operational and market risk."
+  },
+  {
+   "text": "Our Specialty Pharmacy operations consist of 35 licensed pharmacies. \u2022 Health System Services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual count of licensed pharmacies, no risk implication."
+  },
+  {
+   "text": "Evernorth Health Services has three clients that each drive significant revenues for the segment: \u2022 Express Scripts and Centene Corporation (\"Centene\") have a multiyear agreement, which began January 1, 2024, to manage pharmacy benefit services for Centene's customers, providing them with access to the extensive Express Scripts national network of retail pharmacies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a major client concentration (Centene) that could expand existing customer concentration risk."
+  },
+  {
+   "text": "Healthcare provides medical plans and other benefits and solutions for insured and self-insured clients as well as for individual and family plan customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes segment offerings generically, no new risk."
+  },
+  {
+   "text": "International Health provides health care solutions in our international markets, as well as health solutions for globally mobile individuals and employees of multinational organizations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of international segment offerings, no specific risk."
+  },
+  {
+   "text": "Prior to the disposal date, U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary transitional sentence with no substantive content."
+  },
+  {
+   "text": "Healthcare's results include these businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple statement about inclusion of results, not a risk."
+  },
+  {
+   "text": "Through our clinical programs and partnership with EviCore, we guide care to the most appropriate settings, reducing unnecessary costs while preserving quality and service, and offer virtual care options, including MD Live, to improve convenience and access.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes clinical partnership and care management approach, general business description."
+  },
+  {
+   "text": "The Cigna Group is on a multiyear journey toward making the health care experience better for those we serve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague mission/strategy language, no specific risk."
+  },
+  {
+   "text": "We are taking action on our five commitments, which are outlined above.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "References prior commitments without new risk detail."
+  },
+  {
+   "text": "The Cigna Group is driving meaningful improvements for all customers through strong governance and collaboration across the organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic governance and collaboration language."
+  },
+  {
+   "text": "These partnerships guide our efforts to enhance health outcomes for the millions we serve while ensuring transparency and accountability every step of the way.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about partnerships and transparency, no specific risk."
+  },
+  {
+   "text": "At the core of the Company's strategic priorities lies a culture of innovation and enablement - one that empowers a customer-centric, digital-first, virtual-led vision for health care.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing language about company culture and innovation."
+  },
+  {
+   "text": "The Cigna Group is committed to innovative, transformative changes by reimagining our operating models, products and interactions to create new sources of value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about transformation goals, no concrete risk."
+  },
+  {
+   "text": "Data and analytics power the Company's strategy, fueling informed decisions, deeper insights and accelerated growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about use of data and analytics, no risk specifics."
+  },
+  {
+   "text": "We are creating technology that drives AI processes and enables predictive, personalized and adaptive business outcomes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General AI technology statement without risk implications."
+  },
+  {
+   "text": "We are positioning our lines of business for today's market pressures while ensuring we are building a sustainable advantage through data, insights and digital innovation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic positioning language."
+  },
+  {
+   "text": "We drive efficiencies, improve sentiment and create market differentiation, while accelerating our path toward personalized, AI-driven solutions for customers, clients and providers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing language about efficiency and differentiation, no risk."
+  },
+  {
+   "text": "Our technology team consistently maintains a high degree of availability and reliability to our various information systems critical to client and customer care operations, providers, and overall customer experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about IT reliability, generic assurance not a new risk."
+  },
+  {
+   "text": "Supporting our employees' health and vitality is not only a core value, it's a critical business imperative.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about employee health as a value/business imperative."
+  },
+  {
+   "text": "10 In 2025, The Cigna Group invested approximately 20% of total payroll in health, well-being and other benefits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statistic about payroll investment, descriptive not risk-related."
+  },
+  {
+   "text": "We strive to reach a broad and diverse pool of candidates to engage and recruit top talent across all levels and functions of the Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General talent recruitment statement, no risk."
+  },
+  {
+   "text": "We also give back through charitable giving and volunteerism in communities where we operate around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about charitable giving, unrelated to risk."
+  },
+  {
+   "text": "We aim to cultivate a workforce that is equipped and empowered to drive growth and innovation across our diverse businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General workforce development language, no specific risk."
+  },
+  {
+   "text": "Federal Legislative Developments In February 2026, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new federal legislation (Consolidated Appropriations Act, 2026) affecting PBM operations, a new regulatory risk."
+  },
+  {
+   "text": "Congress enacted the Consolidated Appropriations Act, 2026, which includes multiple provisions applicable to pharmacy benefit manager (\"PBM\") operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on scope of the new legislation's impact on PBM operations, expanding the regulatory risk introduced."
+  },
+  {
+   "text": "These provisions are expected to impact pharmacy benefit arrangements in the commercial market and the Medicare Part D program, with varying effective dates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details effects on commercial and Medicare Part D markets, expanding the same legislative risk."
+  },
+  {
+   "text": "The ultimate impact of these provisions will depend, in part, on future regulatory guidance and implementation by the HHS and the DOL, among other federal agencies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes uncertainty pending regulatory guidance, expanding on the newly introduced legislative risk."
+  },
+  {
+   "text": "With respect to employer-sponsored health plans subject to the Employee Retirement Income Security Act (\"ERISA\"), the legislation includes provisions, effective beginning in August 2028, that require PBMs to remit 100% of certain rebates, fees and other remuneration to plan sponsors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new requirement for PBMs to remit 100% of rebates to plan sponsors, a concrete financial/regulatory risk not previously disclosed."
+  },
+  {
+   "text": "In addition, the legislation imposes enhanced disclosure and reporting requirements intended, among other things, to increase transparency into PBM compensation and prescription drug spending.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on enhanced disclosure and reporting requirements tied to the same new legislative risk."
+  }
+ ]
+}

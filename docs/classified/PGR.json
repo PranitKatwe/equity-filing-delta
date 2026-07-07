@@ -1,0 +1,63 @@
+{
+ "ticker": "PGR",
+ "sector": "Financials",
+ "filing_date": "2026-03-02",
+ "accession": "0000080661-26-000086",
+ "prior_accession": "0000080661-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "We undertake substantial efforts and expend significant resources to protect our systems and sensitive or confidential data and information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cybersecurity boilerplate about protecting systems and data, no specific new threat or incident described."
+  },
+  {
+   "text": "Our success depends on our ability to innovate effectively and respond to our competitors\u2019 initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about needing to innovate and respond to competitors, lacks specific new risk detail."
+  },
+  {
+   "text": "Consolidations and strategic relationships in the independent agent channel in our Personal Lines business have increased competition and could continue to do so.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive dynamic: consolidation among independent agents in Personal Lines increasing competition."
+  },
+  {
+   "text": "Historically, the auto and property insurance markets have been described as cyclical, with periods of relatively strong profitability being followed by increased pricing competition among insurers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional context/detail on cyclical pricing competition, expanding on an existing competitive risk theme."
+  },
+  {
+   "text": "For additional discussion of statutory profit limits, see Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations \u2013 II.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing, not a risk statement itself."
+  },
+  {
+   "text": "Financial Condition in the Annual Report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of cross-reference citation, not substantive risk content."
+  },
+  {
+   "text": "In addition, laws in certain jurisdictions mandate that insurance companies pay assessments in a number of circumstances, including potentially material assessments to pay claims upon the insolvency of other insurance companies or to cover losses in government-provided insurance programs for high-risk auto and homeowners\u2019 coverages.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific and material financial risk: mandatory assessments for insolvencies or high-risk coverage programs."
+  },
+  {
+   "text": "We use third-party labor to meet a portion of our staffing needs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific operational dependency on third-party labor for staffing needs."
+  },
+  {
+   "text": "Intellectual property rights could affect our competitiveness and our business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, generic statement about intellectual property affecting competitiveness without specific details or new facts."
+  }
+ ]
+}

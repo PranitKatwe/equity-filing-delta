@@ -1,0 +1,218 @@
+{
+ "ticker": "VRTX",
+ "sector": "Health Care",
+ "filing_date": "2026-02-13",
+ "accession": "0000875320-26-000056",
+ "prior_accession": "0000875320-25-000053",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 25
+ },
+ "items": [
+  {
+   "text": "We invest significant resources in research and development to discover and develop transformative medicines for people with serious diseases.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about investing in R&D, no specific risk introduced."
+  },
+  {
+   "text": "We may be unable to sustain or increase revenues from sales of our CF medicines in the future for any number of reasons, including the potential introduction of competitive products or the inability to successfully develop and commercialize next-generation medications or medicines to treat people with CF who cannot benefit from our current CF medicines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing CF revenue sustainability risk with more detail on competitive and next-generation medicine factors."
+  },
+  {
+   "text": "Our concentrated source of revenue increases the risks associated with potential manufacturing or supply disruptions, safety issues that may be identified with respect to our CF medicines, and failure to gain and/or maintain market acceptance or adequate pricing or reimbursement for our CF medicines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the pre-existing revenue concentration risk with specific manufacturing/safety/pricing factors."
+  },
+  {
+   "text": "JOURNAVX may not gain or maintain market acceptance among physicians, patients, or payors due to various factors, including the availability of lower-cost alternatives, and sales, marketing, pricing, and/or distribution challenges associated with introducing a product into a highly competitive market.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific market-acceptance risk for the newly commercialized JOURNAVX product."
+  },
+  {
+   "text": "Furthermore, we may not succeed in developing JOURNAVX for additional indications or in advancing other product candidates, including NaV1.8 or NaV1.7 inhibitors, for the treatment of acute or peripheral neuropathic pain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about failing to develop JOURNAVX for additional indications or advance NaV1.8/1.7 inhibitor candidates."
+  },
+  {
+   "text": "Even if we obtain marketing approvals for these product candidates, they will face significant competition and there can be no assurance of commercial success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about competition for future product candidates without specifics."
+  },
+  {
+   "text": "We may not be able to increase or maintain CASGEVY product revenues.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding inability to grow or sustain CASGEVY revenues."
+  },
+  {
+   "text": "The future commercial success of CASGEVY depends on physicians, patients, or payors accepting it as medically useful, cost-effective, ethical, safe, and preferred with respect to current and potential future competitive therapies, and on 26 payors providing adequate reimbursement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the CASGEVY commercial success risk introduced just prior, adding acceptance criteria."
+  },
+  {
+   "text": "In addition to risks generally associated with the commercialization of medicines, the cell collection processes, manufacturing and other procedures required to manufacture and administer CASGEVY are more complex, resource-intensive, and operationally demanding than for small molecules.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific operational risk regarding the complexity of CASGEVY's manufacturing and administration process."
+  },
+  {
+   "text": "For example, the cost of manufacturing CASGEVY as a percentage of revenue is significantly higher than for our CF medicines.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a specific new financial detail about disproportionately high CASGEVY manufacturing costs."
+  },
+  {
+   "text": "Moreover, market acceptance continues to be dependent in part on the prevalence and severity of side effects associated with the procedure by which CASGEVY is administered, including those resulting from the myeloablative preconditioning regime.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific safety-related risk tied to the myeloablative preconditioning regimen for CASGEVY."
+  },
+  {
+   "text": "There can be no assurance that we will be able to increase or maintain our revenues from CASGEVY in future periods.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same CASGEVY revenue risk already stated in sentence 6/11 without new content."
+  },
+  {
+   "text": "Risks Related to Commercialization We are subject to pricing and reimbursement pressures that could have a material adverse effect on our business, revenues, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk factor header about pricing and reimbursement pressures."
+  },
+  {
+   "text": "Revenues from our products depend, to a large degree, on the extent to which the products are purchased by customers, such as wholesalers, pharmacies, and hospitals, and reimbursed by third-party payors, such as government health programs, commercial insurers, and managed health care organizations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate description of how revenues depend on payors and purchasers."
+  },
+  {
+   "text": "Increasingly, these third-party payors are becoming more critical in evaluating and reimbursing medicines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about payors becoming more critical, no new specifics."
+  },
+  {
+   "text": "The containment of health care costs continues to be a priority for many governments, and drug pricing has been a focus in this effort.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about cost containment being a policy priority, standard boilerplate."
+  },
+  {
+   "text": "The U.S. federal government and state legislatures and foreign governments have shown significant and evolving interest in implementing cost-containment programs, including price controls, restrictions on reimbursement, value-based and reference pricing, compulsory licensing, including the pursuit of so- called \u201cmarch in\u201d rights, and mandatory substitution with generic products, all of which could limit the prices of, or access to, our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic listing of government cost-containment mechanisms, standard risk factor language."
+  },
+  {
+   "text": "Decisions by third-party payors to not cover a product or restrict access to a product may shift over time and could reduce market acceptance of the product and limit product revenues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about payor coverage decisions affecting revenue."
+  },
+  {
+   "text": "We must also compete to be placed on formularies of managed care providers, as exclusion of our products from a formulary would limit usage by managed care providers and patients.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard formulary competition risk language."
+  },
+  {
+   "text": "In the U.S., pricing and access is primarily governed by practices of private managed care providers and institutional and governmental purchasers, federal laws and regulations related to Medicare and Medicaid, including the ACA and the IRA, and state activities, including the establishment of PDABs and price transparency rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new regulatory references (PDABs, price transparency rules) to the existing pricing/access risk discussion."
+  },
+  {
+   "text": "Furthermore, changes to the health care system enacted as part of health care reform in the U.S., as well as increased purchasing power of entities that negotiate on behalf of Medicare, Medicaid, and private payors, could result in further pricing pressures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about healthcare reform and purchasing power, standard boilerplate."
+  },
+  {
+   "text": "F or example, initiatives by the U.S. government to impose most-favored- nation pricing on U.S. prescription drug prices in government programs, including the recently proposed GUARD Model by the CMS.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory initiative (GUARD Model by CMS) not previously mentioned."
+  },
+  {
+   "text": "While there is significant uncertainty around the related executive orders and rulemaking, mandatory initiatives could result in reduced pricing and reimbursement for our products .",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on uncertainty from the newly introduced most-favored-nation pricing initiative."
+  },
+  {
+   "text": "Reimbursement for our products by governments, including the timing of any reimbursements, may also be affected by budgetary or political constraints, particularly in challenging economic environments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about budgetary/political constraints affecting reimbursement timing."
+  },
+  {
+   "text": "There is no assurance that coverage and reimbursement will continue for our current products or be available for our future products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language that reimbursement continuation is not assured."
+  },
+  {
+   "text": "Even if reimbursement is available, there is no assurance that the timing or level of reimbursement will be sufficient.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about reimbursement sufficiency."
+  },
+  {
+   "text": "Our failure to obtain or maintain adequate prices, coverage, or reimbursement for our products would have an adverse effect on our business, revenue and results of operations, could curtail or eliminate our ability to adequately fund our research and development programs and/or could cause a decline or volatility in our stock price.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary statement about adverse effects of failing to secure reimbursement."
+  },
+  {
+   "text": "27 Competing products and technological advances from our competitors may negatively affect our business and market position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk factor header about competition and technological advances."
+  },
+  {
+   "text": "Our products and product candidates face or may face competition from existing and potential competing products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that products face competition, no specifics."
+  },
+  {
+   "text": "See also Item 1., Business \u2013 Competition of this Annual Report on Form 10-K .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a risk statement."
+  },
+  {
+   "text": "Competing products may be more effective, safer, more effectively marketed, have lower prices or better coverage or reimbursement levels, eliminate or minimize the need for treatment with our products or product candidates, or have other differentiating factors that negatively affect the demand for our products or product candidates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of ways competing products could be superior."
+  },
+  {
+   "text": "If a competitor obtains approval and reimbursement before we do, approval and/or reimbursement of our products or product candidates could be delayed, denied, or otherwise adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitor approval timing affecting the company."
+  },
+  {
+   "text": "We compete with an array of companies and other organizations, including those that have substantially greater resources, more mature development, manufacturing and commercial organizations, and/or other competitive advantages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competing with larger, more resourced companies."
+  },
+  {
+   "text": "Smaller companies with innovative programs or technologies are frequently acquired by and enter into collaborations with larger competitors, which may result in the acceleration or enhancement of competitive programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about smaller companies being acquired by competitors."
+  },
+  {
+   "text": "We cannot predict the timing or impact of the introduction of competitive products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that timing of competitive products cannot be predicted."
+  },
+  {
+   "text": "If a competing product is successfully developed and commercialized for a patient population we are currently treating or are seeking to treat, our revenues, business or market position could be materially adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competing products affecting revenue/business/market position."
+  },
+  {
+   "text": "In addition, the release of new information, including clinical data and regulatory approval timelines, by our competitors regarding competitive products or potentially competitive product candidates can affect investors\u2019 perceptions regarding the prospects of our products and product candidates, and has caused and may in the future cause our stock price to decline or experience periods of significant volatility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitor information affecting investor perception and stock price."
+  },
+  {
+   "text": "After regulatory approval and launch, our products are used over longer periods of time and by larger populations of patients than during pre-approval clinical trials.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on post-approval usage patterns as part of existing safety monitoring risk discussion."
+  },
+  {
+   "text": "Additional clinical and non-clinical studies, such as for label expansions, new combinations or otherwise, may also be conducted after regulatory approval.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about additional post-approval studies being conducted, standard practice description."
+  },
+  {
+   "text": "Additionally, when post-marketing studies involve our marketed products, or an active pharmaceutical ingredient thereof, they can raise new safety issues for our existing products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that post-marketing studies could reveal new safety issues for existing marketed products."
+  }
+ ]
+}

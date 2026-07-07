@@ -1,0 +1,218 @@
+{
+ "ticker": "RL",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-05-21",
+ "accession": "0001628280-26-037074",
+ "prior_accession": "0001037038-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 23,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 4,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Supreme Court invalidated the IEEPA tariffs previously applied to our imports, after which the current administration announced a new round of tariffs under an alternative U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal development (Supreme Court invalidating IEEPA tariffs and a new round of tariffs under alternative authority) that materially changes the company's tariff risk landscape."
+  },
+  {
+   "text": "Court of International Trade issued an order directing U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further factual detail on the tariff refund litigation, expanding the existing tariff risk narrative rather than introducing a wholly new risk."
+  },
+  {
+   "text": "Customs and Border Protection to refund IEEPA tariffs that were previously collected, and in April 2026, U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing the specific refund process tied to the already-introduced tariff court ruling, expanding on the tariff risk."
+  },
+  {
+   "text": "Customs and Border Protection announced the refund process leveraging the Consolidated Administration and Processing of Entries Claim Portal through a phased rollout.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further procedural detail about the refund rollout, part of the same expanding tariff risk narrative."
+  },
+  {
+   "text": "Although we have taken steps to preserve our rights with respect to potential refunds, there can be no assurance that we will receive any refunds, in whole or in part.",
+   "category": "new_substantive_risk",
+   "rationale": "States explicit uncertainty over whether the company will actually recover tariff refunds, a concrete new financial risk."
+  },
+  {
+   "text": "In addition, changes in exchange rates of non-U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard foreign currency exchange risk language, consistent with typical existing FX risk disclosures."
+  },
+  {
+   "text": "Dollar currencies impact our financial results, as our operations incur certain other costs that are denominated in various other foreign currencies.",
+   "category": "reworded_same_meaning",
+   "rationale": "Elaborates on FX costs in generic terms, consistent with pre-existing currency risk disclosure."
+  },
+  {
+   "text": "Additionally, from a financial reporting perspective, the translation of our international subsidiaries' respective local currency operating results and financial position into U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes standard financial translation risk, a common boilerplate continuation of currency risk."
+  },
+  {
+   "text": "Such events may result in, among other things, government mandates or recommendations (including quarantines, travel restrictions, or other public safety measures), changes in consumer behavior and demand, and operational disruptions.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic description of pandemic-related disruptions, consistent with typical pre-existing public health risk language."
+  },
+  {
+   "text": "\" Our ability to successfully execute our growth strategy is subject to various risks and uncertainties, as described herein.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about growth strategy risks without specific new content."
+  },
+  {
+   "text": "In addition, customers are increasingly utilizing tools and devices powered by AI as part of their shopping experience.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new consumer behavior risk tied to AI-powered shopping tools, not previously disclosed."
+  },
+  {
+   "text": "The imposition of new tariffs could result in potential retaliatory tariffs from other countries and could continue to impact our supply chain costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on already-existing tariff risk by noting potential retaliatory tariffs affecting supply chain costs."
+  },
+  {
+   "text": "We compete with these companies primarily on the basis of brand strength, timeless style, quality, value, and service as further described in Item 1 \u2014 \" Business \u2014 Competition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive positioning statement with no new risk content."
+  },
+  {
+   "text": "However, significant counterfeiting and imitation of our products continue to exist, and emerging AI technologies may further facilitate the unauthorized replication, imitation, and distribution of products, branding, logos, marketing materials, and digital content that closely resemble our own.",
+   "category": "expanded_existing_risk",
+   "rationale": "Existing counterfeiting risk is expanded to include new AI-enabled counterfeiting capabilities."
+  },
+  {
+   "text": "See Item 1 \u2014 \" Business \u2014 Wholesale Credit Control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another section, no new risk content."
+  },
+  {
+   "text": "Our use and integration of artificial intelligence across our business presents risks and challenges that could adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding the company's use and integration of AI across its business."
+  },
+  {
+   "text": "We are increasingly evaluating and deploying AI technologies, including generative AI and machine learning, across various aspects of our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific detail on new AI deployment across business functions, expanding the newly introduced AI risk."
+  },
+  {
+   "text": "AI presents evolving risks that may be difficult to predict or mitigate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about AI risks being hard to predict, lacking specific substance."
+  },
+  {
+   "text": "These risks include heightened data privacy, cybersecurity, and data protection risks, as the use of AI may involve processing sensitive data and, in some cases, sharing data with third-party providers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new data privacy and cybersecurity risks tied to AI use and third-party data sharing."
+  },
+  {
+   "text": "Such use may increase the risk of unauthorized access to, misuse, or disclosure of confidential information or personal data, introduce system vulnerabilities, and enable more sophisticated fraud and cyber-attacks.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new risks of unauthorized access, fraud, and cyberattacks enabled by AI."
+  },
+  {
+   "text": "Any such event could result in operational disruptions, remediation costs, litigation, regulatory scrutiny, and reputational damage.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete consequences (operational disruption, litigation, reputational harm) from AI-related security risks."
+  },
+  {
+   "text": "AI tools and systems may be unavailable, fail to perform as intended, or produce inaccurate or misleading outputs, and may be vulnerable to manipulation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific operational risk of AI tool failure, inaccuracy, or manipulation."
+  },
+  {
+   "text": "When incorporated into our business processes, such risks could result in errors, inefficiencies, operational disruptions, or diminished customer experiences, and employees' use of AI tools may not always comply with our policies or controls.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific operational and compliance risks from AI misuse within business processes."
+  },
+  {
+   "text": "Further, we may rely on third-party AI technologies, cloud infrastructure, and data sets that could be subject to outages, security incidents, or changes in pricing or contractual terms, which may result in operational disruptions or the termination of our relationship with the providers of such technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new risk of reliance on third-party AI/cloud providers and associated disruptions."
+  },
+  {
+   "text": "AI-related activities also raise intellectual property, confidentiality, and content integrity risks, including potential claims that training data or outputs infringe third-party rights or that AI-generated content is inappropriate or inaccurate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new intellectual property and content risks tied to AI training data and outputs."
+  },
+  {
+   "text": "Such risks could result in disputes, liability, regulatory inquiries, and reputational damage.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete legal and reputational consequences stemming from AI-related IP risks."
+  },
+  {
+   "text": "Our ability to successfully develop and deploy AI depends on attracting, developing, and retaining talent with AI-related skills and expertise.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific talent-acquisition risk tied to AI expertise."
+  },
+  {
+   "text": "Competition for such talent is intense.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about talent competition being intense, without new specifics."
+  },
+  {
+   "text": "If we are unable to build and maintain necessary AI capabilities, including such talent, we may not realize anticipated efficiencies or innovation benefits, or we may be competitively disadvantaged relative to peers that more effectively leverage AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies competitive disadvantage risk if AI capabilities and talent are not developed, a concrete new risk."
+  },
+  {
+   "text": "Conversely, investments in AI may not deliver expected returns, particularly in the near term, if adoption is limited or performance does not meet expectations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific financial risk that AI investments may not yield expected returns."
+  },
+  {
+   "text": "The legal and regulatory environment governing AI is rapidly evolving.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific regulatory risk area: evolving AI legal frameworks."
+  },
+  {
+   "text": "Emerging laws and regulations in jurisdictions where we operate may impose new obligations, limit the use of AI, or require changes to our products, processes, or controls.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new regulatory risks including new obligations and restrictions on AI use."
+  },
+  {
+   "text": "Compliance with such requirements could increase costs and expose us to investigations, enforcement actions, fines, or litigation.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete compliance costs and enforcement risks tied to new AI regulation."
+  },
+  {
+   "text": "Any perceived or actual failure to use AI responsibly, including with respect to fairness, bias, transparency, or governance, or to meet evolving stakeholder expectations, could harm our brand and reputation, reduce customer trust, negatively impact our workforce, and subject us to increased regulatory scrutiny or litigation, any of which could adversely affect our business, financial condition, and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific reputational and regulatory risks tied to perceived misuse of AI, a new distinct risk factor."
+  },
+  {
+   "text": "Executive actions at the U.S. federal level and legislation in multiple U.S. states have sought to restrict or penalize corporate consideration of ESG factors, while jurisdictions in Europe and certain U.S. states have simultaneously expanded ESG-related mandates and disclosure requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory conflict risk regarding divergent ESG mandates across jurisdictions."
+  },
+  {
+   "text": "This increasingly divergent regulatory environment creates operational complexity and legal risk, as actions taken to comply with or advance citizenship and sustainability objectives in one jurisdiction may expose us to criticism, regulatory scrutiny, or potential penalties in another, including limitations on our ability to do business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the newly introduced ESG regulatory divergence risk, expanding its scope."
+  },
+  {
+   "text": "In January 2026, the OECD released administrative guidance containing a Side-by-Side (\"SbS\") system which modifies the operation of the OECD's Pillar Two Global Anti-Base Erosion (\"GloBE\") Model Rules.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new tax regulatory development (OECD Pillar Two SbS system) not previously disclosed."
+  },
+  {
+   "text": "The SbS system provides a safe harbor for multinational enterprise (\"MNE\") groups with an ultimate parent entity in the U.S., which will exempt a U.S. headquartered MNE group from the application of two of the three Pillar Two top-up taxes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on the newly introduced OECD tax rule, expanding on its implications."
+  },
+  {
+   "text": "In addition, in July 2025, the U.S. signed into law tax legislation commonly referred to as the One Big Beautiful Bill Act (\"OBBBA\"), which extended many of the provisions of the Tax Cuts and Jobs Act of 2017 and introduced additional tax provisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific tax law (OBBBA) with potential material impact on the business."
+  },
+  {
+   "text": "OBBBA, we cannot guarantee that such impacts will remain immaterial to our business in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced OBBBA risk by noting ongoing uncertainty about its future impact."
+  }
+ ]
+}

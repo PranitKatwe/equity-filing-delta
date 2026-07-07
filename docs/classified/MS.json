@@ -1,0 +1,188 @@
+{
+ "ticker": "MS",
+ "sector": "Financials",
+ "filing_date": "2017-02-27",
+ "accession": "0001193125-17-059212",
+ "prior_accession": "0001193125-16-473553",
+ "model": "claude-sonnet-5",
+ "n_added": 34,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "For further information regarding our country risk exposure, see also \u0093Quantitative and Qualitative Disclosures about Market Risk\u0097Risk Management\u0097Credit Risk\u0097Country Risk Exposure\u0094 in Item 7A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another section, no new risk content."
+  },
+  {
+   "text": "Additionally, we are subject to complex and evolving laws and regulations governing privacy and data protection, which may differ, and potentially conflict, in various jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding complex, evolving and potentially conflicting privacy/data protection laws across jurisdictions."
+  },
+  {
+   "text": "Liquidity and funding risk encompasses the risk that our financial condition or overall soundness is adversely affected by an inability or perceived inability to meet our financial obligations in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a definitional elaboration of liquidity/funding risk, expanding on an existing risk category rather than introducing a new one."
+  },
+  {
+   "text": "It also includes the associated funding risks triggered by the market or idiosyncratic stress events that may cause unexpected changes in funding needs or an inability to raise new funding.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the definition of liquidity/funding risk with more detail on triggers, expanding existing risk description."
+  },
+  {
+   "text": "The regulation of major financial firms, including the Firm, as well as of the markets in which we operate, is extensive and subject to ongoing change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about extensive and evolving regulation, standard cautionary framing."
+  },
+  {
+   "text": "In some areas, regulatory standards have not yet been finalized, are subject to final rulemaking or transition periods or may otherwise be revised in whole or in part.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that regulatory standards are unfinished or subject to revision, expanding the existing regulatory risk."
+  },
+  {
+   "text": "We expect legal and regulatory requirements to be subject to ongoing change for the foreseeable future, which may result in significant new costs to comply with new or revised requirements as well as to monitor for compliance on an ongoing basis.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ongoing compliance costs, typical cautionary language."
+  },
+  {
+   "text": "If the Federal Reserve and the FDIC were to jointly determine that our annual resolution plan submission was not credible or would not facilitate an orderly resolution, and if we were unable to address any defi- December 2016 Form 10-K 16 Table of Contents ciencies identified by the regulators, we or any of our subsidiaries may be subject to more stringent capital, leverage, or liquidity requirements or restrictions on our growth, activities, or operations, or after a two year period, we may be required to divest assets or operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new consequences (stringent capital/liquidity requirements, forced divestiture) tied to resolution plan credibility, a concrete new risk mechanism."
+  },
+  {
+   "text": "See \u0093Business\u0097Supervision and Regulation\u0094 in Part I, Item 1 and \u0093Management\u0092s Discussion and Analysis of Financial Condition and Results of Operations\u0097Liquidity and Capital Resources\u0097Regulatory Requirements\u0094 in Part II, Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to other filing sections, no substantive content."
+  },
+  {
+   "text": "Under the amended and restated support agreement, upon the occurrence of a resolution scenario, including one in which an SPOE strategy is used, the Parent Company will be obligated to contribute or loan on a subordinated basis all of its material assets, other than shares in subsidiaries of the Parent Company and certain intercompany payables, to provide capital and liquidity, as applicable, to its material subsidiaries.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new contractual obligation under the amended support agreement affecting capital structure and risk of loss allocation."
+  },
+  {
+   "text": "The obligations of the Parent Company under the amended and restated support agreement will be secured on a senior basis by the assets of the Parent Company (other than shares in subsidiaries of the Parent Company).",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the security arrangement introduced in the prior sentence, part of the same SPOE risk discussion."
+  },
+  {
+   "text": "As a result, claims of our material subsidiaries against the assets of the Parent Company (other than shares in subsidiaries of the Parent Company) will be effectively senior to unsecured obligations of the Parent Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues explaining the effect of the security arrangement on creditor priority, expanding the same risk."
+  },
+  {
+   "text": "Such unsecured obligations would be at risk of absorbing losses of the Parent Company and its subsidiaries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on loss absorption risk already introduced by the SPOE structure discussion."
+  },
+  {
+   "text": "The combined implication of the SPOE resolution strategy and the TLAC final rule is that our losses will be imposed on the holders of eligible long-term debt and other forms of eligible TLAC issued by the Parent Company before any losses are imposed on the holders of the debt securities of our operating subsidiaries or before putting U.S. taxpayers at risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new mechanism (TLAC/SPOE combined effect) detailing how losses are allocated to debt holders, a concrete new risk."
+  },
+  {
+   "text": "In addition, certain jurisdictions, including the U.K. and other E.U. jurisdictions, have implemented, or are in the process of implementing, changes to resolution regimes to provide resolution authorities with the ability to recapitalize a failing entity organized in such jurisdiction by writing down certain unsecured liabilities or converting certain unsecured liabilities into equity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of bail-in regimes in UK/EU jurisdictions affecting unsecured liabilities."
+  },
+  {
+   "text": "Such \u0093bail-in\u0094 powers are intended to enable the recapitalization of a failing institution by allocating losses to its shareholders and unsecured creditors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains the bail-in power just introduced, expanding on the same risk."
+  },
+  {
+   "text": "Non-U.S. regulators are also considering requirements that certain subsidiaries of large financial institutions maintain minimum amounts of total loss-absorbing capacity that would pass losses up from the subsidiaries to the Parent Company and, ultimately, to security holders of the Parent Company in the event of failure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the TLAC risk discussion regarding subsidiary loss absorption requirements."
+  },
+  {
+   "text": "We may be prevented from paying dividends or taking other capital actions because of regulatory constraints or revised regulatory capital standards.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a concrete new risk that regulatory constraints could prevent dividend payments or capital actions."
+  },
+  {
+   "text": "We are subject to comprehensive consolidated supervision, regulation and examination by the Federal Reserve, which requires us to submit, on an annual basis, a capital plan describing proposed dividend payments to shareholders, 17 December 2016 Form 10-K Table of Contents proposed repurchases of our outstanding securities, and other proposed capital actions that we intend to take.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides procedural detail about existing capital plan submission requirement, expanding known regulatory risk."
+  },
+  {
+   "text": "The Federal Reserve may object to, or otherwise require us to modify, such plan, or may object or require modifications to a resubmitted capital plan, any of which would adversely affect shareholders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a specific consequence (Fed objection to capital plan) within the already-introduced capital planning risk."
+  },
+  {
+   "text": "In addition, beyond review of the plan, the Federal Reserve may impose other restrictions or conditions on us that prevent us from paying or increasing dividends, repurchasing securities or taking other capital actions that would benefit shareholders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details additional restrictions the Fed could impose, expanding the same capital action risk."
+  },
+  {
+   "text": "Finally, the Federal Reserve may change regulatory capital standards to impose higher requirements that restrict our ability to take capital actions, or may modify or impose other regulatory standards that increase our operating expenses and reduce our ability to take capital actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing potential regulatory changes affecting capital actions, expanding the existing risk theme."
+  },
+  {
+   "text": "In other cases, including antitrust litigation, we may be subject to claims for joint and several liability with other defendants for treble damages or other relief related to alleged conspiracies involving other institutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal risk of joint and several liability in antitrust litigation with treble damages exposure."
+  },
+  {
+   "text": "Further, the Volcker Rule subjects us to regulatory scrutiny regarding certain transactions between us and our clients.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory scrutiny risk under the Volcker Rule regarding client transactions."
+  },
+  {
+   "text": "The U.K.\u0092s anticipated withdrawal from the E.U. could adversely affect us.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new macro/regulatory risk factor: the UK's withdrawal from the EU adversely affecting the company."
+  },
+  {
+   "text": "On June 23, 2016, the U.K. electorate voted to leave the E.U.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a historical fact (Brexit vote) without adding new risk analysis."
+  },
+  {
+   "text": "It is difficult to predict the future of the U.K.\u0092s relationship with the E.U., which uncertainty may increase the volatility in the global financial markets in the short- and medium-term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on uncertainty and potential market volatility stemming from the previously introduced Brexit risk."
+  },
+  {
+   "text": "Prime Minister has confirmed the U.K. will invoke Article 50 of the Lisbon Treaty by no later than the end of March 2017, subject to the passing of necessary legislation by the U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides procedural/timeline detail about Article 50 invocation, factual rather than risk-substantive."
+  },
+  {
+   "text": "This will trigger a two-year period, subject to extension, during which the U.K. government is expected to negotiate its withdrawal agreement with the E.U.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard negotiation timeline, factual context rather than new risk."
+  },
+  {
+   "text": "Absent any changes to this time schedule, the U.K. is expected to leave the E.U. in early 2019.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States expected timing of UK exit, factual detail without new risk substance."
+  },
+  {
+   "text": "The terms and conditions of the anticipated withdrawal from the E.U., and which of the several alternative models of relationship that the U.K. might seek to negotiate with the E.U., remain uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty of exit terms, expanding the Brexit risk already introduced."
+  },
+  {
+   "text": "However, the U.K. government has stated that the U.K. will leave the E.U. single market and will seek a phased period of implementation for the new relationship that may cover the legal and regulatory framework applicable to financial institutions with significant operations in Europe, such as the Firm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about UK leaving single market and transition period, expanding the Brexit-related regulatory risk."
+  },
+  {
+   "text": "Potential effects of the U.K. exit from the E.U. and potential mitigation actions may vary considerably depending on the timing of withdrawal and the nature of any transition or successor arrangements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further discusses variability of effects and mitigation, expanding on the already introduced Brexit risk."
+  },
+  {
+   "text": "Any future limitations on providing financial services into the E.U. from our U.K. operations could require us to make potentially significant changes to our operations in the U.K. and Europe and our legal structure there, which could have an adverse effect on our business and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new operational risk: potential limitations on providing financial services into the EU from UK operations requiring structural changes."
+  }
+ ]
+}

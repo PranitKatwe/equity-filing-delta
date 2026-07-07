@@ -1,0 +1,58 @@
+{
+ "ticker": "AON",
+ "sector": "Financials",
+ "filing_date": "2026-02-13",
+ "accession": "0001628280-26-008116",
+ "prior_accession": "0001628280-25-006093",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "9 \u2022 If our clients are not satisfied with our services, we may face additional cost, loss of profit opportunities, damage to our reputation, or legal liability. \u2022 Revenues from commission arrangements may fluctuate due to many factors, including cyclical or permanent changes in the insurance and reinsurance markets outside of our control. \u2022 The profitability of our operations may not meet our expectations due to unexpected costs, cost overruns, inflation, early contract terminations, unrealized assumptions used in our contract bidding process or the inability to maintain our prices.",
+   "category": "reworded_same_meaning",
+   "rationale": "These are generic bullet-point risk statements about client satisfaction, commission fluctuations, and profitability expectations that restate standard business risks without introducing new specific threats."
+  },
+  {
+   "text": "Any significant system or network disruption due to a breach in the security of our information technology systems could have a negative impact on our reputation, operations, sales, and operating results. \u2022 Improper disclosure of confidential, personal, or proprietary data could result in regulatory scrutiny, legal liability, or harm to our reputation. \u2022 Regulation in the areas of data privacy, data protection, data management, data transfer, data localization, artificial intelligence, and cybersecurity could increase our costs and affect or limit our business opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing cybersecurity/data privacy risk disclosure by adding new specific regulatory domains like artificial intelligence and data localization, expanding scope rather than introducing a wholly new risk category."
+  },
+  {
+   "text": "Risks Related to Being an Irish-incorporated Company \u2022 We are incorporated in Ireland, and Irish law differs from the laws in effect in the U.S. and may afford less protection to holders of our securities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category tied to the company's Irish incorporation and differences in Irish law affecting shareholder protections, which is a concrete new legal/jurisdictional risk."
+  },
+  {
+   "text": "Furthermore, our subsidiaries may be unable to make timely payments to us when needed, which could impair our ability to meet our obligations, pay dividends, repurchase shares, or fund other aspects of our operations and corporate expenses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that subsidiaries may fail to make timely payments, directly threatening the company's ability to meet obligations, pay dividends, or fund operations."
+  },
+  {
+   "text": "Increased scrutiny of corporate sustainability claims, and changes in client and investor preferences may also create legal, regulatory, contractual, and reputational risks and could require changes to our products, services, client engagements or operations, which may increase our cost of doing business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk area around sustainability/ESG scrutiny and its potential legal, regulatory, and reputational impacts requiring operational changes."
+  },
+  {
+   "text": "Accepting this revenue is a lawful and generally commercially accepted business practice that may nonetheless be subject to scrutiny by various regulators under conflict of interest, anti-trust, unfair competition and anti-bribery laws and regulations, subject to legal or regulatory change, or negatively impacted by internal controls that are not fully effective.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that certain revenue practices could face regulatory scrutiny under antitrust, anti-bribery, and conflict of interest laws, a concrete legal exposure not previously described."
+  },
+  {
+   "text": "We are constantly working to attract, develop, and retain these professionals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing efforts to attract and retain talent, lacking any specific new risk detail."
+  },
+  {
+   "text": "Regulation in the areas of data privacy, data protection, data management, data transfer, data localization, artificial intelligence, and cybersecurity could increase our costs and affect or limit our business opportunities.",
+   "category": "reworded_same_meaning",
+   "rationale": "Identical language to part of item 1, restating the same regulatory risk about data privacy and AI without adding new substance."
+  }
+ ]
+}

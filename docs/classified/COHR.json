@@ -1,0 +1,218 @@
+{
+ "ticker": "COHR",
+ "sector": "Information Technology",
+ "filing_date": "2025-08-15",
+ "accession": "0000820318-25-000014",
+ "prior_accession": "0000820318-24-000016",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 39
+ },
+ "items": [
+  {
+   "text": "Our principal U.S. production and R&D operations, in alphabetical order, are located in California, Connecticut, Delaware, New Jersey, Pennsylvania, and Texas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual listing of manufacturing/R&D locations, no risk content."
+  },
+  {
+   "text": "We believe our diverse manufacturing base sets us apart, especially at a time when supply chain resiliency is strongly valued by our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive marketing statement about manufacturing diversity, not a risk disclosure."
+  },
+  {
+   "text": "Occupational Health and Safety .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header with no substantive content."
+  },
+  {
+   "text": "Talent Acquisition, Employee Development, and Learning .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header with no substantive content."
+  },
+  {
+   "text": "In connection with universities, we are focused on an internship and apprentice program that builds our early career hire talent pool.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an internship/apprentice program; informational, not a risk."
+  },
+  {
+   "text": "Overall, our key differentiators are our deep technology expertise combined with our ability to deliver volume solutions at scale.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive differentiators, not a risk."
+  },
+  {
+   "text": "We use rare-earth materials in some of our production processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific dependency on rare-earth materials, which implies supply chain/material risk not previously disclosed."
+  },
+  {
+   "text": "Like with other materials, we are constantly working to strengthen and diversify our supply chain for resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mitigation language about supply chain resilience efforts, no new risk detail."
+  },
+  {
+   "text": "These strategies include maintaining additional buffer stocks and securing multiple sources to ensure resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes mitigation strategies (buffer stock, multiple sourcing), not a new risk."
+  },
+  {
+   "text": "Networking \u2022 Transceivers, systems, subsystems, modules, components, optics, and semiconductor devices for datacenter and communications applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product listing for Networking segment, descriptive only."
+  },
+  {
+   "text": "Materials 8 \u2022 Engineered materials, laser optics, thermoelectric components, and advanced ceramic and metal-matrix composite materials and products. \u2022 VCSELs, EELs, pump lasers, high-power lasers for materials processing, and ICs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product listing for Materials segment, descriptive only."
+  },
+  {
+   "text": "Lasers \u2022 Excimer lasers, solid-state lasers, CO 2 lasers, and laser systems for a variety of industrial applications, including semiconductor capital equipment, display manufacturing, precision manufacturing, and scientific research. \u2022 Laser systems and subsystems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product listing for Lasers segment, descriptive only."
+  },
+  {
+   "text": "Markets For fiscal year 2025, we report revenues of our business segments in the following markets: communications, industrial, instrumentation and electronics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes revenue reporting categories, administrative detail."
+  },
+  {
+   "text": "Effective July 1, 2025, for our fiscal year 2026, the Company realigned its organizational structure into two reporting segments which mirror the markets that they report into: (i) Datacenter and Communications, and (ii) Industrial.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes organizational segment realignment, structural/administrative, not a risk statement."
+  },
+  {
+   "text": "We have been experiencing significant growth in AI and ML in the datacom market vertical.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes growth in AI/ML datacom market, a positive business trend not framed as risk."
+  },
+  {
+   "text": "We have in-house laser design and manufacturing capability for GaAs-based VCSELs, InP-based DMLs, EMLs, and CW lasers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes in-house manufacturing capability, descriptive only."
+  },
+  {
+   "text": "Our portfolio also includes silicon photonics and a broad array of CPO-enabling technologies. \u2022 Telecom Market Vertical.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product portfolio additions, descriptive only."
+  },
+  {
+   "text": "Our Telecom products include coherent transmission components and transceivers as well as transport products such as 980 nm and 14xx pump lasers, erbium-doped fiber amplifiers, passive components, OCM, OTDR, ROADM and Optical line systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists telecom product offerings, descriptive only."
+  },
+  {
+   "text": "Our excimer laser-based annealing systems can improve precision, combining high-spatial precision and selectivity for LTPS OLED display production.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes technical capabilities of laser systems, descriptive only."
+  },
+  {
+   "text": "Our CO 2 lasers and UV ultrashort-pulsed lasers are used for cutting applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes laser applications, descriptive only."
+  },
+  {
+   "text": "11 During the fiscal year ended June 30, 2025, we focused our R&D investments in the following areas: Networking Area of Development: Our R&D Investments: Photonics design Continue to develop and improve crystal materials, precision optical parts, and laser device components for photonics applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes R&D investment areas, descriptive only."
+  },
+  {
+   "text": "Datacom transceivers and components for datacom transceivers 800G/1.6T transceivers, CPO, VCSELs, EMLs, silicon photonics, ICs, isolators, and thermoelectric coolers; 400G/lane components supporting 3.2T and 6.4T.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists datacom transceiver technologies, descriptive only."
+  },
+  {
+   "text": "Optical circuit switch (OCS) Develop the OCS product family for AI/ML and hyperscale datacenters based on our digital liquid-crystal technology.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes OCS product development plans, descriptive only."
+  },
+  {
+   "text": "Coherent transceivers Drive further integration to reduce size and power consumption; increase bandwidth to enable 100G/200G/400G/800G coherent transceivers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes coherent transceiver R&D goals, descriptive only."
+  },
+  {
+   "text": "Pump lasers Continue to invest in our next-generation GaAs pump laser portfolio to address evolving terrestrial and undersea markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes pump laser R&D plans, descriptive only."
+  },
+  {
+   "text": "Advanced optics manufacturing High-precision and more compact optics and automated assembly platforms and packages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes optics manufacturing R&D focus, descriptive only."
+  },
+  {
+   "text": "Materials Area of Development: Our R&D Investments: High-power lasers and semiconductor lasers Increase output power and reliability of EEL diodes, VCSELs, InP lasers, and detectors for a variety of applications across our markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes laser/semiconductor R&D goals, descriptive only."
+  },
+  {
+   "text": "SiC epitaxial wafers Continuous improvement to maintain world-class, high-quality, large-diameter substrates and epitaxial wafers; develop SiC epitaxial wafers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes SiC wafer R&D goals, descriptive only."
+  },
+  {
+   "text": "Thermoelectric materials and devices Continue to develop leading Bi 2 Te 3 materials for thermoelectric cooling/heating; focus on thermoelectric power-generation capability in order to introduce new products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes thermoelectric material R&D goals, descriptive only."
+  },
+  {
+   "text": "Lasers Area of Development: Our R&D Investments: Diode-pumped solid-state lasers Continue to develop solid-state lasers for industrial applications for materials processing, instrumentation, and scientific applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes solid-state laser R&D goals, descriptive only."
+  },
+  {
+   "text": "Ultrafast fiber lasers Continue to develop industrial femtosecond fiber lasers for semiconductor capital equipment and display manufacturing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes fiber laser R&D goals, descriptive only."
+  },
+  {
+   "text": "Femtosecond oscillators and amplifiers Continue to develop ultrafast laser systems for scientific applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ultrafast laser R&D goals, descriptive only."
+  },
+  {
+   "text": "Optically pumped semiconductor lasers Continue to broaden the product portfolio of CW, visible, and ultraviolet OPSLs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes OPSL product development, descriptive only."
+  },
+  {
+   "text": "Semiconductor lasers Increase output power of GaAs- and InP-based edge-emitting semiconductor lasers for laser pumping, and industrial applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes semiconductor laser R&D goals, descriptive only."
+  },
+  {
+   "text": "Excimer lasers and excimer laser tools Continue to support existing excimer laser-based applications in display manufacturing, instrumentation, and materials processing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes excimer laser applications, descriptive only."
+  },
+  {
+   "text": "12 CO 2 lasers Continue to develop CO 2 lasers used in industrial applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes CO2 laser R&D goals, descriptive only."
+  },
+  {
+   "text": "Laser tools Continue to develop laser-based tools used for marking, cutting, and welding applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes laser tool R&D goals, descriptive only."
+  },
+  {
+   "text": "R&D expenditures were $582 million, $479 million, and $500 million for the fiscal years 2025, 2024, and 2023, respectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides R&D expenditure figures, factual financial data, not a risk statement."
+  },
+  {
+   "text": "He brings over 25 years of experience in the technology and semiconductor industries, with a strong track record in innovation-driven businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not related to risk factors."
+  },
+  {
+   "text": "He also sits on the Americas Executive Board for the MIT Sloan School of Management and the U.S.-Japan Business Council.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not related to risk factors."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "GEN",
+ "sector": "Information Technology",
+ "filing_date": "2026-05-21",
+ "accession": "0000849399-26-000017",
+ "prior_accession": "0000849399-25-000033",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 38
+ },
+ "items": [
+  {
+   "text": "These laws are complex and may be subject to differing interpretations by tax authorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about tax law complexity and differing interpretations, common boilerplate risk language without specific new detail."
+  },
+  {
+   "text": "As a result, we may be required to pay additional taxes, interest, or penalties in various jurisdictions, which could adversely affect our results of operations. \u2022 Our ability to use our deferred tax assets to offset future taxable income may be limited.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of additional tax liabilities and limitations on use of deferred tax assets, a concrete financial risk not previously described."
+  },
+  {
+   "text": "Company Overview Gen Digital Inc. is a global leader in consumer Cyber Safety and Trust-Based Solutions, empowering people around the world to live safer digital lives while building confidence and control over their financial futures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Company overview/business description, not a risk statement."
+  },
+  {
+   "text": "Through its trusted brands including Norton, Avast, LifeLock, and MoneyLion, Gen helps people protect what matters most \u2014 their data, identity, privacy, reputation and financials \u2014 through award-winning cyber-security, online privacy, identity protection and financial wellness solutions used by nearly 500 million users in more than 150 countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes brand portfolio and user base, marketing/business description rather than a risk."
+  },
+  {
+   "text": "Today, digital life and financial life are increasingly intertwined, reshaping how people work, bank, shop, learn, connect and manage their households every day.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General market trend commentary, not a specific risk."
+  },
+  {
+   "text": "Advances in cloud computing, mobile platforms, and artificial intelligence (AI) have expanded how consumers interact and transact online, and we expect technological advancements to continue to unlock new possibilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General technology trend description, not a risk statement."
+  },
+  {
+   "text": "At the same time, the expansion of consumers\u2019 digital footprint is increasing exposure to cyber risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing about increasing cyber risk exposure, lacks specific new risk detail."
+  },
+  {
+   "text": "Cybercriminals are combining long-standing techniques such as phishing, vishing and smishing with data-driven social engineering, deepfakes, account-takeover attacks and abuse of generative-AI systems and AI agents to execute increasingly sophisticated scams, fraud and other attacks that target people\u2019s identities, privacy and finances.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific and evolving attack techniques (deepfakes, generative AI abuse, account-takeover) representing a new specific threat vector."
+  },
+  {
+   "text": "In this environment, we provide solutions designed to help consumers secure, control and manage their digital and financial lives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company's solution offerings, not a risk."
+  },
+  {
+   "text": "We also offer personal finance products, tools and content that deliver actionable insights and guidance to users.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business description of product offerings."
+  },
+  {
+   "text": "We also distribute both first-party and third-party product offerings through integrated marketplaces and other partner platforms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes distribution channels, business description not risk."
+  },
+  {
+   "text": "We also offer our integrated core suite of financial products and services through our mobile applications and marketplace services. \u2022 Indirect partner distribution channels: We use strategic and affiliate partner distribution channels to refer prospective customers to us and expand our reach to our partners\u2019 and affiliates\u2019 customer bases.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business description of distribution channels."
+  },
+  {
+   "text": "6 Table of Contents \u2022 Consumer and Enterprise marketplace: The acquisition of MoneyLion further expanded our go-to-market reach through a consumer and enterprise marketplace, which is branded Engine by Gen.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes acquisition and marketplace branding, business description."
+  },
+  {
+   "text": "Consumers can access a broad range of personalized and actionable offers for both financial and non-financial products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product offerings to consumers, business description."
+  },
+  {
+   "text": "For more than a decade, we have protected people\u2019s digital lives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical company narrative, not a risk."
+  },
+  {
+   "text": "Today, we are building something larger: a platform that moves beyond protection into full empowerment \u2014 giving people the confidence, tools, and insights to control, manage and grow their digital and financial lives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Aspirational company vision statement, not a risk."
+  },
+  {
+   "text": "Securing Digital Lives: Extending and deepening our leadership in cyber safety by leveraging technology innovation to protect consumers, families, and small businesses against an evolving and increasingly sophisticated threat landscape, including emerging risks from AI-generated scams, deepfakes, and agentic threats, while delivering proactive, personalized safety companion across devices, browsers, and AI agents.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Strategic goal description mentioning AI threats generally, framed as business strategy not a distinct risk factor."
+  },
+  {
+   "text": "Empowering Financial Wellness: Expanding our trusted solutions platform to empower consumers to protect, manage and grow their financial lives \u2014 through identity protection, financial fraud protection, credit monitoring, earned wage access, personalized financial product insights, and a recommended platform of trusted third-party financial solutions \u2014 deepening the customer relationship from protection into empowerment and financial decision-making and compounding lifetime value across the platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business strategy description of financial wellness offerings."
+  },
+  {
+   "text": "Scaling Gen\u2019s AI-Powered Platform Delivering a Trust Layer: Connecting our ecosystem of brands, products, and partners through a unified data and AI infrastructure to deliver personalized, proactive, and increasingly automated experiences \u2014 closing the gap between what AI can do and what consumers trust it to do.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes platform strategy, business description."
+  },
+  {
+   "text": "Our platform turns user-permissioned data into trusted recommendations and actionable intelligence, positioning Gen as the trust layer for the AI economy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes platform value proposition, business description."
+  },
+  {
+   "text": "AI is simultaneously enabling more sophisticated attacks and more powerful defenses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about AI's dual role, generic framing without specific new risk."
+  },
+  {
+   "text": "Our strategy is to lead in both defense and empowerment, deploying AI-native capabilities such as our advanced scam detection engine, agentic security, and privacy protection solutions that anticipate threats before they materialize.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company's strategic AI capabilities, business description."
+  },
+  {
+   "text": "Our telemetry across devices, identities, and financial signals powers a flywheel: more data improves detection, better detection builds trust, and trust drives growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes data flywheel strategy, business description."
+  },
+  {
+   "text": "We have access to numerous first party financial products through MoneyLion as well as our Engine marketplace that extends distribution through partners, increasing the number of consumers that see our value proposition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes distribution partnerships, business description."
+  },
+  {
+   "text": "We believe continued investment in these distribution channels, combined with the breadth of our first-party and third-party product portfolio, will allow us to efficiently acquire new customers across cyber safety and financial wellness. \u2022 Deepen customer value through cross-sell of all of our services: security, privacy, identity, reputation, and financial protection and empowerment: We believe our approximately 500 million users \u2014 including 79 million paid customers \u2014 represent a significant and underleveraged opportunity to deliver trusted financial solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes growth strategy and customer base, business description."
+  },
+  {
+   "text": "Our Engine marketplace connects consumers with over 600 third-party financial product providers across lending, insurance, credit, and banking, represents a hosted decisioning engine.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes marketplace partner network, business description."
+  },
+  {
+   "text": "We leverage our identity and behavioral data advantages to deliver personalized financial product recommendations to existing customers, increasing average revenue per user and strengthening the overall value of the Gen relationship.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes data-driven recommendation strategy, business description."
+  },
+  {
+   "text": "Comprehensive cyber safety membership adoption \u2014 integrating security, identity, privacy, and financial wellness into a single trusted relationship \u2014 reinforces our view that the future of cyber safety lies in all-in-one solutions and ultimately a seamless secure trust layer. \u2022 Leverage our global brands and partner network to drive reach and innovation: We will continue building our family of trusted brands globally \u2014 Norton, Avast, LifeLock, MoneyLion and more \u2014 as we expand protection and empowerment to consumers across more than 150 countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes brand and market expansion strategy, business description."
+  },
+  {
+   "text": "We will also continue to invest in our partner network, which includes over 650 channel partners and over 600 third-party product providers in Engine by Gen, to enrich the choices available to our customers and accelerate our reach into new markets and customer segments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes partner network scale, business description."
+  },
+  {
+   "text": "7 Table of Contents \u2022 Scale our AI-powered platform to drive compounding growth: We are investing in a unified data and AI platform that gives consumers structured, secure access to their most important information and puts the power of distribution in their hands, while connecting our brands, products, and third-party partners into a single intelligent ecosystem.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI platform investment strategy, business description."
+  },
+  {
+   "text": "This platform enables hyper-personalized recommendations, faster AI innovation across our portfolio, and new revenue streams through trust, data, and decisioning services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes platform benefits, business description."
+  },
+  {
+   "text": "Over time, we expect it to shift our growth model from linear subscription economics toward compounding network effects, as each customer and partner interaction enriches the ecosystem. \u2022 Build the trust layer for the AI economy: As AI agents move onto consumer devices, browsing the web and executing code on the user\u2019s behalf, the security stakes have fundamentally changed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes growth model evolution, business description."
+  },
+  {
+   "text": "We are building the trust layer for consumer AI: an AI-native browser, agentic protection integrated into our core memberships including an agentic VPN, and an agentic skill scanner establishing our platform as the security foundation for AI adoption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new AI-native product initiatives, business description not risk."
+  },
+  {
+   "text": "We evaluate potential opportunities based on a variety of factors, including their strategic fit, ability to drive long-term value creation, operational and technological synergies, customer and user expansion opportunities, and financial returns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes M&A evaluation criteria, business description."
+  },
+  {
+   "text": "Our approach to acquisitions and other strategic transactions is guided by our financial discipline and balanced with our broader capital allocation priorities, which may include investments in innovation and growth initiatives, debt repayment, dividends, and share repurchases.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes capital allocation strategy, business description."
+  },
+  {
+   "text": "Operating Segment Information We present financial information for our Cyber Safety Platform and Trust-Based Solutions operating segments to provide investors with greater transparency into the performance and drivers of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes segment reporting structure, business description."
+  },
+  {
+   "text": "These segments reflect how our Chief Operating Decision Maker (our Chief Executive Officer) evaluates results, allocates resources, and assesses growth opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes management reporting structure, business description."
+  },
+  {
+   "text": "By distinguishing between our core cybersecurity offerings and our Trust-Based Solutions, we enable investors to better understand the distinct market dynamics, revenue growth, and profitability profiles of each segment, as well as how they collectively support our long-term strategy and value creation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes segment reporting rationale, business description."
+  },
+  {
+   "text": "Our Cyber Safety Platform Segment Cyber Safety Platform includes our security, comprehensive suites, and privacy products, which deliver technology solutions and superior threat protection to help people navigate the digital world, securely, privately and with confidence.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes Cyber Safety Platform segment offerings, business description."
+  },
+  {
+   "text": "We develop our broad portfolio of Cyber Safety products and services based on consumer insights and continuously enhance our offerings through product innovation and technology integration, including acquired capabilities, to outpace evolving threats.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product development approach, business description."
+  }
+ ]
+}

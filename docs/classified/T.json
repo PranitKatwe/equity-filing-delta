@@ -1,0 +1,63 @@
+{
+ "ticker": "T",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-09",
+ "accession": "0000732717-26-000120",
+ "prior_accession": "0000732717-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "In addition, many of these inputs are subject to price fluctuations from a number of factors, including, but not limited to, market conditions, demand for raw 7 AT&T Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about price fluctuations affecting input costs from typical market factors, a common risk framing without new specifics."
+  },
+  {
+   "text": "Recent spending by hyperscalers and others to support AI is beginning to pressure supply chains for goods such as semiconductors and other network components.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: AI-driven hyperscaler demand pressuring supply chains for semiconductors and network components."
+  },
+  {
+   "text": "Dollars in millions except per share amounts legislation at state, federal and foreign government levels to change or increase regulation on our operations, which could result in additional costs of compliance or litigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reference to potential legislative/regulatory changes at various government levels, a standard compliance risk statement without specific new detail."
+  },
+  {
+   "text": "In addition, a sustained decline in a reporting unit\u2019s revenues and earnings has resulted in the past, and may 9 AT&T Inc.",
+   "category": "expanded_existing_risk",
+   "rationale": "Fragment referencing sustained decline in reporting unit revenues/earnings, likely elaborating on existing goodwill impairment risk discussion."
+  },
+  {
+   "text": "In certain circumstances, we could be liable for the actions of our suppliers and other third parties we do business with.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new liability exposure risk related to actions of suppliers and third parties."
+  },
+  {
+   "text": "In addition, any such initiative or investment entails certain risks and could present financial, managerial and operational challenges.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about risks of initiatives/investments without specifying particular new risk content."
+  },
+  {
+   "text": "AI-related laws and regulations continue to remain uncertain and may vary from jurisdiction to jurisdiction.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory uncertainty risk tied to AI laws varying by jurisdiction."
+  },
+  {
+   "text": "There can be no assurance that the usage of AI will meaningfully enhance our 11 AT&T Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary disclaimer that AI usage may not meaningfully enhance business, standard forward-looking hedge language."
+  },
+  {
+   "text": "Our system redundancy and other measures we take to 12 AT&T Inc.",
+   "category": "expanded_existing_risk",
+   "rationale": "Fragment referencing system redundancy measures, likely expanding on existing operational/technology risk discussion."
+  }
+ ]
+}

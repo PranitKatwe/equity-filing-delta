@@ -1,0 +1,183 @@
+{
+ "ticker": "CTVA",
+ "sector": "Materials",
+ "filing_date": "2026-02-12",
+ "accession": "0001755672-26-000004",
+ "prior_accession": "0001755672-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 33,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 24,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "On December 6, 2025, President Trump issued an executive order titled \u201cAddressing Security Risks from Price Fixing and Anti\u2011Competitive Behavior in the Food Supply Chain.\u201d The order directs the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new executive order creating federal task forces investigating anti-competitive conduct and foreign control in the food/seed supply chain, a concrete new regulatory risk."
+  },
+  {
+   "text": "Department of Justice (\"DOJ\") and the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment naming the DOJ as part of the sentence describing the executive order; no independent substantive content."
+  },
+  {
+   "text": "Federal Trade Commission (\"FTC\") to establish Food Supply Chain Security Task Forces focused on investigating anti\u2011competitive conduct across food supply sectors, including seeds, and, critically, assessing whether control by foreign entities is increasing US food prices or creating national or economic security risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Details the specific scope of investigation, including foreign entity control and national/economic security risk assessment, a concrete new risk area."
+  },
+  {
+   "text": "RISK FACTORS, continued Recent funding and staff reductions, including at the EPA, the USDA, the FDA and the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk that recent federal staff/funding cuts could delay regulatory approvals, a specific operational risk not previously disclosed."
+  },
+  {
+   "text": "Department of Health and Human Services (\"HHS\"), could hinder our ability to receive timely regulatory approvals.",
+   "category": "new_substantive_risk",
+   "rationale": "States the direct consequence of the funding/staff reductions on regulatory approval timing, completing the new risk introduced in the prior sentence."
+  },
+  {
+   "text": "Corteva\u2019s genetically modified seed products are subject to regulatory oversight under the Coordinated Framework for the Regulation of Biotechnology, which includes the regulatory authority of the USDA addressing plant safety, as well as the authority of the FDA for food and feed safety.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing regulatory framework (Coordinated Framework, USDA/FDA authority) as background, not a new or expanded risk."
+  },
+  {
+   "text": "Corteva\u2019s pesticidal crop protection products and certain biotechnology developed seed products that express pesticidal traits are also regulated by the EPA to verify that there is no unreasonable adverse effect to the environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing EPA regulatory oversight of pesticidal products; standard background/context, not new risk."
+  },
+  {
+   "text": "For Corteva\u2019s crop protection products, the EPA is responsible for registering and overseeing the approval and marketing of pesticides, while the USDA and the FDA monitor levels of pesticide residue permitted on or in crops.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing regulatory roles of EPA, USDA, FDA regarding pesticide residues; background context, not new risk."
+  },
+  {
+   "text": "See \"Part I \u2013 Item 1 \u2013 Business \u2013 Regulatory Considerations\" of this report for more information on the regulation of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the report; purely administrative/boilerplate."
+  },
+  {
+   "text": "Significant staff or funding reductions, along with any extended shutdown of the federal government, may significantly impact the timelines for reviewing our regulatory submissions and re-registrations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the previously stated funding/staff reduction risk by adding potential government shutdown impact on regulatory review timelines."
+  },
+  {
+   "text": "Longer-term structural changes at relevant federal agencies, including shifts in enforcement focus, review processes, evidentiary standards and resource allocation, may extend the time it takes to commercialize our products, thereby having a material adverse effect on our business, results of operations, and the value of our intellectual property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the regulatory delay risk by describing longer-term structural changes at agencies affecting commercialization timelines."
+  },
+  {
+   "text": "Furthermore, significant changes in trade, tax, and other related policies or enforcement may pose business and financial risks, including raising the cost of manufacturing inputs and altering customer demands.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding trade, tax and policy changes affecting manufacturing costs and customer demand."
+  },
+  {
+   "text": "The litigation involving Monsanto\u2019s Roundup \u00ae non-selective 16 Table Of Contents Part I ITEM 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing existing Roundup litigation section header; no new substantive content shown."
+  },
+  {
+   "text": "21 Table Of Contents Part I ITEM 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table of contents/section heading text, purely structural."
+  },
+  {
+   "text": "Risks related to our Proposed Separation Corteva is subject to risks related to its plans to separate its seed and crop protection businesses in a spin-off that will result in two standalone public companies, including that the proposed separation may not be completed on the contemplated timeline or at all and may not achieve the intended benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new major risk category related to a proposed corporate spin-off separation of business units."
+  },
+  {
+   "text": "On October 1, 2025, Corteva announced its intent to separate its Seed and Crop Protection businesses into two standalone, publicly traded companies, in a transaction that is intended to qualify as a tax-free spin-off for U.S. federal income tax purposes (the \u201cProposed Separation\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a specific new corporate transaction (spin-off) not previously disclosed, a concrete new business risk driver."
+  },
+  {
+   "text": "The Proposed Separation is subject to the satisfaction of a number of customary conditions, 22 Table Of Contents Part I ITEM 1A.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific conditions required for the new separation transaction, a concrete new risk factor."
+  },
+  {
+   "text": "RISK FACTORS, continued including, among others, the filing and effectiveness of a Form 10 registration statement with the SEC, receipt of a tax opinion from external counsel to the effect that, among other things, the transaction will qualify as a tax-free spin-off, and final approval by Corteva\u2019s Board of Directors.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete regulatory and tax conditions for the new separation, adding specific risk detail."
+  },
+  {
+   "text": "The ultimate timing of the Proposed Separation will depend on the readiness of each business to operate as an independent public company and the finalization of appropriate capital structures for each.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new uncertainty around timing dependent on operational and capital readiness for the separation."
+  },
+  {
+   "text": "The failure to satisfy all of the required conditions for the Proposed Separation, as well as unanticipated developments, could delay, prevent or otherwise adversely affect the Proposed Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "States new risk that failure to meet conditions could delay or prevent the separation."
+  },
+  {
+   "text": "These potential developments, many of which are outside of Corteva\u2019s control, include, but are not limited to, disruptions in general or financial market conditions, material adverse changes in business or industry conditions, unanticipated costs, difficulties or delays in obtaining various regulatory and tax approvals or clearances, and stakeholder actions or challenges relating to the Proposed Separation or to other aspects of Corteva\u2019s business or strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "Lists specific new risk factors (market disruption, regulatory delays, stakeholder challenges) related to the separation."
+  },
+  {
+   "text": "Executing the Proposed Separation will require significant time and attention from Corteva\u2019s senior management and employees, which could disrupt Corteva\u2019s ongoing business, negatively impact Corteva\u2019s relationships with employees, suppliers, customers, distributors, licensors and other stakeholders and adversely affect Corteva\u2019s financial results and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of management distraction and stakeholder relationship harm from executing the separation."
+  },
+  {
+   "text": "There can be no assurances that Corteva will be able to complete the Proposed Separation on the terms or on the timeline that was announced, if at all, or that the complexities, costs and dis-synergies associated with the Proposed Separation will not be significant or exceed expectations.",
+   "category": "new_substantive_risk",
+   "rationale": "States new uncertainty about completing the separation on expected terms/timeline and potential unexpected costs."
+  },
+  {
+   "text": "Moreover, although Corteva expects to maintain an investment grade credit rating, a downgrade in Corteva\u2019s rating may lead to increased borrowing costs for Corteva.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of credit rating downgrade and increased borrowing costs tied to the separation."
+  },
+  {
+   "text": "In addition, there may be increased borrowing costs associated with the re-allocation or taking on of new debt in connection with the Proposed Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new risk of increased borrowing costs from debt reallocation related to the separation."
+  },
+  {
+   "text": "If the Proposed Separation is completed, Corteva may not be able to achieve the full strategic and financial benefits that are expected to result from the Proposed Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "States new risk that expected strategic/financial benefits of separation may not be realized."
+  },
+  {
+   "text": "Following the Proposed Separation, the Seed and Crop Protection businesses will bear the full costs and responsibilities of operating a standalone public company and these dis-synergies may exceed expectations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of standalone operating costs and dis-synergies exceeding expectations post-separation."
+  },
+  {
+   "text": "Moreover, the Seed and Crop Protection businesses will each be smaller, less diversified enterprises, and as a result, the separated companies may be more exposed to industry-specific risks and changing market conditions than Corteva is today.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that resulting smaller, less diversified companies will be more exposed to industry-specific risks."
+  },
+  {
+   "text": "The Proposed Separation also may prompt existing stockholders to divest holdings that no longer align with their investment objectives, potentially affecting the trading value of each company\u2019s common stock following the Proposed Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of stockholder divestment affecting stock trading value due to the separation."
+  },
+  {
+   "text": "Further, there can be no assurance that the combined value of the common stock of the two companies will be equal to or greater than the value of Corteva\u2019s common stock had the Proposed Separation not occurred.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that combined post-separation stock value may be lower than pre-separation value."
+  },
+  {
+   "text": "In addition, while it is expected that Corteva will receive a tax opinion from external counsel to the effect that, among other things, the Proposed Separation will qualify as a tax-free spin-off for U.S. federal income tax purposes, any such opinion is not binding on the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new tax risk that the anticipated tax-free opinion is not binding on the IRS."
+  },
+  {
+   "text": "Internal Revenue Service may reach conclusions with respect to the Proposed Separation that are different from the conclusion reached in such opinion.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk that IRS could reach different conclusions than the tax opinion regarding the separation."
+  },
+  {
+   "text": "If the Proposed Separation is ultimately determined to be taxable, either Corteva or Corteva\u2019s stockholders could incur significant income tax liabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of significant income tax liabilities if the separation is deemed taxable."
+  }
+ ]
+}

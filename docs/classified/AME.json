@@ -1,0 +1,23 @@
+{
+ "ticker": "AME",
+ "sector": "Industrials",
+ "filing_date": "2026-02-17",
+ "accession": "0001037868-26-000016",
+ "prior_accession": "0001037868-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 1,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Moreover, the rapid evolution and adoption of artificial intelligence may increase our cybersecurity risks.",
+   "category": "new_substantive_risk",
+   "rationale": "This sentence introduces a new, specific risk factor\u2014cybersecurity risk arising from the rapid evolution and adoption of artificial intelligence\u2014that was not previously disclosed, representing a new source of potential harm to the business rather than generic boilerplate."
+  }
+ ]
+}

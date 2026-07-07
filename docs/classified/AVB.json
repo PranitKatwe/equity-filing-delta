@@ -1,0 +1,118 @@
+{
+ "ticker": "AVB",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-27",
+ "accession": "0000915912-26-000004",
+ "prior_accession": "0000915912-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 20,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "We also may engage or have an interest in for-sale activity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Brief addition noting possible interest in for-sale activity, expanding scope of business activities discussed rather than introducing a fully new distinct risk."
+  },
+  {
+   "text": "Certain AI or machine learning tools used in our operations, or used by third parties with whom we do business, may generate outputs that are incomplete, inaccurate, misleading or otherwise flawed, and such issues may be difficult to identify or detect.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding AI/ML tools producing flawed outputs, a risk not previously described."
+  },
+  {
+   "text": "Reliance on such outputs could result in operational inefficiencies, errors in communications, adverse impacts on resident experience, reputational harm, loss of customers, or legal or regulatory exposure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the consequences of the AI output risk introduced in the prior sentence, expanding on that new risk rather than introducing a separate one."
+  },
+  {
+   "text": "Such hedges may mitigate interest rate volatility.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about hedges mitigating interest rate volatility restates existing hedging risk language without new detail."
+  },
+  {
+   "text": "Our motions to dismiss and for judgment on the pleading have been denied by the court.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a factual litigation update (motions denied) that expands on existing disclosed litigation risk."
+  },
+  {
+   "text": "On February 28, 2025, the Company filed a motion to dismiss.",
+   "category": "expanded_existing_risk",
+   "rationale": "Litigation procedural update (motion to dismiss filed) expanding existing disclosed case status."
+  },
+  {
+   "text": "On April 23, 2025, the Attorney General of the State of New Jersey and the New Jersey Division of Consumer Affairs filed a lawsuit similar to the D.C.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new lawsuit filed by New Jersey authorities, a new specific legal proceeding not previously mentioned."
+  },
+  {
+   "text": "Antitrust Litigation and the Maryland Antitrust Litigation in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing the same newly disclosed litigation context, adding procedural detail."
+  },
+  {
+   "text": "District Court for the District of New Jersey.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies court venue for the new lawsuit, part of the same new litigation disclosure."
+  },
+  {
+   "text": "The lawsuit alleges that RealPage, Inc. and a number of owners and/or operators of multifamily properties in New Jersey, including the Company, violated federal and state antitrust laws and the state consumer fraud law (the \u201cNew Jersey Antitrust Litigation\u201d) by unlawfully agreeing to use RealPage, Inc. revenue management systems and other related actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details allegations of the newly disclosed New Jersey lawsuit, expanding on the new litigation risk already introduced."
+  },
+  {
+   "text": "On July 29, 2025, the Company filed a motion to dismiss.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further procedural update on the same New Jersey litigation matter."
+  },
+  {
+   "text": "The impact on the Company is difficult to predict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that impact is hard to predict is standard cautionary language."
+  },
+  {
+   "text": "Public health crises could also adversely affect labor availability, supply chains, and resident demand across our markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on pre-existing public health crisis risk by adding specific impact areas like labor and supply chains."
+  },
+  {
+   "text": "For example, the MGCL permits a Maryland corporation, like us, to elect to be subject, including by way of a resolution of its board of directors, to certain provisions of the MGCL that may have the effect of delaying or preventing a change in control, including provisions relating to classifying the board of directors.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes standard MGCL anti-takeover provisions, restating known statutory risk language."
+  },
+  {
+   "text": "Through provisions in our charter and bylaws, we (a) require the affirmative vote of the holders of at least 75% of the shares then entitled to vote for that purpose for the removal of any director from the board, which removal also requires cause, and (b) require the Company to call a special meeting of the stockholders upon the written request of stockholders entitled to cast a majority of all the votes entitled to be cast at such meeting.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific charter/bylaw voting thresholds, expanding detail on existing anti-takeover risk."
+  },
+  {
+   "text": "Taken together, these charter, bylaw and statutory provisions may delay, deter or prevent a proposed acquisition or a change in control of our Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary sentence recapping prior points without new information."
+  },
+  {
+   "text": "In addition, our use of, and reliance on, AI and machine learning technologies, including generative AI tools used by us or by our vendors, presents additional risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category regarding reliance on AI and machine learning technologies, not previously disclosed."
+  },
+  {
+   "text": "Such technologies may involve the ingestion or processing of proprietary, confidential or sensitive information, and may increase the risk that such information is disclosed, misused or otherwise compromised, including through unintended outputs or model behavior.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on data confidentiality risks tied to the newly introduced AI risk."
+  },
+  {
+   "text": "In addition, vendors may incorporate AI tools into their products or services without disclosing such use to us, and the providers of such tools may not meet existing or evolving legal, regulatory or industry standards related to privacy, data protection or information security.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds vendor-related nuance to the newly disclosed AI risk, expanding on it."
+  },
+  {
+   "text": "Any such issues could adversely affect our ability to maintain the confidentiality, integrity and availability of our systems and data, and could result in reputational harm, regulatory scrutiny, legal liability or increased compliance costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential consequences of AI-related issues, continuing the newly introduced AI risk discussion."
+  }
+ ]
+}

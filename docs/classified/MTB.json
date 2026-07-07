@@ -1,0 +1,63 @@
+{
+ "ticker": "MTB",
+ "sector": "Financials",
+ "filing_date": "2026-02-18",
+ "accession": "0000036270-26-000010",
+ "prior_accession": "0001628280-25-006267",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "The FOMC then maintained the target interest rate in 2025, before decreasing it in each of September, October and December 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a factual, historical statement about Federal Reserve interest rate actions, providing context rather than describing a new or expanded risk to the business."
+  },
+  {
+   "text": "In August 2025, a district court ruled against the Federal Reserve and vacated the regulation, but its order is stayed pending appeal to the circuit court.",
+   "category": "expanded_existing_risk",
+   "rationale": "This describes a specific legal development (a court vacating a Fed regulation, stayed pending appeal) that adds regulatory uncertainty to an existing risk category around banking regulation."
+  },
+  {
+   "text": "At December 31, 2025 M&T's SCB was 2.7%.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a specific factual data point (the company's Stress Capital Buffer percentage) rather than a description of a new risk."
+  },
+  {
+   "text": "In July 2025 the GENIUS Act, which establishes a regulatory framework for \u201cpayment stablecoins\u201d and their issuers, was signed into law.",
+   "category": "new_substantive_risk",
+   "rationale": "This introduces a brand-new regulatory framework (the GENIUS Act) governing payment stablecoins, which did not previously exist as a risk factor."
+  },
+  {
+   "text": "Consumers and businesses may view payment stablecoins as a substitute for traditional bank deposits, which could result in reduced levels of deposits in the banking system.",
+   "category": "new_substantive_risk",
+   "rationale": "This identifies a specific new risk that stablecoins could substitute for bank deposits, reducing deposit levels\u2014a concrete new competitive threat not previously described."
+  },
+  {
+   "text": "Depending on consumer and business interest in payment stablecoins, and the characteristics and utility of payment stablecoins, the passage of the GENIUS Act could result in increased competition with respect to M&T\u2019s bank subsidiaries\u2019 deposit products.",
+   "category": "expanded_existing_risk",
+   "rationale": "This builds on the newly introduced stablecoin risk by specifying increased competition for deposit products, expanding on the risk described in the prior sentence."
+  },
+  {
+   "text": "However, the GENIUS Act requires the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a transitional, generic sentence referencing the Treasury Department without adding specific risk detail."
+  },
+  {
+   "text": "Treasury Department and federal and state regulators to issue regulations on numerous topics to interpret and implement the statute, so the effect of the GENIUS Act will depend on what those regulations provide.",
+   "category": "expanded_existing_risk",
+   "rationale": "This elaborates on regulatory uncertainty tied to implementation of the GENIUS Act, expanding on the newly introduced stablecoin regulatory risk."
+  },
+  {
+   "text": "For example, the NYSDFS issued guidance for New York State-regulated banking and 43 mortgage institutions relating to the management of material financial risks from climate change in December 2023.",
+   "category": "expanded_existing_risk",
+   "rationale": "This provides a specific example (NYSDFS climate guidance) that expands on an already-existing climate risk disclosure rather than introducing a new risk category."
+  }
+ ]
+}

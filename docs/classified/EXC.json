@@ -1,0 +1,133 @@
+{
+ "ticker": "EXC",
+ "sector": "Utilities",
+ "filing_date": "2026-02-12",
+ "accession": "0001109357-26-000018",
+ "prior_accession": "0001109357-25-000043",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "In October 2025, Pepco Maryland filed a fully forecasted test year rate case while it awaits the conclusion of the lessons learned process.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory filing (Pepco Maryland rate case) tied to an unresolved 'lessons learned' process, a concrete new development creating regulatory uncertainty."
+  },
+  {
+   "text": "Employees Human Capital Management Exelon\u2019s workforce is critical to advancing energy transformation and achieving sustainable, long\u2011term growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about workforce importance, no specific risk content."
+  },
+  {
+   "text": "As the Company competes for critical capabilities in the marketplace, Exelon must attract, develop, and equip its workforce to meet evolving business and industry needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about competing for talent, standard HR boilerplate."
+  },
+  {
+   "text": "Accordingly, Exelon\u2019s human capital management strategy is centered on maintaining and enhancing its reputation as an employer of choice within the energy and utility industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes HR strategy goals, not a risk."
+  },
+  {
+   "text": "Exelon seeks to attract and retain talent by fostering a safe, inclusive, and engaging workplace that offers meaningful work, clearly defined roles, opportunities for professional development, supportive leadership, work\u2011life balance, and competitive benefits that support employee well\u2011being across all stages of life.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about workplace culture initiatives, no risk indicated."
+  },
+  {
+   "text": "Exelon\u2019s talent strategy supports the attraction, development, engagement, and advancement of employees across all businesses and functions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General talent strategy description, boilerplate."
+  },
+  {
+   "text": "The Company deploys a comprehensive recruiting approach to address current and future workforce needs, including workforce development initiatives, annual internship and cooperative education programs, targeted recruiting for specialized and hard\u2011to\u2011fill roles, and partnerships with colleges, universities, trade schools, and community organizations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes recruiting programs, purely descriptive HR content."
+  },
+  {
+   "text": "Exelon invests in employee development through leadership development programs, technical training, and mentoring.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee development programs, no risk."
+  },
+  {
+   "text": "Talent growth and internal mobility are supported through performance development, talent review, and succession planning processes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes succession planning processes, descriptive only."
+  },
+  {
+   "text": "Employees are encouraged to complete annual individual development plans to identify skill\u2011building opportunities, supported by managers and Exelon\u2019s development offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes development plan process, no risk content."
+  },
+  {
+   "text": "Exelon\u2019s total rewards programs support its talent strategy by attracting, retaining, and motivating high\u2011performing employees while reinforcing the Company\u2019s pay\u2011for\u2011performance philosophy and supporting employee well\u2011being.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes total rewards philosophy, generic HR language."
+  },
+  {
+   "text": "Compensation is designed to be market\u2011competitive and is informed by benchmarking many positions using external survey data.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes compensation benchmarking practice, no risk."
+  },
+  {
+   "text": "All employees participate in an annual incentive program that aligns individual performance with business results and supports a high\u2011performance culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes incentive program structure, descriptive only."
+  },
+  {
+   "text": "12 Table of Contents Exelon promotes transparency in compensation and performance\u2011based rewards by providing education, tools, and resources that help leaders and employees understand the Company\u2019s market\u2011based pay approach and the connection between performance, ratings, and compensation outcomes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes pay transparency practices, no risk indicated."
+  },
+  {
+   "text": "In addition, Exelon offers a comprehensive portfolio of benefit programs that support employees\u2019 emotional, physical, and financial well\u2011being, enabling employees to perform effectively and supporting overall organizational effectiveness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits programs, purely descriptive."
+  },
+  {
+   "text": "Approximately 42% of Exelon\u2019s employees participate in CBAs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a workforce statistic (CBA participation) without articulating a new or expanded risk."
+  },
+  {
+   "text": "In 2024, new methods were introduced that resulted in changes to Exelon's verified GHG inventory.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes a methodology change affecting GHG inventory reporting, an incremental detail related to existing environmental reporting risk."
+  },
+  {
+   "text": "The United States elected not to participate in the COP meeting (COP 30) in 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a specific geopolitical/climate policy development that adds context to existing climate regulatory uncertainty risk."
+  },
+  {
+   "text": "The current administration has issued notice that the application of Waters of the United States will use a more narrow scope than has been applied historically.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific regulatory change (narrower WOTUS scope) that could materially affect compliance obligations, a new concrete regulatory risk factor."
+  },
+  {
+   "text": "In addition, where requirements and compliance mechanisms have previously been established, the withdrawal of such requirements can introduce costs and uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing regulatory uncertainty risk by noting that withdrawal of established requirements can itself create costs and uncertainty."
+  },
+  {
+   "text": "Physical attacks targeting the Registrants' physical assets or personnel could cause injuries, damage, or operational disruptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of physical attacks on assets/personnel causing injury or operational disruption."
+  },
+  {
+   "text": "Energy storage systems provide additional resources for enhancing grid reliability and stability by providing rapid response capabilities, allowing the injection and absorption of power during electric supply and demand imbalances.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits of energy storage systems, informational not a risk."
+  },
+  {
+   "text": "As forecasted load increases, the lack of sufficient energy storage growth may also lead to greater price volatility and challenges in power services for customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk that insufficient energy storage growth amid rising load could cause price volatility and service challenges."
+  }
+ ]
+}

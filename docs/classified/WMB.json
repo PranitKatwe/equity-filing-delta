@@ -1,0 +1,218 @@
+{
+ "ticker": "WMB",
+ "sector": "Energy",
+ "filing_date": "2026-02-24",
+ "accession": "0000107263-26-000006",
+ "prior_accession": "0000107263-25-000031",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 23
+ },
+ "items": [
+  {
+   "text": "For example, the Texas Railroad Commission has the authority to regulate the terms of service for Williams\u2019 intrastate natural gas gathering business in Texas.",
+   "category": "expanded_existing_risk",
+   "rationale": "States a specific regulatory authority (Texas Railroad Commission) over intrastate gathering, adding detail to existing regulatory risk framework."
+  },
+  {
+   "text": "Although the applicable state regulations vary widely, they generally require that pipeline rates and practices be reasonable and nondiscriminatory, and may include provisions covering marketing, pricing, pollution, environment, and human health and safety.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of typical state pipeline regulation requirements without new specific risk."
+  },
+  {
+   "text": "Some states, such as New York and Ohio, have specific regulations pertaining to the design, construction, and operations of gathering lines within such state.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific states (NY, Ohio) with gathering line regulations, providing more detail to existing regulatory risk."
+  },
+  {
+   "text": "Williams has been actively implementing PHMSA\u2019s 2021 Gas Gathering final rule that requires all onshore gas gathering lines to report incidents and file annual reports.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new PHMSA rule requiring incident reporting and annual filings, a concrete new compliance obligation."
+  },
+  {
+   "text": "The final rule also established a new Type C regulated gathering line and now requires Type C gathering lines to comply with specifically identified PHMSA regulations in 49 Code of Federal Regulations Part 192.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes creation of a new regulated gathering line category with specific compliance requirements not previously mentioned."
+  },
+  {
+   "text": "Since the rule was published, Williams has worked to understand the regulatory changes and modify our procedures as needed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about working to comply with new rule, no new risk detail."
+  },
+  {
+   "text": "Liquids Pipelines Williams\u2019 liquids pipelines are regulated by the Louisiana Department of Natural Resources, the Texas Railroad Commission, and various other state and federal agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Informational statement identifying regulators of liquids pipelines, no new risk substance."
+  },
+  {
+   "text": "These pipelines are also subject to the liquid pipeline safety and integrity regulations discussed above since both Louisiana and Texas have adopted the integrity management regulations defined in PHMSA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies that liquids pipelines are subject to already-discussed integrity management regulations, expanding existing risk description."
+  },
+  {
+   "text": "Outer Continental Shelf Lands Act Williams\u2019 offshore gas and liquids pipelines located on the outer continental shelf, including Transco, are subject to the Outer Continental Shelf Lands Act, which provides in part that outer continental shelf pipelines \u201cmust provide open and nondiscriminatory access to both owner and non-owner shippers.\u201d See Part I, Item 1A.",
+   "category": "expanded_existing_risk",
+   "rationale": "Identifies a specific statute (OCSLA) imposing nondiscriminatory access requirements, expanding existing regulatory risk detail."
+  },
+  {
+   "text": "Williams, Transco, and NWP could incur liability to governments or third parties for any unlawful discharge of pollutants into the air, soil, or water, as well as liability for cleanup costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard environmental liability language common to pipeline risk factors, not a new specific risk."
+  },
+  {
+   "text": "Materials could be released into the environment in several ways including, but not limited to: \u2022 Leakage from gathering systems, underground gas storage caverns, pipelines, processing or treating facilities, transportation facilities, and storage tanks; \u2022 Damage to facilities resulting from accidents during normal operations; \u2022 Damages to onshore and offshore equipment and facilities resulting from storm events or natural disasters; \u2022 Blowouts, cratering, and explosions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a detailed list of specific release scenarios, expanding the existing environmental liability risk."
+  },
+  {
+   "text": "In addition, Williams, Transco, and NWP may be liable for environmental damage caused by former owners or operators of our properties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces potential liability for contamination caused by former owners/operators, a new specific liability exposure."
+  },
+  {
+   "text": "22 Williams, Transco, and NWP believe compliance with current environmental laws and regulations will not have a material adverse effect on their capital expenditures, earnings, or current competitive position.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic assurance statement about compliance not having material adverse effect."
+  },
+  {
+   "text": "However, environmental laws and regulations could affect their business in various ways from time to time, including incurring capital and maintenance expenditures, fines and penalties, and creating the need to seek relief from the FERC for rate increases to recover the costs of certain capital expenditures and operation and maintenance expenses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about possible future impacts of environmental laws without specific new risk."
+  },
+  {
+   "text": "NWP - Washington State Climate Commitment Act In 2021, the state of Washington passed its Climate Commitment Act establishing a market-based cap-and-invest program to reduce carbon emissions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific law (Washington Climate Commitment Act) creating a cap-and-invest carbon program affecting NWP."
+  },
+  {
+   "text": "This program took effect on January 1, 2023, and sets a limit, or cap, on overall carbon emissions in the state and requires businesses like NWP to obtain allowances equal to their annual covered carbon emissions.",
+   "category": "new_substantive_risk",
+   "rationale": "Details the mechanics of a new mandatory carbon allowance program that directly imposes compliance costs."
+  },
+  {
+   "text": "The state\u2019s cap will be reduced over time to meet the state\u2019s carbon emissions reduction targets, which means fewer carbon emissions allowances will be available to purchase each year.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the previously introduced carbon program by noting the cap will tighten over time, increasing cost pressure."
+  },
+  {
+   "text": "These allowances can be purchased through quarterly auctions hosted by the state or bought and sold on a secondary market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes mechanism for purchasing allowances, informational rather than a new risk."
+  },
+  {
+   "text": "In 2023, NWP began purchasing allowances for the carbon emissions from nine of its thirteen compressor stations within the state whose annual carbon emissions have exceeded 25,000 metric tons of carbon dioxide equivalent at least once since 2015.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new financial exposure detail: NWP began purchasing allowances for nine compressor stations exceeding emission thresholds."
+  },
+  {
+   "text": "NWP also began purchasing allowances for NWP\u2019s delivery of natural gas to certain of their customers and certain of their facilities in the state whose annual carbon emissions are insufficient to require their direct participation in the program.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the previously described allowance purchase requirement to additional customers/facilities."
+  },
+  {
+   "text": "NWP\u2019s latest rate case settlement allows them to recover the costs of purchasing allowances under the program in their next rate case.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds mitigating detail about cost recovery via rate case, expanding the financial risk context already introduced."
+  },
+  {
+   "text": "For additional information regarding the potential impact of federal, state, tribal, or local regulatory measures on business and specific environmental issues, please refer to Part I, Item 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to other sections, no new risk content."
+  },
+  {
+   "text": "Risk Factors \u2014 \u201cWilliams\u2019, Transco\u2019s, and NWP\u2019s operations are subject to environmental laws and regulations, including laws and regulations relating to climate change and greenhouse gas emissions, which may expose them to significant costs, liabilities, and expenditures that could exceed expectation s ,\u201d and Part II, Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference citing risk factor title, purely navigational."
+  },
+  {
+   "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations \u2014 \u201cEnvironmental\u201d and \u201cEnvironmental Matters\u201d in Part II, Item 8.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to MD&A section, no new substantive content."
+  },
+  {
+   "text": "Financial Statements and Supplementary Data \u2014 Note 18 \u2013 Contingencies and Commitments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, navigational only."
+  },
+  {
+   "text": "Competition Williams\u2019 competitive strategy spans all of its product and service offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive strategy scope."
+  },
+  {
+   "text": "Williams has a narrowed natural gas value chain focus that supports the exceptional reliability and quality services that are valued by its customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of business focus, not a risk statement."
+  },
+  {
+   "text": "Gathering and Processing Competition for natural gas gathering, processing, treating, transportation, and storage, as well as NGLs transportation, fractionation, and storage continues to increase as United States production continues to grow.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes increasing competition due to rising US production, expanding existing competitive risk."
+  },
+  {
+   "text": "Williams\u2019 midstream services compete with similar facilities that are in close proximity to its assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competing with nearby facilities."
+  },
+  {
+   "text": "Williams faces competition from companies of varying size and financial capabilities, including major and independent natural gas midstream providers, private equity firms, and major integrated oil and natural gas companies that gather, transport, process, fractionate, store, and market natural gas and NGLs, as well as some larger exploration and production companies that are choosing to develop midstream services to handle their own natural gas.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more detailed list of competitor types, expanding existing competition risk description."
+  },
+  {
+   "text": "Williams\u2019 gathering and processing agreements are generally long-term agreements that may include acreage dedication.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes typical contract structure, informational not risk-specific."
+  },
+  {
+   "text": "Competition for natural gas volumes is primarily based on reputation, flexibility of commercial terms (including but not limited to fees charged, products retained, volume commitments), available capacity, array and quality of services provided, as well as efficiency, reliability, and safety of services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of competitive factors."
+  },
+  {
+   "text": "Williams believes its significant presence in key supply basins, expertise and reputation as a reliable and safe operator, commitment to sustainability, and ability to offer integrated packages of services positions it well against competition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Company's positive self-assessment, not a risk disclosure."
+  },
+  {
+   "text": "23 Regulated Interstate Natural Gas Transportation and Storage The market for supplying natural gas is highly competitive and new pipelines, storage facilities, and other related services are expanding to service the growing demand for natural gas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General market competitiveness statement, generic framing."
+  },
+  {
+   "text": "Additionally, pipeline capacity in many natural gas supply basins is constrained and facing more regulation and opposition causing competition to increase among pipeline companies as they strive to connect those basins to major natural gas demand centers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about capacity constraints and regulatory opposition increasing competition, expanding existing risk."
+  },
+  {
+   "text": "Williams predominately competes with major intrastate and interstate natural gas pipelines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competing with other pipelines."
+  },
+  {
+   "text": "Some local distribution companies are also involved in the long-haul transportation business through joint venture pipelines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes local distribution companies' involvement, informational."
+  },
+  {
+   "text": "The principle elements of competition in the interstate natural gas pipeline business are based on available capacity, rates, reliability, quality of customer service, diversity and flexibility of supply, and proximity or access to customers and market hubs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of competitive factors in pipeline business."
+  },
+  {
+   "text": "Williams faces competition in a number of key markets, and competes with other interstate and intrastate pipelines for deliveries to customers who can take deliveries at multiple points.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive statement about serving multiple delivery points."
+  },
+  {
+   "text": "Natural gas delivered on Williams\u2019 system competes with alternative energy sources used to generate electricity such as hydroelectric power, solar, wind, coal, fuel oil, and nuclear.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competition from alternative energy sources, standard industry risk framing."
+  }
+ ]
+}

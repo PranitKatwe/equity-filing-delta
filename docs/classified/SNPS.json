@@ -1,0 +1,163 @@
+{
+ "ticker": "SNPS",
+ "sector": "Information Technology",
+ "filing_date": "2025-12-22",
+ "accession": "0000883241-25-000028",
+ "prior_accession": "0000883241-24-000024",
+ "model": "claude-sonnet-5",
+ "n_added": 29,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Adverse economic conditions affect demand for devices that our products help create, such as the ICs incorporated in personal computers, smartphones, automobiles, servers and more.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about adverse economic conditions affecting demand for end products; standard macroeconomic risk framing."
+  },
+  {
+   "text": "For example, while we have seen continued strength in the artificial intelligence and high-performance computing sectors, certain industries such as industrial, automotive and consumer electronics have recovered more slowly from recent macroeconomic uncertainty, which have affected our business and operating results.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new factual detail about differential recovery across AI/HPC vs industrial/automotive/consumer sectors and its actual impact on results."
+  },
+  {
+   "text": "For our Ansys S&A software solutions, our competitors include publicly traded companies, small, geographically-focused firms, startups, and solutions produced in-house by the end users.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about competitive landscape for the newly acquired Ansys S&A software business, expanding competitive risk disclosure."
+  },
+  {
+   "text": "For example, in response to recent market trends and underperformance of our Design IP segment, we are in the process of reallocating resources in our IP business to certain higher growth opportunities.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific underperformance of the Design IP segment and a resource reallocation response, a concrete new business issue."
+  },
+  {
+   "text": "Our efforts in reallocating these resources and developing such new technology solutions may not succeed or generate expected returns, which may result in an adverse impact on our business and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows directly from the reallocation disclosure, expanding on potential failure of that specific strategic response."
+  },
+  {
+   "text": "We are also subject to certain requirements for enhanced denied party screening processes, which have led to, and, in the future may continue to lead to, elongated transaction cycles with certain customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific operational consequence (elongated transaction cycles) from denied party screening requirements."
+  },
+  {
+   "text": "The Trade Restrictions have evolved significantly and may continue to evolve in ways that may adversely impact our business or the business of our customers.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about trade restrictions evolving, consistent with existing trade restriction risk disclosures."
+  },
+  {
+   "text": "Trade Restrictions also may encourage customers or other parties to substitute or develop alternative products that are not subject to such restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk mechanism: customers substituting or developing alternative products to avoid restrictions."
+  },
+  {
+   "text": "For example, challenges with a major foundry customer negatively impacted our financial results for fiscal year 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific real event\u2014challenges with a major foundry customer that negatively impacted FY2025 results."
+  },
+  {
+   "text": "In response to the U.S. imposing tariffs and trade barriers or taking other actions, other countries, such as China, have in the past and may in the future impose tariffs and trade barriers that could limit our ability to offer our products and services in such jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new disclosure about foreign retaliatory tariffs, e.g., from China, limiting market access."
+  },
+  {
+   "text": "Our Ansys business distributes its products through a global network of independent channel partners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely descriptive statement about distribution model, not itself a risk."
+  },
+  {
+   "text": "Difficulties in ongoing relationships with channel partners, such as failure to meet performance criteria, differences in handling customer relationships or the loss of a major channel partner, could adversely affect the performance of our Ansys business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding channel partner relationship difficulties affecting the newly acquired Ansys business."
+  },
+  {
+   "text": "Channel partners may also result in additional compliance burdens for us and any failure by them to comply with various U.S. and foreign laws could subject us to, among other things, investigations, fines, enforcement actions, civil or criminal penalties or injunctions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on channel partner risk by adding compliance burden and legal liability angle."
+  },
+  {
+   "text": "In the case of the Ansys Merger, the foregoing risks may be magnified due to the scale of the merger.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes that merger-related risks are magnified due to scale, expanding on existing merger risk discussion."
+  },
+  {
+   "text": "During this time, we may also experience increased incidences of cyberattacks or other security breaches.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds integration-period cybersecurity risk, expanding on existing cybersecurity risk factor in context of merger."
+  },
+  {
+   "text": "If we do not manage these risks related to our hardware products for any reason, our business and operating results would be harmed.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about managing hardware product risks, largely restating existing risk framing."
+  },
+  {
+   "text": "We have incurred a substantial amount of debt in connection with the Ansys Merger, including the Senior Notes and the $4.3 billion term loan.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new substantial debt taken on for the Ansys Merger, including specific loan amount."
+  },
+  {
+   "text": "Accordingly, as of October 31, 2025, we had approximately $13.5 billion of total debt.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new financial figure quantifying total debt level, a material new disclosure."
+  },
+  {
+   "text": "The agreements that govern our indebtedness contain various affirmative and negative covenants.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about debt covenants tied to the new indebtedness disclosed above."
+  },
+  {
+   "text": "The indenture governing the Senior Notes also contains various affirmative and negative covenants.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on covenants specific to the Senior Notes indenture, expanding debt-related risk."
+  },
+  {
+   "text": "For example, we are currently named as a defendant in recently filed securities class action complaints.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses that the company is currently a defendant in specific securities class action complaints, a new legal risk."
+  },
+  {
+   "text": "The stock market in general, and Nasdaq and technological companies in particular, have experienced extreme price and volume fluctuations that have often been unrelated or disproportionate to the operating performance of companies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic market volatility framing common in risk factor sections."
+  },
+  {
+   "text": "The market price of our common stock is or may be volatile.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate statement about stock price volatility."
+  },
+  {
+   "text": "In the past, companies that have experienced volatility in the market price of their stock have been subject to securities class action litigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about historical pattern of litigation following stock volatility, not specific to company."
+  },
+  {
+   "text": "In addition, certain of our directors and officers may be involved in ongoing securities or other lawsuits, including in the context of their roles with other public companies, and our directors or officers may in the future become 27 Table of Contents involved in such litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands litigation risk disclosure to include directors/officers involvement in other lawsuits."
+  },
+  {
+   "text": "Securities litigation, including the cost to defend against, and any potential adverse outcome resulting from any such proceeding, can be expensive, time-consuming, damage our reputation and divert our management\u2019s and board of directors\u2019 attention from other business concerns, which could seriously harm our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate about costs and distractions of securities litigation."
+  },
+  {
+   "text": "As noted above, on October 31, 2025 and November 25, 2025, respectively, two shareholder class action complaints were filed in the United States District Court for the Northern District of California against Synopsys and certain of our current directors and officers.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific factual disclosure of two newly filed shareholder class actions with dates and court details."
+  },
+  {
+   "text": "Both complaints allege that certain material misstatements or omissions related to the performance of our Design IP segment were made in violation of federal securities laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Details the specific substance of the litigation allegations regarding Design IP segment misstatements."
+  },
+  {
+   "text": "There is no guarantee that we will be successful in our efforts to defend against these complaints.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows directly from the new litigation disclosure, expanding on uncertainty of defense outcome."
+  }
+ ]
+}

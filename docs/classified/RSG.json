@@ -1,0 +1,53 @@
+{
+ "ticker": "RSG",
+ "sector": "Industrials",
+ "filing_date": "2026-02-18",
+ "accession": "0001060391-26-000094",
+ "prior_accession": "0001060391-25-000091",
+ "model": "claude-sonnet-5",
+ "n_added": 7,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "For instance, several states have passed legislation commonly referred to as Extended Producer Responsibility.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory development (Extended Producer Responsibility laws) not previously mentioned, representing a new compliance risk."
+  },
+  {
+   "text": "These laws are intended to shift the cost of recycling from consumers to producers while also mandating increased supply, which could lead to lower commodity prices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the impact of the newly introduced EPR laws, detailing potential cost shifts and commodity price effects."
+  },
+  {
+   "text": "At the U.S. state level, California has taken action to require greenhouse gas emission disclosure, as well as information on climate-related financial risks, some of which are subject to legal challenge.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new regulatory requirement (California climate disclosure law) that creates a distinct compliance and litigation risk."
+  },
+  {
+   "text": "Similar bills have been introduced in other U.S. states; to-date, none have passed into law.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Merely notes that similar bills exist elsewhere but have not passed, adding little substantive new risk beyond the already-described California law."
+  },
+  {
+   "text": "In April 2025, the Canadian federal government effectively eliminated the fuel charge but the output-based pricing system remains.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides an update on an existing regulatory framework (Canadian carbon pricing) reflecting a change in its scope rather than a wholly new risk."
+  },
+  {
+   "text": "Our operations are increasingly dependent on technology, including AI and machine learning tools that we deploy or that are embedded in systems provided by third parties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new operational risk related to reliance on AI and machine learning technologies, not previously disclosed."
+  },
+  {
+   "text": "AI models and tools can produce inaccurate, biased, or inconsistent outputs and may rely on third-party content or training data for which we do not have sufficient rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the risks associated with the newly introduced AI dependency, such as inaccurate outputs and data rights issues."
+  }
+ ]
+}

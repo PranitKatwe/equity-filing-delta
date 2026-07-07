@@ -1,0 +1,218 @@
+{
+ "ticker": "WTW",
+ "sector": "Financials",
+ "filing_date": "2021-02-23",
+ "accession": "0001564590-21-007578",
+ "prior_accession": "0001564590-20-006736",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 32,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 26,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "RISK FACTORS Executive Summary of Risk Factors The following contains a summary of each of our risk factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory framing sentence for an executive summary, no substantive content."
+  },
+  {
+   "text": "For the complete disclosure of each risk factor contained herein, please click on the respective summary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Navigation instruction, not a risk statement."
+  },
+  {
+   "text": "11 \u2022 Our business may be harmed by any negative developments that may occur in the insurance industry or if we fail to maintain good relationships with insurance carriers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullet referencing an existing risk about insurance carrier relationships, not new content."
+  },
+  {
+   "text": "Combination-Related Risks Our pending combination with Aon creates incremental business, regulatory and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category tied to the pending Aon combination."
+  },
+  {
+   "text": "On March 9, 2020, the Company announced that it had entered into a business combination agreement with Aon.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual detail supporting the newly introduced combination risk."
+  },
+  {
+   "text": "The combination is subject to customary closing conditions, including conditions related to required regulatory approvals, and may not be completed on a timely basis, or at all, or may be completed on a basis that has a material adverse impact on the value of the combined company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on closing conditions risk tied to the combination."
+  },
+  {
+   "text": "The closing of the combination is subject to a number of customary conditions, and there can be no assurance that all of the conditions to the closing of the combination will be satisfied or waived (to the extent applicable) in a timely manner or at all.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats the same closing conditions uncertainty already stated."
+  },
+  {
+   "text": "The failure to satisfy the required conditions could delay the closing of the combination for a significant period of time or prevent the closing of the combination from occurring at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on consequences of failing to satisfy conditions."
+  },
+  {
+   "text": "These closing conditions include, among others, certain antitrust-related clearances, including under the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies antitrust clearance details as part of the same closing conditions risk."
+  },
+  {
+   "text": "Hart-Scott-Rodino Antitrust Improvements Act of 1976, referred to as the \u2018HSR Act,\u2019 the European Commission Merger Regulation and the antitrust laws of the other required antitrust jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on specific antitrust laws relevant to the closing conditions."
+  },
+  {
+   "text": "These closing conditions also include certain other regulatory clearances.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds additional regulatory clearance detail to the same risk."
+  },
+  {
+   "text": "The governmental agencies from which the parties are seeking certain approvals related to these conditions have broad discretion in administering the applicable governing regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes regulatory discretion as part of the closing conditions risk."
+  },
+  {
+   "text": "As a condition to their approval of the combination, agencies may impose requirements, limitations or costs or require divestitures or place restrictions on the conduct of the combined company\u2019s business after the closing of the combination.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential regulatory requirements affecting the combination."
+  },
+  {
+   "text": "Such requirements, limitations, costs or restrictions could delay or prevent the closing of the combination or have a material adverse effect on the combined company\u2019s business and results of operations following the closing of the combination.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same regulatory risk about delays or adverse effects."
+  },
+  {
+   "text": "In addition, the closing conditions include other legal and regulatory conditions, such as: (i) the sanction by the Irish High Court of the scheme and the delivery of the court order to the Irish Registrar of Companies; (ii) the approval by the NYSE of the listing of all of the Aon shares to be issued in connection with the scheme; and (iii) the absence of any law or order that restrains, enjoins, makes illegal or otherwise prohibits the closing of the combination.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists additional specific legal/regulatory conditions for closing."
+  },
+  {
+   "text": "There can be 13 no assurance that the conditions to the closing of the combination will be satisfied or waived or that the combination will be completed within the expected time frame, or at all.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates uncertainty about satisfying closing conditions already described."
+  },
+  {
+   "text": "In addition, if the combination is not completed by March 9, 2021 (or June 9, 2021 or September 9, 2021, if automatically extended under the terms of the business combination agreement, if applicable, or such earlier date as may be specified by the Irish Takeover Panel), either Aon or the Company may choose not to proceed with the combination.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific timing details relevant to the termination risk."
+  },
+  {
+   "text": "The parties can mutually decide to terminate the business combination agreement at any time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on ability of parties to terminate the agreement."
+  },
+  {
+   "text": "The combination subjects us to various significant restrictions on our operations between signing and closing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new operational restriction risk during the interim period."
+  },
+  {
+   "text": "The business combination agreement subjects the Company to various significant restrictions on its operations between signing and closing.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same restriction risk just introduced."
+  },
+  {
+   "text": "Those include, among others, with respect to share repurchases, the incurrence of debt above thresholds or the acquisition or disposition of assets above specified thresholds, and specified changes to compensation and benefit programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies particular restricted actions under the new operational risk."
+  },
+  {
+   "text": "In addition, under Irish law, many of the same (and certain additional) actions occurring between signing and closing require the prior approval of the Irish Takeover Panel.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds Irish regulatory approval requirement to the same restriction risk."
+  },
+  {
+   "text": "If the Company desires to take any of the specified actions, and does not receive the consent of Aon and/or the Irish Takeover Panel, these restrictions may prevent the Company from pursuing otherwise attractive business opportunities or making changes to its business or operations prior to the closing of the combination or the termination of the business combination agreement, which in turn could materially impact the Company\u2019s financial condition and results of operation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential business impact from the restrictions already described."
+  },
+  {
+   "text": "Failure to close the combination could negatively impact the share price and the future business and financial results of the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding negative impact if the combination fails to close."
+  },
+  {
+   "text": "If the combination does not close, these risks may materialize and may adversely affect the Company\u2019s business, financial results and share price.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same failure-to-close risk."
+  },
+  {
+   "text": "Litigation filed against us could prevent or delay the completion of the combination or result in the payment of damages following completion of the combination.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces litigation risk related to the combination, a new specific risk."
+  },
+  {
+   "text": "We and members of our board of directors have been and may in the future be parties, among others, to various claims and litigation related to the business combination agreement and the combination.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the nature of litigation parties involved."
+  },
+  {
+   "text": "The results of complex legal proceedings are difficult to predict, and could delay or prevent the completion of the combination in a timely manner or at all, and could result in substantial costs to us, including, but not limited to, costs associated with the indemnification of our directors and officers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential costs and delays from litigation, expanding the same risk."
+  },
+  {
+   "text": "Moreover, such litigation could be time consuming and expensive, and such litigation could divert our management\u2019s attention away from their regular businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on litigation-related distraction and expense."
+  },
+  {
+   "text": "Adverse rulings in any of these lawsuits could have a material adverse effect on our financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential financial impact from adverse litigation rulings."
+  },
+  {
+   "text": "One of the conditions to the closing of the combination is that no order (whether temporary or permanent) has been issued, promulgated, made, rendered or entered into by any court or other tribunal of competent jurisdiction which restrains, enjoins, makes illegal or otherwise prohibits the consummation of the combination (excluding certain laws and orders unrelated to the required 14 antitrust clearances and the required regulatory clearances).",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a specific closing condition tied to litigation/injunction risk."
+  },
+  {
+   "text": "Consequently, if any suits are brought and plaintiffs are successful in obtaining an injunction prohibiting the Company and Aon from completing the combination on the terms contemplated by the business combination agreement, such an injunction may delay the completion of the combination in the expected timeframe, or may prevent the combination from being completed altogether.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains how injunctions could delay or prevent closing, extending litigation risk."
+  },
+  {
+   "text": "We have been impacted by the COVID-19 pandemic and may be substantially and negatively impacted by it in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, distinct risk regarding COVID-19 pandemic impact on the business."
+  },
+  {
+   "text": "The COVID-19 pandemic has had an adverse impact on global commercial activity, including the global supply chain, and has contributed to strain in financial markets, including, among other effects, significant volatility in equity markets, changes in interest rates and reduced liquidity on a global basis.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail on the scope of COVID-19's market impact."
+  },
+  {
+   "text": "It has also resulted in increased travel restrictions and extended shutdowns of businesses in various industries including, among others, travel, trade, tourism, health systems and food supply, and significantly reduced overall economic output.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on COVID-19's economic effects, expanding the same risk."
+  },
+  {
+   "text": "As such, there is a risk that COVID-19 could have a substantial negative impact on client demand and cash flow.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects COVID-19 impact to client demand and cash flow, elaborating on the same risk."
+  },
+  {
+   "text": "COVID-19 risks magnify other risks discussed in this report and any of our SEC filings.",
+   "category": "expanded_existing_risk",
+   "rationale": "States that COVID-19 magnifies other risks, extending the pandemic risk discussion."
+  },
+  {
+   "text": "For example, the effectiveness of external parties, including governmental and non-governmental organizations, in combating the spread and severity of COVID-19 could have a material impact on demand for our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about external factors affecting COVID-19 risk impact."
+  },
+  {
+   "text": "In addition, steps taken by market counterparties such as (re)insurance carriers to limit their exposures to COVID-19 and related risks could have an impact on their willingness to provide or renew coverage for our clients on historical terms and pricing, which could again impact demand for our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how counterparties' actions could affect business demand amid COVID-19."
+  },
+  {
+   "text": "Coverage disputes arising out of the pandemic could also increase our professional liability risk by increasing the frequency and severity of allegations by others that, in the course of providing services, we have committed errors or omissions for which we should have liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new liability risk\u2014professional liability from coverage disputes\u2014not previously described."
+  }
+ ]
+}

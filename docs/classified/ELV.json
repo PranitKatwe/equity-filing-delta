@@ -1,0 +1,113 @@
+{
+ "ticker": "ELV",
+ "sector": "Health Care",
+ "filing_date": "2026-02-06",
+ "accession": "0001156039-26-000013",
+ "prior_accession": "0001156039-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 19,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "The states in which we operate with the largest concentrations of revenues include California, New York, Virginia, Indiana, Ohio, Georgia, Florida and Texas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply lists geographic states with concentrated revenue, a factual disclosure rather than a risk statement."
+  },
+  {
+   "text": "CMS has made, and continues to make, changes to its Star Rating program that have impacted, and continue to impact, the ability of plans to achieve Star Ratings of 4.0 or higher.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about CMS's ongoing changes to the Star Rating program, building on the pre-existing Star Rating risk."
+  },
+  {
+   "text": "Uncertainties with respect to future changes to the Star Rating System, which are not determined until after the relevant measurement period, continue to make accurate predictions of each Medicare Advantage plan\u2019s Star Ratings more challenging.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty in predicting Star Ratings, an existing risk theme."
+  },
+  {
+   "text": "Further ongoing regulatory developments or judicial interpretations may continue to shift payment responsibilities or calculation methodologies in ways that increase our costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, generic statement about possible regulatory/judicial shifts without specific new risk detail."
+  },
+  {
+   "text": "The failure to properly maintain the integrity or availability of our data, or to successfully maintain, protect and upgrade our information systems could adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Standard IT/data integrity risk language, an expansion of existing cybersecurity/systems risk."
+  },
+  {
+   "text": "We are subject to risks associated with pandemics, like the COVID-19 pandemic, as well as other extreme events, large-scale medical emergencies and public health crises, which could have an adverse effect on our business, results of operations, and financial condition and financial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Pandemic and public health crisis risk language is a continuation of an already established risk category post-COVID."
+  },
+  {
+   "text": "Any of these developments could adversely impact our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing sentence summarizing impact without adding new specifics."
+  },
+  {
+   "text": "Furthermore, legislative or regulatory actions intended to address rising health-care costs or affordability concerns may result in the imposition of additional requirements on health insurers, including mandated benefits, restrictions on premium increases, or other pricing limitations, which could increase costs, constrain pricing flexibility, and adversely affect our financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific regulatory actions (mandated benefits, premium restrictions) to the pre-existing risk about rising healthcare costs and regulation."
+  },
+  {
+   "text": "We are required to obtain and maintain insurance licenses and other regulatory approvals to market certain of our products and services, to increase prices for certain regulated products and services and to consummate some of our acquisitions and dispositions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard regulatory licensing requirement language, common boilerplate for insurers."
+  },
+  {
+   "text": "In addition, the design of certain of our software products may expose us to allegations of intellectual property infringement and/or intellectual property infringement litigation, which could result in adverse outcomes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding intellectual property infringement claims tied to software products."
+  },
+  {
+   "text": "Our pharmacy services business and pharmacy related operations are subject to various risks and uncertainties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General introductory statement about pharmacy business risks without specific detail."
+  },
+  {
+   "text": "Recently, California enacted legislation that significantly regulates pharmacy benefit managers and pharmacy pricing practices.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new California law regulating PBMs and pharmacy pricing, a concrete new legal/regulatory risk."
+  },
+  {
+   "text": "The law imposes requirements related to price transparency, restrictions on spread pricing, rebate pass-through obligations, licensing, and fiduciary duties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the requirements of the newly introduced California law, expanding on the risk just identified."
+  },
+  {
+   "text": "In addition, Congress recently passed the Consolidated Appropriations Act of 2026, which includes pharmacy benefit manager reforms requiring pharmacy benefit managers to remit all rebates, fees (other than bona fide service fees), and other remuneration received from entities such as manufacturers and group purchasing organizations to commercial plan sponsors, and to provide detailed commercial claims reporting, effective thirty months after enactment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new federal law (Consolidated Appropriations Act of 2026) with concrete PBM reform requirements, a new regulatory risk."
+  },
+  {
+   "text": "The legislation also imposes extensive reporting requirements and delinks pharmacy benefit manager compensation in Medicare Part D by prohibiting pharmacy benefit managers from receiving remuneration related to Part D drugs in any form other than bona fide service fees that cannot be based on a drug\u2019s price, effective in 2028.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the same newly introduced federal legislation's requirements, expanding on the risk just described."
+  },
+  {
+   "text": "There continues to be the potential that similar or additional legislation may be adopted at the state or federal level.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about potential future legislation without specifics."
+  },
+  {
+   "text": "We believe that the BCBS names and marks are valuable identifiers of our products and services in the marketplace.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about brand value, not itself a risk disclosure."
+  },
+  {
+   "text": "An inability of our subsidiaries to pay dividends in the future in an amount sufficient for us to meet our financial obligations may adversely affect our business, cash flows, financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific financial risk regarding subsidiaries' ability to pay dividends affecting parent company obligations."
+  },
+  {
+   "text": "We have substantial indebtedness outstanding and may incur additional indebtedness in the future, which could adversely affect our ability to pursue desirable business opportunities and to react to changes in the economy or our industry.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding substantial existing and potential future indebtedness limiting business flexibility."
+  }
+ ]
+}

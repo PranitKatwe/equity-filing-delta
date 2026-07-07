@@ -1,0 +1,218 @@
+{
+ "ticker": "BMY",
+ "sector": "Health Care",
+ "filing_date": "2026-02-11",
+ "accession": "0000014272-26-000004",
+ "prior_accession": "0000014272-25-000039",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 7,
+  "boilerplate_or_reorder": 18
+ },
+ "items": [
+  {
+   "text": "For example, the UK recently established a new scheme which sets an overall cap on the total annual growth in National Health Services (NHS) spending on branded medicines.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new UK NHS spending cap scheme affecting branded medicine sales, a concrete new regulatory risk."
+  },
+  {
+   "text": "Sales that exceed this cap are returned to the government as a rebate from the pharmaceutical companies in the scheme.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the rebate mechanism tied to the newly described cap, expanding on the risk just introduced."
+  },
+  {
+   "text": "18 As regulators continue to focus on prescription drugs, our products are facing increased pressures across the portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about increased regulatory pressure without new specifics."
+  },
+  {
+   "text": "These pressures stem from legislative and policy changes, including price controls, pharmaceutical market access, discounting, changes to tax and importation laws and other restrictions in the U.S., EU and other regions around the world.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more specific categories of pricing/regulatory pressures already generally known, expanding existing risk description."
+  },
+  {
+   "text": "These pressures have resulted in lower prices, lower reimbursement rates and smaller populations for whom payers will reimburse, which have negatively impacted, and may continue to, negatively impact our results of operations (including intangible asset impairment charges), operating cash flow, liquidity and financial flexibility.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the known negative financial impacts of pricing pressures already disclosed."
+  },
+  {
+   "text": "In November 2025, the HHS announced the \"maximum fair price\" for a 30-day supply of Pomalyst , which applies to the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new HHS action setting a 'maximum fair price' for a named drug, a concrete regulatory development."
+  },
+  {
+   "text": "Medicare channel effective January 1, 2027.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Just specifies the effective date, continuation of prior sentence."
+  },
+  {
+   "text": "It is possible that more of our products could be selected in future years based upon the selection criteria currently utilized by the HHS or potentially expanded future criteria, or that the \"maximum fair price\" for our previously selected products could be renegotiated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the possibility of further products being selected or renegotiated under existing pricing scheme."
+  },
+  {
+   "text": "In May 2025, President Trump issued an executive order entitled, \"Delivering Most-Favored Nation Prescription Drug Pricing to American Patients,\" which, among various proposals, directs the HHS to facilitate direct-to-consumer purchasing programs for pharmaceutical manufacturers that sell their products to American patients at the most-favored-nation price and to communicate most-favored-nation price targets to manufacturers and propose a rulemaking plan to impose most-favored-nation pricing if \u201csignificant progress\u201d is not made towards achieving such pricing.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new executive order establishing most-favored-nation pricing policy, a new specific regulatory threat."
+  },
+  {
+   "text": "In July 2025, the Trump administration sent letters to several pharmaceutical manufacturers, including BMS, which outlined steps that such manufacturers should take to advance certain objectives of the executive order.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on implementation of the MFN executive order already introduced."
+  },
+  {
+   "text": "In December 2025, we announced an agreement with the U.S. government (the \"U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a new U.S. Government Agreement with specific binding commitments affecting pricing and supply."
+  },
+  {
+   "text": "Government Agreement\") pursuant to which we agreed to, among other things: (i) provide Eliquis for free to the Medicaid program effective January 1, 2026; (ii) donate more than seven tons of Eliquis API to fill the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues listing specific terms of the newly announced agreement."
+  },
+  {
+   "text": "Strategic Active Ingredient Reserve; (iii) enable direct-to-patient access to Sotyktu, Zeposia, Reyataz, Baraclude and Orencia for cash-paying patients at discounts approximately 80% off current list prices; (iv) adopt a more balanced pricing approach for new launches across developed nations; and (v) continue to expand domestic production.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifics of the agreement's pricing and production commitments."
+  },
+  {
+   "text": "Further, the U.S. and other countries have recently imposed, and may continue to impose, new tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new tariff risk imposed by U.S. and other countries."
+  },
+  {
+   "text": "While pharmaceuticals are largely exempt from the tariffs imposed in 2025, such exemptions may be terminated or may not apply to any future tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies scope of tariff exemption for pharmaceuticals, expanding the tariff risk just introduced."
+  },
+  {
+   "text": "Government Agreement, BMS will receive certain U.S. tariff relief until January 2029 and will not be subject to future pricing mandates in the U.S., however, such exemptions may be terminated or may not be extended.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific tariff relief terms tied to the new government agreement, a concrete new condition."
+  },
+  {
+   "text": "In addition, we remain subject to any current or future pricing mandates implemented outside of the U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about being subject to non-U.S. pricing mandates, consistent with existing known risk."
+  },
+  {
+   "text": "It is possible that such regulations may result in a material impact on our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about possible material impact."
+  },
+  {
+   "text": "In July 2025, the OBBBA was enacted which, among other things, aims to achieve efficiencies in U.S. federal government healthcare spending over the next decade, primarily within Medicaid.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new law (OBBBA) affecting Medicaid spending, a new specific legislative risk."
+  },
+  {
+   "text": "Additionally, this legislation makes permanent many provisions of the TCJA and modifies certain rules, including within the international tax framework, thereby offering increased certainty for future business planning.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes tax certainty benefits rather than a risk, informational not risk-related."
+  },
+  {
+   "text": "The OBBBA also permits businesses to immediately deduct up to 100% of their qualifying domestic R&D expenses in the year they are incurred for tax years beginning after December 31, 2024, and allows businesses to accelerate deductions (over a one- or two-year period) of domestic R&D expenses that were deferred from 2022 to 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Details tax deduction mechanics, not a risk factor."
+  },
+  {
+   "text": "During 2025, we completed the construction of a new state-of-the-art cell therapy manufacturing facility in Leiden, Netherlands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new facility opening, operational fact not a risk."
+  },
+  {
+   "text": "Additionally, we opened a new radiopharmaceutical facility in Indianapolis, Indiana during 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new facility opening, operational fact not a risk."
+  },
+  {
+   "text": "People Strategy and Culture : Our People Strategy is designed to empower employees to shape the future, own impact, and thrive together as one, forming the foundation of a workplace culture that drives innovation, collaboration, and belonging.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General HR/people strategy narrative, no risk content."
+  },
+  {
+   "text": "Career Growth and Development : BMS is committed to empowering every employee with the skills and capabilities needed to drive growth and transform patient lives through science.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General career development narrative, no risk content."
+  },
+  {
+   "text": "We are investing in next-generation platforms that enable employees to own their careers, including tools that promote internal mobility and the democratization of just-in-time learning resources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about talent investment, no risk content."
+  },
+  {
+   "text": "These investments reflect our shift toward a dynamic, forward-thinking framework for talent development that seeks to cultivate agility and unlock potential.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about talent development framework, no risk content."
+  },
+  {
+   "text": "Recognizing the transformative role of AI across industries, we are investing in upskilling our workforce to build confidence in the proper use and innovative application of these next-generation tools.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about AI upskilling, no risk content."
+  },
+  {
+   "text": "Our vision of acknowledging everyone in the organization as a leader is addressed via a full suite of leadership development resources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General leadership philosophy statement, no risk content."
+  },
+  {
+   "text": "Through these initiatives, we seek to build capabilities for delivering long-term value for patients and shareholders while providing employees with the resources and opportunities they need to own their impact.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about value creation, no risk content."
+  },
+  {
+   "text": "We are guided by our core values: Integrity, Passion, Inclusion, Innovation, Accountability, and Urgency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists core values, no risk content."
+  },
+  {
+   "text": "We include assessments of manager capabilities within these surveys to strengthen leadership effectiveness and team engagement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal survey practices, no risk content."
+  },
+  {
+   "text": "We use data and insights to make choices that are highly valued by employees and support the resilience of our people and business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about data-driven decisions, no risk content."
+  },
+  {
+   "text": "In November 2025, the HHS announced the \"maximum fair price\" for a 30-day supply of Pomalyst, which applies to the U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of earlier Pomalyst MFP disclosure already classified as new risk."
+  },
+  {
+   "text": "Medicare channel effective January 1, 2027.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Repeats effective date detail already covered."
+  },
+  {
+   "text": "The effectuation of a \"maximum fair price\" pursuant to the IRA is a technically complex process that relies on newly developed systems that may experience 24 unforeseen disruptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific operational risk about technical complexity and potential system disruptions in implementing the MFP process."
+  },
+  {
+   "text": "We continue to evaluate the impact of the IRA on our results of operations, and it is possible that these changes may result in a material impact on our business and results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates ongoing evaluation of IRA impact, consistent with prior risk language."
+  },
+  {
+   "text": "In December 2025, we announced the U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the previously announced Government Agreement without new detail."
+  },
+  {
+   "text": "Government Agreement pursuant to which we agreed to, among other things: (i) provide Eliquis for free to the Medicaid program effective January 1, 2026; (ii) donate more than seven tons of Eliquis API to fill the U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats agreement terms already disclosed earlier."
+  },
+  {
+   "text": "Strategic Active Ingredient Reserve; (iii) enable direct-to-patient access to Sotyktu, Zeposia, Reyataz, Baraclude and Orencia for cash-paying patients at discounts approximately 80% off current list prices; (iv) adopt a more balanced pricing approach for new launches across developed nations; and (v) continue to expand domestic production.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats agreement terms already disclosed earlier."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "SMCI",
+ "sector": "Information Technology",
+ "filing_date": "2025-08-28",
+ "accession": "0001375365-25-000027",
+ "prior_accession": "0001375365-25-000004",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "This summary should be read in conjunction with the remainder of this \u201cRisk Factors\u201d section and should not be relied upon as an exhaustive summary of the material risks facing our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about how to read the risk factors summary, not a substantive risk."
+  },
+  {
+   "text": "The occurrence of any of these risks could harm our business, financial condition, results of operations and/or growth prospects or cause our actual results to differ materially from those contained in forward-looking statements we have made in this report and those we may make from time to time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about forward-looking statements and risk impact, no new specific risk."
+  },
+  {
+   "text": "You should consider all of the risk factors described in our public filings when evaluating our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic instruction to consider risk factors, no substantive content."
+  },
+  {
+   "text": "\u201cControls and Procedures\u201d of this Annual Report, and any resulting litigation; \u2022 Matters relating to or arising from the circumstances discussed in Item 9.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing Item 9 as part of a summary list heading, not a standalone substantive disclosure."
+  },
+  {
+   "text": "Risks Related to our Global Operating Business and Industry \u2022 Our operating results have in the past fluctuated and will likely fluctuate in the future, and if our operating results are below the expectations of securities analysts or investors, our stock price could decline; \u2022 If we fail to meet any publicly announced financial guidance or other expectations about our business, it could cause our stock to decline in value; \u2022 Failure to meet the evolving needs of our industry and markets may adversely impact our financial results; \u2022 Our sales are concentrated in a few large customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A list of risk factor topic headings summarizing existing risk categories, functions as a table-of-contents style summary."
+  },
+  {
+   "text": "If we are unable to accurately predict customer demand, we may hold excess or obsolete inventory, which would reduce our gross margin.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific operational risk about inventory demand forecasting and gross margin impact."
+  },
+  {
+   "text": "The AI industry involves significant risks and uncertainties, and the use of AI by our workforce may present risks to our business; \u2022 Our results of operations may be subject to fluctuations based upon certain investments we make; \u2022 Our growth into markets outside the United States exposes us to risks inherent in international business operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI industry risk and international operations risk as new topics not previously covered."
+  },
+  {
+   "text": "Foreign Corrupt Practices Act, other applicable anti-corruption and anti-bribery laws, and applicable trade control laws could subject us to penalties and other adverse consequences; \u2022 Provisions of our certificate of incorporation and bylaws and Delaware law and provisions in our governing documents could discourage, delay or prevent a change of control of our company or changes in our management and, as a result, depress the trading price of our common stock; \u2022 The concentration of our capital stock ownership with insiders likely limits your ability to influence corporate matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard list of legal/governance risk topics (FCPA, anti-bribery, anti-takeover provisions) common in filings, generic in nature."
+  },
+  {
+   "text": "Risks Related to Previous Delinquent SEC Reporting Obligations We face risks related to previously being delinquent in our SEC reporting obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category tied to the company's history of delinquent SEC filings."
+  },
+  {
+   "text": "Due to the circumstances discussed in Item 9.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing Item 9 circumstances, part of restructured cross-reference language."
+  },
+  {
+   "text": "We have incurred and expect to continue to incur significant expenses related to the circumstances discussed in Item 9.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific incurred and expected future expenses tied to the delinquent reporting circumstances."
+  },
+  {
+   "text": "\u201cChanges in and Disagreements with Accountants on Accounting and Financial Disclosure\u201d of this Annual Report and the remediation of deficiencies in our internal control over financial reporting and disclosure controls and procedures, and any resulting litigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another Item's title and remediation efforts, restructured text rather than new risk content."
+  },
+  {
+   "text": "\u201cChanges in and Disagreements with Accountants on Accounting and Financial Disclosure\u201d of this Annual Report, and management\u2019s review of the circumstances and processes that led to those circumstances.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Similar cross-reference language to Item 9 accounting disclosures."
+  },
+  {
+   "text": "Matters relating to or arising from the circumstances discussed in Item 9.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate fragment referencing Item 9 circumstances and litigation."
+  },
+  {
+   "text": "\u201cChanges in and Disagreements with Accountants on Accounting and Financial Disclosure\u201d of this Annual Report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to Item 9 title, no new substantive content."
+  },
+  {
+   "text": "SMCI | 2025 Form 10-K | 13 Table of Contents We have identified material weaknesses in our internal control over financial reporting, which could, if not remediated, adversely affect our ability to report our financial condition and results of operations in a timely and accurate manner.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific material weaknesses in internal controls, a serious and specific financial reporting risk."
+  },
+  {
+   "text": "SMCI | 2025 Form 10-K | 14 Table of Contents Moreover, customers may hesitate to purchase, or not continue to purchase, our products due to ongoing reputational harm, negative publicity or other concerns related to our previously Delinquent Reports.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the delinquent reporting risk theme by adding reputational harm to customer relationships."
+  },
+  {
+   "text": "For example, we have granted and may continue to grant extended payment terms to some customers, particularly during macroeconomic downturns, which could impact our ability to collect payment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of extended payment terms granted to customers affecting collections."
+  },
+  {
+   "text": "Our vendors have requested and may continue to ask for shorter payment terms, which may impact our cash flow generation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of vendors demanding shorter payment terms impacting cash flow."
+  },
+  {
+   "text": "These arrangements reduce the cash we have available for general business operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Directly follows and expands on the payment terms risks just introduced, describing cash flow impact."
+  },
+  {
+   "text": "In addition, the pace of growth in our operating expenses and investments may lag our revenue growth, creating volatility or periods where profitability levels may not be sustainable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk about expense growth outpacing revenue growth causing profitability volatility."
+  },
+  {
+   "text": "Failure to meet our expectations or the expectations of our investors or security analysts is likely to cause our stock price to decline, as it has in the past, or substantial price volatility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on stock price volatility risk with specific historical reference to past declines."
+  },
+  {
+   "text": "Failure to meet the evolving needs of our industry and markets may adversely impact our financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates a generic risk heading already listed in the summary list, essentially reworded repetition."
+  },
+  {
+   "text": "Our products experience rapid changes in technology, customer requirements, competitive products, and industry standards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about industry change common to tech risk factor sections without specifics."
+  },
+  {
+   "text": "We have invested in research and development in markets where we have a limited operating history, which may not produce meaningful revenue for several years, if at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific risk regarding R&D investments in markets with limited operating history and uncertain revenue."
+  },
+  {
+   "text": "If we fail to develop or monetize new products and technologies, or if they do not become widely adopted, our financial results could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the risk of failing to monetize new products, building on the innovation risk theme."
+  },
+  {
+   "text": "Obtaining design wins may involve a lengthy process and depends on our ability to anticipate and provide features and functionality that customers will demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding design win process and customer feature requirements."
+  },
+  {
+   "text": "They also do not guarantee revenue.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Short generic clarifying statement with no independent substantive content."
+  },
+  {
+   "text": "Failure to obtain a design win may prevent us from obtaining future design wins in subsequent generations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the design win risk by describing downstream effects on future design wins."
+  },
+  {
+   "text": "We cannot ensure that our products and technologies will provide value to our customers and partners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of uncertainty about product value, lacks specific detail."
+  },
+  {
+   "text": "If we fail any of these key success criteria, our financial results may be harmed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about failing success criteria without specifics."
+  },
+  {
+   "text": "SMCI | 2025 Form 10-K | 15 Table of Contents Our sales are concentrated in a few large customers.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the customer concentration risk already listed in the summary heading list."
+  },
+  {
+   "text": "If we lose or experience a significant reduction in sales to any of these key customers, if any of these key customers experience a significant decline in market share, or if any of these customers experience significant financial difficulties, our revenue may decrease substantially and our results of operations and financial condition may be harmed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed elaboration on the consequences of losing key customers, expanding the concentration risk."
+  },
+  {
+   "text": "We face risks related to recessions, inflation, stagflation, and other macroeconomic conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new macroeconomic risk category covering recession, inflation, and stagflation."
+  },
+  {
+   "text": "Customer demand for our products may be impacted by weak macroeconomic conditions, inflation, stagflation, recessionary or lower-growth environments, high or rising interest rates, equity market volatility or other negative economic factors in the U.S. or other nations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific macroeconomic factors affecting customer demand, expanding the newly introduced macro risk."
+  },
+  {
+   "text": "For example, under these conditions or expectation of such conditions, our customers may cancel orders, delay purchasing decisions or reduce their use of our services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on macroeconomic impact through customer order cancellations and delays."
+  },
+  {
+   "text": "In addition, these economic conditions have resulted in the past, and could result in the future, in higher inventory levels, and thus additional excess and obsolescence charges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects macroeconomic conditions to inventory obsolescence, expanding both macro and inventory risk themes."
+  },
+  {
+   "text": "Further, in the event of a recession or threat of a recession our manufacturing partners, suppliers, distributors, and other third-party partners may suffer their own financial and economic challenges and as a result they may demand pricing accommodations, delay payment, or become insolvent, which could harm our ability to meet our customer demands or generate revenue or otherwise could harm our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding financial distress of manufacturing partners and suppliers during recessions."
+  },
+  {
+   "text": "Similarly, disruptions in financial and/or credit markets may impact our ability to manage normal commercial relationships with our manufacturing partners, customers, suppliers and creditors and might cause us to not be able to continue to access preferred sources of liquidity when we would like, and our borrowing costs could increase.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding credit market disruptions affecting liquidity access and borrowing costs."
+  },
+  {
+   "text": "Thus, if general macroeconomic conditions, or conditions in the semiconductor industry, or conditions in our customer end markets deteriorate or experience a sustained period of weakness or slower growth, our business and financial results could be materially and adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes and ties together the macroeconomic and industry risk factors just introduced."
+  }
+ ]
+}

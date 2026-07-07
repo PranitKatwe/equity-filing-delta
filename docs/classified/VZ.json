@@ -1,0 +1,183 @@
+{
+ "ticker": "VZ",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-17",
+ "accession": "0000732712-26-000007",
+ "prior_accession": "0000732712-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 33,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 14
+ },
+ "items": [
+  {
+   "text": "These risks could expose us to liability or adverse legal or regulatory consequences and harm our reputation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about liability/reputation harm typical of risk factor framing, no specific new risk."
+  },
+  {
+   "text": "Our competitors may incorporate AI into their offerings and operations more quickly or more successfully than we do, which could impair our ability to compete effectively.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive risk related to AI adoption by competitors."
+  },
+  {
+   "text": "In addition, our business with public sector customers has been and may in the future be negatively affected by a reduction of the federal and state government workforce and other government cost efficiency measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk factor: reduction of government workforce affecting public sector business."
+  },
+  {
+   "text": "During the course of 2025, the U.S. government announced tariffs on goods imported from various countries to the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new concrete event\u20142025 U.S. tariffs\u2014introducing a specific new risk driver."
+  },
+  {
+   "text": "Countries subject to such tariffs have imposed or may in the future impose reciprocal or retaliatory tariffs and other trade measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the tariff risk introduced above by adding retaliatory tariff dynamics."
+  },
+  {
+   "text": "New or increased tariffs and other trade restrictions could adversely affect our cost structure and profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the tariff risk's potential financial impact."
+  },
+  {
+   "text": "Our attempts to mitigate or offset these pressures may not be successful or may have adverse consequences on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic hedging language about mitigation efforts not succeeding, no new specifics."
+  },
+  {
+   "text": "An escalation of trade tensions, additional tariffs or prolonged uncertainty in trade relationships could also lead to supply chain disruptions or adverse economic impacts, which could adversely affect our results of operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on trade tension risk with supply chain and economic impact details."
+  },
+  {
+   "text": "The rapid evolution and increased adoption of artificial intelligence technologies may intensify our cybersecurity risks by increasing the frequency and severity of cyberattacks against us or other companies and by making cyberattacks more difficult to detect, contain or mitigate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk: AI-driven increase in cybersecurity threats."
+  },
+  {
+   "text": "Our long-term success depends on our ability to implement business transformation initiatives and achieve their anticipated benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around business transformation initiatives and their execution."
+  },
+  {
+   "text": "We have been and will be undertaking various business transformation initiatives intended to reduce costs, drive efficiencies, streamline our operations, enhance customer experience, and improve our competitive position.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail describing the transformation initiatives introduced in the prior sentence."
+  },
+  {
+   "text": "These initiatives require making substantial investments in our strategic areas of focus, integrating rapidly evolving technologies, including AI, and optimizing our business and organizational structure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on transformation initiatives including AI integration, expanding the new risk theme."
+  },
+  {
+   "text": "We may be unable to achieve the anticipated efficiencies, cost savings and other benefits from our business transformation initiatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on potential failure to realize transformation benefits."
+  },
+  {
+   "text": "These initiatives involve various execution challenges, may take longer than expected and may result in higher than expected expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specifics about execution challenges within the transformation risk theme."
+  },
+  {
+   "text": "In addition, the execution of our transformation plans may be negatively affected by various external factors, including competitor actions, the regulatory environment and macroeconomic conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on external factors affecting the transformation risk."
+  },
+  {
+   "text": "System failures and disruptions to our networks and operations could prevent us from providing reliable service to customers and adversely affect our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about system failures affecting service reliability, consistent with typical operational risk language."
+  },
+  {
+   "text": "Our systems, networks and operations are subject to potential disruption or failure due to various factors, including power outages, natural disasters, extreme weather conditions, acts of war, or terrorist or other hostile acts, equipment, services or systems failure and human error.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific causes (weather, war, human error) to the existing system disruption risk."
+  },
+  {
+   "text": "For example, in early 2026, we 13 Table of Contents experienced an outage resulting in a widespread disruption of service to our customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific real incident\u2014a 2026 outage\u2014demonstrating concrete new operational risk materialization."
+  },
+  {
+   "text": "These regulators also conduct regulatory proceedings and conduct enforcement inquiries that may affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory proceedings, standard boilerplate."
+  },
+  {
+   "text": "We also must maintain licenses for our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic licensing requirement statement, no new specifics."
+  },
+  {
+   "text": "New laws, regulations, executive orders or court decisions, or changes to the existing regulatory framework or enforcement priorities at the federal, state and local or international level, such as those described below, could restrict the ways in which we manage our wireline and wireless networks and operate our businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General regulatory risk language without specific new details."
+  },
+  {
+   "text": "Generally, governments globally are increasing their focus on privacy and data security requirements and privacy-related legislation, which could have a significant impact on our businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing privacy regulation risk with broader global context."
+  },
+  {
+   "text": "At the federal level, these broadband services are subject to light-touch regulation by the FCC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive regulatory fact restating existing regulatory framework, not a new risk."
+  },
+  {
+   "text": "There can be no assurance that our current or future share repurchase programs will be fully consummated or that we will continue to increase our dividend.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about uncertainty of repurchase/dividend continuation."
+  },
+  {
+   "text": "In January 2026, we announced that we believed that our strategic plans would provide us with the capacity to return approximately $55 billion to our shareholders, in the form of dividend payments and share repurchases, through the end of 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new capital return plan details ($55B) that represent a new financial commitment and associated risk exposure."
+  },
+  {
+   "text": "At that time, the Board of Directors of the Company authorized a share repurchase program of up to $25 billion, as well as a dividend increase, and we stated that we expected to repurchase at least $3 billion of our common stock during 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific figures expanding on the new capital return plan risk introduced above."
+  },
+  {
+   "text": "We cannot guarantee that our intended share repurchase program will be fully consummated or that it will enhance long-term stockholder value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about no guarantee of repurchase completion."
+  },
+  {
+   "text": "Our share repurchase program does not obligate us to acquire any particular amount of common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement that repurchase program isn't an obligation."
+  },
+  {
+   "text": "The amount, timing, and frequency of repurchases will depend on prevailing stock prices, general economic and market conditions and various other factors, and may vary from our stated expectations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors affecting repurchase timing and amount."
+  },
+  {
+   "text": "Share repurchases, if any, may be discontinued, suspended, or delayed at any time at our discretion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about discretion to suspend repurchases."
+  },
+  {
+   "text": "Although historically we have announced regular cash dividends and annually increased our dividend, future dividend increases and payments are subject to declaration by the Company\u2019s Board of Directors and could vary from our historical practices and stated expectations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about dividend policy subject to board discretion."
+  },
+  {
+   "text": "Additionally, share repurchases and changes to dividend practices could affect the trading price of our stock and increase volatility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential stock price effects from repurchases/dividends."
+  },
+  {
+   "text": "Any future share repurchases or dividend payments will reduce our cash reserves, which may impact our ability to finance future growth and pursue strategic opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cash reserve impact from repurchases/dividends, standard risk language."
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ticker": "GIS",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-07-01",
+ "accession": "0001628280-26-046466",
+ "prior_accession": "0001193125-25-147079",
+ "model": "claude-sonnet-5",
+ "n_added": 1,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Emerging artificial intelligence-related threats may increase the frequency and severity of these risks, and may also introduce new threats, both of which could be difficult to defend against.",
+   "category": "new_substantive_risk",
+   "rationale": "This introduces a specific new threat vector\u2014AI-related cybersecurity/threat risks\u2014that was not previously disclosed, and explicitly states these could increase severity/frequency of risks and be difficult to defend against, representing a material expansion of the risk landscape rather than generic boilerplate."
+  }
+ ]
+}

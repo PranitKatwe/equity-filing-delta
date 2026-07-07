@@ -1,0 +1,83 @@
+{
+ "ticker": "MA",
+ "sector": "Financials",
+ "filing_date": "2026-02-11",
+ "accession": "0001141391-26-000013",
+ "prior_accession": "0001141391-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 13,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Moreover, because of various concerns jurisdictions may have with respect to our business, including any decisions we may make relating to entering or exiting a 28 MASTERCARD 2025 FORM 10-K PART I ITEM 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a page header fragment merged with introductory text, not a substantive risk statement."
+  },
+  {
+   "text": "With respect to information security, any single breach could require parallel notifications to data protection authorities, cyber authorities and/or law-enforcement, often requiring different thresholds, reporting deadlines and formats.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about the complexity of breach notification requirements to an already-existing information security risk."
+  },
+  {
+   "text": "Participants may also withhold rights to data we use to power our solutions in order to support their own potential future solutions, potentially impacting the effectiveness of our solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that participants may withhold data rights, impacting the effectiveness of the company's solutions."
+  },
+  {
+   "text": "In addition, the current or future listing of Recorded Future as an \u201cundesirable\u201d or \u201cunreliable\u201d entity by certain jurisdictions could further increase our risks in this area.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding Recorded Future being listed as an 'undesirable' or 'unreliable' entity by certain jurisdictions."
+  },
+  {
+   "text": "We switch a high percentage of domestic (or in-country) transactions conducted using cards with our brands.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes an existing core business characteristic (switching domestic transactions) without introducing new risk detail."
+  },
+  {
+   "text": "However, there are several jurisdictions in which domestic transactions are switched by our customers or other processors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual clarifying statement about existing business operations, not a new or expanded risk."
+  },
+  {
+   "text": "Additionally, we or our customers could take (or be perceived to take) actions related to these industries, which could be viewed negatively and result in threats or other retaliatory actions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of retaliatory actions resulting from perceived actions related to certain industries."
+  },
+  {
+   "text": "38 MASTERCARD 2025 FORM 10-K PART I ITEM 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer text, not risk content."
+  },
+  {
+   "text": "MASTERCARD 2025 FORM 10-K 39 PART I ITEM 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer text, not risk content."
+  },
+  {
+   "text": "In addition, Brazil recently enacted regulation requiring PSOs in Brazil (including Mastercard and Visa) to extend their responsibility for the financial and settlement integrity of payments to merchants.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk from Brazil requiring PSOs to extend responsibility for financial and settlement integrity."
+  },
+  {
+   "text": "As we continue to be subject to increased regulation across the globe, more jurisdictions may enact similar approaches from time to time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generalizes and expands the existing regulatory risk to suggest broader adoption of similar approaches across jurisdictions."
+  },
+  {
+   "text": "Any such changes could increase complexity and may impact our cost of operations and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about complexity and cost impact without new specifics."
+  },
+  {
+   "text": "40 MASTERCARD 2025 FORM 10-K PART I ITEM 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer text, not risk content."
+  }
+ ]
+}

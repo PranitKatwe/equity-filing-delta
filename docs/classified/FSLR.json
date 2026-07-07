@@ -1,0 +1,218 @@
+{
+ "ticker": "FSLR",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-24",
+ "accession": "0001274494-26-000021",
+ "prior_accession": "0001274494-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 18,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "Antoun serves as a member of the board of directors of Marathon Digital Holdings and MARA Holdings, and serves on the Federal Reserve Bank of Atlanta\u2019s Energy Advisory Council.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about a board member's other directorships; no risk content."
+  },
+  {
+   "text": "Samantha Sloan joined First Solar in August 2009 and was appointed Executive Vice President of Corporate Affairs in April 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk statement."
+  },
+  {
+   "text": "Sloan drives the Company\u2019s global policy and public affairs, corporate social responsibility, and corporate marketing efforts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an executive's job responsibilities, not a risk."
+  },
+  {
+   "text": "Sloan primarily works to advocate for domestic energy technology innovation, R&D, manufacturing, and trade policy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes advocacy focus of an executive, informational only."
+  },
+  {
+   "text": "She also oversees First Solar\u2019s global marketing and media relations activities, as well as research, disclosure, and reporting related to the Company\u2019s commitment to Responsible Solar.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further biographical detail about executive's oversight duties."
+  },
+  {
+   "text": "Before joining First Solar, Ms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment of biography sentence, no risk content."
+  },
+  {
+   "text": "Sloan served as the head of global strategic marketing of the semiconductor segment at Applied Materials, the world\u2019s leading materials engineering solutions company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Prior employment history of executive, not a risk."
+  },
+  {
+   "text": "Sloan holds a Bachelor of Science in Materials Science and Engineering from the University of California, Berkeley.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Educational background of executive, not a risk."
+  },
+  {
+   "text": "Module average selling prices in many global markets have declined.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about declining module prices restates a known pricing risk."
+  },
+  {
+   "text": "However, recent module pricing in the United States, our primary market, has remained stable due, in part, to the rising demand for domestically manufactured modules as a result of the IRA, energy tax credit eligibility restrictions (including foreign-entity-related limitations) as amended by the OBBBA, and tariffs on modules imported into the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing pricing risk by linking stability to specific policy factors (IRA, OBBBA, tariffs)."
+  },
+  {
+   "text": "Application of trade laws may also adversely impact, either directly or indirectly, our operating results; for example, by impacting our customers\u2019 project costs, profitability, and their demand for our modules; or by impacting our own costs or disrupting our manufacturing or supply chains, and consequently negatively impacting demand and/or price levels for our solar modules, reducing our net sales, or affecting potential profitability of fulfilling customer contracts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how trade laws could affect operations, building on existing tariff risk."
+  },
+  {
+   "text": "These and other costs could result in an inability for certain projects to generate profitable returns, and may lead to the delay or abandonment of such projects, thereby reducing or removing demand for currently contracted PV module sales; and \u2022 any reduction in our ability to profitably import modules from our international manufacturing locations as a result of tariffs or other trade laws could lead to us significantly reducing capacity utilization at certain international manufacturing facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on how tariff-related costs could delay or cancel projects, expanding existing trade risk."
+  },
+  {
+   "text": "Such underutilization may lead to potential impairment of certain international equipment and facilities and may also increase our selling costs and reduce our competitiveness in the market, thereby reducing demand for our modules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential impairment and competitiveness issues from underutilization, extending existing risk."
+  },
+  {
+   "text": "The overall impact of trade laws on our business depends on multiple factors, including their duration, their scope and potential expansion thereof, enforcement, retaliatory measures by impacted exporting countries, inflationary effects and broader macroeconomic responses, changes to consumer purchasing behavior, and the effectiveness of our responses in managing these impacts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about multiple influencing factors, typical risk factor framing language."
+  },
+  {
+   "text": "President imposed a series of tariffs on nearly all U.S. trading partners pursuant to the International Emergency Economic Powers Act of 1977 (\u201cIEEPA\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tariff actions under IEEPA not previously disclosed."
+  },
+  {
+   "text": "As it pertains to the countries where we manufacture solar modules, IEEPA tariffs applied to Vietnam (20%), India (25%), and Malaysia (19%).",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new specific tariff rates for key manufacturing countries."
+  },
+  {
+   "text": "President had imposed an additional 25% tariff 20 Table of Contents on India over its purchases of Russian oil, resulting in an overall rate of 50%.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a new specific tariff increase tied to geopolitical factors (Russian oil purchases)."
+  },
+  {
+   "text": "Supreme Court ruled the IEEPA tariffs unlawful.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports a new legal development (Supreme Court ruling) materially affecting tariff risk landscape."
+  },
+  {
+   "text": "President Trump responded immediately by revoking the IEEPA tariff actions and imposing new global tariffs pursuant to Section 122 of the Trade Act of 1974 (\u201cSection 122\u201d), which provides for tariffs up to 15% for a period of no more than 150 days.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new tariff regime replacing prior ones, a substantive new development."
+  },
+  {
+   "text": "The additional, higher tariffs on imports from these countries has increased the costs of our solar modules manufactured in these countries with respect to our U.S. market.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the cost impact of tariffs, expanding on existing tariff risk."
+  },
+  {
+   "text": "Further, such circumstances have and may continue to impact our ability to sell certain modules into the United States and therefore have and may continue to also impact the operational status of certain of our international manufacturing facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains operational impacts of tariffs on manufacturing facilities, extending prior risk."
+  },
+  {
+   "text": "On February 20, 2026, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Date fragment repeating previously mentioned Supreme Court ruling, no new substance."
+  },
+  {
+   "text": "Supreme Court ruled the IEEPA tariffs unlawful, and President Trump immediately revoked the IEEPA tariff actions, including the additional tariffs on China, and replaced them with a new global tariff pursuant to Section 122.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new detail on legal ruling and subsequent tariff replacement affecting China specifically."
+  },
+  {
+   "text": "On April 17, 2025, the Office of the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new regulatory action (USTR notice) not previously disclosed."
+  },
+  {
+   "text": "Trade Representative published a notice of final action based on an investigation under Section 301 of the Trade Act of 1974 into China\u2019s targeting of the maritime, logistics, and shipbuilding sectors for dominance.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new Section 301 investigation into China's shipbuilding sector, a new risk factor."
+  },
+  {
+   "text": "The action imposes new port fees on Chinese vessel operators and/or Chinese vessel owners as well as on non-Chinese operators of Chinese-origin vessels beginning on October 14, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new port fees on Chinese vessel operators, a new financial risk."
+  },
+  {
+   "text": "The level of fees is on a sliding scale per net ton or, in the case of non-Chinese operators, the higher of a net ton or container-based fee.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides fee structure details, expanding the newly introduced port fee risk."
+  },
+  {
+   "text": "Effective November 10, 2025, however, the United States suspended implementation of such action for one year.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes suspension of the fee implementation, refining the newly introduced risk."
+  },
+  {
+   "text": "Once implemented, such fees may impact our logistics services and consequently impact our profitability and results of operations. \u2022 United States \u2014 Tariffs on Certain Foreign-imported Aluminum, Steel, Copper, Timber and Lumber.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains potential profitability impact of the new fees, extending the new risk."
+  },
+  {
+   "text": "Effective June 4, 2025, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new tariff action effective June 2025 on aluminum/steel, a new development."
+  },
+  {
+   "text": "Effective August 1, 2025, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "References another new tariff action effective August 2025."
+  },
+  {
+   "text": "President imposed tariffs of 50% on copper under Section 232.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new 50% tariff on copper under Section 232, a new specific risk."
+  },
+  {
+   "text": "Effective October 14, 2025, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "References new tariff action effective October 2025."
+  },
+  {
+   "text": "President imposed tariffs of 10% on imported softwood timber and lumber products under Section 232.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new tariff on softwood timber/lumber, a new specific trade risk."
+  },
+  {
+   "text": "Secretary of Commerce initiated an investigation to determine the effects on the national security of imports of processed critical minerals, as well as their derivative products, under Section 232; on July 1, 2025, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new national security investigation into critical minerals imports."
+  },
+  {
+   "text": "Secretary of Commerce initiated a Section 232 investigation to determine whether imports of polysilicon and its derivatives impair U.S. national security; and on September 2, 2025, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new investigation into polysilicon imports, directly relevant to solar manufacturing inputs."
+  },
+  {
+   "text": "Secretary of Commerce initiated an investigation to determine the effects on the national security of imports of robotics and industrial machinery under Section 232.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new investigation into robotics/industrial machinery imports, a new potential risk area."
+  },
+  {
+   "text": "The scope of these investigations is potentially broad and may cover materials and equipment used in solar module manufacturing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains broad scope of new investigations affecting solar manufacturing, extending previously introduced risk."
+  },
+  {
+   "text": "These investigations may result in the imposition of tariffs or import restrictions, or may remove barriers on the imports of competitor products and materials, all of which could negatively impact demand and/or price levels for our solar modules and limit our growth, lead to a reduction in our net sales, or increase our costs, thereby adversely impacting our operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential negative outcomes of the investigations, expanding on the newly introduced risk."
+  },
+  {
+   "text": "International Trade Commission (\u201cUSITC\u201d) to impose duties on certain unfairly traded solar products from Cambodia, Malaysia, Thailand, and Vietnam.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new USITC action imposing duties on solar products from specific countries, a new trade risk."
+  }
+ ]
+}

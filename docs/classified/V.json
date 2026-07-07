@@ -1,0 +1,218 @@
+{
+ "ticker": "V",
+ "sector": "Financials",
+ "filing_date": "2025-11-06",
+ "accession": "0001403161-25-000089",
+ "prior_accession": "0001403161-24-000058",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 33,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Such regulations may increase in quantity, complexity and scope in response to heightened geopolitical tensions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that regulations may increase in complexity due to geopolitical tensions; no specific new risk detailed."
+  },
+  {
+   "text": "Finally, in August 2025, the District Court for the District of North Dakota ruled that the Federal Reserve exceeded its authori ty in implementing Regulation II, which sets debit card interchange fees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new court ruling that the Federal Reserve exceeded its authority on debit interchange fees, a concrete new legal/regulatory development."
+  },
+  {
+   "text": "The court found the Federal Reserve improperly included various costs beyond what the Durbin Amendment allows, such as fraud losses, network fees and other fixed costs, when setting the debit interchange fee standard.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on the basis of the North Dakota court's ruling introduced in the prior sentence."
+  },
+  {
+   "text": "As a result, the court vacated Regulation II\u2019s debit interchange fee 21 Table of Contents standard.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing the outcome of the same court ruling (vacating the standard)."
+  },
+  {
+   "text": "Subsequently, however, the District Court in Kentucky ruled that the Federal Reserve acted within its discretion in setting the debit interchange cap.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a countervailing legal development (Kentucky ruling) within the same interchange litigation narrative."
+  },
+  {
+   "text": "If the District Court of North Dakota\u2019s decision is affirmed on appeal and ultimately prevails, it could potentially result in the Federal Reserve setting a significantly lower interchange cap for relevant debit transactions in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Speculates on potential future impact of the same North Dakota ruling already introduced."
+  },
+  {
+   "text": "It is possible that the Credit Card Competition Act may be reintroduced in Congress or attempted to be offered as an amendment to unrelated legislation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legislative threat (Credit Card Competition Act) not previously mentioned."
+  },
+  {
+   "text": "Similarly, in New Zealand, the Commerce Commission recently lowered existing caps on domestic credit transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory action lowering interchange caps in New Zealand."
+  },
+  {
+   "text": "Most recently, in July 2025, New Zealand adopted interchange caps on cross-border transactions including commercial credit transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds further detail on New Zealand's regulatory actions already introduced."
+  },
+  {
+   "text": "Australia has also proposed adopting caps for cross-border transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new country (Australia) proposing similar interchange cap regulation."
+  },
+  {
+   "text": "Cross-border MDR is also regulated in Costa Rica and Turkey. \u2022 With increased lobbying by sellers and other industry participants, we are also beginning to see regulatory interest in network fees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific countries (Costa Rica, Turkey) regulating cross-border MDR, a new detail not previously disclosed."
+  },
+  {
+   "text": "Other countries, like Brazil, have adopted regulations that require us to seek government pre-approval for certain of our network rules, which could also impact the way we operate in those markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory requirement in Brazil requiring government pre-approval for network rules."
+  },
+  {
+   "text": "Recent political developments around the world, including recent shifts in trade policy, have added additional uncertainty with respect to new laws and regulations or changes in the interpretations or enforcement of existing laws and regulations, and increased risk of financial regulatory fragmentation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about political developments and trade policy adding uncertainty, without specific new risk."
+  },
+  {
+   "text": "Although the PBOC has permitted Visa and UnionPay\u2019s cooperation on upgrading magstripe dual-branded cards to chip cards, these modernization efforts are limited to existing cards and not new issuances.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific limitation detail to the existing China/PBOC card modernization risk."
+  },
+  {
+   "text": "In Europe, the European Central Bank has announced initiatives to reduce reliance on international payment networks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive threat: ECB initiatives to reduce reliance on international payment networks."
+  },
+  {
+   "text": "More recently, the European Central Bank has embarked on a multi-year effort to explore a digital euro, an alternative to foreign digital currency and payment service providers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates further on the same ECB initiative with the digital euro detail."
+  },
+  {
+   "text": "For example, some countries have expressed concerns about their reliance on U.S. financial services companies, including payments networks, and have taken steps to bolster the development of domestic solutions, in light of U.S., European and UK sanctions against Russia and the decision by U.S. payments networks, including Visa, to suspend operations in the country.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional context/detail on the same theme of countries reducing reliance on U.S. payment networks, citing Russia sanctions."
+  },
+  {
+   "text": "Legislators and regulators around the world are increasingly adopting or revising privacy, data protection, data management, data transfer, AI and cybersecurity laws and regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about global trend of privacy/AI regulation adoption, no specific new risk."
+  },
+  {
+   "text": "In addition, privacy laws in numerous jurisdictions, including but not limited to the U.S., China, India, Australia, New Zealand, Brazil, Kingdom of Saudi Arabia, Hong Kong and Japan, have established specific legal requirements for cross-border transfers of personal information and substantial compliance and audit obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new compliance obligations across many named jurisdictions regarding cross-border data transfer."
+  },
+  {
+   "text": "Certain countries have also established specific legal requirements for data localization, such as where personal data must remain stored in the country.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds further detail (data localization) to the previously introduced privacy compliance risk."
+  },
+  {
+   "text": "The increased risk of inadvertent disclosure of confidential information or personal data in connection with the utilization of AI technologies may result in stronger regulatory scrutiny, leading to legal and regulatory investigations and 25 Table of Contents enforcement actions that may negatively affect our business, even if unfounded.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of regulatory scrutiny from AI-related data disclosure issues."
+  },
+  {
+   "text": "In particular, the adoption of agentic commerce, in which autonomous AI agents initiate and execute transactions on behalf of users, presents novel and complex regulatory, privacy and cybersecurity risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a wholly new risk category: agentic commerce and its novel regulatory/privacy/cybersecurity implications."
+  },
+  {
+   "text": "Legal frameworks governing such autonomous agents remain nascent, with limited direct guidance specific to payments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the immaturity of legal frameworks for the newly introduced agentic AI risk."
+  },
+  {
+   "text": "The interplay between payments regulations, data privacy laws and evolving AI regulations may create uncertainty around compliance obligations and potential liability exposure as more participants (including sellers, fintechs, AI developers and enablers) enter the agentic commerce ecosystem.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details compliance uncertainty stemming from the agentic commerce risk already introduced."
+  },
+  {
+   "text": "For example, as agentic commerce solutions scale, we may see increased instances of erroneous or disputed payments, increased chargebacks and reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific consequence (chargebacks, disputes) of the agentic commerce risk already introduced."
+  },
+  {
+   "text": "Furthermore, reliance on agentic AI introduces challenges in monitoring cross-border, prohibited or high-risk transactions, where conflicting regulatory requirements may apply.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds another specific consequence (cross-border monitoring challenges) tied to the same agentic AI risk."
+  },
+  {
+   "text": "The fragmented regulatory landscape for emerging technologies such as AI and inconsistent requirements across legal frameworks may amplify difficulties in identifying, preventing or mitigating risk with a single global approach, potentially increasing our compliance costs or stratifying our ability to leverage certain data or technologies for innovation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes compounding difficulty from fragmented AI regulation, continuing the same risk thread."
+  },
+  {
+   "text": "Meanwhile, several U.S. states, including California, Colorado and Utah, have adopted AI-specific frameworks or are considering applying existing consumer and data protection laws to regulate AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Names specific U.S. states adopting AI frameworks, adding detail to the broader AI regulatory risk already discussed."
+  },
+  {
+   "text": "We expect to face more competition as AI continues to advance and GenAI and agentic AI capabilities become integrated into payments and related services in two main ways: first, by competitors successfully enhancing their products, services and external offerings with AI to achieve greater and faster product adoption; and second, by competitors providing internal AI tools to upskill their employees for greater operational efficiencies and impact.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive risk tied to AI/GenAI adoption by competitors."
+  },
+  {
+   "text": "In addition, our competitors may have, or in the future may obtain, proprietary rights that would prevent, limit or interfere with our ability to design, use or sell our own AI-based offerings or services to our clients and other third parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the AI competition risk to include proprietary rights concerns."
+  },
+  {
+   "text": "If we do not continue to invest in developing and supporting our AI-based initiatives, we may fall behind technological developments and evolving industry standards, which would likewise harm our reputation and ability to effectively compete, retain clients or grow our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about falling behind if not investing in AI, standard competitive risk language."
+  },
+  {
+   "text": "For more information on government actions, initiatives or regulations that could impact competition, please see Item 1\u2014Government Regulation and Item 1A\u2014Regulatory Risks above.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a substantive risk statement."
+  },
+  {
+   "text": "Stablecoins Act (GENIUS Act), establishing a comprehensive framework for regulating stablecoins.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new law (GENIUS Act) establishing a stablecoin regulatory framework."
+  },
+  {
+   "text": "Similarly, the European Union has adopted its own legal framework for crypto assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about EU's parallel stablecoin/crypto regulatory framework, continuing the same topic."
+  },
+  {
+   "text": "Many other countries, including the U.K., Japan, United Arab Emirates, Hong Kong and Singapore, are at varying stages of adopting stablecoin and digital assets-related regulatory frameworks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists additional countries developing similar frameworks, continuing the stablecoin regulation theme."
+  },
+  {
+   "text": "With more regulatory certainty and permissive or favorable regulations, stablecoins could potentially disrupt existing payment networks, including in cross-border and B2B transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive risk: stablecoins disrupting existing payment networks."
+  },
+  {
+   "text": "In countries facing currency instability and controls, stablecoins could increasingly be used as an alternative to preserve and transfer asset value.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on stablecoin risk in currency-unstable countries, continuing prior point."
+  },
+  {
+   "text": "For example, parties may agree not to use our payments network for processing transactions resulting in sellers processing transactions directly with issuers, or processors processing transactions directly with issuers and acquirers. \u2022 New or revised industry standards for or related to payments set by individual countries, regions or standard setting organizations may result in additional costs and expenses for Visa and its clients, or otherwise negatively impact the functionality and competitiveness of our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new disintermediation risk where parties bypass Visa's network directly with issuers/acquirers."
+  },
+  {
+   "text": "A number of the issues flagged in this risk factor are subject to pending litigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General disclosure statement noting litigation exists, without new substantive detail."
+  },
+  {
+   "text": "For more information, please see Note 20\u2014Legal Matters to our consolidated financial statements included in Item 8 of this report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, purely administrative."
+  }
+ ]
+}

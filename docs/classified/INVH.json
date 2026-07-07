@@ -1,0 +1,218 @@
+{
+ "ticker": "INVH",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-19",
+ "accession": "0001687229-26-000016",
+ "prior_accession": "0001687229-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 38,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 29,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "In addition, executive actions and federal and state legislative, regulatory, or policy initiatives, particularly those focused on institutional ownership and acquisition of single-family homes, could limit our ability to acquire properties, impose additional compliance or operating requirements, or constrain pricing flexibility in certain markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk: legislative/regulatory/executive action targeting institutional single-family home ownership, which could restrict acquisitions or pricing\u2014this is a distinct new external risk not previously described."
+  },
+  {
+   "text": "For additional information regarding risks related to our development and construction activities, see \u2014 \u201c Our expansion into land development and home construction activities exposes us to additional operational and real estate risks, which may adversely affect our financial condition, cash flows, and operating results.\u201d Competition in identifying and acquiring our properties and in pursuing development opportunities could adversely affect our ability to implement our business and growth strategies, which could materially and adversely affect us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a cross-reference to another risk factor plus a generic competition statement, functioning mainly as framing/signposting rather than new substantive content."
+  },
+  {
+   "text": "With respect to our development and construction activities, we also compete with national and regional homebuilders, land developers, and other build-to-rent operators for the acquisition of developable land, finished lots, and lot option contracts, as well as for construction labor, materials, and subcontractor services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (competition with homebuilders/land developers for land, labor, materials) to the already-existing development/construction risk factor."
+  },
+  {
+   "text": "Although collections from residents have improved over the past year compared to recent periods, they have not returned to historical levels and may never fully do so.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific negative fact\u2014resident collections have not returned to historical levels and may never fully recover\u2014representing a concrete new risk disclosure."
+  },
+  {
+   "text": "We may also experience higher resident turnover.",
+   "category": "expanded_existing_risk",
+   "rationale": "Brief addition noting potential higher turnover, extending the existing occupancy/collections risk narrative."
+  },
+  {
+   "text": "With respect to our development and construction activities, we make additional assumptions, including assumptions related to land acquisition and lot costs, construction cost estimates, availability and cost of labor, materials, and subcontractor services, permitting and entitlement timelines, construction schedules, and projected rental rates and lease-up timing at the time of project completion.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific assumption categories (land costs, construction estimates, etc.) to the already-established development/construction risk."
+  },
+  {
+   "text": "With respect to our development and construction activities, we rely on general contractors, subcontractors, and other third-party service providers to perform land development, site work, and home construction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details reliance on contractors/subcontractors as part of the pre-existing development and construction risk factor."
+  },
+  {
+   "text": "29 Our reliance on a limited number of third-party digital marketing and lead-generation platforms, including a single dominant platform, exposes us to significant business, financial, and operational risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a wholly new, specific risk factor: heavy reliance on a limited number of digital marketing platforms, including a single dominant one."
+  },
+  {
+   "text": "We rely heavily on third-party digital marketing and residential listing platforms to generate leasing leads for our homes.",
+   "category": "new_substantive_risk",
+   "rationale": "States the core new fact of heavy dependence on third-party digital marketing/listing platforms for leasing leads."
+  },
+  {
+   "text": "A substantial portion of prospective residents are introduced to our properties through a single, widely used third-party platform that plays a significant role in resident search behavior and lead origination.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies that a substantial portion of leads come through one dominant platform\u2014an important new concentration risk."
+  },
+  {
+   "text": "As a result, our ability to attract residents, maintain occupancy levels, and efficiently lease our homes is materially dependent on the continued effectiveness, availability, and commercial terms of that platform.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates the consequence of the newly introduced platform dependency on occupancy and leasing ability."
+  },
+  {
+   "text": "Our reliance on this platform subjects us to risks largely outside of our control, including changes in pricing, algorithms, listing prioritization, data access, advertising formats, contractual terms, or policies governing the display or distribution of our listings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the mechanisms (pricing, algorithms, data access) through which the new platform risk could materialize."
+  },
+  {
+   "text": "Any adverse changes to these factors could reduce lead volume or quality, increase our marketing and customer acquisition costs, or impair our ability to convert prospects into residents, any of which could materially and adversely affect our operating results and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential financial impacts (higher costs, reduced conversion) stemming from the already-introduced platform dependency risk."
+  },
+  {
+   "text": "In addition, the platform may prioritize its own interests or those of competitors, including by favoring certain listings, business models, or service offerings, or by entering into strategic relationships that disadvantage us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about the platform potentially favoring competitors, expanding on the dependency risk already introduced."
+  },
+  {
+   "text": "We generally do not control how prospective residents interact with or are directed by the platform, and we may have limited ability to influence changes that negatively impact our visibility or performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates lack of control over the platform, continuing the newly introduced dependency risk narrative."
+  },
+  {
+   "text": "Our dependence on this platform also exposes us to operational and reputational risks arising from service disruptions, system outages, cybersecurity incidents, data integrity issues, or reputational harm suffered by the platform itself.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk vector\u2014operational/reputational harm from cybersecurity incidents or outages affecting the third-party platform."
+  },
+  {
+   "text": "Any interruption in the platform\u2019s operations or loss of consumer trust could materially reduce leasing activity for our homes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating the consequence of platform disruption already introduced in the prior sentence."
+  },
+  {
+   "text": "While we seek to diversify our marketing channels and invest in alternative lead-generation strategies, there can be no assurance that we will be able to do so effectively or on commercially reasonable terms, or that alternative channels would generate comparable lead volume or efficiency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generic mitigation language about diversifying marketing channels, expanding on the already-introduced platform dependency risk."
+  },
+  {
+   "text": "If our relationship with this platform were terminated, materially altered, or became significantly more costly or less effective, we may not be able to replace the lost leads in a timely or cost-effective manner, which could have a material adverse effect on our business, financial condition, results of operations, and ability to execute our growth strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific material consequence\u2014termination or cost increase of the platform relationship could materially harm the business\u2014representing a concrete new risk scenario."
+  },
+  {
+   "text": "As part of our growth strategy, we completed the acquisition of ResiBuilt and expanded our platform to engage in the development and construction of single-family rental homes and communities, including through build-to-rent development and third-party fee-building arrangements.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new corporate event (ResiBuilt acquisition) and associated new business line (build-to-rent development, fee-building), a material new risk exposure."
+  },
+  {
+   "text": "These activities involve substantial up-front costs, operational complexity, and execution risk, and require us to successfully manage land acquisition strategies, construction processes, and development timelines before homes are available for rent and to generate income.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates operational/execution risks tied to the newly disclosed development expansion already introduced."
+  },
+  {
+   "text": "Our development and construction strategy may also be restricted by governmental regulations and zoning requirements that limit the locations, density, or types of homes we are able to build.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds regulatory/zoning detail to the already-introduced development strategy risk."
+  },
+  {
+   "text": "Building rental homes and rental communities also involves significant risks to our business, such as delays or cost increases due to changes in or failure to meet regulatory requirements, including permitting and zoning regulations, failure of lease rentals on newly-constructed properties to achieve anticipated investment returns, inclement weather, adverse site selection, unforeseen site conditions or shortages of suitable land, construction materials, and labor, and other risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific risks (weather, site conditions, cost increases) within the already-introduced building/development risk."
+  },
+  {
+   "text": "We may be unable to build new rental homes and rental communities that generate acceptable returns, and, as a result, our growth and results of operations may be adversely impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates potential inability to achieve acceptable returns, extending the previously introduced development risk."
+  },
+  {
+   "text": "The successful integration of ResiBuilt\u2019s operations, personnel, systems, and development pipeline into our organization is subject to execution risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Standard integration risk language tied to the already-disclosed ResiBuilt acquisition, expanding rather than introducing a new risk category."
+  },
+  {
+   "text": "We may encounter challenges in retaining key personnel, aligning development standards and processes, managing increased operational scale, or realizing anticipated benefits from the acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details integration challenges (personnel, standards, scale) building on the previously introduced acquisition risk."
+  },
+  {
+   "text": "If we are unable to effectively integrate these operations or manage expanded development activities, our growth strategy, results of operations, and cash flows could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential adverse effects of failed integration, continuing the already-introduced acquisition risk."
+  },
+  {
+   "text": "Although the ResiBuilt acquisition includes options to acquire approximately 1,500 lots, no land was acquired in the transaction, and there can be no assurance that we will exercise these options on favorable terms, if at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail (1,500 lot options, no land acquired) expanding on the previously introduced ResiBuilt transaction risk."
+  },
+  {
+   "text": "The availability, timing, and economics of future lot acquisitions remain subject to market conditions, entitlement risk, competition with other homebuilders and land buyers, inflation in land prices, zoning and density restrictions, and other regulatory approvals, many of which are outside of our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details factors affecting future lot acquisitions, expanding the already-introduced land acquisition/development risk."
+  },
+  {
+   "text": "If we are unable to secure suitable lots at acceptable prices, exercise lot options on favorable terms, or experience delays in land acquisition or development, the number of homes we are able to construct and lease, or the scale of our development activities, could be limited, which could adversely affect our growth, financial condition, cash flows, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequences of failing to secure lots, continuing the previously introduced development/land acquisition risk."
+  },
+  {
+   "text": "We have launched a developer lending program pursuant to which we provide financing to experienced homebuilders for the development of single-family rental communities that may serve as future acquisition opportunities.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a brand-new business activity\u2014a developer lending program providing financing to homebuilders\u2014introducing a new credit/counterparty risk exposure."
+  },
+  {
+   "text": "Construction and development lending subjects us to risks that differ from those associated with our traditional acquisition activities, including the risk that borrowers may be unable to complete projects on schedule or within budget, experience financial distress, or default on their obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific risks (borrower default, delays) associated with the newly introduced lending program."
+  },
+  {
+   "text": "We are dependent on the financial strength, operational capacity, and performance of third-party developers, and our exposure may be concentrated among a limited number of borrowers, amplifying these risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates concentration risk tied to the newly introduced lending program."
+  },
+  {
+   "text": "Construction and development financing presents inherent uncertainty in estimating project costs, timelines, and values upon completion.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on cost/timeline estimation uncertainty within the newly introduced lending risk."
+  },
+  {
+   "text": "Projects may be delayed, exceed budget, or fail to achieve expected performance due to changes in housing demand, labor and material costs, permitting requirements, weather conditions, or other factors beyond our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes factors that could cause project delays or budget overruns, expanding the already-introduced lending/development risk."
+  },
+  {
+   "text": "Loans on land under development pose additional risk because of the lack of income being produced by the property and the potential illiquid nature of the collateral.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details collateral illiquidity risk specific to the newly introduced lending program, expanding on it."
+  },
+  {
+   "text": "These risks can be significantly impacted by supply and demand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, generic statement about supply and demand impact with no specific new information."
+  },
+  {
+   "text": "Construction loans also require active and ongoing monitoring, including cost reviews and on-site inspections, which are complex and costly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds operational detail about monitoring requirements for the newly introduced construction lending activity."
+  },
+  {
+   "text": "31 Additionally, there can be no assurance that we will acquire any financed communities on favorable terms or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes uncertainty about acquiring financed communities, continuing the newly introduced lending program risk."
+  },
+  {
+   "text": "If these risks materialize, we may experience loan losses, reduced returns, or adverse effects on our financial condition, cash flows, and operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential financial consequences of the newly introduced lending risks, an extension of the prior lending-related disclosures."
+  }
+ ]
+}

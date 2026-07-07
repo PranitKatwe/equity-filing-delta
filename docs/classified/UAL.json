@@ -1,0 +1,218 @@
+{
+ "ticker": "UAL",
+ "sector": "Industrials",
+ "filing_date": "2026-02-12",
+ "accession": "0000100517-26-000023",
+ "prior_accession": "0000100517-25-000046",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 36
+ },
+ "items": [
+  {
+   "text": "Lufthansa City Airlines joined Star Alliance as part of Lufthansa.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely factual statement about an airline alliance membership with no risk implication."
+  },
+  {
+   "text": "The Company sells airline tickets and ancillary products through a wide range of distribution channels, including direct channels such as the Company's website at www.united.com and the Company's mobile app, as well as traditional travel agencies, online travel agencies (\"OTAs\") and other intermediaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing distribution channels; general business description, not a risk."
+  },
+  {
+   "text": "The Company seeks to make its products available across these channels to support customer choice, subject to the technological capabilities and commercial arrangements applicable to each channel.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about product availability across channels; no specific risk introduced."
+  },
+  {
+   "text": "The Company continues to invest in modernizing its distribution systems, including enhancements to its direct channels and implementing New Distribution Capability (\"NDC\"), to support the marketing and sale of its products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing investment in distribution technology; framed as positive initiative, not a risk."
+  },
+  {
+   "text": "However, a portion of the Company's ticket sales continues to be distributed through legacy distribution technology, which may involve higher costs and more limited functionality compared to the Company's direct and NDC channels.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific business risk: reliance on legacy distribution technology with higher costs and limited functionality."
+  },
+  {
+   "text": "The Company's laser focus on the health, safety and security of its employees and customers is not only essential to its operational and financial success but also defines the Company as an organization\u2014making safety accountability a non-negotiable aspect of its culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cultural statement about safety focus; no concrete risk detail."
+  },
+  {
+   "text": "The Company's FAA-approved Safety Management System (\"SMS\") is a cornerstone component that helps enable the Company to uphold regulatory compliance safety standards, proactively identify hazards, mitigate risks and elevate corrective actions to help ensure the safety of its customers and employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an existing regulatory compliance system; factual, not a new risk."
+  },
+  {
+   "text": "The Company's approach to safety entails four overarching objectives: 1.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introduces a list of safety objectives; framing language only."
+  },
+  {
+   "text": "The Company focuses on fostering an engaged, proactive and just safety culture that prioritizes and protects the well-being and safety of all employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about safety culture; no specific risk."
+  },
+  {
+   "text": "Maintaining a culture whereby the Company's employees are required to consistently follow and adhere to policies and regulatory requirements is one of the Company's pillars.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about policy adherence; no new risk."
+  },
+  {
+   "text": "Reducing flight safety and operational risks by keeping the Company's aircraft safe and airworthy is a cornerstone of the Company's safety objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General safety objective statement; no specific risk detail."
+  },
+  {
+   "text": "The Company drives adherence to its standard operating procedures to help ensure an accountable, consistent and safe operation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General operational procedure statement; no risk specifics."
+  },
+  {
+   "text": "The Company's Board provides significant oversight of its safety processes and procedures, which includes a review of management's development, implementation and maintenance of the Company's safety management system, objectives, culture, training and reporting.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes board oversight of safety; governance description, not a risk."
+  },
+  {
+   "text": "Board meeting sessions typically start with a presentation on current and potential future safety considerations affecting the Company\u2014both in the air and on the ground.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes board meeting practice; procedural, not a risk."
+  },
+  {
+   "text": "These pillars cover not only long-term actions within the Company's operations but also support the low-carbon transition of the transportation and aviation industry as a whole.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about sustainability pillars; no specific risk."
+  },
+  {
+   "text": "The Company is hopeful that its sustainability strategy will help position it to succeed in an increasingly resource-constrained world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Aspirational statement about sustainability strategy; no concrete risk."
+  },
+  {
+   "text": "7 Table of Contents \u2022 Drive fuel efficiencies and innovation in flight : As part of this plan, the Company is focused on improving fuel efficiency in its operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes fuel efficiency initiative; positive framing, not a risk."
+  },
+  {
+   "text": "8 Table of Contents \u25e6 The Company is a founding member of the nonprofit, non-partisan SAF Coalition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes membership in a sustainability coalition; factual, no risk."
+  },
+  {
+   "text": "The Company has made progress with its environmental sustainability strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General progress statement on sustainability strategy; no risk."
+  },
+  {
+   "text": "The Company continues to review and explore the evolving environmental landscape to further understand potential risks and opportunities to enhance its environmental strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about reviewing environmental landscape; no specific risk."
+  },
+  {
+   "text": "(g) Scope 1+2 and Scope 3 (categories 3, 4, 7 and 14) emissions/mainline+regional ASMs. * The calculation has been revised since the publication of the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2024 filed with the SEC on February 27, 2025 (the \"2024 Annual Report\") to incorporate additional SAF volumes for which supporting documentation was received after the initial filing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a data calculation revision; technical clarification, not a risk."
+  },
+  {
+   "text": "The Company aligns its environmental sustainability disclosures through third-party reporting organizations, frameworks and standards\u2014including the recommendations from the Task Force on Climate-related Financial Disclosures\u2014as well as applicable mandatory disclosure requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes alignment with reporting frameworks; procedural disclosure, not a risk."
+  },
+  {
+   "text": "Military and other external sources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing recruitment sources; no risk content."
+  },
+  {
+   "text": "As stated above, a cornerstone of the Company's talent acquisition and internal talent mobility strategy is cultivating a culture that fosters a workplace in which all employees are safe, have an opportunity to succeed, feel a sense of belonging and are empowered to innovate and collaborate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about talent strategy and culture; no specific risk."
+  },
+  {
+   "text": "The Company is committed to providing opportunities for advancement to help its employees reach their full potential and its policies strictly prohibit any form of employment discrimination.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about advancement opportunities and anti-discrimination policy; no new risk."
+  },
+  {
+   "text": "The Company utilizes multiple channels for all employees to ask for guidance, report concerns without fear of retaliation (including those related to safety) and provide constructive feedback and recommendations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about feedback channels; no risk detail."
+  },
+  {
+   "text": "The Company's managers discuss employee performance and leadership assessments regularly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about performance discussions; no risk."
+  },
+  {
+   "text": "In 2023, the Company reintroduced performance ratings and calibration to support career development and employee performance and leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes reintroduction of performance ratings; factual HR detail, not a risk."
+  },
+  {
+   "text": "The Company invests in rewarding employee performance and leadership and has established a multi-level recognition program to acknowledge the achievements of excellent individual or team performance and leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes recognition program; positive HR initiative, no risk."
+  },
+  {
+   "text": "The Company offers a broad range of best-in-class leadership and professional training programs that provides its employees with opportunities for learning and skill-building.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes training programs; general HR description, no risk."
+  },
+  {
+   "text": "The Company periodically implements enhancements and investments to its compensation and employee benefit programs to help ensure that they support the Company's and its employees' strategic imperatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about compensation program enhancements; no specific risk."
+  },
+  {
+   "text": "For instance, the Company conducts pay equity analyses annually.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States annual pay equity analysis; factual, no risk."
+  },
+  {
+   "text": "The Company bargains in good faith with the unions that represent its employees and frequently engages with union leaders at the national level and at local chapters throughout\u2014and engages with applicable local unions, works councils and associations outside\u2014the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes union bargaining practice; general description, not a new risk."
+  },
+  {
+   "text": "Such agreements typically do not contain an expiration date and instead specify an amendable date, upon which the agreement is considered \"open for amendment.\" In May 2025, the Company reached a Tentative Agreement (\"TA\") with its employees represented by the AFA regarding an agreement that became amendable in August 2021.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on labor negotiation status (Tentative Agreement reached), expanding on existing labor relations risk disclosure."
+  },
+  {
+   "text": "The TA included improvements with respect to scheduling, reserve requirements and other quality of life improvements, as well as pay rate increases during its five-year term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Details terms of the TA; factual description, not a risk statement."
+  },
+  {
+   "text": "The TA also included a provision for a one-time payment to employees represented by the AFA upon ratification.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a one-time payment provision; factual detail, not a risk."
+  },
+  {
+   "text": "On July 29, 2025, the Company's employees represented by the AFA voted against ratification of the TA.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports that employees voted against ratification of the labor agreement, indicating a concrete new risk of labor unrest or disruption."
+  },
+  {
+   "text": "As of the date of this report, the Company and the AFA continue their negotiations for a revised TA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes ongoing negotiations after rejection, elaborating on the labor relations risk already introduced."
+  },
+  {
+   "text": "The below table reflects the Company's represented employee groups, the number of employees per represented group, union representation for each employee group, and the amendable date for each employee group's collective bargaining agreement as of December 31, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a data table of union representation; factual, no risk."
+  },
+  {
+   "text": "The Company is also in active negotiations with all of its union represented employees with amendable contracts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States general fact of ongoing negotiations with all unions; procedural, not a specific new risk."
+  }
+ ]
+}

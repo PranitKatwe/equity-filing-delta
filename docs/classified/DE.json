@@ -1,0 +1,218 @@
+{
+ "ticker": "DE",
+ "sector": "Industrials",
+ "filing_date": "2025-12-18",
+ "accession": "0001104659-25-122321",
+ "prior_accession": "0001558370-24-016169",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 37
+ },
+ "items": [
+  {
+   "text": "In fiscal year 2025, PPA generated $17,311 net sales, or 45% of equipment operations net sales; SAT generated $10,224 net sales, or 26% of equipment operations net sales; and CF generated $11,382 net sales, or 29% of equipment operations net sales.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply reports segment sales figures, a factual disclosure rather than a risk statement."
+  },
+  {
+   "text": "Production & Precision Agriculture The PPA segment is committed to meeting the fundamental needs of our customers through a combination of equipment and technology designed to enable our customers to overcome some of their biggest challenges: doing more with less, labor shortages, volatile input costs, and executing jobs in tighter timeframes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of the PPA segment's mission and customer focus, not a risk."
+  },
+  {
+   "text": "This segment defines, develops, and delivers global equipment and technology solutions for production-scale growers of crops like large grains (such as corn and soy), small grains (such as wheat, oats, and barley), cotton, and sugarcane.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines the PPA segment's scope of products, descriptive business information."
+  },
+  {
+   "text": "Equipment manufactured and distributed by the segment includes four-wheel-drive (4WD)/track and row crop tractors, harvesters, cotton pickers, cotton strippers, sugarcane harvesters, sugarcane loaders, and related harvesting front-end equipment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists equipment types manufactured, purely descriptive."
+  },
+  {
+   "text": "In addition, the segment includes tillage, seeding, and application equipment, including sprayers and nutrient management, and soil preparation machinery, and related attachments and service parts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continues equipment listing, descriptive not risk-related."
+  },
+  {
+   "text": "We continue to invest in the development and production of advanced technology through integrated agricultural solutions and precision technologies across our portfolio of equipment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing investment strategy, no specific risk identified."
+  },
+  {
+   "text": "We believe our investments in precision technology will transform our farmers\u2019 equipment into smarter, more efficient machines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Expresses belief about technology benefits, promotional language not risk."
+  },
+  {
+   "text": "We have developed a production system-level approach that helps us understand how customers operate, focusing on their costs, identifying the opportunities for them to reduce inputs, and to improve productivity, crop yields, and sustainability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a business approach/methodology, not a risk factor."
+  },
+  {
+   "text": "Advancements such as precise global navigation satellite systems technology, advanced connectivity and telematics, on-board sensors and computing power, automation software, digital tools, applications, and analytics provide seamless integration of information designed to improve customer decision-making and job execution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes technological capabilities, descriptive not risk."
+  },
+  {
+   "text": "Our advanced telematics systems remotely connect equipment owners, business managers, and dealers to equipment in the field through the John Deere Operations Center \u2122, our digital management system that allows customers to access farm and jobsite 3 Table of Contents information through their devices .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes telematics product features, descriptive."
+  },
+  {
+   "text": "This connection provides real-time alerts and information about equipment location, utilization, performance, and maintenance to improve productivity and efficiency, as well as to monitor agronomic job execution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains benefits of connectivity, descriptive marketing language."
+  },
+  {
+   "text": "We are beginning to leverage technology from our PPA segment across other business segments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States cross-segment technology leverage, descriptive."
+  },
+  {
+   "text": "For example, cameras, obstacle detection, radars, and machine learning have been applied to our CF Smart Detect\u2122 tool to identify obstacles on jobsites.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a specific product feature (Smart Detect), descriptive."
+  },
+  {
+   "text": "In addition, CF roadbuilding customers are now able to access the John Deere Operations Center\u2122, enabling them to view near real-time data and insights to help make informed decisions, streamline maintenance, and track productivity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer access to data platform, descriptive."
+  },
+  {
+   "text": "The segment works to provide product leadership while extending integrated agricultural solutions and precision technologies across its portfolio of equipment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes segment's product strategy, descriptive."
+  },
+  {
+   "text": "Equipment manufactured and distributed by the segment includes specialty, utility, and compact tractors, hay and forage equipment, including self-propelled forage harvesters and attachments, balers, and mowers; turf and utility equipment, including riding lawn equipment, commercial mowing equipment, golf course equipment, utility vehicles, implements for mowing, tilling, snow and debris handling, aerating, and other residential, commercial, golf, and sports turf care applications; and related attachments and service parts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists SAT segment equipment types, descriptive."
+  },
+  {
+   "text": "SAT equipment is sold primarily through independent retail dealer networks, although the segment also builds turf products for sale by mass retailers, including The Home Depot and Lowe\u2019s.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes sales channels including retail partners, descriptive."
+  },
+  {
+   "text": "Our turf equipment is sold primarily in North American, Western European, and Australian markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States geographic markets for turf equipment, descriptive."
+  },
+  {
+   "text": "In the small agriculture market, we are developing autonomous solutions, connectivity capabilities, and a path to electrifying our future by delivering a portfolio that helps current customers meet sustainability goals while finding innovative ways to serve new customers and unlock new markets for mechanization at scale.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic development goals in small ag market, descriptive/promotional."
+  },
+  {
+   "text": "In addition to John Deere brand names, the table below provides a list of select SAT products and their associated brand names: PRODUCT BRAND NAME Equipment Attachments Frontier, Kemper, GreenSystem, Smart Apply Sprayers GUSS Aftermarket and Precision Updates A&I, Sunbelt Outdoor Products, Alternatives by John Deere, Frontier Agriculture and Turf Operations Business Environment .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists brand names associated with products, purely informational."
+  },
+  {
+   "text": "Sales also are influenced by general economic conditions, farmland prices, farmers\u2019 debt levels and access to financing, interest and exchange rates, labor availability and costs, energy costs and related policies, tax policies, policies related to climate change, and other input costs associated with farming.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detailed macroeconomic and policy factors (climate change policies, tax policies) that could influence sales, expanding on typical demand-related risk."
+  },
+  {
+   "text": "Other key factors affecting new agricultural equipment sales are the value, age, and level of used equipment, including tractors, harvesting equipment, self-propelled sprayers, hay and forage equipment, and seeding equipment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes factors affecting equipment sales like used equipment values, general market commentary."
+  },
+  {
+   "text": "Weather and climatic conditions also can affect buying decisions of agricultural equipment purchasers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes weather can affect buying decisions, generic and commonly disclosed factor."
+  },
+  {
+   "text": "4 Table of Contents We believe innovations in machinery and technology may influence purchases of agricultural equipment, especially when the agricultural environment is challenging.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Belief statement about innovation influencing purchases, not a risk disclosure."
+  },
+  {
+   "text": "For example, larger, more productive equipment is well accepted where farmers are striving for more efficiency in their operations to increase profits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Example illustrating equipment demand trends, descriptive."
+  },
+  {
+   "text": "Large, cost-efficient, highly mechanized agricultural operations account for an important share of worldwide farm output.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market composition of large farms, descriptive."
+  },
+  {
+   "text": "These customers are increasingly adopting and integrating precision agricultural technologies like guidance, telematics, automation, and data-driven management in their operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer adoption of technology, descriptive."
+  },
+  {
+   "text": "The large-size agricultural equipment used on such farms has been particularly important to us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States importance of large equipment to company, descriptive."
+  },
+  {
+   "text": "A large proportion of the equipment operations\u2019 total agricultural equipment sales in the U.S. and Canada, as well as in many countries outside the U.S. and Canada, are comprised of (1) tractors over 100 horsepower, (2) self-propelled combines, cotton pickers, forage harvesters, and sprayers, and (3) seeding equipment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides breakdown of equipment sales composition, factual disclosure."
+  },
+  {
+   "text": "Agricultural trends, including the production of and demand for renewable fuels, including biofuels, can also impact sales.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes renewable fuel trends impact sales, general market commentary."
+  },
+  {
+   "text": "This growing demand has led to a corresponding increase in the need for agriculturally based feedstocks used in their production, such as corn in the U.S. and Europe and sugar cane in Brazil.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes feedstock demand trends, descriptive market info."
+  },
+  {
+   "text": "This increased demand may increase the demand for agricultural equipment to be used in the production of such crops.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States potential increased equipment demand from crop production, descriptive."
+  },
+  {
+   "text": "In addition, policies and market drivers such as federal mandates requiring renewable fuel blending, and global regulations in regions and countries like Europe and Brazil, are expected to increase demand for renewable fuels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific regulatory mandates and global policies expected to affect renewable fuel demand, expanding regulatory risk exposure."
+  },
+  {
+   "text": "We also rely on the sale of small and mid-size tractors as part of our global business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes reliance on small/mid-size tractor sales, descriptive business info."
+  },
+  {
+   "text": "Customers use these tractors for small and medium-sized farming and in specialty agricultural industries like dairy, livestock, and high value crops (e.g., orchards and vineyards).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer use cases for tractors, descriptive."
+  },
+  {
+   "text": "The majority of our mid-size tractors are manufactured and sold in Europe, while the majority of our small tractors are manufactured and sold in India.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States manufacturing locations for tractor types, factual disclosure."
+  },
+  {
+   "text": "Retail sales of lawn and garden tractors, compact utility tractors, residential and commercial mowers, utility vehicles, and golf and turf equipment are influenced by the housing market, weather conditions, consumer spending patterns, and general economic conditions like unemployment, interest rates, and inflation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific macro factors (housing market, unemployment, interest rates) influencing turf equipment sales, expanding demand risk description."
+  },
+  {
+   "text": "Sales and marketing support for both the PPA and SAT segments is organized around four geographic regions: (1) Africa, Asia, and the Middle East; (2) Europe, and the Commonwealth of Independent States (CIS); (3) Latin America and South America; and (4) U.S., Canada, and Australia.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes organizational structure by region, descriptive."
+  },
+  {
+   "text": "The majority of our sales occur in the U.S. and Canada; however, we continue to grow our business and invest in other regions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States geographic sales concentration, factual disclosure."
+  },
+  {
+   "text": "In June of 2025, we celebrated our 25 th anniversary of operations in Brazil.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes anniversary celebration in Brazil, purely informational/no risk content."
+  }
+ ]
+}

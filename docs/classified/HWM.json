@@ -1,0 +1,133 @@
+{
+ "ticker": "HWM",
+ "sector": "Industrials",
+ "filing_date": "2026-02-12",
+ "accession": "0000004281-26-000012",
+ "prior_accession": "0000004281-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 17,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "The timing, extent, application, and level of tariffs by various governments and our ability to recover tariffs are subject to changes and uncertainties and given the unpredictability and frequency of these changes, there can be no assurance we will be able to successfully mitigate the impacts of changes in the global trade environment and if the Company is unable to mitigate these impacts, Howmet\u2019s business, operating results or financial condition could be materially adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding tariff unpredictability and inability to recover costs, a concrete new risk tied to global trade environment."
+  },
+  {
+   "text": "For example, quality control issues at The Boeing Company (\u201cBoeing\u201d) relating to which the Federal Aviation Administration did not approve production rate increases for the Boeing 737 MAX until October 2025 and a Boeing labor union work stoppage in late 2024 negatively impacted narrow body and wide body production rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific factual example (Boeing FAA delay, labor strike) illustrating an existing customer/production concentration risk, expanding it with concrete detail."
+  },
+  {
+   "text": "Additionally, while the use of AI can be beneficial to the Company, AI algorithms are currently known to sometimes produce unexpected results or behave in unpredictable ways that can generate, among other things, irrelevant, nonsensical, inaccurate, harmful, discriminatory or infringing results, which could harm the Company\u2019s business, reputation, or result in legal or regulatory actions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about AI producing harmful, inaccurate, or discriminatory outputs affecting business/reputation/legal exposure."
+  },
+  {
+   "text": "The Company's competitors may adopt new technological initiatives and implement technological advancements using AI to pursue new or improved products and services more quickly, profitably, successfully and effectively than the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk specifically tied to competitors' use of AI technology."
+  },
+  {
+   "text": "12 Table of Contents Howmet may not realize the expected benefits of acquisitions on the anticipated time frame or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading-style statement about acquisitions not realizing expected benefits, functioning as introductory framing rather than new specific detail."
+  },
+  {
+   "text": "On December 22, 2025, Howmet entered into a purchase agreement with Stanley Black & Decker, pursuant to which the Company has agreed to purchase CAM for a cash purchase price of approximately $1.8 billion, subject to customary adjustments.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material new transaction (the $1.8 billion CAM acquisition) not previously disclosed."
+  },
+  {
+   "text": "Completion of the Proposed CAM Acquisition is subject to a number of conditions set forth in the purchase agreement, some of which are beyond the Company\u2019s control.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific closing conditions for the newly disclosed CAM acquisition, a concrete new risk tied to that transaction."
+  },
+  {
+   "text": "These conditions may impact the ability of the Company to complete the Proposed CAM Acquisition on the expected terms and within the anticipated closing time period or at all because required regulatory approval or other conditions to closing are not received or satisfied on a timely basis or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific risk about regulatory approval delays affecting the new CAM acquisition."
+  },
+  {
+   "text": "In addition, the occurrence of certain events, changes or other circumstances could give rise to the termination of the purchase agreement and prevent the completion of the Proposed CAM Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific risk that certain events could trigger termination of the CAM purchase agreement."
+  },
+  {
+   "text": "Howmet may not realize the expected benefits of the Proposed CAM Acquisition, including the anticipated synergies and favorable tax treatment of the proposed transaction and the anticipated broader offering of fastening solutions within the anticipated time frame, or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific risk that expected synergies and tax benefits from the CAM acquisition may not be realized."
+  },
+  {
+   "text": "Howmet intends to finance the Proposed CAM Acquisition through utilizing a variety of financing sources, which may include borrowing under its commercial paper program or debt facilities, the issuance of debt securities and cash on hand.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific financing plans/sources for the CAM acquisition, introducing new financial risk detail."
+  },
+  {
+   "text": "For more information, see \u201cLiquidity and Capital Resources\u2014Planned Financing for the Proposed CAM Acquisition\u201d in Part II, Item 7 (Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing, not a substantive risk statement itself."
+  },
+  {
+   "text": "However, no assurance can be given that Howmet will obtain the intended financing for the Proposed CAM Acquisition on commercially reasonable terms or terms acceptable to us, and the Company may be required to finance a portion of the purchase price of the Proposed CAM Acquisition at interest rates higher than currently expected.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific risk that financing for the CAM acquisition may not be obtained on favorable terms, increasing borrowing costs."
+  },
+  {
+   "text": "Any failure to complete the Proposed CAM Acquisition on the anticipated time frame or at all, and any limitations on Howmet\u2019s ability to obtain financing and related reductions in the Company\u2019s liquidity or increases in the Company\u2019s borrowing costs may adversely affect Howmet\u2019s business, financial condition, or results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific risk that failure to complete or finance the CAM acquisition could adversely affect financial condition."
+  },
+  {
+   "text": "In addition to the Proposed CAM Acquisition, Howmet may continue to pursue other acquisitions and take other strategic actions to grow or streamline its portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about continuing to pursue acquisitions, largely framing/context rather than a specific new risk."
+  },
+  {
+   "text": "There can be no assurance that we will be able to execute upon any such acquisitions or strategic actions, or that any anticipated benefits of such acquisitions or actions will be realized.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic assurance-type risk language about uncertainty of executing strategic actions, similar to standard acquisition risk boilerplate."
+  },
+  {
+   "text": "Acquisitions, including the planned Proposed CAM Acquisition, present significant operational challenges and risks, including the effective integration of the business into the Company, which may be more difficult, time consuming or more costly than expected and may divert management attention from the Company\u2019s existing business.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically ties integration challenges to the newly announced CAM acquisition, adding concrete risk detail."
+  },
+  {
+   "text": "Acquisitions, including the Proposed CAM Acquisition, may increase operating costs, expose the Company to potential unforeseen issues and legal liabilities, including the assumption of liabilities (including unforeseen liabilities) of acquired companies or businesses, increase cybersecurity issues or vulnerabilities or result in customer loss and business disruption (including, without limitation, difficulties in retaining or maintaining relationships with employees, customers or suppliers).",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically ties increased operating costs, legal liabilities, and cybersecurity risks to the CAM acquisition and other acquisitions, adding new specific exposure."
+  },
+  {
+   "text": "Any of the foregoing may adversely affect Howmet\u2019s business, financial condition, or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement summarizing that prior risks may adversely affect the business, adding no new specific information."
+  },
+  {
+   "text": "In addition, laws and regulations focused on the development, use and provision of certain new technologies, such as AI (including generative AI) technologies, and the enforcement thereof are growing worldwide and may impose certain obligations on Howmet, may limit how we use these technologies and could result in reputational damage, monetary penalties or other regulatory actions to the extent Howmet uses such technologies and fails to comply with such obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk specifically around AI laws and compliance obligations."
+  },
+  {
+   "text": "Monitoring and responding to new and rapidly developing laws and regulations could be costly or have an adverse effect on our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring new laws being costly, lacking specific new risk detail."
+  },
+  {
+   "text": "Furthermore, unauthorized use, misuse or increased use of AI may increase the risk of a loss of intellectual property, including, for instance, if an employee inputs confidential information, such as trade secrets, into AI or machine learning technologies, resulting in such information becoming accessible by third parties, including competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of intellectual property loss through employee misuse of AI tools."
+  },
+  {
+   "text": "Climate change may result in an increase of such risks and the impact they have on our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Brief statement linking climate change to increased risk impact, expanding on an existing climate risk discussion without introducing a wholly new risk area."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "VTR",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-06",
+ "accession": "0000740260-26-000006",
+ "prior_accession": "0000740260-25-000052",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 21,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "For example, in 2025, the U.S. administration adopted substantial policy changes that affect research and government program funding.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new external risk\u20142025 U.S. policy changes affecting research and government funding\u2014not previously described."
+  },
+  {
+   "text": "We have limited rights to direct or influence the business or operations of those properties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about limited influence over operator businesses, standard risk framing."
+  },
+  {
+   "text": "We have limited control over the success or failure of their businesses.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates limited control over managers'/tenants' business outcomes, same underlying risk."
+  },
+  {
+   "text": "At any time, any of our managers, tenants or borrowers could experience a downturn in their business, decline in their operating results or deterioration in their overall financial condition, which could ultimately lead to their bankruptcy or insolvency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (bankruptcy/insolvency) to the existing risk about manager/tenant financial decline."
+  },
+  {
+   "text": "We cannot assure you that they will be able to, or will continue to, satisfy their obligations to us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary statement about uncertainty of counterparties meeting obligations."
+  },
+  {
+   "text": "Ownership of properties or operation of our business outside the United States may subject us to different or greater risks than those associated with our domestic operations .",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement that international operations carry different risks, consistent with existing international risk disclosure."
+  },
+  {
+   "text": "We own properties and operate in the United Kingdom and Canada, which represent 1.2% and 9.5% of our total revenues, respectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides new quantitative detail (UK/Canada revenue percentages) supporting the existing international operations risk."
+  },
+  {
+   "text": "International development, ownership and operating activities involve risks that are different from those we face with respect to our U.S. properties and operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates that international activities involve different risks than domestic ones."
+  },
+  {
+   "text": "Foreign Corrupt Practices Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment heading reference to FCPA, not a substantive new risk statement."
+  },
+  {
+   "text": "Additionally, new or smaller third-party managers may have less experience in managing these senior housing communities and may require more oversight or attention.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new concern about inexperienced smaller third-party managers requiring more oversight."
+  },
+  {
+   "text": "See \u201c\u2014 We and our managers, tenants and borrowers may be adversely affected by regulation and enforcement .\u201d Our inability to renew our management agreements with our SHOP managers or our leases with our NNN and OM&R tenants on as favorable terms or at all, and our inability when necessary, to effectively and efficiently transition a SHOP community to a new manager or a NNN or OM&R property to a new tenant, may have an adverse effect on our business, financial condition and results of operations .",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of inability to renew agreements/leases, expanding existing operator dependency risk."
+  },
+  {
+   "text": "Our management agreements and leases provide us and our managers and tenants with termination rights in certain circumstances.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States existence of termination rights, a factual/contractual note rather than new risk."
+  },
+  {
+   "text": "See also \u201c\u2014 Changes in the U.S. political and regulatory environment could affect availability of government funding that we or our managers, tenants or borrowers rely on, which could negatively impact our business .\u201d The research and development, clinical testing, manufacture and marketing of some of our tenants\u2019 products require federal, state and foreign regulatory approvals.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing regulatory approval risk for tenants' products."
+  },
+  {
+   "text": "If a borrower defaults, we may be unable to obtain payment, successfully foreclose on collateral or realize the value of any collateral, which could adversely affect our ability to recover our investment .",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity about foreclosure/collateral realization difficulties to existing borrower default risk."
+  },
+  {
+   "text": "We hold secured loans that are primarily collateralized by a mortgage, leasehold mortgage and/or an assignment or pledge of equity interests in entities that primarily own real estate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about loan collateral types, not a risk statement itself."
+  },
+  {
+   "text": "We also hold other loans that are generally corporate loans and are unsecured or secured primarily by non-real estate collateral.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about unsecured/corporate loans, factual context not new risk."
+  },
+  {
+   "text": "See also \u201c\u2014 Our ongoing strategy depends, in part, upon identifying and consummating future acquisitions and investments and effectively managing our external growth opportunities .\u201d Our investments in co-investment vehicles, joint ventures and minority interests may subject us to risks that we would not otherwise face.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding co-investment vehicles, joint ventures, and minority interests."
+  },
+  {
+   "text": "If any of our managers or tenants merge with one another, our dependence on a small group of significant third parties would increase.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk: increased concentration/dependence if managers or tenants merge."
+  },
+  {
+   "text": "For example, our costs and the costs of our tenants and borrowers may be impacted by rising construction costs from tariffs on imported materials and rising labor costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk driver\u2014tariffs on imported construction materials and rising labor costs."
+  },
+  {
+   "text": "From time to time, we may elect to sell certain of our properties, either because their financial performance or prospects has declined or for other reasons.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about electing to sell underperforming properties, consistent with existing disposition risk."
+  },
+  {
+   "text": "We may not be successful in identifying suitable buyers or entering into sale agreements with buyers on a timely basis or on favorable terms, if at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about difficulty finding buyers or favorable sale terms, expanding disposition risk."
+  },
+  {
+   "text": "While we are attempting to sell a property, the performance of that property may decline.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific scenario of property performance declining during a sale process."
+  },
+  {
+   "text": "Threat 33 Table of Contents actors could attempt to access our information systems by gaining unauthorized access to the information systems of those third parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk to include third-party system access vectors."
+  },
+  {
+   "text": "In the event of a cybersecurity threat or incident involving us or our managers, tenants, borrowers, investments in unconsolidated entities, vendors, suppliers, service providers or other third parties with whom we do business, we and they may be required to make a significant investment to attempt to mitigate or remediate the effects of any cybersecurity threats incidents, and such efforts may not be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands cybersecurity risk to include costs of mitigation/remediation efforts."
+  },
+  {
+   "text": "See also \u201c The amount and scope of insurance coverage provided by our policies and policies maintained by our managers, tenants or other counterparties may not adequately insure against losses .\u201d The use of, or inability to take advantage of the benefits of, artificial intelligence by us or our managers, tenants and borrowers presents risks and challenges that may adversely impact our business and operating results or the business and operating results of our managers, tenants and borrowers or may adversely impact the requirements and demand for properties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category entirely: use of/failure to use AI by company or counterparties."
+  },
+  {
+   "text": "We have begun and may continue to use artificial intelligence and machine learning (collectively, \u201cAI\u201d) tools in our operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new fact that company has begun using AI/ML tools, a material new operational element."
+  },
+  {
+   "text": "We use AI in assessing marketing and sales, competitive, geospatial and intelligence relating to investment opportunities and operating our properties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific AI use cases, expanding on newly introduced AI risk."
+  },
+  {
+   "text": "However, there can be no assurance that we will realize the desired or anticipated benefits, or any benefits, and we may fail to properly implement such technology.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds caveat about uncertain benefits of AI implementation, part of AI risk expansion."
+  },
+  {
+   "text": "While AI tools may facilitate optimization and operational efficiencies, they also have the potential for inaccuracy, bias, infringement or misappropriation of intellectual property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands AI risk with specific concerns of bias and IP infringement."
+  },
+  {
+   "text": "The use of AI tools may introduce errors or inadequacies that are not easily detectable, including deficiencies, inaccuracies, or biases in the data used for AI training, or in the content, analyses, or recommendations generated by AI applications.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details AI-related errors and data biases as part of the AI risk factor."
+  },
+  {
+   "text": "Additionally, if our peers use AI tools to optimize operations and we fail to utilize AI tools in a comparable manner, we may be competitively disadvantaged.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds competitive disadvantage angle to the AI risk discussion."
+  },
+  {
+   "text": "New laws and regulations are being adopted, and existing laws and regulations may be interpreted, in ways that could affect our business operations and the way in which we use AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes evolving AI-related laws/regulations, expanding the AI risk factor."
+  },
+  {
+   "text": "Our ongoing efforts to comply with privacy and data protection laws, as well as initiatives to comply with new legal regulations relating to privacy, data protection and AI, impose significant costs and challenges that are likely to increase over time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on compliance costs tied to privacy/data protection and AI regulation."
+  },
+  {
+   "text": "Additionally, this complex and rapidly evolving landscape around AI may expose us to claims, inquiries, demands and proceedings by private parties and global regulatory authorities and subject us to legal liability as well as reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds potential legal/regulatory exposure from AI use, expanding AI risk factor."
+  },
+  {
+   "text": "Uncertainty around the safety and security of new and emerging AI applications may require additional investment in the development of proprietary datasets, machine learning models and systems to test for security, accuracy, bias and other variables, which are often complex, may be costly and could impact our operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on AI safety/security investment needs, part of AI risk expansion."
+  },
+  {
+   "text": "Cybersecurity threat actors may also utilize AI tools to automate and enhance cybersecurity attacks against us and could lead to data breaches, loss of confidential or sensitive information, and financial or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects AI risk to cybersecurity threat actors, expanding both risk areas."
+  },
+  {
+   "text": "34 Table of Contents Additionally, AI-enabled solutions and features may become more important to our managers, tenants, borrowers and business partners over time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes growing importance of AI to tenants/managers, extending AI risk discussion."
+  },
+  {
+   "text": "They may also incorporate AI into their products and services without disclosing such use to us or fail to disclose risks presented by their use of AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details tenants' undisclosed AI use as part of broader AI risk factor."
+  },
+  {
+   "text": "If our managers, tenants, borrowers or business partners use AI tools that do not meet existing or rapidly evolving regulatory or industry standards with respect to privacy and data protection, compliance and transparency, among others, it could inhibit our and their ability to maintain an adequate level of functionality or service.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds risk of tenants' AI tools failing to meet standards, continuing AI risk expansion."
+  },
+  {
+   "text": "If our performance declines or we fail to meet the market\u2019s expectations regarding our performance, our ability to access capital on favorable terms or at all could be adversely impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement linking performance to capital access, standard risk language."
+  }
+ ]
+}

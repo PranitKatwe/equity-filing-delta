@@ -1,0 +1,218 @@
+{
+ "ticker": "AKAM",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-20",
+ "accession": "0001086222-26-000022",
+ "prior_accession": "0001086222-25-000028",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 37,
+ "counts": {
+  "new_substantive_risk": 20,
+  "expanded_existing_risk": 17,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Although the rate of decline has diminished in recent periods, we have continued to experience revenue declines in our delivery solutions, and ongoing competition, pricing pressure, and potential further shifts toward DIY or alternative sourcing strategies may continue to impact our delivery revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on pre-existing delivery revenue decline risk with updated trend detail (diminished rate) and continued drivers."
+  },
+  {
+   "text": "Further, competition and pricing pressure has, and may continue to impact, revenue of certain of our security solutions, including during contract renewals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends known competition/pricing pressure risk to security solutions segment, an expansion rather than a new type of risk."
+  },
+  {
+   "text": "Reduced traffic levels on our network has in the past, and may in the future, negatively impact revenue from our security solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on how reduced network traffic affects security revenue, building on existing traffic/revenue risk narrative."
+  },
+  {
+   "text": "Global economic and geopolitical conditions can impact our customers, potentially making non-U.S. companies reluctant to enter into contracts with U.S. providers or to permit cross-border data transfers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about non-U.S. companies avoiding U.S. providers and cross-border data transfer reluctance due to geopolitical conditions."
+  },
+  {
+   "text": "Such conditions can also cause customers to take cost-savings measures-such as optimization and DIY initiatives, reduction or delay of information technology spending, contract renegotiation and lengthening of procurement and sales cycles - which have in the past and may in the future negatively impact our revenues by reducing traffic on our network.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing economic conditions risk by detailing specific cost-saving customer behaviors affecting revenue."
+  },
+  {
+   "text": "Cybersecurity threats can also intensify during periods of geopolitical destabilization, increasing the risk of attempted attacks on our systems, suppliers and customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds geopolitical destabilization as a driver to the pre-existing cybersecurity threat risk."
+  },
+  {
+   "text": "Further, we are subject to cost increases that we may not be able to successfully mitigate or pass on to our customers and we could lose customers who are unwilling to accept price increases, which could reduce our revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about inability to pass on cost increases and potential customer loss from price hikes."
+  },
+  {
+   "text": "In particular, the capital requirements of the cloud computing industry can at times be significant.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure about significant capital requirements in the cloud computing industry, a previously unmentioned financial risk."
+  },
+  {
+   "text": "We and the third-parties upon which we rely face a variety of evolving threats, which could cause cybersecurity incidents and/or data breaches, such as cyber-attacks, malicious internet-based activity, online and offline fraud and other similar activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic, standard cybersecurity risk language common across filings without new specifics."
+  },
+  {
+   "text": "Such threats are prevalent and continue to rise, are increasingly difficult to detect and come from a variety of sources and may be enhanced or facilitated by AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds AI as a new factor enhancing existing cybersecurity threat risk."
+  },
+  {
+   "text": "Further, attempts to disrupt or gain unauthorized access to our and our third-party vendors\u2019 information systems from malicious third parties or insider threats may incorporate widely varying and frequently changing tactics, which may be enhanced or facilitated by AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Similarly extends existing third-party/insider threat risk by noting AI's role in evolving tactics."
+  },
+  {
+   "text": "Our contracts may not contain limitations of liability, and even where they do, there can be no assurance that such terms are sufficient to protect us from liabilities, damages, or claims related to our privacy and data security obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk regarding lack of or insufficient contractual limitation-of-liability protections for privacy/data security claims."
+  },
+  {
+   "text": "Further, 14 Table of Contents although we maintain cyber liability insurance, this insurance may not provide adequate coverage against potential liabilities related to any experienced cybersecurity incident or breach.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific disclosure that cyber liability insurance may not adequately cover incident-related liabilities."
+  },
+  {
+   "text": "Like other companies in our industry, we, and our third-party providers, have experienced and will continue to experience threats and cybersecurity incidents relating to our information technology systems and infrastructure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic restatement that the company and vendors have and will continue to face cybersecurity incidents, typical boilerplate."
+  },
+  {
+   "text": "For example, approximately six percent of our global employees are located in Israel and have been and may continue to be impacted by hostilities in the region, including being required to report for military duty, which could impact our ability to operate and successfully complete ongoing initiatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new geopolitical/operational risk tied to Israeli workforce and military duty obligations."
+  },
+  {
+   "text": "In addition, these third-party providers can experience operational inefficiencies relating to power, climate controls, water, logistics, and other unforeseen events which could result in increased costs, service disruptions and diminished customer experiences.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific operational risk regarding third-party provider infrastructure inefficiencies (power, climate, logistics)."
+  },
+  {
+   "text": "We cannot guarantee that these providers have adequate measures in place to avoid service events that could impact our ability to operate portions of our network.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the newly introduced third-party provider risk by noting uncertainty about their safeguards."
+  },
+  {
+   "text": "Increasing demand and manufacturing limitations for certain necessary equipment or components may significantly impact pricing and availability.",
+   "category": "new_substantive_risk",
+   "rationale": "New supply chain risk regarding equipment/component demand and manufacturing constraints affecting pricing/availability."
+  },
+  {
+   "text": "Because most of our employees work remotely, we are subject to additional risks.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure identifying remote workforce as a distinct risk factor."
+  },
+  {
+   "text": "In addition, in 2025 management has introduced changes to the sales organization and sales compensation structure to work to optimize sales performance and to better align sales incentives to the fastest growing areas of the business.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific disclosure about 2025 sales organizational and compensation changes introducing execution risk."
+  },
+  {
+   "text": "Sales to government entities are subject to a number of risks, and significant changes in the contracting or fiscal policies of such government organizations could have an adverse effect on our business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category tied to government sales and policy changes affecting business."
+  },
+  {
+   "text": "In addition to ongoing investments to integrate AI and machine learning technology into our existing products and solutions and to use AI to enhance our business operations, we recently launched AIC, a platform enabling AI inferencing at the edge of the internet, as a direct offering in the AI market.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new AI product line (AIC) representing new business risk exposure to the AI infrastructure market."
+  },
+  {
+   "text": "This introduces additional risks, as we now compete with established and emerging companies providing AI infrastructure and inference solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds directly on the newly disclosed AIC product risk by detailing competitive exposure."
+  },
+  {
+   "text": "AI systems and third-party AI services that we use may also introduce operational resilience and stability risks that could disrupt our services or customers' workloads and adversely affect our business, reputation or financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding operational resilience issues from AI systems and third-party AI services."
+  },
+  {
+   "text": "Use of AI that has been trained on open-source code repositories for code development, for instance, may increase intellectual property risks, as well as risks related to ingestion of malicious code.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific IP and security risk tied to AI trained on open-source code."
+  },
+  {
+   "text": "In the U.S., more than a dozen states now have comprehensive privacy laws, adding complexity, variation in requirements, restrictions, and potential legal risk requiring additional investment of resources in compliance programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing privacy law compliance risk with updated detail on state law proliferation."
+  },
+  {
+   "text": "21 Table of Contents Certain jurisdictions are adopting or tightening data localization and data residency requirements that restrict where customer or employee data may be stored, processed, accessed or encrypted.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk about data localization/residency requirements restricting data handling."
+  },
+  {
+   "text": "In the U.S., regulators are increasingly scrutinizing and restricting certain personal data transfers and transactions involving foreign countries.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific regulatory risk regarding U.S. scrutiny of cross-border personal data transactions."
+  },
+  {
+   "text": "For example, the Department of Justice\u2019s January 8, 2025, rule on \u201cPreventing Access to U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory rule (DOJ Jan 2025) creating concrete compliance risk."
+  },
+  {
+   "text": "Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons,\u201d prohibits data brokerage transactions involving certain sensitive personal data categories to countries of concern, including China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the scope of the DOJ rule introduced in the prior sentence, expanding on the same new risk."
+  },
+  {
+   "text": "The regulations also restrict certain investment agreements, employment agreements and vendor agreements involving such data and countries of concern, absent specified cybersecurity controls.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on restrictions from the same DOJ rule affecting various agreement types."
+  },
+  {
+   "text": "Some jurisdictions, particularly the European Union (the \"EU\"), are also exploring broader \u201cdigital sovereignty\u201d frameworks placing operational, ownership, and control requirements that must be met to provide services to certain markets or sectors.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding emerging EU 'digital sovereignty' frameworks imposing operational/control requirements."
+  },
+  {
+   "text": "These measures have gathered steam over the past year based on the emergence of geopolitical tensions, including between the US and Europe.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context/acceleration factor for the newly introduced digital sovereignty risk."
+  },
+  {
+   "text": "Together with limits on cross\u2011border data transfers and government access or audit obligations, they may prevent us from providing services in certain cases, or require us to provide in\u2011country or region\u2011specific hosting, rely on designated local partners, modify or limit features, or maintain segregated environments and duplicative infrastructure, routing, logging and support models.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on operational consequences of the digital sovereignty/data transfer risks already introduced."
+  },
+  {
+   "text": "These developments could decrease our addressable market, increase our costs and complexity, lengthen sales cycles, limit the functionality or performance of our services in some markets and reduce economies of scale.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the business impact (market size, costs) of the previously introduced regulatory risks."
+  },
+  {
+   "text": "These risks may accelerate or vary by region due to geopolitical factors, including changes in sanctions, export or import controls, tariffs and other trade restrictions, or regional conflicts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds geopolitical variability context to the already-introduced regulatory/data risk discussion."
+  },
+  {
+   "text": "The President of the United States subsequently signed a series of Executive Orders delaying enforcement of the legislation, culminating with an Executive Order issued on September 25, 2025, which declared that a proposed sale of the Chinese-owned application's U.S. operations to a new joint-venture company complied with PAFACA's divestiture requirements and extended non-enforcement of PAFACA until January 23, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legal/regulatory risk tied to PAFACA enforcement delays and divestiture proceedings."
+  },
+  {
+   "text": "On January 22, 2026, the divestiture was finalized, and a new U.S.-based joint venture assumed operation of the U.S. application.",
+   "category": "reworded_same_meaning",
+   "rationale": "Provides a factual status update on the divestiture completion, restating the outcome rather than introducing new risk substance."
+  },
+  {
+   "text": "Although the divestiture has been completed, certain aspects of the transaction could be subject to future governmental review or litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the divestiture risk narrative by noting potential future litigation or governmental review."
+  },
+  {
+   "text": "U.S. states have advanced and, in some cases, enacted numerous AI governance laws, creating a complicated legislative patchwork that may be litigated in state and federal courts, notwithstanding a December 2025 executive order endorsing a federal moratorium on enforcement of state AI laws.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding fragmented state AI governance laws and potential litigation despite a federal moratorium order."
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "ticker": "DUK",
+ "sector": "Utilities",
+ "filing_date": "2026-02-26",
+ "accession": "0001326160-26-000014",
+ "prior_accession": "0001326160-25-000072",
+ "model": "claude-sonnet-5",
+ "n_added": 28,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "The Duke Energy Registrants may also face heightened competitive pressures arising from other utilities and energy suppliers that construct or install generation facilities directly for customers, as well as from customers who develop their own generation capabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about competitive pressure from customers developing their own generation, building on existing competition risk factor."
+  },
+  {
+   "text": "Additionally, the establishment of municipal utilities within Duke Energy's service territories could further intensify competition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds municipal utilities as another competitive threat, extending the existing competition discussion."
+  },
+  {
+   "text": "For example, EPA Rule 111 as issued imposes stringent GHG emissions limitations and reliance on carbon capture technologies that are not yet adequately demonstrated at utility scale.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory driver (EPA Rule 111) with stringent GHG limits and unproven carbon capture reliance."
+  },
+  {
+   "text": "The Duke Energy Registrants are exposed to financial and operational risks associated with growth including volatility in sales, supply and demand forecasts, and customer usage changes which could negatively impact the Duke Energy Registrants' results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on growth-related financial/operational risk already implied by demand forecasting risk."
+  },
+  {
+   "text": "At times, demand can exceed available generation capacity and emerging large loads \u2013 such as hyperscale data centers and industrial facilities \u2013 present unique risks due to their high demand, rapid fluctuations, and unpredictable operational profiles, which can further strain bulk power system reliability and grid stability.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk from hyperscale data centers and industrial large loads straining grid reliability."
+  },
+  {
+   "text": "Meeting these requirements may necessitate substantial investments in generation, transmission and advanced grid infrastructure, while early termination of service agreements or stranded assets could result if investments are not fully recovered.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing capital investment risk by adding stranded asset and early termination concerns."
+  },
+  {
+   "text": "Additionally, failure to comply with evolving regulatory requirements and reliability standards , including those established or those that may be established in the future by the NERC and regional entities, could result in penalties, operational restrictions or reputational harm.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of existing NERC compliance risk with minor wording changes."
+  },
+  {
+   "text": "Compliance obligations related to interconnection processes, system planning and reliability performance for large loads may require significant resources and could impact project timelines and costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new compliance burden tied to interconnection processes for large loads."
+  },
+  {
+   "text": "Such events can, and in the past have, negatively impacted sales volumes such as in the case of storm-related customer outages resulting in lower usage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete example (storm-related outages) illustrating an already-existing sales volatility risk."
+  },
+  {
+   "text": "Federal legislation enacted in 2025 eliminated the long\u2011term extension of certain residential solar tax credits, causing these incentives to expire after 2025, however, some states continue to offer or consider solar or energy efficiency incentives.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new legislative change eliminating solar tax credit extensions, a concrete new risk."
+  },
+  {
+   "text": "Risks Related to Supply Chain Disruptions, Inflation, Tariffs and Foreign Export Restrictions Duke Energy\u2019s operations and capital projects are exposed to supply chain disruptions, inflation, tariffs and export restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around supply chain disruptions, tariffs, and export restrictions."
+  },
+  {
+   "text": "These factors may increase costs, extend lead times for critical equipment and/or delay construction and maintenance activities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the newly introduced supply chain risk with additional cost/timing impacts."
+  },
+  {
+   "text": "Rising demand for electric infrastructure and international trade developments, including potential export controls on certain rare earth materials and technologies used in electric utility infrastructure, may further constrain supply availability.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new risk of export controls on rare earth materials constraining supply."
+  },
+  {
+   "text": "These risks may result in higher costs than estimated or than allowed under approved regulatory mechanisms and could impact our financial results, capital plan execution or our ability to deliver on system modernization goals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates financial impact of previously introduced supply chain/cost risk."
+  },
+  {
+   "text": "Furthermore, AI, including generative AI, may be used to facilitate or perpetrate these cybersecurity threats.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI as a tool facilitating cybersecurity threats, a new specific risk factor."
+  },
+  {
+   "text": "Duke Energy\u2019s use of generative AI (and use by their vendors and agents) may subject them to data privacy, legal, regulatory and security risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk from use of generative AI creating data privacy and regulatory exposure."
+  },
+  {
+   "text": "In addition, advances in emerging technologies such as quantum computing could, over time, be used to break standard encryption methods, compromise secure connections or otherwise conduct cyberattacks of increasing sophistication.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces emerging quantum computing threat to encryption and cybersecurity."
+  },
+  {
+   "text": "28 RISK FACTORS The Duke Energy Registrants have incurred, and may incur additional costs or delays in the construction of new plants or facilities and may not be able to recover their investments in whole or in part.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard heading restating existing risk about construction cost recovery."
+  },
+  {
+   "text": "Duke Energy\u2019s long-term strategy requires extensive capital investment in generation and transmission facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about capital investment strategy, largely introductory framing."
+  },
+  {
+   "text": "Uncertainty in long-term customer usage patterns or lower than anticipated load growth could impact the nature, timing or magnitude of the Company\u2019s investments, and consequently, the achievement of the Company\u2019s growth objectives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about uncertain usage patterns affecting existing growth investment risk."
+  },
+  {
+   "text": "Additionally, to support expected demand growth, Duke Energy Registrants will have compounding risks due to the simultaneous development and construction of multiple facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific compounding risk from simultaneous multi-facility construction."
+  },
+  {
+   "text": "If a construction project is completed, the total costs may be higher than estimated or deemed imprudent and may be disallowed or otherwise not recoverable through regulated rates.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk that construction costs may not be fully recoverable."
+  },
+  {
+   "text": "Failure to complete strategic transactions could adversely affect the Duke Energy Registrants\u2019 financial condition, credit profile and ability to execute their business strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk specifically about failure to complete strategic transactions affecting financial condition."
+  },
+  {
+   "text": "There can be no assurance that strategic transactions, including merger and acquisition activities and the disposition of assets or businesses, will be completed as expected or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on uncertainty of completing M&A transactions, extending the new risk theme."
+  },
+  {
+   "text": "These transactions are subject to various closing conditions, including regulatory approvals, and delays or failures may occur due to factors beyond our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory approval conditions for transactions."
+  },
+  {
+   "text": "Additionally, even if completed, strategic transactions may not deliver the anticipated strategic, operational or financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential failure of strategic transactions to meet expectations."
+  },
+  {
+   "text": "Integration or separation challenges, unfavorable regulatory outcomes or unforeseen liabilities could further impact our business, results of operations or financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific integration/separation risks and unforeseen liabilities tied to M&A activity."
+  },
+  {
+   "text": "Such cash funding obligations, and the Subsidiary Registrants\u2019 proportionate share of such cash funding obligations, could have a material adverse impact on the Duke Energy Registrants\u2019 results of operations, financial position or cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about cash funding obligations impacting financials, consistent with prior risk language."
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "ticker": "PM",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-06",
+ "accession": "0001628280-26-005939",
+ "prior_accession": "0001413329-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 28,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "Our strategic priority is the continued introduction, commercialization, and growth of our SFPs and if these efforts are not successful, in key markets or systematically, our financial results and future growth prospects may be materially adversely impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic framing about SFP commercialization importance without specific new risk detail."
+  },
+  {
+   "text": "Governmental actions to restrict or entirely prohibit the use of certain SFP categories have also been considered or adopted in various jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of governmental restriction or prohibition of SFP categories in various jurisdictions."
+  },
+  {
+   "text": "We anticipate that significant regulatory restrictions will continue to be considered and adopted in many markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the anticipated continuation of the regulatory restriction risk just introduced."
+  },
+  {
+   "text": "The success of our business in the United States is dependent on an evolving legal and regulatory framework.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about dependency on evolving legal framework, lacks specific new risk detail."
+  },
+  {
+   "text": "Federal, state or local government action, including regulatory actions and inaction by the FDA, may have a material adverse impact on our commercialization of SFPs and in our business in the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically names FDA action/inaction as a material risk to SFP commercialization in the US."
+  },
+  {
+   "text": "Our business is subject to changes in adult consumer preferences and if we do not accurately assess market trends, are unable to adapt our product offerings to evolving consumer demands, or face challenges in product development, we could experience missed opportunities, supply chain challenges, reduced competitiveness, inefficient expenditures, and potential impacts on our customer base and brand reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consumer preference risk with specific downstream impacts like supply chain challenges and reduced competitiveness."
+  },
+  {
+   "text": "Furthermore, restrictions pertaining to packaging, labeling, or promotional and advertising activities may limit our ability to effectively communicate product innovations intended to address changing adult consumer preferences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about packaging/advertising restrictions limiting ability to communicate product innovations."
+  },
+  {
+   "text": "Nevertheless, some jurisdictions have considered or adopted taxation regimes with SFP taxation rates approaching or equal to cigarettes and we are unable to predict whether new regulations, or reinterpretations of existing regulations, will result in SFPs being taxed in line with other tobacco products such as conventional cigarettes in additional jurisdictions, on a prospective or retroactive basis.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of SFP taxation rates approaching cigarette tax rates in jurisdictions."
+  },
+  {
+   "text": "Unstable geopolitical conditions or events in certain markets, including international conflicts, civil unrest, acts of war, terrorism, governmental changes, or changes in international relations could result in negative tax impacts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific link between geopolitical instability and negative tax impacts."
+  },
+  {
+   "text": "Additionally, we expect that these third parties adhere to our applicable standards and to applicable laws related to product quality, responsible marketing, data protection, labor practices, and other areas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General expectation statement about third-party adherence to standards without specific new risk."
+  },
+  {
+   "text": "Our ability to monitor and enforce compliance is inherently limited and these parties may fail to comply with our standards or to operate in accordance with our expectations or legal requirements, which could expose us to operational disruptions, legal or regulatory liabilities, reputational damage, or financial losses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of third-party non-compliance including operational, legal, and reputational impacts."
+  },
+  {
+   "text": "While we seek to mitigate the physical risks to our business associated with the natural environment through a comprehensive strategy that includes the development and implementation of robust mitigation and adaptation measures, we recognize that there are residual risks that lie beyond our operational control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing about mitigation strategy and residual risk without specific new content."
+  },
+  {
+   "text": "For example, increased frequency and intensity of extreme droughts, floods, and/or heatwaves could negatively affect our manufacturing operations, tobacco-growing areas, third-party operators and third-party manufacturers sites, and supply regions for products and raw materials, all of which may lead to disruption of our supply chain and of operations at factories, warehouses and other premises.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific climate-related risks (droughts, floods, heatwaves) affecting manufacturing, tobacco growing, and supply chain."
+  },
+  {
+   "text": "Additionally, we source the vast majority of our tobacco from a global network of farmers across multiple countries, rather than through commodity markets, which helps ensure the consistency, quality, and traceability of our tobacco supply.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive context about sourcing model, not itself a risk statement."
+  },
+  {
+   "text": "However, this model also means that disruptions to farmer livelihoods, if not actively mitigated, could lead to supply chain disruption through farmer exit, reduced crop quality, unsustainable farming practices, increased regulatory scrutiny, and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific supply chain risk tied to farmer livelihood disruptions and related consequences."
+  },
+  {
+   "text": "Additionally, while we do not now expect that the recent and currently anticipated trade tariffs imposed by the U.S. and other countries will materially impact our business, the global tariff environment is volatile and further tariff or trade related developments could result in risks to PMI\u2019s business, including increased production costs; limited market access; supplier financial condition degradation resulting in reduced or interrupted supplies; and price increases or other economic impacts that could reduce consumer demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk from tariff and trade developments affecting costs, market access, and supply."
+  },
+  {
+   "text": "All of which could have a material adverse effect on our financial condition, including our leverage ratios, cash flows, liquidity, net earnings, and profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement about material adverse effects on financial metrics."
+  },
+  {
+   "text": "Inflation can also increase financing costs due to related increases in benchmark interest rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how inflation increases financing costs via interest rates, expanding existing inflation risk."
+  },
+  {
+   "text": "Commercialization of these products is currently limited and exploratory.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about limited commercialization without specific new risk detail."
+  },
+  {
+   "text": "We increasingly use artificial intelligence-based solutions in our business, which could result in reputational harm, legal liability, and adversely affect our operating results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around AI usage causing reputational harm and legal liability."
+  },
+  {
+   "text": "We and our business partners are increasingly incorporating artificial intelligence (\"AI\")-based solutions in our ways of working and operations, but this process involves uncertainty and risks, which may or may not yield corresponding benefits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further describes the AI risk introduced, focusing on uncertainty in incorporation of AI solutions."
+  },
+  {
+   "text": "Artificial intelligence technologies are complex, and there are technical and organizational challenges associated with achieving optimal levels of accuracy, efficiency, safety, explicability, reliability, and use for their intended purposes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details technical challenges of AI as part of the broader AI risk already introduced."
+  },
+  {
+   "text": "Flaws, biases, data sourcing issues, limitations, errors, misconfiguration, or malfunctions in these systems could result in operational disruptions, including data loss and corruption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies operational disruption consequences from AI flaws, expanding on AI risk."
+  },
+  {
+   "text": "There is a risk of artificial intelligence system failures, disruptions, or vulnerabilities that could compromise PMI\u2019s information technology 17 networks and systems and the integrity, availability, security, or privacy of PMI data processed by or through such systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details cybersecurity vulnerabilities tied to AI systems within the broader AI risk theme."
+  },
+  {
+   "text": "The emergence of AI and other technologies may also exacerbate other risks, including those related to regulation, litigation, compliance issues, ethical concerns, confidentiality, intellectual property ownership and infringement, and data privacy or security.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens AI risk to include regulatory, litigation, and ethical concerns."
+  },
+  {
+   "text": "Separately, AI presents a new attack surface that cybercriminals will attempt to exploit as well as providing means to scale and automate targeted attacks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of AI being exploited as an attack surface by cybercriminals."
+  },
+  {
+   "text": "Ineffective or inadequate artificial intelligence development, adoption, or deployment practices, including any use, reliance, or dependence on AI generated outputs, could result in unintended, unexpected, or otherwise unforeseen adverse consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences of poor AI development practices, extending the AI risk discussion."
+  },
+  {
+   "text": "These risks could have a material adverse effect on our business, reputation, financial condition, or operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement about material adverse effects, standard risk factor boilerplate."
+  }
+ ]
+}

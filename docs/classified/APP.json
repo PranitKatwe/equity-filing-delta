@@ -1,0 +1,218 @@
+{
+ "ticker": "APP",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-19",
+ "accession": "0001751008-26-000010",
+ "prior_accession": "0001751008-25-000018",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "These policies and terms of service generally govern the promotion, distribution, content, and operation of applications on a platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about platform policies governing app promotion/distribution; no specific new risk introduced."
+  },
+  {
+   "text": "However, in October 2025, Google retired the Privacy Sandbox initiative and announced plans to discontinue most of its associated technologies across both Chrome and Android.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new event\u2014Google retiring Privacy Sandbox and discontinuing associated technologies\u2014that could materially affect the company's ad-tech operations."
+  },
+  {
+   "text": "12 Table of Contents We are highly dependent on our co-founder and chief executive officer, as well as our senior management team.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard key-person dependency risk language common to most filings; not a specific new fact."
+  },
+  {
+   "text": "For example, since 2024 we have begun expanding our customer base to include web-based e-commerce advertisers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes an expansion of customer base to a new segment, adding nuance to existing customer concentration/diversification risk."
+  },
+  {
+   "text": "A deterioration in macroeconomic conditions, whether in the United States, internationally, or globally, could create uncertainty and adversely affect advertising spending or costs related to our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic macroeconomic risk language without new specifics."
+  },
+  {
+   "text": "Economic and political relations between the U.S. and other countries continue to evolve rapidly, including with respect to tariff and other policies, and changing policies may adversely affect our business by harming advertising spending or increasing our costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk tied to evolving U.S. tariff and trade policy affecting advertising spend and costs."
+  },
+  {
+   "text": "Our business is also impacted by geopolitical conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about geopolitical impact without specifics."
+  },
+  {
+   "text": "Additionally, the U.S. government also continues to add additional entities in China and other countries to restricted party lists impacting the ability of U.S. companies to engage with these entities.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new regulatory detail about U.S. government adding entities in China to restricted lists, a concrete new compliance risk."
+  },
+  {
+   "text": "In addition, the Chinese government has retaliated, and may continue to retaliate, to recent changes in U.S. tariffs and export controls in ways that could indirectly impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk describing Chinese retaliation to U.S. tariffs/export controls."
+  },
+  {
+   "text": "We expect to continue to expand our international operations in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about international expansion, no new specifics."
+  },
+  {
+   "text": "For example, in April 2025, we confirmed that we had provided an indication of interest to the President of the United States to explore a purchase of TikTok in all markets outside of China, but we ultimately did not enter into a transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new event (TikTok acquisition interest) not previously disclosed, introducing new business/legal exposure."
+  },
+  {
+   "text": "We face risks related to our strategic transactions, which may not achieve our strategic objectives, may disrupt our operations or result in unexpected liabilities or expenses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk-factor framing about strategic transactions without specifics."
+  },
+  {
+   "text": "For example, in June 2025, we sold our Apps business.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new corporate action\u2014the sale of the Apps business\u2014introducing new divestiture-related risk."
+  },
+  {
+   "text": "As a result of this divestiture, we no longer generate Apps revenue and we may not achieve the desired strategic and financial benefits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequences of the newly disclosed divestiture, expanding on revenue impact risk."
+  },
+  {
+   "text": "Any future divestitures or similar transactions may, among other risks, result in reduced revenue, cause us to incur additional expenses, disrupt third party or employee relationships, and expose us to unanticipated or ongoing obligations and liabilities, including as a result of our indemnification obligations or any agreement to provide transition services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of potential negative outcomes from future divestitures, standard boilerplate risk language."
+  },
+  {
+   "text": "In connection with the 2025 launch of our self-serve advertising platform (Axon Ads Manager), we publicly launched our Axon product branding.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a new product launch and rebranding, expanding existing brand/reputation risk context."
+  },
+  {
+   "text": "Harm to our brands and reputation can arise from many sources, including actions of our business partners, service disruptions or technical issues, or legal or regulatory scrutiny.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reputation risk statement without new specifics."
+  },
+  {
+   "text": "We have, from time to time in the past, and may in the future be, the target of incomplete, inaccurate, and misleading or false statements about our company and our business that could damage our reputation and brands, divert management attention and resources, and deter clients or potential clients from using our solutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of being targeted by false or misleading statements damaging reputation and deterring clients."
+  },
+  {
+   "text": "While not material to our business to date, we experience from time to time disruptions from third parties with whom we do business, including failure to uphold contractual obligations, violations of our policies and terms of use, and other actions described in this risk.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about third-party disruptions, explicitly noted as not material, largely reworded existing risk."
+  },
+  {
+   "text": "We transfer personal data relating to our employees, clients and their users from the European Economic Area (\u201cEEA\u201d), the United Kingdom, Switzerland, and other jurisdictions to the United States and other countries.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing cross-border data transfer practice, factual context rather than new risk."
+  },
+  {
+   "text": "Following the invalidation of the EU-U.S. and Swiss-U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates known historical fact about invalidation of Privacy Shield frameworks."
+  },
+  {
+   "text": "Privacy Shield frameworks by the Court of Justice of the European Union in 2020 and the imposition of additional requirements regarding the use of standard contractual clauses (\u201cSCCs\u201d), cross-border data transfer mechanisms 20 Table of Contents have been subject to heightened regulatory scrutiny, evolving guidance, and legal challenge.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates known regulatory history regarding SCCs and cross-border data scrutiny."
+  },
+  {
+   "text": "The European Commission adopted updated SCCs in 2021, and the United Kingdom has implemented its own contractual transfer mechanisms, which have increased compliance complexity and costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about updated SCCs and UK transfer mechanisms increasing compliance complexity, expanding existing data transfer risk."
+  },
+  {
+   "text": "DPF\u201d), and related frameworks for the United Kingdom and Switzerland subsequently became effective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated factual detail on new data transfer frameworks becoming effective, expanding existing risk narrative."
+  },
+  {
+   "text": "We are certified under these frameworks, where applicable; however, they are subject to ongoing review and potential legal challenge and may be modified, suspended, or invalidated in the future.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about certification under transfer frameworks subject to legal challenge."
+  },
+  {
+   "text": "Regulators in certain European jurisdictions have also taken the position that specific data transfer practices, including the use of certain analytics tools, may result in unlawful transfers of personal data to the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific regulatory position on unlawful data transfers, expanding existing cross-border data risk."
+  },
+  {
+   "text": "If existing data transfer mechanisms are restricted or invalidated, or if additional measures are required, we and our business partners and service providers may need to implement alternative or supplemental safeguards, renegotiate contracts, or modify our operations, which could increase costs, limit our ability to process personal data, disrupt our advertising solutions or other offerings, and expose us and our customers to regulatory investigations or enforcement actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General consequence statement about needing alternative safeguards, restates known risk implications."
+  },
+  {
+   "text": "Similar cross-border data transfer restrictions under other current or future laws such as Brazil\u2019s General Data Protection Law and China\u2019s Personal Information Protection Law may further increase compliance burdens and adversely affect our business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new jurisdictions (Brazil, China) to existing cross-border data transfer risk discussion."
+  },
+  {
+   "text": "Moreover, there are increasing restrictions in the United States on certain personal sensitive data transfers to certain foreign countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding increasing U.S. restrictions on sensitive data transfers to foreign countries."
+  },
+  {
+   "text": "The Department of Justice finalized a final rule implementing Executive Order 14117, effective April 8, 2025, which prohibits data transfer of personal identifiers, precise geolocation data, biometric identifiers, health data, and financial data over a certain bulk threshold to identified countries of concern (i.e., China, Hong Kong, Macau, Cuba, Iran, North Korea, Russia, and Venezuela).",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new specific regulation (DOJ rule under Executive Order 14117) restricting data transfers to countries of concern, a material new compliance risk."
+  },
+  {
+   "text": "The rule also restricts data brokerage agreements, investment agreements, employment agreements, and vendor agreements involving such data and countries of concern.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the same new rule's restrictions on various agreements, expanding on the newly introduced regulatory risk."
+  },
+  {
+   "text": "Violations of the rule may be punishable by criminal and/or civil sanctions and may result in exclusion from participation in federal and state programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing penalties under the same new rule, expanding on previously introduced risk."
+  },
+  {
+   "text": "These data transfer restrictions may create operational challenges and legal risks for our business, particularly with regard to China, where we have operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Applies the new data transfer restrictions specifically to the company's China operations, expanding existing risk."
+  },
+  {
+   "text": "In addition, the GDPR, the CCPA, as modified by the CPRA, and other laws contain their own prohibitions and requirements relating to processing the personal information of children.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about children's data provisions under GDPR/CCPA, expanding existing privacy compliance risk."
+  },
+  {
+   "text": "Additionally, several jurisdictions have enacted or proposed laws imposing new privacy obligations related to health-related personal information beyond traditional medical privacy laws like the Health Insurance Portability and Accountability Act, which laws can broadly define consumer health data and in certain cases include private rights of action.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding emerging health-data privacy laws beyond HIPAA, including private rights of action."
+  },
+  {
+   "text": "Ongoing developments regarding laws and regulations concerning privacy, information security, data protection, consumer protection, advertising, and other factors that may be relevant to our business may increase compliance burdens, legal risks, and operational costs for us, our clients, and others in the advertising technology ecosystem.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about evolving privacy laws increasing compliance burdens, generic framing."
+  },
+  {
+   "text": "For example, the Chinese government has retaliated, and may continue to retaliate, to recent changes in U.S. tariffs and export controls in ways that could indirectly impact our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate restatement of the same Chinese retaliation risk already described elsewhere."
+  },
+  {
+   "text": "On January 5, 2026, the OECD announced a \"side-by-side\" elective safe harbor that exempts U.S.-parented multinational entities from certain provisions of the global minimum tax for fiscal years beginning on or after January 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tax development (OECD safe harbor) affecting global minimum tax exposure."
+  },
+  {
+   "text": "Additionally, the One Big Beautiful Bill Act (\"OBBBA\"), enacted in July 2025, modifies existing U.S. tax laws, including by permitting the deduction of certain U.S. research and development expenditures and changing the calculation and deductibility of certain provisions related to international income for U.S. federal income tax purposes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tax law change (OBBBA) affecting R&D deductions and international income calculations."
+  },
+  {
+   "text": "Our terms of use and policies also prohibit our clients from using our services to monetize or distribute content that may violate third-party intellectual property rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific policy detail prohibiting clients from IP-infringing content, expanding existing platform/content compliance risk."
+  }
+ ]
+}

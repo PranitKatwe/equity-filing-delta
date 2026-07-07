@@ -1,0 +1,218 @@
+{
+ "ticker": "AVGO",
+ "sector": "Information Technology",
+ "filing_date": "2025-12-18",
+ "accession": "0001730168-25-000121",
+ "prior_accession": "0001730168-24-000139",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 31
+ },
+ "items": [
+  {
+   "text": "Risk Factors in this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reference to the Risk Factors section title, no substantive content."
+  },
+  {
+   "text": "Available Information Our website is www.broadcom.com.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard website availability boilerplate."
+  },
+  {
+   "text": "At the \u201cInvestor Center\u201d page on this website, we promptly make available free of charge the reports we file or furnish pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (the \u201cExchange Act\u201d) with the Securities and Exchange Commission (the \u201cSEC\u201d), as well as our proxy statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure about where filings are available."
+  },
+  {
+   "text": "Such periodic reports, proxy statements and other information are also available at the SEC\u2019s website at www.sec.gov.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard SEC website reference boilerplate."
+  },
+  {
+   "text": "The information posted on our website is not incorporated into this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclaimer about website content not being incorporated."
+  },
+  {
+   "text": "Information About Our Executive Officers The following table provides information regarding our executive officers as of December 18, 2025: Name and Title Age Position and Offices Hock E.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory table header for executive officer bios, not a risk statement."
+  },
+  {
+   "text": "Tan 74 President, Chief Executive Officer and Director Kirsten M.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive officer title listing, informational only."
+  },
+  {
+   "text": "Spears 61 Chief Financial Officer and Chief Accounting Officer Mark D.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive officer title listing, informational only."
+  },
+  {
+   "text": "Brazeal 57 Chief Legal and Corporate Affairs Officer Charlie B.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive officer title listing, informational only."
+  },
+  {
+   "text": "55 President, Semiconductor Solutions Group Hock E.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive officer title listing, informational only."
+  },
+  {
+   "text": "Tan has served as our President and Chief Executive Officer since March 2006.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact about CEO tenure, not a risk factor."
+  },
+  {
+   "text": "He was President and Chief Executive Officer at Integrated Circuit Systems, Inc., a publicly traded timing solutions IC company, from 1999 until its acquisition by Integrated Device Technology, Inc. in 2005.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He also served in various executive roles at ICS, including as Chief Operating Officer from 1996 to 1999 and Senior Vice President and Chief Financial Officer from 1995 to 1999.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He was Vice President of Finance at Commodore International, Ltd. from 1992 to 1994, and held senior management positions at PepsiCo, Inc. and General Motors Corporation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He was managing director of Pacven Investment, Ltd., a venture capital fund in Singapore, from 1988 to 1992, and was managing director of Hume Industries Ltd. in Malaysia from 1983 to 1988.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He also has served as a Member of the President\u2019s National Security and Telecommunications Advisory Committee since 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact, no risk content."
+  },
+  {
+   "text": "Spears has served as our Chief Financial Officer and Chief Accounting Officer since December 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact about CFO tenure, no risk content."
+  },
+  {
+   "text": "She served as our Principal Accounting Officer from March 2016 to December 2020 and Vice President and Corporate Controller from May 2014 to December 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "She was Vice President and Corporate Controller at LSI Corporation from 2007 until its acquisition by us in 2014.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "She held several management positions in accounting and reporting at LSI from 1997 to 2007.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "She also worked for PricewaterhouseCoopers LLP prior to joining LSI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact, no risk content."
+  },
+  {
+   "text": "Brazeal has served as our Chief Legal and Corporate Affairs Officer since December 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact about Chief Legal Officer tenure, no risk content."
+  },
+  {
+   "text": "He served as our Chief Legal Officer from March 2017 to December 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He was Chief Legal Officer and Senior Vice President, IP Licensing for SanDisk Corporation from 2014 until its acquisition by Western Digital Corporation in 2016.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He held several senior legal positions at Broadcom Corporation from 2000 to 2014, including Senior Vice President and Senior Deputy General Counsel in charge of all commercial, operational, IP licensing and litigation matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He was also an attorney in the transactional and IP groups at the law firms of Wilson Sonsini Goodrich & Rosati PC, Yuasa & Hara and Howrey & Simon LLP prior to joining Broadcom Corporation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "Kawwas, Ph.D. has served as our President, Semiconductor Solutions Group since July 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical fact about executive tenure, no risk content."
+  },
+  {
+   "text": "He served as our Chief Operating Officer from December 2020 to July 2022, Senior Vice President and Chief Sales Officer from June 2015 to December 2020 and Senior Vice President, Worldwide Sales from May 2014 to June 2015.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He was head of worldwide sales at LSI Corporation from 2010 until its acquisition by us in 2014.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He held several executive leadership positions at LSI from 2007 to 2010, including Vice President of Sales and Marketing for the networking division and Vice President of Marketing for the networking and storage products group.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "He was also the leader of Product Line Management for the Optical Ethernet and Multi-service Edge portfolio at Nortel Networks Corporation prior to joining LSI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical history, no risk content."
+  },
+  {
+   "text": "The technology industry is subject to intense media, political and regulatory scrutiny, which can increase our exposure to government investigations, regulations, legal actions and penalties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding increased scrutiny leading to government investigations, legal actions, and penalties."
+  },
+  {
+   "text": "While U.S. tariffs and counter-tariffs, including semiconductor-related tariffs, have not had a material impact on our financial condition or results of operations, tariffs and other macroeconomic factors could materially increase costs and disrupt our supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about tariffs and macroeconomic factors potentially increasing costs and disrupting the supply chain."
+  },
+  {
+   "text": "We continuously manage product availability and costs in our supply chain to mitigate the direct and indirect impact of tariffs and other macroeconomic impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on mitigation efforts related to the newly introduced tariff risk, expanding on the same topic."
+  },
+  {
+   "text": "The ultimate impact remains uncertain and will depend on 14 Table of Contents several factors outside of our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaboration on uncertainty of tariff impact, part of the same expanded risk discussion."
+  },
+  {
+   "text": "The semiconductor industry is undergoing profound change due to the adoption and proliferation of AI and has experienced a significant upturn, which may not be sustainable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about AI-driven industry upturn potentially being unsustainable."
+  },
+  {
+   "text": "The growth of AI is creating pressure on the semiconductor industry to timely design, manufacture and deliver semiconductor products and solutions to meet customer demand for computing power and AI infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the AI-related risk by detailing pressure on design and delivery timelines."
+  },
+  {
+   "text": "Some of these AI customers may have constrained resources or capital and may be unable to pay for their required AI infrastructure and/or seek alternative financings or novel or deferred payment models from their vendors and suppliers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that AI customers may be financially constrained and seek alternative payment models."
+  },
+  {
+   "text": "If our AI customers substantially reduce their expansion plans, cancel, reduce or delay their orders, are unable to generate the profit required to offset their spending or are otherwise unable to meet their obligations and we cannot offset the downturn in their business, it could have a material adverse effect on our business, operating results, financial condition and stock price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the material adverse effect scenario tied to the newly introduced AI customer risk, expanding on it."
+  },
+  {
+   "text": "A significant reduction in demand from certain customers or loss of one or more of our significant customers may adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands the general customer concentration risk with specific reference to reduced demand or loss of significant customers."
+  }
+ ]
+}

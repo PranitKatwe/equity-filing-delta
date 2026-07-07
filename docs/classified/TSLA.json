@@ -1,0 +1,218 @@
+{
+ "ticker": "TSLA",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-01-29",
+ "accession": "0001628280-26-003952",
+ "prior_accession": "0001628280-25-003063",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "There is no guarantee we will be able to successfully develop or timely introduce and scale these new products, services and features, or that there will be widespread consumer adoption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about no guarantee of success for new products, common boilerplate language."
+  },
+  {
+   "text": "In particular, our future business depends on development of our driver assistance systems and autonomous driving solutions and increasing the production of mass-market vehicles, including Cybercab, our purpose-built Robotaxi product.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific dependency on driver assistance, autonomous driving, and Cybercab robotaxi product for future business."
+  },
+  {
+   "text": "Similarly, we are also developing Bots for future commercialization, and we may experience delays in launching and ramping the production of this product.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure of a specific product (Bots) under development with potential delays in commercialization."
+  },
+  {
+   "text": "U.S. trade policy alterations in 2025, including heightened import tariffs and subsequent retaliatory measures, have impacted our supply chain costs, and may impact the availability of certain technologies or components, depending on the exact scope of the tariffs ultimately implemented and retaliatory export controls.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces concrete impact of 2025 tariff policy changes on supply chain costs and component availability."
+  },
+  {
+   "text": "For example, as companies, including Tesla, have made rapid advancements in AI in recent years, such innovation demands exponentially greater compute, memory, energy and thermal resources, which may prove insufficient in scale or affordability to meet our requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk about AI compute/resource scaling constraints potentially insufficient for the company's needs."
+  },
+  {
+   "text": "Such delays could also in turn affect our ability to meet demand for our services, such as Robotaxi, which are dependent upon the production and deployment of Tesla vehicles.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the previously mentioned production delay risk to specifically affect Robotaxi service demand."
+  },
+  {
+   "text": "As we seek to expand our Robotaxi and Semi business we must also accurately forecast, develop and optimize our service and charging capabilities to ensure service quality.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific operational risk regarding forecasting and service quality as Robotaxi and Semi businesses expand."
+  },
+  {
+   "text": "Upon launching our Robotaxi service in June 2025, we also entered into the autonomous ride-hailing service market, and have plans to mass produce Cybercab, a purpose-built Robotaxi product.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses concrete new business fact: launch of Robotaxi service and plans for Cybercab mass production, introducing new market risk."
+  },
+  {
+   "text": "As we seek to expand the scope and geographical footprint of this business, our success will be dependent upon various factors, including the acceptance and adoption by consumers of autonomous driving solutions, and Robotaxi as a preferable option, amid growing competition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the Robotaxi expansion risk by adding factors like consumer adoption and competition."
+  },
+  {
+   "text": "Growth of our business is also dependent upon our ability to develop and commercialize Bots, including Optimus, which is in a nascent industry that has yet to develop commercially.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces dependency on commercialization of Bots/Optimus in a nascent, undeveloped industry."
+  },
+  {
+   "text": "15 Table of Contents We currently are developing Bots, including Optimus, and intend for these products, as well as accompanying services, to be an important part of our business going forward.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the Bots/Optimus development risk already introduced."
+  },
+  {
+   "text": "While this development requires significant cash investments and management resources, there is no guarantee this business will be successful.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about no guarantee of success, standard cautionary language."
+  },
+  {
+   "text": "We have yet to commercialize Bots and cannot predict how demand for Bots will develop, either from commercial or consumer applications.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk that Bots have not been commercialized and demand cannot be predicted."
+  },
+  {
+   "text": "We also face significant competition from other companies that are designing, developing and building robotics applications.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk from robotics companies."
+  },
+  {
+   "text": "Our success will depend on various factors, including our ability to successfully apply our artificial neural network training experience to autonomous robots, to either source or custom develop the necessary technology and components, and the product\u2019s cost-effectiveness, utility and competitive positioning relative to market alternatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on factors affecting Bots program success, building on prior risk statements."
+  },
+  {
+   "text": "If our Bots program fails to develop as we expect, or progresses more slowly than expected, our business, prospects, financial condition and operating results may be harmed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the Bots risk narrative, specifying consequences of program failure."
+  },
+  {
+   "text": "We have little control over these matters which are inherently unpredictable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about lack of control over unpredictable matters."
+  },
+  {
+   "text": "Further, the United States has recently announced changes to U.S. trade policy, including increasing tariffs on imports, in many cases significantly, and potentially renegotiating or terminating existing trade agreements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new macroeconomic risk from recent U.S. trade policy changes and tariffs."
+  },
+  {
+   "text": "The exact scope of any such tariffs that will ultimately be implemented is not known at this time, and the impacts on our business and costs of our products is uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on uncertainty of tariff scope already introduced."
+  },
+  {
+   "text": "Retaliatory tariffs imposed by other countries on U.S. exports, further increases in U.S. tariffs, and the uncertainties surrounding domestic and foreign tariffs have impacted the pricing for our products, which could adversely impact demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details how tariffs have impacted pricing and demand, expanding on the tariff risk."
+  },
+  {
+   "text": "We cannot predict whether, and to what extent, there may be changes to international trade agreements, such as those with China, or whether, or to what extent, quotas, duties, additional tariffs, export controls or other restrictions will be changed or imposed by the United States or by other countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty language about future trade policy changes, largely cautionary."
+  },
+  {
+   "text": "Historically, U.S. special tariff actions have increased our costs for vehicles manufactured in the United States and increased costs for those same vehicles when exported from the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides historical specifics on tariff cost impacts, expanding the tariff risk discussion."
+  },
+  {
+   "text": "Further, as it pertains to electric vehicles and lithium-ion batteries for our energy storage products, while the Company has continuously aimed for a strong domestic supply chain, certain parts and components are difficult or impossible to source within the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific supply chain risk regarding sourcing of certain EV/battery components domestically."
+  },
+  {
+   "text": "As is true for other automakers, our vehicles have been involved and we expect in the future will be involved in collisions resulting in death or personal injury.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard automaker liability risk regarding vehicle collisions, likely previously disclosed in similar form."
+  },
+  {
+   "text": "An unfavorable outcome in some or all of these proceedings could have a material adverse impact on results of operations or cash flows for a particular period.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic legal risk language about adverse litigation outcomes."
+  },
+  {
+   "text": "Our view of these matters is subject to inherent uncertainties and may change in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of legal views, standard boilerplate."
+  },
+  {
+   "text": "(\u201cxAI\u201d), Neuralink Corp. and The Boring Company, and is involved in other ventures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about CEO's other ventures, expanding on existing conflict-of-interest risk disclosure."
+  },
+  {
+   "text": "20 Table of Contents If our warranty reserves are inadequate to cover future warranty claims on our products, our financial condition and operating results may be harmed.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard warranty reserve risk language likely already present in prior filings."
+  },
+  {
+   "text": "Specifically, recent governmental and regulatory actions have repealed and/or restricted consumer, manufacturing and charging infrastructure tax credits, and certain regulatory credit programs tied to our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory development: repeal/restriction of tax credits and regulatory credit programs."
+  },
+  {
+   "text": "These, and any similar actions in the future, may affect demand for our vehicles, and harm our growth, prospects and operating results, and the loss of previously available tax credits and carbon offset mechanisms may further negatively impact our financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and expands on the tax credit loss risk just introduced."
+  },
+  {
+   "text": "For example, provisions of the OBBBA could affect battery cell expenses and impact costs for our consumers, negatively impacting demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific legislative risk (OBBBA) affecting battery costs and consumer demand."
+  },
+  {
+   "text": "Compliance with evolving legislation, such as the OBBBA, also requires rigorous traceability of raw materials.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on compliance burden from the OBBBA risk already introduced."
+  },
+  {
+   "text": "If we or our suppliers are unable to provide sufficient documentation to verify the origin of critical minerals, our products may lose eligibility for tax credits and incentives, directly increasing the effective price for our customers and potentially reducing demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details consequences of non-compliance with mineral traceability requirements under OBBBA."
+  },
+  {
+   "text": "We also launched our autonomous ride-hailing service in 2025.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the Robotaxi service launch fact already covered in another new sentence."
+  },
+  {
+   "text": "Many other U.S. states have enacted their own distinct privacy laws and regulations, which often impose different, overlapping, and sometimes conflicting requirements across multiple jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing privacy law compliance risk by noting proliferation of state-level laws."
+  },
+  {
+   "text": "There is a risk that the technologies and initiatives associated with the 2025 CEO Performance Award, including the product goals, are misaligned with current or future consumer demand, resulting in our failure to invest in or pursue another opportunity that generates significant financial returns or leads to greater shareholder value.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk tied to the 2025 CEO Performance Award being misaligned with consumer demand."
+  },
+  {
+   "text": "If the 2025 CEO Performance Award inadvertently directs our focus and resources toward specific technologies that are misaligned with market preferences, or such preferences evolve unfavorably, or customer demand for these innovations does not materialize as anticipated, we may miss opportunities better aligned with other needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the CEO Performance Award misalignment risk just introduced."
+  },
+  {
+   "text": "In particular, the product goals may not be indicative of the types of products or services that would, in the long run, generate financial returns necessary to justify the significant market capitalization goals of the 2025 CEO Performance Award.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on CEO Performance Award risk regarding financial return justification."
+  },
+  {
+   "text": "The product goals were designed to incentivize Elon Musk to devote time and energy to development of these products and services, as these products and services are directionally consistent with Mr.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on the CEO Performance Award's design, expanding on related risk narrative."
+  },
+  {
+   "text": "Musk\u2019s vision for the future of our company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Low-content continuation describing Musk's vision, adds little new risk substance."
+  }
+ ]
+}

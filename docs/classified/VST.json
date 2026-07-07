@@ -1,0 +1,218 @@
+{
+ "ticker": "VST",
+ "sector": "Utilities",
+ "filing_date": "2026-02-27",
+ "accession": "0001692819-26-000006",
+ "prior_accession": "0001692819-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 26
+ },
+ "items": [
+  {
+   "text": "General Vistra is an integrated retail electricity and power generation company that provides essential power resources to customers, businesses, and communities from California to Maine.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic company description with no risk content."
+  },
+  {
+   "text": "Our coal/lignite-fueled generation fleet is comprised of seven generation facilities totaling 8,743 MW of generation capacity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of generation fleet capacity, not a risk statement."
+  },
+  {
+   "text": "We continue to take affirmative action by building strategic inventory and deploying mitigating strategies in our procurement portfolio to ensure we can secure the nuclear fuel needed to continue to operate our nuclear facilities through potential Russian supply disruption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about mitigation strategies for an already-known nuclear fuel/Russian supply disruption risk."
+  },
+  {
+   "text": "Unlike regions that maintain minimum planning reserve margins through regulated resource planning, mandatory capacity requirements, or centralized capacity markets, ERCOT relies primarily on energy-market price signals to incentivize investment in and availability of generation resources.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific structural risk that ERCOT lacks centralized capacity mechanisms, relying solely on price signals, distinguishing it from other markets and highlighting exposure to resource adequacy gaps."
+  },
+  {
+   "text": "Prices in ERCOT are determined through marginal pricing, meaning the cost of the last resource needed to balance supply and demand establishes the market price for all dispatched generation at a given location, subject to transmission congestion and losses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general marginal pricing mechanics, informational not risk-specific."
+  },
+  {
+   "text": "Outside of periods of scarcity, wholesale electricity prices in ERCOT typically reflect the relative amount of renewable generation on the system and the associated need for thermal generation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General market pricing behavior explanation."
+  },
+  {
+   "text": "When renewable generation is abundant relative to demand, prices are set by either renewable resources or low-cost thermal resources.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further pricing mechanics description, no new risk."
+  },
+  {
+   "text": "Periods of extreme weather, including prolonged high temperatures during summer months or severe cold during winter months, can materially increase electricity demand and reduce available generation, particularly when combined with variability in renewable output, making ERCOT more vulnerable to periods of generation scarcity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on known extreme weather risk by detailing how it interacts with renewable variability to increase scarcity risk."
+  },
+  {
+   "text": "Large load flexibility during high demand periods could be an important mechanism to maintain reliability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about load flexibility mechanism, not a specific risk."
+  },
+  {
+   "text": "In 2025, the Texas legislature passed Senate Bill 6 (SB 6) that requires certain co-located large loads and some front-of-the-meter large loads to provide load flexibility during emergencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legislative requirement (SB 6) imposing new obligations on large loads, a new regulatory risk."
+  },
+  {
+   "text": "SB 6 requires these load curtailments to not interfere with energy price formation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on SB 6 requirement introduced in prior sentence."
+  },
+  {
+   "text": "Under real-time co-optimization, as energy prices rise ERCOT will go short on ancillary services based on the ASDCs, converting that reserve capacity to energy and reflecting that scarcity value in energy prices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical market mechanism description, not a new risk."
+  },
+  {
+   "text": "While stakeholders have disagreed on the degree to which DRRS should support the reliability standard, in December 2024, the PUCT expressed a preference to have ERCOT develop DRRS so it can both address operational issues and be flexible to help address resource adequacy issues without significant additional effort.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides regulatory development detail on DRRS reliability standard, expanding existing regulatory uncertainty risk."
+  },
+  {
+   "text": "ERCOT also applies safeguards designed to moderate the duration and impact of sustained high prices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ERCOT safeguards, not a specific new risk."
+  },
+  {
+   "text": "Offers into the energy markets are capped at $1,000/MWh unless a resource can cost justify an offer above $1,000/MWh.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing price cap rule, factual/regulatory detail."
+  },
+  {
+   "text": "Cost-justified offers between $1,000/MWh and $2,000/MWh can set the energy price.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further pricing mechanic detail, not a new risk."
+  },
+  {
+   "text": "Cost-justified energy offers above $2,000/MWh cannot set the energy price, but resources will get cost recovery for verified costs above $2,000/MWh.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of pricing mechanic detail."
+  },
+  {
+   "text": "The price of capacity is determined in part by a capacity demand curve that is reviewed every four years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes regulatory review cadence, informational."
+  },
+  {
+   "text": "The capacity demand curve establishes a maximum price for capacity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes capacity price cap mechanism, informational."
+  },
+  {
+   "text": "PJM proposed and FERC approved an administrative price ceiling below the maximum price for capacity, for capacity delivery years 2026-2027 and 2027-2028.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific regulatory update on FERC-approved price ceiling affecting capacity revenue, expanding known market risk."
+  },
+  {
+   "text": "In February 2026, PJM announced that it would propose to extend the administrative price cap for delivery years 2028-2029 and 2029-2030.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends prior regulatory detail to future delivery years, expanding known capacity price risk."
+  },
+  {
+   "text": "That proposal is subject to FERC approval.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural statement about FERC approval process."
+  },
+  {
+   "text": "The Trump administration and PJM state governors have proposed that PJM conduct a reliability backstop auction on a one-time basis in September 2026 to procure new generation to close the resource adequacy gap.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a new regulatory initiative addressing resource adequacy gap, expanding existing capacity market risk exposure."
+  },
+  {
+   "text": "PJM is working with stakeholders to develop the design for the reliability backstop auction and expects to file the design with FERC by May 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural update on auction design process."
+  },
+  {
+   "text": "Any design will be subject to FERC approval.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural statement about FERC approval."
+  },
+  {
+   "text": "We also enter into bilateral capacity transactions, with other PJM market participants, including load-serving entities and generation owners, to manage capacity obligations, pricing exposure, and portfolio risk.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes normal business practice of bilateral capacity transactions, not a risk."
+  },
+  {
+   "text": "In December 2025, FERC determined that PJM needs to update its market rules to facilitate large loads co-locating with generation resources.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new FERC determination requiring PJM to change market rules for co-located large loads, a new regulatory risk affecting business model."
+  },
+  {
+   "text": "These new rules require PJM to develop new transmission service products that allow co-located large loads to select a transmission service that matches the co-located large loads actual use of the transmission system.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the new transmission service requirement stemming from the new FERC rule introduced above."
+  },
+  {
+   "text": "These new rules also require co-located loads to pay for some ancillary services on a gross basis.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on cost allocation requirement under the new co-location rules, expanding the newly introduced regulatory risk."
+  },
+  {
+   "text": "PJM is working with stakeholders to develop these new transmission services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural statement about ongoing stakeholder process."
+  },
+  {
+   "text": "Overall, we believe these new rules will remove regulatory uncertainty for co-location arrangements.",
+   "category": "reworded_same_meaning",
+   "rationale": "Expresses optimistic belief about regulatory clarity, framing rather than new risk."
+  },
+  {
+   "text": "ISO-NE's day-ahead ancillary services market structures each ancillary service as an option contract so that resources selling day-ahead ancillary services settle against a real-time strike price, thereby providing strong incentives for those resources to be capable of providing energy in real time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical description of ISO-NE market structure, informational."
+  },
+  {
+   "text": "In addition, the cost of Energy Imbalance Reserves, the day-ahead ancillary service designed to ensure adequate physical supply to meet forecast demand, is added to the energy price paid to all physical resources with a day-ahead energy schedule.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ancillary service cost allocation mechanism, informational."
+  },
+  {
+   "text": "That filing is pending FERC action.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural statement about pending filing."
+  },
+  {
+   "text": "MISO administers Planning Resource Auctions to procure capacity for future planning periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of MISO auction process."
+  },
+  {
+   "text": "These auctions were historically conducted on an annual basis and have transitioned to a seasonal structure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes a structural change in auction frequency (annual to seasonal), expanding market structure risk."
+  },
+  {
+   "text": "Mechanisms to trade RA include through (i) the CPUC central procurement entity which runs a pay-as-bid auction for Local RA Capacity, (ii) a voluntary capacity auction run by CAISO for annual, monthly, and intra-month procurement to cover for deficiencies in the market, and (iii) the voluntary Competitive Solicitation Process, which is a modification to the Capacity Procurement Mechanism (CPM).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing mechanisms for trading RA, informational detail."
+  },
+  {
+   "text": "Conducting our daily activities within the laws, regulations, and rules is not an option we choose but rather the way we do business that is ingrained in our culture. \u2022 We work as a team.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Corporate culture statement, unrelated to risk factors."
+  },
+  {
+   "text": "We work together on everything we do to support the success of the Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Team collaboration statement, generic culture language."
+  },
+  {
+   "text": "Collaboration, information sharing, and cross-functional teamwork are fundamental to how we conduct our day-to-day activities. \u2022 We compete to win.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic motivational statement about competing, not a risk factor."
+  }
+ ]
+}

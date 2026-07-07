@@ -1,0 +1,68 @@
+{
+ "ticker": "LRCX",
+ "sector": "Information Technology",
+ "filing_date": "2025-08-11",
+ "accession": "0000707549-25-000075",
+ "prior_accession": "0000707549-24-000106",
+ "model": "claude-sonnet-5",
+ "n_added": 10,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "This provides an advantage to our international competitors that are not subject to these restrictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific competitive consequence (advantage to unrestricted foreign competitors) to the existing regulatory/trade restriction risk."
+  },
+  {
+   "text": "In addition, the outcomes of consolidation can potentially lead to an overall reduction in the market for semiconductor manufacturing equipment as customers\u2019 operations achieve economies of scale and/or increased purchasing power based on their higher volumes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk that industry consolidation could shrink the overall equipment market via customer economies of scale."
+  },
+  {
+   "text": "Our customers (and their customers and other downstream parties) may also be adversely affected by the tariffs, export controls and other trade issues described above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the already-discussed tariff/export control risk to downstream customers, broadening rather than introducing a new risk theme."
+  },
+  {
+   "text": "Additionally, certain materials are primarily available in a limited number of countries, including rare earth elements, minerals, and metals.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific, previously unmentioned risk about geographic concentration of critical materials like rare earth elements."
+  },
+  {
+   "text": "The supplies, equipment, raw materials and other inputs necessary for the businesses of our customers and other downstream parties could become more difficult to obtain for various reasons not limited to business interruptions of suppliers, reduced availability of labor, transit disruptions, consolidation in their supply chain, export controls, sanctions, trade restrictions, tariffs, geopolitical tensions, economic circumstances, conflict, or political conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates extensively on causes of supply/input disruption for customers, expanding the existing supply chain risk discussion with more specifics."
+  },
+  {
+   "text": "If the ability of downstream parties to source the inputs needed to produce their products is impaired, then demand for our products may be adversely impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows directly from the supply chain risk, describing downstream demand impact\u2014an extension rather than a new risk category."
+  },
+  {
+   "text": "This could have a material adverse effect on our business, results of operations or financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic material adverse effect language commonly appended to risk factor paragraphs."
+  },
+  {
+   "text": "Epidemics, Pandemics or Outbreaks of Diseases May Adversely Impact Our Business, Operations, and Financial Results Epidemics, pandemics or outbreaks of diseases may arise at any time and may have significant business, operational, and financial impacts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading and statement about pandemics/epidemics without specific new business impact detail."
+  },
+  {
+   "text": "For example, the COVID-19 pandemic has in the past and additional global heath crises may in the future result in efforts by national, state and local governments worldwide to control the applicable disease\u2019s spread.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General reference to COVID-19 and government responses without new specific risk detail."
+  },
+  {
+   "text": "Global health crises may also have significant macroeconomic impacts, including, but not limited to, significant disruption of global financial markets, increases in levels of unemployment, and economic uncertainty.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about macroeconomic effects of health crises, lacking specific new risk content."
+  }
+ ]
+}

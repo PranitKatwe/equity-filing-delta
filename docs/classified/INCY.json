@@ -1,0 +1,178 @@
+{
+ "ticker": "INCY",
+ "sector": "Health Care",
+ "filing_date": "2026-02-10",
+ "accession": "0000879169-26-000010",
+ "prior_accession": "0001628280-25-004633",
+ "model": "claude-sonnet-5",
+ "n_added": 32,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "However, we expect that JAKAFI product sales will begin to decline upon the expiration of our patent exclusivity in 2028.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific, concrete expectation that JAKAFI sales will decline upon 2028 patent expiration, building on the pre-existing general risk of patent exclusivity loss."
+  },
+  {
+   "text": "Food and Drug Administration (FDA); \u2022 the maintenance of regulatory approval for the approved indications in the United States; \u2022 our ability to develop, obtain regulatory approval for and commercialize JAKAFI in the United States for additional indications or in combination with other therapeutic modalities; and \u2022 the effects of a public health pandemic or epidemic such as the COVID-19 pandemic or of adverse geopolitical events, regulatory, legislative or administrative developments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a fragmentary continuation of a list of pre-existing risk factors (regulatory approval, pandemic effects) with no new substantive content."
+  },
+  {
+   "text": "The testing, manufacturing, marketing and sale of our products could expose us to product liability and other risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about product liability risk common to pharma filings."
+  },
+  {
+   "text": "We have received a notice letter from each of Apotex, Inc., Hikma Pharmaceuticals USA Inc., Sun Pharmaceutical Industries Inc., Granules India Ltd., Dr.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new ANDA paragraph IV notice letters from named generic manufacturers challenging JAKAFI patents, a concrete new litigation risk."
+  },
+  {
+   "text": "Reddy\u2019s Laboratories, Inc., and Eugia Pharma Specialties, Ltd., which we refer to as the Generic Manufacturers, notifying us that each has filed an ANDA requesting approval to market a generic version of JAKAFI that contains a paragraph IV certification purporting to challenge one or more patents covering ruxolitinib composition of matter and its use that expire (with pediatric extension) in June 2028 and patents covering ruxolitinib phosphate and its use that expire (with pediatric extension) in December 2028.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further specific detail (patent expiration dates, additional generic filer) continuing the newly disclosed litigation matter."
+  },
+  {
+   "text": "In response, we filed patent infringement actions against each of the Generic Manufacturers (with respect to both the ANDA and 505(b)(2) NDA for Apotex, Inc.) in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the company's response (infringement suits) to the newly disclosed ANDA filings, continuing the same risk narrative."
+  },
+  {
+   "text": "In October 2025 and February 2026, we entered into a confidential settlement agreement with Hikma Pharmaceuticals USA Inc. and Granules India Ltd., respectively, settling all outstanding claims in the Hikma and Granules litigations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates status of the ongoing litigation with settlement details, an evolution of the previously introduced risk."
+  },
+  {
+   "text": "The actions against the other generic companies remain pending.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple status update noting remaining litigation is pending, no new substantive information."
+  },
+  {
+   "text": "In addition, generic versions of imatinib are available.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new fact that generic imatinib versions are now available, a new competitive threat not previously stated."
+  },
+  {
+   "text": "None of the notice letters challenge the ruxolitinib or ruxolitinib phosphate composition of matter patents, providing patent coverage (with pediatric extension) until December 2028, and the notice letter from Zydus Lifesciences Limited also does not challenge certain patents covering ruxolitinib phosphate cream and its uses, providing patent coverage (with pediatric extension) until November 2031.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific patent litigation details involving additional generic company (Zydus) and a new product form (ruxolitinib phosphate cream), expanding competitive/legal risk landscape."
+  },
+  {
+   "text": "In response to the notice letters, we filed patent infringement actions against each of Padagis Israel Pharmaceuticals Ltd., Taro Pharmaceuticals Inc., Zydus Lifesciences Limited and Encube Ethicals Private Limited in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the company's legal response to the newly disclosed generic challenges, continuing the same risk thread."
+  },
+  {
+   "text": "Each of these actions remains pending.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple status statement that litigation remains pending, no new substantive detail."
+  },
+  {
+   "text": "Delays in FDA approval of drug candidates may also result from other factors such as funding limitations, staffing reductions or other resource restrictions, any of which could have an adverse effect on the regulatory approval process.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor: FDA approval delays due to funding limitations and staffing reductions, not previously mentioned."
+  },
+  {
+   "text": "Healthcare reform measures could impact the pricing and profitability of pharmaceuticals, and adversely affect the commercial viability of our or our collaborators\u2019 products and drug candidates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reworded heading about healthcare reform impacting pricing, consistent with typical risk factor framing."
+  },
+  {
+   "text": "If recent proposals for changes to Medicare and Medicaid reimbursement of drug prices are adopted into law, our results of operations and financial condition could be harmed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific reference to Medicare/Medicaid reimbursement proposals, elaborating on the general healthcare reform risk."
+  },
+  {
+   "text": "Managed healthcare organizations could control or significantly influence the purchase of healthcare services and products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about managed care influence on purchasing, standard industry risk language."
+  },
+  {
+   "text": "39 Table of Contents Changes in government pricing policies, including the enactment of \u201cmost favored nation\u201d pricing legislation, could adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk concerning 'most favored nation' pricing legislation, not previously disclosed."
+  },
+  {
+   "text": "Our revenue, results of operations, and cash flows could be materially and adversely affected by changes in government pricing policies, including recently proposed or enacted \u201cmost favored nation\u201d (MFN) pricing legislation or executive actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced MFN pricing risk with more detail on potential financial impact."
+  },
+  {
+   "text": "For example, an executive order issued on May 12, 2025, directed the Department of Health and Human Services to establish MFN price targets, and, if progress toward these targets is insufficient, to pursue rulemaking that could require sale of certain products in the U.S. at prices no higher than those in comparable developed nations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides concrete factual detail (executive order date and directive) supporting the newly introduced MFN pricing risk."
+  },
+  {
+   "text": "The extent, timing, and ultimate effect of this policy are uncertain, and we cannot predict the potential impact on our pricing, reimbursement, or profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty language about the effect of the new policy, adding no new substantive risk beyond what's already described."
+  },
+  {
+   "text": "(\u201cMerus\u201d) and Syndax Pharmaceuticals Inc., or explore additional opportunities to further develop and commercialize existing drug candidates in specific jurisdictions, such as our June 2016 acquisition of the development and commercialization rights to ICLUSIG in certain countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific examples (Merus, Syndax, ICLUSIG) to the existing general risk about business development and collaboration activities."
+  },
+  {
+   "text": "We are responsible for the sourcing and manufacturing of ZYNYZ together with our collaborator MacroGenics.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific operational dependency\u2014responsibility for sourcing/manufacturing ZYNYZ with a collaborator\u2014introducing a new supply chain risk."
+  },
+  {
+   "text": "For example, in 2024 we acquired Escient Pharmaceuticals, Inc., but later in that year we stopped development of the two lead compounds acquired from Escient.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a concrete new example of a failed acquisition (Escient) and discontinued drug development, illustrating a specific realized risk not previously described."
+  },
+  {
+   "text": "We intend to continue to spend significant amounts on our efforts to discover and develop drugs, and if we are unable to generate revenues from our marketed drug products sufficient to offset our expenses we may incur losses in future periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing R&D spending and potential losses, standard risk language."
+  },
+  {
+   "text": "In addition, revenues from JAKAFI currently make up the substantial majority of our total revenues, but we expect that revenues from JAKAFI will begin to decline once patent exclusivity expires in 2028.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and quantifies the JAKAFI revenue concentration and expected decline risk with more specificity."
+  },
+  {
+   "text": "We cannot assure you that we will be able to generate revenues from our other marketed drug products to offset the expected decline in revenues from JAKAFI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the JAKAFI decline risk by adding uncertainty about other products offsetting the loss."
+  },
+  {
+   "text": "We cannot be sure that we will generate substantial revenues from any drug candidates that we license or develop for several years, if ever.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty in generating revenue from future drug candidates, standard risk language."
+  },
+  {
+   "text": "For example, in July 2025, U.S. federal tax legislation commonly referred to as the One Big Beautiful Bill Act was enacted, which, among other things, allows domestic research and development expenditures to be expensed for tax years beginning on or after January 1, 2025, with retroactive elections for such expenditures paid or incurred in the two prior years but also increases the effective tax rate on foreign-derived deduction eligible income (formerly known as \u201cforeign-derived intangible income\u201d) for tax years beginning on or after January 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax legislation (OBBBA) details affecting R&D expensing and foreign income tax rates, a new concrete financial risk."
+  },
+  {
+   "text": "However, in January 2026, the OECD/G20 Inclusive Framework released its Side-by-Side (\u201cSbS\u201d) Safe Harbor package which is intended to work \u201cside-by-side\u201d with the Pillar Two framework, offering a streamlined compliance pathway for large multinational enterprises.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new international tax framework (OECD/G20 SbS Safe Harbor) not previously disclosed, representing a new regulatory development."
+  },
+  {
+   "text": "If an eligible multinational enterprise group elects the SbS Safe Harbor, any top-up tax under Pillar Two\u2019s income inclusion rule and undertaxed profits rule is treated as zero for the group\u2019s controlled domestic and foreign operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on how the newly introduced SbS Safe Harbor mechanism operates, expanding on the prior sentence's new risk."
+  },
+  {
+   "text": "The SbS Safe Harbor does not apply to 2024 and 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific limitation (non-applicability to 2024/2025) to the newly described tax safe harbor risk."
+  },
+  {
+   "text": "While we anticipate making the SbS Safe Harbor election for our tax year beginning on January 1, 2026, if we do not obtain side-by-side tax treatment, we could experience adverse consequences for tax provisions, tax liabilities and effective tax rate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the company's anticipated election and potential adverse consequences, continuing the newly introduced tax risk discussion."
+  }
+ ]
+}

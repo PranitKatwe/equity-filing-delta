@@ -1,0 +1,218 @@
+{
+ "ticker": "KHC",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-12",
+ "accession": "0001637459-26-000009",
+ "prior_accession": "0001637459-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 39,
+ "counts": {
+  "new_substantive_risk": 34,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "In 2025, we announced our commitment to remove Food, Drug & Cosmetic (\u201cFD&C\u201d) colors from our U.S. portfolio by the end of 2027.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific business commitment (removing FD&C colors) that could create new cost, reformulation, and consumer-preference risks not previously disclosed."
+  },
+  {
+   "text": "Increased natural disasters and decreased agricultural productivity in such regions may limit the availability or increase the cost of the natural resources and commodities used in the production of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail (natural disasters, agricultural productivity) to an existing climate/commodity supply risk rather than introducing a wholly new risk."
+  },
+  {
+   "text": "Our published activities, progress, objectives, and priorities on these topics may not satisfy all of our stakeholders and could result in adverse publicity or legal liability and negatively affect consumer preferences for our products, investor confidence in our stock, and our business and reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing ESG/stakeholder-disclosure risk language with additional consequences, not a new category of risk."
+  },
+  {
+   "text": "Additionally, we may become the target of litigation, investigations, or other proceedings initiated by government authorities or private actors alleging that our activities or positions related to sustainability-related matters are anti-competitive, discriminatory or otherwise unlawful.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new litigation/regulatory risk (antitrust/discrimination claims tied to sustainability positions) not previously mentioned."
+  },
+  {
+   "text": "Business Risks The Separation is subject to various risks and uncertainties, involves significant time, expense, and resources and may be further delayed or we may decide to cease work related to the Separation entirely.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new major risk topic: the corporate separation/spin-off and its associated uncertainties."
+  },
+  {
+   "text": "On September 2, 2025, we announced our intention to separate our company into two independent publicly traded companies through a tax-free spin-off.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a brand-new material corporate event (announced spin-off) not previously in the filing."
+  },
+  {
+   "text": "On February 11, 2026, we announced that the Board has decided to pause work related to the Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new material development (pausing the separation) creating fresh uncertainty for investors."
+  },
+  {
+   "text": "If work related to the Separation is resumed, the Separation would be subject to the satisfaction of customary conditions, including final approval by the Board, receipt of favorable tax opinions of our U.S. tax advisors with respect to the tax-free nature of the Separation, and the effectiveness of appropriate filings with the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new conditions required for the separation to proceed, a new material risk factor."
+  },
+  {
+   "text": "Securities and Exchange 11 Commission.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary continuation of prior sentence (agency name/page artifact), not substantive content."
+  },
+  {
+   "text": "The failure to satisfy any of the required conditions could further delay the completion of the Separation or prevent it from occurring at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies a new risk that failure to meet separation conditions could delay or prevent it entirely."
+  },
+  {
+   "text": "Any changes to the Separation or further delay in completing the Separation could cause us not to realize some or all of the expected benefits, or realize them on a different timeline than currently expected.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that changes/delays could prevent realizing expected separation benefits."
+  },
+  {
+   "text": "Further, our Board could decide, either because of a failure of conditions or because of market or other factors, to further delay or abandon the Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure that the Board could abandon or further delay the separation."
+  },
+  {
+   "text": "No assurance can be given as to whether and when the Separation will occur.",
+   "category": "new_substantive_risk",
+   "rationale": "New uncertainty statement about whether/when the separation will occur."
+  },
+  {
+   "text": "Any of the above factors could cause the Separation (or the failure to execute the Separation) to have a material adverse effect on our business, financial condition, results of operations, or cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that separation issues could materially harm financial condition or operations."
+  },
+  {
+   "text": "The Separation if completed, may not achieve the anticipated benefits and will expose us to new risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that separation may not achieve intended benefits and creates new exposures."
+  },
+  {
+   "text": "We may not realize the anticipated strategic, financial, operational, or other benefits from the Separation if completed.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding failure to realize anticipated benefits from the separation."
+  },
+  {
+   "text": "We cannot predict with certainty when the benefits expected from the Separation will occur or the extent to which they will be achieved.",
+   "category": "new_substantive_risk",
+   "rationale": "New uncertainty about timing/extent of separation benefits."
+  },
+  {
+   "text": "If the Separation is completed, our operational and financial profile will change and we will face new risks.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that post-separation operational/financial profile changes will introduce new risks."
+  },
+  {
+   "text": "As independent, publicly traded companies, the newly created companies will each be smaller, less-diversified companies and may be more vulnerable to changing market conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that resulting smaller companies may be more vulnerable to market conditions."
+  },
+  {
+   "text": "There is no assurance that following the Separation each separated company will be successful.",
+   "category": "new_substantive_risk",
+   "rationale": "New uncertainty about the success of each separated company."
+  },
+  {
+   "text": "The announcement and/or completion of the Separation, as well as any delays relating to the completion of the Separation, may cause uncertainty for or disruptions with our customers, partners, suppliers, and employees, which may negatively impact these relationships or our operations.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of relationship/operational disruption due to separation announcement or delays."
+  },
+  {
+   "text": "In addition, we will incur one-time costs and ongoing costs in connection with, or as a result of, the Separation, including costs of operating as independent, publicly-traded companies that the two businesses will no longer be able to share.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure of one-time and ongoing costs from operating as separate public companies."
+  },
+  {
+   "text": "Those costs may exceed our estimates or could negate some of the benefits we expect to realize.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that separation costs could exceed estimates or negate expected benefits."
+  },
+  {
+   "text": "Further, our future effective tax rate, which is impacted by a number of factors including changes in the valuation of our deferred tax assets and liabilities, changes in geographic mix of income, changes in expenses not deductible for tax, and changes in available tax credits, may be negatively impacted for each separated company due to deviations in these factors from our current estimates, such as changes to our current assessments of the realization of existing deferred tax assets.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that effective tax rate could be adversely impacted for each separated entity."
+  },
+  {
+   "text": "If we do not realize the intended benefits or if our costs exceed our estimates, the separated businesses could suffer a material adverse effect on their respective business, financial condition, results of operations, or cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk that failure to realize benefits or cost overruns could materially harm each separated business."
+  },
+  {
+   "text": "The Separation if completed, may adversely impact our ability to access the capital markets and our cost of capital.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding impact on capital market access and cost of capital due to separation."
+  },
+  {
+   "text": "Our primary sources of liquidity to finance operations, including stock repurchases and dividends on our common stock, is cash generated by our businesses and access to the debt capital markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Descriptive statement about liquidity sources supporting the new capital-market risk discussion, not itself a new risk claim."
+  },
+  {
+   "text": "Further, in connection with the Separation, we may repay, redeem, repurchase, defease, discharge or exchange some or all of our senior notes, of which there are approximately $20.9 billion aggregate principal amount outstanding, with maturities in years starting in 2026 through 2050.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific financial detail about $20.9B in senior notes that may need to be repaid/exchanged due to separation, a concrete new risk factor."
+  },
+  {
+   "text": "If our ability to continue to raise money in the debt capital markets is impaired, or if there is a significant increase in the cost of debt, there could be an adverse effect on our liquidity.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk regarding impaired debt market access or increased borrowing costs tied to the separation."
+  },
+  {
+   "text": "If we are unable to generate sufficient cash flow or maintain access to adequate external financing, it could impact our current operations, activities under our current and future stock buyback programs, and our growth opportunities, which could have a material adverse effect on our business, financial condition, results of operations, or cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk about insufficient cash flow or financing impacting operations and buybacks due to separation-related financial changes."
+  },
+  {
+   "text": "If the Separation and/or certain related transactions do not qualify as transactions that are generally tax-free for U.S. federal income tax purposes, we and our stockholders could be subject to significant tax liabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "New significant tax risk if the separation fails to qualify as tax-free."
+  },
+  {
+   "text": "Notwithstanding that we intend to structure the Separation to generally be a tax-free transaction, there is no assurance that the spin-off and/or certain related transactions will qualify for this treatment.",
+   "category": "new_substantive_risk",
+   "rationale": "New uncertainty about tax-free qualification of the spin-off."
+  },
+  {
+   "text": "If the spin-off and/or certain related transactions are completed and are ultimately determined to be taxable, we and our stockholders could be subject to significant U.S. federal income taxes.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of significant federal tax liabilities if the transaction is deemed taxable."
+  },
+  {
+   "text": "Following the Separation, the price of shares of the Company\u2019s common stock may fluctuate significantly.",
+   "category": "new_substantive_risk",
+   "rationale": "New risk of stock price volatility following the separation."
+  },
+  {
+   "text": "The Company cannot predict the effect of the Separation on the trading price of shares of its common stock, and the market value of shares of its common stock may be less than, equal to or greater than the market value of shares of its common stock prior to the Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "New uncertainty about the effect of separation on stock trading price/value."
+  },
+  {
+   "text": "In addition, the price of the Company\u2019s common stock may be more volatile around the time of the Separation.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk of increased stock price volatility around the separation timing."
+  },
+  {
+   "text": "Additionally, we may face risks related to the integration of personnel.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of personnel integration issues tied to the separation."
+  },
+  {
+   "text": "We must accurately predict anticipated costs and be efficient in executing any plans to achieve these initiatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about cost prediction/execution efficiency that expands on already-disclosed cost risk rather than introducing a new one."
+  },
+  {
+   "text": "As of December 27, 2025 , we had goodwill and intangible assets with a total carrying amount of $59.7 billion .",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated quantitative disclosure on goodwill/intangible carrying value, expanding existing impairment risk with new figures."
+  },
+  {
+   "text": "In 2025 , we recorded non-cash goodwill impairment losses of $9.3 billion related to these assets.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a large, specific, newly realized $9.3 billion non-cash goodwill impairment loss, a material new financial event."
+  }
+ ]
+}

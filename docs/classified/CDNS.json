@@ -1,0 +1,218 @@
+{
+ "ticker": "CDNS",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-19",
+ "accession": "0000813672-26-000016",
+ "prior_accession": "0000813672-25-000024",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 32,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "The growth of our business depends primarily on the semiconductor and electronics systems industries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about industry dependency, restates existing framing without new specifics."
+  },
+  {
+   "text": "The increasing complexity of designs of semiconductors and electronic systems and customers\u2019 concerns about managing costs have previously led to, and in the future could lead to, a decrease in design starts and design activity in general.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing design complexity risk with more specific consequence (decrease in design starts)."
+  },
+  {
+   "text": "For example, in response to this increasing complexity, some customers have chosen to focus on one discrete phase of the design process or opt for less advanced, but less risky, manufacturing processes that may not require the most advanced EDA products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides illustrative example supporting the existing complexity risk discussion."
+  },
+  {
+   "text": "Additionally, as the EDA industry has matured, stronger competition has emerged from companies better able to compete as sole source vendors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new competitive dynamic - stronger competition from sole source vendors as industry matures."
+  },
+  {
+   "text": "This increased competition could cause our revenue growth rate to decline and exert downward pressure on our operating margins, which would have an adverse effect on our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes financial consequence of the newly introduced competitive risk, building on prior point."
+  },
+  {
+   "text": "14 Table of Contents Furthermore, the semiconductor and electronics systems industries have become increasingly complex and interconnected ecosystems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Transitional framing sentence introducing broader industry context without specific new risk."
+  },
+  {
+   "text": "Many of our customers outsource the manufacturing of their semiconductor designs to foundries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual background statement about outsourcing manufacturing, not itself a risk."
+  },
+  {
+   "text": "Our customers also frequently incorporate third-party IP, whether provided by us or other vendors, into their designs to improve the efficiency of their design process.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual background about use of third-party IP, descriptive rather than risk-specific."
+  },
+  {
+   "text": "We work closely with major foundries to help ensure that our products are compatible with their manufacturing processes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about working with foundries, sets up but doesn't state a risk."
+  },
+  {
+   "text": "Similarly, we work closely with other major providers of semiconductor IP, particularly microprocessor IP, to optimize our EDA products for use with their IP designs and to help ensure that their IP and our own IP products work effectively together, as we may each provide for the design of separate components on the same chip.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about collaboration with IP providers, contextual not risk itself."
+  },
+  {
+   "text": "If we fail to optimize our products for use with major foundries\u2019 manufacturing processes or major IP providers\u2019 products, or if our access to such foundry processes or third-party IP products is hampered, then our products and services may become less desirable to our customers, resulting in an adverse effect on our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "States the adverse consequence tied to the foundry/IP ecosystem dependency described above."
+  },
+  {
+   "text": "Adverse developments that affect financial institutions, transactional counterparties or other third parties, such as bank failures and failure by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Truncated generic statement about financial institution risk, standard risk factor language."
+  },
+  {
+   "text": "In addition, there is currently significant uncertainty in the global economy and the future relationship among the United States and various other countries, caused by increased geopolitical instabilities and changes in global trade policies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about macroeconomic and geopolitical uncertainty, standard cautionary language."
+  },
+  {
+   "text": "Similarly, many of our suppliers, vendors and other entities with whom we do business have strong ties to doing business in China and other countries impacted by recent tariffs and other trade restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding supplier/vendor ties to China amid tariffs and trade restrictions."
+  },
+  {
+   "text": "Their ability to supply materials to us, buy products or services from us, or otherwise work with us is affected by their ability to do business in impacted countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how supplier ties to China could disrupt operations, building on prior point."
+  },
+  {
+   "text": "Moreover, these tariffs and any other trade restrictions imposed on our suppliers could adversely affect our business, financial condition and results of operations through reduced demand for our products and services, cancelled orders, supply chain disruptions, increased transaction costs and increased expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific adverse business impacts from tariffs, expanding on the newly introduced trade risk."
+  },
+  {
+   "text": "In some cases, such changes have prevented and may further prevent the export or import of our products or services to certain countries, governments or persons altogether, or may result in increased costs for us, which could reduce our competitiveness, or for our 15 Table of Contents customers, which could affect their purchasing behaviors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on export/import restriction consequences already introduced."
+  },
+  {
+   "text": "For example, U.S. trade control laws and regulations have been amended over the past several years, including through the imposition of certain export control restrictions concerning advanced node IC production in China, the inclusion of additional Chinese technology companies on BIS \u201cEntity List\u201d and regulations governing the sale and export of certain technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new export control changes including advanced node IC restrictions and Entity List additions."
+  },
+  {
+   "text": "In addition, as previously disclosed, on May 23, 2025, BIS informed us that a license was required for the export, re-export or in-country transfer of EDA Software and Technology when a party to the transaction is located in China or is a Chinese \"military end user\" on the \"Military End-User List,\" wherever located.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new material event - BIS license requirement affecting China transactions."
+  },
+  {
+   "text": "On July 2, 2025, BIS informed us that the license requirements set forth in the May 23, 2025 letter from BIS were rescinded effective immediately.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follow-up factual update on the previously disclosed license requirement being rescinded."
+  },
+  {
+   "text": "While we have since restored access to EDA Software and Technology for affected customers in accordance with these updated U.S. export regulations, the temporary license requirements negatively impacted our revenue in China during this period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Quantifies/describes the revenue impact from the temporary license requirement already disclosed."
+  },
+  {
+   "text": "However, in light of continued negotiations between the United States and China, the United States may consider reimposing these or additional restrictions on the export, re-export or in-country transfer of EDA Software and Technology or our other products and services in China in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the existing export control risk to note potential future reimposition."
+  },
+  {
+   "text": "For example, effective September 29, 2025, BIS issued an interim final rule that extended the export restrictions imposed on entities identified on the Entity List or the Military End-User List and certain other sanctioned parties, to entities that are 50% or more owned by one or more of such entities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory rule extending export restrictions to 50%-owned entities."
+  },
+  {
+   "text": "However, on November 11, 2025, BIS published a one-year suspension of the new rule that is currently set to expire on November 9, 2026, absent a future extension.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follow-up update on suspension of the newly introduced rule."
+  },
+  {
+   "text": "For instance, the United States has increased use of Section 232 trade authorities to impose tariffs on certain commodities, including certain articles of steel, aluminum and copper.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tariff risk under Section 232 trade authorities on steel, aluminum, copper."
+  },
+  {
+   "text": "In response to these and other U.S. measures, China and other countries have taken a range of retaliatory measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about retaliatory measures, expanding on tariff risk already introduced."
+  },
+  {
+   "text": "These include the imposition of retaliatory tariffs on certain U.S.-origin goods; the implementation of new export controls by China on various critical minerals, including rare earths metals; the scheduling of further retaliatory tariff measures; and other actions that may affect us directly or indirectly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific retaliatory measures like rare earth export controls, expanding on prior point."
+  },
+  {
+   "text": "The Chinese government has also responded to U.S. actions by adding U.S. companies to an \u201cunreliable entity list,\u201d which limits the ability of listed companies to engage in business with Chinese customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of Chinese 'unreliable entity list' limiting business with Chinese customers."
+  },
+  {
+   "text": "Delays, uncertainty or an inability to obtain required export licenses in a timely manner, including as a result of government processing backlogs or policy changes, could cause delays in scheduled shipments and may impact our business and customer relationships.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on licensing delay risk already part of export control risk discussion."
+  },
+  {
+   "text": "In addition, if our customers fail to obtain appropriate import, export or re-export licenses or permits for re-sale of our products, we may also be adversely affected through reputational harm and penalties and may not be able to provide support related to those items.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends export license risk to customer-side compliance failures and related reputational harm."
+  },
+  {
+   "text": "16 Table of Contents Specifically, as previously disclosed, on July 27, 2025, we reached a settlement with each of BIS and the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new material legal event - settlement with BIS and DOJ over export violations."
+  },
+  {
+   "text": "Department of Justice (\"DOJ\") that resolved matters relating to export control violations that occurred between 2015 and 2021 primarily involving sales initiated by a Cadence subsidiary of products and services valued at $45.3 million in total over that period to a customer in China, as well as the subsequent transfer of technology involved in those sales to a third party in China, without the requisite authorization from BIS.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new details of the export control violations including dollar amounts and conduct."
+  },
+  {
+   "text": "As part of the settlements, we entered into a plea agreement with the DOJ pursuant to which we agreed to plead guilty to one count of conspiracy to commit export controls violations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific material fact - guilty plea agreement to a federal crime."
+  },
+  {
+   "text": "The plea agreement has a three-year probationary term and includes obligations to implement additional export compliance programs and policies, including ongoing reporting and certification requirements and risk assessments, as well as obligations to cooperate in any ongoing or future investigations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific compliance obligations under the newly disclosed plea agreement."
+  },
+  {
+   "text": "In addition, we have entered into an administrative settlement agreement with BIS.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific settlement agreement with BIS separate from the DOJ plea."
+  },
+  {
+   "text": "Obligations under the administrative settlement agreement include two internal annual audits of our export compliance programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific audit obligations under the newly disclosed administrative settlement."
+  },
+  {
+   "text": "Compliance with the administrative settlement agreement is a condition to our continued ability to export products.",
+   "category": "expanded_existing_risk",
+   "rationale": "States a specific consequence tied to compliance with the newly disclosed settlement."
+  },
+  {
+   "text": "Under the agreements, we paid BIS and the DOJ aggregate net penalties and forfeitures of $140.6 million during the three months ended September 30, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new financial penalty amount ($140.6 million) paid as part of settlements."
+  },
+  {
+   "text": "Failure to comply with the terms of the plea agreement, the administrative settlement agreement or our probation could result in further criminal, civil, or administrative proceedings or denial of export privileges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential further consequences of failing to comply with the newly disclosed agreements."
+  },
+  {
+   "text": "Such failure or any resulting further government action could materially and adversely affect our reputation, business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement of adverse impact from failure to comply, following the newly disclosed settlement details."
+  }
+ ]
+}

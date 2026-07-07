@@ -1,0 +1,43 @@
+{
+ "ticker": "AOS",
+ "sector": "Industrials",
+ "filing_date": "2026-02-10",
+ "accession": "0000091142-26-000008",
+ "prior_accession": "0000091142-25-000036",
+ "model": "claude-sonnet-5",
+ "n_added": 5,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "In 2025, we announced a strategic assessment of our China business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new event\u2014the strategic assessment of the China business\u2014that was not previously disclosed as a risk factor."
+  },
+  {
+   "text": "This may lead to uncertain outcomes, costs, and impacts that could negatively affect the company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic, vague language about 'uncertain outcomes, costs, and impacts' without specifics; functions as boilerplate follow-up to the prior sentence."
+  },
+  {
+   "text": "The announcement might also cause uncertainty among employees, customers, suppliers, and investors that could have a material adverse effect on our financial position, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the China assessment risk introduced in the prior sentence by specifying stakeholder groups and potential financial impacts."
+  },
+  {
+   "text": "Changes in the replacement volume and in the construction market in North America could negatively affect us.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to replacement volume and construction market trends in North America not previously mentioned."
+  },
+  {
+   "text": "The DOE has also adopted a new efficiency rule for our residential water heaters that will take effect in 2029, which seeks to rapidly increase market adoption of heat pump water heating technology.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new regulatory development (DOE efficiency rule effective 2029) that could materially affect product technology and market position."
+  }
+ ]
+}

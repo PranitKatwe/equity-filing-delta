@@ -1,0 +1,133 @@
+{
+ "ticker": "YUM",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-20",
+ "accession": "0001041061-26-000084",
+ "prior_accession": "0001041061-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "We have initiated a process to explore strategic options for the Pizza Hut brand, and there can be no assurance that this process will result in any transaction or outcome, that we will be able to realize the anticipated benefits of any transaction, if completed, or other outcome, or that this process will not adversely impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a brand-new specific event: initiation of a strategic review process for Pizza Hut with uncertain outcome, which is a materially new business risk not previously disclosed."
+  },
+  {
+   "text": "We have initiated a process to explore strategic options for our Pizza Hut brand to maximize long-term value creation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same fact about initiating the Pizza Hut strategic review already introduced, just phrased differently."
+  },
+  {
+   "text": "Our ability to successfully engage in any transactions with regard to our Pizza Hut brand is subject to prevailing general, market and industry-specific economic conditions and certain regulatory, financial, business and other factors beyond our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific contextual factors (market, regulatory, financial conditions) that could affect the already-introduced strategic review risk."
+  },
+  {
+   "text": "There is no assurance that this process will result in any transaction or outcome, or if any transaction is completed, the timing or terms of any such transaction.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats the uncertainty about outcome/timing of the transaction already stated."
+  },
+  {
+   "text": "We expect to incur significant expenses in connection with this process, and there are risks inherent with this process, including the potential diversion of management\u2019s attention, interference with our ability to retain or attract key personnel and business partners, disruption of Pizza Hut or other businesses and exposure to litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds concrete new risk details (expenses, management distraction, litigation exposure) expanding on the strategic review risk."
+  },
+  {
+   "text": "It may also be disruptive to our business operations and long-term planning, which may cause concern to our current or potential investors, employees, strategic partners, vendors and other stakeholders and may have a material impact on our operating results or result in increased volatility in our stock price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential business disruption and stock price impact tied to the same strategic review risk."
+  },
+  {
+   "text": "Further, there can be no assurance that we will be able to realize the anticipated benefits of any transaction, if completed, or other outcome.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the previously mentioned uncertainty about realizing benefits of the transaction."
+  },
+  {
+   "text": "We are taking steps to mitigate any impact to Pizza Hut's near-term results as a result of this review.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about mitigating impact, not adding new specific risk information."
+  },
+  {
+   "text": "In addition, we have aligned with stakeholders in the U.S. on a marketing program, modernization of certain technology and franchise agreements and a YUM contribution to marketing support.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes operational alignment actions, factual rather than risk-related."
+  },
+  {
+   "text": "However, if we are unable to mitigate these and other risks related to this process, our business may be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Concludes the risk statement about potential adverse effects if mitigation fails, expanding on prior risk points."
+  },
+  {
+   "text": "Further, we engage in marketing and customer engagement activities that are subject to communications and consumer privacy laws, such as the Telephone Consumer Protect Act and similar state laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific legal risk regarding compliance with communications/privacy laws like TCPA."
+  },
+  {
+   "text": "There is a rapid increase in private claims of alleged breach of communications and privacy laws in the U.S. and abroad, under a diverse range of theories relying on wiretapping, pen registry, and communication consent statutes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced privacy law risk by describing rising litigation trends."
+  },
+  {
+   "text": "In particular, state attorneys general and regulatory bodies are increasingly focused on businesses\u2019 practices for collecting and sharing consumer information digitally, including how businesses allow consumers to opt-out of certain uses and disclosures and exercise other rights granted by privacy laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details regulatory scrutiny on data practices, extending the privacy law risk."
+  },
+  {
+   "text": "Further, if we fail to leverage AI technologies as effectively or rapidly as our peers, our competitiveness and financial results could be adversely impacted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about failing to adopt AI technologies effectively impacting competitiveness."
+  },
+  {
+   "text": "As such companies may be unable to investigate or effectively respond to negative information or content disseminated in this manner, including fictitious media content (such as content produced by generative AI or bad actors).",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about AI-generated fictitious content as part of a broader reputational/technology risk."
+  },
+  {
+   "text": "We regard our registered trademarks (e.g., Yum!",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about trademark ownership, not a specific new risk."
+  },
+  {
+   "text": "Further, defending or enforcing our trademarks and other intellectual property, including proprietary technologies and digital platforms, could result in significant expenditures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds cost implications of defending IP, expanding the existing trademark risk."
+  },
+  {
+   "text": "The technology landscape in which we operate is highly competitive, increasing risk of inadvertent infringement and costly dispute.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on technology competition risk related to IP infringement."
+  },
+  {
+   "text": "In addition, changes in our leadership, including changes to the Company\u2019s senior leadership team may present management transition challenges, and the effectiveness with which these changes are implemented could influence our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding leadership transition challenges affecting financial results."
+  },
+  {
+   "text": "Additionally, recent changes in immigration regulation and enforcement in the U.S. could decrease the pool of candidates with legal work authorizations, cause disruptions in the workforce for companies (such as restaurant companies) and increase the cost, time and requirements to hire new employees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk from immigration policy changes affecting workforce availability and costs."
+  },
+  {
+   "text": "Moreover, while recent increases in tariffs by the U.S. and retaliatory measures by global trading partners have not had a significant impact on our aggregate supply costs, such trade developments have increased, and may continue to increase, the cost of certain products that we and our franchisors source, and may otherwise disrupt our supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk from tariffs and trade measures impacting supply costs and chain."
+  },
+  {
+   "text": "The Company, and our Concepts and their franchisees, are subject to numerous laws and regulations around the world which change regularly and are increasingly complex, including: the Americans with Disabilities Act in the U.S. and similar laws; laws related to employment, including the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic regulatory compliance list, restating standard legal framework without new specifics."
+  },
+  {
+   "text": "Fair Labor Standards Act, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of generic law listing, no new substantive risk introduced."
+  }
+ ]
+}

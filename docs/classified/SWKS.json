@@ -1,0 +1,218 @@
+{
+ "ticker": "SWKS",
+ "sector": "Information Technology",
+ "filing_date": "2025-11-07",
+ "accession": "0000004127-25-000085",
+ "prior_accession": "0000004127-24-000131",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 28,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "Risk Factors Summary The following is a summary of the principal risks that could adversely affect our business, operations, and financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic introductory sentence describing the purpose of a risk factor summary; no specific risk content."
+  },
+  {
+   "text": "This summary is intended to provide investors with an overview of the risks we face and should not be considered a substitute for the more detailed risk factors discussed immediately following this summary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cautionary framing sentence about the summary format, not a substantive risk."
+  },
+  {
+   "text": "We may not realize the full expected benefits of the Mergers. \u2022 The Mergers will require us to incur substantial additional indebtedness, which could reduce our flexibility to operate our business and negatively affect our financial condition, and increase the risks associated with our level of indebtedness.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk tied to the newly disclosed Mergers requiring substantial additional debt."
+  },
+  {
+   "text": "Risks Associated with Operating a Global Business \u2022 The risks of doing business internationally apply to all aspects of our operations. \u2022 Changes in tax laws and regulations could have an adverse impact on our operating results. \u2022 We, our customers and our suppliers are subject to the risks of doing business in China.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Bullet-point summary restating existing risks about international operations, tax, and China already covered elsewhere."
+  },
+  {
+   "text": "Risks Associated with Our Industry \u2022 The semiconductor industry is highly cyclical and subject to significant downturns. \u2022 The wireless communications, analog and mixed-signal semiconductor markets are characterized by significant competition. \u2022 Remaining competitive in the semiconductor industry depends upon our ability to constantly innovate. \u2022 Increasingly stringent environmental laws, rules, regulations, and customer expectations may require us to redesign our existing products and processes, which could adversely affect our ability to cost-effectively produce our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullets restating pre-existing industry risks (cyclicality, competition, environmental) without new detail."
+  },
+  {
+   "text": "Risks Associated with Cybersecurity and Intellectual Property Protection \u2022 We may not be able to prevent, or timely detect, information technology security breaches. \u2022 In order to remain competitive, we must be able to successfully protect our intellectual property rights. \u2022 We are subject to the risks of licensing third-party intellectual property.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullets restating existing cybersecurity and IP risk topics."
+  },
+  {
+   "text": "Risks Associated with Claims and Litigation \u2022 We may be subject to risks of litigation and disputes. \u2022 We may be subject to claims of infringement of third-party intellectual property rights or demands that we license third-party technology. \u2022 We may be subject to warranty claims, product recalls, and other liability claims .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullets restating existing litigation and warranty risk topics."
+  },
+  {
+   "text": "Risks Associated with Owning our Common Stock \u2022 Our stock price has been volatile and may fluctuate in the future. \u2022 There can be no assurance that we will continue to declare cash dividends or repurchase our stock. \u2022 Certain provisions in our organizational documents and Delaware law may make it difficult for someone to acquire control of us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Summary bullets restating existing stock price and governance risk topics."
+  },
+  {
+   "text": "Risks Associated with the Proposed Transaction with Qorvo Completion of the proposed transaction with Qorvo may be delayed or not occur at all for a variety of reasons, including that the Merger Agreement is terminated, and the failure to complete the Mergers could adversely affect our business, results of operations, financial condition, and the market price of our common stock.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a wholly new risk category concerning the proposed Qorvo merger and potential failure to complete it."
+  },
+  {
+   "text": "On October 27, 2025, we entered into the Agreement and Plan of Merger (\u201cMerger Agreement\u201d) with Qorvo, Inc.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses the newly signed Merger Agreement, a new material transaction risk."
+  },
+  {
+   "text": "(\u201cQorvo\u201d), Comet Acquisition Corp.",
+   "category": "new_substantive_risk",
+   "rationale": "Names merger counterparties, part of newly introduced merger risk disclosure."
+  },
+  {
+   "text": "Therefore, there can be no assurance that the Mergers will be completed in the expected timeframe (early in calendar year 2027), or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding uncertain completion timing of the merger."
+  },
+  {
+   "text": "The Merger Agreement may be terminated under certain circumstances, including that either party may terminate if the Mergers are not completed by April 27, 2027, which date may be extended to July 27, 2027, and to October 27, 2027, in each case under certain circumstances as provided in the Merger Agreement (the \u201cOutside Date\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Details new termination conditions and outside dates for the merger, a specific new risk."
+  },
+  {
+   "text": "Upon termination of the Merger Agreement, each party under specified circumstances, including termination by such party to accept a Superior Proposal (as defined in the Merger Agreement) or termination by the other party upon a change in such party\u2019s board of directors\u2019 recommendation to its 13 Table of Contents stockholders, will be required to pay the other party a termination fee of $298.7 million.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financial risk\u2014termination fee of $298.7 million payable under certain conditions."
+  },
+  {
+   "text": "Alternatively, we, under specified circumstances, including termination following an injunction arising in connection with certain antitrust or foreign investment laws, or failure to receive certain required regulatory approvals of specified governmental authorities by the Outside Date, will be required to pay Qorvo a termination fee of $100.0 million.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financial risk\u2014termination fee of $100.0 million payable by the company."
+  },
+  {
+   "text": "Completion of the proposed Mergers is subject to the satisfaction or waiver of closing conditions contained in the Merger Agreement, including certain regulatory approvals which may not be received, may take longer than expected or the receipt of which may impose conditions that are not presently anticipated or that cannot be met, and if these closing conditions are not satisfied or waived, the proposed Mergers will not be completed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that regulatory closing conditions may not be satisfied, jeopardizing the merger."
+  },
+  {
+   "text": "Various consents, clearances, approvals, authorizations and declarations of non-objection, or expiration of waiting periods (or extensions thereof), from certain regulatory and governmental authorities in the United States and certain other jurisdictions are included in the Merger Agreement as conditions to completing the proposed Mergers.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new regulatory approval requirements tied to the merger."
+  },
+  {
+   "text": "Regulatory and governmental entities may impose conditions on their respective approvals, in which case lengthy negotiations may ensue among such regulatory or governmental entities, the Company and Qorvo.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of regulatory negotiations affecting merger completion."
+  },
+  {
+   "text": "Such conditions, any such negotiations and the process of obtaining such regulatory approvals, consents or clearances, including any potential changes to the terms of the Mergers, could have the effect of delaying or preventing consummation of the proposed Mergers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that regulatory processes could delay or prevent the merger."
+  },
+  {
+   "text": "Subject to the terms of the Merger Agreement, we have agreed to use our reasonable best efforts to take all actions necessary to consummate the Mergers, including cooperating to obtain the regulatory approvals necessary to complete the Mergers.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new obligation to pursue regulatory approvals, tied to merger risk."
+  },
+  {
+   "text": "Nonetheless, certain conditions to the completion of the pending Mergers are not within our or Qorvo\u2019s control, and we cannot predict when or if these conditions will be satisfied (or waived, as applicable).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that completion conditions are outside company control."
+  },
+  {
+   "text": "There can be no assurance that all required approvals will be obtained or that all closing conditions will otherwise be satisfied (or waived, if applicable), and, if all required approvals are obtained and all closing conditions are satisfied (or waived, if applicable), we can provide no assurance as to the terms, conditions and timing of such approvals or that the pending Mergers will be completed in a timely manner or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new uncertainty risk regarding timing and completion of the merger."
+  },
+  {
+   "text": "Even if regulatory approvals are obtained, it is possible conditions will be imposed that could result in a material delay in, or the abandonment of, the pending Mergers or otherwise have an adverse effect on the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that regulatory conditions could delay or abandon the merger."
+  },
+  {
+   "text": "The anticipated benefits we expect from the Mergers are based on projections and assumptions about our combined business with Qorvo, which may not materialize as expected or which may prove to be inaccurate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that merger benefit projections may not materialize."
+  },
+  {
+   "text": "Our business, operating results and financial condition could be adversely affected if we are unable to realize the anticipated benefits from the Mergers on a timely basis, if at all, including, among other things, realizing the anticipated cost and operational synergies from the Mergers in the anticipated amounts or within the anticipated timeframes or cost expectations, if at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of failing to realize merger synergies, a specific financial risk."
+  },
+  {
+   "text": "Achieving the benefits of the Mergers will depend, in part, on our ability to integrate the business and operations of Qorvo successfully and efficiently with our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new integration risk tied to combining with Qorvo."
+  },
+  {
+   "text": "If we do not successfully manage these issues and the other challenges inherent in integrating a new business, then we may not achieve the anticipated benefits of the Mergers on our anticipated timeframe, if at all, and our business, revenue, expenses, operating results, financial condition and stock price could be materially adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of failed integration harming financial results and stock price."
+  },
+  {
+   "text": "Efforts to complete the Mergers could disrupt our relationships with third parties and employees, divert management\u2019s attention, or result in negative publicity or legal proceedings, any of which could adversely impact our operating results and ongoing business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of merger-related disruption to third-party and employee relationships."
+  },
+  {
+   "text": "We have expended, and continue to expend, significant management time and resources in an effort to complete the Mergers, which may have a negative impact on our ongoing business and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of management resource diversion due to merger efforts."
+  },
+  {
+   "text": "Uncertainty regarding the outcome of the Mergers and our future could disrupt our business relationships with our existing and potential customers, distributors, service providers and other business partners, who may attempt to negotiate changes in existing business relationships or consider entering into business relationships with parties other than Qorvo.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of customer/partner relationship disruption due to merger uncertainty."
+  },
+  {
+   "text": "Uncertainty regarding the outcome of the Mergers could also adversely affect our ability to recruit and retain key personnel and other employees.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of employee retention issues stemming from merger uncertainty."
+  },
+  {
+   "text": "The pendency of the Mergers may also result in negative publicity and a negative impression of us in the financial markets, and may lead to litigation against us and our directors and officers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of negative publicity and litigation tied to the merger."
+  },
+  {
+   "text": "Even if the lawsuits are without merit, defending against or otherwise resolving these claims can result in substantial costs and divert management time and resources.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of litigation costs and management diversion from merger-related lawsuits."
+  },
+  {
+   "text": "Such litigation would be distracting to management and, may, in the future, require us to incur significant costs.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the litigation cost/distraction risk from the prior sentence in different words."
+  },
+  {
+   "text": "Such litigation could result in the Mergers being delayed and/or enjoined by a court of competent jurisdiction, which could prevent the Mergers from being completed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk that litigation could delay or enjoin merger completion."
+  },
+  {
+   "text": "The occurrence of any of these events individually or in combination could have a material and adverse effect on our business, results of operations, and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic catch-all closing statement about cumulative adverse effects, typical boilerplate risk language."
+  },
+  {
+   "text": "The Merger Agreement contains provisions that limit our ability to pursue alternative transactions to the Mergers which could discourage a potential third party from making an alternative transaction proposal.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk from deal-protection provisions limiting alternative transactions."
+  },
+  {
+   "text": "The Merger Agreement contains provisions that preclude us from soliciting proposals relating to alternative acquisition transactions or entering into discussions or negotiations or providing non-public information in connection with any proposal for an alternative acquisition transaction from a third party, subject to certain exceptions to permit our Board of Directors to comply with its fiduciary obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail expanding on the non-solicitation restriction risk introduced just prior."
+  },
+  {
+   "text": "We have further agreed to cease and cause to be terminated any existing discussions or negotiations, if any, with regard to alternative acquisition transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates the same non-solicitation/termination obligation risk with added specifics."
+  },
+  {
+   "text": "These prohibitions could discourage a third party from making an alternative transaction proposal.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the conclusion that these provisions could discourage alternative proposals, already stated in prior sentences."
+  }
+ ]
+}

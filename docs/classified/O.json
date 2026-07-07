@@ -1,0 +1,218 @@
+{
+ "ticker": "O",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-25",
+ "accession": "0000726728-26-000011",
+ "prior_accession": "0000726728-25-000055",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 9,
+  "boilerplate_or_reorder": 23
+ },
+ "items": [
+  {
+   "text": "Strategic Growth Initiatives We pursue growth initiatives that enhance the scale, diversification, and durability of our portfolio while remaining consistent with our investment philosophy and risk management framework.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of growth philosophy without specific new risk detail."
+  },
+  {
+   "text": "These initiatives include geographic expansion; increased investment in property types with strong growth prospects; real estate investments across the capital structure; expansion of our private capital business through joint ventures, private funds, and other arrangements; and strategic asset management initiatives, which may be pursued individually or concurrently.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes expansion of business scope into joint ventures, private funds, and asset management, broadening existing growth/diversification risk exposure."
+  },
+  {
+   "text": "Our entry into new growth verticals is subject to a rigorous and deliberate evaluation process.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evaluation process, no specific risk detail."
+  },
+  {
+   "text": "We pursue opportunities where we believe we can leverage our existing platform, operating capabilities, strategy, and investment expertise to generate attractive risk\u2011adjusted returns over the long term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing of investment philosophy, not a specific risk."
+  },
+  {
+   "text": "2 Table of Contents Real Estate Investment Strategy - Retail Investment Focus Retail properties represent a significant portion of our portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple descriptive statement about portfolio composition, restating known focus."
+  },
+  {
+   "text": "Within this category, we primarily target properties that support service-oriented, non-discretionary, and/or low-price-point business models.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes existing retail investment focus in different words without new risk."
+  },
+  {
+   "text": "These uses often provide essential or recurring services and, in our experience, tend to exhibit more resilient demand characteristics across economic cycles.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates resilience characteristics already implied by retail focus."
+  },
+  {
+   "text": "We use predictive analytics to help identify retail formats and locations with durable demand profiles and attractive unit-level economics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes analytical tools used, not a new risk."
+  },
+  {
+   "text": "We also prioritize retail clients that have demonstrated resilience to e\u2011commerce, including through necessity\u2011based offerings, experiential components, or strong omnichannel strategies that effectively integrate physical locations with digital platforms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes client selection criteria, consistent with existing retail strategy."
+  },
+  {
+   "text": "We believe these attributes support durable cash flows and long\u2011term occupancy.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates belief in durable cash flow, no new risk introduced."
+  },
+  {
+   "text": "Consistent with this approach, we seek to acquire, invest in, and develop high\u2011quality real estate that our clients consider important to the successful operation of their businesses.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing acquisition strategy language."
+  },
+  {
+   "text": "Our strategy emphasizes owning or holding interests in commercial real estate that supports durable, long\u2011term cash flow and aligns with our net lease model, while allowing for selective expansion where we believe we can enhance returns and diversification.",
+   "category": "reworded_same_meaning",
+   "rationale": "Summarizes existing net lease strategy without new specifics."
+  },
+  {
+   "text": "After evaluating strategic considerations, we pursue investments where we believe we can achieve an attractive investment spread relative to our cost of capital and favorable risk\u2011adjusted returns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about investment evaluation criteria."
+  },
+  {
+   "text": "Geographic Expansion Geographic expansion is an important component of our investment strategy where we believe we can apply our established net lease expertise within markets that provide diversification benefits and attractive long\u2011term fundamentals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement introducing geographic expansion topic without specific new risk."
+  },
+  {
+   "text": "Since our initial entry into the U.K. in 2019, we have successfully grown and scaled our U.K. and European platforms, and as of December 31, 2025, our U.K. and European assets represented approximately 19% of our annualized base rent (as defined in \"Property Portfolio Information\" below), compared to approximately 14% as of December 31, 2024.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides quantified increase in UK/European concentration (14% to 19%), expanding existing geographic concentration risk."
+  },
+  {
+   "text": "This growth reflects our sustained investment activity in the region, with U.K. and Europe representing approximately 60% of our total acquisition volume in 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Quantifies that 60% of 2025 acquisitions were in UK/Europe, expanding geographic concentration risk noted elsewhere."
+  },
+  {
+   "text": "We believe that our large U.K. and European net lease real estate presence provides us with a meaningful competitive advantage.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General claim of competitive advantage, not a risk detail."
+  },
+  {
+   "text": "We have established a fully integrated European platform that we believe would require significant time, scale, capital, and expertise for new entrants to replicate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes competitive positioning, not a new risk."
+  },
+  {
+   "text": "International expansion has also enhanced our flexibility and optionality, allowing us to dynamically allocate capital across geographies in response to evolving real estate fundamentals and capital market conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about flexibility from international presence."
+  },
+  {
+   "text": "During 2025, we expanded our portfolio into Poland and the Netherlands, further growing and diversifying our European footprint .",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies entry into new specific countries (Poland, Netherlands), introducing new geographic/regulatory exposure."
+  },
+  {
+   "text": "Subsequent to year\u2011end, in January 2026, we made initial investments in Mexico through a joint\u2011venture with leading global institutional partners.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new investment in Mexico via joint venture, a new geographic and partnership risk not previously disclosed."
+  },
+  {
+   "text": "We regularly evaluate additional geographies globally where we believe we can partner with high\u2011quality clients and operate within legal, regulatory, and real estate market environments that support our long\u2011term risk\u2011adjusted return objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about future evaluation of new geographies, no specific new risk."
+  },
+  {
+   "text": "Property Type Diversification In addition to geographic diversification, our investment strategy includes selective expansion across real estate property types where we believe favorable secular tailwinds support durable cash flows and attractive returns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing of property type diversification strategy."
+  },
+  {
+   "text": "In recent years, this has included greater investment activity in property types such as data centers, gaming, and industrial real estate.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new property type exposures (data centers, gaming, industrial) representing new sector-specific risks."
+  },
+  {
+   "text": "We believe demand trends within these sectors support strong internal rates of return while also providing diversification benefits within our overall portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General belief statement about diversification benefits, not a new risk."
+  },
+  {
+   "text": "Real Estate Credit Investments We also complement our core equity real estate ownership activities with other initiatives, including real estate credit investments and active asset management.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introduces topic heading, restates existing credit investment activity."
+  },
+  {
+   "text": "In recent years, we have expanded our investment activities beyond traditional equity ownership to include credit investments across the real estate capital structure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Confirms expansion beyond equity ownership into credit investments, broadening existing credit risk exposure."
+  },
+  {
+   "text": "As of December 31, 2025, we held loans and preferred equity interests totaling $3.1 billion, an increase from $1.5 billion as of December 31, 2024.",
+   "category": "expanded_existing_risk",
+   "rationale": "Quantifies significant increase in credit investment exposure ($1.5B to $3.1B), expanding existing credit risk."
+  },
+  {
+   "text": "These investments provide attractive risk\u2011adjusted return profiles and can serve as a natural hedge to the possible impact of rising interest rates on our cost of capital.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about risk-adjusted returns and interest rate hedge, not a new specific risk."
+  },
+  {
+   "text": "We also believe that participating in other investment structures and tangential real estate revenue-generating activities deepens our client relationships and supports broader strategic initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about client relationship benefits, no new risk."
+  },
+  {
+   "text": "Our internal team sources opportunities through relationships with clients, owners, developers, brokers, and advisors, supported by research, predictive analytics, and analysis of market conditions, industries, client profiles, and location\u2011level performance trends.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes sourcing process, not a risk."
+  },
+  {
+   "text": "Underwriting Strategy Our underwriting process incorporates various data-driven tools to evaluate industry trends, client performance, location-level economics, and downside scenarios, which inform both investment selection and structuring decisions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes underwriting process generally, no new risk."
+  },
+  {
+   "text": "To be considered for acquisition, investments must meet our established underwriting requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates existing underwriting requirement, procedural."
+  },
+  {
+   "text": "We evaluate opportunities using one or more of the following criteria: \u2022 Industry, client (including credit), and market conditions; \u2022 Expected financial returns under various scenarios (including default); \u2022 The value of the underlying real estate\u2014based on replacement cost, market rental rates, and alternative-uses\u2014or other collateral supporting the client\u2019s contractual obligations; and \u2022 Store\u2011level profitability for retail locations, when available, or the importance of the real estate location to the operations of the client\u2019s business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists evaluation criteria already implied by underwriting process."
+  },
+  {
+   "text": "For real estate investments, we typically own the land and building in which a client conducts business or that is critical to its revenue generation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ownership structure, consistent with existing net lease model."
+  },
+  {
+   "text": "In our experience, properties that are mission\u2011critical to a client\u2019s operations are more likely to be retained at lease expiration and, in many cases, renewed on favorable terms, reflecting the strategic importance of the location to the client\u2019s business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates belief about lease retention likelihood, consistent with existing risk discussion."
+  },
+  {
+   "text": "Clients are generally highly incentivized to maintain control of profitable or operationally essential locations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates client incentive to retain leases, no new risk."
+  },
+  {
+   "text": "As a result, we believe such leases are also less likely to be rejected during a reorganization process, as rejection would terminate the client\u2019s right to use assets that are central to ongoing operations and revenue generation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing bankruptcy/reorganization risk mitigation belief."
+  },
+  {
+   "text": "If a property were to be rejected during reorganization, we retain ownership of the asset and can re-lease or sell the property, thereby preserving value.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes existing mitigation strategy for rejected leases, not new."
+  },
+  {
+   "text": "We further mitigate risk by monitoring property\u2011level performance and consider disposition of assets that do not meet our criteria.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about risk monitoring and disposition, procedural in nature."
+  }
+ ]
+}

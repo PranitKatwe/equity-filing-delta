@@ -1,0 +1,218 @@
+{
+ "ticker": "AWK",
+ "sector": "Utilities",
+ "filing_date": "2026-02-18",
+ "accession": "0001410636-26-000034",
+ "prior_accession": "0001410636-25-000022",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 25
+ },
+ "items": [
+  {
+   "text": "On October 26, 2025, parent company entered into an Agreement and Plan of Merger (the \u201cEssential Merger Agreement\u201d) with Essential to combine the two companies in a stock-for-stock transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a brand-new material event: a merger agreement to combine with Essential, introducing significant new risk exposure (integration, deal completion, etc.) not previously disclosed."
+  },
+  {
+   "text": "The Essential Merger Agreement provides that, upon the completion of the proposed merger, Essential\u2019s shareholders will receive 0.305 shares of parent company common stock in exchange for each share of Essential common stock eligible for exchange in the merger.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific exchange-ratio detail of the merger already introduced in [0], expanding on the newly disclosed transaction."
+  },
+  {
+   "text": "Upon completion of the proposed merger, Essential will be a wholly owned subsidiary of parent company, and parent company will retain its existing name and remain headquartered in Camden, New Jersey.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further factual detail about the structure of the merger (subsidiary status, name, headquarters) elaborating the same new merger risk."
+  },
+  {
+   "text": "The completion of the proposed merger is subject to certain customary conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that closing is subject to 'customary conditions' with no specifics; standard boilerplate language."
+  },
+  {
+   "text": "The Company currently estimates that the closing of the proposed merger will occur by the end of the first quarter of 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a timing estimate for the merger closing, expanding on the previously introduced merger risk."
+  },
+  {
+   "text": "See Note 5\u2014Mergers, Acquisitions and Divestitures\u2014Agreement and Plan of Merger with Essential Utilities, Inc., in the Notes to Consolidated Financial Statements for additional information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement notes, purely administrative."
+  },
+  {
+   "text": "Customers associated with other operating revenues are not applicable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement that a revenue category is not applicable; no risk content."
+  },
+  {
+   "text": "The specific replacement rate varies by year depending on other high priority capital needs, but the Company anticipates it will reach better than a 100-year replacement rate within the next decade, which is generally viewed in the industry as a minimum benchmark for a long-term sustainable replacement rate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General operational commentary about infrastructure replacement rate benchmarks without introducing a new specific risk."
+  },
+  {
+   "text": "Additional constructive legislative efforts include H.R.",
+   "category": "new_substantive_risk",
+   "rationale": "References a new specific piece of legislation (H.R. 2872) affecting tax treatment, introducing a new regulatory risk consideration."
+  },
+  {
+   "text": "2872, which would allow utilities to deduct repair costs from their adjusted financial statement income calculation for CAMT, and H.R.",
+   "category": "new_substantive_risk",
+   "rationale": "Continuation describing the tax-related legislative bill, part of a newly disclosed regulatory development."
+  },
+  {
+   "text": "2594, legislation to establish a Water Risk and Resilience Organization to develop cybersecurity requirements for water systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new legislation (H.R. 2594) establishing cybersecurity requirements for water systems, a new specific regulatory risk."
+  },
+  {
+   "text": "The Company is tracking state level regulations that require implementation in 2026 and supporting state operations in its compliance efforts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about tracking new state regulations effective 2026, expanding existing regulatory compliance risk discussion."
+  },
+  {
+   "text": "The Company will continue to invest thereafter in order to fully comply with the LCRI by 2037.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends timeline commitment for LCRI compliance investment, elaborating on an already-known regulatory obligation."
+  },
+  {
+   "text": "The Company currently estimates an investment of approximately $2 billion of capital expenditures to install additional treatment facilities in order to comply with the NPDWR for PFAS as proposed.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a specific new quantifiable estimate ($2 billion capex) for PFAS compliance, a material new financial risk disclosure."
+  },
+  {
+   "text": "The Company focuses its sustainability efforts in three primary areas: financial, operational and cultural: \u2022 The Company seeks to achieve financial sustainability through its disciplined approach to capital investment and regulatory execution, which supports efforts to grow its business and drive shareholder value while addressing water and wastewater challenges in the United States.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of sustainability strategy pillars; no specific risk introduced."
+  },
+  {
+   "text": "The Company\u2019s capital investment program is financed with cash flows from operating activities and through a combination of debt and equity capital issuances structured to maintain a healthy balance sheet over the long-term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about financing capital investment program; standard descriptive language."
+  },
+  {
+   "text": "The Company\u2019s approach to balance sheet management is centered on maintaining investment-grade metrics, substantial liquidity provided by highly-rated financial institutions and interest rate management on new debt issuances through its hedging program. \u2022 Operational sustainability means focusing on operating performance and the day-to-day management of water and wastewater systems that provide safe, clean, reliable and affordable service.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic balance sheet management philosophy, not a specific new risk."
+  },
+  {
+   "text": "The Company focuses on the quality of execution and the need to operate its systems safely, efficiently and in compliance with all environmental requirements, for the benefit of its customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General operational philosophy statement, no new risk."
+  },
+  {
+   "text": "The Company believes this approach to operational sustainability is aligned with the values of its regulators and policymakers. \u2022 Cultural sustainability is reflected in the Company\u2019s commitment to support a high performing workforce, while seeking to attract and retain employees who share its purpose and values and understand the needs of the communities in which it serves.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Broad statement about alignment with regulator values and workforce culture; no risk content."
+  },
+  {
+   "text": "The Company demonstrates this commitment to its employees through its values.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about company values, not risk-related."
+  },
+  {
+   "text": "The Company also believes that investing time, energy and resources in its workforce helps to generate new ideas, continuously improve operations and provide high quality, reliable service for its customers and communities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about workforce investment benefits, purely descriptive."
+  },
+  {
+   "text": "Among others, these recognitions include the following: \u2022 ranked on Newsweek\u2019s Worlds\u2019s Most Trustworthy Companies 2025 list; \u2022 recognized on Newsweek\u2019s America\u2019s Most Responsible Companies 2025 and 2026 lists; and \u2022 named on Forbes America\u2019s Best Employers for Company Culture 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of awards and recognitions, marketing-type content with no risk implication."
+  },
+  {
+   "text": "Following the Company\u2019s thorough review of the incident, the ED&CC, SETO Committee and the Board of Directors determined the incident to be non-preventable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal review conclusion labeling an incident non-preventable; clarifies rather than introduces a new risk."
+  },
+  {
+   "text": "The Company\u2019s review concluded that applicable safety protocols were in place and functioning as intended at the time of the incident.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States safety protocols were functioning properly, reassurance language rather than new risk."
+  },
+  {
+   "text": "For 2025, the Company had an Occupational Safety and Health Administration Recordable Incident Rate (\u201cORIR\u201d) of 0.36 (not including the non-preventable fatality).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports a specific safety statistic (ORIR) as routine metric disclosure, not a new risk factor."
+  },
+  {
+   "text": "For 2025, the Company had a Days Away Restricted or Transferred (\u201cDART\u201d) rate of 0.19, compared to the Company\u2019s 2025 target DART rate of 0.39.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports DART rate metric, routine safety performance data."
+  },
+  {
+   "text": "For 2025, to reinforce its focus on the reduction and prevention of serious injuries and incidents, the Company began to track its serious injuries or incidents using the Serious Injury Incidence Rate (\u201cSIIR\u201d), which measures the number of such incidents per 100 employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new tracking metric (SIIR) for internal reporting, informational rather than risk-creating."
+  },
+  {
+   "text": "The target SIIR for 2025 was 0.04 and the Company recorded no such incidents for 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports target and actual SIIR results, routine performance data."
+  },
+  {
+   "text": "Griffith has served as Chief Executive Officer and principal executive officer of the Company since May 14, 2025 and as President since August 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical update about executive tenure, not risk-related."
+  },
+  {
+   "text": "Sutton joined the Company in February 2023 as its Chief Inclusion, Diversity and Equity Officer, and also served as the Company\u2019s Vice President of Talent Acquisition from April 2024 to November 2024, and its Senior Vice President of Talent Management from December 2024 to March 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about an executive's employment history, not a risk factor."
+  },
+  {
+   "text": "Sutton served from September 2021 to February 2023 as Global Head of Inclusion, Diversity and Culture at Alcoa, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further biographical detail, no risk content."
+  },
+  {
+   "text": "Before that, she worked in similar roles at Berry Global Group, Inc., from September 2019 to September 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Additional biographical history, no risk relevance."
+  },
+  {
+   "text": "She is a member of the Board of Directors of Liberty Federal Credit Union in Evansville, Indiana.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Board membership detail unrelated to company risk."
+  },
+  {
+   "text": "Risk Factors Summary The following summary is intended to enhance the readability and accessibility of our risk factor disclosures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory framing sentence for a risk factor summary; standard boilerplate."
+  },
+  {
+   "text": "We encourage you to carefully review the full risk factors discussed below in their entirety for additional information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Encourages reading full risk factors; cautionary boilerplate with no substantive content."
+  },
+  {
+   "text": "Additional Risks Related to Our Business \u2022 Parent company provides performance guarantees with respect to certain of the obligations of our Other businesses (primarily MSG), including financial guarantees or deposits, which may adversely affect parent company if the guarantees are successfully enforced.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that parent company provides performance guarantees for other businesses (e.g., MSG) that could adversely affect it if enforced."
+  },
+  {
+   "text": "In September 2025, the EPA reaffirmed this enforcement approach, explaining that, while it intends to focus CERCLA enforcement activities on entities that significantly contributed to PFAS releases and generally does not plan to pursue actions against passive receivers, its enforcement discretion does not alter CERCLA\u2019s underlying liability framework or restrict private party claims, and therefore the extent to which we may be subject to future CERCLA liability for PFAS-related claims remains uncertain.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new regulatory development (EPA's September 2025 CERCLA enforcement stance) creating ongoing uncertain liability exposure for PFAS claims."
+  },
+  {
+   "text": "Some states in which we operate allow the respective public utility commissions to use fair market value to set ratemaking rate base instead of the traditional depreciated original cost of water or wastewater assets for certain qualifying acquisitions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains a ratemaking mechanism (fair market value basis) that expands on existing regulatory/ratemaking risk factors."
+  },
+  {
+   "text": "Depending on the state, there are varying rules and circumstances in which fair value is determined.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on variability of fair value determination rules across states, expanding the existing ratemaking risk discussion."
+  },
+  {
+   "text": "Some states\u2019 regulations allow ratemaking rate base to equal the lower of the average of the appraisals or the purchase price, subject to regulatory approval.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on how some states cap rate base at lower of appraisal or purchase price, expanding the same ratemaking risk topic."
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "ticker": "BR",
+ "sector": "Industrials",
+ "filing_date": "2025-08-05",
+ "accession": "0001628280-25-037656",
+ "prior_accession": "0001383312-24-000039",
+ "model": "claude-sonnet-5",
+ "n_added": 16,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Some of our clients and third-party vendors have experienced cybersecurity incidents.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses actual past cybersecurity incidents involving clients/vendors, a concrete new factual risk not previously mentioned."
+  },
+  {
+   "text": "These stakeholders may have differing expectations or requirements regarding sustainability, and applicable regulations in various jurisdictions may be inconsistent or conflict with one another, presenting additional challenges to compliance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about conflicting stakeholder expectations and regulatory inconsistency, expanding existing sustainability/compliance risk discussion."
+  },
+  {
+   "text": "Our use and incorporation of a broad range of artificial intelligence technologies in our products, services, and operations present risks, uncertainties, and challenges that could adversely affect our business, financial condition, and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around AI incorporation affecting business, financial condition, and operations."
+  },
+  {
+   "text": "Our ability to attract and retain clients depends on our capacity to develop and support innovative products and services, including through developing or deploying emerging technologies such as artificial intelligence.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing competitive/innovation risk with AI as an example, not a new risk type."
+  },
+  {
+   "text": "Some of our products, services and processes leverage AI, including both machine learning and Generative AI, and we continue to make investments in initiatives focused on the further development and deployment of these technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes specific AI/GenAI investments, expanding on the newly introduced AI risk with operational detail."
+  },
+  {
+   "text": "However, there is no assurance that our use or development of AI will enhance our products or services or their marketability, improve operating results, or deliver anticipated benefits, and our product development initiatives involving AI may be unsuccessful.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about uncertain benefits of AI investments, typical boilerplate language."
+  },
+  {
+   "text": "While implementation of these technologies offers the potential for innovation and competitive differentiation, it also poses significant risks and uncertainties, especially given its early stage of commercial adoption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about early-stage technology risk and opportunity, lacks specific new risk detail."
+  },
+  {
+   "text": "The use of AI in our product initiatives and offerings or services, or in our internal business operations, may give rise to risks related to accuracy, bias, discrimination, intellectual property infringement, misappropriation or leakage of proprietary, confidential and personal information, defamation, data privacy, and cybersecurity.",
+   "category": "new_substantive_risk",
+   "rationale": "Lists specific new risk vectors (bias, IP infringement, data leakage, defamation, privacy, cybersecurity) tied to AI use, a substantive new risk area."
+  },
+  {
+   "text": "Any error, defect, or vulnerability in our AI-powered products or business processes could undermine the quality of our products and services, adversely impact our clients\u2019 businesses, subject us or our clients to regulatory scrutiny, fines or litigation and cause reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of AI errors, extending the newly introduced AI risk rather than introducing a distinct new risk."
+  },
+  {
+   "text": "We are exposed to similar risks in connection with the use of AI technology by our third-party vendors and clients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends AI risk exposure to third parties, building on the already-introduced AI risk theme."
+  },
+  {
+   "text": "These technologies are subject to an evolving and fragmented legal and regulatory landscape.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving legal landscape without specific new risk content."
+  },
+  {
+   "text": "The absence of a unified regulatory framework, and the risk of divergent or conflicting regulations across jurisdictions applicable to our business, could increase the complexity and costs of compliance for us and our clients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on regulatory fragmentation and compliance costs, expanding the AI regulatory risk already introduced."
+  },
+  {
+   "text": "New or changing legal requirements may limit or restrict our use of AI, impose burdensome obligations, or require us to modify or discontinue certain offerings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies potential regulatory restrictions on AI use, continuing the same regulatory risk thread."
+  },
+  {
+   "text": "Any of these factors, alone or in combination, could adversely affect our business, reputation, or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding sentence summarizing potential adverse effects, standard risk factor boilerplate."
+  },
+  {
+   "text": "24 \u2022 legacy issues : protecting against actions, claims, regulatory investigations, losses, and other liabilities related to the predecessor business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category regarding legacy liabilities from a predecessor business."
+  },
+  {
+   "text": "Any of these factors, alone or in combination, may result in unanticipated obligations, disputes, exposure to litigation and regulatory action and adversely affect our business, reputation, or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Similar generic closing statement about potential adverse effects, restating boilerplate risk language."
+  }
+ ]
+}

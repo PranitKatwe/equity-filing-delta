@@ -1,0 +1,63 @@
+{
+ "ticker": "CVX",
+ "sector": "Energy",
+ "filing_date": "2026-02-24",
+ "accession": "0000093410-26-000078",
+ "prior_accession": "0000093410-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "The following disclosures reflect our beliefs and opinions as to factors that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about the nature of risk factor disclosures, no specific risk content."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such factors have occurred in the past or their likelihood of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about historical references, not a specific risk."
+  },
+  {
+   "text": "Chevron is incorporating artificial intelligence technologies into its processes and these technologies may present business, compliance, and reputational risks The company is increasingly utilizing artificial intelligence (\u201cAI\u201d) technologies in certain of its processes, information systems and various operations, and expects that AI will assume a more critical role in its operations over time.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk area: use of AI technologies in company processes and associated business/compliance/reputational risks."
+  },
+  {
+   "text": "The use of AI technologies introduces certain risks to the company, including potential dependency on biased or incorrect AI outputs, new or enhanced regulatory requirements, litigation, privacy risks, cybersecurity risks, reputational harm, liability or other adverse consequences, any of which could adversely affect its business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the AI risk just introduced, detailing specific sub-risks like bias, regulation, litigation, cybersecurity."
+  },
+  {
+   "text": "Additionally, other unforeseen risks stemming from either the company\u2019s or third-party service providers\u2019 use and development of AI tools and technologies, or the company\u2019s inability to adopt such technologies at the same pace as its competitors, may arise in the future that could adversely affect its business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the AI risk theme, adding third-party and competitive pacing considerations."
+  },
+  {
+   "text": "23 Table of Contents One of our subsidiaries acts as the general partner of a publicly traded limited partnership, Hess Midstream LP, which may involve a potential legal liability One of our subsidiaries acts as the general partner of Hess Midstream, a publicly traded limited partnership.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding the company's role as general partner of a publicly traded partnership and potential legal liability."
+  },
+  {
+   "text": "Our control of the general partner of Hess Midstream may increase the possibility that we could be subject to claims of breach of duties owed to Hess Midstream, including claims of conflict of interest.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific nature of the liability risk (breach of duty, conflict of interest claims) introduced in the prior sentence."
+  },
+  {
+   "text": "Any liability resulting from such claims could have an adverse impact on our future business, financial condition, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the potential adverse impact of the liability risk already introduced."
+  },
+  {
+   "text": "Chevron regularly evaluates its ambitions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about evaluating ambitions with no specific risk content."
+  }
+ ]
+}

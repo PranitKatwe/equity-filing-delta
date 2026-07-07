@@ -1,0 +1,218 @@
+{
+ "ticker": "KMI",
+ "sector": "Energy",
+ "filing_date": "2026-02-13",
+ "accession": "0001506307-26-000011",
+ "prior_accession": "0001506307-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "Although rate reductions continued through December 2025, there can be no assurance that the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language fragment about rate reductions with no specific new risk detail."
+  },
+  {
+   "text": "Changes in the policy priorities of federal, state, and local authorities create a dynamic regulatory landscape\u2014where, for example, federal priorities may ease while state and local requirements become more stringent\u2014resulting in compliance complexity and potential cost increases.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new dynamic\u2014divergence between easing federal and tightening state/local requirements\u2014creating compliance complexity not previously described."
+  },
+  {
+   "text": "Future administrations, court decisions, or state-level initiatives could reverse or tighten standards or result in enhanced requirements, creating uncertainty and volatility in compliance obligations and costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about possible future reversal of standards without specific detail, typical cautionary language."
+  },
+  {
+   "text": "For example, with respect to our products pipelines, the FERC resets the ceiling level calculation formula every five years, and the five-year review is typically the 31 subject of litigation between liquids pipelines, their customers, and industry groups.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new detail about FERC's five-year ceiling level review and litigation risk not previously disclosed."
+  },
+  {
+   "text": "Changes in the index formula used to calculate ceiling levels would impact the revenues we receive from FERC-jurisdictional service.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequence of the FERC ceiling formula changes already introduced in the prior sentence."
+  },
+  {
+   "text": "While policy shifts under the current U.S. presidential administration have generally emphasized support for domestic energy production and have reduced certain environmental regulatory burdens at the federal level, these changes introduce their own uncertainties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor regarding uncertainty from current administration's deregulatory policy shifts."
+  },
+  {
+   "text": "Deregulatory actions at the federal level, such as the EPA\u2019s rescission of its previous endangerment finding relating to GHGs announced on February 12, 2026, are likely to be subject to legal challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific new regulatory action (EPA rescission of endangerment finding) and associated legal risk not previously mentioned."
+  },
+  {
+   "text": "Also, as the U.S. federal government has taken some steps to relax regulatory requirements, some states have adopted new laws and regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing regulatory patchwork risk by noting states adopting new laws as federal government relaxes rules."
+  },
+  {
+   "text": "Many states have adopted policies related to GHG emission reduction targets.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement expanding on existing state GHG regulation risk without new specific detail."
+  },
+  {
+   "text": "These and other expansion of U.S. state laws and regulations with potentially divergent obligations could require us to incur additional expenditures to comply with disparate obligations related to GHG emission requirements, or other reporting or safety regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on compliance cost risk from divergent state laws already being discussed."
+  },
+  {
+   "text": "For example, the EPA finalized methane and volatile organic compound emissions standards in late 2023 and, although EPA priorities have shifted under the current U.S. presidential administration, several states continue to pursue aggressive climate and emissions-reduction programs, which could require us to comply with obligations that are more stringent than those imposed by the EPA.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific detail about EPA methane/VOC standards and state programs exceeding federal requirements."
+  },
+  {
+   "text": "The State of California has enacted legislation requiring climate-related disclosures, and the California Air Resources Board (CARB) has begun implementation of such legislation, which requires that certain companies doing business in California submit reporting of GHG emissions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new California law (CARB climate disclosure requirement) not previously disclosed."
+  },
+  {
+   "text": "Moreover, political and legal challenges to existing rules, combined with evolving public expectations around environmental stewardship, add to the risk that new or reinstated regulations could materially impact our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about political/legal challenges and public expectations, lacking specific new risk detail."
+  },
+  {
+   "text": "Changes in U.S. trade policy and the impact of tariffs may have a material adverse effect on our business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding U.S. trade policy and tariffs affecting the business."
+  },
+  {
+   "text": "Our business and results of operations may be adversely affected by uncertainty and changes in U.S. trade policies, including tariffs, trade agreements, or other trade restrictions imposed by the U.S. or other governments.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the tariff risk introduced in the prior sentence with similar meaning."
+  },
+  {
+   "text": "For example, in 2025, the U.S. government announced multiple tariffs on several foreign jurisdictions and imports into the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific factual detail (2025 tariff announcements) supporting the newly introduced tariff risk."
+  },
+  {
+   "text": "Several of these tariff announcements have been followed by announcements of limited exemptions and temporary pauses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about exemptions and pauses related to the tariff risk already introduced."
+  },
+  {
+   "text": "These actions have caused substantial uncertainty and volatility in financial markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about market uncertainty and volatility without specific new content."
+  },
+  {
+   "text": "Additionally, in response to these actions, certain governments have announced retaliatory measures against the U.S. and/or are in the process of negotiating with the U.S on tariff agreements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about retaliatory measures as part of the broader tariff risk already described."
+  },
+  {
+   "text": "While the U.S. government has announced various trade deals, many such agreements are preliminary and may be subject to change.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty of trade deals within the tariff risk discussion."
+  },
+  {
+   "text": "Further, any future disagreement between the U.S. government and other countries over the implementation of trade deals or any failure to obtain required governmental approvals or otherwise reach a final agreement could result in prolonged uncertainty regarding the scope and duration of such trade actions by the U.S. government and other countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on potential future trade disagreements, part of the same tariff risk narrative."
+  },
+  {
+   "text": "Court of Appeals for the Federal Circuit ruled that many of the tariffs imposed under the Trump Administration exceed presidential authority and therefore are invalid, though the decision has been stayed pending U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal development\u2014a court ruling invalidating certain tariffs\u2014creating new uncertainty."
+  },
+  {
+   "text": "This ruling introduces additional uncertainty as to the scope and durability of existing and future tariff measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the uncertainty created by the court ruling described in the previous sentence."
+  },
+  {
+   "text": "Our business requires access to steel and other materials to construct and maintain our pipelines.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new operational dependency on steel and materials for pipeline construction."
+  },
+  {
+   "text": "Any imposition of or increase in tariffs on imports of steel or other materials, as well as corresponding price increases for such materials available domestically, could increase our construction costs and our costs to maintain our assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects tariff risk to increased costs for steel/materials, expanding on the newly introduced dependency risk."
+  },
+  {
+   "text": "To the extent that we are unable to pass all or any such cost increases on to our customers, such cost increases could adversely affect our returns on investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the financial impact of the materials cost risk already introduced."
+  },
+  {
+   "text": "Higher materials costs could also diminish our ability to develop new projects at acceptable returns, particularly during times of economic uncertainty, and limit our ability to pursue growth opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the impact of higher materials costs on growth and returns."
+  },
+  {
+   "text": "Tariffs or other trade restrictions may lead to continuing uncertainty and volatility in U.S. and global financial and economic conditions and commodity markets, declining consumer confidence, significant inflation, and diminished expectations for the economy, and ultimately reduced demand for our and our customers\u2019 products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic macroeconomic risk language about tariffs affecting demand and economic conditions."
+  },
+  {
+   "text": "Also, disruptions and volatility in the financial markets may lead to adverse changes in the availability, terms, and cost of capital.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about financial market disruptions and capital costs, common boilerplate."
+  },
+  {
+   "text": "Such adverse changes could increase our costs of capital and limit our access to external financing sources to fund acquisitions, capital projects, or refinancing of debt maturities on similar terms, which could in turn reduce our cash flows and limit our ability to pursue growth opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific financial consequences (higher cost of capital, reduced cash flow) tied to the broader tariff/market risk."
+  },
+  {
+   "text": "Changes in tariffs and trade restrictions can be announced with little or no advance notice.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unpredictability of tariff timing, cautionary language."
+  },
+  {
+   "text": "The adoption and expansion of tariffs or other trade restrictions, increasing trade tensions, or other changes in governmental policies related to taxes, tariffs, trade agreements, or policies, are difficult to predict, which makes attendant risks difficult to anticipate and mitigate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty predicting trade policy changes, standard risk factor language."
+  },
+  {
+   "text": "If we are unable to navigate further changes in U.S. or international trade policy, it could have a material adverse impact on our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cautionary conclusion about inability to navigate trade policy changes."
+  },
+  {
+   "text": "These include efforts to implement new laws, regulations, and policies focused on enhanced disclosures related to climate matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing climate disclosure regulatory risk by referencing new laws and policies."
+  },
+  {
+   "text": "The commitment to such climate focused initiatives has varied over time, including with changes in U.S. presidential administrations and public priorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about varying commitment to climate initiatives over time, lacking specific new risk."
+  },
+  {
+   "text": "At various times, the federal government, states, and groups of states have adopted or proposed climate related laws, regulations, or policies that could subject us to substantial compliance costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands existing risk of federal/state climate laws imposing compliance costs."
+  },
+  {
+   "text": "For example, the SEC finalized rules requiring significant new climate-related disclosure in SEC filings, including certain climate-related metrics and GHG emissions data, and third-party attestation requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new SEC climate disclosure rule requiring GHG metrics and third-party attestation."
+  },
+  {
+   "text": "Although the SEC voluntarily stayed the effectiveness of such rules and has advised the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on the status (stay) of the previously mentioned SEC climate rule."
+  },
+  {
+   "text": "Court of Appeals for the Eighth Circuit that it does not intend to reconsider or defend the rules, such rules or similar rules could be pursued in the future by the SEC or another government authority.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on legal proceedings and SEC's position regarding the climate disclosure rule."
+  },
+  {
+   "text": "See \u201c New or amended laws, policies, regulations and oversight requirements, and compliance complexity resulting from disparities in requirements imposed by federal, state, and local authorities, could adversely impact our earnings, cash flows, and operations. \u201d above for discussion of other state climate disclosure regulations that could subject us to substantial compliance costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing, not a new substantive risk."
+  }
+ ]
+}

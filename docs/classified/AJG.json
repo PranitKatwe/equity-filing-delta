@@ -1,0 +1,218 @@
+{
+ "ticker": "AJG",
+ "sector": "Financials",
+ "filing_date": "2026-02-17",
+ "accession": "0001628280-26-008662",
+ "prior_accession": "0001564590-22-005714",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 23,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Global economic and geopolitical events, including fluctuations in interest, inflation and exchange rates, geo-economic fragmentation and protectionism resulting in greater restrictions on international trade and market uncertainty, tariffs, trade wars and other governmental actions affecting the flow of goods, services or currency, military actions and war, including between Russia and Ukraine, the Middle East, Latin America and the Caribbean, political crises like U.S. governmental shutdowns, and political violence and instability worldwide could also weigh negatively on the economy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific geopolitical examples (Russia-Ukraine, Middle East, government shutdowns) to an already-existing macroeconomic risk discussion."
+  },
+  {
+   "text": "A recession or decline in economic activity, for these and any other reasons, could adversely impact us in future periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that a recession could adversely impact the company; no new specifics."
+  },
+  {
+   "text": "For example, our clients might reduce the amount of insurance coverage, reinsurance coverage, consulting services or claims administration services they purchase due to reductions in headcount, payroll, or replacement and asset values, among other factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific example of how clients might reduce purchases, expanding the existing economic-downturn risk."
+  },
+  {
+   "text": "If our clients file for bankruptcy, liquidate their operations, consolidate or are generally unable to meet their obligations, our revenues, ability to collect receivables and liquidity could be adversely impacted, which could have an adverse effect on our results of operations and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific credit/counterparty risk regarding client bankruptcy or inability to meet obligations affecting revenue and liquidity."
+  },
+  {
+   "text": "While lower interest rates benefit us by reducing our cost of borrowing, they also reduce investment earnings on our cash, revenue from our premium financing operations and short-term investments of fiduciary and operating funds.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details how lower interest rates affect various revenue streams, expanding the existing interest rate risk discussion."
+  },
+  {
+   "text": "In addition, lower levels of inflation may reduce our revenue growth by slowing the increase in insurable asset values.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how inflation levels affect revenue growth, expanding existing inflation risk."
+  },
+  {
+   "text": "Uncertain economic conditions have created volatility in the U.S. and other markets where we operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about market volatility with no new specifics."
+  },
+  {
+   "text": "A rise in the cost of labor or cost of capital, among other things, could negatively impact our operating and general and administrative expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on cost of labor/capital impacting expenses, expanding existing cost risk."
+  },
+  {
+   "text": "We have no or limited control over such developments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about lack of control over macro developments."
+  },
+  {
+   "text": "If our costs grow significantly, our margins and results of operations may be materially and adversely impacted and we may not be able to achieve our strategic and financial objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cost growth impacting margins, without new specifics."
+  },
+  {
+   "text": "Further, a tightening of credit or capital markets could negatively impact our business, financial condition and liquidity, including our ability to continue to access preferred sources of liquidity when needed and under similar terms, which may increase our capital costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on credit/capital market tightening impacting liquidity, expanding existing financial risk."
+  },
+  {
+   "text": "We could also experience losses on holdings of cash and investments due to failures of financial institutions and other counterparties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of losses from failures of financial institutions and counterparties holding company cash and investments."
+  },
+  {
+   "text": "See the paragraph below regarding larger acquisitions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, no substantive content."
+  },
+  {
+   "text": "Additionally, through our acquisitions, we may enter new lines of business or offer new services within existing lines of business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes that acquisitions may lead to new lines of business, expanding existing M&A risk discussion."
+  },
+  {
+   "text": "For example, our acquisitions of Woodruff Sawyer and Caytons Law added legal consulting services related to directors' and officers\u2019 liability insurance and a U.K.-based claims and legal solutions firm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples (Woodruff Sawyer, Caytons Law) illustrating the existing acquisition-related risk."
+  },
+  {
+   "text": "These new businesses may pose additional risks or increased regulatory burden.",
+   "category": "expanded_existing_risk",
+   "rationale": "States new businesses may pose additional risks, expanding on existing acquisition risk language."
+  },
+  {
+   "text": "These assumptions relate to various matters, including projections of future revenues, non-GAAP measures, expenses and expense allocation; our ability to maintain, develop and deepen relationships with employees, including key brokers, and clients; the amount of goodwill and intangibles; our ability to realize anticipated cost savings and revenue synergies; and other unforeseen compliance, financial and strategic risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of forward-looking assumptions, largely boilerplate in nature."
+  },
+  {
+   "text": "We believe that our culture has been a critical component of our growth and success since our founding nearly 100 years ago and the failure to uphold our culture as we grow could negatively impact our reputation.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about culture's importance to growth, a common reworded risk framing."
+  },
+  {
+   "text": "Negative publicity may be posted on social media or other Internet forums, whether or not true, and the speed and pervasiveness with which information can be disseminated through these channels, in particular social media, may magnify the risks noted above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on how social media can magnify existing reputational risk."
+  },
+  {
+   "text": "As we enter new jurisdictions and markets globally, negative reputational events (whether arising from regulatory matters or otherwise) may have a disproportionate impact in locations or markets where our employee and client presence is limited.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing reputational risk discussion to new global markets and jurisdictions."
+  },
+  {
+   "text": "Any negative publicity could potentially hinder our growth prospects in such locations or markets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates that negative publicity could hinder growth, consistent with existing reputational risk language."
+  },
+  {
+   "text": "Differing views and regulatory approaches regarding sustainability have made compliance with regulations, frameworks and stakeholder expectations increasingly complex and subject to risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory complexity risk specifically tied to differing sustainability regulations and frameworks."
+  },
+  {
+   "text": "Our sustainability-related aspirations, goals and initiatives face scrutiny from the investment community, regulators, current and potential clients, employees, potential acquisition targets, and other stakeholders related to sustainability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk of stakeholder scrutiny over sustainability goals and initiatives."
+  },
+  {
+   "text": "This includes scrutiny regarding our goal to reach operational net zero carbon emissions (Scope 1 and Scope 2) by 2050 and our interim goal of a 50% reduction in such emissions, on a per employee basis, by 2030.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on net zero carbon goals, expanding the newly introduced sustainability scrutiny risk."
+  },
+  {
+   "text": "We could become the target of litigation, investigations or public criticism alleging that our sustainability efforts are anti-competitive, discriminatory or otherwise unlawful.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific litigation/public criticism risk related to sustainability efforts being labeled unlawful or discriminatory."
+  },
+  {
+   "text": "For example, the State of Texas recently issued an opinion on the legality of corporate diversity, equity and inclusion (DEI) programs taking the position that such programs are potentially unlawful under certain circumstances.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific legal development (Texas opinion on DEI programs) representing a new regulatory/legal risk."
+  },
+  {
+   "text": "See also \u201cWe are subject to risks associated with AI.\u201d We are subject to risks associated with AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category related to AI usage in the business."
+  },
+  {
+   "text": "We use AI in our business, including with respect to services provided to our clients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes specific AI use cases, expanding on the newly introduced AI risk topic."
+  },
+  {
+   "text": "We have internal policies and controls governing development, procurement, deployment and the use of AI by our employees designed to align with globally recognized AI principles, maintain trust with clients and protect the company from cybersecurity threats, breaches of data privacy and intellectual property, E&O liability and regulatory enforcement risk; however, our employees could violate these policies and they or external threat actors could circumvent our controls and expose us to such risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details internal AI governance controls and potential circumvention, expanding on AI risk."
+  },
+  {
+   "text": "Furthermore, our exposure to these risks may increase if our vendors, suppliers, or other third-party providers employ AI in relation to the products or services they provide to us, as we have limited control over such use in third-party products or services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends AI risk to third-party vendor use, expanding the AI risk discussion."
+  },
+  {
+   "text": "These risks include, among others, the input of confidential information, including material non-public information, in contravention of our policies or contractual restrictions to which any of the foregoing are subject, or in violation of applicable laws or regulations, including those relating to data protection and AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific AI-related data risks (confidential info exposure), expanding on AI risk topic."
+  },
+  {
+   "text": "This could result in such information becoming part of a data set that is accessible by other third-party AI applications and users.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on data exposure risk from AI tools, expanding existing AI risk."
+  },
+  {
+   "text": "Additionally, AI heavily relies on the collection and analysis of extensive data sets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes AI's reliance on large data sets, expanding AI risk discussion."
+  },
+  {
+   "text": "The third-party models underlying our AI tools may be inadequately designed, implemented or trained, and due to the impracticality of incorporating all relevant data into the models used by AI, it is inevitable that data sets within these models will contain information that has inaccuracies and errors, and potential biases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential flaws in AI model training data, expanding AI risk discussion."
+  },
+  {
+   "text": "This could potentially render such models inadequate or flawed, leading to outputs surfacing third-party intellectual property or that contain information that is biased, unethical, discriminatory, incomplete, inaccurate, misleading or poor-quality that could negatively impact the effectiveness of the technology or our services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequences of flawed AI outputs, expanding AI risk discussion."
+  },
+  {
+   "text": "We are exposed to the risks associated with these inaccuracies, errors and biases, along with the adverse impacts that such flawed models could have on our business and operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates exposure to AI model inaccuracies, expanding AI risk discussion."
+  },
+  {
+   "text": "Furthermore, there is a risk that the use of AI may subject the company to reputational harm and liability related to governance and ethical issues and potential litigation from third-party intellectual property holders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds reputational and legal liability risk from AI use, expanding AI risk discussion."
+  },
+  {
+   "text": "The increasing adoption of AI technologies by cyber threat actors presents a significant and evolving risk to our company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding AI-enabled cyberattacks by threat actors."
+  },
+  {
+   "text": "These actors may leverage AI to develop more sophisticated and targeted cyberattacks, including advanced phishing schemes, malware, and data exfiltration techniques, which could compromise our controls and systems, client data, and proprietary information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples of AI-enabled cyberattack techniques, expanding the newly introduced AI cyber risk."
+  },
+  {
+   "text": "Such incidents could result in operational disruptions, financial losses, reputational damage, regulatory scrutiny, and potential legal liabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consequences of cyber incidents, common boilerplate language."
+  }
+ ]
+}

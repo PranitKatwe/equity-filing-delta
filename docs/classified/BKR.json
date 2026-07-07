@@ -1,0 +1,218 @@
+{
+ "ticker": "BKR",
+ "sector": "Energy",
+ "filing_date": "2026-02-05",
+ "accession": "0001701605-26-000007",
+ "prior_accession": "0001701605-25-000035",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "However, the pace and direction of the transition to a lower- Baker Hughes Company 2025 Form 10-K | 16 carbon economy has become increasingly uncertain and variable across different regions and markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about uncertainty and variability in the pace of the energy transition, expanding the existing energy transition risk discussion."
+  },
+  {
+   "text": "Recent developments indicate a potential slowdown in energy transition efforts, with sustained or increased demand for traditional oil and gas in certain markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific recent development (slowdown, sustained oil/gas demand) that expands the existing energy transition risk with new detail."
+  },
+  {
+   "text": "These shifts may result from various factors, including changes in government policies and priorities, economic pressures, energy security concerns, and evolving consumer and industrial demand patterns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of causal factors (policy, economics, demand) without new specific risk content."
+  },
+  {
+   "text": "Such changes could include the delay, modification or reversal of climate change-related regulations and initiatives; slower-than-anticipated adoption of renewable energy technologies; continued or increased reliance on oil and natural gas as primary energy sources; and reduced near-term demand from consumers and industry for lower-emission products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific manifestations of the slowdown (regulatory reversal, renewable adoption slowing) expanding the existing transition risk."
+  },
+  {
+   "text": "As the energy transition slows and demand shifts back toward traditional oil and gas applications, the market for our clean energy technologies and services may not develop as anticipated, which could adversely affect our revenue from these segments and the return on our investments in clean energy innovation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential adverse revenue impact on clean energy segment, expanding the existing energy transition risk with a specific financial consequence."
+  },
+  {
+   "text": "Additionally, if we have allocated resources away from traditional oil and gas applications in anticipation of a faster energy transition, we may not be positioned to capture opportunities in markets where demand for conventional energy services remains strong or increases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a specific consequence (misallocated resources) of the broader energy transition risk already covered."
+  },
+  {
+   "text": "Furthermore, the uncertainty and variability in energy transition timelines across different regions may make it difficult to optimize our portfolio and resource allocation decisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on portfolio optimization difficulty tied to the same transition uncertainty risk."
+  },
+  {
+   "text": "Our ability to achieve our strategic objectives and financial targets depends on accurately anticipating market demand across both traditional and emerging energy solutions, and a mismatch between our strategic positioning and actual market conditions could materially impact our financial performance and access to capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties the transition uncertainty to financial performance and capital access, an elaboration of the existing risk theme."
+  },
+  {
+   "text": "Our proposed transaction with Chart creates business, regulatory, and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a wholly new specific risk tied to the Chart merger transaction, not previously disclosed."
+  },
+  {
+   "text": "On July 28, 2025, we entered into a merger agreement with Chart, which sets forth the terms of our proposed transaction.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides concrete new factual detail (merger agreement date and parties) establishing a new specific business risk."
+  },
+  {
+   "text": "We may not be able to realize the potential financial or strategic benefits of the transactions we complete, or find suitable target businesses to acquire.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about acquisition integration risk common to M&A risk factors, not new or expanded specifics."
+  },
+  {
+   "text": "From time to time, we have acquired and may in the future acquire or invest in businesses or partnerships that we believe could complement our business or offer growth opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about historical and future acquisition activity, standard boilerplate."
+  },
+  {
+   "text": "We expect to make additional acquisitions and strategic investments in the future but may not find suitable targets, or we may not be able to consummate such transactions due to, among other things, financial constraints, unfavorable credit markets, commercially unacceptable terms, failure to obtain regulatory approvals, and competitive bid dynamics or other risks, which could harm our operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds more specific obstacles (financial constraints, regulatory approval, competitive bidding) to the existing acquisition risk."
+  },
+  {
+   "text": "The pursuit and integration of such acquisitions or investments may divert management's attention and cause us to incur various expenses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about management distraction and expenses from M&A, standard boilerplate."
+  },
+  {
+   "text": "Acquisitions and investments may not perform as expected, be integrated as successfully as we anticipate or cause us to assume unrecognized or underestimated liabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk language about acquisitions not performing as expected, common boilerplate."
+  },
+  {
+   "text": "These activities are complex, costly and time-consuming and pose a number of risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic characterization of M&A activities as complex and risky, boilerplate."
+  },
+  {
+   "text": "Any delays or issues encountered in these activities could have an adverse effect on our financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about delays affecting financial condition, boilerplate."
+  },
+  {
+   "text": "We may in the future divest certain product lines that no longer fit our long-term strategies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific possibility of divesting product lines, a concrete new business action not previously mentioned."
+  },
+  {
+   "text": "Divestitures may adversely impact our business, operating results and financial condition if we are unable to achieve the anticipated benefits or cost savings from such divestitures, or if we are unable to offset impacts from the loss of revenue associated with the divested product lines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential adverse impacts from divestitures, expanding the newly introduced divestiture risk with specifics."
+  },
+  {
+   "text": "Further, whether such divestitures are ultimately consummated or not, their pendency could have a number of negative effects on our current business, including disrupting our regular operations and increasing our costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about negative effects of pending divestitures on operations and costs, expanding the same risk."
+  },
+  {
+   "text": "It could also disrupt existing business relationships, make it harder to develop new business relationships, or otherwise negatively impact the way that we operate our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about disruption to business relationships, standard boilerplate."
+  },
+  {
+   "text": "Baker Hughes Company 2025 Form 10-K | 18 If we do not manage the foregoing risks, the transactions that we complete or are unable to complete may harm our brand and adversely affect our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General concluding risk statement about brand and financial harm from unmanaged transactions, boilerplate."
+  },
+  {
+   "text": "These laws in many cases impose liability not only for the actions of our employees, but also for the improper conduct of third parties acting on our behalf.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic legal liability language regarding third-party conduct under anti-bribery laws, standard boilerplate."
+  },
+  {
+   "text": "As a result, any failure by us, or by any of our employees or business partners, to comply with applicable anti-bribery and anti- Baker Hughes Company 2025 Form 10-K | 22 corruption requirements could expose us to sanctions and civil and criminal prosecution, fines and penalties, as well as legal expenses and reputational harm that could negatively impact our relationships with customers, regulators, and other stakeholders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consequences of anti-bribery violations with more detail on sanctions and reputational harm."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act (\"OBBBA\") was enacted, introducing broad changes to the U.S. tax code, including modifications to federal income tax provisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legislative development (OBBBA tax law) not previously disclosed, a concrete new regulatory risk."
+  },
+  {
+   "text": "The legislation has multiple effective dates, with certain provisions effective in 2025 and others taking effect in later years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on the effective dates of the newly introduced tax law risk."
+  },
+  {
+   "text": "The aggregate impact of the OBBBA remains uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of uncertainty about the law's impact, standard boilerplate."
+  },
+  {
+   "text": "This includes proposed and enacted tariffs by the U.S. and foreign governments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds reference to specific proposed/enacted tariffs, expanding the existing trade policy risk."
+  },
+  {
+   "text": "Recent changes in U.S. administrative policy, including increases in tariffs and any changes in international trade relations or trade agreements, may have an adverse effect on our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk from recent U.S. administrative tariff increases affecting business, a concrete new development."
+  },
+  {
+   "text": "There is continued uncertainty about the future relationship between the U.S. and various other countries with respect to tariffs, trade policies, government regulations, treaties and trade agreements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing trade policy uncertainty, standard boilerplate."
+  },
+  {
+   "text": "Recent changes in U.S. administrative policy have led to significant increases in tariffs on goods imported into the U.S., particularly tariffs on products manufactured in Europe, Mexico and China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific details (countries affected: Europe, Mexico, China) expanding the newly noted tariff risk."
+  },
+  {
+   "text": "These tariffs, and additional proposed tariffs or other restrictive changes, have resulted, and may further result, in retaliatory trade measures in response to such actions and ongoing uncertainty regarding existing trade agreements and greater restrictions on free trade generally, among other possible changes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on retaliatory trade measures resulting from tariffs, expanding the same risk."
+  },
+  {
+   "text": "Further governmental action related to tariffs or international trade agreements, a trade war, changes in U.S. social, political, regulatory and economic conditions or in laws and policies governing foreign trade, manufacturing, development and investment in the territories and countries where we currently manufacture and sell products, and any resulting negative sentiments towards the U.S. as a result of such changes, would likely have an adverse effect on our business, financial condition or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens the tariff/trade risk to include potential negative sentiment and regulatory changes, an expansion of existing risk."
+  },
+  {
+   "text": "To the extent that we incur incremental tariffs, we may need to recover such tariffs from our customers, and there is no guarantee such recoveries will occur.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific financial consequence (cost recovery uncertainty) tied to the tariff risk already introduced."
+  },
+  {
+   "text": "If such claims were decided against us, then we could be required to pay damages or develop or adopt non-infringing products or services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic IP litigation consequence language, standard boilerplate."
+  },
+  {
+   "text": "Such claims could harm our image, trademarks and brands, competitive position, or our ability to expand our operations into other jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reputational harm from IP claims, boilerplate."
+  },
+  {
+   "text": "There could be attendant negative publicity, even if ultimately decided in our favor.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about negative publicity regardless of outcome, boilerplate."
+  },
+  {
+   "text": "In addition, third parties may assert that the intellectual property or our rights therein are invalid or unenforceable.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a new angle (third parties challenging validity of IP rights) expanding the existing IP risk discussion."
+  },
+  {
+   "text": "If applicable intellectual property rights were invalidated or deemed unenforceable, then the third-party could permit competing uses of such intellectual property rights which, in turn, could lead to a decline in revenues and sales.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequence of IP invalidation, expanding the previously introduced IP risk about third-party challenges."
+  },
+  {
+   "text": "In March 2025, the EPA released a final rule to extend 2025 reporting deadlines and in September 2025, Baker Hughes Company 2025 Form 10-K | 24 proposed a rulemaking to remove and/or suspend program obligations applicable to various industry sectors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory development (EPA rule changes) not previously disclosed, representing a concrete new compliance risk."
+  }
+ ]
+}

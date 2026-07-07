@@ -1,0 +1,218 @@
+{
+ "ticker": "NXPI",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-19",
+ "accession": "0001413447-26-000008",
+ "prior_accession": "0001413447-25-000019",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 34
+ },
+ "items": [
+  {
+   "text": "Business Combinations On June 17, 2025, NXP announced the closing of the acquisition of 100% of TTTech Auto for $766 million in cash ($675 million net of cash acquired).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, large new acquisition ($766 million) that introduces new integration, financial, and operational exposure not previously disclosed."
+  },
+  {
+   "text": "TTTech Auto is a leader in innovating unique safety-critical systems and middleware for software-defined vehicles (SDVs).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic descriptive statement about the acquired company's business, no risk content."
+  },
+  {
+   "text": "The TTTech Auto acquisition complements and expands NXP\u2019s system and software offerings in the Automotive and Industrial & IoT end markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing/rationale language about strategic fit, not a risk statement."
+  },
+  {
+   "text": "On October 24, 2025, NXP closed the previously announced acquisition of 100% of Aviva Links for $222 million in cash ($202 million net of cash acquired) and $26 million through the settlement of previously held investments in Aviva Links.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses another large new acquisition ($222M+$26M) introducing new integration and financial exposure."
+  },
+  {
+   "text": "Aviva Links is a provider of Automotive SerDes Alliance (ASA) compliant in-vehicle connectivity solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about acquired company's products, not risk-related."
+  },
+  {
+   "text": "The Aviva Links acquisition complements and expands NXP\u2019s automotive networking solutions in the Automotive and Industrial & IoT end markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic rationale statement, no risk content."
+  },
+  {
+   "text": "On October 27, 2025, NXP closed the previously announced acquisition of 100% of Kinara, Inc. for $284 million in cash ($283 million net of cash acquired).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a third large new acquisition ($284M) adding new integration/financial risk exposure."
+  },
+  {
+   "text": "Kinara is an industry leader in high performance, energy-efficient and programmable discrete neural processing units (NPUs).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive product statement, not a risk."
+  },
+  {
+   "text": "The Kinara acquisition complements and expands NXP\u2019s solutions for AI-powered edge systems in the Industrial & IoT and Automotive end markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Strategic rationale language, not risk-specific."
+  },
+  {
+   "text": "Furthermore, the evolution into new vehicle architectures that allow the implementation of software defined vehicles (SDV) is expected to help contribute to the increase of the semiconductor content per vehicle.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General positive industry trend statement, not a risk disclosure."
+  },
+  {
+   "text": "In 2025, NXP acquired Kinara to complement NXP\u2019s existing range of processors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates the Kinara acquisition already covered elsewhere, descriptive only."
+  },
+  {
+   "text": "Kinara brings high-performance, energy-efficient Discrete Neural Processing Units (NPUs), optimized specifically for generative artificial intelligence (AI) and large language models, to the NXP portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description, no risk content."
+  },
+  {
+   "text": "Together with NXP\u2019s existing processors, connectivity, and security solutions, these NPU's help form a scalable platform for AI-powered edge systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about product platform, no risk framing."
+  },
+  {
+   "text": "As part of executing our hybrid manufacturing model, we have initiated the consolidation of our internal wafer fabs to 300 millimeter factories.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new operational initiative (fab consolidation to 300mm) introducing potential execution and concentration risk not previously disclosed."
+  },
+  {
+   "text": "We believe this will enable economic and manufacturing efficiencies in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Forward-looking optimistic statement about efficiency benefits, not a risk."
+  },
+  {
+   "text": "Our regional sales offices enable us to maintain close relationships with customers, provide technical support, and manage strategic accounts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about sales office function, no risk."
+  },
+  {
+   "text": "In addition, we leverage a network of authorized distributors who purchase our products and resell them to a broad range of customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about distributor network, no risk content."
+  },
+  {
+   "text": "This dual-channel approach allows us to extend our market reach, optimize logistics and provide localized service while maintaining flexibility to address diverse customer needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of sales strategy benefits, not risk-specific."
+  },
+  {
+   "text": "Our sales and marketing strategy focuses on key defined verticals in Automotive, Industrial & IoT, Communication Infrastructure, and Mobile.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about market focus, no risk."
+  },
+  {
+   "text": "We aim to deepen relationships with our top direct customers, expand our reach to mass-market customers, startups and distribution partners, and become their preferred supplier.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business strategy description, not a risk statement."
+  },
+  {
+   "text": "We believe that this approach helps reduce sales volatility in challenging markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General belief statement about reducing volatility, generic and non-specific."
+  },
+  {
+   "text": "Research and Development We design purpose-built, rigorously tested technologies that enable devices to sense, think, connect and act intelligently to improve people's daily lives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic R&D mission statement, no risk content."
+  },
+  {
+   "text": "These dedicated team members are united by a passion to build solutions\u2014not just products\u2014that enhance the capabilities of people, organizations, and society at large.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Motivational/cultural statement, not risk-related."
+  },
+  {
+   "text": "NXP is uniquely positioned to bring intelligent systems to the edge in Automotive and Industrial & IoT.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positioning statement about market strength, not a risk."
+  },
+  {
+   "text": "We depend on a global employee base with the technical expertise, operational discipline, and leadership capability required to execute effectively in a fast-moving and highly competitive industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates dependency on skilled global workforce, expanding the existing human capital/talent risk with more specific framing."
+  },
+  {
+   "text": "Our approach to human capital management is focused on ensuring the organization has the skills, capacity, and accountability needed to support current and future business priorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic human capital management description, no new risk."
+  },
+  {
+   "text": "We manage our team members through policies, practices, and programs designed to support effective execution, continuous improvement, and long-term capability building.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of workforce management practices."
+  },
+  {
+   "text": "These include efforts related to talent acquisition, leadership and functional development, engagement, inclusion, and competitive total rewards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists general HR program areas, no specific risk."
+  },
+  {
+   "text": "Our team member priorities are reviewed and adjusted as needed to reflect business conditions, evolving workforce needs, and regulatory considerations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about adjusting priorities, no risk specifics."
+  },
+  {
+   "text": "Our team members are located across three geographic regions and in more than 30 countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual geographic description, not risk-related."
+  },
+  {
+   "text": "Innovation is supported by a substantial portion of our workforce engaged in research and development activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about R&D workforce, no risk content."
+  },
+  {
+   "text": "These 11,034 team members contribute to design, development, and advancement of our products and technology roadmap, supporting NXP's ability to meet customer and market conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Specific headcount figure disclosure, factual not risk-related."
+  },
+  {
+   "text": "These values guide decision-making and leadership behaviors and are intended to reinforce a performance-oriented culture aligned with the company's strategic priorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cultural/values statement, no risk content."
+  },
+  {
+   "text": "Survey results are reviewed by leaders and are used to inform actions focused on organizational effectiveness, leadership capability, and ways of working.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal survey process, not a risk factor."
+  },
+  {
+   "text": "Retention of critical talent remains an important consideration in workforce planning.",
+   "category": "expanded_existing_risk",
+   "rationale": "Highlights talent retention as a workforce planning consideration, expanding on existing human capital dependency risk."
+  },
+  {
+   "text": "NXP monitors voluntary attrition as one indicator of workforce stability and engagement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes monitoring practice, not itself a risk statement."
+  },
+  {
+   "text": "Inclusion NXP views inclusion as an important element of workforce effectiveness and organizational performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement on inclusion philosophy, no specific risk."
+  },
+  {
+   "text": "Our approach is intended to support an environment in which team members are able to contribute, collaborate, and perform at their best across regions, functions, and roles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about collaboration environment, not risk-specific."
+  },
+  {
+   "text": "Inclusion-related efforts are integrated into leadership expectations, talent processes, and workforce practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes integration of inclusion into HR processes, no risk content."
+  },
+  {
+   "text": "Employee Resource Groups (ERGs) support connection, engagement, and awareness across the organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ERGs, a programmatic detail with no risk implication."
+  }
+ ]
+}

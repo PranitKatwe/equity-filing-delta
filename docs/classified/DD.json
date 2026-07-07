@@ -1,0 +1,218 @@
+{
+ "ticker": "DD",
+ "sector": "Materials",
+ "filing_date": "2026-02-17",
+ "accession": "0001666700-26-000013",
+ "prior_accession": "0001666700-25-000005",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 32,
+ "counts": {
+  "new_substantive_risk": 18,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Pursuant to the Electronics Tax Matters Agreement, any such additional tax liabilities incurred by DuPont (if any) will be contractually allocated between DuPont and Qnity generally based on their respective Applicable Percentage, as defined in the Separation and Distribution Agreement, effective as of November 1, 2025, between DuPont and Qnity (the \u201cElectronics Separation and Distribution Agreement\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax allocation agreement terms related to the Qnity separation, a new corporate structure risk."
+  },
+  {
+   "text": "The Applicable Percentage for DuPont is 56 percent and for Qnity is 44 percent.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new percentage allocations (56/44) for tax liability between DuPont and Qnity, a concrete new detail."
+  },
+  {
+   "text": "Pursuant to the Electronics Tax Matters Agreement, such additional tax liabilities described in the preceding two sentences (if any) will be contractually allocated between DuPont and Qnity generally based on their respective Applicable Percentage.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same allocation mechanism already described in sentence 0 using nearly identical language."
+  },
+  {
+   "text": "Pursuant to the Electronics Tax Matters Agreement, any tax liabilities allocated to DuPont pursuant to the DWDP Tax Matters Agreement will be contractually allocated between DuPont and Qnity generally based on their respective Applicable Percentage.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific liability allocation stemming from the DWDP Tax Matters Agreement tied to the new Qnity separation."
+  },
+  {
+   "text": "Considerable uncertainty exists with respect to environmental remediation costs and, under adverse changes in circumstances, the potential liability may be materially higher than our accruals.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic environmental remediation uncertainty language typical of standard boilerplate risk disclosures."
+  },
+  {
+   "text": "16 Table of Contents In connection with the Qnity Distribution, certain liabilities are allocated to or retained by DuPont through assumption or indemnification of Qnity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of liabilities being allocated to/retained by DuPont due to the newly completed Qnity Distribution."
+  },
+  {
+   "text": "If DuPont is required to make payments pursuant to these indemnities to Qnity, DuPont may need to divert cash to meet those obligations, and the Company\u2019s financial results could be negatively impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the financial impact of the indemnity obligations introduced in the prior sentence."
+  },
+  {
+   "text": "In addition, certain liabilities (including Qnity\u2019s Applicable Percentage of any Legacy Liabilities (as defined in the Electronics Separation and Distribution Agreement)) are allocated to or retained by Qnity through assumption or indemnification of DuPont.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific liability allocation to Qnity including Legacy Liabilities, a new defined risk category."
+  },
+  {
+   "text": "These indemnities may not be sufficient to insure the Company against the full amount of liabilities allocated to or retained by it, and Qnity may not be able to satisfy its indemnification obligations in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces risk that indemnities may be insufficient and Qnity may fail to satisfy obligations, a new counterparty credit risk."
+  },
+  {
+   "text": "The Company\u2019s results of operations could be adversely affected if Qnity cannot or does not perform such obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates on the risk introduced in the prior sentence about Qnity's performance."
+  },
+  {
+   "text": "Pursuant to the Electronics Separation and Distribution Agreement, the Employee Matters Agreement, effective as of November 1, 2025, between DuPont and Qnity, and the Electronics Tax Matters Agreement (collectively, the \u201cCore Electronics Agreements\u201d), DuPont has agreed to assume, and indemnify Qnity for, certain liabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific agreements (Core Electronics Agreements) and DuPont's indemnification obligations to Qnity."
+  },
+  {
+   "text": "Payments pursuant to these indemnities may be significant and could negatively impact the Company\u2019s business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the magnitude of indemnity payment risk already introduced."
+  },
+  {
+   "text": "Third parties could also seek to hold DuPont responsible for any of the liabilities allocated to Qnity pursuant to the Core Electronics Agreements and such third parties could seek damages, other monetary penalties (whether civil or criminal) and/or other remedies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of third-party claims against DuPont for liabilities allocated to Qnity."
+  },
+  {
+   "text": "Qnity has agreed to indemnify DuPont for such liabilities; however, such indemnities may not be sufficient to protect it against the full amount of such liabilities or from other remedies, and Qnity may not be able to fully satisfy its indemnification obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on indemnification insufficiency risk already introduced regarding Qnity."
+  },
+  {
+   "text": "However, there can be no assurance that Qnity would have adequate resources to satisfy its obligations in full when due under the Core Electronics Agreements or Legacy Liabilities Assignment Agreement.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific concern about Qnity's resource adequacy under new agreements."
+  },
+  {
+   "text": "Even if ultimately satisfied in full, DuPont may be temporarily required to bear these losses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on temporary financial burden risk already established in the indemnity discussion."
+  },
+  {
+   "text": "Pursuant to the Electronics Tax Matters Agreement, any tax liabilities allocated to DuPont pursuant to the DWDP Tax Matters Agreement will be contractually allocated between DuPont and Qnity generally based on their respective Applicable Percentage.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate restatement of sentence 3's content regarding DWDP Tax Matters Agreement allocation."
+  },
+  {
+   "text": "The timing and outcome of the Aramids Divestiture is subject to risk and uncertainties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding uncertainty of the Aramids Divestiture transaction."
+  },
+  {
+   "text": "The Aramids Divestiture is expected to close around the end of the first quarter 2026, subject to customary closing conditions and receipt of regulatory approvals.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new specific timeline and conditions for the Aramids Divestiture closing."
+  },
+  {
+   "text": "DuPont\u2019s operations require the continued availability of energy and raw materials and rely on third-party suppliers, contract manufacturers and service providers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on suppliers and raw materials, standard boilerplate risk framing."
+  },
+  {
+   "text": "The Company\u2019s supply chains are complex and extend across multiple countries in all regions of the world, and, therefore, are subject to global economic and geopolitical dynamics and risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about supply chain complexity without new specific risk details."
+  },
+  {
+   "text": "Depending on the length and severity of disruption, DuPont's ability to meet demand and its commitments to customers and suppliers; and access the liquidity markets could be seriously impacted and adversely affect the Company's operating profit or cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on potential operational impacts of supply chain disruption already implied by prior sentences."
+  },
+  {
+   "text": "In November 2025, DuPont entered a $500 million ASR transaction under the $2B Authorization.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific $500 million accelerated share repurchase transaction."
+  },
+  {
+   "text": "See Liquidity & Capital Resources for more information regarding the $500 million ASR transaction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference pointer to another section, not a substantive risk statement."
+  },
+  {
+   "text": "Following the Qnity Distribution, the Minimum EBITDA (as defined in the Letter Agreement) in respect of DuPont is reset at $1.4 billion.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific financial covenant detail (Minimum EBITDA reset to $1.4 billion) following the Qnity Distribution."
+  },
+  {
+   "text": "The extent, duration or escalation in specific trade tensions, such as between the U.S. and China, or in the global trade conflict more broadly, could be harmful to global economic growth, increase market uncertainty and volatility and adversely impact the Company\u2019s business in or with China or other countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing trade tension risk with more specificity about US-China dynamics."
+  },
+  {
+   "text": "The resulting impact on general economic conditions and on DuPont\u2019s business are uncertain and depend on various factors, such as negotiations between the U.S. and affected countries, the responses of other countries or regions, exemptions or exclusions that may be granted, availability and cost of alternative sources of supply, and DuPont\u2019s ability to change its supply chains or otherwise execute its sourcing model to offset the effects of the tariffs and other trade barriers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details factors affecting existing trade/tariff risk already referenced."
+  },
+  {
+   "text": "In addition, the Company is subject to export control and economic sanctions laws and regulations that restrict the delivery of some products and services to certain countries (and nationals thereof), to certain end users, and for certain end uses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding export control and sanctions law compliance."
+  },
+  {
+   "text": "These restrictions have and may in the future prohibit the transfer of certain of DuPont\u2019s products, services and technologies, and have and may in the future require us to obtain a license from the U.S. government before delivering the controlled item or service.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the export control risk introduced in the prior sentence with specifics on licensing requirements."
+  },
+  {
+   "text": "Obtaining export licenses may be difficult, costly and time-consuming, and DuPont may fail to receive licenses it applies for on a timely basis or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the difficulty of obtaining export licenses, expanding on the newly introduced export control risk."
+  },
+  {
+   "text": "The Company must also comply with export control and economic sanctions laws and regulations imposed by other countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about compliance with other countries' laws, standard boilerplate addition."
+  },
+  {
+   "text": "DuPont\u2019s export and trade control compliance program may be ineffective or circumvented, exposing us to legal liabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on export compliance program risk already introduced in the export control discussion."
+  },
+  {
+   "text": "Compliance with these laws could significantly limit the Company\u2019s sales in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential sales limitations from the newly introduced export compliance risk."
+  },
+  {
+   "text": "Ultimately, changes in, and responses to, U.S. trade controls have the potential to reduce the competitiveness of DuPont products and cause sales to decline, which could have a material adverse effect on the Company\u2019s business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on competitive and financial impact of trade control risk already introduced."
+  },
+  {
+   "text": "Such risks may be especially exacerbated as they relate to China and Hong Kong, a market that represented approximately 10 percent of the Company\u2019s consolidated net sales for the year ended December 31, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new specific figure (10 percent of sales) quantifying exposure to China/Hong Kong market risk."
+  },
+  {
+   "text": "On April 4, 2025, the Company announced that it was aware of a report that the State Administration for Market Regulation of the People\u2019s Republic of China (\u201cSAMR\u201d) initiated an investigation in connection with the Company\u2019s Tyvek \u00ae business.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific regulatory investigation event (SAMR antitrust probe into Tyvek business)."
+  },
+  {
+   "text": "SAMR has suspended the antitrust investigation process.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides an update/continuation of the newly disclosed SAMR investigation status."
+  },
+  {
+   "text": "DuPont Tyvek \u00ae sales to China in full year 2025 were approximately 1 percent of DuPont\u2019s 2025 consolidated net sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new specific sales exposure figure (1 percent) related to the China investigation risk."
+  },
+  {
+   "text": "23 Table of Contents The costs of complying with evolving regulatory requirements could negatively impact the Company\u2019s business, results of operations, financial condition and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory compliance costs, standard boilerplate risk framing."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act (the \u201cOBBBA\u201d) was enacted into law in the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legislative event (OBBBA enactment) as a potential business risk factor."
+  }
+ ]
+}

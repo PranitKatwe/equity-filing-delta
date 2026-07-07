@@ -1,0 +1,48 @@
+{
+ "ticker": "PG",
+ "sector": "Consumer Staples",
+ "filing_date": "2025-08-04",
+ "accession": "0000080424-25-000076",
+ "prior_accession": "0000080424-24-000083",
+ "model": "claude-sonnet-5",
+ "n_added": 6,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "As we refinance debt or renew derivatives, we are exposed to movement in global interest rates and rate differentials.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing interest rate/derivative exposure risk in a general way without adding new specifics."
+  },
+  {
+   "text": "Tax Act extended or made permanent many of the corporate tax changes arising under the Tax Cuts and Jobs Act passed in 2017 (the 2017 U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about prior tax law context, not a new risk itself."
+  },
+  {
+   "text": "We do not anticipate the 2025 U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of expectation/non-anticipation about 2025 tax act, framing language rather than a substantive risk."
+  },
+  {
+   "text": "The Procter & Gamble Company 9 In December 2021, the Organisation for Economic Co-operation and Development (OECD) issued \u201cPillar Two\u201d model rules which established a global minimum corporate tax rate of 15% for large multinational corporations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new global minimum tax framework (Pillar Two) that could materially affect the company, not previously mentioned."
+  },
+  {
+   "text": "Many countries have implemented or are in the process of implementing Pillar Two legislation into their respective domestic laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the scope of Pillar Two implementation across countries, expanding on the newly introduced risk."
+  },
+  {
+   "text": "As the Pillar Two global minimum tax and other tax laws and related regulations are revised, enacted and implemented, a material impact to our financial condition, results of operations, cash flows or effective tax rate may occur.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies potential material financial impact from Pillar Two and related tax law changes, expanding the newly introduced risk with concrete consequences."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "BIIB",
+ "sector": "Health Care",
+ "filing_date": "2026-02-06",
+ "accession": "0000875045-26-000013",
+ "prior_accession": "0000875045-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 17,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "AI Artificial Intelligence Alcyone Alcyone Therapeutics, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary/definition entry for a term used elsewhere in the filing; no risk content."
+  },
+  {
+   "text": "Denali Denali Therapeutics Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary/definition entry for a term used elsewhere in the filing; no risk content."
+  },
+  {
+   "text": "Department of Health and Human Services HI-Bio Human Immunology Biosciences, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary/definition entries; purely referential, no risk described."
+  },
+  {
+   "text": "SWISSMEDIC Swiss Agency for Therapeutic Products TNF Anti-tumor Necrosis Factor Transition Toll Tax A one-time mandatory deemed repatriation tax on accumulated foreign subsidiaries' previously untaxed foreign earnings U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary/definition entries listing acronyms and terms; no risk content."
+  },
+  {
+   "text": "Department of Veterans Affairs Vanqua Vanqua Bio, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Glossary/definition entry; no risk content."
+  },
+  {
+   "text": "ACQUISITIONS ALCYONE THERAPEUTICS, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header only, no substantive content."
+  },
+  {
+   "text": "Alcyone's lead asset is ThecaFlex DRx, an implantable subcutaneous port and catheter device being investigated for the intrathecal delivery of ASOs, including SPINRAZA, which is designed to provide an alternative to repeat lumbar punctures in chronic intrathecal administration of medicines.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific pipeline asset (ThecaFlex DRx) and its intended use, representing a new development/technology dependency not previously disclosed."
+  },
+  {
+   "text": "Total consideration for this transaction, which was recorded in acquired in-process research and development, upfront and milestone expense in our consolidated statements of income for the year ended December 31, 2025, was approximately $85.0 million, comprising a $50.0 million payment made upon closing and a $35.0 million payment that was considered probable as of December 31, 2025, and made upon FDA approval of a supplemental application in January 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific $85.0 million financial obligation tied to the acquisition, a new material financial exposure."
+  },
+  {
+   "text": "We may pay additional development and regulatory milestone payments to the former shareholders of Alcyone of up to a total of $75.0 million if approval is received for ThecaFlex DRx administration of SPINRAZA or other additional pipeline products.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses up to $75.0 million in contingent milestone payment obligations tied to regulatory approval, a new specific financial risk."
+  },
+  {
+   "text": "We accounted for this transaction as an asset acquisition as the value being acquired primarily relates to a single asset.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting treatment classification detail, not a risk statement."
+  },
+  {
+   "text": "U nder the terms of this acquisition, we will oversee the end-to-end development, manufacturing and commercialization of ThecaFlex DRx .",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the company's operational responsibilities (development, manufacturing, commercialization) building on existing product development risk."
+  },
+  {
+   "text": "COLLABORATIVE AND OTHER RELATIONSHIPS DAYRA THERAPEUTICS, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header only."
+  },
+  {
+   "text": "COLLABORATION In October 2025 we entered into a research collaboration with Dayra to discover and develop oral macrocyclic peptides for priority targets in immunological conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new collaboration agreement introducing dependency on a third party for drug discovery, a new specific business relationship risk."
+  },
+  {
+   "text": "Under the terms of this agreement, both companies will collaborate to identify, validate and optimize oral macrocycle candidates for high-priority immunological targets, with our company advancing the molecules through further development and potential commercialization, including manufacturing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the scope of the collaboration, expanding on the reliance on a third-party partner already disclosed."
+  },
+  {
+   "text": "This agreement also provides us with the option to acquire the development candidates from Dayra, subject to additional payments per program.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds an option-to-acquire term with additional payment obligations, expanding financial commitment risk tied to the collaboration."
+  },
+  {
+   "text": "Dayra will also be eligible to receive potential preclinical and clinical development milestone payments per program.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new contingent milestone payment obligations to a partner, a specific financial risk."
+  },
+  {
+   "text": "COLLABORATION In October 2025 we entered into a license agreement with Vanqua granting us exclusive worldwide rights to further develop, manufacture and commercialize Vanqua's preclinical oral C5aR1 antagonist compound.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new exclusive license agreement for a preclinical compound, introducing new development and regulatory risk."
+  },
+  {
+   "text": "In connection with the closing of this transaction we made an upfront payment of $70.0 million to Vanqua, which was recognized in acquired in-process research and development, upfront and milestone expense within our consolidated statements of income for the year ended December 31, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific $70.0 million upfront payment, a new material financial exposure."
+  },
+  {
+   "text": "We may pay Vanqua potential development, regulatory or commercial, and sales milestone payments of up to $135.0 million, $295.0 million and $560.0 million, respectively, if all the specified milestones set forth in this collaboration are achieved.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses large specific contingent milestone payment amounts (up to $990M combined), a significant new financial risk."
+  },
+  {
+   "text": "In addition, we may pay Vanqua tiered royalties on potential net sales of any licensed product under this collaboration in the mid-single digit to low-double digit percentages.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new royalty payment obligations tied to net sales, a new financial risk."
+  },
+  {
+   "text": "COLLABORATION In May 2025 we entered into a strategic research arrangement with City Therapeutics to develop select novel RNAi therapies.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new strategic collaboration for RNAi therapies, introducing reliance on a new partner's technology."
+  },
+  {
+   "text": "Through this arrangement, City Therapeutics will leverage its next-generation RNAi engineering technologies to develop an RNAi trigger molecule (or molecules) combined with our proprietary drug delivery technology.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on technology dependency within the newly disclosed collaboration, expanding reliance risk."
+  },
+  {
+   "text": "The collaboration will initially focus on a single target that mediates key CNS diseases, utilizing tissue enhanced delivery technologies with the aim of allowing for systemic administration of medicines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies therapeutic focus and delivery technology, adding detail to the already-disclosed collaboration risk."
+  },
+  {
+   "text": "We will be responsible for IND-enabling studies and global clinical development along with any regulatory submissions and all activities related to commercialization, including manufacturing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details company's operational responsibilities under the collaboration, expanding existing development/regulatory risk."
+  },
+  {
+   "text": "In connection with the closing of this transaction we made an upfront payment of $16.0 million to City Therapeutics, which was recognized in acquired in-process research and development, upfront and milestone expense within our consolidated statements of income for the year ended December 31, 2025 , and invested $30.0 million in exchange for a City Therapeutics convertible note, representing a minority equity interest in City Therapeutics, if converted.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific $16.0 million upfront payment and $30.0 million equity investment, introducing new financial and investment risk exposure."
+  },
+  {
+   "text": "This convertible note was recorded as a component of investments and other assets within our consolidated balance sheets as of December 31, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting classification detail for the convertible note, not a risk statement."
+  },
+  {
+   "text": "COLLABORATION In February 2025 we entered into a collaboration and license agreement with Stoke to co-develop and commercialize zorevunersen, an investigational ASO that targets the SCN1A gene for the potential treatment of Dravet syndrome, a rare form of genetic epilepsy associated with refractory seizures and neurodevelopmental impairments.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new co-development and license agreement for a specific drug candidate, introducing new regulatory and commercialization dependency."
+  },
+  {
+   "text": "Zorevunersen dosed its first patient in August 2025, advancing zorevunersen to a global Phase 3 trial.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses advancement to a global Phase 3 trial, introducing specific clinical trial execution risk."
+  },
+  {
+   "text": "Under the terms of this agreement, Stoke will continue to lead global development and retain exclusive development and commercialization rights for zorevunersen in the U.S., Canada and Mexico and we will have exclusive rights to commercialize zorevunersen in the rest of the world.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details territorial rights split with partner, expanding existing dependency/collaboration risk."
+  },
+  {
+   "text": "In connection with the closing of this transaction we made an upfront payment of $165.0 million to Stoke, which was recognized in acquired in-process research and development, upfront and milestone expense within our consolidated statements of income for the year ended December 31, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific $165.0 million upfront payment, a new material financial exposure."
+  },
+  {
+   "text": "We also have an exclusive option to license certain future follow-on ASO products targeting the SCN1A gene in all territories worldwide other than the U.S., Canada and Mexico, in exchange for separate milestone, cost sharing and royalty considerations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds an option to license follow-on products, expanding existing collaboration-related financial risk."
+  },
+  {
+   "text": "ROYALTY PHARMA FUNDING ARRANGEMENT In February 2025 we entered into a funding agreement with Royalty Pharma under which we received $200.0 million in 2025 and will receive up to $50.0 million in 2026 to co-fund our development costs for the litifilimab program.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new funding arrangement with Royalty Pharma involving significant capital inflows and future obligations, introducing new financial dependency risk."
+  },
+  {
+   "text": "As there is a substantive transfer of risk to the financial partner for the amount invested, the development funding will be recognized by us as an obligation to perform contractual services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting characterization of risk transfer, not a new business risk."
+  },
+  {
+   "text": "This funding is being recognized as a reduction to research and development expense within our consolidated statements of income, proportionate to the related expense.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes accounting treatment of the funding, not a substantive risk."
+  },
+  {
+   "text": "For the year ended December 31, 2025 , we recorded a reduction to research and development e xpense of $200.0 million within our consolidated statements of income.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports a specific financial statement figure, an accounting disclosure rather than a risk statement."
+  },
+  {
+   "text": "If the litifilimab clinical trials are successful for the indications based on the applicable clinical trials, upon regulatory approval in the U.S. or certain major markets in the world, Royalty Pharma will be eligible to receive approval-based fixed milestone payments of up to $250.0 million.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses up to $250.0 million in contingent milestone payments upon regulatory approval, a new material financial obligation."
+  },
+  {
+   "text": "The milestone payments due upon approval will be recorded as a component of other (income) expense, net within our consolidated statements of income, when incurred.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting treatment of milestone payments, not a risk statement."
+  },
+  {
+   "text": "If litifilimab receives regulatory approval, Royalty Pharma will be eligible to receive royalties of a mid-single digit percentage of the applicable net sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new royalty payment obligations to a financial partner upon product approval, a new financial risk."
+  },
+  {
+   "text": "Royalties on net sales will be recorded as cost of sales within our consolidated statements of income.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting classification of royalty payments, not a risk statement."
+  },
+  {
+   "text": "ZURZUVAE (zuranolone) \u2022 In September 2025 the EC approved ZURZUVAE in the E.U. for the treatment of PPD in adults following childbirth, offering the first and only treatment indicated for PPD in the E.U. \u2022 In August 2025 the Medicines and Healthcare products Regulatory Agency in the U.K. granted marketing authorization for ZURZUVAE for moderate to severe PPD in the U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports positive regulatory approvals achieved, a factual update rather than a disclosed risk."
+  }
+ ]
+}

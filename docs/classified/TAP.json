@@ -1,0 +1,218 @@
+{
+ "ticker": "TAP",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-18",
+ "accession": "0000024545-26-000006",
+ "prior_accession": "0000024545-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 20
+ },
+ "items": [
+  {
+   "text": "Our products' competitive position is affected by consumer preferences between and among these other categories.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive positioning affected by consumer preferences, no new specific risk."
+  },
+  {
+   "text": "Since 2019, we have made progress on our transformation journey to become a total beverage company, but given the fast-paced and evolving industry, we are focused on transforming even faster.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General narrative about company's ongoing transformation journey, not a specific risk."
+  },
+  {
+   "text": "Under the leadership of our new Chief Executive Officer (\"CEO\"), effective October 1, 2025, we are continuing our journey to become a total beverage company and putting ourselves on a path to sustainable growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announcement of new CEO and continued strategic direction, contextual background rather than a risk statement."
+  },
+  {
+   "text": "We announced an Americas Restructuring Plan aimed at putting the right level of resources closer to our consumers and customers as we pursue a return to growth, both concentrating on all segments of our beer portfolio and expanding into adjacent categories, such as premium mixers, non-alcohol beverages and energy drinks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the Americas Restructuring Plan and category expansion, elaborating on existing competitive/strategic risk context."
+  },
+  {
+   "text": "We aim to champion beer at every turn while building a portfolio that reflects evolving preferences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Aspirational mission statement about portfolio evolution, generic framing."
+  },
+  {
+   "text": "Our investments in technology, capabilities, partnerships and innovation are designed to support profitable growth and diversification, positioning our company for success today and in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about investments supporting growth, no specific risk detail."
+  },
+  {
+   "text": "In addition, we have agreements to brew, package and ship products for The Yuengling Company (\"TYC\") in the U.S. and we have a license agreement to import, produce, market, advertise, promote, sell and distribute Fever-Tree products in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new third-party brewing/licensing agreements (TYC, Fever-Tree) creating new dependency exposure not previously disclosed."
+  },
+  {
+   "text": "Meanwhile, all other components remain in Unallocated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment reporting classification detail, not a risk statement."
+  },
+  {
+   "text": "The U.S. beer business is regulated by federal, state and local governments that regulate the production, marketing, distribution and selling of beer and other alcoholic beverages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about regulatory oversight of beer business, generic framing."
+  },
+  {
+   "text": "On-premise volume as a percentage of total volume was approximately 16% in the U.S. and Canada and approximately 60% in the U.K., the largest region in our EMEA&APAC segment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statistic about on-premise volume percentages, descriptive not risk."
+  },
+  {
+   "text": "In Europe, hops are primarily sourced from Germany, the U.K., Czech Republic and Slovenia.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual sourcing location detail for hops, descriptive information."
+  },
+  {
+   "text": "Barley In the Americas segment, we malt this barley for a majority of our production requirements at our Golden, Colorado facility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual detail about barley malting operations, descriptive."
+  },
+  {
+   "text": "Putting People First We believe that our success is intrinsically linked to the wellbeing of our employees and the communities we serve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic values statement about employee and community wellbeing."
+  },
+  {
+   "text": "Our goal is to build and sustain a skilled and highly engaged workforce that unites around our shared values, improves our workplace and reflects the marketplaces and consumers who enjoy our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General workforce goal statement, no specific risk."
+  },
+  {
+   "text": "Our BRGs fuel our business strategy by enhancing our culture, supporting our talent attraction and professional development strategies and providing unique perspectives to drive consumer-based insights while supporting the communities where we live and work. \u2022 Employee Wellness - Our holistic wellness initiatives include fitness challenges, employee assistance programs and nutrition guidance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive HR program information, not a risk factor."
+  },
+  {
+   "text": "We offer flexible work arrangements and encourage work-life harmony to support overall employee wellbeing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about flexible work arrangements."
+  },
+  {
+   "text": "We also provide a variety of financial wellbeing resources to support employees along their financial journey.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about financial wellbeing resources."
+  },
+  {
+   "text": "Our commitment to Health & Safety is focused on preventing workplace incidents and building a strong behavior-based safety culture across our entire workforce through training, our World Class Supply Chain operating system, our values-based leadership development approach and readily-available resources, including standards, safety moments and systems and tools. \u2022 Talent Development - Our aim is to help employees unlock their full potential so they can thrive in their current job and realize new, potential growth opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive safety program information, no new risk."
+  },
+  {
+   "text": "By the end of 2030, our goal is to reduce Scope 1 and Scope 2 GHG emissions against our 2016 baseline by 65% along with a 40% reduction in Scope 3 emissions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "ESG emissions reduction target, aspirational goal not a risk statement."
+  },
+  {
+   "text": "By at least 2050, we plan to achieve net zero emissions (Scope 1, 2 and 3).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Net zero emissions target statement, aspirational goal."
+  },
+  {
+   "text": "Through the end of 2025, we continued to work on ensuring PET bottles of our Central and Eastern European operations within the EU contained at least 25% of recycled content.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Progress update on recycled content initiative, descriptive."
+  },
+  {
+   "text": "We are on pace to ensuring the PET bottles of our Central and Eastern European operations within the EU contain at least 30% recycled content by the end of 2030. \u2022 Agricultural Practices \u2013 We work closely with our barley farmers in the U.S. and Canada to test and learn the different growing practices across multiple regions and collect a broad range of data including water consumption.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Future recycled content target, aspirational goal."
+  },
+  {
+   "text": "As a result, the markets in which we operate, particularly the more mature markets, like the U.S., Canada and the U.K., may evolve at a disadvantage to our current market position.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing competitive positioning risk by noting mature markets may be disadvantaged."
+  },
+  {
+   "text": "Our restructuring activities may not be successful and the estimated costs associated with such activities may be more than expected, and our restructuring activities may adversely impact employee hiring and retention.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk that restructuring activities may fail or cost more than expected, and harm retention."
+  },
+  {
+   "text": "On October 20, 2025, we announced a corporate restructuring plan, the Americas Restructuring Plan, designed to create a leaner, more agile Americas organization while advancing our ability to reinvest in our business and position us for future growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual detail on the newly announced Americas Restructuring Plan supporting the broader new restructuring risk."
+  },
+  {
+   "text": "The restructuring involved the elimination of salaried positions across our Americas segment during the fourth quarter of 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Factual detail on scope of restructuring (position eliminations), part of the same new risk narrative."
+  },
+  {
+   "text": "The implementation of this plan may be disruptive to our operations, result in higher than anticipated restructuring charges, including severance and related costs, and otherwise adversely affect our results of operations and financial condition, and may not generate the expected savings or other benefits intended by management.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically identifies new risks of disruption, higher charges, and failure to achieve savings from the restructuring plan."
+  },
+  {
+   "text": "Additional risks associated with the continuing impact of the restructuring activities include employee attrition, the ability to hire new employees in the future, diversion of management attention, and adverse effects on employee morale.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks: employee attrition, hiring difficulty, management diversion, morale issues from restructuring."
+  },
+  {
+   "text": "In addition, our ability to complete this plan and achieve the anticipated benefits from it within the expected time frame, or at all, is subject to management\u2019s estimates and assumptions and may vary materially from our expectations, including as a result of factors that are beyond our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates uncertainty around achieving restructuring plan benefits."
+  },
+  {
+   "text": "If we do not realize the expected benefits of this plan on a timely basis, or at all, our business, results of operations and financial condition could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration of restructuring risk regarding failure to realize expected benefits."
+  },
+  {
+   "text": "Furthermore, following completion of this plan, our business may not be more efficient or effective than prior to the implementation of such plan.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaboration that restructuring may not improve efficiency, extending the same risk theme."
+  },
+  {
+   "text": "As we premiumize and expand our portfolio to address emerging consumer needs, our existing brands could be adversely affected if we do not sufficiently allocate resources to support them.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk that premiumization efforts could divert resources and harm existing brands."
+  },
+  {
+   "text": "A material adverse impact on our brands' sales could affect how distributors and consumers prioritize our products and could create broader challenges for our route to market and ability to reach consumers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the brand risk theme by detailing downstream effects on distributors and route to market."
+  },
+  {
+   "text": "Furthermore, new beer or beyond beer premium products may require unique or higher quality ingredients, which, coupled with a highly competitive marketplace, could negatively impact the profitability and financial return of such new products.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk regarding higher-cost ingredients for premium products impacting profitability."
+  },
+  {
+   "text": "In Canada, proposed bills would require alcohol manufacturers to include alcohol health warning labels on alcoholic products that address alcohol-related health risks, including cancer, define a standard alcoholic drink, provide information on the number of standard drinks per package and recommend consumption limits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk from proposed Canadian alcohol health warning label legislation."
+  },
+  {
+   "text": "In addition, our Americas segment is exposed to variability in the market price of a regional premium differential (referred to as \u201cMidwest Premium\u201d in the U.S.) charged by industry participants to deliver aluminum from the smelter to the manufacturing facility.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk related to variability in the Midwest Premium aluminum pricing."
+  },
+  {
+   "text": "This premium differential also fluctuates in relation to several conditions, including based on the supply of and demand for aluminum in a particular region, associated transportation costs and warehouse financing transactions, which limit the amount of physical aluminum available to consumers and increases the price differential as a result.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details factors causing fluctuation in the newly introduced Midwest Premium risk."
+  },
+  {
+   "text": "Due to the opaque pricing of Midwest Premium and the limited liquidity of the market, hedging Midwest Premium can be costly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on hedging difficulty related to the Midwest Premium risk already introduced."
+  },
+  {
+   "text": "During times of greater volatility in the Midwest Premium, the variability in our cost of goods sold can also increase.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration of cost variability risk tied to Midwest Premium volatility."
+  },
+  {
+   "text": "For example, in 2025, the Midwest Premium increased, which resulted in an approximate $35 million unfavorable impact on our results for the year ended December 31, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific quantified impact ($35 million) illustrating the previously introduced Midwest Premium risk."
+  }
+ ]
+}

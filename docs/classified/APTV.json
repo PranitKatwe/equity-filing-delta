@@ -1,0 +1,218 @@
+{
+ "ticker": "APTV",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-06",
+ "accession": "0001521332-26-000009",
+ "prior_accession": "0001521332-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 8,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "For example, as a result of the rapidly evolving trade policies and tariff actions, the uncertainty in the automotive industry has increased, which could adversely affect our business and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk from tariff actions and evolving trade policy uncertainty affecting the automotive industry, a new named driver of risk."
+  },
+  {
+   "text": "These changes to the production environment were primarily driven by the global supply chain disruptions that impacted the automotive industry at times during previous years.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes historical supply chain disruptions as context, not a new forward-looking risk."
+  },
+  {
+   "text": "A prolonged downturn in or uncertainty relating to global or regional economic conditions, including as a result of trade barriers, high inflation, component shortages, labor shortages or any significant reduction in automotive sales by our customers, may result in the delay or cancellation of plans to purchase our products, which could have a material adverse effect on our business, results of operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the existing economic downturn risk by adding specific drivers like trade barriers, component and labor shortages."
+  },
+  {
+   "text": "Deteriorating global economic conditions and/or deteriorating performance of our business may also have a negative impact on our market capitalization, which could also result in impairment charges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how economic downturn could affect market capitalization and lead to impairment, building on existing impairment risk."
+  },
+  {
+   "text": "A determination that an impairment has occurred could have a material adverse effect on our financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that impairment could adversely affect financial results, standard cautionary language."
+  },
+  {
+   "text": "Any significant negative cash flow or instability in the global credit markets and global economic pressure could limit our ability to obtain external financing on favorable terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about credit market instability limiting financing, expanding existing liquidity risk."
+  },
+  {
+   "text": "Our inability to effectively manage the timing, quality and costs of new program launches could adversely affect our financial performance.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing program launch management risk without new specifics."
+  },
+  {
+   "text": "In connection with the award of new business, we obligate ourselves to deliver new products and services that are subject to our customers\u2019 timing, performance and quality standards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about customer standards for new products, standard framing."
+  },
+  {
+   "text": "The launch of production is a complex process, the success of which depends on a wide range of factors, including: the timing and frequency of design changes by our customers relative to the start of production; product maturity and complexity; production readiness of our own, as well as our customers\u2019 and suppliers\u2019 manufacturing facilities; robustness of manufacturing and validation processes; launch volumes; quality and production readiness of tooling and equipment; sufficiency of skilled employees; and initial product quality.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed list of launch complexity factors, expanding on existing launch risk discussion."
+  },
+  {
+   "text": "Given the complexity of new program launches, we may experience difficulties managing product quality, timeliness and associated costs.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the risk of managing quality, timeliness and costs during launches."
+  },
+  {
+   "text": "Failure by us to successfully launch a new product could result in commercial or litigation claims against us which could have a material adverse effect on our profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific consequence (litigation claims) to existing launch failure risk."
+  },
+  {
+   "text": "Additionally, a significant product or program launch failure could adversely affect our reputation, future business prospects with one or more customers, and/or ability to execute our strategy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands launch failure risk to include reputational and strategic execution impacts."
+  },
+  {
+   "text": "In addition, new program launches require a significant ramp up of costs; however, our sales related to these new programs generally are dependent upon the timing and success of our customers\u2019 introduction of new vehicles.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about cost ramp-up tied to customer launch timing."
+  },
+  {
+   "text": "Customer decisions on program launch 20 Table of Contents timing may be impacted by industry conditions, government regulations and consumer preferences, and therefore, the timing of such launches may also be subject to change.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about launch timing being subject to change due to external factors."
+  },
+  {
+   "text": "In addition, customers may manufacture components internally that are currently produced by outside suppliers, such as us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that customers may internally manufacture components, expanding on insourcing risk."
+  },
+  {
+   "text": "If our OEM customers successfully in-source products currently manufactured by us, the discontinuation or loss of business for products which we are a significant supplier could reduce our sales and harm our profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequence of insourcing risk on sales and profitability, building on existing risk."
+  },
+  {
+   "text": "For example, the Company assessed changes in circumstances that occurred during the third quarter of 2025 related to increased discount rates and a reduction in forecasted cash flows, which led the Company to conclude that, when considering the events and factors in totality, it was more likely than not that the estimated fair value of its Wind River reporting unit within the Advanced Safety and User Experience segment would be below its carrying value at September 30, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a concrete, specific event: goodwill impairment assessment for Wind River reporting unit due to increased discount rates and reduced cash flow forecasts."
+  },
+  {
+   "text": "The assessment indicated that the carrying value of this reporting unit exceeded its estimated fair value, and as a result, during the third quarter of 2025, the Company recorded a non-cash, pre-tax goodwill impairment charge of approximately $648 million related to the Wind River reporting unit.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material $648 million non-cash goodwill impairment charge, a new quantified financial risk event."
+  },
+  {
+   "text": "Labor costs have increased significantly in Mexico as a result of this and other labor reform initiatives, necessitating a strategic review of more cost-competitive jurisdictions and a greater acceleration in manufacturing automation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding rising labor costs in Mexico due to labor reform, prompting strategic shifts."
+  },
+  {
+   "text": "For example, beginning on April 2, 2025, the U.S. government announced tariffs of at least 10% across imported goods from all countries, with rates even higher for goods from countries with a high trade deficit with the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tariff policy details (10% tariffs from April 2025) creating a concrete new risk driver."
+  },
+  {
+   "text": "Subsequent to this announcement, a number of other countries announced tariffs on U.S. goods and have negotiated or continue to negotiate trade agreements with the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the new tariff risk to include retaliatory tariffs from other countries, building on the newly introduced tariff risk."
+  },
+  {
+   "text": "In addition, we are continuing to work with our customers and suppliers to mitigate the impact of these incremental tariffs on our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes mitigation efforts for tariff risk, expanding on the newly disclosed tariff issue."
+  },
+  {
+   "text": "For the year ended December 31, 2025, less than 1% of our net sales were generated from manufacturing facilities in Ukraine, and we did not generate any sales in Russia.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new specific disclosure quantifying sales exposure to Ukraine/Russia, a concrete geopolitical risk metric."
+  },
+  {
+   "text": "The number of vehicles recalled globally by OEMs has increased above historical levels.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific data point that global vehicle recalls have increased above historical levels."
+  },
+  {
+   "text": "These recalls can either be initiated by the OEMs or influenced or required by regulatory agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic explanatory statement about how recalls are initiated, not a new risk."
+  },
+  {
+   "text": "Although there are differing rules and regulations across countries governing recalls for safety issues, the overall transition towards global vehicle platforms may also contribute to increased recalls outside of the United States, as automotive components are increasingly standardized across regions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands recall risk to global platform standardization increasing recalls outside the U.S."
+  },
+  {
+   "text": "Given the sensitivity to safety issues in the automotive industry, including increased focus from regulators and consumers, we anticipate the number of automotive recalls may remain above historical levels in the near future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on new recall risk by forecasting continued elevated recall levels."
+  },
+  {
+   "text": "In addition, the National Highway Traffic Safety Administration and other non-U.S. regulators have the authority, under certain circumstances, to require recalls to remedy safety concerns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement about regulatory authority to mandate recalls, not new substantive content."
+  },
+  {
+   "text": "For example, certain of our customers may be affected by the curtailment in the United States of government incentives for electric and hybrid vehicles.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of curtailed government incentives for electric/hybrid vehicles affecting customers."
+  },
+  {
+   "text": "Changes in tax laws, tax rates and adverse positions taken by taxing authorities could impact operating results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of tax law risk affecting operating results."
+  },
+  {
+   "text": "Our tax position could be adversely impacted by changes in the tax laws, tax treaties or tax regulations or the interpretation or enforcement thereof by any tax authority.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing tax risk regarding changes in tax laws or authority interpretations."
+  },
+  {
+   "text": "For example, legislative action may be taken by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic lead-in phrase about possible legislative action, no substantive new risk."
+  },
+  {
+   "text": "Congress which, if ultimately enacted, could override tax treaties upon which we rely or could broaden the circumstances under which we would be considered a U.S. resident, which could materially and adversely affect our effective tax rate and cash tax position.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about Congress potentially overriding tax treaties, expanding existing tax risk."
+  },
+  {
+   "text": "We cannot predict the outcome of any specific legislative proposals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about inability to predict legislative outcomes."
+  },
+  {
+   "text": "If proposals were enacted that had the effect of limiting our ability to take advantage of the tax treaties between Switzerland and other jurisdictions (including the United States), we could be subjected to increased taxation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequence of limiting tax treaty benefits with Switzerland, expanding existing tax risk."
+  },
+  {
+   "text": "In addition, any future amendments to the current income tax treaties between Switzerland and other jurisdictions (including the United States) could subject us to increased taxation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates risk of treaty amendments affecting taxation, similar to prior statement."
+  },
+  {
+   "text": "28 Table of Contents Our tax burden could increase as a result of ongoing or future tax audits.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk of tax burden increasing due to audits."
+  },
+  {
+   "text": "We are subject to periodic tax audits by tax authorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to periodic tax audits."
+  },
+  {
+   "text": "Tax authorities may not agree with our interpretation of applicable tax laws and regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential disagreement with tax authorities."
+  },
+  {
+   "text": "As a result, such tax authorities may assess additional tax, interest and penalties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard consequence statement about additional tax, interest, and penalties."
+  }
+ ]
+}

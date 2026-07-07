@@ -1,0 +1,58 @@
+{
+ "ticker": "KR",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-03-31",
+ "accession": "0001104659-26-037723",
+ "prior_accession": "0001558370-25-004267",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "If we are unable to continue to enhance the key elements of our connection with customers, or if we fail to strengthen customer loyalty, our ability to compete and our financial condition, results of operations or cash flows could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about maintaining customer connection and loyalty affecting competitiveness; no specific new risk detail provided."
+  },
+  {
+   "text": "If customers increasingly delegate purchasing decisions to AI agents that prioritize price, speed or other factors over retailer preference or brand loyalty, we could become disintermediated from the customer relationship.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, novel risk that AI shopping agents could disintermediate the company from direct customer relationships."
+  },
+  {
+   "text": "This could result in reduced visibility into customer behavior, increased margin pressure and a weakened ability to influence purchasing decisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequences (reduced visibility, margin pressure) of the newly introduced AI agent disintermediation risk described in the prior sentence."
+  },
+  {
+   "text": "Our failure to adapt our digital capabilities to address the growth of agentic shopping could have an adverse effect on our business, financial condition, results of operations or cash flows. \u200b In addition, if we do not successfully develop and maintain a relevant digital experience for our customers, our business, financial condition, results of operations or cash flows could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Ties failure to adapt digital capabilities specifically to the emerging trend of agentic shopping, a new and specific risk driver not previously identified."
+  },
+  {
+   "text": "We have closed certain customer fulfillment centers because they have not been meeting operational and financial expectations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a concrete new fact that certain customer fulfillment centers have been closed due to underperformance, indicating a specific operational issue."
+  },
+  {
+   "text": "If we do not develop and maintain our eCommerce plan and profitability improvements of our customer fulfillment centers, our financial condition, results of operations or cash flows could be adversely affected. \u200b PRODUCT SAFETY \u200b Customers count on Kroger to provide them with safe food, drugs and other merchandise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about needing to develop eCommerce plans and profitability improvements, followed by generic transition language into product safety section."
+  },
+  {
+   "text": "Failure to protect this information, or failure to comply with applicable data protection and privacy laws, could result in legal, regulatory, reputational, and financial harm. \u200b Our technology systems have been, and may be in the future, disrupted from circumstances beyond our control, as we regularly defend against and respond to data security related attacks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on data protection/privacy risk by adding detail about ongoing exposure to data security attacks and system disruptions, building on an existing cybersecurity risk theme."
+  },
+  {
+   "text": "In addition, certain states have adopted Extended Producer Responsibility (\u201cEPR\u201d) packaging legislation with which we must comply.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new regulatory compliance risk related to state Extended Producer Responsibility packaging legislation."
+  }
+ ]
+}

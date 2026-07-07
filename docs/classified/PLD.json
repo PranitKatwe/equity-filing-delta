@@ -1,0 +1,133 @@
+{
+ "ticker": "PLD",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-13",
+ "accession": "0001193125-26-051453",
+ "prior_accession": "0000950170-25-021272",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "Our portfolio is concentrated in key commercial hubs, strategically located near end consumers to enable the efficient flow 3 Table of Contents of goods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes portfolio location strategy; a business overview statement rather than a risk."
+  },
+  {
+   "text": "Our services address the evolving needs of modern supply chains, including the growing convergence of physical, digital and energy infrastructure, as logistics facilities increasingly support power and data-intensive operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General market description of infrastructure convergence, not a specific risk."
+  },
+  {
+   "text": "Consistent with this strategy, we are leveraging our development capabilities, energy solutions and strategic locations to deliver digital infrastructure requirements through selective development of data centers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new business activity of developing data centers, a material new venture with new risk exposure."
+  },
+  {
+   "text": "Logistics real estate demand is driven by the essential role supply chains play in the global economy and heightened by several long-term structural factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about demand drivers for logistics real estate."
+  },
+  {
+   "text": "These include: (i) customers repositioning their supply chains to meet rising e-commerce penetration and service expectations; (ii) growth in global consumption; (iii) an increased focus on supply chain efficiency and resiliency; and (iv) the need for modern, well-located facilities to support evolving distribution and fulfillment requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of generic structural demand factors, not a specific new risk."
+  },
+  {
+   "text": "In the near term, while economic uncertainty related to trade tensions and shifting policies has increased, our proprietary metrics and customer dialogue indicate that customers are engaged and moving forward with real estate decisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mention of trade tension-related economic uncertainty to existing macroeconomic risk discussion."
+  },
+  {
+   "text": "We have more than 1 gigawatt of solar generation and storage capacity on our O&M portfolio, including Prologis and third-party owned projects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual operational statistic about solar capacity, not a risk statement."
+  },
+  {
+   "text": "(3) Net promote income (expense) is promote revenue earned from third-party investors during the period, net of related cash and stock compensation expenses, and taxes and foreign currency derivative gains and losses, if applicable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional/explanatory footnote about accounting terminology."
+  },
+  {
+   "text": "In 2025, we had net promote expense primarily from amortization of stock compensation issued to employees related to promote income recognized in prior periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure about 2025 expense composition, not a risk statement."
+  },
+  {
+   "text": "Through our global footprint, we have a diversified lease portfolio and our revenues from in-place leases are contractual with fixed or inflation-linked escalations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive descriptive statement about lease diversification, not a risk."
+  },
+  {
+   "text": "We are also selectively expanding our development activities to include data centers in certain markets, by focusing on procuring power and securing build-to-suit lease transactions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the new data center development risk by detailing expansion into new markets and power procurement."
+  },
+  {
+   "text": "This structure allows us to reduce our exposure to foreign currency fluctuations for non-U.S. investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a risk mitigation structure rather than introducing a new risk."
+  },
+  {
+   "text": "For lease rollovers during 2025, the increases to market on our share of the O&M portfolio resulted in increases of approximately 50% on net effective rents.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual performance metric about lease rent increases, not a risk statement."
+  },
+  {
+   "text": "Our global development program serves as a profitable way to expand our portfolio, build scale, serve customers and create value for investors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General positive statement about the development program's profitability."
+  },
+  {
+   "text": "We create these opportunities by sourcing land either through direct ownership, option strategies or Covered Land Plays (\"CLPs\"), which have intent for future redevelopment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive explanation of land sourcing strategy, not a risk."
+  },
+  {
+   "text": "We primarily develop in our existing markets, focusing on logistics facilities while also pursuing higher-and-better-use conversions, such as data centers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the new data center conversion strategy already introduced elsewhere."
+  },
+  {
+   "text": "A key enabler of these conversions is our energy procurement strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about energy procurement as an enabler, not a specific risk."
+  },
+  {
+   "text": "By leveraging our scale and relationships with utilities and energy providers, we are advancing on our strategy to secure reliable access to power that enhances the value of our land portfolio and enables us to convert select logistics sites into energy-ready data center developments and capture meaningful value creation consistent with our broader redevelopment strategy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the energy procurement strategy enabling data center conversions, extending the previously noted new business risk."
+  },
+  {
+   "text": "We expect our development activities to increase in the coming year.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about increased development activity."
+  },
+  {
+   "text": "We also face competition in our capital deployment business from regional, national and global operators and developers, and in our strategic capital business from investment and asset managers seeking institutional capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competition risk disclosure to explicitly include capital deployment and strategic capital businesses."
+  },
+  {
+   "text": "We met this goal in 2023, two years early, and have continued to train individuals since achieving it.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical fact about meeting a training goal, not risk-related."
+  },
+  {
+   "text": "At December 31, 2025, we surpassed this goal by reaching a total of 96,000 hours.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update on training hours achieved, not a risk statement."
+  },
+  {
+   "text": "Changes in global business operations, such as the increasing adoption of artificial intelligence (\"AI\"), despite human oversight, may also adversely impact our business, financial condition or results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly identifies AI adoption as a new potential adverse factor affecting business operations and results."
+  }
+ ]
+}

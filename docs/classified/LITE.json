@@ -1,0 +1,218 @@
+{
+ "ticker": "LITE",
+ "sector": "Information Technology",
+ "filing_date": "2025-08-19",
+ "accession": "0001628280-25-040830",
+ "prior_accession": "0001628280-24-038024",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 27,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 13
+ },
+ "items": [
+  {
+   "text": "While conditions have continued to stabilize, in some respects, these conditions may recur in the future, and similar losses or delays may harm our results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about conditions possibly recurring without specifying any new risk."
+  },
+  {
+   "text": "Throughout 2025, the U.S. imposed a series of tariffs on imported goods.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific factual development\u2014new U.S. tariffs imposed in 2025\u2014not previously disclosed."
+  },
+  {
+   "text": "While these tariffs are positioned to have the most significant impacts on goods originating from China, nearly all countries worldwide are impacted at levels ranging from 15% to stacked tariffs in excess of 100% in some cases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific quantitative detail (tariff percentages, countries affected) to the existing tariff risk."
+  },
+  {
+   "text": "The tariff landscape continues to evolve daily and, as a result, the full impact of these tariff measures on our business is uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of tariff impact, no new specific risk."
+  },
+  {
+   "text": "In addition to the geographic tariffs, U.S. government investigations are currently underway that may result in new tariffs on certain products, including semiconductors, computers, and other products derivative of critical minerals.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of government investigations potentially leading to new tariffs on semiconductors and related products."
+  },
+  {
+   "text": "Outside of the U.S., retaliatory measures from various countries also have in the past, and may in the future, adversely impact business operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing tariff risk discussion to include retaliatory measures from other countries."
+  },
+  {
+   "text": "Such measures include tariffs on imports from the U.S. into countries such as China, as well as export control measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples of retaliatory tariffs and export controls, expanding prior general statement."
+  },
+  {
+   "text": "For example, China imposed new export control measures affecting exports of rare earth metals and other critical minerals, limiting our ability to access these materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new event\u2014China's export controls on rare earth metals limiting material access."
+  },
+  {
+   "text": "Additional changes to the trade policies of the U.S. and China are impossible to predict, and further changes or escalations in the trade policies of one or both countries may continue to affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unpredictability of trade policy changes."
+  },
+  {
+   "text": "We are also subject to risk from increasing or fluctuating market prices of certain raw materials, which are incorporated into our end products or used by our suppliers to manufacture our end products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding raw material price volatility affecting products and suppliers."
+  },
+  {
+   "text": "Supplies for such raw materials have from time to time become restricted, or general market factors and conditions have in the past affected and may in the future affect pricing of such commodities (including, in particular, due to changes in applicable tariffs, inflation, trade restrictions, or other supply chain constraints).",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on raw material risk with specific causes like tariffs, inflation, and supply chain constraints."
+  },
+  {
+   "text": "For example, China\u2019s recent export controls affected the availability and price of rare earth metals and other critical minerals for us as well as our supply chain and customers, adversely affecting our operations, margins and sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a specific real-world impact example (China's export controls affecting margins and sales)."
+  },
+  {
+   "text": "Ltd. and certain of its affiliates (collectively, \u201cHuawei\u201d) to U.S. technology, software and equipment produced domestically and abroad.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing Huawei export restriction discussion with additional context."
+  },
+  {
+   "text": "All U.S. companies are dependent on the ability to obtain export authorizations to sell to Huawei.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about export authorization dependency, not a new specific risk."
+  },
+  {
+   "text": "Based on internal review conducted in 2023, we determined that our products may be \u201csubject to the EAR\u201d and consequently restricted for export, reexport, and transfer to Huawei.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific internal review finding that products may be restricted under export law\u2014new factual detail."
+  },
+  {
+   "text": "In August 2024, we received an administrative subpoena from BIS requesting the production of records in connection with our business with Huawei.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new legal event\u2014receipt of an administrative subpoena from BIS in 2024."
+  },
+  {
+   "text": "We also received a related subpoena from the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a related new legal event\u2014a subpoena from the DOJ, expanding legal exposure."
+  },
+  {
+   "text": "Department of Justice (\u201cDOJ\u201d) that also requested information regarding our business with Huawei.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on the DOJ subpoena introduced in the prior sentence."
+  },
+  {
+   "text": "We have been and will continue to cooperate with BIS and DOJ in responding to the subpoenas and their ongoing reviews.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about cooperating with regulators, no new substantive risk."
+  },
+  {
+   "text": "Any failure or alleged failure to comply with export controls laws and policies could have negative consequences, including significant legal costs, penalties, denial of export privileges and debarment from participation in U.S. government contracts, any of which could have an adverse effect on our operations, reputation and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic legal boilerplate about consequences of export control violations."
+  },
+  {
+   "text": "In addition to being unable to supply any products to Huawei, we are also currently unable to work with Huawei on future product developments, or confer any benefit to Huawei, and expect this to continue while Huawei remains subject to the export control restrictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing Huawei restriction risk to include inability to collaborate on future products."
+  },
+  {
+   "text": "We are unable to predict the duration and scope of the restrictions enacted in May 2019 and thereafter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of uncertainty about duration/scope of existing restrictions."
+  },
+  {
+   "text": "Other customers, such as FiberHome Technologies Group, are also subject to export control restriction since May 2020, and BIS may continue to expand restrictions to other cutomers or otherwise restrict our ability to ship products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing export control risk to include additional customer (FiberHome) and potential future expansion."
+  },
+  {
+   "text": "Any disruption or delay in the production, delivery or supply of the raw materials, packaging or components used in the manufacture and delivery of our products, including delays and limits associated with heightened, scheduled or threatened tariffs affecting our components or raw materials, or limits on manufacturing availability or capacity, could delay or inhibit our ability to produce finished goods inventory.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands supply chain risk disclosure to explicitly include tariff-related delays."
+  },
+  {
+   "text": "If we do not anticipate technological shifts, market needs and opportunities, we may not be able to compete effectively and our ability to generate revenues will suffer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk language about anticipating technological shifts."
+  },
+  {
+   "text": "If we are unable to anticipate future technological shifts, market needs, requirements or opportunities, or fail to develop and introduce new products, product enhancements, or business strategies to meet those requirements or opportunities in a timely manner or at all, it could cause us to lose customers, substantially decrease or delay market acceptance and sales of our products and services, and significantly harm our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about failing to innovate harming business."
+  },
+  {
+   "text": "Even if we are able to anticipate, develop, and commercially introduce new products, enhancements or business strategies, any such products, enhancements or business strategies may not achieve market acceptance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about market acceptance risk, no new specifics."
+  },
+  {
+   "text": "In addition, the markets in which our customers compete experience rapid changes in technology, customer requirements, competitive products, and industry standards, which may impact the demand for our products or products that we are developing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about rapid market and technology change."
+  },
+  {
+   "text": "For example, markets driven by AI/ML technology are changing rapidly and therefore, the demand for our products 17 that address these markets may change and is difficult to predict.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to AI/ML market volatility affecting product demand."
+  },
+  {
+   "text": "We have consistently relied on a small number of customers for a significant portion of our sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific customer concentration risk not previously described in these terms."
+  },
+  {
+   "text": "Many countries, including European Union member states have adopted or are considering adopting legislation to enact these proposals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing tax policy risk discussion to include EU legislative developments."
+  },
+  {
+   "text": "In addition, the U.S. has withdrawn support for Pillar Two and proposed a side-by-side solution under which U.S.-parented groups, such as ours, would be exempt from certain provisions of Pillar Two, which has been principally agreed to by The Group of Seven (\u201cG7\u201d) countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new development\u2014U.S. withdrawal from Pillar Two and proposed exemption."
+  },
+  {
+   "text": "On July 4, 2025, H.R.1, the One Big Beautiful Bill Act (\u201cOBBBA\u201d), was signed into law which contains a broad range of provisions affecting businesses including permanent extension of certain expiring provisions of the Tax Cuts and Jobs Act, modifications to the international tax framework and the restoration of favorable tax treatment for certain business provisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new law (OBBBA) with material tax implications for the company."
+  },
+  {
+   "text": "Many of the provisions are generally not applicable to us until fiscal year 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifying detail about timing of applicability, not a new risk."
+  },
+  {
+   "text": "We are currently evaluating the future impact of the new legislation on our financial statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing evaluation of legislative impact."
+  },
+  {
+   "text": "Additionally, geopolitical tensions and conflicts, such as the Russia-Ukraine war and ongoing conflicts in the Middle East, may increase our risks of cyber-attacks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk to include geopolitical conflict as a contributing factor."
+  },
+  {
+   "text": "Further, as AI capabilities improve and become increasingly commonplace, we may see cyber-attacks leveraging AI technology.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of AI-enabled cyber-attacks."
+  },
+  {
+   "text": "These attacks could be crafted with an AI tool to directly attack information systems with increased speed and/or efficiency compared to a human threat actor or create more effective phishing emails.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on how AI could be used in cyber-attacks, expanding prior sentence."
+  },
+  {
+   "text": "In addition, a vulnerability could be introduced from the result of us and our third-party service providers incorporating output of an AI tool, such as AI generated source code, that includes a threat.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific vulnerability risk from AI-generated code used by the company or vendors."
+  },
+  {
+   "text": "Competition is also intense and turnover is high in certain jurisdictions where we or our suppliers have manufacturing facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding high employee turnover in manufacturing jurisdictions."
+  }
+ ]
+}

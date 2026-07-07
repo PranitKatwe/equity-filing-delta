@@ -1,0 +1,218 @@
+{
+ "ticker": "UHS",
+ "sector": "Health Care",
+ "filing_date": "2026-02-25",
+ "accession": "0001193125-26-071676",
+ "prior_accession": "0000950170-25-027785",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 17
+ },
+ "items": [
+  {
+   "text": "The Audit Committee provides oversight of management\u2019s approach to mitigating cybersecurity risks and enhancing the organization\u2019s cyber resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about audit committee oversight of cybersecurity governance, standard boilerplate."
+  },
+  {
+   "text": "These leaders collectively possess substantial experience across information security, healthcare compliance, risk management, audit, and technology operations..",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes leadership team experience, generic descriptive language not a risk."
+  },
+  {
+   "text": "The facility opened on January 13, 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual date of facility opening, no risk implication."
+  },
+  {
+   "text": "We have changed the method of our outpatient behavioral health care facility counts during the third quarter of 2025 and substantially all of the increase from prior periods is related to that change in convention.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains a change in counting convention for facilities, an administrative/reporting note, not a risk."
+  },
+  {
+   "text": "Acute care facilities located in the U.S.: \u2022 29 inpatient acute care hospitals; \u2022 35 free-standing emergency departments, and; \u2022 13 outpatient centers & 1 surgical hospital.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Enumerates facility counts, purely descriptive."
+  },
+  {
+   "text": "Such factors include, among other things, the following: \u2022 as discussed below in Sources of Revenue, we receive revenues from various state and county-based programs, including Medicaid in all the states in which we operate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates reliance on state/Medicaid revenue, expanding on an already known revenue-source risk."
+  },
+  {
+   "text": "We are therefore particularly sensitive to potential reductions in Medicaid and other state-based revenue programs as well as regulatory, economic, environmental and competitive changes in those states; \u2022 legislation adopted on July 4, 2025 (the One Big Beautiful Bill Act), attaches work and community service requirements to eligibility for Medicaid benefits that will have the effect of limiting Medicaid enrollment and expenditure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legislation (OBBBA) imposing work requirements that will limit Medicaid enrollment, a concrete new regulatory risk."
+  },
+  {
+   "text": "That legislation also places limits on provider fees used to increase federal Medicaid funding to states.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on the same OBBBA legislation limiting provider fee funding mechanisms."
+  },
+  {
+   "text": "The legislation prohibits states not previously having expanded Medicaid eligibility to 138% of federal poverty level from increasing the rate of current provider fees which fund certain state supplemental payments or increasing the base of the fee to a class or items of services that the fee did not previously cover.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific mechanics of the provider fee limitation under the same legislation already introduced."
+  },
+  {
+   "text": "That current provider fee threshold will remain at 6%.",
+   "category": "expanded_existing_risk",
+   "rationale": "Numeric detail continuing the same legislative provider fee risk."
+  },
+  {
+   "text": "For states having expanded Medicaid eligibility under the legislation, the provider fee threshold will be reduced by 0.5% annually between federal fiscal years 2028 and 2032 with the resulting threshold ultimately becoming 3.5%.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further quantifies the phased reduction schedule of the same legislative risk."
+  },
+  {
+   "text": "Under current law, and based on our current expectations, we estimate that, commencing with the 2028 state fiscal years, our aggregate annual net benefit will be reduced, on an annually increasing and relatively pro rata basis, by approximately $432 million to $480 million by 2032.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a specific quantified financial impact estimate ($432-480 million reduction) from the new legislation, a material new disclosure."
+  },
+  {
+   "text": "The legislation also eliminates certain insurance exchange premium tax credits beyond 2025 and exchange enrollment is expected to be adversely impacted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk: elimination of ACA exchange premium tax credits affecting enrollment and revenue."
+  },
+  {
+   "text": "House of Representatives passed H.R.1834 to extend for three years the enhanced premium tax credits (\"EPTCs\") that expired on December 31, 2025, which is currently undergoing review in the Senate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides legislative status update on the same premium tax credit issue already raised."
+  },
+  {
+   "text": "We cannot predict whether these subsidies will ultimately be adopted in federal fiscal year 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Uncertainty statement tied to the same subsidy extension issue, not a new risk itself."
+  },
+  {
+   "text": "All of these factors, which could have a material unfavorable impact on our results of operations, may be expected to reduce our revenue and likely increase the level of uncompensated care provided by our facilities; \u2022 there are additional legislative changes that are likely to result in major changes in the health care delivery system on a national or state level, including changes in the structure and administration of, and funding for, federal and state agencies and programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about possible legislative changes without new specifics."
+  },
+  {
+   "text": "Braidwood Management decision, opined in favor of ACA HIV preventive care coverage.",
+   "category": "new_substantive_risk",
+   "rationale": "References a specific new legal development (Braidwood Management decision) affecting ACA HIV preventive care coverage, a new regulatory risk factor."
+  },
+  {
+   "text": "Additionally, California is in the process of implementing staffing standards specific to acute psychiatric hospitals and requirements to determine appropriate staffing based on patient acuity and care needs, which are expected to take effect on June 1, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific California staffing regulation risk affecting psychiatric hospital operations."
+  },
+  {
+   "text": "Our $700 million, 1.65% senior notes (\"2026 Notes\") mature on September 1, 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific debt instrument maturity, expanding existing interest rate/liquidity risk discussion."
+  },
+  {
+   "text": "Market interest rates have increased significantly since the 2026 Notes were issued in 2021.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes rising interest rates affecting refinancing of existing notes, expanding the same debt risk."
+  },
+  {
+   "text": "In the past several years political disputes concerning authorization of a federal budget have led to shutdown of substantial portions of the federal government and other federal budget authorization delays have occurred.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General historical statement about government shutdowns, generic context."
+  },
+  {
+   "text": "Federal budget delays and federal government shutdowns are unpredictable and may occur in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unpredictability of budget delays."
+  },
+  {
+   "text": "Behavioral health care services provided in the U.K.: The majority of the revenues generated by our behavioral health care facilities located in the U.K. are recorded pursuant to contracts with the National Health Service and other local governments for services including the following: behavioral health care services, rehabilitation services, residential homes, nursing homes, supported living services and specialist day services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive explanation of UK revenue sources, not a new risk."
+  },
+  {
+   "text": "Commercial health insurer - certain acute care markets: The majority of the revenues generated by our commercial health insurer conducting business in certain acute care markets relate to Medicare Advantage premiums which are determined by the Centers for Medicare and Medicaid Services (\"CMS\") utilizing a risk adjustment model that apportions premiums paid to health plans according to health and geographic factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes existing Medicare Advantage premium risk adjustment mechanism, expanding known reimbursement risk."
+  },
+  {
+   "text": "Risk score adjustments result in retroactive premium adjustments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details retroactive premium adjustments tied to the same risk adjustment mechanism."
+  },
+  {
+   "text": "The revenue adjustments are recognized when the amount is determinable and collectability or liability is reasonably assured.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting recognition policy language, not a risk factor."
+  },
+  {
+   "text": "CMS also uses a star rating system which is derived from comprehensive evaluations of member satisfaction, quality of care and operational efficiency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes CMS star rating methodology, adding detail to existing reimbursement risk."
+  },
+  {
+   "text": "In addition, our insurer also generates revenues from premiums for coverage under membership contracts with employer groups and individuals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes additional revenue sources for insurer, descriptive not risk-related."
+  },
+  {
+   "text": "Non-Marketable Securities: Non-marketable securities that we hold are accounted for under the measurement alternative.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting policy description for non-marketable securities, not a risk statement."
+  },
+  {
+   "text": "Under the measurement alternative, the carrying value is measured at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for identical or similar investments of the same issuer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further accounting methodology detail, not a risk."
+  },
+  {
+   "text": "Adjustments are determined primarily based on a market approach as of the transaction date and are recorded in other (income) expense, net.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting treatment detail, non-risk."
+  },
+  {
+   "text": "Legislation adopted on July 4, 2025 attaches work and community service requirements to eligibility for Medicaid benefits that will have the effect of limiting Medicaid enrollment and expenditures and the legislation also places limits on provider taxes used to increase federal Medicaid funding to states.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same OBBBA legislation risk already described elsewhere in nearly identical terms."
+  },
+  {
+   "text": "In addition, insurance exchange subsidies expired on December 31, 2025 which could unfavorably impact insurance exchange enrollment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates expiration of exchange subsidies affecting enrollment, same as earlier disclosed risk."
+  },
+  {
+   "text": "Extension of these subsidies is currently the subject of Congressional debate as part of the federal budget negotiation, and we cannot predict whether these subsidies will ultimately be adopted in federal fiscal year 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Repeats uncertainty about subsidy extension already covered."
+  },
+  {
+   "text": "As these provisions become effective over the next several years, they may be expected to reduce our revenues and likely increase the level of uncompensated care provided by our facilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about revenue reduction and uncompensated care, repeating prior boilerplate language."
+  },
+  {
+   "text": "Please see Sources of Revenue below for additional disclosure related to Medicaid supplemental payment programs in various states in which we operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not substantive content."
+  },
+  {
+   "text": "Significant tariffs or other restrictions, if imposed on our imported pharmaceutical ingredients, medical devices, medical equipment and their ingredients and components, could escalate costs of medications, medical devices and medical equipment and disrupt our supply chains.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding tariffs on imported pharmaceutical ingredients and medical devices raising costs and disrupting supply chains."
+  },
+  {
+   "text": "While we continue to evaluate the potential impact of the new tariffs on our business, given the uncertainty regarding the scope and duration of any new tariffs, as well as the potential for additional tariffs or trade barriers by the U.S. and the impacted foreign countries, we can provide no assurance that any strategies we implement to mitigate the impact of such tariffs or other trade actions will be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty of tariff mitigation strategies tied to the newly introduced tariff risk."
+  },
+  {
+   "text": "Therefore, changes in laws or policies governing the terms of foreign trade, and in particular, 47 increased trade restrictions, tariffs or taxes on imports from where our products or materials are made (either directly or through our suppliers) could have an impact on our competitive position, business operations and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of tariff/trade policy risk impacting competitive position, building on the new tariff risk."
+  },
+  {
+   "text": "(Cedar Hill Regional Medical Center which opened during the second quarter of 2025).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Parenthetical factual note about a facility opening, no new risk."
+  }
+ ]
+}

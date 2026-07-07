@@ -1,0 +1,123 @@
+{
+ "ticker": "MDLZ",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-04",
+ "accession": "0001628280-26-005345",
+ "prior_accession": "0001103982-25-000030",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not the factors, events or contingencies have occurred in the past and instead reflect our beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about the nature of risk factor disclosures, not a substantive risk."
+  },
+  {
+   "text": "As of January 2026, the U.S. maintains higher tariffs on imported goods (finished products and inputs) from many trading partners as compared to prior years.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific, quantifiable fact about elevated U.S. tariffs as of a specific date, a new external condition."
+  },
+  {
+   "text": "Some of these tariffs have increased our costs for finished products, as well as some ingredients and packaging used to produce and distribute our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the cost impact of tariffs introduced in the prior sentence, expanding rather than introducing a new risk category."
+  },
+  {
+   "text": "Statements by public officials relating to alleged risks associated with particular processing methods, ingredients or additives used in our products, or contaminants allegedly present in the larger food or water supply, may affect consumer preferences and/or demand for some of our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific mechanism (public official statements about ingredients/processing) that could affect demand, not previously described."
+  },
+  {
+   "text": "Regulators in some jurisdictions have also imposed, or may impose, taxes or other restrictions on the manufacture, distribution or sale of food and beverage products based on their nutritional profile or inclusion of particular ingredients, which may reduce overall demand for our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory risk of taxes/restrictions based on nutritional profile, a concrete new regulatory threat."
+  },
+  {
+   "text": "We use information technology and third-party service providers to support our global business processes and activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about use of IT and third-party providers with no specific risk detail."
+  },
+  {
+   "text": "Our information security program includes capabilities designed to detect, evaluate and mitigate cyber risks against our systems or arising from third-party service providers; however, we may not be able to fully prevent or mitigate cyber threats, particularly to externally-hosted technology and business services that are beyond our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about cybersecurity program capabilities and limitations, expanding on existing cyber risk disclosure."
+  },
+  {
+   "text": "Further, we may not always be able to detect cyberattacks immediately, and once detected, their impact and severity may remain unclear until we have completed a full forensic investigation, which may take a significant amount of time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on detection delays within the existing cybersecurity risk discussion."
+  },
+  {
+   "text": "Taken together, these factors may prevent us from promptly providing complete, accurate and timely information about a cybersecurity incident to our customers, stakeholders, regulators and the public.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on consequences of cyber incident detection delays, part of same expanded cyber risk narrative."
+  },
+  {
+   "text": "Changes in weather patterns around the globe, including as a result of climate change, expose us to physical and transition risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces climate change-related physical and transition risks as a new risk category."
+  },
+  {
+   "text": "Furthermore, as the legal and regulatory environment for artificial intelligence and other emerging technologies continues to evolve, our compliance obligations may significantly increase our costs or limit the extent to which we are able to use these technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory compliance risk specific to artificial intelligence and emerging technology costs."
+  },
+  {
+   "text": "Our facilities and products, and those of our suppliers, may also be subject to inspection by national, federal, state and local authorities, potentially revealing product quality or safety issues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about inspections revealing quality/safety issues, expanding on existing product safety/regulatory risk."
+  },
+  {
+   "text": "We cannot be certain that the legal steps we are taking are sufficient to protect our intellectual property rights or that, notwithstanding legal protection, others do not or will not infringe or misappropriate our intellectual property rights.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about uncertainty of IP protection, commonly used boilerplate."
+  },
+  {
+   "text": "Furthermore, the use of artificial intelligence and machine learning in our operations may elevate the risk of third-party infringement claims, especially those related to our alleged unauthorized use of third-party tools, technology or content.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of third-party infringement claims arising from AI/ML use, a novel and concrete concern."
+  },
+  {
+   "text": "On July 4th, 2025, the United States enacted the One Big Beautiful Bill Act (\u201cOBBBA\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new law (OBBBA) that creates new tax-related risk exposure."
+  },
+  {
+   "text": "The legislation implemented many new U.S. domestic and international tax provisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on the new tax law's provisions, expanding on the OBBBA risk just introduced."
+  },
+  {
+   "text": "Treasury provided some clarifying guidance during 2025, it is expected they will continue to issue additional guidance in 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details ongoing regulatory guidance process related to the newly introduced tax law risk."
+  },
+  {
+   "text": "In addition, many U.S. states have not yet updated their laws to take into account the new federal legislation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty from state-level tax law adaptation tied to the new OBBBA risk."
+  },
+  {
+   "text": "It is possible that OBBBA, or interpretations under it, could change and could have an adverse effect on us, and such effect could be material.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential adverse effects of the new tax law, continuing the same risk theme."
+  },
+  {
+   "text": "However, on January 5, 2026, the OECD Inclusive Framework members approved changes to the model rules, including the introduction of a \u201cside by side\u201d rule which would exempt U.S.-parented companies from certain aspects of the global minimum tax regime.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new international tax rule change (OECD side-by-side rule) not previously disclosed."
+  },
+  {
+   "text": "The updated model rules will need to be incorporated into local tax legislation to be effective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds implementation detail about the new OECD rule, expanding on the risk just introduced."
+  }
+ ]
+}

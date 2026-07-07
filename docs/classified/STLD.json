@@ -1,0 +1,73 @@
+{
+ "ticker": "STLD",
+ "sector": "Materials",
+ "filing_date": "2026-02-27",
+ "accession": "0001104659-26-021395",
+ "prior_accession": "0001558370-25-001886",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Industry Risks Related to our Business Our level of production and our sales and earnings are subject to significant fluctuations as a result of the cyclical nature of the metals industries and some of the other industries we serve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cyclicality of the industry, a standard risk framing without new specifics."
+  },
+  {
+   "text": "Additionally, the construction of any new aluminum flat rolled products mills may also lead to increased demand in aluminum scrap possibly resulting in higher aluminum scrap prices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: new aluminum mill construction could increase scrap demand and raise scrap prices, a concrete business impact not previously described."
+  },
+  {
+   "text": "Delayed delivery of our products to customers who require on-time delivery from us may cause customers to purchase alternative products, reschedule their own production, or incur other incremental costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of delivery delays (customers switching or rescheduling), expanding on an existing operational risk."
+  },
+  {
+   "text": "Customers may be able to pursue financial claims against us for their incremental costs, and we may incur costs to correct such problems in addition to any liability resulting from such 29 Table of Contents claims.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of financial/legal claims from customers due to incremental costs, a concrete liability exposure not previously mentioned."
+  },
+  {
+   "text": "Interruptions may also harm our reputation among actual and potential customers, potentially resulting in a loss of business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reputational harm and loss of business, common cautionary language without specific new detail."
+  },
+  {
+   "text": "We may experience difficulties in the launch or production ramp-up of new products which may adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding difficulties in launching or ramping up new products affecting the business."
+  },
+  {
+   "text": "As we ramp up manufacturing processes for newly introduced products, we may experience difficulties, including manufacturing disruptions, delays, or other complications, which could adversely affect our ability to serve our customers, our reputation, our costs of production and, ultimately, our business, financial condition, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the previous new risk by detailing specific manufacturing disruptions and their potential effects on operations and finances."
+  },
+  {
+   "text": "Our aluminum operations depend on a core group of significant customers.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the existing risk of dependence on a core group of aluminum customers without adding new substance."
+  },
+  {
+   "text": "We have a relatively concentrated group of aluminum customers.",
+   "category": "reworded_same_meaning",
+   "rationale": "Similar restatement of customer concentration risk, no new information added."
+  },
+  {
+   "text": "Most of these customers have one or more sizable sales agreements with us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about sales agreements, generic supporting detail without new risk substance."
+  },
+  {
+   "text": "If one or more of these customers experienced a prolonged period of adverse demand, depressed business activity or financial distress, if any of these customers breached or sought relief from its contractual obligations under its sales agreements with us or if any of these customer relationships otherwise ended or materiality deteriorated and such lost business was not successfully replaced, our aluminum operations financial condition, results of operations, and cash flows may be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more detailed scenarios (customer distress, contract breaches, relationship deterioration) expanding on the previously identified customer concentration risk."
+  }
+ ]
+}

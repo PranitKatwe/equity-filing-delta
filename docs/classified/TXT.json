@@ -1,0 +1,163 @@
+{
+ "ticker": "TXT",
+ "sector": "Industrials",
+ "filing_date": "2026-02-11",
+ "accession": "0000217346-26-000006",
+ "prior_accession": "0000217346-25-000017",
+ "model": "claude-sonnet-5",
+ "n_added": 29,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 14
+ },
+ "items": [
+  {
+   "text": "With the exception of a strike at Textron Aviation which occurred on September 21, 2024 and ended on October 20, 2024, we have been successful in negotiating renewals to expiring agreements without any material disruption of operating activities.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses an actual labor strike at Textron Aviation, a concrete disruption event not previously disclosed, indicating real operational risk materialized."
+  },
+  {
+   "text": "Most recently, we successfully renegotiated a collective bargaining agreement with the Bell segment's largest union for a new five-year term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reassuring statement about successful renegotiation of a union contract; adds no new risk, just positive framing."
+  },
+  {
+   "text": "Atherton as President and Chief Executive Officer and as a member of the Board, effective January 4, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a CEO/leadership transition, a material governance change that introduces succession/transition risk not previously disclosed."
+  },
+  {
+   "text": "Atherton has succeeded Scott C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply names the outgoing CEO being succeeded; factual continuation of the leadership change disclosure."
+  },
+  {
+   "text": "Donnelly, who will continue as an executive officer of the Company, serving as Executive Chairman of the Board.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States the outgoing executive's new role; administrative detail, not a new risk."
+  },
+  {
+   "text": "Atherton joined the Company in 2007 and has held positions of increasing responsibility, most recently as the President and CEO of Bell, a position to which she was appointed in April 2023 after joining Bell as Chief Operating Officer in January 2023.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical background on the new CEO; supporting detail, no new risk introduced."
+  },
+  {
+   "text": "From 2017 until January 2023, Ms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further biographical detail continuing the CEO's career history."
+  },
+  {
+   "text": "Atherton led the Company\u2019s Textron Systems segment as its President and CEO.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "More biographical detail about the new CEO's prior role; not a risk statement."
+  },
+  {
+   "text": "Donnelly is the Executive Chairman of the Board.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States the former CEO's new title; administrative fact, no risk content."
+  },
+  {
+   "text": "The MV-75 program at Bell represents a significant and growing portion of our U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies the MV-75 program as a significant and growing portion of government revenue and backlog, a new specific business dependency risk."
+  },
+  {
+   "text": "Government revenues and backlog.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation phrase completing the prior sentence about government revenues and backlog."
+  },
+  {
+   "text": "Bell has significantly increased and will continue to increase its investments in the resources, facilities and personnel applied to the MV-75 program.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on increased investment in a specific program (MV-75), expanding on existing program/contract risk exposure."
+  },
+  {
+   "text": "In particular, a material reduction or delay in funding of the MV-75 program could have a material adverse effect on our cash flows, results of operations and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically warns that reduced or delayed MV-75 funding could materially harm cash flows and financial condition, a concrete new financial risk tied to a named program."
+  },
+  {
+   "text": "9 Table o f Contents The funding of U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary heading/transition text referencing government funding, not substantive content."
+  },
+  {
+   "text": "However, contractors are not automatically entitled to reimbursement for capital investments made for production facilities and other resources necessary to accommodate a large program such as the MV-75 or for the anticipated profit that would have been earned had the contract been completed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details limitations on reimbursement for capital investments in large programs, expanding existing government contracting risk with specific MV-75 context."
+  },
+  {
+   "text": "New laws, regulations or procurement requirements or changes to current ones (including, for example, regulations related to cybersecurity and the recently issued Executive Order relating to underperformance of U.S. defense contracts, investment in defense production capacity and possible limitations on dividends and share buybacks) can significantly increase our costs, thereby reducing our profitability or otherwise adversely impacting our results of operations, financial condition, or shareholder returns.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risks including cybersecurity rules and a new Executive Order affecting defense contractors, dividends, and buybacks."
+  },
+  {
+   "text": "10 Table o f Contents As a U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page/section header fragment, no substantive content."
+  },
+  {
+   "text": "Artificial intelligence technologies have developed rapidly and our business may be adversely affected if we cannot successfully 11 Table o f Contents integrate the technology into our internal business processes and product and service offerings in a timely, cost-effective, compliant and responsible manner.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding AI integration into business processes and offerings, not previously discussed."
+  },
+  {
+   "text": "Global macroeconomic conditions have negatively impacted our business in the past and could in the future negatively impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing macroeconomic risk disclosure by asserting past negative impact and future potential impact."
+  },
+  {
+   "text": "In particular, recent changes to global tariff policies have created significant uncertainty with respect to trade policies, treaties and tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk from recent changes to global tariff policies creating trade uncertainty."
+  },
+  {
+   "text": "Our aircraft products, subassemblies, parts and components manufactured in Canada and Mexico are largely qualified under the rules of the United States-Mexico-Canada Agreement (USMCA) for preferential treatment on tariffs imposed by the U.S. on imports from Canada and Mexico.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific reliance on USMCA preferential tariff treatment for products made in Canada and Mexico, a concrete new trade risk."
+  },
+  {
+   "text": "In 2026, the USMCA is subject to a mandatory six-year joint review, during which the United States, Canada, and Mexico will assess whether the agreement continues to serve their respective economic and strategic interests.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific upcoming 2026 USMCA review process that could alter trade terms, a new concrete regulatory risk."
+  },
+  {
+   "text": "There can be no assurance that this review will conclude with the continuation of the trilateral agreement in its current form or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty of the USMCA review outcome, expanding the newly introduced trade risk."
+  },
+  {
+   "text": "The termination of the agreement or renegotiation of the agreement with terms less favorable to us could result in the loss or reduction of preferential tariff treatment which could increase our costs and create compliance and supply-chain disruption risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies potential consequences (cost increases, compliance/supply-chain disruption) of USMCA termination or renegotiation, expanding the trade risk detail."
+  },
+  {
+   "text": "These developments could adversely impact us, our distributors, customers, subcontractors or suppliers, which could have a 12 Table o f Contents material adverse effect on our financial position, results of operations or cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about potential adverse impacts on stakeholders; standard risk factor closing language."
+  },
+  {
+   "text": "See Management's Discussion and Analysis of Financial Condition and Results of Operations for further discussion of the impact of these tariffs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to MD&A section, administrative in nature."
+  },
+  {
+   "text": "The threats we face are continuous, evolving and vary in degree of severity and sophistication.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about threats being continuous and evolving; standard framing language."
+  },
+  {
+   "text": "Some of these threats are related to the geopolitical environment and have, therefore, grown in number and changed in focus due to recent and evolving conflicts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Links existing security/threat risk to geopolitical conflicts, expanding context of an existing risk rather than introducing a new one."
+  },
+  {
+   "text": "Our collective bargaining agreements expire in accordance with their terms and are subject to renegotiation at that time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about collective bargaining agreement expiration and renegotiation; standard disclosure language."
+  }
+ ]
+}

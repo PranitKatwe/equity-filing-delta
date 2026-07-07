@@ -1,0 +1,58 @@
+{
+ "ticker": "ALLE",
+ "sector": "Industrials",
+ "filing_date": "2026-02-17",
+ "accession": "0001579241-26-000007",
+ "prior_accession": "0001579241-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "In 2025, we have offset inflation due to tariffs with pricing actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a mitigating action already taken regarding tariffs; it's a factual/reassuring statement rather than introducing or expanding a specific risk."
+  },
+  {
+   "text": "As artificial intelligence and machine learning (\u201cAI\u201d) technologies advance and are increasingly adopted by threat actors, the frequency, sophistication and scale of cyberattacks may increase.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor: AI adoption by threat actors increasing cyberattack frequency and sophistication, which was not previously described."
+  },
+  {
+   "text": "AI\u2011enabled methods, including automated vulnerability discovery, automated credential\u2011stuffing, deepfake\u2011assisted social engineering and other generative\u2011AI techniques, could make attacks more successful and harder to detect.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the AI-driven cyberattack risk introduced just prior by naming specific attack techniques, expanding detail rather than introducing a wholly separate risk."
+  },
+  {
+   "text": "In addition, our own or third\u2011party use of AI could introduce new classes of vulnerabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk concept\u2014vulnerabilities arising from the company's own or third-party use of AI\u2014not previously covered."
+  },
+  {
+   "text": "These developments could increase the likelihood and potential impact of disruptions, unauthorized disclosures or other compromises of our IT Systems, products or data, and could increase our remediation and compliance costs, harm our reputation and subject us to regulatory or legal liability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes and expands on the consequences of the AI-related cyber risks described in the preceding sentences, adding potential impacts like remediation costs and legal liability."
+  },
+  {
+   "text": "Cybersecurity incidents could disrupt business operations, result in the loss of critical and confidential information, and adversely impact the Company's reputation, operating results, and financial condition.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about cybersecurity incidents disrupting operations and harming reputation/financials is standard boilerplate language likely restating existing cybersecurity risk disclosure."
+  },
+  {
+   "text": "We are exposed to risks related to compliance with data privacy and governance laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific compliance risk related to data privacy and governance laws not previously mentioned in the shown text."
+  },
+  {
+   "text": "Our operations are subject to regulatory risks related to domestic and international, environmental, health and safety laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific regulatory risk tied to environmental, health, and safety laws, a distinct compliance area not previously covered."
+  }
+ ]
+}

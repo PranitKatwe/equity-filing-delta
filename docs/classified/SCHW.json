@@ -1,0 +1,213 @@
+{
+ "ticker": "SCHW",
+ "sector": "Financials",
+ "filing_date": "2026-02-25",
+ "accession": "0000316709-26-000009",
+ "prior_accession": "0000316709-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 39,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Market-driven changes, such as declines in equity markets, can also reduce client demand for margin lending, which is a significant source of net interest revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on an existing interest-rate/margin lending risk by specifying market-driven declines as a cause."
+  },
+  {
+   "text": "Client cash balances are a significant funding source for the generation of the Company\u2019s revenue.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about a known funding source, framing rather than a new specific risk."
+  },
+  {
+   "text": "Though the Company may benefit from a rising interest rate environment, a rise in interest rates may cause our funding costs to increase.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing interest rate risk discussion regarding funding cost increases."
+  },
+  {
+   "text": "The competitive environment may induce us to raise our interest rates to avoid losing deposits, or we may need to replace deposits with higher-cost funding sources as we experienced in recent years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a competitive dynamic already implied in deposit/funding cost risk, referencing recent experience."
+  },
+  {
+   "text": "In such situations, without offsetting increases in yields on interest-earning assets, the benefit of higher market interest rates to our net interest revenue may be reduced.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains mechanics of existing net interest revenue risk."
+  },
+  {
+   "text": "Financing may not be available on acceptable terms or at all due to market conditions or disruptions in the credit markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic financing availability caveat common to many filings."
+  },
+  {
+   "text": "Our investment management operations may subject us to fiduciary or other legal liability for client losses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific fiduciary/legal liability risk tied to investment management operations."
+  },
+  {
+   "text": "We rely on outsourced service providers and financial intermediaries to perform key functions, and failure of these entities to perform as expected could result in financial or reputational harm to us or financial harm to our clients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates reliance on third parties, a common risk theme, with added specificity."
+  },
+  {
+   "text": "In addition, if custodians holding Schwab\u2019s or our clients\u2019 collateral were to fail to return such collateral when required due to insolvency, operational deficiencies, legal proceedings, or other events, we could incur financial loss.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about custodians failing to return collateral due to insolvency or other events."
+  },
+  {
+   "text": "We may suffer financial loss from fraud and financial crime.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement introducing the fraud risk topic without specific detail."
+  },
+  {
+   "text": "The risk of fraud for financial institutions has significantly increased in recent years, in part because of the proliferation of new technologies and the increased sophistication and activities of organized crime and hackers, and other parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on fraud risk by noting increased sophistication and technology-driven threats."
+  },
+  {
+   "text": "Through our clients\u2019 accounts, fraudsters may seek to engage in unauthorized securities transactions or money movement involving, for example, wire transfers, automated clearinghouse (ACH) transactions, debit cards, and checks, as well as fraudulent or unauthorized new account openings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples of fraud methods, expanding existing fraud risk disclosure."
+  },
+  {
+   "text": "Any of these strategies can compromise credentials or be used to facilitate fraud.",
+   "category": "reworded_same_meaning",
+   "rationale": "Summarizes prior sentence's point about credential compromise without adding new substance."
+  },
+  {
+   "text": "Increasing sophistication in artificial intelligence and broad public availability of such technologies, including to organizations and individuals seeking to commit fraud, has resulted in increased risk of external fraud by enhanced or novel techniques, including those involving impersonation to gain access to client accounts or convince clients to initiate fraudulent transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI-enabled fraud as a new, specific emerging threat."
+  },
+  {
+   "text": "We also face risks arising from clients who intentionally engage in fraudulent or deceptive conduct.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new category of risk: fraud committed intentionally by clients themselves."
+  },
+  {
+   "text": "In some instances, clients may knowingly authorize or initiate transactions under false pretenses, misuse payment channels, submit fraudulent checks or ACH items, or provide misleading information to facilitate fraudulent transfers or trading activity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific examples elaborating on the newly introduced client fraud risk."
+  },
+  {
+   "text": "Schwab also faces risk of fraud by employees who misuse authorized access to critical information or systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category: employee/insider fraud using authorized access."
+  },
+  {
+   "text": "Such insider misconduct may involve misappropriation of Company or client assets, misuse or theft of Company or client information, insider trading, operational sabotage, circumvention of internal controls, or other actions that could harm the Company or our clients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific forms of insider misconduct, expanding on the newly introduced insider fraud risk."
+  },
+  {
+   "text": "We continue to take steps to implement new controls, strengthen capabilities in how we authenticate our clients, and enhance monitoring protocols to help prevent and detect fraud and ultimately protect our clients, but the ways that fraudulent activity is attempted are continuously evolving.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes mitigation efforts, standard risk factor boilerplate."
+  },
+  {
+   "text": "Legislation or changes in rules and regulations could negatively affect our business and financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about legislative/regulatory risk without specifics."
+  },
+  {
+   "text": "The Company anticipates it will begin providing increased access for clients to trade in digital assets including select cryptocurrencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new business initiative (crypto trading access) creating new risk exposure."
+  },
+  {
+   "text": "While some legislative and regulatory details have emerged, laws and regulations related to transactions in these asset types are still pending further development, which could negatively impact our ability to launch these products or services or limit the profitability of transacting with these assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on regulatory uncertainty risk tied to the newly introduced crypto offering."
+  },
+  {
+   "text": "We are also the subject of inquiries, investigations, and proceedings by regulatory and other governmental agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory inquiries, standard disclosure."
+  },
+  {
+   "text": "We intend to offer clients direct access to select digital assets, which exposes us to new and uncertain financial, operational, legal, and regulatory risks that could adversely affect our business and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly introduces new financial, operational, legal, and regulatory risks from offering digital assets."
+  },
+  {
+   "text": "In 2026, the Company anticipates it will begin offering expanded client access to trading in digital assets including spot trading in select cryptocurrencies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated timeline and expanded scope of the previously introduced crypto offering plan."
+  },
+  {
+   "text": "Expansion of digital asset client offerings presents significant new risks to the Company, including risks related to digital asset custody, trading, settlement, and liquidity, and increased risk related to fraud and other illicit activity.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly identifies new significant risks tied to digital asset custody, trading, settlement, liquidity, and fraud."
+  },
+  {
+   "text": "Client demand for digital assets is uncertain and may fluctuate significantly due to market volatility, regulatory developments, or changes in investor sentiment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on demand uncertainty related to the newly disclosed digital asset business."
+  },
+  {
+   "text": "The regulatory landscape for cryptocurrencies is evolving and uncertain, and changes in laws, regulations, or regulatory interpretations could prohibit or limit our ability to offer these products, increase compliance costs, or expose us to increased regulatory scrutiny.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on regulatory risk specific to cryptocurrencies already introduced."
+  },
+  {
+   "text": "Digital assets function as bearer instruments controlled with private keys, and transactions in digital assets are generally irreversible.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific technical risk regarding irreversible bearer-instrument nature of digital assets."
+  },
+  {
+   "text": "Due to the unique nature of digital assets, the loss, theft, compromise, or destruction of private keys could result in - 18 - THE CHARLES SCHWAB CORPORATION the permanent loss of digital assets with no practical means of recovery.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of permanent asset loss from private key compromise."
+  },
+  {
+   "text": "Because blockchain technology is relatively new, it is difficult to predict how it might be vulnerable to cybersecurity and fraud risks that could affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing cybersecurity risk discussion to blockchain technology specifically."
+  },
+  {
+   "text": "We expect to engage with third-party service providers to facilitate certain activities related to digital assets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing third-party reliance risk to new digital asset context."
+  },
+  {
+   "text": "These relationships present additional risks, including operational, reputational, and compliance risks that could adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on risks from third-party relationships in the digital asset context."
+  },
+  {
+   "text": "Internal and third-party systems needed to effect client activity in digital assets are vulnerable to operational failures, cyberattacks, and fraud, and we may be held responsible for deficiencies in the controls or regulatory compliance of third-party service providers, even where we do not have direct oversight of their operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific operational/cyber risk tied to systems supporting digital asset activity, including third-party oversight gaps."
+  },
+  {
+   "text": "Failure or breach of our or third-party service providers\u2019 systems, cybersecurity controls, or operational processes could result in loss of client digital assets, which may not be recoverable in full or at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of unrecoverable client digital asset loss from system failure or breach."
+  },
+  {
+   "text": "Many crypto industry participants are relatively early-stage companies with limited history.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding reliability of early-stage crypto industry participants."
+  },
+  {
+   "text": "There is no guarantee they will perform as reliably or efficiently as anticipated.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the reliability concern just introduced regarding crypto industry participants."
+  },
+  {
+   "text": "Regulatory change could also affect the ability of third-party service providers to continue to operate or provide services for Schwab clients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends regulatory risk to impact on third-party service providers supporting digital asset services."
+  },
+  {
+   "text": "Such events could result in material financial losses, legal or regulatory claims, and reputational harm, even if we are not at fault.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about potential financial, legal, and reputational harm, standard boilerplate."
+  }
+ ]
+}

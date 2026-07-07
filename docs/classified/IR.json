@@ -1,0 +1,138 @@
+{
+ "ticker": "IR",
+ "sector": "Industrials",
+ "filing_date": "2026-02-17",
+ "accession": "0001628280-26-008617",
+ "prior_accession": "0001628280-25-006391",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "(\u201cSSI\u201d) for cash consideration of $97.8 million.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides new factual detail (cash consideration) about a specific acquisition, adding concrete specifics to the existing acquisition-related risk discussion rather than introducing a new risk category."
+  },
+  {
+   "text": "The business is a manufacturer of wastewater treatment plant equipment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual description of the acquired business, not itself a risk statement."
+  },
+  {
+   "text": "The acquisition will enable Ingersoll Rand to combine several technologies like low pressure compressors with SSI\u2019s aeration offerings to provide a comprehensive, end-to-end solution. \u2022 In July 2025, the Company completed the acquisition of Termomeccanica Industrial Compressors S.p.A.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes rationale for a new specific acquisition (TMIC), adding concrete detail to the existing M&A/integration risk narrative."
+  },
+  {
+   "text": "(\u201cTMIC\u201d) and its subsidiary Adicomp S.p.A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Naming a subsidiary involved in the acquisition; purely factual identification, not a risk statement."
+  },
+  {
+   "text": "(\u201cAdicomp\u201d) (collectively \u201cTMIC/Adicomp\u201d) for cash consideration of $193.2 million.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific financial detail (cash consideration) to the existing acquisition risk disclosure."
+  },
+  {
+   "text": "TMIC is an international leader in the design and production of air and gas compressors and its subsidiary Adicomp provides engineered-to-order solutions in the renewable natural gas industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes the acquired company's business; factual context rather than a risk."
+  },
+  {
+   "text": "Changes in U.S. tariff policy or reciprocal tariffs by foreign governments, remain uncertain and could impact our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk regarding uncertain U.S. tariff policy and reciprocal tariffs affecting financial results, not previously disclosed."
+  },
+  {
+   "text": "The current U.S. presidential administration has implemented tariffs on imports from various countries, including tariffs on steel and aluminum products under Section 232 of the Trade Expansion Act of 1962, which also apply to certain derivative steel products used in our operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (Section 232 steel/aluminum tariffs) to the newly introduced tariff risk, expanding its scope."
+  },
+  {
+   "text": "Some affected countries have announced or imposed reciprocal tariffs on U.S. goods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the tariff risk by noting reciprocal tariffs from other countries, building on the same risk theme."
+  },
+  {
+   "text": "These measures have contributed to higher costs for certain materials and components.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete consequence (higher costs) of the tariff risk already introduced, expanding its substance."
+  },
+  {
+   "text": "The extent and duration of these tariffs, and their effect on economic conditions and our business, remain uncertain and depend on factors such as legal challenges, negotiations between the U.S. and other countries, potential relief measures, availability and cost of alternative supply sources, and demand for our products in affected markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the uncertainty and dependent factors of the tariff risk, adding nuance to the existing risk rather than a new one."
+  },
+  {
+   "text": "Tariffs may increase costs or reduce demand for our products, which could 12 Table of Content affect our financial results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the general tariff risk (increased costs/reduced demand) already covered, without adding new substantive information."
+  },
+  {
+   "text": "In addition, competitors may experience different levels of exposure or have greater ability to mitigate these impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a competitive nuance to the tariff risk, noting differing impacts on competitors, which expands the existing risk discussion."
+  },
+  {
+   "text": "In addition, the successful development and deployment of AI in our business depends on our ability to timely and effectively upskill our existing workforce and attract and retain personnel with AI\u2011related skills and experience.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about the company's ability to upskill its workforce for AI, a distinct operational challenge not previously mentioned."
+  },
+  {
+   "text": "Competition for AI\u2011native talent is intense, and if we are unable to develop or recruit the necessary capabilities, we may be unable to fully realize potential efficiency gains, innovation opportunities or competitive advantages from AI, or to respond effectively to AI\u2011enabled competitive, technological or regulatory developments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced AI workforce risk by adding detail about talent competition, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act (\u201cOBBBA\u201d) was signed into law by the president of the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports a new law (OBBBA) that introduces a new external factor affecting the business's tax position, a substantive new risk driver."
+  },
+  {
+   "text": "It includes a broad range of tax reform provisions affecting businesses, including extending and modifying certain key provisions (both U.S. and non-U.S.) of the Tax Cuts & Jobs Act of 2017, and expanding certain Inflation Reduction Act incentives while accelerating the phase-out of others.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the specific tax provisions of the newly identified OBBBA law, expanding on the risk introduced in the prior sentence."
+  },
+  {
+   "text": "The impact of the OBBBA is currently reflected on our consolidated financial statements as of December 31, 2025 and we are continuing to assess the impact for future years.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes the current financial impact and ongoing assessment of the OBBBA, adding specificity to the previously introduced risk."
+  },
+  {
+   "text": "We will continue to closely monitor developments in Pillar 2 tax legislation, as the final rules could materially affect our effective tax rate and cash tax obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new international tax framework (Pillar 2) risk that could materially affect the company's tax rate, not previously disclosed."
+  },
+  {
+   "text": "We are also subject to the examination of our tax returns and other tax matters by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to tax examinations, standard boilerplate language common to tax risk factors."
+  },
+  {
+   "text": "Internal Revenue Service and other tax authorities and governmental bodies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Names the IRS and other tax authorities as generic boilerplate continuation of the previous sentence."
+  },
+  {
+   "text": "We regularly assess the likelihood of an adverse outcome resulting from these examinations to determine the adequacy of its provision for taxes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard language about assessing likelihood of adverse tax outcomes, typical boilerplate risk disclosure."
+  },
+  {
+   "text": "The outcome of such examinations is inherently uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about inherent uncertainty of tax examination outcomes, common boilerplate phrasing."
+  },
+  {
+   "text": "If our effective tax rates were to increase, or if the ultimate determination of our taxes owed is for an amount in excess of amounts 14 Table of Content previously accrued, our business, results of operations, financial condition and stock price could be materially adversely affected.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the standard risk that increased tax rates or liabilities could adversely affect the business, a typical existing tax risk framed in usual terms."
+  }
+ ]
+}

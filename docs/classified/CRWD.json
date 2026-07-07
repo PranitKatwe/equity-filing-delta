@@ -1,0 +1,188 @@
+{
+ "ticker": "CRWD",
+ "sector": "Information Technology",
+ "filing_date": "2026-03-05",
+ "accession": "0001535527-26-000010",
+ "prior_accession": "0001535527-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 34,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 17,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "We have also experienced, and may continue to experience, longer sales cycles in connection with the July 19 Incident.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific new consequence (longer sales cycles) tied to the already-disclosed July 19 Incident."
+  },
+  {
+   "text": "In addition, the Strategic Plan (as defined in the notes to our consolidated financial statements) could negatively affect our ability to recruit and retain skilled personnel .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that the Strategic Plan could hurt recruitment/retention of skilled personnel."
+  },
+  {
+   "text": "Such risks may become more pronounced as we continue to scale our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about risks becoming more pronounced with scale, no specific detail."
+  },
+  {
+   "text": "We may also experience component shortages and pricing increases from certain of our suppliers as a result of increased demand for such components.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a concrete new supply chain risk of component shortages and price increases from demand."
+  },
+  {
+   "text": "This may lead to additional compliance costs and could increase overall risk exposure as businesses may no longer be able to take a unified approach across the European Economic Area (\u201cEEA\u201d) and the U.K., and such businesses may need to amend their processes and procedures to align with the new framework.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new specific regulatory divergence risk between EEA and UK requiring process changes."
+  },
+  {
+   "text": "Implementing mechanisms to endeavor to ensure compliance with the GDPR and the U.K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic fragment about compliance mechanisms, no new specific risk detail."
+  },
+  {
+   "text": "In particular, the EU\u2019s Digital Services Act and the EU\u2019s Data Act both entered into force in 2024 and impose certain content moderation, notice and transparency obligations on digital platforms and intermediaries and certain data and cloud service interoperability and switching obligations to enable users to switch between cloud service providers (as well as certain requirements concerning cross-border international transfers of non-personal data outside the EEA), respectively.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new EU laws (Digital Services Act, Data Act) imposing new compliance obligations."
+  },
+  {
+   "text": "Additionally, the EU\u2019s Network and Information Security Directive II, adopted in 2023, regulates resilience and incident response capabilities of entities operating in a number of sectors, including the digital infrastructure sector and provides for EU member states to have issued implementing legislation by October 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new EU directive (NIS II) imposing new regulatory obligations."
+  },
+  {
+   "text": "Further, the EU\u2019s Digital Operational Resiliency Act became effective in January 2025 and imposes certain requirements on entities in the financial sector and their third-party cloud service providers related to managing and mitigating information and communication technology risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new EU regulation (DORA) imposing new compliance requirements on financial sector cloud services."
+  },
+  {
+   "text": "Our efforts to comply with applicable laws and regulations may increase operating costs, which could adversely affect our business and operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that compliance efforts may increase costs, without new specifics."
+  },
+  {
+   "text": "Our continued incorporation of AI, including generative AI, into our products and operations requires us to expend significant resources.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding resource expenditure required for AI incorporation into products."
+  },
+  {
+   "text": "If such investments do not deliver anticipated benefits or are not otherwise successful, our business and results of operations may be harmed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences if AI investments fail, extending the newly introduced AI risk."
+  },
+  {
+   "text": "For example, in the EU, the first set of provisions under the EU\u2019s AI Act became effective in February 2025, with additional provisions becoming effective on later dates.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new regulatory development (EU AI Act) creating compliance risk."
+  },
+  {
+   "text": "Other states, including Texas, Colorado and Utah, have also enacted AI-related laws, and several more have proposed enacting such laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new state-level AI laws expanding regulatory risk landscape."
+  },
+  {
+   "text": "Our share repurchase program may not result in benefits to stockholder value.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk related to a newly announced share repurchase program not benefiting stockholders."
+  },
+  {
+   "text": "In June 2025, we announced that our board of directors authorized a program under which we are authorized to repurchase up to $1.0 billion of our outstanding shares of common stock (the \u201cShare Repurchase Program\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new $1.0 billion share repurchase program, a new corporate action creating new risk factors."
+  },
+  {
+   "text": "Such repurchases may be made from time to time using a variety of methods, including open market purchases, privately negotiated transactions and trading plans intended to qualify under Rule 10b5-1 under the Exchange Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of repurchase methods, standard boilerplate language."
+  },
+  {
+   "text": "The Share Repurchase Program does not have a fixed expiration date and may be suspended or discontinued at any time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about program flexibility/termination."
+  },
+  {
+   "text": "We are not obligated to use the Share Repurchase Program to acquire any specific amount of common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate disclaimer about no obligation to repurchase."
+  },
+  {
+   "text": "We intend to use the Share Repurchase Program opportunistically depending on market prices and other factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about opportunistic use of repurchase program."
+  },
+  {
+   "text": "The timing and amount of any repurchases will be subject to liquidity, market and economic conditions, any applicable restrictions under future credit facilities, compliance with applicable legal requirements, and other relevant factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors affecting timing of repurchases."
+  },
+  {
+   "text": "Repurchases of shares of our common stock under the Share Repurchase Program will reduce the amount of cash we have available to fund working capital, repay debt, make capital expenditures and strategic acquisitions or pursue business opportunities, and for other general corporate purposes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on financial impact of the new repurchase program reducing available cash for other uses."
+  },
+  {
+   "text": "The Share Repurchase Program may not enhance long-term stockholder value because the market price of our common stock may decline below the levels at which we repurchased shares and short-term stock price fluctuations could reduce the effectiveness of this program.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the risk that the repurchase program may not enhance stockholder value."
+  },
+  {
+   "text": "Such a default could result in material adverse consequences that negatively impact our business, the market price for our common stock, and our ability to obtain financing in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of a debt default, extending an existing financial risk."
+  },
+  {
+   "text": "On July 4, 2025, tax reform legislation included in the One Big Beautiful Bill Act (the \u201cOBBBA\u201d) was enacted in the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports enactment of new tax legislation (OBBBA) creating new tax-related risk."
+  },
+  {
+   "text": "The tax effects of the OBBBA have been accounted for in the second quarter of the fiscal year 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about accounting treatment, not a risk description."
+  },
+  {
+   "text": "The OBBBA includes significant corporate tax reforms, including (i) the permanent reinstatement of deducting domestic research and development expenditures as incurred beginning in fiscal 2026 (under prior law such expenditures were capitalized and amortized over five years); (ii) the option to claim 100% accelerated depreciation deductions on qualified property; and (iii) international tax provisions modifying global intangible low-taxed income (\u201cGILTI\u201d), foreign-derived intangible income (\u201cFDII\u201d), and base erosion and anti-abuse tax (\u201cBEAT\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new tax provisions from OBBBA affecting deductions and international tax rules, a new substantive risk."
+  },
+  {
+   "text": "The European Union and other countries (including those in which we operate) have enacted or committed to enact Pillar Two into their domestic laws, which may adversely impact our provision for income taxes, existing tax incentives, net income and cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk from Pillar Two tax rules adopted by EU and other countries."
+  },
+  {
+   "text": "On January 20, 2025, the Trump Administration issued an executive order declaring the Inclusive Framework has no force or effect in the U.S. absent congressional action, and directing the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new political/regulatory risk from a U.S. executive order affecting international tax framework."
+  },
+  {
+   "text": "Department of Treasury to: (i) investigate whether any non-U.S. countries are not in compliance with any U.S. tax treaty or have implemented or are likely to implement tax rules that are extraterritorial or disproportionately affect U.S. companies, which may include actions or taxes imposed under Pillar One or Pillar Two, and (ii) develop options for \u201cprotective measures\u201d in response to any such noncompliance or tax rules.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new government actions investigating and potentially imposing protective tax measures."
+  },
+  {
+   "text": "On June 28, 2025, the United States and the rest of G7 countries announced a Side by Side (\u201cSbS\u201d) agreement that would, in principle, exclude U.S. parented groups from certain taxes under Pillar Two and address certain risks of base erosion and profit shifting, with the OECD publishing Administrative Guidance with respect to this on January 5, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new international tax agreement (SbS) with specific implications for Pillar Two application."
+  },
+  {
+   "text": "Such expectations are evolving and may be contradictory.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving expectations, no specific risk."
+  },
+  {
+   "text": "Additionally, compliance with current or future legal requirements or stakeholder expectations regarding corporate responsibility and/or sustainability matters, including disclosure and reporting obligations, may result in increased costs and legal and operational risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on compliance costs related to sustainability/ESG expectations, extending existing regulatory risk theme."
+  },
+  {
+   "text": "For example, the proliferation of regulations and guidance addressing corporate responsibility topics at various government levels has required and may continue to require significant effort and resources, and our efforts may not ensure compliance with evolving standards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details proliferation of corporate responsibility regulations, expanding on existing compliance risk."
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "ticker": "ROK",
+ "sector": "Industrials",
+ "filing_date": "2025-11-12",
+ "accession": "0001024478-25-000116",
+ "prior_accession": "0001024478-24-000107",
+ "model": "claude-sonnet-5",
+ "n_added": 27,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "See Item 7A for additional information about foreign currency risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another item, no new risk content."
+  },
+  {
+   "text": "We conduct significant operations outside the United States and hold derivative instruments that we designate as hedges of certain net investment positions in our foreign subsidiaries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific detail about foreign currency hedging instruments used for net investment positions, a new disclosure."
+  },
+  {
+   "text": "While these instruments are intended to mitigate the impact of exchange rate volatility, our hedging strategies may not be effective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on effectiveness concerns of the hedging strategy just introduced."
+  },
+  {
+   "text": "Foreign currency exchange rate fluctuations could result in gains or losses on the derivative instruments that are not fully offset by corresponding changes in the value of our foreign net investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on how currency fluctuations could cause unoffset gains/losses, building on the hedging risk."
+  },
+  {
+   "text": "In addition, the use of hedge accounting is subject to complex accounting requirements, and the inability to qualify for or maintain hedge accounting treatment could result in increased volatility in our reported earnings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding hedge accounting treatment and earnings volatility."
+  },
+  {
+   "text": "Furthermore, counterparties to our derivative contracts could default on their obligations, exposing us to potential losses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces counterparty default risk on derivative contracts, a new specific exposure."
+  },
+  {
+   "text": "Any of these events could adversely affect our financial condition, results of operations, and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement about adverse effects, no new specifics."
+  },
+  {
+   "text": "4 Table of Contents Our profitability and market competitiveness may be adversely impacted by changes in trade policies, including tariffs or other factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Header-style generic statement introducing the topic without specific new risk detail."
+  },
+  {
+   "text": "Changes in trade policies, including the imposition of new tariffs or increases in existing tariffs between the United States, Mexico, Canada, China or other countries, or reactionary measures including retaliatory tariffs, legal challenges, or currency manipulation, could adversely affect our cost structure and profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific tariff and trade policy risks affecting cost structure and profitability."
+  },
+  {
+   "text": "If tariffs on imported materials, components, or finished goods increase, our manufacturing and supply chain costs may rise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on how tariffs could raise manufacturing costs, building on the tariff risk."
+  },
+  {
+   "text": "Furthermore, changes to trade policies, retaliatory measures, or prolonged uncertainty in trade relationships could result in supply chain disruptions, delayed shipments, or increased operational complexity, adversely affecting our business and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on supply chain disruption effects from trade policy changes."
+  },
+  {
+   "text": "While we take steps to mitigate or avoid these increased costs and disruptions, our ability to do so may be limited by operational and supply chain constraints, especially in the short term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about limited ability to mitigate the previously described cost/disruption risk."
+  },
+  {
+   "text": "In addition, our ability to recover cost increases and maintain profitability levels through price adjustments may be limited by competitive pressures, customer acceptance, and contractual limitations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on limits to price recovery, continuing the tariff/cost risk discussion."
+  },
+  {
+   "text": "If we fail to achieve our objectives we may lose business or experience price erosion and correspondingly lower sales and margins.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential business loss, a standard risk consequence phrase."
+  },
+  {
+   "text": "Artificial Intelligence As we broaden the application of AI across product development, manufacturing, customer operations, and enterprise operations, we face evolving risks related to safety, data governance, regulatory compliance, intellectual property, and ethical use.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category around AI use across operations, including safety and compliance concerns."
+  },
+  {
+   "text": "Integrating AI into our offerings and internal processes may lead to unintended consequences, including biased outputs, inaccurate decision-making, and increased vulnerability to adversarial attacks, that could significantly impact our business, reputation, and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on specific negative outcomes from AI integration introduced in prior sentence."
+  },
+  {
+   "text": "Strategic Transactions and Investments Risks Significant investments in the business may not achieve intended returns and could adversely affect our financial performance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk section about significant investments not achieving intended returns."
+  },
+  {
+   "text": "We plan to invest over $2 billion over the next five years in manufacturing facilities, digital infrastructure, and talent to support market share growth, operational resilience, and margin expansion.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new financial commitment ($2B) details, a material new disclosure."
+  },
+  {
+   "text": "These investments are intended to complement our productivity initiatives and enable long-term global growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context for the investment plan just described."
+  },
+  {
+   "text": "However, there is no assurance that these investments will yield the anticipated benefits.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk disclaimer about no assurance of benefits."
+  },
+  {
+   "text": "Risks include delays in implementation, cost overruns, supply chain disruptions, and challenges in integrating automation and technologies into our business and manufacturing operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific risk factors related to the investment plan already introduced."
+  },
+  {
+   "text": "Additionally, if market conditions change or expected efficiencies do not materialize, the return on these investments may be lower than projected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential lower returns from the investment risk."
+  },
+  {
+   "text": "Furthermore, due to global economic factors or company profitability targets, we may invest at a slower pace than planned, which could impact our ability to achieve desired outcomes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about pace of investment affecting outcomes, continuing same risk theme."
+  },
+  {
+   "text": "Failure to realize the expected outcomes could negatively impact our operating results and financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about negative impact on results."
+  },
+  {
+   "text": "As global standards and regulations relating to AI increase and change, it could result in additional costs, reputational harm, legal liability, and regulatory scrutiny related to our use of AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk specific to AI standards and associated costs/liability."
+  },
+  {
+   "text": "Additionally, misuse of sensitive data used in AI models may lead to privacy violations or non-compliance with data protection laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new data privacy risk tied to AI model use, a specific new exposure."
+  },
+  {
+   "text": "We estimate the future litigation-related costs, including both future claim resolution costs and defense costs, that we expect to incur.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new disclosure about estimating litigation-related costs, a specific financial risk practice."
+  }
+ ]
+}

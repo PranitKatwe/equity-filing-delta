@@ -1,0 +1,218 @@
+{
+ "ticker": "COR",
+ "sector": "Health Care",
+ "filing_date": "2025-11-25",
+ "accession": "0001140859-25-000131",
+ "prior_accession": "0001140859-24-000177",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 17
+ },
+ "items": [
+  {
+   "text": "On January 2, 2025, we acquired an 85% interest in Retina Consultants of America (\u201cRCA\u201d) for $4,042.0 million in cash, $694.4 million of contingent consideration related to equity units for certain RCA physicians and members of management that retained the remaining 15% interest in RCA, $545.7 million for the settlement of a net receivable resulting from a pre-existing commercial relationship between us and RCA, and $393.1 million for contingent consideration payable to the sellers associated with RCA\u2019s achievement of certain predetermined business objectives in fiscal 2027 and fiscal 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific, large-scale acquisition (RCA) with concrete financial terms, a new material transaction not previously disclosed."
+  },
+  {
+   "text": "We funded the cash purchase price through a combination of cash on hand and new debt financing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about funding source, no new risk."
+  },
+  {
+   "text": "We believe the acquisition of RCA allows us to broaden our relationships with community providers and to build on our leadership in specialty pharmaceuticals within our U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Belief statement about strategic rationale, not a risk itself."
+  },
+  {
+   "text": "Healthcare Solutions reportable segment. \u2022 Divestitures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing segment name, no substantive content."
+  },
+  {
+   "text": "Recently, we undertook a strategic review of our business to ensure alignment with our growth priorities and strategic drivers.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new strategic review leading to reorganization, a new operational change."
+  },
+  {
+   "text": "As a result of this review, we have reorganized certain business components within our reporting structure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the outcome of the review, expanding on the reorganization risk."
+  },
+  {
+   "text": "Beginning in the first quarter of fiscal 2026, our reporting structure will be comprised of U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new reporting structure names, factual disclosure not a risk."
+  },
+  {
+   "text": "Healthcare Solutions, International Healthcare Solutions, and Other.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists segment names, no risk content."
+  },
+  {
+   "text": "Healthcare Solutions reportable segment will consist of U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment composition description, factual."
+  },
+  {
+   "text": "Human Health (excluding legacy U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of segment description."
+  },
+  {
+   "text": "The International Healthcare Solutions reportable segment will consist of Alliance Healthcare, Innomar, World Courier, and strategic components of PharmaLex.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists components of a segment, factual disclosure."
+  },
+  {
+   "text": "Other, which is not considered a reportable segment, will consist of businesses for which we have begun to explore strategic alternatives and includes MWI Animal Health, Profarma, U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces potential divestitures/strategic alternatives for certain businesses, expanding divestiture-related risk."
+  },
+  {
+   "text": "Consulting Services and the other components of PharmaLex.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of segment listing."
+  },
+  {
+   "text": "We continually seek to strengthen our existing customer relationships and seek new customers to enhance our revenues, results of operations, financial position, and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about customer relationships, no specific risk."
+  },
+  {
+   "text": "In fiscal 2025, Walgreens and Boots together accounted for approximately 25% of revenue and Evernorth Health Services accounted for approximately 13% of revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific customer concentration percentages, a material new risk factor."
+  },
+  {
+   "text": "Risk Factors - Increasing governmental efforts to regulate the pharmaceutical supply chain may increase our costs and reduce our profitability) .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor section, not new content."
+  },
+  {
+   "text": "Investment in Team Members and Culture We consider talent attraction, retention, and development opportunities to be key drivers in pursuit of our strategic priorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic human capital statement."
+  },
+  {
+   "text": "Team Member Safety We strive to make our workplaces safe for all team members.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic safety statement."
+  },
+  {
+   "text": "Government Regulation We are subject to, and affected by, a variety of laws, regulations, and policies from many countries, including extensive oversight by U.S., United Kingdom (\u201cU.K.\u201d) and European Union (\u201cEU\u201d) governmental entities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General regulatory oversight statement, no new specifics."
+  },
+  {
+   "text": "GDPR, the Personal Information Protection and Electronic Documents Act of 2000 (\u201cPIPEDA\u201d), U.S. state, U.S. city, and Canadian provincial privacy, consumer protection, cybersecurity, AI, and breach notification laws, regulations, and directives, and equivalent foreign laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new regulatory categories (AI, breach notification laws) to existing regulatory risk list."
+  },
+  {
+   "text": "There is also an emerging trend of governmental entities proposing and providing regulatory guidance related to AI, including generative AI.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces emerging AI regulatory trend as a new risk area."
+  },
+  {
+   "text": "If we or our third-party providers are restricted from using AI as a result of any regulatory views, laws or other measures, it could impact our operations, increase our compliance expense and burden, and cause us to incur costs to replace or modify our use of AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential impact of AI restrictions, building on the new AI risk just introduced."
+  },
+  {
+   "text": "Walgreens and Boots together accounted for approximately 25% of our revenue in fiscal 2025 and, as of September 30, 2025, accounted for approximately 38% of our accounts receivable, net.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific accounts receivable concentration risk tied to Walgreens/Boots, a new quantifiable risk."
+  },
+  {
+   "text": "On August 28, 2025, Sycamore Partners, a private equity firm, acquired Walgreens Boots Alliance, Inc.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports a major real-world event (acquisition of WBA by Sycamore Partners) that could materially affect the company's relationships."
+  },
+  {
+   "text": "Each of these agreements has a stated term that does not expire until 2029.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States contract term length, factual detail."
+  },
+  {
+   "text": "In light of the reorganization of WBA and its subsidiaries into distinct business units by WBA\u2019s new owners, such new owners may seek changes to WBA\u2019s operations or our relationship with WBA that could affect our agreements with Walgreens, WBAD, and/or Boots.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on risk that new WBA ownership may alter existing agreements."
+  },
+  {
+   "text": "There can be no assurance that potential changes to our relationship with WBA, and/or its business and operations under new ownership, will not have an adverse effect on our contractual arrangements with WBA or our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential adverse effects from WBA ownership change, continuing prior risk."
+  },
+  {
+   "text": "Further, on January 2, 2025, we acquired RCA, a leading management services organization of retina specialists.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats the RCA acquisition fact already covered in index 0."
+  },
+  {
+   "text": "Further, divestitures may be delayed due to failure to obtain required approvals on a timely basis, if at all, from governmental authorities or third parties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of divestiture delays due to regulatory/third-party approvals."
+  },
+  {
+   "text": "We may continue to have exposure in a divested business, such as through ongoing financial, ownership or operational obligations or transition 10 Table of Contents services, and, as a result, conditions outside of our control might limit the expected benefits of the divestiture.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of continued exposure after divestitures via ongoing obligations."
+  },
+  {
+   "text": "Following a divestiture, we may be restricted from re-entering applicable markets for a period of time due to non-competition restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of non-compete restrictions limiting market re-entry after divestiture."
+  },
+  {
+   "text": "These tariffs and protective measures may include (i) the existing fentanyl tariffs, reciprocal tariffs, or secondary tariffs imposed on Indian or Brazilian-origin goods; (ii) the threatened tariffs on imports of pharmaceuticals and pharmaceutical ingredients under Section 232 of the Trade Expansion Act of 1962 (as amended); or (iii) additional tariffs imposed by the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific tariff actions (fentanyl tariffs, Section 232) that could materially affect the business."
+  },
+  {
+   "text": "We cannot predict how or when these tariffs may be implemented or modified.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands uncertainty around tariff implementation already introduced."
+  },
+  {
+   "text": "Moreover, other countries may impose counter-tariffs or measures that could impact our operations and pricing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds potential foreign counter-tariff risk, extending tariff risk discussion."
+  },
+  {
+   "text": "The current environment relating to tariffs is highly dynamic, and tariff policies may be interrelated with other regulatory and foreign policy initiatives of the Executive Branch and/or Congress.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about dynamic tariff environment, no new specifics."
+  },
+  {
+   "text": "The implementation of new information systems may be more time consuming or costly than we anticipate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about IT system implementation risk, common boilerplate."
+  },
+  {
+   "text": "Companies in our industry have increasingly been targeted for cyberattacks, and we operate in one of the most frequently targeted industries due to the attractiveness and value of proprietary business information, personal health information and other sensitive health data, as perceived by bad actors and criminals on the dark web.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing cyberattack risk with industry-specific targeting detail."
+  },
+  {
+   "text": "On May 12, 2025, the Executive Branch issued Executive Order 14297, \u201cDelivering Most-Favored-Nation Prescription Drug Pricing to American Patients\u201d (\u201cExecutive Order 14297\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new Executive Order affecting drug pricing, a concrete regulatory development."
+  },
+  {
+   "text": "Executive Order 14297 seeks to reduce prescription drug costs in the U.S. by requiring manufacturers to sell certain drugs in the U.S. at no higher than the lowest prices paid for those same drugs in other developed countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details mechanics of the newly introduced Executive Order, expanding on the risk just described."
+  },
+  {
+   "text": "Executive Order 14297 directs the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Sentence fragment continuing description, lacks substantive new risk content on its own."
+  }
+ ]
+}

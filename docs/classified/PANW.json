@@ -1,0 +1,218 @@
+{
+ "ticker": "PANW",
+ "sector": "Information Technology",
+ "filing_date": "2025-08-29",
+ "accession": "0001327567-25-000027",
+ "prior_accession": "0001327567-24-000029",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 33,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "The rate at which our end-customers purchase additional products, subscriptions, and support depends on a number of factors, including the perceived need for additional security products, including subscription and support offerings, as well as general economic conditions.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about factors affecting renewal/upsell rates, restates existing revenue-growth risk framing without new specifics."
+  },
+  {
+   "text": "We continue to evaluate such opportunities and expect to continue to make such acquisitions and investments in the future, such as our pending acquisition of CyberArk Software Ltd.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the specific, material pending acquisition of CyberArk, a new concrete business event not previously disclosed."
+  },
+  {
+   "text": "If we are unsuccessful at integrating past or future acquisitions, including the pending acquisition of CyberArk, in a timely manner, or the technologies, products, or operations associated with such acquisitions, into our company, our revenue and operating results could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates the pre-existing generic acquisition-integration risk by naming the specific CyberArk deal."
+  },
+  {
+   "text": "In particular, we believe that there are significant benefits and synergies that may be realized from our proposed acquisition of CyberArk, including through leveraging our and CyberArk\u2019s products, scale, and combined enterprise customer bases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on anticipated synergies tied to the newly disclosed CyberArk acquisition, building on the same risk theme."
+  },
+  {
+   "text": "However, the efforts to realize the anticipated benefits and synergies will be a complex process and may disrupt both our and CyberArk\u2019s existing operations if not implemented in a timely and efficient manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on integration complexity/disruption risk related to the same CyberArk deal already introduced."
+  },
+  {
+   "text": "The full benefits of the proposed acquisition of CyberArk, including the anticipated sales or growth opportunities, may not be realized as expected or may not be achieved within the anticipated time frame, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the same benefit/synergy realization risk theme with additional detail."
+  },
+  {
+   "text": "We have recorded, and may in the future record, liability for contingent consideration obligations from acquisitions that are to be settled in cash, the fair value of which is assessed on a quarterly basis.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific financial risk\u2014contingent consideration liabilities from acquisitions\u2014not previously disclosed."
+  },
+  {
+   "text": "If changes are made in our assumptions used to determine the liability\u2019s fair value or our assumptions are incorrect, adjustments could be made that may have a material impact, favorable or unfavorable, on our operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the impact of assumption changes on the contingent consideration liability introduced just before."
+  },
+  {
+   "text": "We may also be required to make cash payments of contingent consideration in excess of its initial fair value, or in excess of our expectations for a particular period, which could adversely impact cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates cash flow impact of the same contingent consideration risk."
+  },
+  {
+   "text": "We may not complete the acquisition of CyberArk within the timeframe we anticipate or at all, which could negatively impact our future business and financial results .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the specific risk that the CyberArk acquisition may not close as planned, a new deal-completion risk."
+  },
+  {
+   "text": "As a result, although it is currently anticipated that we will complete the acquisition of CyberArk during the second half of our fiscal 2026, the possible timing and likelihood of completion are uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds timing detail (fiscal 2026) to the previously introduced deal-completion uncertainty."
+  },
+  {
+   "text": "There can be no assurance that the acquisition of CyberArk will be completed in the anticipated timeframe or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates the same completion-timing uncertainty with slightly different wording."
+  },
+  {
+   "text": "Any delay in completing the proposed acquisition could cause the combined company not to realize, or to be delayed in realizing, some or all of the benefits and synergies that we anticipate to achieve if the proposed acquisition were to be successfully completed within its expected time frame.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the completion-delay risk to discuss impact on realizing synergies, same underlying risk."
+  },
+  {
+   "text": "In addition, the relevant governmental authorities from which approvals under specified antitrust and foreign investment laws must be obtained may impose or seek to impose conditions on the completion of the acquisition or require changes to the terms of the proposed acquisition or agreements to be entered into in connection with the CyberArk acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category: regulatory/antitrust conditions imposed by authorities on the CyberArk deal."
+  },
+  {
+   "text": "Such conditions or changes and the process of obtaining these approvals, could have the effect of delaying or impeding completion of the CyberArk acquisition or imposing additional costs or limitations on us following the acquisition, which may have an adverse effect on our business, results of operations, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details consequences of the regulatory conditions risk just introduced."
+  },
+  {
+   "text": "The failure or inability to satisfy all of the required conditions could delay the completion of the acquisition for a significant period of time or prevent it from occurring at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of closing-condition risk with additional detail on potential delay or failure."
+  },
+  {
+   "text": "In addition, under limited circumstances, we or CyberArk may elect to terminate the definitive agreement or we and CyberArk may mutually decide to terminate the definitive agreement, before or after obtaining the requisite CyberArk shareholder approval.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk: possible termination of the definitive merger agreement."
+  },
+  {
+   "text": "A termination of the definitive agreement could materially and adversely affect our business, results of operations and reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the adverse consequences of the termination risk just introduced."
+  },
+  {
+   "text": "As a result of the CyberArk acquisition, we anticipate that the scope and size of our business will substantially change and result in certain incremental risks, including increased competition .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding substantial change in business scope/size and increased competition post-acquisition."
+  },
+  {
+   "text": "We believe that the CyberArk acquisition will expand the scope and size of our business by adding substantial assets and operations to our existing business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the scope/size expansion risk already introduced."
+  },
+  {
+   "text": "The anticipated future growth of our business may impose significant added responsibilities on our senior management, and our senior management\u2019s attention may be diverted from the management of our business and its day-to-day operations to the completion and integration of the CyberArk acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of management distraction due to acquisition integration demands."
+  },
+  {
+   "text": "The CyberArk acquisition could also create uncertainty for our and CyberArk\u2019s employees, partners, and customers, particularly during the anticipated post-acquisition integration process, and result in disruption to existing business relationships and the development of new business relationships.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding uncertainty and disruption to employee/partner/customer relationships from the acquisition."
+  },
+  {
+   "text": "Following completion of the proposed acquisition of CyberArk, our success, including with respect to realizing the anticipated benefits and synergies from the proposed acquisition, will depend, in part, on our ability to manage our expansion, which poses numerous risks and uncertainties, including the need to integrate the operations and business of CyberArk into our existing business in a timely and efficient manner, to combine systems and management controls and to integrate relationships with industry contacts and business partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on integration management risk already introduced regarding combining operations."
+  },
+  {
+   "text": "In addition, we will be required to devote significant attention and resources prior to closing to prepare for the post-closing integration and operation of the combined company, and we will be required post-closing to devote significant attention and resources to successfully align our and CyberArk\u2019s business practices and operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on resource demands for pre/post-closing integration, continuing the same risk."
+  },
+  {
+   "text": "This process may disrupt our business and, if ineffective, would limit the anticipated benefits and synergies of the acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the integration-disruption risk theme without introducing a new risk type."
+  },
+  {
+   "text": "In addition, we expect that the completion of the CyberArk acquisition will result in increased competition, including, as a result of our entry into a new product category.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive risk from entering a new product category via the acquisition."
+  },
+  {
+   "text": "CyberArk faces intense competition in the information security and identity security industry in which it operates, characterized by constant innovation, evolving customer requirements, and rapid adoption of different technologies and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the competitive landscape CyberArk faces, extending the newly introduced competition risk."
+  },
+  {
+   "text": "These added competitive pressures could result in decreased sales, price reductions, increased operating costs, and lower revenues, margins and net income for the combined company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details financial consequences of increased competition already introduced."
+  },
+  {
+   "text": "These impacts could also result in a delay in realizing, or our failure to realize, expected synergies or cost savings from the CyberArk acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of synergy/cost-saving realization risk tied to competitive pressures."
+  },
+  {
+   "text": "Issues in the development and deployment of AI may result in reputational harm and legal liability and could adversely affect our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to AI development/deployment causing reputational and legal harm."
+  },
+  {
+   "text": "Any of these negative outcomes could adversely impact the market perception of our products and subscriptions and end-customer and investor confidence in our company and could seriously harm our business or operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic closing statement about impact on market perception, adds no new specific risk detail."
+  },
+  {
+   "text": "In addition, our classifications of application type, virus, spyware, vulnerability exploits, data, or URL categories may falsely detect, report, and act on applications, content, or threats that do not actually exist.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific product-accuracy risk\u2014false detection/classification of threats\u2014not previously described."
+  },
+  {
+   "text": "Any of these events could seriously harm our business, financial condition, and operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate closing statement about harm to business, no new specifics."
+  },
+  {
+   "text": "In addition to risks related to license requirements, usage of open source software can lead to greater risks than use of third-party commercial software, as open source licensors generally do not provide warranties or assurance of title or controls on origin of the software.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal risk regarding lack of warranties/title assurances in open source software."
+  },
+  {
+   "text": "Managing the supply of our hardware products and product components is complex.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic introductory statement about supply chain complexity, sets up rather than states a specific risk."
+  },
+  {
+   "text": "If we are unable to hire, integrate, train, or retain the qualified and highly skilled personnel required to fulfill our current or future needs, our business, financial condition, and operating results could be harmed.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard restatement of the common risk about hiring and retaining skilled personnel."
+  },
+  {
+   "text": "Our sales contracts are primarily denominated in U.S. dollars, and therefore, a predominant amount of our revenue is not subject to foreign currency risk.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing foreign currency exposure discussion, noting most revenue is USD-denominated, no new risk."
+  },
+  {
+   "text": "We face risks associated with having operations and employees located in Israel.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific geopolitical risk tied to operations and employees located in Israel."
+  },
+  {
+   "text": "International trade laws and regulations continuously evolve to address technological developments and changes in geopolitical conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving trade laws, provides framing without specific new risk detail."
+  },
+  {
+   "text": "New regulations or other governmental restrictions that may result from these circumstances could inhibit our ability to transact with foreign suppliers, customers, or other business partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential impact of evolving trade regulations on business partners, continuing the prior generic statement."
+  }
+ ]
+}

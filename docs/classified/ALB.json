@@ -1,0 +1,38 @@
+{
+ "ticker": "ALB",
+ "sector": "Materials",
+ "filing_date": "2026-02-11",
+ "accession": "0000915913-26-000018",
+ "prior_accession": "0000915913-25-000026",
+ "model": "claude-sonnet-5",
+ "n_added": 4,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Any such discontinuation or divestitures may introduce significant risks and uncertainties. \u2022 We may not be able to consummate future acquisitions or integrate acquisitions into our business, which could result in unanticipated expenses and losses.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about risks of discontinuation/divestitures and acquisition integration is a standard M&A risk expansion tied to the newly announced divestiture, not a wholly new type of risk."
+  },
+  {
+   "text": "Business above, the Company has entered into definitive agreements to divest the controlling ownership interest in its Refining Solutions business, with the transactions expected to be completed in the first quarter of 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material new transaction\u2014the definitive agreement to divest the controlling interest in the Refining Solutions business with an expected closing date\u2014introducing concrete new risk exposure not previously disclosed."
+  },
+  {
+   "text": "Upon completion of the transactions, the Company will still maintain a 49% ownership interest in the Refining Solutions business and all of its PCS business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional specific detail (retained 49% ownership stake) about the newly disclosed divestiture transaction, expanding on the risk introduced in the prior sentence."
+  },
+  {
+   "text": "Certain of the risks included in this section relate to the Refining Solutions business and will continue to be risks for the Company upon completion of the divestiture, however, the potential adverse impact of such risks that primarily pertain to the Refining Solutions business on our cash flows, results of operations and financial condition may no longer be material.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies how existing Refining Solutions-related risks will persist but may become less material to overall financial results post-divestiture, refining the scope of existing risk factors rather than introducing a new risk."
+  }
+ ]
+}

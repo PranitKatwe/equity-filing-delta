@@ -1,0 +1,218 @@
+{
+ "ticker": "LHX",
+ "sector": "Industrials",
+ "filing_date": "2026-02-12",
+ "accession": "0000202058-26-000015",
+ "prior_accession": "0000202058-25-000023",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 27,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "The remaining amounts, including profits or incentive fees, are billed upon delivery and final acceptance of end items and deliverables under the contract.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard billing practice for contract deliverables; factual/administrative, not a risk statement."
+  },
+  {
+   "text": "Our production contracts are mainly fixed-price contracts and development contracts are generally cost-type contracts, although we have some fixed-price development contracts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes contract type mix (fixed-price vs cost-type); factual background, not a new risk."
+  },
+  {
+   "text": "Acquisition Reform We are pursuing our Trusted Disruptor strategy against the backdrop of acquisition reform, prioritizing engaging with our customers and delivering the innovation, agility and affordability our customers demand from the defense industrial base.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Strategic positioning statement about the company's approach to acquisition reform; framing/context rather than a specific risk."
+  },
+  {
+   "text": "Government\u2019s acquisition strategy, including the transformation of the Defense Acquisition System into the Warfighting Acquisition System, are fundamentally shifting procurement priorities toward speed, flexibility, and mission outcomes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes government's acquisition strategy shift as context; no specific risk to the company stated yet."
+  },
+  {
+   "text": "Under this new approach, the DoW is streamlining contracting processes, delegating greater authority to empowered portfolio acquisition executives, and increasing the use of commercial solutions and alternative contracting methods to accelerate the delivery of urgently needed capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes DoW procurement process changes; contextual description, not itself a stated risk."
+  },
+  {
+   "text": "These changes are designed to expand competition, incentivize private investment, and enhance supply chain resilience, which may result in new opportunities and requirements for defense contractors, as well as increased emphasis on rapid innovation and responsiveness in fulfilling government contracts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes potential new opportunities and requirements from reform, tying into existing competitive/contracting risk themes."
+  },
+  {
+   "text": "The SEC maintains an internet site at http://www.sec.gov that contains reports, proxy and information statements and other information regarding issuers, including L3Harris, that file electronically with the SEC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard SEC filer information/legal boilerplate about the SEC website."
+  },
+  {
+   "text": "The DoW\u2019s current procurement reform initiative, including the increased use of other transaction authority (\u201cOTA\u201d) agreements, could reduce barriers to entry and result in even greater competition and increased pricing pressure.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk: increased use of OTAs reducing barriers to entry and increasing competition and pricing pressure."
+  },
+  {
+   "text": "OTAs are not subject to many traditional procurement laws, including the Federal Acquisition Regulation (\u201cFAR\u201d), and in some instances, an OTA award may require that a significant part of the work be carried out by a non-traditional defense contractor or that a portion of the prototype project's costs be covered by non-governmental sources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on OTA mechanics that elaborates the newly introduced OTA competition risk."
+  },
+  {
+   "text": "This uncertainty could be exacerbated by procurement reform initiatives that could result in more frequent changes to program funding, scope, or priorities, increasing the risk of contract modifications, terminations, or delays, and making it more difficult to forecast revenue and resource needs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on procurement reform risk by linking it to increased contract modification/termination/delay risk already implied."
+  },
+  {
+   "text": "To the extent feasible, we have consistently followed the practice of contractually adjusting our prices to reflect the impact of inflation on salaries and fringe benefits for employees and the cost of purchased materials and services and in some cases seeking the inclusion of adjustment clauses to incorporate certain cost adjustments in fixed-price contracts for unexpected inflation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing mitigation practice (price adjustment clauses for inflation); administrative/mitigation description, not a new risk."
+  },
+  {
+   "text": "These costs might increase in the future, particularly for certain international markets and customers, thereby reducing our margins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cost/inflation risk by noting potential margin reduction in international markets."
+  },
+  {
+   "text": "We participate in U.S. and international markets that are subject to uncertain economic conditions which could experience increasing price sensitivity due to economic conditions or seek solutions which could adversely affect demand for our products, systems, services or technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing demand risk due to economic conditions in international markets."
+  },
+  {
+   "text": "Geo-political events and changes in foreign policy could cause isolationism or increased implementation of local solutions by international customers, which could adversely affect demand for our products, systems, services or technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of geopolitical isolationism and localized foreign solutions reducing demand."
+  },
+  {
+   "text": "From time to time agencies of the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete transitional fragment, no substantive content on its own."
+  },
+  {
+   "text": "Business and Operational Risks We depend on our subcontractors and suppliers, and failures in or disruptions to our supply chain could cause our products and or services to be produced or delivered in an untimely or unsatisfactory manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates a standard supply chain dependency risk common to defense contractors; expands existing risk category with heading."
+  },
+  {
+   "text": "Material supply disruptions may still occur in the future.",
+   "category": "reworded_same_meaning",
+   "rationale": "Simple restatement that supply disruptions may recur, consistent with existing supply chain risk."
+  },
+  {
+   "text": "Any supply chain disruption could result in delayed deliveries, increased costs, loss of customers, contractual penalties or damages, claims or litigation, regulatory investigations or actions, loss of future business opportunities, or reputational harm, any of which could materially and adversely affect our business, operational results, financial condition and cash flow.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands consequences of supply chain disruption with additional specific negative outcomes (litigation, regulatory action, reputational harm)."
+  },
+  {
+   "text": "Changes in trade policies, including tariffs, could cause adverse impacts to our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category: adverse impacts from changes in trade policy/tariffs, not previously discussed."
+  },
+  {
+   "text": "Beginning in first quarter 2025, we observed a significant shift in U.S. trade policy, with increased tariffs and the imposition of new tariffs that could impact our supply chain and our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new 2025 event (tariff increases) directly impacting supply chain and business, a concrete new risk driver."
+  },
+  {
+   "text": "While certain of such tariffs have been paused, ultimately trade policy decisions are outside of our control and may have consequences for our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced tariff risk by noting uncertainty despite pauses."
+  },
+  {
+   "text": "Changes in trade policies, such as new tariffs or increases in tariffs, or reactionary measures including retaliatory tariffs, legal challenges, or currency manipulation, could adversely impact us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on tariff/trade policy risk with additional mechanisms (retaliatory tariffs, legal challenges, currency manipulation)."
+  },
+  {
+   "text": "Even though we primarily sell our products and services to U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete sentence fragment continuing into next sentence, no standalone content."
+  },
+  {
+   "text": "Government customers and our suppliers are primarily domestic, we still rely on imported materials, components, or finished goods, and if tariffs increase, our supply chain costs may rise, adversely affecting our business, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on how tariff increases could raise supply chain costs, expanding the new tariff risk."
+  },
+  {
+   "text": "We also operate a business in Canada that supports both domestic and international programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds context about Canadian operations relevant to the tariff risk discussion."
+  },
+  {
+   "text": "If we are not granted exemptions from tariffs due to the nature of our business and customers, we could see greater impacts than we currently expect, especially as it relates to tariffs between the U.S. and Canada.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details tariff exposure specifically regarding U.S.-Canada trade, expanding the tariff risk."
+  },
+  {
+   "text": "Additionally, retaliatory measures, or prolonged uncertainty in trade relationships could result in supply chain disruptions, delayed shipments, or increased operational complexity, which could also adversely affect our business, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds additional potential consequences (supply chain disruption, delayed shipments) to the tariff risk already introduced."
+  },
+  {
+   "text": "While we intend to take steps to mitigate any impacts of tariffs or other impacts resulting from changes in trade policy, our ability to do so may be limited by operational and supply chain constraints, especially in the short term. _____________________________________________________________________ 9 We must attract and retain key employees, and any failure to do so could harm us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Mitigation caveat plus transition into a new but standard risk factor heading about employee retention, largely generic."
+  },
+  {
+   "text": "Cybersecurity\" in this Report for further discussion of our risk management and strategy related to cybersecurity threats.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the report for cybersecurity discussion; administrative pointer, not new content."
+  },
+  {
+   "text": "The competitive landscape is also evolving, with increased competition from non-traditional new entrants, including technology start-ups.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive threat from non-traditional entrants like technology start-ups, a specific new risk driver."
+  },
+  {
+   "text": "While these competitors may lack our scale, production capacity, and established customer trust, they may possess innovative or low-cost technologies and the ability to rapidly deploy new solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the new competitive threat by describing capabilities of these new entrants."
+  },
+  {
+   "text": "The emergence of such players may intensify pricing pressure and threaten our market share or competitive advantage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands on the competitive risk by specifying pricing pressure and market share threats."
+  },
+  {
+   "text": "The failure to effectively maintain and modernize our IT systems and infrastructure could adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding failure to maintain/modernize IT systems affecting the business."
+  },
+  {
+   "text": "Rapid development cycles and the growth and expansion of our business has created technical debt within our enterprise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the IT modernization risk by identifying technical debt as a contributing factor."
+  },
+  {
+   "text": "As part of our digital transformation, we are modernizing our infrastructure, applications, and information ecosystem, inclusive of cloud migrations, increasing automation and expanding the use of AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about ongoing digital transformation initiatives; context rather than a risk statement."
+  },
+  {
+   "text": "Until our digital transformation is fully complete, we will continue to rely on significant manual processes and procedures that subject us to increased risk of error and internal control failure compared to automated processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of increased error/control failure due to reliance on manual processes during transformation."
+  },
+  {
+   "text": "Our ability to modernize our technology systems and infrastructure requires us to execute large-scale, complex programs and projects, which rely on the commitment of significant financial and managerial resources and effective planning and management processes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the modernization risk by detailing resource and management challenges."
+  },
+  {
+   "text": "We also rely on third party outsourcing, so the speed and effectiveness of our digital transformation may be subject to additional factors beyond our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds third-party outsourcing dependency as another factor affecting the modernization risk."
+  },
+  {
+   "text": "Additionally, integrating AI capabilities could increase technical complexity, potentially exacerbating these challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor: AI integration increasing technical complexity and exacerbating existing challenges."
+  },
+  {
+   "text": "As a result, we may be unable to complete our digital transformation and manage our technical debt efficiently or in a timely manner, which could result in operational resiliency issues, delivery delays, cost overruns, additional expenses, reputational harm, legal and regulatory actions, and other adverse consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes and expands potential consequences of failing digital transformation, tying together prior points into broader impact."
+  }
+ ]
+}

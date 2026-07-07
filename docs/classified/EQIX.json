@@ -1,0 +1,218 @@
+{
+ "ticker": "EQIX",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-11",
+ "accession": "0001101239-26-000032",
+ "prior_accession": "0001628280-25-005126",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 16,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Risk Factors In addition to the other information contained in this report, the following risk factors should be considered carefully in evaluating our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic introductory framing language common to risk factor sections."
+  },
+  {
+   "text": "Additional risks which we do not presently consider material, or of which we are not currently aware, may also have an adverse impact on us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary boilerplate about unknown risks."
+  },
+  {
+   "text": "The information discussed below is at the time of this filing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic timing disclaimer, no substantive content."
+  },
+  {
+   "text": "This section contains forward-looking statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statements disclaimer."
+  },
+  {
+   "text": "Risk Factors Risks Related to the Macro Environment Geopolitical events and political tensions contribute to an already complex landscape, and could have a negative effect on our global business operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category concerning geopolitical events and political tensions affecting global operations."
+  },
+  {
+   "text": "In addition, uncertainty surrounding the legality, enforceability, and interpretation of U.S. and international laws, executive actions, regulatory frameworks, and enforcement priorities could result in compliance challenges, significant penalties, operational restrictions, reputational harm, or adverse effects on our business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of legal/regulatory uncertainty from evolving U.S. and international enforcement priorities."
+  },
+  {
+   "text": "Periodic risks of a U.S. government shutdown could further disrupt economic conditions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of U.S. government shutdown disrupting economic conditions."
+  },
+  {
+   "text": "Moreover, actual or proposed U.S. tariffs and potential counter tariffs may increase costs and disrupt our supply chain, with their scope and duration dependent on evolving negotiations and exemptions, making their impact difficult to predict.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of tariffs and counter-tariffs increasing costs and disrupting supply chain."
+  },
+  {
+   "text": "The current uncertain economic environment, including challenges related to power and supply chains, could impact our business and the businesses of our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens general economic uncertainty risk to include power and supply chain challenges."
+  },
+  {
+   "text": "Further, as a result of the increase in demand for AI infrastructure, we are anticipating chip shortages relative to those experienced in the market in prior years.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of AI-driven chip shortages."
+  },
+  {
+   "text": "This shortage could impact our customers and delay or deter customer server deployments within our IBX data centers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the chip shortage risk's effect on customer deployments."
+  },
+  {
+   "text": "These shortages could also impact our own network rooms and certain products which rely on integration with these chips.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on chip shortage impacting internal network rooms and products."
+  },
+  {
+   "text": "Price increases for the chips could be significant and could have a material impact on our business or the business of our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further quantifies the chip shortage risk with potential price increases."
+  },
+  {
+   "text": "In certain markets, there are specific requirements to cover our operations with power procured from renewable energy resources and the availability of such alternative energy resources may be limited.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding renewable energy procurement requirements and limited availability."
+  },
+  {
+   "text": "In certain cases, we must commit to power purchases before an IBX center is fully operational, increasing fixed costs and the risk that these costs cannot be passed on to customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of committing to power purchases before operational readiness, increasing fixed costs."
+  },
+  {
+   "text": "We have experienced power outages because of these legacy design issues in the past and we could experience them in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of past and potential future power outages due to legacy design issues."
+  },
+  {
+   "text": "A cyber attack may originate from either an external actor or an insider threat within the organization.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk detail about insider threat as a cyberattack vector."
+  },
+  {
+   "text": "In December 2025, we announced the retirement of and succession plan for our Chief Financial Officer.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new event: CFO retirement and succession plan."
+  },
+  {
+   "text": "Any significant leadership change involves risk, and any failure to transition effectively could hinder our strategic planning, business execution and future performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about leadership change risk, expanding on the CFO transition disclosure."
+  },
+  {
+   "text": "A transition in our Chief Financial Officer role may create uncertainty and operational challenges, including disruption to employee workflows, increased distraction, potential adverse impacts on employee retention and satisfaction, and an increased risk of delays or errors in financial reporting and internal controls during the transition period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific operational risks tied to the CFO transition already disclosed."
+  },
+  {
+   "text": "We cannot provide assurance that we will be able to retain our existing personnel or attract additional qualified employees in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about talent retention, common boilerplate risk language."
+  },
+  {
+   "text": "Further, for various reasons, a landlord may not want to renew the lease with us, or he may transfer his interests to third parties which could affect our ability to renew the lease.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding landlord non-renewal or transfer of interests affecting lease renewal."
+  },
+  {
+   "text": "Further, because of the expected growth and opportunity related to AI, we anticipate significant investments in the data center industry by both current competitors and new investors and companies looking to capture this opportunity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of increased competitive investment in data centers due to AI growth."
+  },
+  {
+   "text": "If Equinix is unable to compete against these new market entrants, or capture a proportionate share of these investments, we could lose market share during this expected period of growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on competitive risk of losing market share during growth period."
+  },
+  {
+   "text": "We also must compete against certain of these competitors to secure the land and power needed for our expansion plans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on competition for land and power resources."
+  },
+  {
+   "text": "If we fail to invest before or contemporaneously with our competitors, our results of operations could suffer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation describing consequences of failing to invest ahead of competitors."
+  },
+  {
+   "text": "On November 19, 2025, we received correspondence from the SEC indicating that the agency had concluded its investigation and does not intend to recommend an enforcement action.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Discloses resolution of an SEC investigation, reducing rather than introducing risk."
+  },
+  {
+   "text": "The Company also does not expect any further related action from the NDCA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further factual update on resolved legal matter, not a new risk."
+  },
+  {
+   "text": "For example, we recently resolved a stockholder class action lawsuit and continue to face multiple stockholder derivative claims as described in \"Legal Proceedings\" included in Part I, Item 3 of this Annual Report on Form 10-K.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific mention of ongoing stockholder derivative claims as a legal risk."
+  },
+  {
+   "text": "Construction projects expose us to many risks which could have an adverse effect on our results of operations, financial condition and/or on customer demand and satisfaction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about construction risks, standard risk factor framing."
+  },
+  {
+   "text": "As part of our current strategy, we are also building larger campuses than we have in the past which may exacerbate many of the risks associated with construction projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands construction risk by noting larger campus projects exacerbate existing risks."
+  },
+  {
+   "text": "We are currently using our global supply chain to manage the evolving tariff environment and reduce impacts on our business and customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes mitigation efforts for previously disclosed tariff risk."
+  },
+  {
+   "text": "At this time, we believe the largest potential tariff impact for us is related to steel and steel derivatives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk detail identifying steel tariffs as the largest potential impact."
+  },
+  {
+   "text": "Tariffs on steel and steel derivatives could lead to significant building cost increases for us if we are unable to source alternative options.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on steel tariff cost risk already introduced."
+  },
+  {
+   "text": "Attacks on merchant vessels remain high in the Red Sea which is causing disruptions in shipping routes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of Red Sea attacks disrupting shipping routes."
+  },
+  {
+   "text": "Although alternative routes are available, including routes via the Cape of Good Hope, these routes can add additional transit time and lead to delayed deliveries and increased fuel costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details alternative routes and associated cost/time impacts from the Red Sea disruption risk."
+  },
+  {
+   "text": "We anticipate the disruptions in the Red Sea could continue to escalate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential escalation of the Red Sea disruption risk."
+  },
+  {
+   "text": "Additionally, increased community scrutiny of data center resource use including land, water and power, may lead permitting authorities to impose stricter requirements, resulting in longer approval processes, higher costs, or project cancellations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of community scrutiny leading to stricter permitting requirements for data centers."
+  },
+  {
+   "text": "These challenges could hinder our ability to execute growth plans and meet strategic objectives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing consequences of permitting challenges on growth plans."
+  },
+  {
+   "text": "Additionally, we specify performance and quality requirements for our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about specifying product performance and quality requirements, lacking specific risk detail."
+  }
+ ]
+}

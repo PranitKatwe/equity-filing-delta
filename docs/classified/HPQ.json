@@ -1,0 +1,133 @@
+{
+ "ticker": "HPQ",
+ "sector": "Information Technology",
+ "filing_date": "2025-12-10",
+ "accession": "0000047217-25-000071",
+ "prior_accession": "0000047217-24-000080",
+ "model": "claude-sonnet-5",
+ "n_added": 23,
+ "n_substantive": 18,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not the factors, events or contingencies have occurred in the past and instead reflect our beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about forward-looking risk factor language, no substantive content."
+  },
+  {
+   "text": "While our big tank printers typically have a higher initial margin than our traditional in cartridge printers, they do not result in follow-on sales of high margin traditional ink cartridges and, as a result, may have lower overall device lifetime profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about big tank printers having lower overall device lifetime profitability due to lack of follow-on ink sales."
+  },
+  {
+   "text": "Also, shifting to recurring-revenue based business may require us to forego upfront revenue and invest in platforms and systems that enable subscription sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk of forgoing upfront revenue and needing new investment for subscription-based business model shift."
+  },
+  {
+   "text": "Moreover, new products and services may replace or supersede existing offerings and may not be profitable.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about new products replacing existing ones and potentially being unprofitable, elaborating on product risk."
+  },
+  {
+   "text": "For example, the accelerated rate of innovation of components from our suppliers may result in higher defects or failure of our offerings to perform, which could cause us to incur increased warranty costs, inventory provisions or impairments and could impact future sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk tied to accelerated supplier component innovation causing defects, warranty costs, and inventory impairments."
+  },
+  {
+   "text": "Proliferating export controls, including controls on certain rare earth elements, designed to limit the diffusion of advanced technology, can impact speed on AI innovation and capabilities by controlling hardware capable of supporting advanced AI technology.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding export controls on rare earth elements impacting AI innovation."
+  },
+  {
+   "text": "Restrictions on international trade, such as tariffs and other controls on imports or exports of goods, technology or data have and may continue to, materially adversely affect our supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk about tariffs and trade restrictions materially affecting supply chain."
+  },
+  {
+   "text": "The impact has been particularly significant for the restrictive measures that apply to countries and regions where we have significant supply chain operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the geographic significance of the trade restriction impact introduced in the prior sentence."
+  },
+  {
+   "text": "Restrictive measures have and may continue to increase the cost of our products and the components and raw materials that go into them, and can require us to take various actions, including changing suppliers, restructuring business relationships and operations, and ceasing to offer and distribute affected products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the specific consequences (cost increases, supplier changes) of the trade restriction risk already introduced."
+  },
+  {
+   "text": "Changing our business model and supply chain to comply with and seek to offset the impact of new or revised trade restrictions has been, and may continue to be, expensive, time-consuming and disruptive to our business, and may not be successful in offsetting or mitigating these impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the difficulty and cost of adapting to trade restrictions, an extension of the same risk."
+  },
+  {
+   "text": "The impact of changes we make in this regard will not be immediate, and, even if successful, we expect it will take time for any offsetting impacts to take full effect.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General caveat about timing of mitigation efforts, adds no new substantive risk detail."
+  },
+  {
+   "text": "Moreover, such restrictions can be announced with little or no advance notice, which can create additional uncertainty.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about unpredictability of restriction announcements, cautionary language without new specifics."
+  },
+  {
+   "text": "We have also observed significant inflationary trends in memory and storage costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new observed risk: inflationary trends in memory and storage costs."
+  },
+  {
+   "text": "We face increasing attention from the investment community, special interest groups, customers, enforcement authorities and other stakeholders, who may have conflicting views, related to our positions, performance, and disclosures relating to environmental and societal related matters and we are subject to legal and regulatory requirements relating to such positions, performance, and disclosures, which continue to broaden and may be conflicting, both in terms of scope and geography.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of stakeholder and regulatory scrutiny over ESG-related positions and disclosures."
+  },
+  {
+   "text": "Additionally, a failure to adequately meet regulatory expectations may result in the loss of business and reputational impacts, and we periodically are, and in the future could become the target of litigation, investigations or other proceedings initiated by government authorities or private actors alleging that our activities related to environmental and societal matters are anti-competitive, discriminatory or otherwise unlawful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential litigation and reputational consequences stemming from the ESG scrutiny risk just introduced."
+  },
+  {
+   "text": "Moreover, efforts to meet evolving and increasingly divergent stakeholder expectations on environmental and societal and related matters may place a strain on our employees and systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further extends the ESG-related risk to operational strain on employees and systems."
+  },
+  {
+   "text": "Since April 2025, new, substantial tariffs have been imposed on imports to the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new factual risk: new substantial tariffs imposed since April 2025."
+  },
+  {
+   "text": "In response, several countries have imposed, or threatened to impose, reciprocal tariffs on imports from the United States and other retaliatory measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on retaliatory tariff risk following the new tariff risk introduced above."
+  },
+  {
+   "text": "As a result, during fiscal 2025, we experienced higher commodity and tariff costs, which were not fully mitigated by pricing and other actions enacted during the period.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses actual realized financial impact from tariffs and commodity costs in fiscal 2025, a concrete new risk manifestation."
+  },
+  {
+   "text": "Should these or other proposed tariffs, including potential retaliatory actions imposed by other countries, be implemented and sustained for an extended period of time, as proposed, enacted or otherwise, they may have a significant adverse impact to our results of operations and cash flows to the extent our efforts do not fully mitigate the effects of such tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential future adverse impact of tariffs already introduced."
+  },
+  {
+   "text": "There can be no assurance that we will be able to successfully offset or mitigate these impacts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about uncertainty of mitigation success."
+  },
+  {
+   "text": "Additionally, changing our business model and 21 Table of Contents supply chain to comply with and offset the impact of new or revised trade restrictions has in the past and could in the future be expensive, time-consuming and disruptive to our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats the same point made earlier about trade restriction compliance costs and disruption."
+  },
+  {
+   "text": "Further, conflicting regulations and a lack of harmonization of legal and regulatory environments across the jurisdictions in which we operate may create enhanced compliance risks and costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding conflicting and non-harmonized regulations increasing compliance risks and costs."
+  }
+ ]
+}

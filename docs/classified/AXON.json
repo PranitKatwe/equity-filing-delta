@@ -1,0 +1,218 @@
+{
+ "ticker": "AXON",
+ "sector": "Industrials",
+ "filing_date": "2026-02-25",
+ "accession": "0001628280-26-011360",
+ "prior_accession": "0001069183-25-000019",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "Risk Factors \u2014 Operational Risks\u201d.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing a section title, not substantive content."
+  },
+  {
+   "text": "Intellectual Property We protect our intellectual property with U.S. and foreign patents, U.S. and foreign trademark registrations, and U.S. copyright registrations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement about how the company protects its IP; no new risk."
+  },
+  {
+   "text": "Our patents and pending patent applications relate to technology used by us in connection with our products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that patents relate to company technology."
+  },
+  {
+   "text": "We also rely on international treaties, organizations and laws to protect our intellectual property.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reliance on international IP treaties, standard language."
+  },
+  {
+   "text": "As of December 31, 2025, we hold over 370 U.S. patents, over 170 U.S. registered trademarks, over 350 international patents and over 480 international registered trademarks, as well as numerous pending patent and trademark applications.",
+   "category": "reworded_same_meaning",
+   "rationale": "Updated numeric counts of patents/trademarks; same underlying IP disclosure, just refreshed figures."
+  },
+  {
+   "text": "We continuously assess whether and where to seek formal protection for particular technologies based on such factors as the significance to our operations and our competitors\u2019 operations in particular regions, our strategies in different countries, and the degree to which intellectual property laws exist and are meaningfully enforced in different jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of IP protection strategy assessment process."
+  },
+  {
+   "text": "We have the exclusive rights to many Internet domain names, primarily including \u201cAxon.com,\u201d \u201cEvidence.com,\u201d \u201cTASER.com,\u201d and \u201c911.com.\u201d We also execute non-disclosure agreements with employees, consultants and key suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard mention of domain names and NDAs, no new risk."
+  },
+  {
+   "text": "Competition Sensors \u2014 Connected Cameras and Digital Evidence Management Software: The body camera and in-car video/automatic license plate readers industry is highly competitive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic intro sentence stating the market is competitive."
+  },
+  {
+   "text": "Our competition includes 10-8 Video Systems, 365Labs, Applied Concepts, Axis Communications, Coreforce, Digital Ally, Duress, Genetec, Getac, HALOS Body Cameras, Hikvision, Hytera, Insight LPR, IONODES, i-PRO, Kustom Signals, LensLock, Motorola Solutions, Tait Communications, Oracle, PatrolEyes, Pinnacle Response, Pro-Vision, Recoda, Reveal Media, Safe Fleet, Versaterm, Wireless CCTV, Wolfcom Enterprises, Wrap Technologies and Zepcam.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds an extensive list of named competitors, expanding detail on the existing competition risk."
+  },
+  {
+   "text": "Our fixed automatic license plate recognition (\u201cALPR\u201d) offerings, including Axon Outpost and Axon Lightpost, together with integrations enabled through our Works with Axon partnership program, compete with providers of fixed and semi-fixed ALPR cameras and associated analytics software used by public safety agencies and enterprise customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new fixed ALPR product lines (Axon Outpost, Lightpost) and a new partner ecosystem, expanding the company's competitive exposure into a new product category."
+  },
+  {
+   "text": "Our competition in this area includes Flock Safety, Genetec (AutoVu), Jenoptik, Motorola Solutions (including its Vigilant and fixed LPR solutions), Neology (including its PIPS Technology business), NDI Recognition Systems, PlateSmart Technologies, and Rekor Systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific competitors for the newly described ALPR offerings, adding detail to the risk introduced above."
+  },
+  {
+   "text": "6 Table o f Contents The market for software solutions to improve public safety agency workflows is both highly fragmented and highly competitive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about market fragmentation and competitiveness."
+  },
+  {
+   "text": "Our cloud-based digital evidence management system, Axon Evidence, competes with both cloud-based platforms and on-premises based systems designed by third parties or developed internally by an agency's technology staff.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes competitive landscape for existing Axon Evidence product, adding detail to known competition risk."
+  },
+  {
+   "text": "Our competition includes 365Labs, Coreforce, FileOnQ, FotoWare, Genetec, Guardify, i-PRO, Motorola Solutions, NiCE, Omnigo, OpenText Corporation, Oracle, Revir Technologies, Safe Fleet, Veritone, and Vidizmo.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific competitor names for existing digital evidence management competition risk."
+  },
+  {
+   "text": "Key competitive factors in these product categories include product performance and reliability; product features (including live-streaming, GPS tracking, pre-event buffering, real-time alerting and license plate recognition accuracy); battery life and power options; ease of deployment and integration with existing infrastructure; product quality and warranty; total cost of ownership; data security, privacy and information workflows; interoperability with other public safety systems; company reputation and financial strength; and customer satisfaction and relationships.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists competitive factors, expanding detail on existing competition risk without introducing new risk type."
+  },
+  {
+   "text": "Productivity and Real-Time Operations Software \u2014 Records Management System (\u201cRMS\u201d) and Axon Fusus: The RMS vertical area is competitive and highly fragmented.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement describing the RMS market as competitive and fragmented."
+  },
+  {
+   "text": "We have identified more than 50 software providers, including 365Labs, Beacon Software Solutions, Caliber Public Safety (parent, Harris Computer Systems), Central Square Technologies, CivicEye, Coreforce, Core Technology Corporation, CSI Technology Group, EForce Software, Executive Information Services, Hexagon, LawSoft, Mark43, Motorola Solutions, Niche Technology, Oracle, Saab, SmartCop, Sopra Steria, Southern Software, Sun Ridge Systems, Tyler Technologies and Versaterm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a long list of named RMS competitors, expanding existing competition risk detail."
+  },
+  {
+   "text": "In addition, not all law enforcement agencies use software for report writing \u2014 some still use paper.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Minor factual note about paper-based reporting, not a risk statement."
+  },
+  {
+   "text": "We believe our network of camera sensors and digital evidence management platform give us a strategic advantage in these product categories.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Self-promotional claim of competitive advantage, not a risk disclosure."
+  },
+  {
+   "text": "Our Real Time Crime Center Platform, Axon Fusus, competes both with real-time operations platforms that ingest body camera video feeds, like Genetec's Citigraf, Motorola\u2019s CommandCentral Aware, Coreforce\u2019s Real Time Intelligence, Flock Safety\u2019s FlockOS, Hitachi Vantara\u2019s Visualization Platform, and MIDL Technology, as well as platforms that ingest video feeds exclusively from surveillance cameras, like Hexagon's Connect, Live Earth and Spatialitics's GeoShield.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces Axon Fusus as a new Real Time Crime Center platform competing against several newly named platforms, representing a new competitive market exposure."
+  },
+  {
+   "text": "Emergency Communications Software \u2014 911 Data, AI and Call Handling Platforms : Our emergency communications solutions are designed for public safety answering points (\u201cPSAPs\u201d) and emergency communications centers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new business line (emergency communications/911 software) not previously disclosed, creating new competitive and market risk."
+  },
+  {
+   "text": "Today, these offerings primarily consist of cloud-based applications that operate alongside existing 911 call-handling systems and provide AI-powered triage, supplemental data and multimedia streaming capabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds descriptive detail about the newly introduced emergency communications offerings."
+  },
+  {
+   "text": "These include real-time video and text from callers, enhanced device location information and AI-enabled transcription, translation, call summarization and post-call analytics, derived in part from technologies we acquired with Prepared.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on emergency communications features tied to the Prepared acquisition, expanding the new segment's description."
+  },
+  {
+   "text": "These offerings compete with both over-the-top data and AI platforms that integrate with incumbent 911 infrastructure and with more fully integrated Next Generation 911 (\u201cNG911\u201d) platforms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes competitive dynamics for the new emergency communications offerings, building on the newly disclosed risk."
+  },
+  {
+   "text": "Furthermore, our acquisition of Carbyne, a provider of cloud-native emergency communications platforms that combine NG911 call-handling, location and multimedia capabilities with AI and rich data integrations, extends our offerings more deeply into the core call-handling layer of the NG911 workflow.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses the Carbyne acquisition extending into core 911 call-handling, introducing new integration and competitive risk not previously present."
+  },
+  {
+   "text": "Our competition in this space includes CentralSquare Technologies (Vertex NG911 Call Handling), Hexagon AB (call-handling capabilities within its public safety platforms such as I/CAD and OnCall), Intrado Life & Safety (including its VIPER and Power 911 offerings), Motorola Solutions (including its VESTA 9-1-1, its other NG911 call-handling solutions and its Rave 911 suite), RapidSOS, Versaterm, and Zetron (MAX Call Taking), among other providers of NG911 call-handling, data and analytics platforms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific competitors for the new NG911 call-handling space, adding detail to the newly introduced risk."
+  },
+  {
+   "text": "Draft One: The AI-enabled report narrative drafting space is relatively new but fast growing.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new AI-enabled report drafting market (Draft One) as a competitive space, a new business risk area."
+  },
+  {
+   "text": "We have identified several providers in this space, including Abel, Central Square Technologies\u2019 Centerline AI, Clipr.ai, GovWorx, Karda Analytics, Mark43\u2019s ReportAI, Motorola Solutions, Policereports.ai, and Truleo.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific competitors in the newly introduced Draft One market, expanding detail on that new risk."
+  },
+  {
+   "text": "7 Table o f Contents VR De-Escalation Training for Law Enforcement, Corrections and Private Security: Our VR Training platform competes with several other companies in the space who offer simulation scenarios, including simulated training on the use of both lethal and less lethal alternatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes existing VR training competitive landscape with updated framing, not a new risk category."
+  },
+  {
+   "text": "Our competition in this space includes Adaptive VR, Apex Officer, Hologate, InVeris Training Solutions, Laser Shot, MILO, OperatorXR, Street Smarts VR, Ti Training Corp, V-Armed, VirTra and Wrap Technologies, among others.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific named competitors to the existing VR training competition risk."
+  },
+  {
+   "text": "Key competitive factors in this product category include scale of content library, integration to additional sensors and devices, ease of use, visual fidelity and realism, quality of immersion experience (enhanced by capabilities such as eye tracking and speech recognition) and portability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists competitive factors for VR training, adding detail without new risk type."
+  },
+  {
+   "text": "Axon Air: Our end-to-end drone management software platform competes with several companies in the space who offer drone programs and flight management software solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes existing Axon Air drone platform's competitive landscape, expanding known risk detail."
+  },
+  {
+   "text": "Our competition in this space includes Auterion Ltd., BRINC Drones\u2019 LiveOps, Flock Safety\u2019s Aerodome, Motorola Solutions\u2019 CAPE, Paladin Drones\u2019 Watchtower, Versaterm\u2019s DroneSense, and Votix, LLC.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific named competitors for Axon Air, expanding existing competition risk."
+  },
+  {
+   "text": "Our indoor tactical drone hardware platform, Sky-Hero, competes with several companies in the space, including BRINC, Cleo Robotics, Darkhive, DJI, Indoor Robotics, XTEND, FLIR and Flock Safety (through its acquisition of Uniform Sierra Aerospace).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces Sky-Hero, a new indoor tactical drone hardware line, representing a new competitive product category and associated risk."
+  },
+  {
+   "text": "Key competitive factors in this product category include variety and weight limits of compatible payloads, battery life and associated flight range, maneuverability and size, autonomy and onboard intelligence (including ability to navigate in GPS denied environments), sensor and imaging technology, durability and robustness of the drone, cost and maintenance required, reliability and security of communication and control systems, the simplicity of the drone piloting user interface and the training required to operate the drones.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists competitive factors for drone hardware, expanding detail on the drone-related risk."
+  },
+  {
+   "text": "Dedrone: The counter drone space is fast growing and very fragmented.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces Dedrone and the counter-drone market as a new, fast-growing competitive space not previously disclosed."
+  },
+  {
+   "text": "Meyers & Co; stun grenades, such as those made by Combined Systems; long-range acoustic devices, such as those made by Genasys; and police batons and night sticks, such as those made by Monadnock and Armament Systems and Procedures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific named competitors for less-lethal alternative products, expanding existing competition risk detail."
+  },
+  {
+   "text": "TASER devices offer advanced technology, versatility, portability, effectiveness, built-in accountability systems and low injury rates, which enable us to compete effectively against other less-than-lethal alternatives.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates TASER's competitive advantages in familiar terms, largely consistent with prior disclosure."
+  },
+  {
+   "text": "TASER devices also offer connectivity to our cloud network, which allows law enforcement agencies and other professional users to more effectively manage their less-than-lethal programs and automate use-of-force reporting.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes existing TASER cloud connectivity feature, consistent with previously known product capability."
+  },
+  {
+   "text": "The key competitive factors in this product category include a device\u2019s accuracy, effectiveness, reputation, safety, cost, ease of use, and exceptional customer experience.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists competitive factors for TASER devices, adding detail to the existing competition risk without introducing a new risk type."
+  }
+ ]
+}

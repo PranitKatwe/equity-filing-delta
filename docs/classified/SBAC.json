@@ -1,0 +1,88 @@
+{
+ "ticker": "SBAC",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-27",
+ "accession": "0001034054-26-000002",
+ "prior_accession": "0001034054-25-000002",
+ "model": "claude-sonnet-5",
+ "n_added": 14,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "If our wireless service provider customers are unable to access sufficient capital, or unwilling based on the economic cost of such capital or other reasons, to invest in their infrastructure or spectrum, it could reduce our ability to meet our growth expectations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing risk about customer (carrier) capital constraints affecting infrastructure investment, a specific but incremental expansion of dependency risk on customers."
+  },
+  {
+   "text": "Our business depends, in part, on the ability of customers to perform under their contractual and financial obligations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that business depends on customers performing contractual obligations, framing language without specific new risk detail."
+  },
+  {
+   "text": "Adverse changes in a customer\u2019s financial condition or business operations could result in delayed payments, reduced revenues, contract modifications, or nonperformance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of possible consequences of customer financial issues, standard risk framing language."
+  },
+  {
+   "text": "For example, in late 2025, EchoStar (f/k/a DISH Wireless) notified us that it would be discontinuing its network business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, material new fact: a major customer (EchoStar) discontinuing its network business, a concrete new risk event."
+  },
+  {
+   "text": "In December 2025, EchoStar defaulted on its payment obligations to us and such default has continued into 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new event: customer default on payment obligations continuing into 2026, a material new fact not previously disclosed."
+  },
+  {
+   "text": "As a result, we currently expect that this churn will represent approximately $56.0 million of cash site leasing revenue during 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific quantified financial impact ($56.0 million revenue churn) tied to the new EchoStar default risk."
+  },
+  {
+   "text": "While EchoStar\u2019s default, has not had, and is not expected to have, a material adverse effect, any failure of other customers to perform under their contractual and financial obligations to us could, individually or in the aggregate, have a material adverse effect on our business, results of operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the general customer non-performance risk by referencing the specific EchoStar default and its current immaterial impact, adding context to an existing risk category."
+  },
+  {
+   "text": "In addition, we may take certain actions to enforce our 10 Table of Contents rights (including with respect to payment) under our customer contracts, including our contracts with EchoStar, which may be costly, time-consuming and divert management\u2019s attention, and the outcome of any such enforcement is inherently uncertain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding potential costly and uncertain enforcement actions against EchoStar, a concrete new legal/operational risk."
+  },
+  {
+   "text": "In addition, any failure on our part to evolve with developments in artificial intelligence, which is potentially more power-intensive and which may require levels of power that our facilities may not be designed to provide, may reduce the demand for our wireless infrastructure to the extent our competitors are more equipped to handle such developments.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific risk: failure to adapt to power-intensive AI infrastructure demands could reduce competitiveness, not previously mentioned."
+  },
+  {
+   "text": "For example, land owners have attempted, and may in the future attempt, to terminate our right of use agreements, which may have an adverse effect on our business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding landowners attempting to terminate right-of-use agreements, a concrete operational risk not previously disclosed."
+  },
+  {
+   "text": "In addition, the use of our NOLs depends on the effectiveness of our tax strategy and structure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing NOL-related tax risk by tying it to effectiveness of tax strategy, an incremental expansion rather than a wholly new risk."
+  },
+  {
+   "text": "REIT qualification requirements impose limitations that may restrict our flexibility to adjust our tax planning or organizational structure, which could limit or delay our ability to utilize these NOLs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on existing REIT/NOL risk by explaining how REIT rules could limit tax planning flexibility, expanding on a previously disclosed risk area."
+  },
+  {
+   "text": "In addition, the taxing authorities have issued income tax deficiencies related to the deductibility of foreign exchange losses on our intercompany loan for the 2020 tax year.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new factual development: tax authorities issuing income tax deficiencies related to a 2020 tax year matter, a concrete new legal/tax risk."
+  },
+  {
+   "text": "In addition, in a high interest rate environment and when we believe interest rates may stay higher for longer, we believe that debt repayments, especially of 20 Table of Contents our variable rate debt, may be an accretive use of our excess capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional context on capital allocation strategy amid high interest rates, expanding on existing debt/interest rate risk disclosures."
+  }
+ ]
+}

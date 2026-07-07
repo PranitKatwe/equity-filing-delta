@@ -1,0 +1,58 @@
+{
+ "ticker": "HUM",
+ "sector": "Health Care",
+ "filing_date": "2026-02-19",
+ "accession": "0000049071-26-000009",
+ "prior_accession": "0000049071-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "In addition, changes to laws, regulations and guidance regarding how we may use AI/ML could make 22 it harder for us to conduct our business using AI/ML, require us to retrain our AI/ML, delete data produced by our AI/ML, or prevent or limit our use of AI/ML.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk: potential future laws/regulations restricting or requiring changes to AI/ML use, which is a concrete new threat not previously disclosed."
+  },
+  {
+   "text": "Our use of AI/ML technologies could also result in additional compliance costs, regulatory investigations, actions, fines or penalties, and consumer or other lawsuits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds directly on the AI/ML regulatory risk introduced in the prior sentence by detailing specific consequences (compliance costs, investigations, lawsuits), expanding rather than introducing a wholly separate risk."
+  },
+  {
+   "text": "For example, in February 2024, Change Healthcare experienced a significant cybersecurity incident that disrupted its ability to provide services, impacting payers, providers and pharmacies nationwide, including us.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific, material cybersecurity incident (Change Healthcare breach) that actually disrupted operations and impacted the company, representing a concrete new risk example."
+  },
+  {
+   "text": "Further, on May 21, 2025, CMS announced that it will conduct RADV audits for all eligible MA contracts for each payment year in all newly initiated audits and expedite the completion of RADV audits for PY 2018 through PY 2024 by early 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new specific CMS action (expanding RADV audits to all MA contracts and accelerating audits for PY2018-2024) that is a distinct regulatory development not previously mentioned."
+  },
+  {
+   "text": "The Final RADV Rule, including the lack of a FFS Adjuster, and any related regulatory, industry or company reactions, the expansion of CMS's auditing efforts to include all eligible MA contracts, the acceleration of RADV audits for PY 2018 through PY 2024, other changes CMS may make to the RADV audit methodology for these years, and combination of these expanded auditing efforts with the application of the Final RADV Rule, could each have a material adverse effect on our results of operations, financial position, or cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the pre-existing RADV audit risk by adding details about the Final Rule's scope and the newly announced audit expansion, deepening the existing risk disclosure."
+  },
+  {
+   "text": "On September 25, 2025, the Court granted our motion for summary judgment and vacated the Final RADV Rule, finding that the Final RADV Rule was procedurally invalid under the APA because it was not a \u201clogical outgrowth\u201d of the Proposed RADV Rule.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports a specific, material litigation outcome (court vacating the Final RADV Rule) that materially changes the legal landscape referenced in the filing."
+  },
+  {
+   "text": "On November 21, 2025, the government notified the court of its appeal of that decision, which is now pending at the United States Court of Appeals for the Fifth Circuit and captioned Humana v Kennedy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the litigation narrative from the prior sentence by noting the government's appeal, extending the same legal risk rather than introducing a new one."
+  },
+  {
+   "text": "There can be no assurances as to the final disposition of this lawsuit.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about litigation uncertainty with no specific new information or risk detail."
+  }
+ ]
+}

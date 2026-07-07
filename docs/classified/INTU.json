@@ -1,0 +1,148 @@
+{
+ "ticker": "INTU",
+ "sector": "Information Technology",
+ "filing_date": "2025-09-03",
+ "accession": "0000896878-25-000035",
+ "prior_accession": "0000896878-24-000039",
+ "model": "claude-sonnet-5",
+ "n_added": 26,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events, and uncertainties discussed below may have occurred in the past.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing about risk factors, no specific risk content."
+  },
+  {
+   "text": "However, these disclosures are not representations as to whether or not the factors, events, or uncertainties have occurred in the past, instead they reflect our beliefs and opinions as to the factors, events, or uncertainties that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard forward-looking statement disclaimer language."
+  },
+  {
+   "text": "Therefore, you should not consider the following risks to be a complete statement of all the potential risks or uncertainties that we face.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that the list of risks is not exhaustive."
+  },
+  {
+   "text": "They include customers who use our free consumer tax products and whose tax scenarios evolve in subsequent years to require paid services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about customer segment (free-to-paid conversion) likely elaborating on an existing customer/monetization risk."
+  },
+  {
+   "text": "If an infringement claim is successfully asserted against us, it could require us to pay substantial damages or ongoing royalty payments, prevent us from offering our services, require us to change our products, technology, or business practices, or require our compliance with other unfavorable contractual terms.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard IP infringement litigation risk language commonly found in tech company filings, restating a known risk type."
+  },
+  {
+   "text": "We often observe unauthorized copies of our software being sold through online marketplaces, and despite our effort to implement technical countermeasures, we expect piracy to continue to remain a persistent problem that results in lost revenue and increased expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail (online marketplaces, technical countermeasures) expanding on an existing software piracy risk."
+  },
+  {
+   "text": "Environmental, social and governance matters continue to be an area of focus for shareholders, regulators, customers, employees, and other stakeholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about stakeholder focus on ESG, no specific risk."
+  },
+  {
+   "text": "Our efforts and reporting on these matters expose us to risks that could adversely affect our reputation, operations, and performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that ESG efforts could affect reputation/operations without specifics."
+  },
+  {
+   "text": "This could happen if we fail, or are perceived to fail, to meet evolving stakeholder expectations or varying state or federal regulatory requirements, or to uphold or achieve our public commitments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic conditions under which ESG risk could materialize, no new specific fact."
+  },
+  {
+   "text": "Any of the foregoing may also expose us to increased scrutiny from stakeholders and negatively impact demand for our products, our ability to attract and retain talent or our relationships with customers, suppliers or other stakeholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement tied to ESG risk, lacks new specifics."
+  },
+  {
+   "text": "It is possible that malicious third parties may misrepresent their intended use of data or may circumvent our controls, resulting in accidental or intentional disclosure or misuse of our customer or workforce data, despite our efforts to conduct background checks of our workforce, conduct reviews of partners, developers, and vendors and use commercially available technologies to limit access to systems and data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing data security/privacy risk with specific mechanisms (background checks, vendor reviews) of potential failure."
+  },
+  {
+   "text": "It is possible that we may make errors or that funds may be misappropriated due to fraud despite our efforts to ensure that effective processing systems and controls are in place to handle transactions appropriately.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to existing operational/fraud risk regarding processing systems and controls."
+  },
+  {
+   "text": "We have faced and will continue to face intense competition globally to attract and retain a diverse workforce with these and other skills that are critical to our success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about workforce competition, common HR risk boilerplate."
+  },
+  {
+   "text": "In cases where existing employees cannot be effectively developed to meet evolving business needs, our ability to attract and retain top-tier talent becomes even more important.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about talent development and retention importance."
+  },
+  {
+   "text": "Additionally, we recognize that there are inherent climate-related risks wherever business is conducted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic acknowledgment of climate-related risk without specific new detail."
+  },
+  {
+   "text": "The legal and regulatory environment in which we operate is complex, varies across jurisdictions and is subject to frequent change and evolving interpretations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complexity of legal/regulatory environment."
+  },
+  {
+   "text": "New or amended laws, regulations, executive orders, directives, policies, and enforcement priorities may also be introduced.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that new laws may be introduced, no specifics."
+  },
+  {
+   "text": "These dynamics affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague transitional statement with no specific content."
+  },
+  {
+   "text": "Additionally, countries and states are applying their data and consumer protection laws to AI and/or enacting or considering legal frameworks on AI, including Utah, Colorado, and California.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk regarding AI legal frameworks in named states, a concrete new development."
+  },
+  {
+   "text": "Regulatory or legislative changes and other actions that materially affect our business may be announced with little or no advance notice, and we may be unable to respond quickly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory changes occurring with little notice, standard risk language."
+  },
+  {
+   "text": "As a result, we may face increased operating costs, reduced revenue opportunities, and may be unable to mitigate some or all of the adverse impacts those changes may cause.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential financial impact (costs, revenue) of regulatory changes already discussed."
+  },
+  {
+   "text": "In addition, increased interest rates may make offers from Credit Karma\u2019s partners less attractive to Credit Karma's members.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that rising interest rates could make partner offers less attractive to Credit Karma members, a concrete business impact not previously described."
+  },
+  {
+   "text": "We provide qualified small and mid-market businesses with access to capital from third-party lenders and then we purchase some or all of those loans from the lender.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new business activity (purchasing loans from lenders) that introduces credit/financial exposure not previously detailed."
+  },
+  {
+   "text": "We have indebtedness outstanding and may incur additional short-term and long-term debt in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new specific risk of outstanding and potential future indebtedness, introducing financial leverage risk."
+  },
+  {
+   "text": "For further information about our indebtedness, see Note 7 to the consolidated financial statements in Item 8 of this Annual Report.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, administrative rather than substantive."
+  },
+  {
+   "text": "28 Intuit Fiscal 2025 Form 10-K Table of Contents",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/footer artifact with no risk content."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "ticker": "TXN",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-06",
+ "accession": "0000097476-26-000059",
+ "prior_accession": "0000097476-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 4,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Revenue from end customers headquartered in China represented about 20% of our revenue in 2025, while revenue from products shipped into China represented about 50% of our revenue in 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific quantitative detail on China revenue exposure (20% end customers, 50% shipped), expanding on the existing geographic/customer concentration risk with concrete figures rather than introducing a wholly new risk."
+  },
+  {
+   "text": "The semiconductor industry has recently been the focus of increased regulatory activity and scrutiny, which has contributed to variability in global trade conditions and supply chains.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a vague, generic statement about increased regulatory scrutiny in the semiconductor industry contributing to 'variability' without specifying any concrete new risk or impact."
+  },
+  {
+   "text": "Further, certain key materials used in semiconductor manufacturing are primarily sourced from limited geographies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor: reliance on key manufacturing materials sourced primarily from limited geographic regions, a concrete supply chain concentration risk not previously disclosed."
+  },
+  {
+   "text": "Governments have adopted or proposed measures, including export controls on certain minerals, materials and equipment, that could adversely affect equipment and material availability, cost or movement.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding government export controls on minerals, materials, and equipment that could materially affect availability, cost, or movement of supply inputs."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "ticker": "PSX",
+ "sector": "Energy",
+ "filing_date": "2026-02-20",
+ "accession": "0001534701-26-000006",
+ "prior_accession": "0001534701-25-000074",
+ "model": "claude-sonnet-5",
+ "n_added": 7,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not the factors, events or contingencies have occurred in the past and instead reflect our beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing language about the nature of risk factor disclosures, not a substantive risk."
+  },
+  {
+   "text": "While we do not believe that any of these incidents has had a material effect on our business, operations or financial condition, it is possible that a future incident may have such an effect.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary statement about past incidents not being material, common boilerplate."
+  },
+  {
+   "text": "The regulatory landscape governing cybersecurity continues to evolve, and federal, state and international authorities are increasing their oversight of cybersecurity practices, incident reporting and the protection of critical energy infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing cybersecurity risk by noting increasing regulatory oversight, adding detail to an existing risk area."
+  },
+  {
+   "text": "Requirements related to operational technology, supply chain security, data governance and timely disclosure of cyber incidents are becoming more prescriptive, and additional rulemaking may further expand our compliance obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific new compliance obligation areas (operational technology, supply chain, data governance) expanding the existing cybersecurity regulatory risk."
+  },
+  {
+   "text": "As cyber threats targeting the energy sector grow in frequency and sophistication, we are required to devote additional resources to maintain and enhance our cybersecurity programs and controls.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes growing frequency/sophistication of cyber threats requiring more resources, expanding existing cybersecurity risk discussion."
+  },
+  {
+   "text": "Failure to comply with applicable cybersecurity laws and regulations, or to effectively identify, prevent or respond to a cyber event, could result in operational disruptions, increased costs, regulatory enforcement actions or adverse effects on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of consequences for failing to comply with cybersecurity laws, standard boilerplate language."
+  },
+  {
+   "text": "Further, an increasing number of regulators and lawmakers have pursued contrary views, enforcement actions, or investigations, including those that aim to limit the consideration of E&S factors in investment decisions, which may expose us to additional legal, financial, or reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding regulatory and legal backlash against ESG/E&S investment considerations, a distinct and specific emerging risk not previously mentioned."
+  }
+ ]
+}

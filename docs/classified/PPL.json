@@ -1,0 +1,138 @@
+{
+ "ticker": "PPL",
+ "sector": "Utilities",
+ "filing_date": "2026-02-20",
+ "accession": "0000922224-26-000008",
+ "prior_accession": "0000922224-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "18 Table of Contents The business and capital investment plans of PPL depend, in part, on the continued growth and viability of data centers and large load customers in its service territories.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new dependency risk: PPL's business and capital plans depend on continued growth of data centers/large load customers, a topic not previously described."
+  },
+  {
+   "text": "PPL is anticipating increases in load demand, creating a business need for new power generating resources and transmission facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail (need for new generation/transmission) to the newly introduced data center demand risk."
+  },
+  {
+   "text": "Much of this demand is driven by interconnecting with and providing power to data centers and large load customers to serve an increasingly digital economy and to support artificial intelligence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about what is driving the demand (data centers, large load customers, AI), elaborating the new risk topic."
+  },
+  {
+   "text": "The business and capital investment plans of PPL are focused on meeting these current and projected needs.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates that capital plans are focused on meeting these needs, without adding new risk detail."
+  },
+  {
+   "text": "If these increased demands for electricity do not occur as projected or are not sustained as projected, for any reason, it could affect PPL's financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "States a concrete financial consequence if demand projections fail, a new specific risk outcome."
+  },
+  {
+   "text": "PPL is anticipating increases in load demand, creating the need for new power generating resources and transmission facilities.",
+   "category": "reworded_same_meaning",
+   "rationale": "Near-duplicate of sentence 1 with minor wording differences, no new substance."
+  },
+  {
+   "text": "A substantial portion of this demand is driven by the current and projected power needs of data centers to serve an increasingly digital economy and to support artificial intelligence.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the driver of demand (data centers/AI) similarly to sentence 2 with slight rewording."
+  },
+  {
+   "text": "Extending service to these facilities necessitates significant capital expenditures, which in turn requires sufficient access to sources of capital.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about capital expenditure requirements and access to capital for serving these customers."
+  },
+  {
+   "text": "These additional capital needs, the increased concentration of business within a single industry based on emerging technologies, and uncertainties regarding the actual capacity required to satisfy the projected new demands of these new industries creates risks for PPL.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces concentration risk from reliance on a single emerging industry and uncertainty about actual demand capacity."
+  },
+  {
+   "text": "Ensuring that incremental revenues from these projected new demands cover incremental costs and risks is critical to PPL and its relationship to its existing customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the financial/customer relationship risk already introduced regarding incremental revenue versus costs."
+  },
+  {
+   "text": "While contracts with new large load customers typically include provisions for early termination payments, minimum bills, and financial security, these contracts may not fully protect PPL against all risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific contractual risk that termination/minimum bill provisions may not fully protect PPL."
+  },
+  {
+   "text": "Changes in industry practice or advances in the related technologies could reduce the demand for electricity to power data centers or other large load facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk that technology or industry practice changes could reduce electricity demand from data centers."
+  },
+  {
+   "text": "Additionally, these industries may experience a business downturn, which could cause the loss of current or potential customers or may weaken the financial condition and creditworthiness of existing customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of customer downturns or weakened creditworthiness affecting PPL."
+  },
+  {
+   "text": "If anticipated demand growth does not materialize, PPL could experience unrecovered capital investments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific financial risk of unrecovered capital investment if demand fails to materialize."
+  },
+  {
+   "text": "Conversely, if demand grows more rapidly than projected, PPL may face challenges in securing adequate generation and transmission capacity and maintaining service reliability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk scenario where faster-than-expected demand growth strains capacity and reliability."
+  },
+  {
+   "text": "Because AI technologies remain in the early stages of development and industry standards are still emerging, their use, whether by PPL, its subsidiaries or third-party vendors, presents inherent risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a wholly new risk category regarding AI technology adoption and its inherent risks."
+  },
+  {
+   "text": "Although we seek contractual protections and conduct due diligence with third-party vendors that incorporate AI technologies into their products or services, we may not have full visibility into, awareness of, or control over, the underlying data, supply chain dependencies, model training practices, performance, security safeguards, or compliance posture of such AI enabled tools.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the AI risk by detailing lack of visibility into vendor AI practices."
+  },
+  {
+   "text": "AI algorithms that we or our third-party vendors use may be flawed or may be based on datasets that are biased or insufficient, which may introduce risks involving data quality, data integrity, cybersecurity, adversarial manipulation, intellectual property, regulatory compliance, biased outcomes, or improper handling of sensitive information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks (bias, cybersecurity, IP, compliance) tied to AI algorithm flaws."
+  },
+  {
+   "text": "In addition, the development, testing, and deployment of AI capabilities may require significant computational resources, specialized personnel, and additional investment, resulting in increased costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new cost risk from AI development, testing, and deployment requiring significant resources."
+  },
+  {
+   "text": "We may not be able to recover these costs through our regulatory proceedings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that AI-related costs may not be recoverable through regulatory proceedings."
+  },
+  {
+   "text": "Rapid advances in AI capabilities, as well as the emerging regulatory landscape in the United States and internationally, may also require modifications to our systems, adoption of enhanced governance processes or implementation of new safeguards.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on operational impacts (system modifications, governance) stemming from AI risk already introduced."
+  },
+  {
+   "text": "Future laws, regulations, Executive Orders, or industry standards relating to AI (which may be conflicting), including those addressing transparency, data usage, cybersecurity, accountability, or risk management, could materially affect how we design, procure, or use AI technologies and could increase compliance costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory risk from evolving AI laws and standards affecting design and compliance costs."
+  },
+  {
+   "text": "In addition, the pace of AI innovation and regulation is unpredictable, and we cannot foresee all potential impacts of AI technologies or future laws and regulations or compliance requirements, and their associated costs and consequences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unpredictability of AI regulation without adding specific new risk detail."
+  },
+  {
+   "text": "Any of the risks described above could adversely affect our business operations, reputation, or financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard closing boilerplate referencing risks already described, adding no new substance."
+  }
+ ]
+}

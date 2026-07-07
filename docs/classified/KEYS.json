@@ -1,0 +1,218 @@
+{
+ "ticker": "KEYS",
+ "sector": "Information Technology",
+ "filing_date": "2025-12-17",
+ "accession": "0001601046-25-000127",
+ "prior_accession": "0001601046-24-000159",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "In addition to our centralized manufacturing hub in Penang, Malaysia, our largest facility, responsible for final assembly, tuning, calibration, and test of many of our advanced instruments, we maintain significant manufacturing operations in the United States, including facilities in California and Colorado.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive facility location detail, not a risk statement."
+  },
+  {
+   "text": "These U.S. operations are responsible for our leading edge, proprietary technology platforms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of operations, no risk introduced."
+  },
+  {
+   "text": "Specifically, we operate five specialized technology centers across Santa Rosa, California; Colorado Springs, Colorado; and Boeblingen, Germany.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists specific facility locations, descriptive not risk-related."
+  },
+  {
+   "text": "These capabilities provide a competitive advantage by delivering performance levels not commercially available and are critical to the broad range of markets we serve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive advantage, no specific risk."
+  },
+  {
+   "text": "We offer competitive compensation, a safe and respectful work environment, and opportunities to grow professionally and personally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR/compensation framing language."
+  },
+  {
+   "text": "We believe our culture, rooted in technology leadership, innovation, inclusion, and engagement, is a strategic advantage that drives our success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Culture statement, generic corporate language."
+  },
+  {
+   "text": "These standards are publicly available on our website and serve as the foundation of our integrity-driven approach to business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to publicly available standards, no risk content."
+  },
+  {
+   "text": "This collaboration ensures we attract and retain the talent needed to drive innovation and deliver customer success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about talent retention collaboration."
+  },
+  {
+   "text": "Once onboard, employees are supported through a range of development opportunities, including leadership education, mentoring programs, and employee network groups.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee development programs, not a risk."
+  },
+  {
+   "text": "We conduct annual succession planning throughout the organization, including executive leadership, to ensure a strong pipeline of future leaders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Succession planning description, generic HR practice."
+  },
+  {
+   "text": "As a global company, we recognize the importance of preserving institutional knowledge, especially as many of our experienced employees become eligible for retirement.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk regarding loss of institutional knowledge due to workforce retirement."
+  },
+  {
+   "text": "To address this, we have implemented structured knowledge transfer programs designed to retain critical expertise and maintain business continuity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes mitigation program, not a new risk itself."
+  },
+  {
+   "text": "Compensation and Benefits We seek to achieve competitive and equitable pay across our organization globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic compensation philosophy statement."
+  },
+  {
+   "text": "We conduct annual pay equity analyses, adjusting for role, experience, location, and performance to ensure fairness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes pay equity practice, not a risk."
+  },
+  {
+   "text": "Juskie has served in various roles within the Legal Department, including Managing Counsel for Keysight and Agilent from 2009 to 2019.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not risk-related."
+  },
+  {
+   "text": "Jeffrey Li , 56, has served as Senior Vice President, General Counsel, and Secretary since July 2019.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not risk-related."
+  },
+  {
+   "text": "Yoon, 59 , has served as Senior Vice President, Global Sales since November 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not risk-related."
+  },
+  {
+   "text": "There have been recent and ongoing changes to U.S. tariff policy, resulting in broad-based increases in tariff rates.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding recent broad-based U.S. tariff policy changes."
+  },
+  {
+   "text": "Commencing in the second quarter of fiscal 2025, new U.S. tariffs applying to imports from all countries were announced, including significantly higher rates on imports from China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail expanding the newly introduced tariff risk (China rates)."
+  },
+  {
+   "text": "In response, several countries, including China, have imposed or threatened to impose retaliatory measures on imports from the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on retaliatory tariff measures, expanding the tariff risk."
+  },
+  {
+   "text": "The U.S. government has announced various modifications and delays to its tariff policy and further changes may be made in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on tariff policy volatility, expanding same risk."
+  },
+  {
+   "text": "There has also been continuing litigation in the federal courts regarding the validity of the imposition of certain tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on litigation over tariff validity, expanding same risk."
+  },
+  {
+   "text": "Continued uncertainty around trade policy could substantially change our cost of operating in such jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential cost impact of tariff uncertainty, expanding the risk."
+  },
+  {
+   "text": "Moreover, these tariffs and any other trade restrictions imposed on our customers or suppliers could adversely affect our financial results and position through reduced demand for our products and solutions, cancelled orders, supply chain disruptions, increased transaction costs, and increased expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific financial impacts of tariffs on customers/suppliers, expanding the risk."
+  },
+  {
+   "text": "There have been recent and ongoing changes to U.S. tariff policy, resulting in broad-based increases in tariff rates.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of earlier tariff policy sentence, same content repeated."
+  },
+  {
+   "text": "Commencing in the second quarter of fiscal 2025, new U.S. tariffs applying to imports from all countries were announced, including significantly higher rates on imports from China.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of earlier sentence about new tariffs on China."
+  },
+  {
+   "text": "In response, several countries, including China, have imposed or threatened to impose retaliatory measures on imports from the U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of earlier sentence about retaliatory tariffs."
+  },
+  {
+   "text": "The U.S. government has announced various modifications and delays to its tariff policy and further changes may be made in the future.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of earlier sentence about tariff policy modifications."
+  },
+  {
+   "text": "There has also been continuing litigation in the federal courts regarding the validity of the imposition of certain tariffs.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate of earlier sentence about tariff litigation."
+  },
+  {
+   "text": "Many of our suppliers, vendors, customers, partners, and other entities with whom we do business have strong ties to doing business in China and other countries impacted by the increased tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about business partners' exposure to China tariffs, expanding trade risk."
+  },
+  {
+   "text": "If the U.S.\u2019 relationship with countries subject to increased tariffs results in additional trade disputes, trade protection measures, retaliatory actions and increased barriers, policies that favor domestic industries, or increased import or export licensing requirements or restrictions, we could suffer additional unforeseen adverse effects on our operating results and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential adverse effects from trade disputes, expanding tariff risk."
+  },
+  {
+   "text": "On January 23, 2025, we filed a lawsuit against the United States of America in the United States Court of Federal Claims seeking a tax refund of $107 million, or such greater amount allowed by law, plus any other amount, including interest and cost, allowed by law.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new litigation matter seeking a $107 million tax refund."
+  },
+  {
+   "text": "We are in the process of renewing our Malaysia tax incentive and believe that we will obtain the renewal from the taxing authorities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding uncertainty of renewing Malaysia tax incentive."
+  },
+  {
+   "text": "However, we cannot guarantee that we will be granted the Malaysian tax incentive and the timing of when we can renew our incentive rate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates uncertainty about the Malaysia tax incentive renewal risk just introduced."
+  },
+  {
+   "text": "We challenged the validity of claims of eight of these patents at the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides procedural detail on existing patent litigation risk."
+  },
+  {
+   "text": "Patent and Trademark Office, with all or most claims being found invalid in each patent.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details outcome of patent validity challenges, expanding existing litigation risk."
+  },
+  {
+   "text": "Centripetal is appealing seven of these results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes ongoing appeal, expanding existing litigation risk."
+  },
+  {
+   "text": "In addition, in February 2022, Centripetal filed complaints in Germany alleging infringement of three of Centripetal\u2019s German patents.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new litigation venue (Germany) and new infringement claims not previously disclosed."
+  },
+  {
+   "text": "Keysight challenged the validity of the claims of these patents in German nullity or European Patent Office (\u201cEPO\u201d) opposition procedures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details company's response to the new German litigation, expanding that risk."
+  },
+  {
+   "text": "Two of the three patents were invalidated and the appeals process has ended.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides outcome detail of the German patent litigation, expanding that risk."
+  }
+ ]
+}

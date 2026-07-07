@@ -1,0 +1,173 @@
+{
+ "ticker": "BA",
+ "sector": "Industrials",
+ "filing_date": "2026-01-30",
+ "accession": "0001628280-26-004357",
+ "prior_accession": "0000012927-25-000015",
+ "model": "claude-sonnet-5",
+ "n_added": 31,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "During 2025, we continued to make progress in our culture transformation, including through launching our new Values and Behaviors, revising our performance management system to hold employees accountable not only for what they achieve but for how they achieve it, and enhancing training and leadership development programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about culture transformation progress; no specific risk introduced."
+  },
+  {
+   "text": "The 737 program may only increase production rates and/or implement new production lines with the concurrence of the FAA .",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific regulatory constraint (FAA concurrence) to existing risk about production rate increases."
+  },
+  {
+   "text": "Our customers\u2019 fleet decisions and financial position are also impacted by fuel and other costs, as well as inflationary pressures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds inflationary pressures as an additional factor affecting existing risk about customer fleet decisions/financial position."
+  },
+  {
+   "text": "As a result, our ability to deliver aircraft on time, satisfy regulatory and customer requirements, and achieve or maintain, as applicable, program profitability is subject to significant risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary statement about risks to delivery and profitability without new specifics."
+  },
+  {
+   "text": "For example, the 777X program, which launched in 2013 and is currently expecting first delivery in 2027, recognized additional reach-forward losses of $4.9 billion and $3.5 billion in 2025 and 2024, primarily due to production challenges, certification and delivery delays, and higher estimated labor and supplier costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific material financial losses ($4.9B and $3.5B) tied to 777X program delays and cost overruns."
+  },
+  {
+   "text": "We have plans to increase production rates on several of our commercial aircraft programs, while continuing ongoing development and production of new or derivative aircraft.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about production rate plans, providing context rather than a new risk."
+  },
+  {
+   "text": "These plans include increasing the 737 production rate to 47 per month in 2026, as well as further production rate increases that will require a new production line.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific new details (rate of 47/month, new production line) that expand the existing production risk discussion."
+  },
+  {
+   "text": "There is risk that planned production rate increases may be delayed or not occur at all if our production health key performance indicators and rate readiness process guided by our Safety Management System do not support increasing production rates or we are unable to obtain FAA concurrence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing production rate risk by tying it to specific KPI and FAA approval processes."
+  },
+  {
+   "text": "Similarly, there is risk that planned 787 production rate increases may be delayed or not occur at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the same production rate delay risk to the 787 program."
+  },
+  {
+   "text": "As of December 31, 2025, we had 32 independent agreements with nine different unions in the U.S., and we had agreements with 18 employee representative bodies internationally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update of union agreement counts, not a risk statement."
+  },
+  {
+   "text": "During 2024, employees represented by International Association of Machinists and Aerospace Workers (IAM) District 751, which represents over 30,000 Boeing manufacturing employees primarily located in Washington state, went out on strike for 53 days, halting production of most of our commercial aircraft and certain of our Defense, Space & Security products, and materially adversely impacting our business and financial position.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific past strike event with material adverse impact on production and financial position."
+  },
+  {
+   "text": "During 2025, employees represented by IAM District 837, which represents approximately 3,200 employees at our St.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific strike event (IAM District 837) with material operational impact."
+  },
+  {
+   "text": "Louis area sites, went out on strike for 101 days, disrupting our St.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation/detail of the same strike event already described, no new risk substance."
+  },
+  {
+   "text": "Louis operations and impacting programs including F/A-18, F-15, T-7A, MQ-25 and Weapons.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific programs affected by the strike, expanding on the disclosed labor disruption risk."
+  },
+  {
+   "text": "Both the IAM District 751 and the IAM District 837 strikes occurred despite having in each case reached a tentative agreement with union leadership on the terms of the proposed contract and union leadership having recommended its members vote to ratify the proposed contract.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that both strikes occurred despite tentative agreements, deepening the labor relations risk narrative."
+  },
+  {
+   "text": "If we are unable to successfully negotiate successor agreements with our unions that our employees will ratify 9 Table of Contents (including with Society of Professional Engineering Employees in Aerospace who have two contracts expiring in October 2026), we may experience additional work stoppages in the future, which could materially adversely affect our business, financial position, results of operations and cash flows and result in the diversion of management\u2019s attention from other ongoing business concerns.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of future work stoppages tied to upcoming contract expirations (SPEEA 2026)."
+  },
+  {
+   "text": "The global trade environment remains highly dynamic and continues to evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about trade environment volatility without specific new risk detail."
+  },
+  {
+   "text": "Current U.S. trade policy includes the imposition of baseline, sectoral or country-specific tariffs on imports.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about current tariff structure expanding existing trade risk discussion."
+  },
+  {
+   "text": "Other countries have announced retaliatory actions or plans for retaliatory actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about retaliatory actions by other countries, expanding tariff risk."
+  },
+  {
+   "text": "Tariffs and any retaliatory actions could significantly increase the cost of our products and, particularly with respect to our commercial aircraft, result in lower demand for our products, delivery delays, and terminations of orders by customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential business impacts of tariffs, consistent with existing trade risk."
+  },
+  {
+   "text": "For example, in the second quarter of 2025, certain customers in China paused accepting our deliveries in response to ongoing tariff negotiations between the U.S. and China.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a concrete, specific example of customers in China pausing deliveries due to tariff negotiations, a material new development."
+  },
+  {
+   "text": "As part of our portfolio management, we also may make strategic divestitures from time to time, such as our recent divestiture of portions of our Digital Aviation Solutions business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Mentions a specific divestiture as an example within existing portfolio management risk discussion."
+  },
+  {
+   "text": "In connection with acquisitions or divestitures, we may have obligations to, or rely on the performance of, unrelated third parties, including pursuant to transitional or longer-term services agreements and/or guarantees or other financial arrangements, and nonperformance or underperformance of such agreements could affect our future financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing M&A risk by detailing reliance on third parties for transitional services."
+  },
+  {
+   "text": "For example, in connection with the Spirit Acquisition, we are required to provide services to buyers of divested Spirit businesses, including 12 Table of Contents Airbus, and if we are unable to satisfy our obligations to these third parties or if they assert claims against us, our business and financial condition could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new obligation to Airbus tied to Spirit Acquisition divestitures, a concrete new financial/legal exposure."
+  },
+  {
+   "text": "Estimating the costs, including labor costs, and time for us and our suppliers to complete fixed-price development and follow-on production contracts is inherently uncertain and subject to significant variability as a result of highly complex designs and technical requirements as well as extended periods of performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing risk regarding cost estimation uncertainty in fixed-price contracts."
+  },
+  {
+   "text": "This uncertainty requires us to make significant judgments and assumptions about future operational and technical performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about judgment/assumptions, not a new specific risk."
+  },
+  {
+   "text": "The outcome of customer and/or supplier contractual negotiations could increase costs and lower margins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about contractual negotiation outcomes affecting costs and margins, expanding existing contract risk."
+  },
+  {
+   "text": "Similarly, complex technical requirements can often change over time or may not be well understood at the outset of the contract.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about changing technical requirements, reiterating known risk without new specifics."
+  },
+  {
+   "text": "Actual performance and/or contractual outcomes could be different than previously assumed, creating financial risk that could trigger additional material earnings charges, termination provisions, order cancellations or other significant financial exposures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential consequences (earnings charges, terminations) that expand on existing contract performance risk."
+  },
+  {
+   "text": "Any such inquiry or investigation could result in an adverse ruling against us, which could have a material impact on our financial position, results of operations and/or cash flows, or cause reputational harm.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic legal/regulatory risk language about possible adverse rulings, no new specifics."
+  },
+  {
+   "text": "We may also issue shares of our common stock upon the exchange of the $230 million of 3.250% Exchangeable Notes, maturing November 1, 2028 (the Spirit Exchangeable Notes), that we assumed in connection with the Spirit Acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new financial instrument ($230 million Exchangeable Notes) creating potential dilution risk from the Spirit Acquisition."
+  }
+ ]
+}

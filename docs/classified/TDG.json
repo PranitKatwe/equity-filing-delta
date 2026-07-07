@@ -1,0 +1,48 @@
+{
+ "ticker": "TDG",
+ "sector": "Industrials",
+ "filing_date": "2025-11-12",
+ "accession": "0001260221-25-000081",
+ "prior_accession": "0001260221-24-000083",
+ "model": "claude-sonnet-5",
+ "n_added": 6,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Furthermore, entering into fixed-price contracts with the United States Government (\u201cU.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about fixed-price contracts with the U.S. Government exposing the company to cost overrun and margin risk from small-quantity/spot purchases without reliable forecasts."
+  },
+  {
+   "text": "Government\u201d), particularly for small-quantity or spot purchases made without reliable forecasts, exposes us to the risk of cost overruns and reduced margins if production costs increase or economies of scale cannot be achieved.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and elaborates the same fixed-price contract risk introduced in the prior sentence, detailing mechanism of cost overruns and reduced margins."
+  },
+  {
+   "text": "Department of Defense (\u201cDOD\u201d) with respect to prices paid for such products.",
+   "category": "new_substantive_risk",
+   "rationale": "References specific DOD pricing scrutiny risk not previously described, adding a concrete regulatory/government pricing exposure."
+  },
+  {
+   "text": "11 Table of Contents The risks in this area continue to grow, and we expect cyber events will continue to accelerate in frequency and impact as threat actors increasingly use AI and other techniques to circumvent security controls, evade detection and remove forensic evidence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk disclosure by adding specific detail about AI-driven threat acceleration, intensifying the described risk rather than introducing a wholly new one."
+  },
+  {
+   "text": "Our business is subject to regulation under a variety of U.S. federal and state and non-U.S. laws, regulation and policies that require ongoing compliance efforts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to various laws and regulations, standard boilerplate language common in risk factor sections."
+  },
+  {
+   "text": "We produce highly engineered aircraft components, and accordingly, the adverse impact of product quality issues, actual or perceived, can be significant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on product quality risk specific to aircraft components, adding detail to an existing type of business risk rather than introducing a new category."
+  }
+ ]
+}

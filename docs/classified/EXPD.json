@@ -1,0 +1,218 @@
+{
+ "ticker": "EXPD",
+ "sector": "Industrials",
+ "filing_date": "2022-03-15",
+ "accession": "0001564590-22-010381",
+ "prior_accession": "0001564590-21-006925",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 33,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 24,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "As discussed in more detail under \u201cResults of Operations\u201d, there are significant constraints on current capacity for both air freight and ocean freight.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific current capacity constraints in air and ocean freight markets, a concrete new risk not previously described."
+  },
+  {
+   "text": "This is due to a number of factors, including reduced flight schedules from pre-pandemic levels and new regulations, which limited available belly space for cargo, congestion at ports resulting from labor and equipment shortages and insufficient warehousing space at destinations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed causes supporting the newly introduced capacity constraint risk."
+  },
+  {
+   "text": "Air freighters and charters, container ships and gateway infrastructure are operating at near maximum capacity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail on near-maximum capacity utilization, elaborating the capacity constraint risk."
+  },
+  {
+   "text": "While we believe these constraints are not long-term in nature, they impact our current ability to move increased air and ocean volumes in these capacity-constrained regions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about the duration and impact of the constraints already described."
+  },
+  {
+   "text": "This has caused some customers to renegotiate contractual terms, increasing our accounts receivable collection and extended liability risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific consequence\u2014renegotiated contracts increasing receivable collection and liability risk."
+  },
+  {
+   "text": "Throughout 2021 and into 2022, transportation rates have risen to historically high levels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual detail on rate increases supporting the broader capacity/rate risk narrative."
+  },
+  {
+   "text": "We believe that as Covid-19 disruptions recede, and passenger air travel rebounds, that port congestion will improve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the rate/capacity discussion with forward-looking belief, not a new distinct risk."
+  },
+  {
+   "text": "This will result in additional transportation capacity becoming available.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on anticipated capacity changes tied to the same underlying risk."
+  },
+  {
+   "text": "Rates will likely decline as this occurs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing expected rate trends within the same risk theme."
+  },
+  {
+   "text": "On a limited basis, we have entered in to fixed-rate buy agreements to secure space in the air and ocean markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific business practice\u2014fixed-rate buy agreements\u2014that creates new financial exposure."
+  },
+  {
+   "text": "Future declines of sell rates will negatively affect our operating income and cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial risk: declining sell rates negatively affecting income and cash flow due to fixed buy rates."
+  },
+  {
+   "text": "As the pandemic restrictions ease, we are requiring employees to return to the office.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual operational change (return to office) without describing a risk itself."
+  },
+  {
+   "text": "As a result, for those individuals that prefer working remotely, we may experience a higher degree of turnover and lower employee satisfaction in the near future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of employee turnover and dissatisfaction due to return-to-office policy."
+  },
+  {
+   "text": "Further, this could inhibit our ability to identify, recruit, and hire new employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the newly introduced turnover risk to recruitment challenges."
+  },
+  {
+   "text": "Additionally, we may incur higher compensation-related expense to recruit and retain employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further extends the same turnover/recruitment risk to increased compensation costs."
+  },
+  {
+   "text": "In February 2022, we were the subject of a targeted cyber-attack.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific historical cyber-attack event, a new concrete risk disclosure."
+  },
+  {
+   "text": "Upon discovering the incident, we shut down most of our operating systems globally to manage the safety of our overall global systems environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the response to the cyber-attack already introduced."
+  },
+  {
+   "text": "This shutdown and any such future events will result in loss of revenue; business disruptions (such as the inability to timely process shipments); and significant remediation costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential future impacts of the disclosed cyber-attack risk."
+  },
+  {
+   "text": "As a non-asset-based provider of global logistics services, Expeditors depends on a variety of carriers and other service providers, including air, ocean and ground freight carriers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of business model dependency on carriers, standard context rather than new risk."
+  },
+  {
+   "text": "Our ability to deliver our services depends on service providers\u2019 having sufficient capacity available to purchase.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about dependency on service provider capacity, not a new specific risk."
+  },
+  {
+   "text": "When market demand significantly exceeds available capacity in a given market, which has been increasingly the case for various services and markets since the beginning of the pandemic in 2020, we may not always be able to find acceptable transportation or other service solutions to meet our customers\u2019 needs or the routing and delivery of freight may be subject to delays that are outside of our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about demand exceeding capacity since the pandemic, expanding existing capacity risk."
+  },
+  {
+   "text": "Quality customer service is a key element of the Company\u2019s success, and such challenges in meeting our customers\u2019 needs and requirements may result in loss of business and consequently negatively affect our operating results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about customer service importance, standard risk framing."
+  },
+  {
+   "text": "See \u201c Any significant disruptions to our network and systems continuity could have an adverse impact to our business and financial results\u201d above .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor, not a new risk."
+  },
+  {
+   "text": "We Face Risks Associated with the Handling of Customer Inventory Under some of our agreements, we maintain the inventory of our customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk category regarding handling of customer inventory."
+  },
+  {
+   "text": "Our failure to properly handle and safeguard such inventory exposes us to unexpected claims and expenses as well as potential harm to our business and reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequences of the newly introduced inventory handling risk."
+  },
+  {
+   "text": "Our insurance coverage does not cover all potential losses and significant uninsured losses could adversely impact our financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding insufficient insurance coverage."
+  },
+  {
+   "text": "We carry insurance coverage for property damage and other insurable events resulting from certain events such as fire as well as other perils under extended coverage policies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides background detail on insurance coverage supporting the new risk."
+  },
+  {
+   "text": "Our insurance coverages contain policy specifications and insured limits customarily carried for similar locations, business activities and markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further describes insurance policy specifics, elaborating the new risk."
+  },
+  {
+   "text": "We believe we are adequately insured.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reassurance statement about adequacy of insurance, standard boilerplate."
+  },
+  {
+   "text": "Certain losses, however, including losses from floods, earthquakes, acts of war, acts of terrorism or riots, cybersecurity events and pandemics, generally are not insured against or not fully insured against because it is not deemed economically feasible or prudent to do so.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies types of losses not covered, expanding on the insurance risk."
+  },
+  {
+   "text": "If an uninsured loss or a loss in excess of insured limits occurs with respect to one or more of our facilities in the future, we could experience a significant loss of assets, including customer inventory, and future operations could be harmed resulting in a loss of revenues or higher claims and operating expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential financial impact of uninsured losses, extending the insurance risk."
+  },
+  {
+   "text": "Furthermore, we cannot be sure that the insurance companies will be able to continue to offer products with sufficient coverage at commercially reasonable rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds concern about future insurance availability, part of the same risk theme."
+  },
+  {
+   "text": "If we experience a loss that is uninsured or that exceeds insured limits then we could incur additional expenses or a loss of future revenues from a facility that is damaged.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates financial impact of uninsured losses, consistent with the established risk."
+  },
+  {
+   "text": "Any such losses or higher insurance costs could adversely affect our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General concluding statement about adverse effects, summarizing existing risk without new detail."
+  },
+  {
+   "text": "Climate change, including measures to address climate change, could adversely impact our business and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new distinct risk factor regarding climate change impacts on business."
+  },
+  {
+   "text": "The long-term effects of climate change are difficult to predict and may be widespread.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides context on the difficulty of predicting climate change effects, supporting the new risk."
+  },
+  {
+   "text": "The impacts of climate change may include physical risks (such as rising sea levels, which could affect port operations or frequency and severity of extreme weather conditions, which could disrupt our operations and damage cargo and our facilities), compliance costs and transition risks (such as increased regulation and taxation to support carbon emissions\u2019 reduction investments), shifts in customer demands (such as customers requiring more fuel efficient transportation modes or transparency to carbon emissions in their supply chains) and other adverse effects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific physical and transition risks related to climate change, expanding the new risk."
+  },
+  {
+   "text": "Our non-asset-based model gives us a flexibility and an ability to change locations, modes, and carriers based on evolving operating conditions, however, such impacts may disrupt our operations by adversely affecting our ability to procure services that meet regulatory or customer requirements, depending on the availability of sufficient appropriate logistics solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains how business model may be affected by climate-related operational disruptions."
+  },
+  {
+   "text": "In addition, the increasing concern over climate change has resulted and may continue to result in more regulations relating to climate change, including regulating greenhouse gas emissions, restrictions on modes of transportation, alternative energy policies and sustainability initiatives, such as the FuelEU Maritime initiative.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on regulatory developments related to climate change, extending the risk."
+  },
+  {
+   "text": "If legislation or regulations are enacted or promulgated in the United States or in any other jurisdictions in which we operate, that impose more stringent restrictions and requirements than our current legal or regulatory obligations, we may experience disruptions in, or increases in the costs associated with delivering our services, which may negatively affect our operating our results of operations, cash flows and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential financial impact of new climate regulations, further expanding the risk."
+  }
+ ]
+}

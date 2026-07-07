@@ -1,0 +1,73 @@
+{
+ "ticker": "MTD",
+ "sector": "Health Care",
+ "filing_date": "2026-02-06",
+ "accession": "0001037646-26-000011",
+ "prior_accession": "0001037646-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "This may impact energy availability and costs in Europe and could impact our European manufacturing operations and demand for our products in Europe.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding European energy availability and costs affecting manufacturing operations and demand, not previously disclosed."
+  },
+  {
+   "text": "We continue to invest in global market trends around automation and digitalization, as well as technologies related to artificial intelligence (AI).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about investing in industry trends like AI and automation; describes business strategy rather than a risk."
+  },
+  {
+   "text": "We have several initiatives that further strengthen our capabilities to serve customers, and we continue to advance the digital capability of our products and software to provide additional insights and productivity improvements to our customers throughout their value chains.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company initiatives and product capabilities, not a risk to the business."
+  },
+  {
+   "text": "For example, recent cuts in U.S. governmental funding related to medical and scientific research has economically impacted government agencies and academic institutions who were the recipients of this funding in the past.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about U.S. government funding cuts to research impacting customers who are recipients of such funding."
+  },
+  {
+   "text": "Even though inflation has generally moderated, it continues to be elevated in certain jurisdictions and could prove to be persistent as a result of new tariffs imposed by the U.S. and other countries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing inflation risk disclosure by tying persistence of inflation to newly imposed tariffs, expanding the causal factors."
+  },
+  {
+   "text": "Legal, Tax, Regulatory, and Other Risks Unanticipated changes in our tax rates or additional income tax liabilities could impact our profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header/topic sentence introducing a category of risks, not itself a substantive risk disclosure."
+  },
+  {
+   "text": "In 2025, the U.S. government enacted incremental tariff rates on imports from several foreign countries, which remain subject to negotiation and change, and the Chinese government implemented retaliatory tariffs resulting in incremental tariff costs of approximately $50 million in 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific, quantified new information about 2025 tariff actions and their concrete financial impact ($50 million in costs)."
+  },
+  {
+   "text": "We have implemented mitigating actions, including increasing our pricing and optimizing our global supply chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes mitigating actions taken by the company rather than disclosing a risk."
+  },
+  {
+   "text": "Although we have implemented various actions to mitigate the effect of current tariffs, they may be inadequate to cover the potential costs of future tariffs that may be enacted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific forward-looking risk that current mitigation efforts may be insufficient against future tariff increases."
+  },
+  {
+   "text": "In addition, evolving and sometimes conflicting stakeholder expectations with respect to climate-change-related Company policies, actions, or goals, could expose us to legal and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk related to conflicting stakeholder expectations on climate policy creating legal and reputational exposure."
+  },
+  {
+   "text": "Increased demands may cause us to incur increased supply chain costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a general statement about increased supply chain costs, likely expanding on pre-existing supply chain risk disclosures."
+  }
+ ]
+}

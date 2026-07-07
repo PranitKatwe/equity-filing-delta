@@ -1,0 +1,73 @@
+{
+ "ticker": "LII",
+ "sector": "Industrials",
+ "filing_date": "2026-02-17",
+ "accession": "0001069202-26-000028",
+ "prior_accession": "0001628280-25-004859",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 8,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "In some of the markets in which we compete, such as parts and supplies, distribution, and service of commercial heating and cooling equipment, barriers to entry are lower, which has led to highly competitive markets consisting of various-sized entities, ranging from small or local operators to large regional businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about low barriers to entry and the range of competitors in certain product/service markets, expanding on the general competition risk rather than introducing a wholly new one."
+  },
+  {
+   "text": "The integration of any such new products or technologies into our business may also require the development of new processes and the expenditure of significant financial and operational resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generic statement about resource requirements for integrating new technology, elaborating on existing innovation/technology risk without adding a specific new threat."
+  },
+  {
+   "text": "Lennox operates a direct-to-dealer network, meaning we manufacture products and sell them directly to select, independent home service companies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a descriptive explanation of the business model (direct-to-dealer network) rather than a risk statement."
+  },
+  {
+   "text": "We rely on our direct sales channel for a substantial portion of our revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific concentration risk: reliance on the direct sales channel for a substantial portion of revenue, which was not previously stated."
+  },
+  {
+   "text": "Our direct-to-dealer network also creates a large installed base of HVACR equipment, and creates opportunities for longer term service, monitoring, solutions, and retrofit revenue.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a business advantage (installed base creating service opportunities) rather than a risk to the company."
+  },
+  {
+   "text": "If we are unable to continue to execute our strategy, whether due to changes in economic conditions, a failure to anticipate changing customer needs, entry of new competitors into the low-barrier distribution business, or for any other reason, our revenue could decline, which could in turn adversely impact our product pull-through and our ability to grow revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of failing to execute strategy amid competitive pressures, building on the existing competition risk narrative."
+  },
+  {
+   "text": "Finally, multiple jurisdictions have either already put in place laws and regulations governing the use of AI, or are considering such laws and regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk regarding emerging AI laws across jurisdictions, not previously disclosed."
+  },
+  {
+   "text": "Compliance with these laws, regulations, and industry frameworks may limit our ability to leverage AI or require us to substantially revise our approach to its use.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows directly from the new AI regulation risk, detailing compliance burdens; expands rather than introduces a distinct new risk."
+  },
+  {
+   "text": "The USMCA is subject to review and renewal in 2026, and there can be no assurance that any newly negotiated terms in the USMCA will not adversely affect our business or operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, concrete risk tied to the 2026 USMCA renewal and potential adverse changes to trade terms."
+  },
+  {
+   "text": "Further, as AI technologies advance, new and increasingly sophisticated attack methods are emerging, including fraud involving impersonation technologies or other forms of generative AI that enhance the scale, frequency, and effectiveness of cyber threats.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new cybersecurity threat involving AI-driven impersonation and generative AI-enhanced attacks."
+  },
+  {
+   "text": "For example, in 2025, we completed the acquisition of Duro Dyne and Supco.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual event (completed acquisitions) without articulating any associated risk."
+  }
+ ]
+}

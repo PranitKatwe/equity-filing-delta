@@ -1,0 +1,218 @@
+{
+ "ticker": "HBAN",
+ "sector": "Financials",
+ "filing_date": "2026-02-13",
+ "accession": "0000049196-26-000015",
+ "prior_accession": "0000049196-25-000020",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 19,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 15,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Market Risks \u2022 Changes in interest rates could reduce our net interest income, reduce transactional income, and negatively impact the value of our loans, securities, and other assets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic interest rate risk statement mirrors standard market risk disclosure without new specifics."
+  },
+  {
+   "text": "This could have an adverse impact on our cash flows, financial condition, results of operations, and capital. \u2022 Inflation could negatively impact our business, our profitability, and our stock price. \u2022 Industry competition may have an adverse effect on our success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary bullets about inflation and competition, standard boilerplate framing."
+  },
+  {
+   "text": "28 Huntington Bancshares Incorporated Table of Contents \u2022 Changes in accounting policies, standards, and interpretations could affect how we report our financial condition and results of operations. \u2022 Impairment of goodwill could require charges to earnings, which could result in a negative impact on our results of operations. \u2022 Climate change manifesting as physical or transition risks could adversely affect our operations, businesses, and customers. \u2022 We use AI in connection with our business and operations, which exposes us to inherent risks that may expose us to material harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor about AI usage exposing the company to inherent risks, a material new topic not previously covered."
+  },
+  {
+   "text": "Strategic Risks \u2022 We operate in a highly competitive industry which depends on our ability to successfully execute our strategic plan and adapt our products and services to evolving industry standards and consumer preferences. \u2022 We depend on our executive officers and key personnel to continue the implementation of our long-term business strategy and could be harmed by the loss of their services. \u2022 Bank regulations regarding capital and liquidity, including the CCAR assessment process and the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic risk bullets about competition, executives, and regulation restated in list form."
+  },
+  {
+   "text": "Basel III capital and liquidity standards, could require higher levels of capital and liquidity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity about Basel III capital/liquidity standards requiring higher capital, expanding on existing regulatory capital risk."
+  },
+  {
+   "text": "Among other things, these regulations could impact our ability to pay common stock dividends, repurchase common stock, attract cost-effective sources of deposits, or require the retention of higher amounts of low yielding securities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific impacts (dividends, buybacks, deposits) of existing capital/liquidity regulatory risk."
+  },
+  {
+   "text": "Cadence Merger Risks \u2022 We are expected to incur substantial costs related to the Cadence Merger and integration. \u2022 Combining Huntington and Cadence may be more difficult, costly or time consuming than expected and Huntington and Cadence may fail to realize the anticipated benefits of the Cadence Merger. \u2022 The future results of the combined company following the Cadence Merger may suffer if the combined company does not effectively manage its expanded operations. \u2022 The combined company may be unable to retain Huntington or Cadence personnel successfully.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category related to the Cadence Merger and its integration challenges."
+  },
+  {
+   "text": "2025 Form 10-K 29 Table of Contents The risks and uncertainties listed below present risks that could have a material impact on Huntington\u2019s financial condition, results of operations, or its business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General introductory framing sentence about risk factors, not a substantive risk itself."
+  },
+  {
+   "text": "Credit Risks: Our ACL level may prove to not be adequate or be negatively affected by credit risk exposures, which could adversely affect our net income and capital.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard restatement of existing credit/ACL adequacy risk."
+  },
+  {
+   "text": "Our emphasis on commercial lending may expose us to increased lending risks.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing commercial lending risk emphasis without new detail."
+  },
+  {
+   "text": "At December 31, 2025, 60% of our loan portfolio was comprised of loans in our commercial loan portfolio, which includes commercial and industrial loans, commercial real estate loans, and lease financing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific updated percentage and composition of commercial loan portfolio, expanding existing risk with new data."
+  },
+  {
+   "text": "While commercial loans are generally more interest rate sensitive and carry higher yields than residential mortgage loans, these types of loans generally expose a lender to greater risk of non-payment and loss than single-family residential mortgage loans because repayment of the loans often depend on the income stream of the borrowers or successful operation of the property.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes known risk characteristics of commercial vs residential loans, consistent with prior disclosure."
+  },
+  {
+   "text": "Such loans typically involve larger loan balances to single borrowers or groups of related borrowers compared to single-family residential mortgage loans.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates known risk about larger loan balances to single borrowers."
+  },
+  {
+   "text": "At December 31, 2025, we had $1.7 billion of reserves specifically allocated to loans in our commercial loan portfolio.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific updated reserve amount ($1.7B) quantifying existing credit risk exposure."
+  },
+  {
+   "text": "We also monitor loan concentrations on an individual relationship and industry wide basis to evaluate the amount of risk we have in our loan portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring concentrations, standard risk management language."
+  },
+  {
+   "text": "We grow our business in part by acquiring, from time to time, other financial services businesses and businesses with technologies or other assets valuable to us.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing acquisition growth strategy risk."
+  },
+  {
+   "text": "Acquisitions present several risks and uncertainties related both to the acquisition transactions themselves and to the integration of the acquired businesses into Huntington after closing.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of acquisition-related risks."
+  },
+  {
+   "text": "Acquisitions of other companies or of financial assets, deposits, and other liabilities present risks and uncertainties to us, in addition to those presented by the nature of the business acquired, which may materially and adversely affect our results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing acquisition risk language."
+  },
+  {
+   "text": "Many of the same risks arise when we engage in strategic partnerships.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends acquisition risk to include strategic partnerships, a new but related dimension."
+  },
+  {
+   "text": "Our ability to analyze the risks presented by prospective acquisitions, as well as our ability to prepare in advance of closing and integration, may be limited to the extent that we cannot gather necessary or desirable information with respect to the business we are acquiring.",
+   "category": "reworded_same_meaning",
+   "rationale": "Describes limitations in due diligence, consistent with typical acquisition risk disclosure."
+  },
+  {
+   "text": "We may also make certain assumptions related to an acquisition that may prove to be inaccurate and that may limit the anticipated benefits (such as cost savings from synergies or strategic gains from being able to offer enhanced product sets) or make the acquisition more expensive or take longer to complete and integrate than anticipated.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard risk language about inaccurate assumptions in acquisitions."
+  },
+  {
+   "text": "Prior to closing, prospective acquirees are also subject to their own risks that we cannot manage or control.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about uncontrollable risks of acquirees."
+  },
+  {
+   "text": "Our ability to complete an acquisition may be dependent on regulatory agencies with responsibilities for reviewing or approving the transaction, which could delay, restrictively condition, or result in denial of an acquisition, or otherwise limit the benefits of the acquisition.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates regulatory approval risk for acquisitions."
+  },
+  {
+   "text": "Changes in regulatory rules or standards or the application of those rules or standards, or future regulatory initiatives designed to promote competition or limit systematic risk and the potential for a financial institution to become too big to fail, may also limit our ability to complete an acquisition.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates regulatory risk affecting acquisition completion."
+  },
+  {
+   "text": "After closing, the success of an acquisition is partially dependent on our ability to retain and expand upon the acquired company\u2019s customer base.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard post-acquisition integration risk language."
+  },
+  {
+   "text": "It is also frequently subject to risks related to human capital, including risks related to integrating the corporate culture of the acquired company and, to the extent being retained, the quality of leadership of the acquired company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific human capital and cultural integration risk detail to existing acquisition risk."
+  },
+  {
+   "text": "Failure to maintain effective internal controls over financial reporting could impair our ability to accurately and timely report our financial results or prevent fraud, resulting in loss of investor confidence and adversely affecting our business and our stock price.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk about failure of internal controls over financial reporting impacting investor confidence and stock price."
+  },
+  {
+   "text": "Any such changes could affect how we report our financial conditions and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about accounting changes affecting reporting, boilerplate framing."
+  },
+  {
+   "text": "Under the supervision of the CFPB, our consumer and business banking products and services are subject to heightened regulatory oversight and scrutiny with respect to compliance with consumer laws and regulations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing CFPB regulatory oversight risk."
+  },
+  {
+   "text": "For more information regarding CCAR, stress testing, and capital and liquidity requirements, refer to Item 1: Business - \u201c Regulatory Matters .\u201d 44 Huntington Bancshares Incorporated Table of Contents Reputational Risk: Damage to our reputation could significantly harm our business, including our competitive position and business prospects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reputational risk framing statement."
+  },
+  {
+   "text": "Cadence Merger Risks: We are expected to incur substantial costs related to the Cadence Merger and integration.",
+   "category": "new_substantive_risk",
+   "rationale": "Reiterates introduction of new Cadence Merger risk category, a material new business event."
+  },
+  {
+   "text": "We have incurred and will incur substantial expenses in connection with the negotiation and completion of the transactions contemplated by the Cadence Merger Agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific expected costs from the merger, expanding on the new merger risk."
+  },
+  {
+   "text": "These costs include legal, financial advisory, accounting, consulting and other advisory fees, public company filing fees and other regulatory fees and financial printing and other related costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific cost categories associated with merger, adding detail to merger risk."
+  },
+  {
+   "text": "We are expected to incur substantial costs in connection with the related integration of Cadence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on integration cost risk tied to Cadence merger."
+  },
+  {
+   "text": "There are a large number of processes, policies, procedures, operations, technologies, and systems that may need to be integrated, including purchasing, accounting and finance, payroll, compliance, treasury management, branch operations, vendor management, risk management, lines of business, pricing and benefits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific operational systems needing integration, expanding merger risk."
+  },
+  {
+   "text": "While we have assumed that a certain level of costs will be incurred, there are many factors beyond our control that could affect the total amount or the timing of the integration costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes uncertainty in cost estimates for merger integration, expanding on cost risk."
+  },
+  {
+   "text": "Moreover, many of the costs that will be incurred are, by their nature, difficult to estimate accurately.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates difficulty in estimating merger costs, expanding same risk."
+  },
+  {
+   "text": "These integration costs may result in us taking charges against earnings following the completion of the Cadence Merger, and the amount and timing of such charges are uncertain at present.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about potential earnings charges from merger integration costs."
+  },
+  {
+   "text": "Combining Huntington and Cadence may be more difficult, costly or time consuming than expected and Huntington and Cadence may fail to realize the anticipated benefits of the Cadence Merger.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that merger integration may fail to achieve anticipated benefits, a new substantive concern."
+  },
+  {
+   "text": "The success of the Cadence Merger will depend, in part, on the ability to realize the anticipated cost savings from combining the businesses of Huntington and Cadence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details dependency on cost synergy realization, expanding the merger risk already introduced."
+  }
+ ]
+}

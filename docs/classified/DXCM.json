@@ -1,0 +1,218 @@
+{
+ "ticker": "DXCM",
+ "sector": "Health Care",
+ "filing_date": "2026-02-12",
+ "accession": "0001093557-26-000027",
+ "prior_accession": "0001093557-25-000036",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Additionally, we may experience pricing pressure if our products are increasingly subject to competitive bidding processes, which include substantial costs and managerial time to prepare bids and proposals for contracts that may not be awarded to us or may be split among competitors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of pricing pressure from competitive bidding processes for the company's products."
+  },
+  {
+   "text": "For example, in June 2025, the Centers for Medicare & Medicaid Services published a proposed rule that would subject continuous glucose monitors to the competitive bidding process, which could negatively impact our reimbursement and result in price decreases.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new CMS proposed rule subjecting CGMs to competitive bidding, a concrete new regulatory threat."
+  },
+  {
+   "text": "In late 2025, CMS extended the DMEPOS competitive bidding program to include our CGMs and receivers, with contracting beginning in 2027 and payment changes taking effect in 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "States CMS actually extended the bidding program to CGMs with specific implementation dates, a concrete new development."
+  },
+  {
+   "text": "Under the program, DMEPOS suppliers compete to become Medicare contract suppliers by submitting bids to furnish certain items in CBAs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides mechanical detail on how the bidding program works, supporting the newly introduced risk."
+  },
+  {
+   "text": "CMS anticipates that ten (10) contracts will be awarded for CGMs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factual detail (10 contracts) elaborating on the new bidding risk."
+  },
+  {
+   "text": "However, while the competitive bidding program previously used CBAs for contract awards, CMS determined that for CGMs and certain other DME, a RID CBA was more appropriate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about CMS's choice of RID CBA methodology, elaborating the new risk."
+  },
+  {
+   "text": "It remains to be seen whether CGMs will be covered under a single, nationwide RID CBA or whether regional RID CBAs will be established.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes uncertainty about scope of RID CBA, an elaboration of the same emerging risk."
+  },
+  {
+   "text": "In any event, the bid process is expected to result in lower Medicare reimbursement for CGM systems, particularly because CMS is changing the pricing under the RID CBA by setting a single payment amount for covered items at the 75 th percentile of the winning bids, rather than using the maximum winning bid.",
+   "category": "new_substantive_risk",
+   "rationale": "Concrete prediction that bid process will lower Medicare reimbursement due to new pricing methodology."
+  },
+  {
+   "text": "Further, CMS has reclassified CGMs and insulin infusion pumps to items that require frequent and substantial servicing and will phase in monthly rental payments for these items.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific regulatory reclassification affecting payment structure for CGMs and insulin pumps."
+  },
+  {
+   "text": "CMS will bundle the rental amount for the receiver device with payment for the supplies and accessories in the new payment amount.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on how rental payments will be bundled, elaborating the new payment risk."
+  },
+  {
+   "text": "The bid limit will be monthly fee schedule amounts for the supplies plus the average purchase fee schedule amounts for the CGM receiver device divided by 60 (intended to capture the 5-year useful life of the device.) As a result, we expect that Medicare reimbursement for our CGM systems will decrease beginning in 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific financial mechanics and concrete expectation of reduced reimbursement starting 2028."
+  },
+  {
+   "text": "CMS is required by law to recompete these contracts at least once every three years and to roll out the competitive bidding process nationally or adjust prices in non-competitive bidding areas to match competitive bidding prices.",
+   "category": "expanded_existing_risk",
+   "rationale": "General rule about recompeting contracts, supporting the broader bidding risk already introduced."
+  },
+  {
+   "text": "The implementation of the competitive bidding program is expected to result in reduced Medicare payment for CGMs in both competitive bidding areas and non-competitive bidding areas.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and reinforces expected reimbursement reduction already detailed in prior sentences."
+  },
+  {
+   "text": "Additionally, the new bidding system will contain a \u201ccountry of origin\u201d question to obtain information on where products are manufactured; however, it is unclear how CMS intends to use this information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk element: country-of-origin reporting requirement in bidding process."
+  },
+  {
+   "text": "Given that we maintain offshore manufacturing facilities, country of origin reporting could have an impact on our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly ties offshore manufacturing to potential business impact from new country-of-origin reporting."
+  },
+  {
+   "text": "Competitive bidding could negatively impact our reimbursement and result in price decreases.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the general conclusion already covered in earlier sentences about bidding impacting reimbursement."
+  },
+  {
+   "text": "On July 4, 2025, President Trump signed the budget reconciliation bill (entitled \u201cOne Big Beautiful Bill Act\u201d, or the Bill) to meet spending targets aimed at funding the Administration\u2019s domestic priorities that includes significant changes to the Medicaid program.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legislative event (Bill) with significant Medicaid program changes."
+  },
+  {
+   "text": "Congressional Budget Office, or CBO, preliminary estimates show that the Medicaid provisions would reduce Medicaid spending by $1 trillion and will increase the number of people without health insurance by at least 11.8 million by 2034.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides quantitative CBO estimates supporting the newly introduced Medicaid risk."
+  },
+  {
+   "text": "Some key proposed changes to the Medicaid Program include, but are not limited to: work requirements; cost sharing of up to $35 per service on expansion adults who exceed the official poverty threshold; stricter eligibility requirements for non-U.S. citizens; requirements for states to conduct eligibility redeterminations at least every six months for Medicaid expansion adults; and prohibitions on states from establishing any new provider taxes or from increasing the rates of existing taxes, among other changes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific provisions of the Medicaid changes already introduced as a new risk."
+  },
+  {
+   "text": "Decreased federal funding and stricter eligibility requirements may result in more restrictive Medicaid programs at the state level and fewer individuals eligible for coverage, which could have an adverse impact on the number of individuals who seek to use our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains potential adverse impact of the new Medicaid changes on the business."
+  },
+  {
+   "text": "Despite the ACA going into effect over a decade ago, there have been numerous legal and Congressional challenges to the law\u2019s provisions and the effect of certain provisions have made compliance costly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing ACA legal challenges without new specific risk detail."
+  },
+  {
+   "text": "For instance, changes to the ACA included in the Bill, including shortening enrollment periods and eliminating automatic reenrollment, could reduce ACA enrollment.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new ACA enrollment changes (shortened periods, no auto-reenrollment) as a new risk factor."
+  },
+  {
+   "text": "As such, our costs to monitor these changes and respond to new requirements will increase.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about increased compliance costs, not a specific new risk."
+  },
+  {
+   "text": "As discussed above, the Bill included significant changes to federal Medicaid funding and ACA enrollment requirements, all of which are expected to result in decreased Medicaid reimbursement and loss of coverage for individuals under Medicaid and ACA plans.",
+   "category": "reworded_same_meaning",
+   "rationale": "Summarizes the previously detailed Medicaid/ACA impacts without adding new information."
+  },
+  {
+   "text": "Some of the companies developing or marketing competing devices are large and well-known publicly traded companies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about large competitors, standard competitive risk framing."
+  },
+  {
+   "text": "Such competitors may benefit from guidance issued on January 6, 2026 by the FDA\u2019s Center for Devices and Radiological Health that effectively broadens the range of products that may be considered \u201cgeneral wellness devices,\u201d including wearables that provide readings around bodily functions and vital signs such as heart rate, blood pressure, and blood glucose.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new FDA guidance broadening wellness device definitions, a concrete competitive threat."
+  },
+  {
+   "text": "From time to time, the FDA conducts inspections of our facilities and may issue Form 483 findings related to our operations and may issue warning letters or take other administrative or enforcement actions asserting noncompliance with FDA laws and regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of routine FDA inspection process, standard regulatory boilerplate."
+  },
+  {
+   "text": "In March 2025, we received an FDA warning letter following inspections of our facilities in San Diego, California, and Mesa, Arizona.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses an actual FDA warning letter received, a concrete new regulatory event."
+  },
+  {
+   "text": "In the warning letter, the FDA cited deficiencies in the response letters sent by us to the FDA following the Form 483, List of Investigational Observations that was delivered to us in connection with the inspection of our San Diego, California facility that occurred from October 2024 through November 2024, and the inspection of our Mesa, Arizona facility that occurred in June 2024.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific details about the facilities and timing of inspections related to the warning letter."
+  },
+  {
+   "text": "The warning letter describes observed non-conformities in manufacturing processes and our quality management system.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes specific nonconformities cited in the warning letter, elaborating the disclosed risk."
+  },
+  {
+   "text": "We take the matters identified in the warning letter seriously and have submitted responses to the Form 483 and to the FDA warning letter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reassurance language about taking matters seriously."
+  },
+  {
+   "text": "While the warning letter does not restrict our ability to produce, market, manufacture or distribute products, require recall of any products, nor restrict our ability to seek FDA 510(k) clearance of new products, we may fail to satisfy these regulatory requirements to the FDA\u2019s satisfaction, and any failure to do so could result in the foregoing occurring.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies scope of warning letter consequences and potential future risk if not resolved."
+  },
+  {
+   "text": "While we intend to undertake certain corrective actions and provide regular updates to the FDA in order to meet the requirements set forth by FDA in the warning letter, we cannot give any assurances that the FDA will be satisfied with our response or as to the date we expect to resolve the matters included in the FDA warning letter.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty of resolving the FDA warning letter matter."
+  },
+  {
+   "text": "Until the issues cited in the warning letter are resolved to the FDA\u2019s satisfaction, additional legal or regulatory action may be taken without further notice, including as described above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes potential for further regulatory action, continuing the warning letter risk discussion."
+  },
+  {
+   "text": "Notably, the new bidding system for Medicare competitive bidding will contain a \u201ccountry of origin\u201d question to obtain information about where products are manufactured.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the country-of-origin bidding question already described earlier."
+  },
+  {
+   "text": "It is unclear how CMS intends to use this information and what impact this could have, if any, on our offshore manufacturing activities.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats the uncertainty about country-of-origin reporting impact already stated."
+  },
+  {
+   "text": "37 We are also aware of companies outside the traditional medical device sector that are attempting to develop competitive products and services, including for general health and wellness, or population health.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitors outside the traditional medical device sector."
+  },
+  {
+   "text": "Such competitors may benefit from guidance issued on January 6, 2026 by the FDA\u2019s Center for Devices and Radiological Health that effectively broadens the range of products that may be considered \u201cgeneral wellness devices,\u201d including wearables that provide readings around bodily functions and vital signs such as heart rate, blood pressure, and blood glucose.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate restatement of the FDA general wellness device guidance already introduced."
+  },
+  {
+   "text": "Moreover, we are subject to various operational, compliance, and reputational risks associated with our adoption and utilization of AI technologies, including inaccurate or unpredictable outputs, such as errors or hallucinations, that may impair decision\u2011making, disrupt operations, or expose sensitive information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk area: operational and compliance issues from AI adoption, including hallucinations and disruption."
+  },
+  {
+   "text": "Integrating AI into our systems may also expand our cybersecurity attack surface, increasing exposure to data breaches, loss of intellectual property, or inadvertent disclosure of confidential data.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the AI risk by adding cybersecurity attack surface concerns."
+  }
+ ]
+}

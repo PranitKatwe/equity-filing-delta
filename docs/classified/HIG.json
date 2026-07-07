@@ -1,0 +1,108 @@
+{
+ "ticker": "HIG",
+ "sector": "Financials",
+ "filing_date": "2026-02-20",
+ "accession": "0000874766-26-000012",
+ "prior_accession": "0000874766-25-000023",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 6,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "Generally Accepted Accounting Principles (\"U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing 'U.S. GAAP' with no substantive content, appears to be a formatting/header artifact."
+  },
+  {
+   "text": "Risk Factors workers\u2019 compensation and employee benefits businesses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment listing business lines, likely a section header reorder, no new risk detail."
+  },
+  {
+   "text": "Risk Factors requirements for these entities are prescribed by the applicable insurance regulators and the National Association of Insurance Commissioners (\"NAIC\").",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that regulatory requirements for certain entities are set by insurance regulators and NAIC, expanding on existing regulatory risk discussion."
+  },
+  {
+   "text": "GAAP capital held by the Company in determining the Company's financial strength and credit ratings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Fragment ties capital measures to credit ratings, elaborating on existing capital/ratings risk without introducing a new risk category."
+  },
+  {
+   "text": "Risk Factors which the goodwill relates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing goodwill, appears to be a leftover header/reference with no new substantive content."
+  },
+  {
+   "text": "Use of artificial intelligence by us or by such third parties could also result in inadvertent disclosure of our confidential information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk: AI use could lead to inadvertent disclosure of confidential information, a concrete new threat not previously described."
+  },
+  {
+   "text": "These risks could increase and become more complex as third parties incorporate new technologies, including artificial intelligence.",
+   "category": "expanded_existing_risk",
+   "rationale": "States that existing technology risks could increase in complexity due to AI adoption by third parties, expanding on prior technology risk language."
+  },
+  {
+   "text": "Risk Factors and safeguard the security of our data in the event of a disaster, cyber breach, other information security incident or technology failure.\u201d Our ability to execute on capital management plans and other actions is subject to material challenges, uncertainties and risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference/fragment linking to another risk factor about capital management, largely restating existing risk language."
+  },
+  {
+   "text": "The Company could be subject to these enactments both as a public company generally and specifically as an insurer.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about being subject to enactments as a public company and insurer, restates existing regulatory exposure without new specifics."
+  },
+  {
+   "text": "As a public company, we continue to monitor the development of various climate disclosure regimes.",
+   "category": "reworded_same_meaning",
+   "rationale": "States company monitors climate disclosure regimes, a generic continuation of prior disclosure without new substantive risk."
+  },
+  {
+   "text": "Such developments have stalled at the federal level, with the SEC having withdrawn its defense of its 2024 comprehensive climate rules, but have continued to expand in certain state and international jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new regulatory development: SEC withdrew defense of 2024 climate rules while state/international rules expand, a concrete new regulatory risk detail."
+  },
+  {
+   "text": "We may be subject to these reporting regimes based on the particulars of our corporate footprint.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement about being subject to reporting regimes based on corporate footprint, restates existing disclosure risk without new specifics."
+  },
+  {
+   "text": "As an insurer, insurance affordability and availability trends are under scrutiny by federal and state lawmakers and state insurance regulators with new laws and regulations potentially impacting exposure mix, growth, and reinsurance strategies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk that affordability/availability trends are under scrutiny with new laws impacting exposure mix, growth, and reinsurance strategies."
+  },
+  {
+   "text": "About 25 states have adopted some form of the Model Bulletin.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds concrete data point (about 25 states adopting Model Bulletin) expanding on existing regulatory risk discussion."
+  },
+  {
+   "text": "Risk Factors increased statutory capital and reserve requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Fragment adds specific mention of increased statutory capital and reserve requirements, expanding on existing regulatory capital risk."
+  },
+  {
+   "text": "Moreover, should the Company be classified as an Internationally Active Insurance Group, it would be subject to additional requirements including the requirement to report its group capital ratio to state regulators under the NAIC Aggregation Method.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory classification (Internationally Active Insurance Group) with new reporting requirement for group capital ratio, a concrete new compliance risk."
+  },
+  {
+   "text": "Changes in the legal environment could result in changes in business practices, additional litigation, or unexpected losses, including increased frequency and severity of claims.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity that legal environment changes could increase frequency and severity of claims, expanding on general litigation risk."
+  },
+  {
+   "text": "For further discussion of the Company's risks related to cybersecurity, see Part I, Item 1A, \u2014 Risk Factors for the risk factor \" Our businesses may suffer and we may incur substantial costs if we are unable to access our systems and safeguard the security of our data in the event of a disaster, cyber breach, other information security incident or technology failure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference directing readers to another risk factor section, purely navigational with no new content."
+  }
+ ]
+}

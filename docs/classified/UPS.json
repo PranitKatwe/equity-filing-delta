@@ -1,0 +1,208 @@
+{
+ "ticker": "UPS",
+ "sector": "Industrials",
+ "filing_date": "2026-02-17",
+ "accession": "0001628280-26-008432",
+ "prior_accession": "0001090727-25-000019",
+ "model": "claude-sonnet-5",
+ "n_added": 38,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 24
+ },
+ "items": [
+  {
+   "text": "In 2025, we took several steps in furtherance of this strategy, including continuing to deliberately shift our business to increase our focus on higher yielding volume, which allowed us to increase SMB penetration to over 30% of total U.S. volume from 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a business strategy result (SMB penetration growth) rather than a risk to the business."
+  },
+  {
+   "text": "We also completed the acquisitions of Frigo-Trans and Biotech & Pharma Logistics (\"Frigo-Trans\") and Andlauer Healthcare Group (\"AHG\"), further expanding our healthcare cold chain capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of completed acquisitions, not a stated risk."
+  },
+  {
+   "text": "In 2025, our global healthcare portfolio generated more than $11 billion in revenue, furthering our progress towards our goal to become the number one complex healthcare logistics provider in the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States revenue figures and strategic goal, informational not risk-related."
+  },
+  {
+   "text": "Additionally, we extended our RFID labeling solution to 5,500 UPS store locations and completed the installation of RFID readers across U.S. package cars.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes operational technology rollout, not a risk."
+  },
+  {
+   "text": "This label technology allows customers to generate shipping labels with embedded RFID, streamlining processes and improving tracking capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits of label technology, no risk indicated."
+  },
+  {
+   "text": "Furthermore, in December 2025, we entered into an agreement with the United States Postal Service (\"USPS\") to support final-mile delivery for a portion of our Ground Saver and Mail Innovations volumes starting in 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces a new business agreement described in positive terms, no risk framing given."
+  },
+  {
+   "text": "This agreement is expected to allow us to more cost efficiently serve our customers across these offerings while maintaining our industry-leading service levels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expected efficiency benefit of the USPS agreement, not a risk."
+  },
+  {
+   "text": "Our digital and automated tools support shipment creation, tracking and data management, and enable data\u2011analysis automation, automated agents, personalization and customized pricing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes digital tool capabilities, purely descriptive."
+  },
+  {
+   "text": "We consistently deliver industry\u2011leading service, through engineering and operational excellence, particularly during peak times when our customers need reliability the most.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about service quality, no risk content."
+  },
+  {
+   "text": "As customer needs evolve, UPS continues to develop value-added services beyond package delivery.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about evolving customer needs and service development."
+  },
+  {
+   "text": "Our strong, purpose-driven culture fosters trust, partnership and empowerment among our dedicated employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about corporate culture, no risk."
+  },
+  {
+   "text": "We offer returns services in approximately 150 countries, addressing customers' needs for efficient and reliable returns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing returns service offering, not a new risk."
+  },
+  {
+   "text": "We offer a wide selection of guaranteed day and time-definite international transportation services supported by our brokerage capabilities that facilitate cross\u2011border clearance for international shipments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing international service offerings, not a risk."
+  },
+  {
+   "text": "Employee health and safety Our Comprehensive Health and Safety Process (\"CHSP\") is the foundation of our proactive risk management approach.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing health and safety program, informational."
+  },
+  {
+   "text": "This approach includes physical safety and mental-health considerations, spans job functions from package handling to management roles, and is applied worldwide, from package sorting facilities to our executive offices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Elaborates on scope of safety program, descriptive not risk-specific."
+  },
+  {
+   "text": "Through the CHSP, we seek to systematically identify, evaluate, and mitigate health and safety risks in a number of ways.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of risk management approach, no new risk."
+  },
+  {
+   "text": "We use internal safety committees to identify and mitigate hazards in the workplace, and we routinely audit critical risk areas such as equipment integrity, environmental conditions and emergency preparedness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing internal safety auditing practices."
+  },
+  {
+   "text": "We support employee health and well-being through various programs, which focus on physical conditioning, nutrition and fatigue management, in addition to providing extensive programming and training designed to reduce stress-related risks, strengthen resilience and support employees\u2019 mental-health.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee wellness programs, not a risk statement."
+  },
+  {
+   "text": "Other programs include affinity-based business resource groups, opportunities to provide feedback through confidential employee surveys, and access to confidential counselling.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists employee support programs, purely descriptive."
+  },
+  {
+   "text": "We provide extensive training in safe work methods, risk identification and resource availability, all designed to mitigate risk.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes training programs, no new risk."
+  },
+  {
+   "text": "These measures provide visibility into emerging trends and facilitate continuous improvement across the enterprise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about monitoring and improvement, no specific risk."
+  },
+  {
+   "text": "As previously disclosed, our strategy involves reducing volumes from this customer by more than 50% by June 2026 from 2024 levels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific quantified detail (50% reduction by June 2026) to the existing Amazon customer concentration risk."
+  },
+  {
+   "text": "We are also subject to increasing environmental compliance and reporting obligations in the European Union and elsewhere.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing regulatory compliance risk to include EU and other jurisdictions."
+  },
+  {
+   "text": "Additionally, the disclosures in this section reflect our beliefs and opinions as to factors that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary disclosure language about beliefs and opinions."
+  },
+  {
+   "text": "References to historical events are provided by way of example only, and are not intended to be a complete listing or a representation as to whether such events have occurred in the past or their likelihood of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cautionary boilerplate about historical examples not being exhaustive."
+  },
+  {
+   "text": "New and emerging technologies continue to create additional sources of competition, and if we fail to incorporate new and emerging technologies as effectively as our competitors, our competitive position may be harmed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk tied to failure to adopt new/emerging technologies, not previously described."
+  },
+  {
+   "text": "Our strategy includes planned volume declines from our largest customer, Amazon.com, Inc.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explicitly names Amazon as largest customer with planned volume declines, adding specificity to existing customer concentration risk."
+  },
+  {
+   "text": "In connection with the execution of this strategy, we have made and continue to make reductions in the number of our facilities, vehicles and aircraft, and our workforce, intended to better align our assets and workforce to our planned operations, and to eliminate stranded costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific operational reductions (facilities, vehicles, workforce) as part of ongoing restructuring risk."
+  },
+  {
+   "text": "In addition, our Network Reconfiguration and Efficiency Reimagined initiatives have led to, and are expected to continue to lead to, consolidations of our facilities and workforce, as well as an end-to-end process redesign.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on ongoing restructuring initiatives already implied by workforce/facility reduction risk."
+  },
+  {
+   "text": "In addition, we are increasing our utilization of artificial intelligence (\"AI\") to optimize our operations, improve the customer experience and support decision-making.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI adoption as a new operational strategy, establishing a new risk category not previously present."
+  },
+  {
+   "text": "AI technologies often require access to large volumes of sensitive data.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI systems requiring sensitive data, part of newly introduced AI risk topic."
+  },
+  {
+   "text": "If our AI systems are compromised through cyberattacks or unauthorized access, it could result in data breaches, a loss of proprietary information, or violations of data protection laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a new specific risk of AI-related cyberattacks and data breaches, a new risk vector."
+  },
+  {
+   "text": "Additionally, leveraging AI capabilities for our internal functions may introduce additional operational vulnerabilities by producing inaccurate outcomes, recommendations or other suggestions based on flaws in the underlying data, or other unintended results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new operational risk from AI inaccuracies or flawed data affecting internal functions."
+  },
+  {
+   "text": "(at both the state and federal level) and internationally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary continuation of a regulatory jurisdiction list, no new content."
+  },
+  {
+   "text": "For example, as previously disclosed, we have recorded 14 $182 million in asset impairment charges during the fourth quarter of 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material financial impact ($182 million impairment charge) not previously disclosed."
+  },
+  {
+   "text": "This initiative has also mandated increased reporting requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that existing regulatory initiative now mandates increased reporting, building on prior compliance risk."
+  },
+  {
+   "text": "Also beginning in 2025, we have been required to monitor and report the non-carbon dioxide aviation effects for certain routes in the European Union.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific regulatory monitoring/reporting requirement for aviation non-CO2 effects not previously mentioned."
+  },
+  {
+   "text": "These requirements are expected to increase in the future, and may expand beyond reporting, either of which would increase our compliance costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced aviation reporting requirement by noting anticipated increases and potential cost impact."
+  }
+ ]
+}

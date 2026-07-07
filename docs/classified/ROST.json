@@ -1,0 +1,48 @@
+{
+ "ticker": "ROST",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-31",
+ "accession": "0000745732-26-000006",
+ "prior_accession": "0000745732-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 6,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "While we directly import only a small portion of our merchandise, more than half of the goods we sell originate from China.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new fact about import exposure to China not previously disclosed in this form."
+  },
+  {
+   "text": "While our business is exclusively in brick-and-mortar stores, consumer e-commerce spending continues to increase.",
+   "category": "new_substantive_risk",
+   "rationale": "Highlights a specific new risk of exclusive reliance on brick-and-mortar stores amid rising e-commerce, a material competitive threat."
+  },
+  {
+   "text": "Advancements in technology (including artificial intelligence or other emerging technologies) will present opportunities to inform merchandising, pricing, assortment, and other key business decisions; however, there are costs, risks and potential adverse consequences from premature adoption or over-reliance on those emerging technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to AI/emerging technology adoption and potential adverse consequences."
+  },
+  {
+   "text": "At the same time, if competitors successfully implement these capabilities more quickly or effectively than we do, our competitive position could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the technology risk theme by adding competitive implications, expanding rather than introducing a wholly new risk."
+  },
+  {
+   "text": "Further, expanding into new markets or increasing store growth in regions where we have limited operating experience could potentially result in operational inefficiencies and increased costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about operational inefficiencies from expansion into unfamiliar markets."
+  },
+  {
+   "text": "More than half of the merchandise we sell is originally manufactured in China.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same China sourcing fact as sentence 0 in different wording."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "FE",
+ "sector": "Utilities",
+ "filing_date": "2026-02-18",
+ "accession": "0001031296-26-000046",
+ "prior_accession": "0001031296-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "Larry Householder, et al.,\u201d in Item 7., \"Management's Discussion and Analysis of Financial Condition and Results of Operations\".",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another section of the filing, no risk content."
+  },
+  {
+   "text": "Attorney\u2019s Office filed a status report confirming these commitments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Procedural/factual update about a court filing status, not a risk statement."
+  },
+  {
+   "text": "Our reputation is important towards maintaining new and ongoing positive relationships with customers, regulators, investors, and other stakeholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the importance of reputation, common cautionary language."
+  },
+  {
+   "text": "The success of our growth strategy will depend, in part, on the successful growth of revenue resulting from our transmission investments in line with our expectations.",
+   "category": "reworded_same_meaning",
+   "rationale": "General statement tying growth strategy success to transmission investment performance, a restatement of existing strategic dependency."
+  },
+  {
+   "text": "Evolving legislation and executive actions related to our rates enacted by individual states, such as Ohio Senate Bill 2 of 2025 and Executive Order No.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new legislation (Ohio SB2 2025) creating a concrete new regulatory risk."
+  },
+  {
+   "text": "2 of 2026 issued by the New Jersey governor on January 20, 2026, may also affect outcomes in distribution rate cases or could create uncertainty around our rate strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "References a specific new executive order creating rate uncertainty, a new concrete regulatory risk."
+  },
+  {
+   "text": "FERC, at the instruction of the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual procedural statement about FERC's directive source, not itself a risk."
+  },
+  {
+   "text": "Secretary of Energy, is also considering whether to develop regulations intended to speed interconnection of AI data centers and \u201chybrid\u201d data center/electric generation facilities (collectively, \u201clarge loads\u201d) to the transmission system.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory consideration regarding AI data center interconnection rules."
+  },
+  {
+   "text": "Final regulations, if any, from FERC are expected in the second quarter of 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Timing detail for expected regulations, factual not risk-bearing."
+  },
+  {
+   "text": "To the extent the new regulations promulgated by FERC do not permit transmission utilities to fully recover costs associated with transmission network upgrades required to serve new large loads, our strategy of investing in transmission could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk that FERC rules may not allow full cost recovery for large load transmission upgrades."
+  },
+  {
+   "text": "External pressures beyond our control may increase customer rates and, when combined with state and federal regulatory action to mitigate bill impacts, may impair our ability to earn a fair and equitable return on our investments and execute our strategy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing rate/return risk to include external pressures combined with regulatory mitigation actions."
+  },
+  {
+   "text": "PJM\u2019s recent capacity auctions have been subject to a \u201cprice collar\u201d that has resulted from all-time high generation capacity prices in recent auction outcomes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new PJM price collar mechanism and its record-high capacity price outcomes."
+  },
+  {
+   "text": "These all-time high capacity prices ultimately are passed through in retail rates and can result in material increases in retail customers\u2019 monthly electric utility bills.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequence of the price collar risk already introduced."
+  },
+  {
+   "text": "On January 16, 2026, the PJM board along with various federal and state officials, expressed interest in extending the price collar through mid-2030.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new development: proposal to extend price collar through mid-2030."
+  },
+  {
+   "text": "In addition, the parties to the Statement of Principles suggested that PJM should conduct a \u201cbackstop\u201d auction to procure additional generation capacity, with the costs to be allocated first to \u201cnew\u201d data centers and second to existing PJM loads.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific proposal for a backstop capacity auction with cost allocation details."
+  },
+  {
+   "text": "If the PJM capacity auctions continue to clear at the auction cap, and if PJM conducts a \u201cbackstop\u201d capacity auction that clears at a high price point, customer resistance to the resulting market driven increases on the generation portion of their bills could lead to increased pressure for state and federal utility regulators to limit the needed capital investment in transmission and distribution systems required for safe, reliable and resilient service to customers, which may impair our ability to earn a fair and equitable return on our investments and execute our strategy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates consequences of capacity auction pricing on regulatory pressure and investment risk."
+  },
+  {
+   "text": "Our investments in transmission and distribution infrastructure modernization, reliability improvements, environmental compliance and storm hardening may increase customer bills over time and the resulting higher electric bills, when combined with the external pressures discussed above, may place pressure on residential customers\u2019 affordability, particularly in portions of our service territory with lower median household income or high energy burdens and/or amongst those customers who have already seen significant retail bill increases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing affordability risk with more detail on demographic impact."
+  },
+  {
+   "text": "State and federal regulators may also adopt or modify policies intended to mitigate customer bill impacts \u2013 including disallowance or delayed recovery of certain capital investments or operating expenses, mandated bill assistance programs, changes to rate design, or restrictions on rate increases.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific regulatory mitigation tools, expanding existing rate/regulatory risk."
+  },
+  {
+   "text": "Customer concerns regarding affordability may result in increased regulatory scrutiny, constraints on the size and timing of rate increases, expanded bill 12 mitigation requirements, or disallowances, any of which could adversely affect our ability to recover costs or earn our authorized return on equity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies consequences of affordability concerns on regulatory scrutiny and returns."
+  },
+  {
+   "text": "In addition, sustained increases in customer bills may lead to reduced electricity usage through conservation, energy efficiency, or distributed generation, which could limit future load growth and revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new mechanism (reduced usage from bill increases) to existing revenue/rate risk."
+  },
+  {
+   "text": "Regulatory agencies may also require utilities to offset portions of rising costs related to grid modernization, resilience investments, environmental compliance, or rapidly evolving market conditions if they determine that such costs would unduly affect customer affordability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory cost offset actions related to existing infrastructure investment risk."
+  },
+  {
+   "text": "Our operations are subjected to audit by FERC, NERC and RFC, which may conduct routine or special audits and issue requests designed to ensure compliance with applicable rules, regulations, policies and procedures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific regulators involved in compliance audits, expanding existing compliance risk."
+  },
+  {
+   "text": "The reliability standards address operation, planning, and security of the bulk electricity system, including requirements with respect to real-time transmission operations, emergency operations, vegetation management, critical infrastructure protection, and personnel training.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general scope of reliability standards, informational rather than new risk."
+  },
+  {
+   "text": "Potential non-monetary sanctions include imposing limitations on the violator\u2019s activities or operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of possible sanction types, standard compliance boilerplate."
+  },
+  {
+   "text": "At the same time, our planning could be adversely affected if electricity usage by data centers is ultimately lower than projected, which could reduce anticipated load growth.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that data center demand could be lower than projected, affecting planning."
+  },
+  {
+   "text": "We rely on complex information technology systems to operate our generation, transmission and distribution networks and to store sensitive business, employee and customer data.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about reliance on IT systems, standard framing."
+  },
+  {
+   "text": "Increasingly sophisticated cyber-attacks, ransomware, and other security breaches\u2014whether targeting us or third parties with whom we do business\u2014could disrupt operations, compromise confidential information, and result in significant financial, legal, and reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing cybersecurity risk with more detail on potential harms."
+  },
+  {
+   "text": "Cybersecurity threats, including those that exploit advances in technologies such as artificial intelligence, continue to grow in frequency and sophistication, and the security controls we implement may not fully prevent or detect all such threats or incidents.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI-enhanced cybersecurity threats."
+  },
+  {
+   "text": "Emerging artificial intelligence technologies may be used to develop new hacking tools, obscure malicious activities, exploit vulnerabilities, and increase the difficulty of detecting threats.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk describing AI being used to create hacking tools and evade detection."
+  },
+  {
+   "text": "Despite ongoing investments in cybersecurity, we cannot guarantee prevention or timely detection of all threats, which continue to evolve and may be amplified by interconnected systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates inability to guarantee cybersecurity protection, expanding existing risk language."
+  },
+  {
+   "text": "A successful attack or breach could lead to service interruptions, regulatory penalties, litigation, remediation costs, and loss of customer trust.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of consequences from a cybersecurity breach, standard risk factor language."
+  },
+  {
+   "text": "Inflation and broader economic conditions have continued to drive up the price of the cost of essential components used in the construction of transmission infrastructure, such as electrical equipment, steel and aluminum, and we may experience supply chain disruptions and long lead times for critical equipment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing inflation/supply chain risk with specific material examples."
+  },
+  {
+   "text": "Our operations and corporate strategy may also be adversely affected by supply chain disruptions and inflation, including shortages and delays in key materials, equipment and contractor services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and slightly broadens existing supply chain/inflation risk."
+  },
+  {
+   "text": "The supply chain of goods and services we rely on could be impacted by sanctions, tariffs, manufacturing labor shortages and domestic and international shipping constraints, which could increase our costs and delay delivery of critical materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factors such as sanctions, tariffs, and shipping constraints affecting supply chain."
+  },
+  {
+   "text": "Additionally, the operations of the Electric Companies are affected by the economic conditions in their respective service territories and those conditions could negatively impact the rate of delinquent customer accounts and our collections of accounts receivable, which could adversely impact our financial condition, results of operations and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing economic condition risk to include delinquency and receivables collection impact."
+  },
+  {
+   "text": "FirstEnergy\u2019s Energize365 business plan calls for extensive capital investments totaling approximately $36 billion from 2026 through 2030.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new $36 billion capital investment plan, a concrete new financial commitment risk."
+  },
+  {
+   "text": "While actual emissions may vary substantially, the projects under construction or development when completed will increase emissions of our portfolio and therefore could increase the risks associated with regulation of GHG emissions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing GHG emissions risk with specifics about increased emissions from new projects."
+  },
+  {
+   "text": "For further discussion of the regulation of GHG emissions, see Note 14., \"Commitments, Guarantees and Contingencies\" of the Combined Notes to Financial Statements of the Registrants for additional information and discussion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement notes, not a risk statement."
+  },
+  {
+   "text": "Furthermore, certain states have begun to pass their own laws related to GHG emissions and disclosure of such emissions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of state-level GHG emissions laws and disclosure requirements."
+  },
+  {
+   "text": "We could also be adversely impacted if any future increases to energy prices result in a decrease in customer usage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing risk about energy price impacts on customer usage and revenue."
+  }
+ ]
+}

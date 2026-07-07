@@ -1,0 +1,218 @@
+{
+ "ticker": "ARES",
+ "sector": "Financials",
+ "filing_date": "2026-02-25",
+ "accession": "0001628280-26-011413",
+ "prior_accession": "0001628280-25-008665",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 37
+ },
+ "items": [
+  {
+   "text": "For Real Assets funds that we manage where management fees are based on gross asset value, net operating income or similar metrics including their equivalents (\u201cGAV\u201d), our AUM represents the sum of the GAV of such funds, undrawn debt (including any amounts subject to restrictions) and uncalled committed capital (including commitments to funds that have yet to commence their investment periods).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical definition of AUM calculation methodology, not a risk statement."
+  },
+  {
+   "text": "GAV typically refers to the fair value of a fund\u2019s total assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional clarification of a term, no risk content."
+  },
+  {
+   "text": "This proficiency is complemented by our flexibility in deploying capital in a range of structures and different market environments to maximize risk-adjusted returns. \u2022 Differentiated Market Intelligence: Our proprietary research on over 55 industries and insights from a broad, global investment portfolio enable us to more effectively diligence and structure our products and investments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive marketing language about research capabilities, not a risk."
+  },
+  {
+   "text": "Our digital infrastructure investment approach combines investment management with in-house data center development and operational expertise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business description of investment approach, no risk introduced."
+  },
+  {
+   "text": "Leveraging the established long-standing relationships, the infrastructure strategy seeks to generate exclusive deal flow and high-quality investment opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about deal sourcing strategy, no specific risk."
+  },
+  {
+   "text": "The GCP Acquisition added complementary logistics and digital infrastructure investment capabilities and expanded our geographic presence.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive description of acquisition benefits, not framed as a risk."
+  },
+  {
+   "text": "From diligence through exit, our private equity investment professionals partner closely with management teams to scale businesses organically and inorganically, leveraging thematic insights, operational expertise and leveraging the resources of our broader platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes private equity operational approach, purely descriptive."
+  },
+  {
+   "text": "Our private equity strategies are centered on driving durable growth and positioning companies for long-term success beyond our period of partnership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic statement about private equity goals, no risk."
+  },
+  {
+   "text": "Our approach focuses on an appropriate 12 Table of Contents balance between short and long-term wealth creation which varies by seniority, while also working to ensure pay for performance and pay equality.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Compensation philosophy description, generic HR framing."
+  },
+  {
+   "text": "In addition, we maintain firm-wide recognition programs, including discretionary awards and enterprise-level acknowledgements that celebrate significant contributions, collaboration and innovation aligned with our values and strategic objectives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes recognition programs, generic corporate culture info."
+  },
+  {
+   "text": "Responsible Investment: We believe the consideration and integration of ESG factors into the investment and portfolio management processes helps enable us to generate attractive investment returns to our investors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "ESG philosophy statement, generic and non-risk."
+  },
+  {
+   "text": "Our Responsible Investment Policy describes the ESG integration and management processes that we believe are broadly relevant for our asset classes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existence of a policy document, no risk detail."
+  },
+  {
+   "text": "We also publish annual sustainability-related reports and disclosures on our website, which provide further details about our approach to responsible investment and other sustainability topics relevant to our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Refers to sustainability reporting, descriptive only."
+  },
+  {
+   "text": "In addition to fiscal support, the Ares Foundation engages its grantees through learning communities that provide a forum for non-profits to deepen their understanding of and share best practices with one another.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes charitable program activities, unrelated to business risk."
+  },
+  {
+   "text": "Ares believes that the communities where we do business should share in the firm\u2019s success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General corporate values statement."
+  },
+  {
+   "text": "AIM provides employees with opportunities for skills-based and service-based volunteering, non-profit board service and pro bono engagements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee volunteering programs, non-risk."
+  },
+  {
+   "text": "Through AIM, we host more than 100 volunteer events annually across major campaigns, offering matching programs to amplify employee charitable contributions and mobilize resources for disaster and humanitarian relief.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes volunteer event statistics, non-risk."
+  },
+  {
+   "text": "We also train and place employees on non-profit boards, deepening community impact and leadership development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee board placement program, non-risk."
+  },
+  {
+   "text": "Ares is committed to leveraging AIM to strengthen communities worldwide while fostering employee growth and engagement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General mission statement about community engagement."
+  },
+  {
+   "text": "The AUM for these investments is included across each of our investment strategies and presented within other businesses to demonstrate the scale of our aggregated insurance platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AUM presentation methodology, not a risk."
+  },
+  {
+   "text": "The Credit Group is one of the largest self-originating direct lenders to the U.S. and European middle markets with a growing presence in the APAC region, offering one-stop financing solutions for small-to-medium sized companies and counterparties that we believe are increasingly underserved by traditional bank lenders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market position and lending focus, descriptive business info."
+  },
+  {
+   "text": "The high yield bond strategy seeks to deliver a diversified portfolio of liquid, traded corporate bonds, incorporating secured, unsecured and subordinated debt instruments of issuers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes high yield bond strategy composition, descriptive only."
+  },
+  {
+   "text": "Opportunistic Credit : Our opportunistic credit strategy primarily targets debt and structured investments in middle market companies requiring flexible capital.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes opportunistic credit strategy focus, descriptive only."
+  },
+  {
+   "text": "Primary areas of focus for our U.S. direct lending teams include our publicly-traded business development company (\u201cBDC\u201d) , ARCC, our non-traded BDC, Ares Strategic Income Fund (\u201cASIF\u201d) and a number of U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists specific lending vehicles, descriptive business detail."
+  },
+  {
+   "text": "We provide investors access to our real estate investment capabilities through private commingled vehicles, SMAs, publicly-traded funds and perpetual wealth vehicles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investor access channels for real estate, descriptive only."
+  },
+  {
+   "text": "Leveraging deep local expertise, our regional teams gain insights into market dynamics and tenant industries, enhancing our ability to source and underwrite opportunities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes regional team expertise, descriptive marketing language."
+  },
+  {
+   "text": "As of December 31, 2025, our real estate team of over 740 investment professionals managed $113.8 billion of AUM in over 85 investment vehicles. \u2022 Real Estate Equity: Primary areas of focus for our real estate equity team include: \u2022 Logistics : Our logistics real estate platform is focused on investment in strategically located, institutional quality properties through market cycles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides AUM and team size statistics, descriptive update."
+  },
+  {
+   "text": "We focus on logistics markets that have historically exhibited stable occupancy levels and rent growth over cycles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market focus characteristics, descriptive only."
+  },
+  {
+   "text": "Our vertically-integrated operating teams are strategically located across the Americas, Europe and APAC in our key target markets, to invest in core, value-add, and development opportunities that are accretive to our portfolios and drive returns for our investors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes operating team structure and investment focus, descriptive."
+  },
+  {
+   "text": "Marq Logistics represents the brand of our vertically-integrated global logistics real estate platform that we use to manage our portfolio of logistics properties. \u2022 Diversified: Our diversified real estate platform is dedicated to investing across sectors and property types in the U.S. and Europe.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introduces brand name for platform, descriptive naming only."
+  },
+  {
+   "text": "Our platform seeks investments in cash flowing, de-risked development and scalable portfolio investments, with the opportunity to create value through repositioning, lease-up, re-tenanting, redevelopment and/or complex recapitalizations. \u2022 Real Estate Debt: Our real estate debt team primarily focuses on directly originating a wide range of financing opportunities in the U.S. and Europe.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment strategy focus areas, descriptive only."
+  },
+  {
+   "text": "Our structuring experience helps enhance cash yield and reduce downside risks in a core asset class. \u2022 Digital Infrastructure: Our digital infrastructure team manages a fully vertically-integrated global business, combining competitive investment management with in-house data center development and operational expertise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes structuring approach and digital infrastructure team, descriptive."
+  },
+  {
+   "text": "Ada Infrastructure, our dedicated data center operating platform, includes professionals from established hyperscalers and operators.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a specific operating platform's staffing background, descriptive."
+  },
+  {
+   "text": "We aim to maximize value and deliver enhanced risk-adjusted returns at scale for investors by leveraging our fully integrated approach, offering differentiated sourcing, underwriting, technical insights and operational expertise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General value proposition statement, marketing language."
+  },
+  {
+   "text": "We seek to invest in high-quality middle market companies in our core industries, namely consumer, healthcare and services, that give us exposure to rising consumer and business activity in the APAC region.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment focus in APAC middle market, descriptive."
+  },
+  {
+   "text": "Other businesses also includes other initiatives, such as activities for our investments into certain structured financing vehicles that support capital raising efforts across our platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes other business initiatives, descriptive only."
+  },
+  {
+   "text": "In September 2025, AAC II was renamed Kodiak AI, Inc.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new business combination event (AAC II becoming Kodiak AI) that creates concentrated exposure to a newly public entity's performance."
+  },
+  {
+   "text": "(Nasdaq: KDK) and completed a business combination with Kodiak Robotics, Inc.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides ticker and completion detail of the business combination, expanding on the concentration exposure introduced in the prior sentence."
+  },
+  {
+   "text": "Our investments in AAC II were converted into various non-controlling financial interests in KDK.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes conversion of investment into non-controlling financial interests, expanding the risk of reduced control and reliance on a single public company's performance."
+  },
+  {
+   "text": "In 2025, we restructured and expanded our capital markets professionals and formalized and expanded our Capital Solutions Group in order to improve execution on financing and capital markets activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal restructuring of capital markets team, descriptive operational update without specific risk."
+  }
+ ]
+}

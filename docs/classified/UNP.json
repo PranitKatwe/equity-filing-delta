@@ -1,0 +1,218 @@
+{
+ "ticker": "UNP",
+ "sector": "Industrials",
+ "filing_date": "2026-02-06",
+ "accession": "0000100885-26-000037",
+ "prior_accession": "0000100885-25-000042",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 36,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 25,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "The disclosures in this section reflect our beliefs and opinions as to factors that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing language about beliefs/opinions, not a specific risk."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such factors have occurred in the past or their likelihood of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cautionary boilerplate about how examples should be interpreted."
+  },
+  {
+   "text": "Such legislative or regulatory activity, or recent tariff activity imposed in the U.S. and retaliatory tariffs implemented in other countries, could have a material adverse effect on our results of operations, financial condition, and liquidity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding tariff legislation/regulatory activity impacting operations and financial condition."
+  },
+  {
+   "text": "During fiscal year 2025, new tariffs were imposed in the U.S. for imports from a broad range of countries and materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides concrete new factual disclosure about tariffs imposed during fiscal 2025, a specific new development."
+  },
+  {
+   "text": "Several countries also implemented or proposed retaliatory tariffs on imports from the U.S., as well as other barriers to trade.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the tariff risk already introduced by adding retaliatory tariff detail."
+  },
+  {
+   "text": "Incremental import tariffs adversely affected demand for our services and increased our costs for purchased goods and services during fiscal year 2025 and may continue to do so in 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific quantifiable impact (demand and cost increases) from tariffs, a material new detail."
+  },
+  {
+   "text": "In addition, retaliatory tariffs by regions outside the U.S., currently in effect or adopted in the future, may impact demand for our services and our costs for purchased goods and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on retaliatory tariff impacts already described."
+  },
+  {
+   "text": "Pending acquisition risks The mergers are subject to conditions, some or all of which may not be satisfied or completed on a timely basis, if at all.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding pending merger completion conditions."
+  },
+  {
+   "text": "Failure to complete the mergers could have material adverse effects on our business \u2014 On July 28, 2025, the Company, Norfolk Southern, Ruby Merger Sub 1 Corporation, and Ruby Merger Sub 2 LLC, entered into an agreement and plan of merger (the merger agreement).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual background details supporting the newly introduced merger risk."
+  },
+  {
+   "text": "The completion of the mergers (as defined in the merger agreement) is subject to a number of conditions, including, among others, the receipt of the requisite regulatory approvals, which make the completion of the mergers and timing thereof uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates and details the conditions for merger completion already introduced."
+  },
+  {
+   "text": "Also, either the Company or Norfolk Southern may terminate the merger agreement if the mergers have not been consummated by January 28, 2028, which is referred to as the end date (subject to an automatic extension in certain circumstances), except that this right to terminate the merger agreement will not be available to any party whose failure to perform any obligation under the merger agreement has been the primary cause of the failure of the mergers to be consummated on or before that date.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail about termination timing under the merger agreement."
+  },
+  {
+   "text": "In addition, if the mergers are not completed, we could be subject to litigation related to any failure to complete the mergers or related to any enforcement proceeding commenced against us to perform our obligations under the merger agreement, and whether or not any such litigation has any merit, the cost of defending such litigation may be significant.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific litigation risk tied to merger failure."
+  },
+  {
+   "text": "The materialization of any of these risks could adversely impact our ongoing business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about risk materialization without new specifics."
+  },
+  {
+   "text": "15 Table of Contents Similarly, delays in the completion of the mergers could, among other things, result in additional transaction costs, loss of revenues, or other negative effects associated with uncertainty about completion of the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about consequences of merger delays already covered."
+  },
+  {
+   "text": "The merger agreement contains provisions that limit our ability to pursue alternatives to the mergers, and, in specified circumstances, could require us to pay substantial termination fees to Norfolk Southern \u2014 The merger agreement contains certain provisions that restrict our ability to initiate, solicit, knowingly encourage, or, subject to certain exceptions, engage in discussions or negotiations with respect to, or approve or recommend, any alternative proposal.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new contractual restriction risk limiting alternative deals."
+  },
+  {
+   "text": "In some circumstances, upon termination of the merger agreement in connection with an alternative proposal, we may be required to pay a termination fee of $2.5 billion to Norfolk Southern.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific quantifiable termination fee risk ($2.5 billion)."
+  },
+  {
+   "text": "These provisions could discourage a potential acquiror of us or alternative merger partner that might have an interest in acquiring all or a significant portion of the Company or pursuing an alternative acquisition transaction with us from considering or proposing such a transaction, even if it were prepared to pay consideration with a higher per-share value than the per-share value proposed to be realized in the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains effect of termination fee already introduced."
+  },
+  {
+   "text": "In particular, a termination fee, if applicable, could result in a potential acquiror of us or alternative merger partner proposing to pay a lower price to our shareholders than it might otherwise have proposed to pay absent such a fee.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on termination fee consequences."
+  },
+  {
+   "text": "If the merger agreement is terminated in accordance with its terms, and we or Norfolk Southern seek another business combination, we may not be able to negotiate a transaction with another party on terms comparable to, or better than, the terms of the merger agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on potential outcomes if merger agreement terminates."
+  },
+  {
+   "text": "The mergers are subject to the receipt of the requisite regulatory approvals, which requisite regulatory approvals may never be obtained, therefore preventing completion of the mergers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory approval risk that could prevent merger completion."
+  },
+  {
+   "text": "In addition, in granting such approvals, regulatory authorities may impose conditions that could have a significant adverse effect on the Company, Norfolk Southern, or the combined company and the expected benefits of the mergers therefore preventing completion of the mergers \u2014 Before the mergers may be completed, the requisite regulatory approvals must have been obtained, including the approval, authorization, or exemption by the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific regulatory bodies and conditions related to the new regulatory risk."
+  },
+  {
+   "text": "Surface Transportation Board (STB) of the mergers and other transactions contemplated by the merger agreement within the jurisdiction of the STB.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies STB approval requirement already introduced."
+  },
+  {
+   "text": "The terms and conditions of the approvals that are granted may impose requirements, concessions, limitations, or costs or place restrictions on the conduct of the combined company\u2019s business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential terms of regulatory approval already covered."
+  },
+  {
+   "text": "The STB and other regulatory and governmental authorities may impose requirements, concessions, and other conditions on the granting of such approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates regulatory conditions risk already described."
+  },
+  {
+   "text": "If such regulatory and governmental authorities seek to impose such requirements, concessions, or conditions, lengthy negotiations may ensue among such authorities, the Company and Norfolk Southern.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail about negotiations with regulators."
+  },
+  {
+   "text": "Such requirements, concessions, and conditions and the process of obtaining regulatory approvals could have the effect of delaying completion of the mergers and such requirements, concessions, and conditions may not be identified or satisfied for an extended period of time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on delay risk from regulatory approval process."
+  },
+  {
+   "text": "Such requirements, concessions and conditions may also impose additional costs or limitations on the combined company following the completion of the mergers and the parties have agreed to accept such requirements, concessions, and conditions, even if significant, subject to the agreed-upon materially burdensome regulatory condition limitation in favor of us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing cost/limitation risk from regulatory conditions."
+  },
+  {
+   "text": "These requirements, concessions, and conditions may therefore reduce the anticipated benefits of the mergers, including synergies, which could also have a significant adverse effect on the combined company\u2019s business and cash flows and results of operations, and we cannot predict what, if any, requirements, concessions, and conditions may be required by regulatory or governmental authorities whose approvals are required.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on reduced merger benefits due to regulatory conditions."
+  },
+  {
+   "text": "The requisite regulatory approvals may not be obtained at all, may not be obtained in a timely fashion, and may contain conditions on the completion of the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates possibility that approvals may not be obtained, duplicative of earlier point."
+  },
+  {
+   "text": "In January 2026, the STB announced its finding that the major merger application filed by the Company and Norfolk Southern was incomplete, as a result of which the STB rejected the application without prejudice.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new concrete event: STB rejection of merger application as incomplete."
+  },
+  {
+   "text": "The decision does not result in the dismissal of the mergers, and the Company is permitted to file a revised application, which will commence a new review by the STB for completeness.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides follow-up detail on the STB rejection and revised application process."
+  },
+  {
+   "text": "If we experience further delays as a result of the STB\u2019s review process or we are unable to obtain other 16 Table of Contents regulatory approvals on a timely basis, any such delays may increase our costs and reduce the anticipated benefits of the mergers, which could also have a significant adverse effect on the combined company\u2019s business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on cost/delay consequences from STB review process."
+  },
+  {
+   "text": "In addition, under existing law, our railroad competitors and customers, Norfolk Southern\u2019s railroad competitors and customers, and other interested parties may intervene to oppose the STB application or seek protective conditions in the event approval by the STB is granted, which might affect the decision of the STB, delay the approval process, or reduce the anticipated benefits of the mergers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of competitor/customer intervention in regulatory approval process."
+  },
+  {
+   "text": "Furthermore, if the STB does not provide final approval or imposes conditions on its approval in a final order, and the Company and Norfolk Southern decide to appeal such final order from the STB, any such appeal might not be resolved for a substantial period of time after the entry of such order by the STB.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details appeal process risk related to already-introduced regulatory approval risk."
+  },
+  {
+   "text": "Such limitations could adversely affect each party\u2019s businesses and operations prior to the completion of the mergers.",
+   "category": "expanded_existing_risk",
+   "rationale": "General restatement of adverse effects from limitations already discussed."
+  },
+  {
+   "text": "Each of the risks described above may be exacerbated by delays or other adverse developments with respect to the completion of the mergers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that risks may be exacerbated, without new specifics."
+  },
+  {
+   "text": "Uncertainties associated with the mergers may cause a loss of management personnel and other key employees, and the Company and Norfolk Southern may have difficulty attracting and motivating management personnel and other key employees, and combining cultures between the two companies could be challenging, which could adversely affect the future business and operations of the combined company \u2014 The Company and Norfolk Southern are dependent on the experience and industry knowledge of their respective management personnel and other key employees to execute their business plans.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding loss of management personnel and cultural integration challenges."
+  },
+  {
+   "text": "The combined company\u2019s success after the completion of the mergers will depend in part upon our ability, and Norfolk Southern\u2019s ability, to attract, motivate, and retain key management personnel and other key employees as well as develop a singular culture framed in the strategy of Safety, Service, and Operational Excellence.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on retention risk already introduced."
+  },
+  {
+   "text": "Prior to completion of the mergers, our current and prospective employees, and Norfolk Southern\u2019s current and prospective employees, may experience uncertainty about their roles within the combined company following the completion of the mergers, which may have an adverse effect on our ability, and Norfolk Southern\u2019s ability, to attract, motivate, or retain management personnel and other key employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing employee uncertainty risk already covered."
+  },
+  {
+   "text": "In addition, no assurance can be given that the combined company will be able to attract, motivate, or retain management personnel and other key employees of the Company and Norfolk Southern to the same extent that the Company and Norfolk Southern have previously been able to attract or retain employees.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty regarding ability to retain employees, same risk as before."
+  }
+ ]
+}

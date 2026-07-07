@@ -1,0 +1,123 @@
+{
+ "ticker": "DGX",
+ "sector": "Health Care",
+ "filing_date": "2026-02-26",
+ "accession": "0001022079-26-000015",
+ "prior_accession": "0001022079-25-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 21,
+ "n_substantive": 14,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "In addition, the diagnostic information services industry is faced with potential changes in government regulations that could impact patient access to healthcare.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential regulatory changes affecting patient access, without specific new risk detail."
+  },
+  {
+   "text": "Unfortunately, by relying on laboratory reported data alone in 2017, CMS did not receive comprehensive and representative data needed to set Medicare rates that reflected the commercial market, as required under PAMA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional factual detail about CMS's historical PAMA data issue, expanding on the already-known PAMA reimbursement risk."
+  },
+  {
+   "text": "Starting in 2020, Congress has repeatedly acted to delay PAMA implementation by delaying the next round of data reporting (2020-2026) and Medicare cuts (2021-2026).",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes ongoing Congressional delays to PAMA implementation, adding detail to the existing PAMA risk narrative."
+  },
+  {
+   "text": "However, the structural flaws of PAMA still need to be addressed to mitigate future excessive cuts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussion of PAMA structural flaws, elaborating on the pre-existing regulatory risk rather than introducing a new one."
+  },
+  {
+   "text": "The political environment impacting healthcare regulation in the United States continues to be uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about political/regulatory uncertainty with no specific new risk detail."
+  },
+  {
+   "text": "The services that we offer and our result of operations could be adversely affected by legislative, enforcement, regulatory and public policy changes at the federal or state level, many of which we cannot anticipate at this time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about unspecified legislative/regulatory changes, typical boilerplate."
+  },
+  {
+   "text": "The FDA also regulates drugs-of-abuse testing for employers and insurers, testing for blood bank purposes and testing of donors of human cells for purposes such as in vitro fertilization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about scope of FDA regulation over various testing types, expanding existing regulatory risk discussion."
+  },
+  {
+   "text": "However, in March 2025, a U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal development (court vacating FDA's LDT rule) that materially changes the regulatory risk landscape."
+  },
+  {
+   "text": "District Court set aside and vacated the FDA\u2019s LDT rule and the FDA did not appeal the court\u2019s decision.",
+   "category": "new_substantive_risk",
+   "rationale": "Continuation of the court ruling detail that materially alters FDA's regulatory authority over LDTs, a new specific development."
+  },
+  {
+   "text": "Accordingly, the FDA does not have the authority to regulate LDTs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies the practical effect of the court ruling on FDA authority, building on the newly introduced fact."
+  },
+  {
+   "text": "However, it is the purvey of Congress to enact new laws or amendments to CLIA or the Food, Drug and Cosmetic Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about Congress's general lawmaking power, not a specific new risk."
+  },
+  {
+   "text": "If this were to occur, any new legislation could have a significant impact on us and the clinical laboratory testing industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about potential future legislation impact, typical boilerplate."
+  },
+  {
+   "text": "Tariffs, sanctions and other barriers imposed or 33 Table of Contents threatened by the U.S. government, and the responses to those actions from other countries, may result in adverse impacts to the global economic environment, including the global financial and trading markets, which could have a negative impact on our results of operations and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding tariffs, sanctions, and trade barriers affecting financial condition and global markets."
+  },
+  {
+   "text": "These actions could also negatively impact our supply chain costs or availability of products we need to operate our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced tariff/trade risk by specifying supply chain cost impacts."
+  },
+  {
+   "text": "The ongoing uncertainty with the current state of global trade policy magnifies these risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the trade policy uncertainty risk introduced above."
+  },
+  {
+   "text": "We are partnering with Epic, a third-party licensor, to assist in the implementation of Project Nova.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific business initiative (partnership with Epic for Project Nova) implying new implementation and dependency risk."
+  },
+  {
+   "text": "We are increasingly collaborating with new entrants in the health services industry who are facilitating consumers\u2019 growing interest in taking direct responsibility for their own healthcare, where we provide the underlying testing services for their consumer health service offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new business risk area involving partnerships with new health service entrants for consumer testing."
+  },
+  {
+   "text": "These companies are increasingly handling and processing highly sensitive consumer health data and our contractual relationship with these companies could expose us to legal or regulatory risk and reputational harm if they are unable to adequately safeguard this information.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new legal/regulatory and reputational risk from partners mishandling sensitive health data."
+  },
+  {
+   "text": "We have also entered into arrangements with a number of new entrants in the health services industry who are leveraging the increasing trend for consumers to manage and take direct responsibility for their own healthcare, where we provide the underlying testing services for their consumer health service offerings.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same partnership/collaboration risk described in index 16 with different phrasing."
+  },
+  {
+   "text": "These companies are operating in a new, rapidly evolving and uncertain regulatory landscape that subjects them to several risks, including those related to application of regulatory requirements ( e.g. , under CLIA, for testing performed outside of a commercial laboratory), unlicensed and corporate practice of medicine laws that differ across the United States, reimbursement uncertainty of direct-to-consumer health services, specimen collection errors and logistics, cybersecurity and health data privacy risks and clinical and professional liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a detailed, specific list of new regulatory and operational risks tied to these new health service partnerships."
+  },
+  {
+   "text": "Our contractual relationship with these companies could expose us to these legal or regulatory risks and reputational harm.",
+   "category": "reworded_same_meaning",
+   "rationale": "Repeats the same reputational/legal risk concept already stated in index 17."
+  }
+ ]
+}

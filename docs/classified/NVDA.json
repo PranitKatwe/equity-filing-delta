@@ -1,0 +1,218 @@
+{
+ "ticker": "NVDA",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-25",
+ "accession": "0001045810-26-000021",
+ "prior_accession": "0001045810-25-000023",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 35,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 23,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "We invest in employee development through on-the-job trainings and tuition reimbursement programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about employee development programs, not a risk."
+  },
+  {
+   "text": "Our compensation and benefits are designed to reward performance and align employee interests with those of our shareholders through equity participation and comprehensive health and financial wellness programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes compensation philosophy, not a specific business risk."
+  },
+  {
+   "text": "We also utilize employee listening systems to gather feedback and maintain an inclusive culture where hiring and promotions are based on merit.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic HR culture description, no risk implication."
+  },
+  {
+   "text": "We have entered into an intellectual property license arrangement with Groq, Inc., or Groq, that required significant, nonrefundable payments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new licensing arrangement with Groq involving significant nonrefundable payments, a concrete new financial/operational exposure."
+  },
+  {
+   "text": "Successfully incorporating the licensed technology into our architectures and product roadmaps requires significant engineering effort and may not occur on expected timelines or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on integration risk tied to the newly disclosed Groq license, expanding on technology adoption uncertainty."
+  },
+  {
+   "text": "The licensed technology may not achieve the desired results as designed or achieve customer or ecosystem adoption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on the Groq licensing risk regarding adoption success."
+  },
+  {
+   "text": "The economic outcomes of this arrangement depend on our ability to translate the licensed technology into commercially viable products and services over time, and we may be unable to recover the associated costs or realize an adequate return on this spend.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details economic risk of recovering costs from the Groq arrangement, an extension of the same new risk."
+  },
+  {
+   "text": "If our efforts to use the licensed technology are delayed or unsuccessful, our business, operating results, and financial condition could be negatively impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues describing consequences of delays in using licensed technology, part of same Groq risk disclosure."
+  },
+  {
+   "text": "Risks Related to Demand, Supply, and Manufacturing Long manufacturing lead times and uncertain supply and capacity availability, combined with a failure to estimate customer demand accurately, has led and could lead to mismatches between supply and demand.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing supply/demand mismatch risk with added phrase 'has led and could lead', not materially new."
+  },
+  {
+   "text": "The availability of data centers, energy, and capital to support the buildout of NVIDIA AI infrastructure by our customers and partners is crucial, and any shortage of these and other necessary resources could impact our future revenue and financial performance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk about data center, energy, and capital availability impacting customer infrastructure buildout."
+  },
+  {
+   "text": "Expanding energy capacity to meet demand is a complex, multi-year process involving significant regulatory, technical, and construction challenges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on complexity of energy capacity expansion, extending the new infrastructure risk."
+  },
+  {
+   "text": "In addition, access to capital can be particularly constrained for less-capitalized companies, which may face difficulties securing financing for large-scale infrastructure projects.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on capital constraints for less-capitalized companies, part of same infrastructure risk theme."
+  },
+  {
+   "text": "These limitations could delay customer and partner deployments or reduce the scale of accelerated computing and AI adoption.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes impact of the above infrastructure limitations, extension of same risk."
+  },
+  {
+   "text": "Publicly announced intentions by governments or other companies to purchase our products can further complicate our demand estimates, as such announcements are often non-binding and may not result in committed volumes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about non-binding government/company purchase announcements complicating demand estimates."
+  },
+  {
+   "text": "We expect supply constraints to be a headwind to Gaming in the first quarter of fiscal year 2027 and beyond.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific forward-looking supply constraint guidance for Gaming segment, a new concrete disclosure."
+  },
+  {
+   "text": "We are increasing our U.S.-based manufacturing and investing in specialized equipment and processes to support domestic production.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new strategic shift toward U.S.-based manufacturing investment, a new operational risk area."
+  },
+  {
+   "text": "We may experience delays or difficulties in scaling production as planned.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential delays in scaling this new manufacturing effort, extension of the new risk."
+  },
+  {
+   "text": "Our ability to increase manufacturing capabilities will depend on the domestic manufacturing ecosystem's capacity to ramp production supply to the required volume timely.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates dependency on domestic manufacturing ecosystem capacity, part of same new risk."
+  },
+  {
+   "text": "Delays or shortfalls could impact our ability to meet demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "States consequence of delays, continuing the same manufacturing risk discussion."
+  },
+  {
+   "text": "Customers may delay adopting new architectures if their data center infrastructure is not ready, which could affect the timing of our revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to existing demand/adoption timing risk related to data center readiness."
+  },
+  {
+   "text": "These investments may generate realized and unrealized gains or losses and we could realize losses up to the value of the investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates investment gain/loss risk, consistent with prior ecosystem investment risk disclosures."
+  },
+  {
+   "text": "We have invested and may continue to invest in our ecosystem.",
+   "category": "reworded_same_meaning",
+   "rationale": "Simple restatement that company invests in ecosystem, no new information."
+  },
+  {
+   "text": "Many of these companies may not achieve profitability in the near term, or at all, and there is no guarantee that we will realize a return on our investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about profitability uncertainty of investees, expanding existing investment risk."
+  },
+  {
+   "text": "We are finalizing an investment and partnership agreement with OpenAI.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new, specific pending investment and partnership negotiation with OpenAI."
+  },
+  {
+   "text": "There is no assurance that we will enter into an investment and partnership agreement with OpenAI or that a transaction will be completed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty language about completion of the OpenAI deal, extension of the new disclosure."
+  },
+  {
+   "text": "We generate a significant amount of our revenue from a limited number of indirect customers, and we estimate some individually representing 10% or more of our revenue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more specific quantification of customer concentration risk (10% threshold), expanding existing risk factor."
+  },
+  {
+   "text": "Commercial arrangements expose us to counterparty risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new counterparty risk framing tied to commercial arrangements not previously disclosed."
+  },
+  {
+   "text": "We have entered and may in the future enter into commercial arrangements, including long-term capacity purchase obligations and financial guarantees, and have been asked to offer financing arrangements to support our customers\u2019 and partners\u2019 buildout of datacenter infrastructure.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new specific commercial arrangements including capacity purchase obligations and financing requests, a new financial exposure."
+  },
+  {
+   "text": "We have not entered into any financing arrangements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies current status (no financing arrangements yet), part of the same new disclosure."
+  },
+  {
+   "text": "Commercial arrangements expose us to counterparty risk, including customers' or partners' inability to fulfill their financial commitments and secure necessary financing or infrastructure, the occurrence of significant project delays, and counterparty financial distress or insolvency, all of which may negatively impact our business, financial condition, or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the counterparty risk introduced above, adding specifics on insolvency and delay risks."
+  },
+  {
+   "text": "Financing arrangements, if undertaken, may in some circumstances result in lower upfront cash flows associated with extended payment terms or payment terms made over a multi-year term and may increase credit risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds financial detail about potential financing arrangement impacts, continuing the same new risk area."
+  },
+  {
+   "text": "On September 15, 2025, China\u2019s antitrust regulators published their preliminary finding that our compliance with applicable U.S. export controls, which required us to offer degraded products to the Chinese market, discriminated unfairly against customers in the China market and therefore violated the terms of China\u2019s approval of our Mellanox acquisition.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific legal/regulatory finding by Chinese antitrust regulators against the company, a concrete new legal risk."
+  },
+  {
+   "text": "In April 2025, the USG informed us that it requires a license for export to China (including Hong Kong and Macau) and D:5 countries, or to companies headquartered or with an ultimate parent therein, of our H20 integrated circuits and any other circuits achieving the H20\u2019s memory bandwidth, interconnect bandwidth, or combination thereof.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific export control licensing requirement from the U.S. government affecting China sales."
+  },
+  {
+   "text": "As a result of these requirements, we incurred a $4.5 billion charge in the first quarter of fiscal year 2026 associated with H20 for excess inventory and purchase obligations, as the demand for H20 products diminished.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific $4.5 billion charge resulting from new export restrictions, a material financial impact."
+  },
+  {
+   "text": "In August 2025, the USG granted licenses that would allow us to ship certain H20 products to certain China-based customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on licensing status allowing some shipments, extending the export control narrative."
+  },
+  {
+   "text": "We generated approximately $60 million in H20 revenue under those licenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific revenue figure from licensed sales, continuing the same export control disclosure."
+  },
+  {
+   "text": "USG officials expressed an expectation that the USG will receive 15% or more of the revenue generated from licensed sales of our products, but the USG did not publish a regulation codifying such requirement.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific government revenue-sharing expectation on licensed sales, a novel regulatory financial risk."
+  },
+  {
+   "text": "In February 2026, the USG granted a license that would allow us to ship small amounts of H200 products to specific China-based customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the export licensing narrative to H200 products, consistent with prior disclosures."
+  },
+  {
+   "text": "To date, we have not generated any revenue under the H200 licensing program, and do not yet know whether any imports will be allowed into China.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides status update on lack of revenue from new H200 licensing program, continuation of same risk."
+  },
+  {
+   "text": "The license requires that the H200s go through an inspection process in the United States prior to any shipment to the customer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds procedural detail about inspection requirement, extending the same export control risk."
+  }
+ ]
+}

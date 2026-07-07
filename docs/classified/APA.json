@@ -1,0 +1,218 @@
+{
+ "ticker": "APA",
+ "sector": "Energy",
+ "filing_date": "2026-02-26",
+ "accession": "0001841666-26-000015",
+ "prior_accession": "0002040266-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 33
+ },
+ "items": [
+  {
+   "text": "Unless otherwise specified, all references to wells and acres are gross.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines convention that well/acre references are gross; purely definitional, no risk content."
+  },
+  {
+   "text": "The Company makes available, free of charge on its website at www.apacorp.com , its Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act as soon as reasonably practicable after they are filed with, or furnished to, the SEC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure about website availability of SEC filings; common boilerplate."
+  },
+  {
+   "text": "These uncertainties include the impacts of ongoing international conflicts, inflation, current and potential tariffs or other trade barriers, global trade policies, and actions taken by foreign oil and gas producing nations, including OPEC+.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new external risk drivers (tariffs, trade barriers, international conflicts) not previously mentioned, expanding macro risk exposure."
+  },
+  {
+   "text": "Proceeds of approximately $1.6 billion from these transactions were used primarily to reduce debt. \u2022 During 2025, APA completed the sale of certain non-core assets and leasehold in the Permian Basin, reflecting a full exit from New Mexico.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of asset sale proceeds and use of funds; business fact, not a risk statement."
+  },
+  {
+   "text": "Final proceeds of $571 million were primarily used for debt reduction.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about use of sale proceeds for debt reduction."
+  },
+  {
+   "text": "Over the past two years, the Company has progressed on high-grading its scale of operations and localized knowledge through the Callon acquisition and exit from non-core holdings in the conventional Central Basin Platform and positions in New Mexico.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive summary of past strategic portfolio actions, not a new risk."
+  },
+  {
+   "text": "This concentrates APA\u2019s position in a few key areas that enable economies of scale in operations and provides significant flexibility in pacing of developmental and appraisal activity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic description of asset concentration benefits, not risk-specific."
+  },
+  {
+   "text": "In addition, the Company has been able to make significant strides in reducing drilling, completions, and equipping and facility costs by leveraging these synergies while refining its development approach to its asset base.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes cost synergies achieved; positive operational commentary, not risk."
+  },
+  {
+   "text": "Improvements in its cost structure has enabled the Company to drill more wells on tighter and denser spacing and to moderate completion intensity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes operational improvement in drilling spacing; not a risk statement."
+  },
+  {
+   "text": "Key assets in the Permian Basin include: \u2022 Midland Basin APA holds approximately 406,000 gross acres (288,000 net acres) in the Midland Basin in West Texas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual acreage figures for Midland Basin; descriptive business data."
+  },
+  {
+   "text": "3 \u2022 Delaware Basin APA holds approximately 217,000 gross acres (166,000 net acres) in the Delaware Basin of West Texas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual acreage figures for Delaware Basin; descriptive."
+  },
+  {
+   "text": "During 2025, the Company participated in the drilling of 7 gross development wells in this area with a 100 percent success rate. \u2022 New Venture Assets APA holds approximately 325,000 gross acres (163,000 net acres) of undeveloped acreage on the North Slope of Alaska.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes drilling activity and success rate; factual operational data."
+  },
+  {
+   "text": "During 2025, the Company and its partners announced preliminary results of an exploratory well in Alaska, confirming the successful discovery of a reservoir.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes exploratory well results; factual update, not a risk."
+  },
+  {
+   "text": "A successful flow test of the well was announced in 2025, with the well averaging 2,700 b/d during the final flow period.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports flow test results; factual operational data."
+  },
+  {
+   "text": "The Company continues to evaluate data from the well, and further appraisal drilling will determine the ultimate size of the discovery.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing evaluation of well data; factual, forward-looking operational note."
+  },
+  {
+   "text": "During 2025, the Government of Egypt awarded the Company an additional two million net exploration acres in the Western Desert.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new acreage award in Egypt; factual business expansion, not risk."
+  },
+  {
+   "text": "This new acreage expands on the Company\u2019s existing position in the country.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States new acreage expands existing position; descriptive."
+  },
+  {
+   "text": "In addition to a signature bonus of $25 million, the Company has committed to a drilling program on the acreage that the Company believes it will be able to meet in the normal course of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes signature bonus and drilling commitment, with reassurance that it can be met in normal operations; downplays risk rather than introducing one."
+  },
+  {
+   "text": "International Marketing In Egypt, substantially all of the Company\u2019s 2025 natural gas production is sold to EGPC pursuant to a gas sales agreement that establishes pricing based on a minimum realized price of $2.65 per MMBtu, with the potential for higher pricing on incremental volumes when pre-determined production thresholds are met.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes gas sales pricing agreement terms; factual commercial detail, not a risk statement."
+  },
+  {
+   "text": "In the periods prior to the current agreement, the natural gas production in Egypt was primarily sold to EGPC at an industry-pricing formula of $2.65 per MMBtu.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes prior pricing formula; factual historical detail."
+  },
+  {
+   "text": "The Company also has approximately 84,000 and 22,000 net undeveloped acres in Alaska set to expire by year-end 2027 and 2028, respectively, if no extension is granted.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific acreage expiration dates and conditional risk of losing acreage if extensions aren't granted, a new concrete risk not previously disclosed."
+  },
+  {
+   "text": "8 During 2025, the Government of Egypt awarded the Company an additional two million net undeveloped exploration acres in the Western Desert for a term of five years, expanding on the Company\u2019s existing position in Egypt.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reiterates factual acreage award details already covered elsewhere."
+  },
+  {
+   "text": "The Company also holds undeveloped exploration acreage that was consolidated and extended in 2021 following ratification of the MCA with EGPC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes historical acreage consolidation; factual background."
+  },
+  {
+   "text": "The merged exploration acreage is scheduled to expire in 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies expiration date for merged acreage, expanding on the general lease/acreage expiration risk theme."
+  },
+  {
+   "text": "However, there can be no assurance that any such extensions or new access rights will be obtained on commercially acceptable terms, or at all, as these actions are subject to governmental approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds explicit uncertainty language about obtaining extensions on acceptable terms, reinforcing the acreage expiration risk already noted."
+  },
+  {
+   "text": "Engineering and well performance adjustments totaled 138 MMboe in the U.S. and Egypt.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports reserve revision figures; factual data disclosure."
+  },
+  {
+   "text": "Upward revisions of 100 MMboe in the U.S. is related to changes to development plans and updates due to reservoir performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains reserve revision cause; factual detail."
+  },
+  {
+   "text": "Egypt realized positive revisions of 38 MMboe from gas infrastructure optimization and improved recovery projects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports positive reserve revisions from operational improvements; factual."
+  },
+  {
+   "text": "The Company also revised PUD reserves upward 41 MMboe as a result of updates to field development plans.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports PUD reserve revision; factual data."
+  },
+  {
+   "text": "Additionally, the Company spent approximately $256 million in development and facility capital as part of the Suriname development during 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States capital spending amount for Suriname development; factual financial detail."
+  },
+  {
+   "text": "These activities support APA\u2019s core values, which include health and safety, investment in the workforce, environmental responsibility, continuous improvement, and ethical conduct.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about core values; standard ESG boilerplate."
+  },
+  {
+   "text": "12 Recruitment uses technology and data-driven insights to identify talent globally and uses referrals and feedback to strengthen local sourcing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes recruitment methods; HR boilerplate, not risk."
+  },
+  {
+   "text": "Beyond recruitment, the Company invests in talent development initiatives designed to build capability, strengthen leadership effectiveness, and reinforce a high-performance culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes talent development initiatives; HR boilerplate."
+  },
+  {
+   "text": "In 2025, APA emphasized leadership and culture initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Notes leadership and culture initiatives; boilerplate HR commentary."
+  },
+  {
+   "text": "Senior leadership focused on strategic priorities and development of a strong corporate culture that reinforces shared values, collaboration, accountability, and continuous improvement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes leadership focus on culture; boilerplate."
+  },
+  {
+   "text": "(3) Flaring Intensity: The volume of gas flared per volume of gas produced expressed as a percent.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines flaring intensity metric; definitional, not risk."
+  },
+  {
+   "text": "The Company\u2019s support helped advance Switch Energy Alliance\u2019s programming that increases understanding of energy systems, energy access challenges, and the role of diverse energy solutions in supporting economic development and quality of life in energy-impacted communities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes support for energy education program; ESG boilerplate."
+  },
+  {
+   "text": "Regulatory requirements affecting the Company\u2019s operations are frequently proposed, revised, delayed, challenged in litigation, enjoined or stayed by courts, withdrawn by agencies, or modified through subsequent administrative and legislative actions, including in the U.S. through the use of the Congressional Review Act.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on regulatory unpredictability and legal challenges, expanding the existing general regulatory risk discussion with more specific mechanisms (litigation, Congressional Review Act)."
+  },
+  {
+   "text": "As a result, the scope, timing, and practical impact of regulatory change can be difficult to predict and may change rapidly, including across election cycles and as agencies adjust enforcement priorities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details unpredictability of regulatory change tied to political cycles, extending the same regulatory risk theme."
+  },
+  {
+   "text": "In the U.S., regulatory activity related to methane and GHG emissions has included, and is expected to continue to include, changes to monitoring, reporting, leak detection and repair, flaring, and emissions control requirements applicable to oil and gas operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies methane/GHG regulatory activity as an ongoing concern, adding detail to the existing environmental regulatory risk."
+  }
+ ]
+}

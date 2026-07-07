@@ -1,0 +1,158 @@
+{
+ "ticker": "SO",
+ "sector": "Utilities",
+ "filing_date": "2026-02-19",
+ "accession": "0000092122-26-000006",
+ "prior_accession": "0000092122-25-000018",
+ "model": "claude-sonnet-5",
+ "n_added": 28,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "The reduction, elimination, or expiration of government incentives for, or regulations mandating or restricting the use of, renewable energy projects could reduce demand for renewable energy projects and harm the Registrants' businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on a standard, previously-existing risk regarding loss of renewable energy incentives without adding new specifics."
+  },
+  {
+   "text": "The traditional electric operating companies, and the power industry in general, have experienced a period of rising costs and projected capital expenditures, especially with respect to infrastructure investments, which is projected to continue for the foreseeable future.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about rising industry costs and capital expenditures, expanding on an existing cost/rate-recovery risk theme."
+  },
+  {
+   "text": "The current period of rising costs and increased projected capital expenditures could result in increased resistance to authorizing cost recovery.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the existing cost recovery risk by noting increased resistance to rate recovery amid rising costs."
+  },
+  {
+   "text": "The OBBB was signed into law on July 4, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely factual statement noting the date a law was signed, no risk content."
+  },
+  {
+   "text": "The OBBB, among other things, materially changed the requirements for most of the federal renewable energy incentives.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legislative change (OBBB) materially altering renewable energy tax incentive requirements."
+  },
+  {
+   "text": "The Registrants are still assessing the impacts of the OBBB on tax incentives for renewable energy projects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States that the company is still assessing impacts, an informational disclaimer rather than a risk."
+  },
+  {
+   "text": "Any loss of, reduction in, or impacts on tax incentives, including transferability of tax credits, due to the OBBB could have a material adverse effect on the Registrants.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk that loss of tax incentives from the OBBB could have a material adverse effect."
+  },
+  {
+   "text": "See MANAGEMENT'S DISCUSSION AND ANALYSIS \u2013 I-15 Table of Contents Index to Financial Statements FUTURE EARNINGS POTENTIAL \u2013 \"Income Tax Matters \u2013 Federal Tax Legislation\" in Item 7 herein for additional information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to MD&A section, not a risk statement."
+  },
+  {
+   "text": "The public holds diverse and often conflicting views on the use of fossil fuels which may subject the Registrants to adverse publicity in connection with their use or supply of fossil fuels.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new reputational risk tied to public opinion on fossil fuel use."
+  },
+  {
+   "text": "The Illinois Commission's final report is expected by the end of 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual timing statement about a commission report, no risk implication."
+  },
+  {
+   "text": "Due primarily to the projected electric load growth, current projections indicate it will be extremely challenging to meet the 2030 goal.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that a 2030 clean energy goal may not be met due to load growth."
+  },
+  {
+   "text": "Use of generative artificial intelligence has also increased the frequency, scale, and sophistication of cyber attacks and increased the capability of less sophisticated actors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor: AI-enabled cyberattacks increasing in frequency and sophistication."
+  },
+  {
+   "text": "If these facilities are retired in the future, the demand for coal may decline.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing risk about declining coal demand due to facility retirements."
+  },
+  {
+   "text": "Moreover, the pace and extent of the traditional electric operating companies' planned construction program have increased as a response to projected electric demand growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk regarding capital construction pace responding to demand growth."
+  },
+  {
+   "text": "In particular, future incremental electric demand from data centers could be substantial or, on the other hand, future technological advances could offset or eliminate any such demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding uncertain data center demand impacts, a new driver not previously described."
+  },
+  {
+   "text": "Accordingly, future energy demand may vary widely from projections.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement following from data center demand uncertainty, expanding on existing demand forecasting risk."
+  },
+  {
+   "text": "See Note 2 to the financial statements in Item 8 herein for more information regarding storm damage balances.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement note, not a risk."
+  },
+  {
+   "text": "Any I-24 Table of Contents Index to Financial Statements such delay or failure in recovering costs by the Subsidiary Registrants could have a material adverse effect on the Registrants, including lower credit ratings and, thus, higher costs for future debt issuances, as well as limitations on their ability to fund capital expenditures and support economic development opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates existing cost recovery risk with added detail on credit rating and funding impacts."
+  },
+  {
+   "text": "The traditional electric operating companies are experiencing projected demand that significantly exceeds recent experience, creating the need for new power generating resources and transmission facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that demand significantly exceeds historical experience, requiring new infrastructure."
+  },
+  {
+   "text": "Extending service to these customers necessitates significant capital expenditures, which in turn requires sufficient access to sources of capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing capital expenditure risk related to extending service to new customers."
+  },
+  {
+   "text": "In particular, Georgia Power has agreed to file its next base rate case in a manner that will ensure the incremental revenue from large load customers has downward pressure, on a levelized basis, of at least $556 million per year for the years 2029, 2030, and 2031.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financial commitment (Georgia Power's $556 million rate case provision) not previously disclosed."
+  },
+  {
+   "text": "While electric service agreements with new large load customers (including data centers) typically include provisions such as early termination payments, minimum bills, and financial security, these and other contractual provisions may not fully protect the traditional electric operating companies against all risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk regarding large load customer contracts and their limitations."
+  },
+  {
+   "text": "Changes in industry practice or advances in the related technologies could reduce the demand for electricity to power data centers or other large load facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk that technological changes could reduce data center electricity demand."
+  },
+  {
+   "text": "Additionally, these industries may experience a business downturn, which could cause the loss of current or potential customers or may weaken the financial condition and creditworthiness of existing customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing customer risk to include industry downturn impacts on creditworthiness."
+  },
+  {
+   "text": "If anticipated demand growth does not materialize, the traditional electric operating companies could experience unrecovered capital investments made to serve expected load.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of unrecovered capital investment if anticipated demand growth fails to materialize."
+  },
+  {
+   "text": "Conversely, if demand grows more rapidly than projected, the traditional electric operating companies may face challenges in securing adequate generation and transmission capacity and maintaining service reliability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of capacity and reliability challenges if demand grows faster than projected."
+  },
+  {
+   "text": "Access to capital markets may also be critical to finance unexpected material expenditures such as unusually volatile commodity costs or significant storm restoration activities for severe weather events.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing capital access risk by citing storm restoration and commodity cost volatility as funding needs."
+  },
+  {
+   "text": "Future debt and credit agreements may contain additional or different covenants, events of default, and mandatory prepayment events.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential future debt covenant terms, standard boilerplate risk language."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "NOC",
+ "sector": "Industrials",
+ "filing_date": "2026-01-27",
+ "accession": "0001133421-26-000003",
+ "prior_accession": "0001133421-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "Certain of the risk factors described below include references to past events as examples.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic meta-commentary about how risk factors are framed, not a risk itself."
+  },
+  {
+   "text": "You should not view those examples, or the absence of other examples, as a representation as to whether or not the events, factors or contingencies described in our risk factors have or have not occurred.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cautionary disclaimer about interpretation of examples, not a substantive risk."
+  },
+  {
+   "text": "Instead, the disclosures in this section reflect our beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the purpose of the disclosures, boilerplate framing."
+  },
+  {
+   "text": "We have a number of large programs with the DoW, in particular.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific context (concentration in DoW programs) to existing customer concentration risk."
+  },
+  {
+   "text": "In some cases, they have also ultimately resulted and could result in termination of a contract for convenience or reduced future orders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences (termination/reduced orders) tied to existing program risk discussion."
+  },
+  {
+   "text": "Certain of our programs have been, and in the future, one or more of our programs could be, subject to notification under the Nunn-McCurdy Act, and if we are unable to achieve certification for continuance, or if the cost of such efforts exceeds our expectations, it could have a material adverse effect on such program and/or our reputation, financial position, results of operations and/or cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new statutory risk (Nunn-McCurdy Act) with concrete adverse consequences."
+  },
+  {
+   "text": "The U.S. government can also introduce new contract terms that could impact and/or restrict our capital deployment strategy under certain circumstances related to contractor underperformance, noncompliance, insufficient prioritization of a particular contract, insufficient investment or insufficient production speed.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new type of government-imposed contract term risk affecting capital deployment."
+  },
+  {
+   "text": "We also have faced, and may in the future face, a prolonged government shutdown.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing government shutdown risk by noting prolonged duration experienced."
+  },
+  {
+   "text": "In certain circumstances, these alternative contracting models may place increased risk on the contractor, such as the potential for greater assumption of development costs or for limited reimbursement recourse in certain situations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of alternative contracting models shifting cost/risk to contractor."
+  },
+  {
+   "text": "Further, certain non-Federal Acquisition Regulation-based procurement methods, such as OTA awards, are not subject to all of the procurement requirements that typically apply to DoW contracts and rights to protest such awards may be more limited than for other contracts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding OTA awards and limited protest rights."
+  },
+  {
+   "text": "Our customers are increasingly working with commercial contractors as well as newer entrants and startups in the defense industry for some products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new competitive threat from commercial contractors and startups."
+  },
+  {
+   "text": "Such contractors may have lower cost, more agile operating structures and access to capital and talent, a greater ability to leverage changes in the customer\u2019s acquisition -10- Table of Contents NORTHROP GRUMMAN CORPORATION strategies (e.g., multiple awardees, short lifecycles) or be more inclined to take on increased risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on competitive disadvantages relative to new entrants, expanding prior competition risk."
+  },
+  {
+   "text": "Additionally, in some instances, companies both inside and outside the U.S. may receive loans, investments, subsidies, preferential treatment and other assistance from their governments or customers that may not be provided or available to other companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competition risk with detail on foreign government assistance to competitors."
+  },
+  {
+   "text": "Such assistance may increase the competitiveness of such companies in certain opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on competitive impact of government assistance to rivals."
+  },
+  {
+   "text": "Certain foreign companies may also be subject to fewer restrictions on technology transfer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding foreign companies' reduced technology transfer restrictions."
+  },
+  {
+   "text": "We work proactively to mitigate the challenges caused by the macroeconomic environment, including, in some cases, hedging foreign exchange, interest rate and commodity price risk, and seeking the inclusion of economic price adjustment clauses or seeking to recover on REAs, ECPs or other claims, but the impacts of these challenges are uncertain and our efforts to mitigate them may not be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details mitigation efforts for existing macroeconomic risk, expanding on prior risk description."
+  },
+  {
+   "text": "Such risks may increase as a result of new regulations or executive orders (such as the recent executive order applicable to government defense contractors, which seeks, among other things, to address underperformance and insufficient prioritization of government contracts, insufficient investment in production and production speed, as well as limit share repurchases and dividends by government defense contractors), different interpretations in how government agencies construe existing requirements, or government agencies taking positions that represent changes from historical practices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new executive order risk restricting share repurchases/dividends and addressing performance issues."
+  },
+  {
+   "text": "In addition, changes in priorities and government actions with respect to defense contracting have led to increased uncertainty regarding such risks, including as a result of uncertainty regarding the impact and implementation of recent executive orders.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing regulatory uncertainty risk with reference to new executive orders."
+  },
+  {
+   "text": "As a result of such actions, we may be subject to increased scrutiny, identified for enforcement action, and/or required to engage in remediation efforts, any or all of which could damage our reputation, increase our costs (including compliance costs) and risks, create operational challenges, and/or adversely affect our competitiveness.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of increased regulatory scrutiny and enforcement actions."
+  },
+  {
+   "text": "These events could damage our and our suppliers\u2019 facilities, products, and other assets, and cause disruptions to our business operations and supply chain as well as the operations of our customers, and require an increase in expenditures to improve climate resiliency.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing climate-related risk with added operational and supply chain impacts."
+  },
+  {
+   "text": "Additionally, we may be the subject of criticism or other actions by government officials, private groups or influential individuals who disagree with our actions with respect to sustainability and/or environmental matters.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of political/public criticism over sustainability actions."
+  },
+  {
+   "text": "Business and Operational Risks \u2022 Cyber and other security threats or disruptions could have a material adverse effect on our reputation and our financial position, results of operations and/or cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header restating a previously known risk category (cyber threats), not new content."
+  },
+  {
+   "text": "Further, artificial intelligence techniques to automate and enhance cyber attacks pose an evolving and increased level of risk to our information systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of AI-enabled cyberattacks."
+  },
+  {
+   "text": "The disruption of one or more of these factors could have a material adverse effect on our financial position, results of operations and/or cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about disruption impact, not new specific risk."
+  },
+  {
+   "text": "Supply chain challenges, including risk of delays and disruptions continue to be heightened globally.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing supply chain risk by noting heightened global disruption."
+  },
+  {
+   "text": "Because the identification and qualification of new or additional suppliers for -15- Table of Contents NORTHROP GRUMMAN CORPORATION certain products and services can take an extended period of time and can result in additional cost, supplier disruptions can have an adverse impact on our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on existing supplier qualification risk."
+  },
+  {
+   "text": "This risk is increased for products and services that are single or sole source.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on increased risk for single/sole source suppliers, expanding prior supply chain risk."
+  },
+  {
+   "text": "Separately, the recent executive order regarding executive salaries and incentive compensation metrics applicable to defense contractors could adversely impact our ability to attract or retain executive talent.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific executive order risk affecting executive compensation and talent retention."
+  },
+  {
+   "text": "If such a termination were to occur, it could have a material adverse effect on our reputation, our ability to compete for other contracts and our financial position, results of operations and/or cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consequences of termination, reiterating known risk language."
+  },
+  {
+   "text": "For example, one of the ways in which our business sells our products and services internationally is through the United States Foreign Military Sales (FMS) program.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific example (FMS) illustrating existing international business risk."
+  },
+  {
+   "text": "Changes to the U.S. government\u2019s policies regarding FMS could significantly impact our international business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk tied to changes in FMS policy."
+  },
+  {
+   "text": "Leveraging artificial intelligence in our business processes and -17- Table of Contents NORTHROP GRUMMAN CORPORATION operations can enhance our performance and enable our workforce to meet the needs of the customer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive framing about AI benefits, not describing a risk."
+  },
+  {
+   "text": "Our business may be adversely affected if we cannot continue to successfully integrate artificial intelligence into our business processes, products and services in a cost-effective, efficient, compliant and responsible manner.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk about failure to integrate AI effectively."
+  },
+  {
+   "text": "In addition, the advancement and integration of artificial intelligence technologies into our business are transforming the nature of work and the skills required within our workforce and may lead to workforce displacement.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding AI-driven workforce displacement."
+  },
+  {
+   "text": "This could require us to invest in additional employee training, manage impacts on morale and retention and compete for candidates who possess more advanced technological skills.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on workforce risk with specific mitigation cost details."
+  },
+  {
+   "text": "If we are unsuccessful in managing such risks to our workforce, it could negatively impact our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about workforce risk management, not new specific risk."
+  },
+  {
+   "text": "Additionally, emerging and potential regulations governing the use of artificial intelligence could impose additional requirements that may increase our costs or adversely impact our speed of delivery.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk from emerging AI regulations increasing costs."
+  },
+  {
+   "text": "Further, improper use of, or failure to adequately integrate, artificial intelligence could increase costs and lead to data breaches, reputational risks and otherwise negatively impact our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands AI risk discussion with specific negative outcomes from misuse."
+  },
+  {
+   "text": "We have significant operations, including centers of excellence, located in regions that have been, and may in the future be, exposed to hurricanes, earthquakes, water levels, fires, windstorms, heat waves, other extreme weather conditions, acts of terrorism, power shortages and blackouts, telecommunications failures, epidemics, pandemics, and similar outbreaks, and other significant disruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing physical/environmental disruption risk with more detailed list of hazards."
+  },
+  {
+   "text": "Our products and services embody valuable trade secrets, proprietary information and know-how.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual introductory statement about trade secrets, setting up existing IP risk discussion."
+  }
+ ]
+}

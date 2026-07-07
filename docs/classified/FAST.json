@@ -1,0 +1,103 @@
+{
+ "ticker": "FAST",
+ "sector": "Industrials",
+ "filing_date": "2026-02-05",
+ "accession": "0000815556-26-000009",
+ "prior_accession": "0000815556-25-000065",
+ "model": "claude-sonnet-5",
+ "n_added": 17,
+ "n_substantive": 15,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "We may not be successful in adopting and integrating emerging technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk topic about failure to adopt emerging technologies like AI, which is not previously mentioned."
+  },
+  {
+   "text": "Our ability to maintain and enhance our competitive position depends in part on our capacity to adopt and integrate emerging technologies, including AI and advanced analytics, into our operations, customer solutions, and supply chain management.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced technology adoption risk by specifying AI and analytics integration into operations."
+  },
+  {
+   "text": "If we fail to identify, develop, or implement relevant technologies in a timely and cost-effective manner, or if such technologies do not deliver the anticipated benefits, our business operations, customer experience, and financial performance could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the consequences of failing to adopt technology, expanding the same risk."
+  },
+  {
+   "text": "Additionally, our competitors may leverage these technologies more effectively, which could result in a loss of market share.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds competitive impact detail to the same technology adoption risk."
+  },
+  {
+   "text": "The evolving regulatory landscape surrounding AI and data usage may also introduce compliance risks and additional costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk regarding AI/data regulatory compliance costs, not previously covered."
+  },
+  {
+   "text": "In 2025, tariff rates increased on many of the parts we sell.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new factual risk about increased tariff rates affecting parts sold."
+  },
+  {
+   "text": "Additionally, new tariffs were enacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that new tariffs were enacted, expanding the tariff risk just introduced."
+  },
+  {
+   "text": "In 2025, our incentive compensation programs did not leverage during the year due to increased sales and pretax profit growth compared to contraction or very low growth in most periods of 2024.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific financial detail about incentive compensation leverage tied to sales/profit growth, a new risk factor not previously disclosed."
+  },
+  {
+   "text": "As previously disclosed, on December 19, 2025, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory phrase with no substantive content on its own."
+  },
+  {
+   "text": "Florness informed our board of directors of his decision to voluntarily step out of his role as our chief executive officer, effective as of the CEO Transition Date, and his decision to resign from our board of directors, effective as of the CEO Transition Date.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific, material leadership change (CEO resignation) that introduces a new governance/transition risk."
+  },
+  {
+   "text": "On December 19, 2025, our board of directors also appointed Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory phrase leading into the CEO appointment detail, not substantive on its own."
+  },
+  {
+   "text": "Watts, our current president and chief sales officer, as the next chief executive officer of Fastenal, effective as of the CEO Transition Date.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail about the new CEO appointment, part of the same leadership transition risk."
+  },
+  {
+   "text": "If we are unable to manage this transition effectively, our operations may be disrupted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a risk consequence statement tied to the newly disclosed CEO transition."
+  },
+  {
+   "text": "Since February 2025, the U.S. government has imposed additional duties and tariffs in an effort to promote U.S. production of goods and improved trade balance with our global trading partners.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding U.S. government tariffs and duties imposed since Feb 2025."
+  },
+  {
+   "text": "This environment has been very fluid, resulting in several changes to the duties and tariffs enacted throughout the year.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further describes the volatility of tariff/duty changes, expanding the tariff risk."
+  },
+  {
+   "text": "Certain of the duties and tariffs enacted are being challenged from a legal perspective.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about legal challenges to tariffs, expanding the same tariff risk."
+  },
+  {
+   "text": "We are closely monitoring these developments, which could have an adverse impact on our business and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential adverse impact of the tariff situation, reinforcing the same risk already described."
+  }
+ ]
+}

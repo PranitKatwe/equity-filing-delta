@@ -1,0 +1,218 @@
+{
+ "ticker": "JPM",
+ "sector": "Financials",
+ "filing_date": "2026-02-13",
+ "accession": "0001628280-26-008131",
+ "prior_accession": "0000019617-25-000270",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "The following terms which are used in the risk factors set forth below have these meanings: \u201capplicable law\u201d means the laws, rules and regulations that apply to JPMorganChase\u2019s businesses in the jurisdictions in which it operates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Pure definitional language explaining terminology used elsewhere; no risk content."
+  },
+  {
+   "text": "\u201cextraordinary events\u201d include any of the events or circumstances mentioned in the risk factor entitled \u201cJPMorganChase\u2019s operations, results and reputation could be harmed by occurrences of extraordinary events beyond its control.\u201d \u201cgovernmental authorities\u201d means governmental and regulatory agencies, legislative and judicial bodies and other governmental entities and authorities in the countries, states, municipalities, territories, regions and other jurisdictions in which JPMorganChase does business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional cross-reference explaining term usage, not a risk itself."
+  },
+  {
+   "text": "\u201cpenalties\u201d means fines, penalties or other sanctions imposed by governmental authorities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional statement of a term's meaning."
+  },
+  {
+   "text": "JPMorganChase must comply with applicable law in all of the jurisdictions around the world where it does business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of legal compliance obligation, no new risk detail."
+  },
+  {
+   "text": "Like other financial services firms, JPMorganChase is subject to extensive supervision and regulation that significantly affects the way that it conducts its business and structures its operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about being subject to regulation, standard boilerplate."
+  },
+  {
+   "text": "The supervisory and regulatory framework also imposes requirements for JPMorganChase to implement and maintain compliance programs, and the complexity of these programs can increase its risks of non-compliance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail that compliance program complexity increases non-compliance risk, expanding existing regulatory risk discussion."
+  },
+  {
+   "text": "In addition, entering into or acquiring a new business or expanding current business could increase the scope of applicable law or supervision and regulation to which JPMorganChase is subject.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on how business expansion could increase regulatory scope, building on existing regulatory risk theme."
+  },
+  {
+   "text": "These types of changes could increase JPMorganChase\u2019s costs or reduce its revenues.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about cost/revenue impact from regulatory changes, standard boilerplate."
+  },
+  {
+   "text": "Furthermore, regulators or governmental authorities could adopt new interpretations of applicable law or supervisory expectations, and in certain circumstances, JPMorganChase could be required to demonstrate that prior conduct complies with these new interpretations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of retroactive compliance demonstration under new regulatory interpretations."
+  },
+  {
+   "text": "This situation could increase the risks associated with non-compliance and result in the imposition of penalties or enforcement actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows from prior sentence, expanding on penalty/enforcement risk from non-compliance."
+  },
+  {
+   "text": "In addition, the business or operations of financial services firms such as JPMorganChase may be negatively affected by executive orders or other executive branch actions that seek to regulate those businesses or operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk from executive orders/executive branch actions affecting business operations."
+  },
+  {
+   "text": "Differences in the supervision and regulation of financial services firms could require JPMorganChase to modify its operations and incur higher operational and compliance costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on cross-jurisdictional regulatory differences increasing operational/compliance costs."
+  },
+  {
+   "text": "Various factors could influence the scope of applicable law and supervision for a firm that provides financial services, such as the size of the firm, the businesses in which it engages and its jurisdiction of organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors influencing regulatory scope, no specific new risk."
+  },
+  {
+   "text": "A highly-regulated financial services firm such as JPMorganChase can be vulnerable to competition from firms that are less regulated or unregulated.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific competitive risk from less-regulated firms."
+  },
+  {
+   "text": "JPMorganChase typically incurs higher operational and compliance costs when addressing the requirements of such resolutions, including devoting substantial resources to remediation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on costs associated with regulatory resolutions already discussed."
+  },
+  {
+   "text": "When resolving an investigation or enforcement action by a governmental authority, the subject financial institution typically must satisfy new or enhanced regulatory requirements or restrictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details typical outcomes of resolving investigations, expanding existing enforcement risk discussion."
+  },
+  {
+   "text": "The regulatory requirements concerning resolution plans and the evaluation of JPMorganChase\u2019s resolution plan by the banking regulators could change over time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes evolving nature of resolution plan requirements, expanding existing resolution planning risk."
+  },
+  {
+   "text": "These risks could become highly correlated or combine in unexpected ways under certain circumstances, including geopolitically challenging situations in regions such as Russia, the Middle East and China.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new geopolitical risk exposure to Russia, Middle East, and China."
+  },
+  {
+   "text": "JPMorganChase\u2019s consumer businesses could be negatively affected by adverse economic conditions and adverse impacts of governmental policies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consumer business exposure to economic/policy conditions."
+  },
+  {
+   "text": "These consequences could be significantly worse if high levels of consumer debt, such as outstanding student loans, impair the ability of customers to pay their other consumer loan obligations, or in certain geographies where declining industrial or manufacturing activity has resulted in or could result in higher levels of unemployment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factors like student loan debt and industrial/manufacturing employment decline."
+  },
+  {
+   "text": "In addition, JPMorganChase\u2019s earnings from its consumer businesses could be adversely affected if customer demand for the products and services offered by its consumer businesses is diminished by sustained low growth, low or negative interest rates, inflationary pressures, or recessionary conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands consumer demand risk with specific macro conditions like low growth and inflation."
+  },
+  {
+   "text": "Furthermore, governmental policies and actions, including those relating to pricing of products, taxation, medical insurance, education, immigration, and housing, or those that impact employment status, could reduce consumer disposable income and decrease JPMorganChase's earnings from its consumer businesses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new policy areas (taxation, medical insurance, immigration, housing) affecting consumer earnings."
+  },
+  {
+   "text": "Furthermore, any significant and sustained deterioration in market conditions could reduce fee revenue due to lower transaction volumes, including when clients are unwilling or unable to refinance their outstanding debt obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands market risk discussion with specific fee revenue impact from refinancing difficulties."
+  },
+  {
+   "text": "Additionally, the profitability of JPMorganChase\u2019s capital markets activities could be impacted if it needs to dispose of portions of credit commitments at a loss or hold larger residual positions in credit commitments that cannot be sold at favorable prices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding disposal or holding of credit commitments impacting profitability."
+  },
+  {
+   "text": "For example, clients that rely on rental income from commercial real estate properties could be negatively affected by sustained adverse economic conditions or circumstances (such as hybrid work models) that reduce tenancies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk factor of hybrid work models reducing commercial real estate tenancies."
+  },
+  {
+   "text": "These types of developments could depress property values, impair the ability of clients to service or refinance their loans and lead to an increase in foreclosures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consequences of real estate risk already introduced, detailing foreclosure impacts."
+  },
+  {
+   "text": "JPMorganChase could also face losses or liability if a financial institution providing custodial services for client assets becomes insolvent.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of custodial service provider insolvency causing losses."
+  },
+  {
+   "text": "In addition, JPMorganChase has in the past, and could in the future, experience instances in which borrowers or other counterparties engage in fraudulent activity related to the accounting, reporting or representation of collateral.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of counterparty fraud related to collateral representation."
+  },
+  {
+   "text": "Such practices have resulted and could in the future result in losses for JPMorganChase potentially undermining the effectiveness of collateral requirements and negatively affecting JPMorganChase's financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consequences of fraudulent collateral practices introduced in prior sentence."
+  },
+  {
+   "text": "In addition, JPMorganChase could incur losses if applicable law limits its ability to resolve disputes and litigation when a client in that jurisdiction defaults or otherwise fails to make agreed-upon payments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of legal limitations on dispute resolution in client defaults."
+  },
+  {
+   "text": "JPMorganChase\u2019s businesses could be significantly disrupted by such an event, especially if it has significant interrelationships with, and credit exposure to, the faltering market participant, or if the event causes other market participants to default, incur significant losses or experience liquidity issues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on market disruption risk from a faltering market participant, building on interconnectedness risk."
+  },
+  {
+   "text": "Furthermore, borrowers may under-maintain or misrepresent the condition or existence of collateral, or at liquidation, collateral could be subject to competing claims, limiting JPMorganChase's ability to recover amounts owed, or disputes with counterparties concerning the valuation of collateral could increase during significant market stress, volatility or illiquidity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks around collateral misrepresentation and valuation disputes during stress."
+  },
+  {
+   "text": "Furthermore, the interconnectivity across credit markets increases the risk that the significant expansion of private credit could worsen losses among non-bank lenders and their borrowers, particularly if stress or defaults spread to broader funding and credit markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding private credit market growth and non-bank lender contagion."
+  },
+  {
+   "text": "Such developments could impair asset valuations, reduce market-wide liquidity, disrupt borrowers\u2019 ability to refinance, and increase default rates, especially if non-bank lenders have weaker underwriting standards, loans are less liquid, or transparency is limited.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on private credit risk with specific mechanisms like weak underwriting and illiquidity."
+  },
+  {
+   "text": "These outcomes could adversely affect JPMorganChase\u2019s results of operations and lead to losses on market-making positions in its wholesale businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on consequences of prior risks, tying to market-making losses."
+  },
+  {
+   "text": "For example, JPMorganChase\u2019s funding costs could increase and its access to traditional sources of liquidity could be 18 limited during periods of market stress, low investor confidence or significant market illiquidity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about funding costs/liquidity during market stress, standard risk language."
+  },
+  {
+   "text": "The capital and liquidity thresholds to which JPMorgan Chase Bank, N.A. and the IHC are subject could result in the Parent Company seeking protection under bankruptcy laws or otherwise entering into resolution proceedings sooner than if such limitations did not exist.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of capital/liquidity thresholds leading to bankruptcy or resolution proceedings sooner than otherwise."
+  },
+  {
+   "text": "JPMorganChase\u2019s liquidity and cost of funding could be adversely affected by downgrades in its credit ratings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on liquidity risk with specific link to credit rating downgrades."
+  },
+  {
+   "text": "Capital JPMorganChase\u2019s ability to distribute capital to shareholders, and to support its business activities could be limited if it does not satisfy applicable regulatory capital requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about capital distribution limits tied to regulatory requirements."
+  },
+  {
+   "text": "Although more likely in times of stress, JPMorganChase may use its regulatory capital buffers allowing capital ratios to decline below regulatory requirements, subjecting it to restrictions on capital distributions and discretionary bonus payments to its executive officers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk mechanism of using regulatory capital buffers leading to restrictions on distributions and bonuses."
+  }
+ ]
+}

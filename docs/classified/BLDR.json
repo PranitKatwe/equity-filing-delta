@@ -1,0 +1,153 @@
+{
+ "ticker": "BLDR",
+ "sector": "Industrials",
+ "filing_date": "2022-03-01",
+ "accession": "0001564590-22-007980",
+ "prior_accession": "0001564590-21-009308",
+ "model": "claude-sonnet-5",
+ "n_added": 27,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 16,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Furthermore, the COVID-19 pandemic has resulted in increased labor costs and a general labor shortage in our industry to meet the high demand for our services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of COVID-19 driven labor cost increases and labor shortages in the industry."
+  },
+  {
+   "text": "In particular, any significant downturn in residential construction as a result of the economic impact of the COVID-19 pandemic could have an adverse effect on our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Ties existing residential construction downturn risk specifically to COVID-19 economic impact, an elaboration rather than a new risk."
+  },
+  {
+   "text": "Home affordability can be a key driver in demand for our products and home prices have increased meaningfully since the beginning of the COVID-19 pandemic.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about home affordability and price increases as a driver of demand, expanding on existing housing market risk factors."
+  },
+  {
+   "text": "Furthermore, we have made significant investments, and intend to continue to invest, in technology solutions designed to increase the efficiency of the homebuilding process.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new significant investment in technology solutions, introducing a new business initiative with associated risk."
+  },
+  {
+   "text": "There is no guarantee that such solutions will be effective, will be adopted by our customers, will be able to compete with alternative technology solutions, including from start-up and more well established technology companies or our competitors, or that we will realize the anticipated benefits from our investments in these solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the risk introduced by the technology investment statement, detailing uncertainty of success and competition."
+  },
+  {
+   "text": "As a result, we may suffer losses on these investments or lose market share if competing technology solutions are more widely adopted than the technology solutions we are developing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration on potential losses from technology investment risk already introduced."
+  },
+  {
+   "text": "13 We have consummated a number of strategic acquisitions as part of our growth strategy and intend to continue to pursue strategic acquisitions in the future as part of our growth strategy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces acquisitions as a growth strategy, a new specific business activity carrying its own risk profile."
+  },
+  {
+   "text": "Strategic acquisitions involve risks and if we are unable to realize the anticipated benefits of these transactions or identify suitable acquisition candidates in the future our growth, financial condition and results of operations could be materially and adversely affected Strategic acquisitions are an important part of our growth strategy and we seek to identify attractive acquisitions opportunities that we believe will be accretive and result in increased sales and EBITDA, cost savings, synergies and various other benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete risk that failure to realize acquisition benefits could materially harm financial condition."
+  },
+  {
+   "text": "Assessing the viability and realizing the benefits of these transactions is subject to significant uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty inherent in acquisition strategy already introduced."
+  },
+  {
+   "text": "Additionally, in connection with evaluating potential strategic transactions, we may incur significant expenses for the evaluation and due diligence investigation and negotiation of any potential transaction.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about costs incurred during acquisition evaluation, expanding on acquisition risk."
+  },
+  {
+   "text": "Furthermore, multiples for acquisition targets have generally increased over the past few years and we face increased competition from other acquirors for attractive acquisition opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on competitive pressures affecting acquisition strategy."
+  },
+  {
+   "text": "As a result, we may not be able to consummate acquisitions on favorable terms, if at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further consequence of the acquisition risk already described."
+  },
+  {
+   "text": "We may also not be able to obtain necessary approvals to consummate acquisitions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Additional specific consequence tied to the acquisition risk topic."
+  },
+  {
+   "text": "An inability to continue to identify and consummate attractive acquisitions could adversely affect our growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues to elaborate on growth risk tied to inability to complete acquisitions."
+  },
+  {
+   "text": "If we complete an acquisition, we need to successfully integrate the target company\u2019s products, services, associates and systems into our business operations in order to realize the anticipated benefits from an acquisition .",
+   "category": "expanded_existing_risk",
+   "rationale": "Details integration requirement as part of the broader acquisition risk already introduced."
+  },
+  {
+   "text": "Integration can be a complex and time-consuming process, and if the integration is not fully successful or is delayed for a material period of time, we may not achieve the anticipated synergies or benefits of the acquisition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates integration risk with specifics about delay and complexity."
+  },
+  {
+   "text": "Furthermore, even if a target company is successfully integrated, an acquisition may fail to further our business strategy as anticipated, expose us to increased competition or challenges with respect to our products or services, and expose us to additional liabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds additional potential negative outcomes from acquisition integration, extending existing risk."
+  },
+  {
+   "text": "Any impairment of goodwill or other intangible assets acquired in a strategic transaction may reduce our earnings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new financial risk regarding goodwill or intangible asset impairment from acquisitions."
+  },
+  {
+   "text": "Given this pricing pressure, we may not be able to pass along price increases for lumber, wood products and other building products to our customers, which could impact our margins.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about inability to pass on rising material costs affecting margins."
+  },
+  {
+   "text": "In addition, competition for non-management employees has increased significantly since the COVID-19 pandemic resulting in higher labor costs and labor shortages at our facilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the labor cost/shortage risk already noted, specifying non-management employee competition due to COVID."
+  },
+  {
+   "text": "As a result, we may continue to face higher operating expenses and may lose revenue opportunities if we lack capacity due to labor shortages to meet customer demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on operational impact of labor shortages already introduced."
+  },
+  {
+   "text": "While only a small percentage of our workforce is unionized, there can be no assurance that additional employees will not conduct union organization campaigns or become union members in the future and a failure to renew existing collective bargaining agreements on favorable terms could lead to further labor shortages and higher labor costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk related to potential unionization and collective bargaining issues."
+  },
+  {
+   "text": "We anticipate digitization trends in the home-building industry to continue and have made significant investments in technology solutions to further drive digitization of the home-building industry.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands on previously introduced technology investment and digitization risk."
+  },
+  {
+   "text": "Subsequent to December 31, 2021, the Company also completed a private offering of an additional $300.0 million in aggregate principal amount of 2032 notes.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new material financial event (additional $300 million debt offering) that changes the company's leverage risk profile."
+  },
+  {
+   "text": "Throughout 2021, we generated significant excess cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a positive financial outcome (excess cash flow) without describing a risk."
+  },
+  {
+   "text": "We have also repurchased approximately $2.0 billion of our shares since January 2021 and intend to continue repurchasing shares pursuant to the additional $1.0 billion share repurchase authorization approved by our board of directors and announced on February 18, 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes share repurchase activity, a factual capital allocation update rather than a risk statement."
+  },
+  {
+   "text": "Furthermore, if certain regions where we have made significant investments become less desirable for new home building due to the frequency of adverse weather events or climate change, we could incur significant losses at our facilities throughout these regions The price of our common stock is volatile and may decline.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding climate change/adverse weather impacting facility regions, a previously unmentioned specific risk."
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "ticker": "TJX",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-31",
+ "accession": "0000109198-26-000008",
+ "prior_accession": "0000109198-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 15,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "For more information, see \u201cExternal and Economic Risks\u201d below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another section, no new risk content."
+  },
+  {
+   "text": "Changes to online search, email delivery, and digital/social media (including algorithmic changes) can increase customer acquisition costs, reduce the effectiveness of digital marketing and/or alter traffic patterns to our e-commerce sites and/or stores.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about digital search/marketing algorithm changes increasing acquisition costs and affecting traffic."
+  },
+  {
+   "text": "For delivery of our marketing we depend on a variety of partners whose financial health, reputation and/or ability to attract talent could negatively impact the results of our marketing.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new dependency risk on third-party marketing partners' financial health and reputation."
+  },
+  {
+   "text": "The size, geographic dispersion, and turnover rate of our workforce increase the risk that our controls may not be implemented consistently.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about workforce size and turnover impacting control implementation."
+  },
+  {
+   "text": "If we decide to cease operations at any locations that we own, we may be unable to dispose of such real estate (including by selling or leasing such real estate to a third party) on favorable market terms.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about inability to dispose of owned real estate on favorable terms."
+  },
+  {
+   "text": "In such case, we would continue to incur ownership obligations on unused property, and the cost of these obligations may be significant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the consequences of the real estate disposal risk just introduced, adding cost detail."
+  },
+  {
+   "text": "The U.S. government has imposed, and may in the future impose further, tariffs on certain foreign goods and product imports.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding U.S. government tariffs on foreign goods."
+  },
+  {
+   "text": "Supreme Court issued a decision invalidating tariffs imposed under the International Emergency Economic Powers Act (\u201cIEEPA\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new legal development (Supreme Court invalidating IEEPA tariffs) with potential business impact."
+  },
+  {
+   "text": "The ruling may allow for recovery of IEEPA tariff amounts previously paid, although the timing and administration of any potential IEEPA tariff refunds is unknown and may be subject to further legal and regulatory developments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the tariff ruling risk by describing potential refund implications, expanding the same tariff risk narrative."
+  },
+  {
+   "text": "Supreme Court\u2019s ruling, an executive order was issued imposing a new global tariff, in addition to any existing non-IEEPA tariffs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific development: a new global tariff executive order affecting the company."
+  },
+  {
+   "text": "The outlook on further trade policy actions, including trade agreements and potential retaliatory tariffs is unclear.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertain trade policy outlook without specific new risk detail."
+  },
+  {
+   "text": "These effects could include causing injury or serious harm to our Associates or customers; severely damaging or destroying one or more of our stores, distribution facilities, or office facilities; or disrupting the operations of, or requiring the closure of, third-party service providers, one or more of our vendors or parts of our supply chain located in the affected areas.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed examples of potential harms from disruptions, expanding an existing general disruption risk."
+  },
+  {
+   "text": "Our business continuity and disaster recovery plans may not be adequate to address all potential scenarios, particularly those involving disruptions of unprecedented scope, severity, or duration.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity about inadequacy of business continuity plans for unprecedented disruptions, expanding existing continuity risk."
+  },
+  {
+   "text": "Our ability to recover from a significant disruption may depend on factors beyond our control, including the availability of transportation, utilities, labor, and third-party services in the affected areas.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on factors affecting recovery from disruptions, expanding the existing continuity risk."
+  },
+  {
+   "text": "There have been and continue to be changes to federal policy and the federal government in the U.S., which have impacted, and may continue to impact, among other things, the U.S. and global economy, international trade relations, unemployment, immigration, healthcare, taxation, and the U.S. regulatory environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic, broad statement about federal policy changes affecting the economy without specific new risk detail."
+  }
+ ]
+}

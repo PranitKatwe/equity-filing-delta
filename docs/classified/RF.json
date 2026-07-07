@@ -1,0 +1,218 @@
+{
+ "ticker": "RF",
+ "sector": "Financials",
+ "filing_date": "2026-02-24",
+ "accession": "0001281761-26-000019",
+ "prior_accession": "0001281761-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 38
+ },
+ "items": [
+  {
+   "text": "You should not place undue reliance on any forward-looking statements, which speak only as of the date made.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about forward-looking statements, generic boilerplate."
+  },
+  {
+   "text": "Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible to predict all of them.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate disclaimer about unpredictability of future events."
+  },
+  {
+   "text": "Business Regions Financial Corporation is a FHC headquartered in Birmingham, Alabama operating in the South, Midwest and Texas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual company description, not a risk."
+  },
+  {
+   "text": "In addition, Regions operates several offices delivering specialty capabilities in New York, Washington D.C., Chicago, Salt Lake City, and other locations nationwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of office locations, not a risk."
+  },
+  {
+   "text": "Regions provides financial solutions for a wide range of clients including retail and mortgage banking services, commercial banking services and wealth and investment services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of business lines, not a risk."
+  },
+  {
+   "text": "Further, Regions and its subsidiaries deliver other financial services operations described below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic transitional statement referencing other services."
+  },
+  {
+   "text": "At December 31, 2025, Regions had total consolidated assets of approximately $158.8 billion, total consolidated deposits of approximately $131.1 billion and total consolidated shareholders\u2019 equity of approximately $19.0 billion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual financial figures, not a risk statement."
+  },
+  {
+   "text": "The terms \u201cRegions,\u201d the \u201cCompany,\u201d \u201cwe,\u201d \u201cus\u201d and \u201cour\u201d as used herein mean collectively Regions Financial Corporation, a Delaware corporation, together with its subsidiaries when or where appropriate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional statement about corporate naming conventions."
+  },
+  {
+   "text": "Regions' principal executive offices are located at 1900 Fifth Avenue North, Birmingham, Alabama 35203, and its telephone number at that address is (800) 734-4667.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual address and contact information."
+  },
+  {
+   "text": "Banking Operations Regions conducts its banking operations through Regions Bank, an Alabama state-chartered commercial bank that is a member of the Federal Reserve System.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of banking subsidiary structure."
+  },
+  {
+   "text": "At December 31, 2025, Regions operated 1,786 ATMs and 1,247 total branch outlets primarily across the South, Midwest and Texas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statistic about branch/ATM count, not a risk."
+  },
+  {
+   "text": "The following table reflects the distribution of branch locations in each of the states in which Regions conducts its banking operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to a table, not a risk statement."
+  },
+  {
+   "text": "Business Segments Regions operates under three reportable segments: Corporate Bank, Consumer Bank, and Wealth Management, with the remainder in Other.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of business segments."
+  },
+  {
+   "text": "See \"Note 22 \"Business Segment Information\" in Item 8.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section of the filing."
+  },
+  {
+   "text": "\u201cFinancial Statements and Supplementary Data\u201d of this Annual Report on Form 10-K for details on each of Regions reportable segments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statements section."
+  },
+  {
+   "text": "8 Table of Contents Supervision and Regulation We are subject to the extensive regulatory and supervisory framework applicable to BHCs and their subsidiaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about being subject to regulatory framework."
+  },
+  {
+   "text": "Banking and other financial services statutes, regulations and policies are continually under review by U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing legislative review."
+  },
+  {
+   "text": "Congress, state legislatures and federal and state regulatory agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement naming regulatory bodies."
+  },
+  {
+   "text": "In addition to laws and regulations, state and federal bank regulatory agencies may issue policy statements, interpretive letters and similar written guidance applicable to Regions and its subsidiaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory guidance issuance."
+  },
+  {
+   "text": "Regions cannot predict future changes in the applicable laws, regulations and regulatory agency policies, including any changes resulting from changes in the U.S. presidential administration and U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty statement about future regulatory changes, including a vague reference to administration changes without specifics."
+  },
+  {
+   "text": "Yet, such changes may have a material impact on Regions\u2019 business, financial condition or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about potential material impact of unspecified changes."
+  },
+  {
+   "text": "We will continue to evaluate the impact of any changes in laws and any new regulations promulgated, including changes in regulatory costs and fees, modifications to consumer products or disclosures and the requirements of the enhanced supervision provisions, among others.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about monitoring regulatory changes."
+  },
+  {
+   "text": "The scope of the laws and regulations and the intensity of the supervision to which Regions is subject have increased in recent years, initially in response to the financial crisis, and more recently in light of other factors, including the failure of U.S. depository institutions in the first half of 2023, technological factors and market changes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing regulatory scrutiny risk by adding specific triggering context of 2023 bank failures and technological/market factors increasing supervision intensity."
+  },
+  {
+   "text": "Regulatory enforcement and fines have also increased across the banking and financial services sector.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that regulatory enforcement and fines have increased across the sector, expanding the existing regulatory risk discussion."
+  },
+  {
+   "text": "Regions expects that its business will remain subject to extensive regulation and supervision.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic expectation statement about continued regulation."
+  },
+  {
+   "text": "The descriptions below summarize certain significant federal and state laws to which Regions is subject.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic introductory statement about upcoming descriptions."
+  },
+  {
+   "text": "These descriptions do not summarize all possible or proposed changes in laws or regulations and are not intended to be a substitute for the related statues or regulatory provisions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about scope of descriptions."
+  },
+  {
+   "text": "Changes in applicable law or regulation, and in their interpretation and application by regulatory agencies and other governmental authorities, cannot be predicted, but may have a material effect on our business, financial condition or results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unpredictable regulatory changes."
+  },
+  {
+   "text": "Overview As a BHC, Regions is subject to regulation under the BHC Act and to regulation, examination and supervision by the Federal Reserve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of regulatory status as a BHC."
+  },
+  {
+   "text": "Regions has elected to be treated as an FHC which allows it to engage in a broader range of activities than would otherwise be permissible for a BHC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of FHC election and its effects."
+  },
+  {
+   "text": "The BHC Act provides for \u201cumbrella\u201d regulation of FHCs by the Federal Reserve and functional regulation of holding company subsidiaries by applicable regulatory agencies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of regulatory structure under BHC Act."
+  },
+  {
+   "text": "The BHC Act also requires the Federal Reserve to examine any subsidiary of a BHC, other than a depository institution, engaged in activities permissible for a depository institution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of Federal Reserve examination authority."
+  },
+  {
+   "text": "The Federal Reserve is also granted the authority, in certain circumstances, to require reports of, examine and adopt rules applicable to any holding company subsidiary.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of Federal Reserve's regulatory authority."
+  },
+  {
+   "text": "Regions Bank is an Alabama state-chartered bank and a member of the Federal Reserve System.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of bank charter and membership status."
+  },
+  {
+   "text": "Its operations are generally subject to supervision and examination by both the Federal Reserve and the Alabama State Banking Department.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of supervisory bodies overseeing the bank."
+  },
+  {
+   "text": "Regions Bank is also affected by the actions of the Federal Reserve as it implements monetary policy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about monetary policy impact, generic."
+  },
+  {
+   "text": "As a Federal Reserve System member bank, Regions Bank is required to hold stock in the Federal Reserve Bank of Atlanta in an amount equal to six percent of its capital stock and surplus.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual regulatory requirement about Federal Reserve stock holdings."
+  },
+  {
+   "text": "Member banks with total assets in excess of $10 billion, including Regions Bank, receive a floating rate dividend tied to 10-year U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual detail about dividend rate mechanics tied to treasury rates."
+  },
+  {
+   "text": "Treasuries, with the maximum dividend rate capped at six percent.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of factual dividend rate cap detail."
+  },
+  {
+   "text": "Regions Bank and its affiliates that provide consumer financial products and services are also subject to supervision, regulation and examination by the CFPB with respect to consumer protection laws and regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about CFPB supervisory authority."
+  }
+ ]
+}

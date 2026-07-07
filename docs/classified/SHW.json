@@ -1,0 +1,43 @@
+{
+ "ticker": "SHW",
+ "sector": "Materials",
+ "filing_date": "2026-02-19",
+ "accession": "0000089800-26-000008",
+ "prior_accession": "0000089800-25-000030",
+ "model": "claude-sonnet-5",
+ "n_added": 5,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Cybersecurity incidents, threats and attacks are increasingly sophisticated, including due to advances in artificial intelligence (AI) capabilities, constantly evolving, and originate from many sources globally.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail (AI-driven sophistication) to the existing cybersecurity threat risk rather than introducing a wholly new risk."
+  },
+  {
+   "text": "In addition, often these incidents cannot be recognized or understood until the target has already been attacked.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General cautionary statement about the difficulty of recognizing attacks, a common elaboration that doesn't add a distinct new risk."
+  },
+  {
+   "text": "If we are unable to attract, retain, develop and progress a qualified global workforce, this could adversely affect our business and future success and impair our ability to meet our strategic objectives and the needs of our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic workforce attraction/retention risk language typical of many filings, not a specific new threat."
+  },
+  {
+   "text": "In October 2025, we completed our acquisition of Suvinil, a leading provider of architectural paints in Brazil, with annual sales of approximately $525 million.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific recent acquisition (Suvinil) with financial scale, introducing new integration and business risk not previously present."
+  },
+  {
+   "text": "Our business benefits from free trade agreements, including the United States-Mexico-Canada Agreement and EU-UK Trade and Cooperation Agreement.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces reliance on specific trade agreements, implying a new exposure to potential changes in these agreements that wasn't previously disclosed."
+  }
+ ]
+}

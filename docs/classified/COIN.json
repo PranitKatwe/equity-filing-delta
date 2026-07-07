@@ -1,0 +1,218 @@
+{
+ "ticker": "COIN",
+ "sector": "Financials",
+ "filing_date": "2026-02-12",
+ "accession": "0001679788-26-000015",
+ "prior_accession": "0001679788-25-000022",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 4,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "For example, as previously disclosed on a Current Report on Form 8-K filed with the SEC on May 15, 2025, a threat actor improperly obtained information about certain customer accounts and internal documentation, and used that information for social-engineering attempts.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new security incident involving a threat actor obtaining customer/internal data for social engineering, a concrete new event not previously described."
+  },
+  {
+   "text": "No passwords or private keys were compromised as a result of this incident.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail clarifying scope of the newly disclosed incident."
+  },
+  {
+   "text": "We continue to face risks related to this incident, including harm to our reputation, governmental investigations and regulatory scrutiny, and ongoing litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on ongoing consequences (litigation, regulatory scrutiny) stemming from the newly disclosed incident."
+  },
+  {
+   "text": "As we grow our offering of products and services, including options and perpetual swaps, we face increased exposure to cyberattacks through third parties.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new attack surface risk tied to expansion into options and perpetual swaps products."
+  },
+  {
+   "text": "For example, in the past few years, regulatory developments in the area of anti-money laundering, recordkeeping and prudential regulatory compliance include the Travel Rule requiring transmission of information with crypto transfers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific regulatory example (Travel Rule) under the existing AML/regulatory compliance risk category."
+  },
+  {
+   "text": "This and similar regulations increase our compliance costs, may require operational changes, and could subject us to sanctions for technical violations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about increased compliance costs and possible sanctions, standard risk language."
+  },
+  {
+   "text": "In July 2025, the United States enacted the Guiding and Establishing National Innovation for U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a newly enacted federal law (GENIUS Act) creating a new regulatory framework relevant to the business."
+  },
+  {
+   "text": "Stablecoins Act (the \u201cGENIUS Act\u201d), which establishes a federal regulatory framework for \u201cpayment stablecoins\u201d and their issuers and custodians.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues description of the GENIUS Act's scope, expanding on the newly introduced regulatory framework."
+  },
+  {
+   "text": "As a distributor and ecosystem partner of stablecoins, Coinbase may directly and indirectly be subject to these requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains how the company may be subject to the new stablecoin requirements, expanding on the new regulatory risk."
+  },
+  {
+   "text": "Additionally, our event contract products, which allow customers to trade on the outcome of future events, are subject to complex and evolving legal and regulatory frameworks and interpretation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new product category (event contracts) and associated complex regulatory exposure not previously discussed."
+  },
+  {
+   "text": "Event contracts, whether offered by us or others, have drawn scrutiny from federal and state regulators and resulted in litigation that we are party to as well as litigation against other companies that offer event contracts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on regulatory scrutiny and litigation tied to the newly introduced event contracts risk."
+  },
+  {
+   "text": "Regulators and authorities in various jurisdictions may assert that these offerings constitute gambling, sports betting, or other regulated activities under state or local laws, rather than federally regulated financial instruments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential regulatory characterization risks for event contracts."
+  },
+  {
+   "text": "For example, courts may conclude that state laws attempting to prevent the trading of CFTC-regulated sports-related event contracts are not preempted by the CEA, or that outcome based event contracts are not \u201cswaps\u201d falling within the jurisdiction of the CFTC, which could impact our ability to offer certain event contracts in one or more states and could lead to adverse litigation and regulatory actions against us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific legal uncertainty scenario regarding preemption and CFTC jurisdiction for event contracts."
+  },
+  {
+   "text": "In 2025, the SEC dismissed many of those enforcement actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update about SEC dismissing enforcement actions; informational, not a new or expanded risk."
+  },
+  {
+   "text": "In January 2025, the SEC launched a crypto task force dedicated to developing a comprehensive and clear regulatory framework for crypto assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes formation of a regulatory task force; informational context rather than a specific new risk."
+  },
+  {
+   "text": "While newly formed, its goal is to clarify federal securities laws for crypto, recommend practical policies, foster innovation, and protect investors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further descriptive detail about the task force's goals, not a risk statement."
+  },
+  {
+   "text": "Furthermore, on November 12, 2025, SEC Chairman Atkins delivered an address at the Federal Reserve Bank of Philadelphia, in which he highlighted the view that most crypto assets are not securities, and that the SEC would coordinate with the CFTC on a token taxonomy that includes \u201cdigital commodities.\u201d Several foreign jurisdictions have taken a broad-based approach to classifying crypto assets, products and services as \u201csecurities,\u201d while other foreign jurisdictions have adopted a narrower approach.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on regulatory commentary and foreign jurisdiction approaches, expanding existing classification uncertainty risk."
+  },
+  {
+   "text": "For example, the SEC has not permitted public permissionless blockchain-based clearance and settlement systems for securities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific example reinforcing existing risk about SEC's stance on blockchain-based settlement systems."
+  },
+  {
+   "text": "Further, following our acquisition of Deribit, certain amounts of cryptocurrencies are stored at third-party custodians to support trading activity on Deribit\u2019s platform.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new custody arrangement risk arising from the Deribit acquisition, involving third-party custodians."
+  },
+  {
+   "text": "Our MiCA-authorized entity in the E.U. securely stores client assets in dedicated, segregated custody vaults with separate books-and-records 42 Table of Contents from Coinbase\u2019s own and other client funds, and uses tightly controlled settlement flows to preserve access to global liquidity and fast execution.",
+   "category": "reworded_same_meaning",
+   "rationale": "Descriptive detail about existing custody practices in the EU, not indicating a new risk."
+  },
+  {
+   "text": "For example, we may pay substantial premiums for acquired businesses and there can be no assurance that anticipated synergies or benefits will be realized on the timeline expected, or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about acquisition-related financial risk (premiums, synergy realization) under existing M&A risk factor."
+  },
+  {
+   "text": "This has previously included layoffs and workforce reductions aimed at cutting costs, improving efficiency, and responding to economic shifts.",
+   "category": "reworded_same_meaning",
+   "rationale": "References prior layoffs as historical context, not a new risk."
+  },
+  {
+   "text": "For example, as a result of our acquisition of Deribit in August 2025, we now provide additional cryptocurrency products and services internationally, including options and perpetual swaps.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new international product expansion (options, perpetual swaps) resulting from the Deribit acquisition."
+  },
+  {
+   "text": "If we are unable to successfully integrate Deribit or comply with evolving U.S. and international crypto and derivatives regulations applicable to our expanded operations and products, we could be required to modify or discontinue certain offerings, face limitations on our ability to onboard or serve customers in key markets, incur substantial compliance and remediation costs, or be subject to penalties and other enforcement actions, any of which could adversely affect our business, operating results, and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new integration and regulatory compliance risks tied to the Deribit acquisition and expanded product lines."
+  },
+  {
+   "text": "60 Table of Contents In 2024, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete transitional sentence with no substantive risk content."
+  },
+  {
+   "text": "Furthermore, the CTFC has regulatory authority over certain product offerings, including event contracts, which are regulated as \u201cswaps\u201d under the CEA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies CFTC's regulatory authority over event contracts, expanding on existing regulatory risk."
+  },
+  {
+   "text": "This classification subjects us to the CFTC\u2019s supervisory and enforcement oversight, including supervisory requirements to prevent manipulation, fraud and other forms of improper trading in these markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the implications of CFTC oversight on the company's operations."
+  },
+  {
+   "text": "As a result, the offering and facilitation of these contracts on our platform could result in increased regulatory scrutiny, investigations, and enforcement actions, which may cause us to incur substantial costs and expose us to civil liability, fines, and reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential consequences of regulatory scrutiny tied to event contracts, expanding existing risk."
+  },
+  {
+   "text": "Some states have taken the position that the states and not the CFTC should be the appropriate regulator for sports-related event contracts and that question is the subject of ongoing litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about ongoing state vs. CFTC jurisdictional litigation relevant to existing regulatory risk."
+  },
+  {
+   "text": "See the Risk Factor titled \u201c We are subject to an extensive, highly-evolving and uncertain regulatory landscape and any adverse changes to, or our failure to comply with, any laws and regulations could adversely affect our brand, reputation, business, operating results, and financial condition. \u201d for additional information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor section, not new substantive content."
+  },
+  {
+   "text": "The meaning of \u201cactual delivery\u201d has been the subject of commentary and debate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about legal uncertainty regarding 'actual delivery' term, expanding existing regulatory ambiguity risk."
+  },
+  {
+   "text": "For example, as previously disclosed on a Current Report on Form 8-K filed with the SEC on May 15, 2025, a threat actor improperly obtained information about certain customer accounts and internal documentation, and used that information for social-engineering attempts.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate disclosure of the new security incident, same substantive new risk as index 0."
+  },
+  {
+   "text": "No passwords or private keys were compromised as a result of this incident.",
+   "category": "expanded_existing_risk",
+   "rationale": "Duplicate clarifying detail about the incident's scope, same as index 1."
+  },
+  {
+   "text": "We continue to face risks related to this incident, including harm to our reputation, governmental investigations and regulatory scrutiny, and ongoing litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Duplicate statement on ongoing incident-related risks, same as index 2."
+  },
+  {
+   "text": "The increasing sophistication of AI poses a greater risk of identity fraud, as malicious actors may exploit various AI technologies to create increasingly convincing false identities, transaction records, or attempt to manipulate our verification processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk regarding AI-enabled identity fraud and verification manipulation not previously mentioned."
+  },
+  {
+   "text": "This necessitates ongoing enhancements to our verification systems and security protocols to prevent unauthorized access and protect sensitive information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details necessary countermeasures related to the newly introduced AI fraud risk."
+  },
+  {
+   "text": "Failure to manage these risks or to implement effective countermeasures could lead to unauthorized transactions, financial losses, reputational damage and increased regulatory scrutiny.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consequences of failing to manage risks, standard risk language."
+  },
+  {
+   "text": "Digital Operational Resilience Act and other E.U. and U.K. laws that regulate personal data, non-personal data, and cybersecurity operations.",
+   "category": "new_substantive_risk",
+   "rationale": "References a new regulatory regime (Digital Operational Resilience Act) not previously cited, introducing new compliance exposure."
+  },
+  {
+   "text": "The most well-known of such laws, the GDPR, imposes stringent privacy and personal data protection requirements and could increase the risk of non-compliance and the costs of providing our products and services in a compliant manner.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates known GDPR compliance risk already recognized in prior filings."
+  },
+  {
+   "text": "(\u00a317.5 million in the U.K.) or 4% of our worldwide annual revenue, whichever is greater.",
+   "category": "reworded_same_meaning",
+   "rationale": "Provides specific monetary figure for existing GDPR penalty risk, consistent with previously known regulatory exposure."
+  }
+ ]
+}

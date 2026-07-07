@@ -1,0 +1,218 @@
+{
+ "ticker": "AMD",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-04",
+ "accession": "0000002488-26-000018",
+ "prior_accession": "0000002488-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 35
+ },
+ "items": [
+  {
+   "text": "AMD technology powers billions of experiences across cloud and AI infrastructure, embedded systems, AI PCs and gaming.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General marketing statement about AMD's technology reach, not a risk disclosure."
+  },
+  {
+   "text": "With a broad portfolio of AI-optimized CPUs, GPUs, networking and software, AMD delivers full-stack solutions that help customers turn data into breakthroughs, with the speed and scale needed for a new era of intelligent computing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of product portfolio, no risk content."
+  },
+  {
+   "text": "We offer ultra-low latency networking solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description, not risk-related."
+  },
+  {
+   "text": "We also offer data center rack-scale platform designs that incorporate AMD data center products to meet the growing performance demands of AI supercomputers and machine learning workloads.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product offering, not a risk."
+  },
+  {
+   "text": "By bringing NPU\u2011accelerated AI capabilities directly into mainstream x86 platforms, we established a differentiated technology footprint that supports a growing ecosystem of AI\u2011enabled applications and lays the groundwork for the multi\u2011generation Ryzen\u2122 AI roadmap that continues to expand our leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of technology roadmap."
+  },
+  {
+   "text": "We have a comprehensive and open AI software stack to support the diverse set of AI ecosystems across frameworks, large and small language models and applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes software stack, not a risk statement."
+  },
+  {
+   "text": "By working closely with customers, we deliver customized solutions that meet their evolving needs, leveraging our broad IP portfolio and leadership in design, integration and advanced packaging.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business practice statement, no risk implication."
+  },
+  {
+   "text": "With our compute engines, intellectual property, software enablement and deep expertise, AMD is positioned to lead in this next computing era.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Aspirational marketing statement, not a risk."
+  },
+  {
+   "text": "Our broad portfolio spans supercomputing, cloud, edge, embedded and end devices, providing the unique opportunity to make AMD the end-to-end AI leader.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Broad marketing claim about portfolio scope."
+  },
+  {
+   "text": "In addition, we previewed our \u201cHelios\u201d AI rack-scale platform solution that incorporates all of our data center products (CPUs, GPUs and Networking) to address the growing AI compute requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product announcement, descriptive not risk-based."
+  },
+  {
+   "text": "We strengthened our AI leadership through a number of strategic acquisitions during the year.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about strategic acquisitions, no specific risk detail."
+  },
+  {
+   "text": "In March 2025, we acquired ZT Group Int\u2019l, Inc.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discloses a specific acquisition (ZT Systems) which adds integration/M&A risk detail beyond generic prior statements."
+  },
+  {
+   "text": "(ZT Systems), where we retained certain intellectual property and employees associated with the design operations (ZT Design Business).",
+   "category": "expanded_existing_risk",
+   "rationale": "Details retained IP/employees from the acquisition, expanding the scope of the acquisition-related risk exposure."
+  },
+  {
+   "text": "This acquisition enables us to deliver end-to-end AI solutions and accelerate the design and deployment of AMD-powered AI infrastructure at scale optimized for the cloud.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic benefit of acquisition, not a risk."
+  },
+  {
+   "text": "In October 2025, we sold the ZT data center infrastructure manufacturing business (ZT Manufacturing Business) to Sanmina Corporation (Sanmina).",
+   "category": "expanded_existing_risk",
+   "rationale": "Divestiture of a business unit introduces additional operational/transition risk not previously disclosed."
+  },
+  {
+   "text": "We made other strategic acquisitions during the year to advance our software capabilities and enable highly optimized solutions across the stack, support co-packaged optics solutions for next-generation AI systems, and bring deep expertise in high-speed inference and reasoning-based AI technologies for large-scale deployments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of multiple acquisitions' purposes, lacks specific risk detail."
+  },
+  {
+   "text": "2 Table of Conten t s We believe that AI systems will require not only powerful chips, but also full-stack innovation across compute, networking, systems architecture and software.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General belief statement about AI systems, not a risk."
+  },
+  {
+   "text": "AMD is uniquely positioned to deliver across this stack, combining industry-leading CPUs, GPUs and adaptive SoCs with networking, software and system integration expertise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing claim about positioning, not risk-related."
+  },
+  {
+   "text": "In 2025, we introduced key optimizations and expanded support for frameworks and libraries, improving performance for generative AI workloads and simplifying the developer experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product/software improvements, not risk."
+  },
+  {
+   "text": "In October 2025, we entered into a product purchase agreement with OpenAI OpCo, LLC, (OpenAI) to deploy 6 gigawatts of AMD GPUs, with the deployment of the first gigawatt of capacity powered by our AMD Instinct MI450 series products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a large, specific customer commitment (6GW GPU deal with OpenAI) creating concentration/execution risk not previously disclosed."
+  },
+  {
+   "text": "This multiyear strategic partnership with OpenAI demonstrates our continued execution of hardware, software and full-stack solutions roadmaps.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about partnership significance, not a risk."
+  },
+  {
+   "text": "All prior period segment data were retrospectively adjusted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Accounting/segment restatement note, administrative not risk-related."
+  },
+  {
+   "text": "From time to time, the Company may also sell or license portions of its IP portfolio.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about IP monetization practices, slightly expanding existing IP-related risk disclosures."
+  },
+  {
+   "text": "We also announced next-generation AMD Instinct MI355X GPUs for large-scale AI deployments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product announcement, descriptive not risk-based."
+  },
+  {
+   "text": "We introduced our AMD Pensando \u201cPollara\u201d 400 AI NICs and \u201cVulcano\u201d AI NICs, which deliver high-speed connectivity across GPU clusters providing high-performance, AI-ready, flexible solutions for scale-out networking.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description, not a risk statement."
+  },
+  {
+   "text": "The Client market encompasses the global personal computing ecosystem, including desktop and notebook PCs sold primarily through OEMs, distributors and select direct customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Market description, descriptive not risk-related."
+  },
+  {
+   "text": "Our products consist mainly of x86 CPUs and APUs marketed under the AMD Ryzen\u2122 and AMD Ryzen\u2122 AI brands for consumer, commercial and enthusiast segments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product portfolio description, not a risk."
+  },
+  {
+   "text": "Our customers focus on a combination of performance, efficiency, reliability, and value that aligns with their specific use cases.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about customer priorities, no risk content."
+  },
+  {
+   "text": "We built a leadership roadmap across these areas and are continuing to further differentiate end user experiences by infusing AI across our portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing statement about differentiation strategy."
+  },
+  {
+   "text": "In 2025, we launched processors for gaming and content creation with Ryzen 9 9950X3D and Ryzen 9 9900X3D.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product launch description, descriptive not risk."
+  },
+  {
+   "text": "In January 2026, we announced the Ryzen 7 9850X3D, in addition to our Ryzen 7 9800X3D series.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product announcement, descriptive not risk."
+  },
+  {
+   "text": "Our Ryzen Threadripper\u2122 9000 Series processors for professional workstations feature increased core counts, expanded memory bandwidth and updated platform capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description, no risk implication."
+  },
+  {
+   "text": "Our portfolio also includes a broad range of Ryzen 9000 and Ryzen series desktop processors featuring a wide range of capabilities and price points for the growing Socket AM5 platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Portfolio description, not risk-related."
+  },
+  {
+   "text": "In 2025, we released additional AMD Ryzen G Series processors with integrated advanced graphics to extend the longevity of the Socket AM4 platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product release description, not risk-related."
+  },
+  {
+   "text": "Our latest mobile processors are designed to deliver premium laptop experiences with local AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing statement about product design goals."
+  },
+  {
+   "text": "In January 2026, we launched our Ryzen AI 400 series processors, the next generation of processors for AI PCs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product launch description, descriptive not risk."
+  },
+  {
+   "text": "Building on our AI PC momentum, we expanded our portfolio by introducing Ryzen AI-powered platforms across notebooks and mini desktops and introduced a new reference platform for AI developers in January 2026, the Ryzen AI Halo, that features up to 128GB of memory for large AI model support.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Portfolio expansion description, not risk-related."
+  },
+  {
+   "text": "We also expanded the Ryzen AI Max processor lineup with the Ryzen AI Max+392 and Ryzen AI Max+388 to enable wider price points for our maximum GPU configurations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product lineup expansion, descriptive not risk."
+  },
+  {
+   "text": "For handheld gaming systems, our Ryzen Z1 Series continues to deliver immersive experiences, and we introduced the Ryzen Z2 Series, bringing higher efficiency and improved graphics performance for portable gaming devices including the new Asus ROG Xbox Ally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description for handheld gaming line, no risk content."
+  },
+  {
+   "text": "In 2025, we reinforced our leadership in commercial computing with new Ryzen PRO offerings that integrate AI capabilities, delivering performance, mobility, and enterprise features for our customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product line description, marketing not risk-related."
+  }
+ ]
+}

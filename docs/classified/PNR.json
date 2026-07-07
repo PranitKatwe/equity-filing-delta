@@ -1,0 +1,158 @@
+{
+ "ticker": "PNR",
+ "sector": "Industrials",
+ "filing_date": "2026-02-24",
+ "accession": "0000077360-26-000007",
+ "prior_accession": "0000077360-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 28,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "Furthermore, new entrants into, or consolidation among competitors in, the markets we serve may result in new ways to bring products and services to market, which, in turn may negatively impact our profit margins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about new entrants/consolidation affecting margins, elaborating on existing competitive risk rather than introducing a wholly new threat."
+  },
+  {
+   "text": "Additionally, the U.S. government has announced enhanced focus on customs enforcement, including through the creation of a Trade Fraud Task Force, a cross-agency initiative of the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory enforcement mechanism (Trade Fraud Task Force) not previously disclosed."
+  },
+  {
+   "text": "Departments of Justice and Homeland Security to address trade fraud, tariff evasion and customs violations.",
+   "category": "new_substantive_risk",
+   "rationale": "Details the specific agencies and purpose of the new task force, adding concrete new regulatory risk information."
+  },
+  {
+   "text": "This heightened enforcement paradigm, along with the recent U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Connects heightened enforcement to a new legal development, introducing new uncertainty factors."
+  },
+  {
+   "text": "Supreme Court decision to strike down certain tariffs imposed under the International Emergency Economic Powers Act, have created additional uncertainty as to the scale and short and long-term effect these tariffs will have.",
+   "category": "new_substantive_risk",
+   "rationale": "References a specific Supreme Court decision striking down tariffs, a new and material legal development affecting the company's risk profile."
+  },
+  {
+   "text": "Failure to achieve and maintain a high level of product and service quality and on-time delivery could damage our reputation with customers and negatively impact our results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk theme around product/service quality and on-time delivery affecting reputation and results."
+  },
+  {
+   "text": "Product and service quality issues could harm customer confidence in our company and our brands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic supporting statement about quality issues harming confidence, without new specifics."
+  },
+  {
+   "text": "If certain of our product and service offerings do not meet applicable safety standards or our customers\u2019 expectations regarding quality, safety or performance, we could experience lost sales and increased costs and we could be exposed to legal, financial and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete consequences (lost sales, legal/financial/reputational risk) tied to failure to meet safety or quality standards."
+  },
+  {
+   "text": "In addition, a recall or claim could require us to review some or all of our product portfolio to assess whether similar issues are present in other products, which could result in a significant disruption to our business and our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific operational risk of portfolio-wide review following a recall or claim, a new disclosed consequence."
+  },
+  {
+   "text": "We have experienced such quality issues in the past and may experience such issues in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses that the company has actually experienced quality issues in the past, a factual admission not previously stated."
+  },
+  {
+   "text": "We cannot be certain that our quality controls and procedures will reveal defects in our products or their raw materials, which may not become apparent until after the products have been placed in use in the market.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on quality control limitations within the same new recall/defect risk theme."
+  },
+  {
+   "text": "Accordingly, there is a risk that products will have defects, which could result in loss of sales or delays in market acceptance and require a product recall or field corrective action.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on defect and recall risk introduced in prior sentences."
+  },
+  {
+   "text": "Such remedial actions can be expensive to implement and may damage our reputation and customer relationships.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about remedial actions being expensive and damaging reputation, lacking new specifics."
+  },
+  {
+   "text": "We have conducted product recalls and field corrective actions in the past and may do so again in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses that actual product recalls and corrective actions have occurred, a concrete factual admission."
+  },
+  {
+   "text": "Our ability to compete and generate sales 10 depends in part on our capacity to meet customer demand and ensure that products and services are delivered to the customer on time.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about capacity and delivery tied to competitiveness, elaborating on existing operational risk."
+  },
+  {
+   "text": "If we are unable to manufacture and deliver products to customers on time, we could experience lost sales and increased costs and we could be exposed to legal, financial and reputational risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete consequences (lost sales, legal/financial/reputational risk) from delivery failures, a new detailed risk."
+  },
+  {
+   "text": "The inability to deliver our products to customers on time could also restrict our manufacturing capacity, which could lead to the loss of customers and restrict our ability to grow sales.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on delivery risk's downstream effects on manufacturing capacity and growth."
+  },
+  {
+   "text": "It is uncertain what new laws will be enacted, and therefore we cannot predict the potential impact of such laws on our future financial condition, results of operations and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about uncertainty of future laws, lacking specific new risk content."
+  },
+  {
+   "text": "We may use artificial intelligence in our business and in our products, and challenges with properly managing its use could result in reputational harm, competitive harm, and legal liability, and adversely affect our results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding AI usage affecting reputation, competition, and financial results."
+  },
+  {
+   "text": "We are incorporating artificial intelligence solutions into our products, services and features, and we are leveraging artificial intelligence, including generative artificial intelligence and machine learning, in our product development, operations and software programming.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new business practice\u2014incorporating AI into products and operations\u2014introducing a new risk exposure."
+  },
+  {
+   "text": "Our competitors or other third parties may incorporate artificial intelligence into their products or operational processes more quickly or more successfully than us, which could have a material adverse effect on our competitive position, reputation and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive risk tied to AI adoption speed by competitors."
+  },
+  {
+   "text": "In addition, there are significant risks involved in developing and deploying artificial intelligence and there can be no assurance that the usage of artificial intelligence will enhance our products or services or be beneficial to our business, including our efficiency or profitability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on general AI risk uncertainty already introduced, without new specific detail."
+  },
+  {
+   "text": "The rapid evolution of artificial intelligence, including the regulation of artificial intelligence by government or other regulatory agencies, will require significant resources to develop, test and maintain our platforms, offerings, services and features to implement artificial intelligence ethically and minimize any unintended harmful impacts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk tied to evolving AI laws requiring significant resources."
+  },
+  {
+   "text": "The use by our employees of artificial intelligence tools or technology can adversely impact our business by posing risks to our confidential or proprietary information and could give rise to legal actions or reputational damage, or otherwise adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of employee AI use causing legal and reputational harm."
+  },
+  {
+   "text": "Our workforce may use artificial intelligence tools or technology, which may result in the exposure of our confidential or proprietary information to unauthorized third parties and the misuse of our intellectual property.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the confidentiality and IP misuse risk already introduced regarding employee AI use."
+  },
+  {
+   "text": "Use of artificial intelligence tools or technology may also result in claims against us alleging violation of third-party intellectual property rights.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on AI-related legal risk (IP claims) within the same new risk theme."
+  },
+  {
+   "text": "Use of artificial intelligence tools or technology may also result in inaccurate results that could cause mistakes in the Company\u2019s decision-making or other business activities, which may have a material adverse impact on our business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential business impact from inaccurate AI outputs, extending the same new AI risk topic."
+  },
+  {
+   "text": "Further, there is no guarantee that our training and enforcement of procedures governing the use of artificial intelligence will be adequate to safeguard against the unauthorized use of artificial intelligence tools or technology.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about inadequate safeguards, lacking new specific risk detail."
+  }
+ ]
+}

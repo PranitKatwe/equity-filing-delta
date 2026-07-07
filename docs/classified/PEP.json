@@ -1,0 +1,83 @@
+{
+ "ticker": "PEP",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-03",
+ "accession": "0000077476-26-000007",
+ "prior_accession": "0000077476-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 13,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "PBNA also distributes, in certain channels, brands owned by Celsius Holdings, Inc.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific business relationship (distribution of Celsius-owned brands) that creates a new third-party dependency not previously disclosed."
+  },
+  {
+   "text": "(Celsius), including Celsius, Alani Nu and Rockstar.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simply lists the specific brand names continuing the previous sentence; no additional risk content."
+  },
+  {
+   "text": "EMEA operates its own bottling plants and distribution facilities and sells finished goods directly to independent distributors and retailers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds descriptive detail about EMEA's bottling and distribution operations, expanding existing international operations risk discussion without introducing a wholly new risk."
+  },
+  {
+   "text": "We also distribute Celsius, Alani Nu and Rockstar energy drinks in certain channels across the United States and Canada.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates the Celsius/Alani Nu/Rockstar distribution relationship with added geographic detail (US and Canada), reinforcing rather than introducing a new dependency risk."
+  },
+  {
+   "text": "These risks could be heightened in light of new or evolving regulations, changes to our portfolio (including increased use of functional or other ingredients), aging infrastructure, and increased pressure on our suppliers from supply chain disruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific heightening factors (evolving regulations, portfolio changes, aging infrastructure, supply chain pressure) to an existing risk about product/ingredient safety."
+  },
+  {
+   "text": "Changing dynamics at the retail level have also impacted and may continue to impact our ability to grow in certain jurisdictions.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about changing retail dynamics affecting growth, without specific new risk detail."
+  },
+  {
+   "text": "In addition, the imposition of tariffs (including U.S. tariffs imposed or threatened to be imposed on China, the European Union, Canada and Mexico and other countries and any tariffs imposed by such countries) have impacted and could continue to impact our supply chain resulting in increased input costs, including the cost of certain raw materials and packaging.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding tariffs on China, EU, Canada, Mexico impacting supply chain and input costs."
+  },
+  {
+   "text": "The impact of tariffs will continue to vary, including based on where inputs are sourced from and shipped to.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance to the tariff risk already described, noting variability based on sourcing and shipping locations."
+  },
+  {
+   "text": "For example, Mexico recently enacted an increase to its existing flat tax on all sweetened beverages, effective January 1, 2026, from a rate of approximately $0.09 (1.64 Mexican pesos) to a rate of approximately $0.17 (3.08 Mexican pesos) per liter.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides a concrete new regulatory development (Mexico's increased sweetened beverage tax) with specific figures and effective date."
+  },
+  {
+   "text": "For example, in 2025, the state of Texas passed a law, effective January 1, 2027, requiring warning labels on products containing certain ingredients, including artificial colors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new state law (Texas warning label requirement) representing a concrete regulatory risk."
+  },
+  {
+   "text": "For example, multiple states in the United States have implemented, or are considering implementing, extended producer responsibility laws that will increase expenses, including through fees paid to state governments in connection with such laws.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new extended producer responsibility laws in multiple states that will increase costs, a concrete new regulatory risk."
+  },
+  {
+   "text": "The increasing adoption of artificial intelligence technologies has led data protection authorities in many jurisdictions in which we operate to consider and adopt new and evolving interpretations of privacy and data protection laws, with specific obligations regarding processing of personal data, including required notices, consents, and opt-outs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk area tied to AI adoption driving evolving privacy/data protection regulations."
+  },
+  {
+   "text": "For example, as a global food and beverage company, we are subject to increased regulatory scrutiny and face legal challenges in a variety of jurisdictions concerning alleged health implications associated with consumption of certain of our food products, our development or marketing of those products and/or the alleged environmental impact of the packaging used for certain of our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing regulatory/legal scrutiny risk to explicitly include health implications, marketing practices, and packaging environmental impact across jurisdictions."
+  }
+ ]
+}

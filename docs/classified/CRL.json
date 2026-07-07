@@ -1,0 +1,218 @@
+{
+ "ticker": "CRL",
+ "sector": "Health Care",
+ "filing_date": "2026-02-18",
+ "accession": "0001100682-26-000022",
+ "prior_accession": "0001100682-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 15,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "We leverage software and hardware solutions from technology and services providers, including software-as-a-service and public cloud infrastructure, who have been subject to cybersecurity incidents in the past and may have incidents or breaches in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk that third-party software/cloud providers used by the company could suffer cybersecurity incidents affecting the business."
+  },
+  {
+   "text": "As of the date of this filing, to our knowledge, no prior cybersecurity incident or breach at a third party has had a material impact on our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A disclaimer noting no prior incident has had material impact; not itself a new risk."
+  },
+  {
+   "text": "However, future incidents or breaches could cause us to suffer significant harm.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that future incidents could cause harm, without new specifics."
+  },
+  {
+   "text": "Uncertainties with respect to the development, deployment, and use of artificial intelligence present new risks and challenges and could adversely affect our business and reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding AI development and use affecting the business and reputation."
+  },
+  {
+   "text": "We, along with many businesses in the biopharmaceutical industry, are adopting and exploring the use of artificial intelligence (AI) in our business, and as an emerging and rapidly evolving technology, our use of AI introduces potential opportunities but also presents risks that could adversely affect our operations, information security and reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced AI risk by describing the company's adoption of AI and associated risks."
+  },
+  {
+   "text": "For example, algorithms may be flawed; data sets may be insufficient, of poor quality, or contain biased information; and inappropriate or controversial data practices by data scientists, engineers, and end-users could impair results.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific technical risk details (flawed algorithms, biased data) not previously disclosed."
+  },
+  {
+   "text": "If the analyses that artificial intelligence-based applications assist in producing are deficient or inaccurate, we could be subjected to competitive harm, potential legal liability and brand or reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific liability and reputational risk from inaccurate AI-assisted analyses."
+  },
+  {
+   "text": "Use of AI-based software may also lead to cybersecurity risks or the release of confidential proprietary information, including personal data, which may impact our ability to realize the benefit of our intellectual property or violate our internal policies, data protection laws or contractual requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of cybersecurity/confidentiality exposure from AI software use."
+  },
+  {
+   "text": "The use of AI-based software may also result in unauthorized access of personal data or the intellectual property of third parties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the AI-related data security risk introduced in the prior sentence."
+  },
+  {
+   "text": "The legal and regulatory landscape regarding the use of AI is rapidly evolving, including in the areas of intellectual property, cybersecurity, and privacy and data protection.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving legal/regulatory landscape without specific new risk detail."
+  },
+  {
+   "text": "Compliance may impose operational costs and limit our ability to use AI-based software, and failure to comply may result in potential government actions, litigation, fines, penalties or adverse publicity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory compliance risk tied to AI use, building on the prior generic statement."
+  },
+  {
+   "text": "As a focus, CRL aims to be the premier provider of products and services that ensure our clients develop, produce and release their products safely.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Mission-style statement about company aspirations, not a risk disclosure."
+  },
+  {
+   "text": "Similarly, if we are unable to successfully execute on the Board of Directors\u2019 comprehensive strategic review and evaluation of Charles River\u2019s business and growth prospects, this could negatively impact our future results of operations and market capitalization.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk that failure to execute the Board's strategic review could hurt results and market cap."
+  },
+  {
+   "text": "Similarly, we are working to execute the Board of Directors\u2019 comprehensive strategic review and evaluation of Charles River\u2019s business and growth prospects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates that the company is undertaking the strategic review, factual context rather than a distinct risk."
+  },
+  {
+   "text": "Our review of potential strategic alternatives may not result in an executed or consummated transaction or other strategic alternative, and the process of reviewing strategic alternatives or the outcome could adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that the strategic review may not result in a transaction and could adversely affect the business."
+  },
+  {
+   "text": "On May 6, 2025, in connection with a Cooperation Agreement entered into with a large shareholder of the Company, we agreed, among other things, to have the Strategic Planning and Capital Allocation Committee of our Board of Directors oversee and direct a comprehensive strategic review and evaluation of the Company\u2019s business and prospects, including an examination of various alternatives to enhance long-term stockholder value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual background describing the Cooperation Agreement and committee oversight, not itself a risk statement."
+  },
+  {
+   "text": "There is no assurance that the process will result in the approval or completion of any specific transaction or outcome.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that no specific outcome is assured."
+  },
+  {
+   "text": "Further, there is no guarantee that any transaction resulting from the strategic review will ultimately benefit our stockholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about no guarantee of stockholder benefit."
+  },
+  {
+   "text": "The process of reviewing potential strategic and operational alternatives is time consuming and costly and may divert management\u2019s attention.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of cost and management distraction from the strategic review process."
+  },
+  {
+   "text": "It may also be disruptive to our business operations and long-term planning, which may cause concern to our current or potential investors, customers, employees, strategic partners, vendors and other stakeholders and may have a material impact on our operating results or result in increased volatility in our stock price.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the disruptive effects and stock volatility risk building on the prior sentence's cost/distraction risk."
+  },
+  {
+   "text": "Any potential transaction or other strategic alternative, including, without limitation the acquisitions of the assets of K.F.",
+   "category": "expanded_existing_risk",
+   "rationale": "Names specific transactions (acquisitions) as part of the broader strategic alternative risk already introduced."
+  },
+  {
+   "text": "(Cambodia) Ltd. and Pathoquest SAS, would be dependent on a number of factors that may be beyond our control, including, among other things, market conditions, industry trends, regulatory approvals, and the availability of financing for a potential transaction on favorable terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on dependency factors for the named transactions, continuing the existing strategic alternative risk."
+  },
+  {
+   "text": "There can be no assurance that any potential transaction or other strategic alternative will be successfully implemented, achieve the intended benefits or provide greater value to our stockholders than that reflected in the current price of our common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that no assurance exists regarding transaction success or value creation."
+  },
+  {
+   "text": "Until the review process is concluded, perceived uncertainties related to our future may result in the loss of potential business opportunities, volatility in the market price of our common stock and difficulty attracting and retaining qualified talent and business partners.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risks of lost business opportunities and talent retention difficulty during the review period."
+  },
+  {
+   "text": "More broadly, legal matters and investigations may have ancillary impacts that impair supply chain access.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that legal matters/investigations could impair supply chain access."
+  },
+  {
+   "text": "In November 2025, the Company received USFWS CITES clearance to import Cambodian NHPs into the United States, and has resumed such activity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update describing resumed import activity, not introducing or expanding a risk."
+  },
+  {
+   "text": "This policy was subject to an injunction at the district court and appellate court levels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual/legal history statement about an injunction, informational rather than risk-creating."
+  },
+  {
+   "text": "However, in August 2025, the United States Supreme Court ruled that the lower courts did not have jurisdiction to reinstate the grant funding, allowing nearly $800 million in federal grants to be terminated.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new fact of loss of ~$800 million in federal grant funding due to a court ruling, a concrete financial risk."
+  },
+  {
+   "text": "Some changes in regulations, including the relaxation of certain requirements or the use of streamlined or expedited approval procedures, may reduce the scope of preclinical testing needed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that regulatory relaxation of preclinical testing requirements may reduce demand for the company's services."
+  },
+  {
+   "text": "Other changes that increase regulatory obligations or affect the competitiveness of our services may lessen the demand for certain offerings.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the theme of regulatory changes affecting demand, expanding on the prior sentence."
+  },
+  {
+   "text": "In October 2025, a successful pre-license inspection was performed and we are closely partnered with this client through the remaining steps of their biologics license resubmission.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual, positive update about a client inspection outcome, not a new risk."
+  },
+  {
+   "text": "In addition, we are, from time to time, subject to commercial disputes and legal actions from CDMO customers with respect to the products and services we provide.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific litigation exposure risk from CDMO customer disputes."
+  },
+  {
+   "text": "For example, in April 2025, the FDA announced its intention to reduce animal testing in preclinical safety studies with NAMs, such as organ-on-a-chip systems, computational modeling, and advanced in vitro assays; in October 2025, the FDA announced its intention to streamline the approval process for biosimilar drug development and indicated further announcements related to reducing animal testing requirements may be forthcoming; and in November 2025, the U.K. government announced a roadmap to phasing out animal testing in favor of alternative methods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed examples of regulatory changes reducing animal testing, expanding on the previously introduced regulatory risk."
+  },
+  {
+   "text": "31 CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header text, not substantive content."
+  },
+  {
+   "text": "US Data Privacy Framework (DPF).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary reference to a data privacy framework, no risk content."
+  },
+  {
+   "text": "33 CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header text, not substantive content."
+  },
+  {
+   "text": "For example, in July 2025, the U.S. enacted the One Big Beautiful Bill Act (\"OBBBA\"), which includes several changes to U.S. federal income tax law, including accelerated tax depreciation, expensing of research and development, and the U.S. international inclusions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax law changes (OBBBA) that could materially affect financial results."
+  },
+  {
+   "text": "Significant developments or changes in national laws or policies to protect or promote domestic interests and/or address foreign competition can have an adverse effect on our business and financial statements.",
+   "category": "reworded_same_meaning",
+   "rationale": "Shorter version of the same statement expanded in the next sentence; conveys same core meaning."
+  },
+  {
+   "text": "Significant developments or changes in national laws or policies to protect or promote domestic interests and/or address foreign competition, including laws and policies in areas such as trade, manufacturing, government purchasing, healthcare, intellectual property, regulatory enforcement and investment/development, can adversely affect our business and financial statements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the prior general statement by listing specific policy areas affected, broadening the existing risk description."
+  },
+  {
+   "text": "The U.S. has experienced a rapid increase in new government regulations, including tariffs and proposed tariffs on imports from a wide range of markets and geographies, including some in which we operate.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding increased tariffs affecting the company's operations."
+  }
+ ]
+}

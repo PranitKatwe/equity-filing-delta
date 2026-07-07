@@ -1,0 +1,88 @@
+{
+ "ticker": "TROW",
+ "sector": "Financials",
+ "filing_date": "2026-02-13",
+ "accession": "0001628280-26-008002",
+ "prior_accession": "0001113169-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 14,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "The U.S. federal government periodically experiences funding gaps that result in partial or complete shutdowns of government operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a previously unmentioned risk topic: periodic U.S. government shutdowns affecting operations."
+  },
+  {
+   "text": "A prolonged shutdown could adversely impact the U.S. economy, financial markets, and our business directly and indirectly.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the shutdown risk by describing broad economic and market impacts, extending the newly introduced topic."
+  },
+  {
+   "text": "During a shutdown, many federal agencies, such as the SEC, suspend or delay regulatory approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail that a shutdown could delay SEC regulatory approvals, expanding the shutdown risk narrative."
+  },
+  {
+   "text": "A delay in the approval of new products Page 12 Table of Contents which we intend to offer could materially impact our performance and the timing with which we begin to attract investors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a concrete, material consequence\u2014delayed product approvals impacting performance and investor attraction\u2014not previously disclosed."
+  },
+  {
+   "text": "Additionally, a shutdown could have broader negative effects on consumer and business confidence, the financial markets, and the overall economy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about broader economic effects that adds little specific new information beyond typical cautionary language."
+  },
+  {
+   "text": "Uncertainty regarding the duration or frequency of government shutdowns may contribute to market volatility and increased redemptions from our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific consequence (increased redemptions) tied to the newly discussed shutdown risk, expanding its scope."
+  },
+  {
+   "text": "In addition, should we be subject to a cybersecurity event or data breach, or the target of cyber criminals who seek to defraud our clients, our reputation could be harmed and we could suffer financial loss.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about reputational and financial harm from cyber events, likely expanding an existing cybersecurity risk factor."
+  },
+  {
+   "text": "Further, the use of AI technologies requires ongoing operational controls and procedures and the development and deployment of appropriate protections and safeguards.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new operational risk related to AI technology controls and safeguards not previously addressed."
+  },
+  {
+   "text": "AI technologies may also disrupt the competitive landscape for investment management and technology services, including in commercial and operational areas such as data aggregation and quantitative models.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new competitive risk from AI disrupting investment management and technology services."
+  },
+  {
+   "text": "Furthermore, we may face competition from investment managers who use AI in lieu of human managers, which may lead to lower cost solutions which could impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new competitive threat from AI-driven investment managers offering lower-cost alternatives."
+  },
+  {
+   "text": "In addition, the U.S. administration and other foreign governments have pursued deregulation measures that may create regulatory uncertainty for our business, and potentially create divergent regulatory frameworks, as other state and local governments may take action to fill the vacuum.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new regulatory risk stemming from deregulation and potential divergent state/local frameworks."
+  },
+  {
+   "text": "Any changes in the regulatory framework applicable to our business, may impose additional costs, require the attention of our senior management, result in limitations on the manner in which business is conducted, or may ultimately have an adverse impact on the competitiveness of our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory changes imposing costs or limitations, typical cautionary boilerplate without specific new risk."
+  },
+  {
+   "text": "C ertain new regulatory proposals that may impact or relate to our business, include cybersecurity disclosures, sustainability, privacy and data protection, financial products, fiduciary and fund-related reforms, digital assets, tax compliance, and other investment management disclosure and compliance requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete new regulatory proposal areas (cybersecurity, sustainability, digital assets, etc.) representing a substantive new risk disclosure."
+  },
+  {
+   "text": "Nonetheless, there are still certain limitations on our investment products due to CFTC rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about CFTC rule limitations, expanding on existing regulatory constraints already part of the business's risk profile."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "NDAQ",
+ "sector": "Financials",
+ "filing_date": "2026-02-12",
+ "accession": "0001628280-26-007703",
+ "prior_accession": "0001120193-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 35
+ },
+ "items": [
+  {
+   "text": "Business OVER VIEW Nasdaq is a leading technology platform that powers the world\u2019s economies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mission statement about Nasdaq as a technology platform; no risk content."
+  },
+  {
+   "text": "We architect the infrastructure of the world\u2019s most modern markets, power the innovation economy, and build trust in the financial system.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing language describing corporate positioning, not a risk."
+  },
+  {
+   "text": "We empower economic opportunity by designing and deploying the technology, data, and advanced analytics that enable our clients to capture opportunities, navigate risk, and strengthen resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of value proposition, no specific risk identified."
+  },
+  {
+   "text": "The seamless integration of these businesses allowed us to capitalize on our existing divisional structure, consolidated by a singular O ne Nasdaq go-to-market strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal organizational structure, not a risk factor."
+  },
+  {
+   "text": "Through our platforms: \u2022 We architect the world\u2019s most modern markets : Our platform delivers scalable, interoperable solutions that can minimize friction, strengthen resilience, and enable market operators to drive innovation into local market environments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of platform capabilities."
+  },
+  {
+   "text": "As a result, we believe our platform delivers highly advanced market infrastructure, enabling deeper liquidity and more seamless flows of capital across markets globally. \u2022 We power the innovation economy : The world\u2019s most dynamic economies are not defined by geography or size.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continued marketing narrative about market infrastructure."
+  },
+  {
+   "text": "They are defined by their ability to transform ideas into growth and allowing that innovation to scale.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about innovation economies, no risk."
+  },
+  {
+   "text": "Nasdaq sits at the center of the world\u2019s most dynamic innovation economies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positioning statement, not risk-related."
+  },
+  {
+   "text": "We provide innovators and investors with the infrastructure, investment products, and data and insights that enable innovation to scale and investors to allocate with confidence. \u2022 We build trust in the financial system : As risk becomes more pervasive, interconnected, and embedded across the financial system, the gap between the speed of risk and the speed of response has widened.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes products/services offered; framing rather than risk."
+  },
+  {
+   "text": "Nasdaq\u2019s platform can deliver intelligent, integrated solutions that help financial institutions identify and mitigate risk with agility and precision.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of risk-management solutions offered to clients, not a risk to Nasdaq itself."
+  },
+  {
+   "text": "From regulatory reporting to compliance and financial crime management, our platform helps institutions detect threats early, meet evolving obligations, and protect the integrity of their operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes compliance product offerings, not a company risk."
+  },
+  {
+   "text": "Our eVestment platform has expanded the scale and reach of data assets to meet the evolving needs of clients and enhance the value to asset owners and asset managers, including in the private markets space, with over 80,000 private funds covered.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expansion of data platform, a positive business update, not a risk."
+  },
+  {
+   "text": "In October 2025, we sold our Solovis business, a financial technology platform offering portfolio monitoring and analytics tools.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of a business divestiture; no risk language."
+  },
+  {
+   "text": "Th rough our Financial Technology solutions, we power more than 135 marketplaces (including 19 owned and operated by Nasdaq) and regulators, in more than 5 5 countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Updated business metrics/scale description, purely descriptive."
+  },
+  {
+   "text": "We serve approximately 3,800 global clients, including all Global Systemically Important Banks, or G-SIBs .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Client count update, descriptive only."
+  },
+  {
+   "text": "We also provide professional services which relate to systems implementation and integration as well as advisory services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes professional services offered, not a risk."
+  },
+  {
+   "text": "These products are listed on Nasdaq Oslo ASA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive fact about product listing venue."
+  },
+  {
+   "text": "In June 2025, this transaction was completed and consideration was received.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Confirms completion of a prior transaction, factual update."
+  },
+  {
+   "text": "Migration of open positions are planned to take place by the end of the first quarter of 2026 .",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes operational migration timeline tied to a business wind-down, expanding on an existing transition risk."
+  },
+  {
+   "text": "We expect to wind down the commodities clearing and trading services during the second half of 2026, and the business to be wound down in the months following .",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a planned wind-down of a specific business line (commodities clearing/trading), introducing a concrete operational and financial transition risk not previously disclosed."
+  },
+  {
+   "text": "We strive to be a trusted partner to a diverse range of clients that participate across the global financial ecosystem.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic aspirational statement about client relationships."
+  },
+  {
+   "text": "Our Nasdaq Verafin solution leverages data analytics, machine\u2011learning techniques and consortium data to support transaction monitoring, customer risk management and the identification of financial crime risks across multiple payment channels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description of Verafin solution, no risk implication."
+  },
+  {
+   "text": "Our solution is designed to support a range of client needs, from smaller financial institutions using integrated applications to larger institutions accessing specific capabilities through APIs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product flexibility, marketing language."
+  },
+  {
+   "text": "We continue to enhance the platform with additional automation and AI\u2011based capabilities, including agentic AI, to help support operational efficiency and evolving regulatory and financial crime requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI feature enhancements, product update not risk."
+  },
+  {
+   "text": "We also continue to invest in AI to strengthen our AxiomSL and Calypso solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI investment in existing products, not a new risk."
+  },
+  {
+   "text": "For instance, in our AxiomSL offering we are embedding advanced AI capabilities, from generative AI assistants to machine-learning analytics to enhance user productivity, predictive insights and agility when handling new regulations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description for AxiomSL, no risk content."
+  },
+  {
+   "text": "We are embedding AI capabilities into our Calypso solution that are expected to directly address the operational and analytical demands of modern financial institutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description for Calypso, no risk content."
+  },
+  {
+   "text": "In our market surveillance business, we currently use and continue to advance our AI features , machine\u2011learning techniques and extensive market data to identify irregular trading behaviors and potential market abuse across global asset classes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing AI use in surveillance, product continuity, not new risk."
+  },
+  {
+   "text": "New enhancements include generative AI tools that are designed to streamline alert triage and investigative workflows, supporting improved efficiency and reduced false positives as market and regulatory demands evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new AI tool features, marketing update."
+  },
+  {
+   "text": "Within our market technology business, we continue to progress AI deployments to strengthen our Eqlipse platform, a cloud-native suite that spans the full trade lifecycle - trading, clearing, CSD, and data intelligence - and serves as an AI-ready foundation for advanced analytics and automation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes platform AI progress, product marketing."
+  },
+  {
+   "text": "In 2025, we advanced our partnership with AWS by introducing a new suite of solutions that are designed to empower market operators to enhance liquidity, facilitate capital flows, and drive growth, while upholding the highest level of performance, security and resilience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new AWS partnership solutions, business development update."
+  },
+  {
+   "text": "The new blueprint includes infrastructure that places AWS compute services in close proximity to exchange and trading systems, with connectivity to AWS Global Regions through AWS Direct Connect and the AWS global network.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Technical infrastructure description, not a risk."
+  },
+  {
+   "text": "We also introduced, through Nasdaq Eqlipse, an updated suite of cloud\u2011ready market technology solutions with standardized APIs with proven interoperability across the full trade lifecycle.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product suite description, marketing update."
+  },
+  {
+   "text": "Nasdaq Eqlipse will also include a new solution, Nasdaq Eqlipse Intelligence, that includes enhanced data management, analytics and reporting capabilities that are specific to market operators\u2019 workflows, and that are intended to support a broader use of AI and transform how marketplaces operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "New product feature description, not risk-related."
+  },
+  {
+   "text": "In 2025, we also expanded our strategic technology partnership with AWS by providing financial institutions with the option to deploy Nasdaq Calypso as a fully managed service on AWS.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expanded AWS partnership offering, business update."
+  },
+  {
+   "text": "This deployment model allows institutions to operate Calypso without maintaining underlying infrastructure, supports more consistent upgrades, and offers a unified environment for trading, risk, margin, collateral management, and related data workflows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits of managed service deployment, marketing language."
+  },
+  {
+   "text": "The model is intended to help institutions address evolving regulatory and operational requirements, streamline technology architecture, and improve the efficiency of real\u2011time data processing and analytics, including the use of AI.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes intended benefits of technology model, not a risk statement."
+  },
+  {
+   "text": "With a continued focus on modernization of our markets, technology, and in meeting the advancing demands of our global customer base, in 2025, Nasdaq announced plans to introduce extended trading hours on the Nasdaq Stock Market.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific initiative (extended trading hours) that creates new operational and regulatory approval risk not previously present."
+  },
+  {
+   "text": "This initiative, known as Global Trading Hours, will create a 23-hour trading day, five days a week and is designed to meet the realities of a connected world while safeguarding the principles that underpin U.S. markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the new trading hours initiative and its regulatory/operational implications, expanding the newly introduced risk."
+  },
+  {
+   "text": "Nasdaq plans to launch this capability in the second half of 2026, subject to regulatory approval.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides timing and regulatory approval contingency for the new trading hours initiative, further detailing the associated risk."
+  }
+ ]
+}

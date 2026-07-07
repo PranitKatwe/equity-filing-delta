@@ -1,0 +1,73 @@
+{
+ "ticker": "SLB",
+ "sector": "Energy",
+ "filing_date": "2023-01-25",
+ "accession": "0001564590-23-000762",
+ "prior_accession": "0001564590-22-002421",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 8,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "As an example of a risk resulting from our global operations, in March 2022 we decided to immediately suspend new investment and technology deployment to our Russia operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new event (suspension of investment/technology in Russia) not previously disclosed, representing a distinct geopolitical business risk."
+  },
+  {
+   "text": "Russia represented approximately 6% of our worldwide revenue during 2022.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a specific quantification (6% of revenue) that adds detail to the Russia/Ukraine risk rather than introducing a new risk."
+  },
+  {
+   "text": "The carrying value of our net assets in Russia was approximately $0.7 billion as of December 31, 2022.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific financial figures about net asset exposure in Russia, elaborating the existing geopolitical risk."
+  },
+  {
+   "text": "This consisted of $0.3 billion of receivables, $0.3 billion of fixed assets, $0.5 billion of current assets, and $0.4 billion of current liabilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further breaks down the asset/liability composition, a granular addition to the already disclosed Russia exposure risk."
+  },
+  {
+   "text": "We continue to actively monitor the dynamic situation in Ukraine and applicable laws, sanctions and trade control restrictions resulting from the conflict.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring the situation, standard cautionary language without new substantive content."
+  },
+  {
+   "text": "The extent to which our operations and financial results may be affected by the ongoing conflict in Ukraine will depend on various factors, including the extent and duration of the conflict; the effects of the conflict on regional and global economic and geopolitical conditions; the effect of further laws, sanctions and trade control restrictions on our business, the global economy and global supply chains; and the impact of fluctuations in the exchange rate of the ruble.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on factors affecting the extent of conflict-related impact, expanding on the already identified Ukraine conflict risk."
+  },
+  {
+   "text": "Continuation or escalation of the conflict may also aggravate this and other risk factors identified in this Form 10-K, including cybersecurity, regulatory, and reputational risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes potential aggravation of existing risk categories (cybersecurity, regulatory, reputational) due to conflict escalation, an extension of prior risk discussion."
+  },
+  {
+   "text": "Our success depends in part on our ability to provide effective data security protection in connection with our digital technologies and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about the importance of data security, framing language without specific new risk detail."
+  },
+  {
+   "text": "Unauthorized access to or modification of, or actions disabling our ability to obtain authorized access to, our customers\u2019 data, other external data, personal data, or our own data, as a result of a cyber incident, attack or exploitation of a security vulnerability, could result in significant damage to our reputation or disruption of the services we provide to our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides more specific detail about the consequences of cyber incidents, expanding on the existing data security risk."
+  },
+  {
+   "text": "In addition, allegations, reports, or concerns regarding vulnerabilities affecting our digital products or services could damage our reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about reputational damage from allegations or reports, extending the existing cybersecurity/reputation risk discussion."
+  },
+  {
+   "text": "Our targets are based on empirical data and estimates that reflect the current best practices for measuring or estimating emissions, but we anticipate that future innovations in both measurement technologies and estimation methodologies could cause us to revise our baseline as well as re-calculate progress toward our targets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains potential revisions to emissions targets due to methodology changes, expanding on existing climate-related risk disclosures."
+  }
+ ]
+}

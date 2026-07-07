@@ -1,0 +1,218 @@
+{
+ "ticker": "SRE",
+ "sector": "Utilities",
+ "filing_date": "2026-02-26",
+ "accession": "0001032208-26-000010",
+ "prior_accession": "0001032208-25-000012",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 9,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "We are primarily focused on the largest economies in the U.S., California and Texas, where we are investing in regulated utilities with a view toward producing stable cash flows and improved earnings visibility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic framing about investment focus, not a specific risk."
+  },
+  {
+   "text": "Our goal is to deliver safe, reliable and affordable energy to customers while increasing shareholder value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mission statement, no specific risk introduced."
+  },
+  {
+   "text": "Oncor operates the largest transmission and distribution system in Texas based on the number of end-use customers and miles of transmission and distribution lines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual background description of Oncor's market position, not a risk."
+  },
+  {
+   "text": "In September 2025, we entered into an agreement to sell a 45% equity interest in SI Partners to the KKR Partners for $9.99 billion, subject to adjustments.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a new major transaction (sale of 45% equity interest) creating new closing, valuation and integration risks."
+  },
+  {
+   "text": "We expect the sale to close in the second or third quarter of 2026, subject to closing conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides timing detail for the newly disclosed sale transaction, expanding on the risk already introduced."
+  },
+  {
+   "text": "Subject to closing, the KKR Partners will own 65% of SI Partners, Sempra will own a 25% interest and ADIA will retain a 10% interest, with the KKR Partners assuming control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details post-closing ownership structure related to the new sale transaction, expanding the disclosed risk."
+  },
+  {
+   "text": "Sempra will deconsolidate SI Partners and account for its 25% interest in SI Partners under the equity method within the existing Sempra Infrastructure segment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes accounting treatment consequence of the same transaction, expanding on the disclosed risk."
+  },
+  {
+   "text": "At closing, we will enter into an amended and restated limited partnership agreement of SI Partners with the KKR Partners and ADIA, which will govern the rights and obligations of the partners with respect to SI Partners after the sale and will include transfer restrictions, provisions for Sole Risk Projects, under which a partner may independently pursue projects at its own cost and risk, and various other provisions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new governance terms including transfer restrictions and 'Sole Risk Projects' provisions that create new partnership risk exposure."
+  },
+  {
+   "text": "In December 2025, we entered into an agreement to sell Ecogas, a natural gas regulated distribution utility that we describe below, to Gas Natural del Noroeste S.A. de C.V. for 9.0 billion Mexican pesos (approximately $500 million U.S. dollar-equivalent at December 31, 2025), subject to adjustments.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new agreement to sell Ecogas, introducing new transaction-related risk (pricing, closing conditions)."
+  },
+  {
+   "text": "We expect to complete the sale in the second or third quarter of 2026, subject to closing conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides expected timing for the newly disclosed Ecogas sale, expanding on that risk."
+  },
+  {
+   "text": "As a result of satisfying all applicable criteria, we classified SI Partners\u2019 and Ecogas\u2019 assets and liabilities as held for sale and ceased depreciation and amortization.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes accounting classification changes resulting from the pending sales, expanding on the disclosed transaction risk."
+  },
+  {
+   "text": "Subject to closing these sales, we expect Sempra\u2019s ownership interests in SI Partners and all assets owned by SI Partners, other than those listed in the table below, to be 25% post-closing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details post-closing ownership implications of the pending sales."
+  },
+  {
+   "text": "SEMPRA\u2019S OWNERSHIP INTERESTS At December 31, 2025 Projected post-sale Cameron LNG Phase 1 facility 35.1 % 12.6 % Cameron LNG Phase 2 project 35.1 12.6 ECA LNG Phase 1 project 58.4 20.9 Ecogas 70.0 \u2014 IMG 28.0 10.0 PA LNG Phase 1 project 19.6 7.0 PA LNG Phase 2 project 35.1 12.5 Sonora pipeline \u2013 Guaymas-El Oro segment 100.0 100.0 TAG Norte 35.0 12.5 2025 Form 10-K | 23 Tab le of Cont ents Sempra Infrastructure consolidates Sempra\u2019s ownership and management of its non-U.S. utility energy infrastructure assets in North America under a single platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A data table listing ownership percentages, factual disclosure without new risk language."
+  },
+  {
+   "text": "SI Partners owns 50.2% of Cameron LNG JV.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual ownership percentage statement, no new risk."
+  },
+  {
+   "text": "ECA LNG Phase 1 will be the sole user of this capacity thereafter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about sole use of capacity, descriptive not risk-related."
+  },
+  {
+   "text": "The land adjacent to and owned by the ECA Regas Facility is the subject of litigation.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new litigation over land adjacent to a facility, a new legal risk."
+  },
+  {
+   "text": "The facility, however, is not situated on the land that is the subject of this dispute.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies the scope of the litigation risk just introduced, expanding on it."
+  },
+  {
+   "text": "The customers have a termination right if the ECA LNG Phase 1 project does not commence commercial operations under the SPAs by February 24, 2026, subject to certain additional conditions, for which we have requested an extension.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific contractual termination right tied to a deadline, a new operational/contractual risk."
+  },
+  {
+   "text": "As of February 26, 2026, no customers have given notice of their intent to terminate the SPAs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides status update on the termination risk just described."
+  },
+  {
+   "text": "The ECA LNG Phase 1 project achieved mechanical completion in December 2025, and we expect the project to produce LNG cargoes for sale in the spring of 2026 and sales under the long-term SPAs to begin shortly after substantial completion when the facility commences commercial operations, which is targeted in the summer of 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates project completion timeline related to existing project risk."
+  },
+  {
+   "text": "Reaching substantial completion under the EPC contract is subject to various milestones, including achieving certain performance tests and functionality.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about completion milestones, standard project language."
+  },
+  {
+   "text": "Since September 2025, SI Partners owns 50.1% and Blackstone owns 49.9% of the PA LNG Phase 2 project, a large-scale natural gas liquefaction project located adjacent to the PA LNG Phase 1 project.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes new ownership split for an existing project, expanding on prior disclosed project risk."
+  },
+  {
+   "text": "As we discuss in Note 12 of the Notes to Consolidated Financial Statements, Blackstone\u2019s equity interest is subject to redemption and exit rights that are outside the control of SI Partners and Blackstone.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new redemption/exit rights outside company control, a new financial/control risk."
+  },
+  {
+   "text": "As a result, we account for Blackstone\u2019s NCI as being contingently redeemable, which is presented as CRNCI in Sempra\u2019s Consolidated Balance Sheet.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes accounting treatment resulting from the newly disclosed redemption risk."
+  },
+  {
+   "text": "Construction of the PA LNG Phase 2 project commenced in September 2025 after reaching a positive FID.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual update on construction start, not a new risk."
+  },
+  {
+   "text": "The PA LNG Phase 2 project will include two liquefaction trains, one LNG storage tank, and associated facilities with a nameplate capacity of approximately 13 Mtpa.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive project specifications, no risk language."
+  },
+  {
+   "text": "The PA LNG Phase 2 project has definitive SPAs for LNG offtake with: \u25aa ConocoPhillips for a 20-year term for 4 Mtpa of LNG on a free-on-board basis \u25aa EQT Corporation for a 20-year term for 2 Mtpa of LNG on a free-on-board basis \u25aa JERA Co.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive listing of offtake agreements, factual not risk-related."
+  },
+  {
+   "text": "Inc. for a 20-year term for 1.5 Mtpa of LNG on a free-on-board basis In addition, SI Partners has a definitive SPA with the PA LNG Phase 2 project for a 20-year term for 2.5 Mtpa of LNG and has entered into offtake agreements for excess quantities of LNG, including an offtake agreement for a 30-year term to the extent of incremental amounts produced above 10 Mtpa up to an additional 0.75 Mtpa.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of factual SPA details, no new risk."
+  },
+  {
+   "text": "As we discuss in Note 6 of the Notes to Consolidated Financial Statements, in December 2025, we entered into an agreement to sell Ecogas to Gas Natural del Noroeste S.A. de C.V. for 9.0 billion Mexican pesos (approximately $500 million U.S. dollar-equivalent at December 31, 2025), subject to adjustments.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the previously disclosed Ecogas sale agreement already covered in index 8."
+  },
+  {
+   "text": "We expect to complete the sale in the second or third quarter of 2026, subject to closing conditions.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the previously disclosed expected closing timing already covered in index 9."
+  },
+  {
+   "text": "Some of these facilities may be affected by recent legal and regulatory changes in Mexico, which we discuss in \u201cPart I \u2013 Item 1A.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk that facilities may be affected by Mexican legal/regulatory changes."
+  },
+  {
+   "text": "We expect commercial operations to commence in the first quarter of 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated timing for commercial operations, expanding existing project risk."
+  },
+  {
+   "text": "SI Partners is developing the potential Hackberry Carbon Sequestration project near Hackberry, Louisiana, together with TotalEnergies SE, Mitsui & Co., Ltd. and Mitsubishi Corporation.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new potential carbon sequestration project, introducing new business/development risk."
+  },
+  {
+   "text": "This proposed project is designed to permanently sequester carbon dioxide from the Cameron LNG Phase 1 facility, the proposed Cameron LNG Phase 2 project and potentially other sources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes purpose of the newly disclosed project, expanding on it."
+  },
+  {
+   "text": "2025 Form 10-K | 29 Tab le of Cont ents U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Page header/formatting artifact, not substantive content."
+  },
+  {
+   "text": "The California ISO is a non\u2011profit, federally regulated organization that manages the flow of electricity from generators to local utilities across approximately 80% of California\u2019s high\u2011voltage power grid.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General descriptive background about California ISO's role."
+  },
+  {
+   "text": "Within its balancing authority area, the California ISO oversees the markets that help balance electricity supply and demand, coordinate dispatch of generation, and manage system constraints.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further general description of California ISO functions, no new risk."
+  },
+  {
+   "text": "Recent legal and regulatory changes in Mexico, which we discuss in \u201cPart I \u2013 Item 1A.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates reference to Mexican regulatory changes already noted elsewhere."
+  },
+  {
+   "text": "Risk Factors,\u201d are designed to increase the government\u2019s control and participation in the energy sector.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies that regulatory changes aim to increase government control, a new political/regulatory risk detail."
+  },
+  {
+   "text": "The CPUC established the CCM to apply in the interim years between required cost of capital applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a regulatory mechanism (CCM) factually, not a new risk."
+  }
+ ]
+}

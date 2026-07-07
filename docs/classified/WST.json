@@ -1,0 +1,128 @@
+{
+ "ticker": "WST",
+ "sector": "Health Care",
+ "filing_date": "2026-02-17",
+ "accession": "0000105770-26-000010",
+ "prior_accession": "0000105770-25-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 22,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Training, Compliance and Talent Development We strongly encourage our team members to engage in continuous learning and provide development opportunities to strengthen individual skills and gain new experiences with the goal to build talent from within.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about encouraging training and development, not a specific business risk."
+  },
+  {
+   "text": "During 2025, our focus was navigating a dynamic compliance environment, given the increased requirements and uncertainty surrounding regulations such as the EU Deforestation Regulation, and on advancing our long-term strategic priorities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk related to the EU Deforestation Regulation and compliance uncertainty."
+  },
+  {
+   "text": "In the normal course of business, we engage in discussions with third parties relating to possible divestitures, acquisitions and other strategic transactions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about normal-course business discussions with third parties, no specific risk detail."
+  },
+  {
+   "text": "With respect to divestitures or dispositions, we continually assess the strategic fit of our existing businesses and products and may divest or otherwise dispose of businesses or products for strategic, financial or other reasons.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing about strategic assessment of business fit, common boilerplate for M&A risk sections."
+  },
+  {
+   "text": "As a recent example, the Company entered into a definitive agreement to sell all manufacturing and supply rights for the SmartDose\u00ae 3.5mL On-Body Delivery System and associated facilities to AbbVie.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new transaction (sale of SmartDose rights to AbbVie), a concrete material fact not previously present."
+  },
+  {
+   "text": "While divestitures and other dispositions can be beneficial to the Company and its shareholders, sometimes they can result in financial results that are different than expected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing divestiture risk by noting potential unexpected financial results."
+  },
+  {
+   "text": "A successful divestiture depends on various factors, including our ability to effectively transfer liabilities, contracts, facilities and employees to the purchaser, identify and separate the intellectual property to be divested from the intellectual property that we wish to keep and reduce fixed costs previously associated with the divested assets or business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on factors affecting successful divestitures, expanding the existing M&A/divestiture risk."
+  },
+  {
+   "text": "In exiting a business, we may still retain liabilities associated with the support and warranty of that business and other indemnification obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details retained liabilities risk tied to divestitures already being discussed."
+  },
+  {
+   "text": "All of these efforts require varying levels of management resources, which may divert our attention from other business operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about resource diversion from management attention, not a new specific risk."
+  },
+  {
+   "text": "If we do not realize the expected benefits or synergies of such transactions, our consolidated financial position, results of operations, cash flows and stock price could be negatively impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the existing M&A risk discussion by addressing failure to realize synergies."
+  },
+  {
+   "text": "The concentration of our customer base could adversely affect our financial condition and operating results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor topic regarding customer concentration."
+  },
+  {
+   "text": "We derive a substantial portion of our revenue from a limited number of customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new fact that a substantial portion of revenue comes from a limited number of customers, a material concentration risk."
+  },
+  {
+   "text": "Our dependence on a concentrated customer base could also expose us to further risks relating to contract negotiations, pricing pressures, and operational disruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the customer concentration risk with additional specifics about contract and pricing pressures."
+  },
+  {
+   "text": "While we continually strive to meet the needs of all of our customers, any adverse change in our relationships with one or more of our key customers could have a material adverse effect on our business, financial condition and operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the impact of losing key customer relationships, extending the concentration risk."
+  },
+  {
+   "text": "17 Significant developments in U.S. tax policies could have a material adverse effect on our business and/or results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor about U.S. tax policy changes affecting the business."
+  },
+  {
+   "text": "If we fail to maintain an effective system of internal controls, we may not be able to accurately report our financial results, which could lead to a loss of investor confidence in our financial statements and have an adverse effect on our stock price.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor regarding internal control failures and financial reporting reliability."
+  },
+  {
+   "text": "Effective internal controls are necessary for us to provide reliable and accurate financial statements and to effectively prevent fraud.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about the importance of internal controls, standard boilerplate."
+  },
+  {
+   "text": "We devote significant resources and time to comply with the internal control over financial reporting requirements of the Sarbanes Oxley Act of 2002 and continue to enhance our controls.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compliance efforts under Sarbanes-Oxley, not a new specific risk."
+  },
+  {
+   "text": "However, we cannot be certain that we will be able to prevent future significant deficiencies or material weaknesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty about future control deficiencies, expanding the internal controls risk already introduced."
+  },
+  {
+   "text": "Inadequate internal controls could cause investors to lose confidence in our reported financial information, which could have a negative effect on investor confidence in our financial statements, the trading price of our stock and our access to capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details consequences of inadequate controls, expanding on the same risk theme."
+  },
+  {
+   "text": "For example, the European Union and some states in the United States have introduced, and are considering more comprehensive updates to, regulations aimed at restricting the use of per and polyfluoroalkyl substances (\u201cPFAS\u201d) in packaging.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk regarding PFAS restrictions in packaging."
+  },
+  {
+   "text": "Such regulations restricting or banning PFAS could adversely affect our business and results of operations in the event of our non-compliance and/or our development and adoption of alternative materials in our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the PFAS regulatory risk by detailing potential business impacts of non-compliance or material changes."
+  }
+ ]
+}

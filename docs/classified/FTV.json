@@ -1,0 +1,108 @@
+{
+ "ticker": "FTV",
+ "sector": "Industrials",
+ "filing_date": "2026-02-25",
+ "accession": "0001659166-26-000007",
+ "prior_accession": "0001659166-25-000024",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 14
+ },
+ "items": [
+  {
+   "text": "We are continually evolving FBS to accelerate and sustain progress in every aspect of our business and deliver on our \u201cFortive Accelerated\u201d strategy of faster profitable growth, disciplined capital allocation and building and maintaining investor trust.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic framing about FBS and corporate strategy, no specific risk introduced."
+  },
+  {
+   "text": "In doing so, we have incorporated new technology enablers, like artificial intelligence and machine learning and are building new capabilities to drive accelerated innovation, greater commercial success and more recurring customer value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes adoption of AI/ML as capability enhancement, not a risk disclosure."
+  },
+  {
+   "text": "FBS is a critical component of how we achieve sustained success over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about FBS importance, no risk content."
+  },
+  {
+   "text": "6 Table of Contents People Strategy Our Fortive team of over 10,000 people around the world are united by a powerful purpose: innovating essential technologies to keep our world safe and productive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Company culture/people description, purely descriptive."
+  },
+  {
+   "text": "Our Fortive Accelerated growth strategy is the engine that drives that purpose forward, increasing our positive impact.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Strategic narrative language, no risk implication."
+  },
+  {
+   "text": "The Fortive Accelerated strategy is built on three pillars: profitable organic growth acceleration powered by the amplified Fortive Business System (FBS), disciplined capital allocation, and a commitment to building investor trust.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic pillars, generic corporate messaging."
+  },
+  {
+   "text": "Our people are the foundation of this Fortive Accelerated growth strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about people being foundation of strategy."
+  },
+  {
+   "text": "Creating an outstanding employee experience, where each team member feels empowered, supported, and proud is a critical driver of our sustainable success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "HR culture statement, not a risk factor."
+  },
+  {
+   "text": "We advance our people strategy through thoughtful employee experience management \u2013 using deep understanding of our people, continuous feedback mechanisms, and a clear cultural compass to guide how we design and deliver our people practices, with a particular focus on our career development and rewards systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes HR practices, no risk content."
+  },
+  {
+   "text": "We are committed to nurturing and continuously improving Fortive as an amazing place to work \u2013 so we can achieve more for our customers, our teams, and the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic commitment to workplace culture."
+  },
+  {
+   "text": "We foster an inclusive environment supercharged by continuous improvement, innovation, and growth mindsets to enable team members to meaningfully grow their careers, make an impact, and feel true ownership in our shared success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes inclusive culture goals, not a risk."
+  },
+  {
+   "text": "This translates the behaviors that underpin our desired leader competencies, at all levels of the organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about leadership behaviors, no risk."
+  },
+  {
+   "text": "FBS has been infused with AI capabilities, streamlining and reinforcing our growth-oriented tools and training for team members.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI integration into internal tools, a capability statement not a risk."
+  },
+  {
+   "text": "In connection with the Separation and as part of our long-term succession planning, we transitioned each of our Chief Executive Officer, Chief Financial Officer, and Chief People Officer roles in 2025 and early 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses recent turnover of CEO, CFO, and Chief People Officer roles, introducing a specific leadership transition risk not previously disclosed."
+  },
+  {
+   "text": "We collect, store, have access to and otherwise process certain confidential or sensitive data, including proprietary business information, customer data, personal data, and other information that is subject to privacy and security laws, regulations and/or customer-imposed controls.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about types of sensitive data processed, expanding the scope of an existing data privacy/security risk."
+  },
+  {
+   "text": "Regional conflicts, including the Russian invasion of Ukraine, conflict in the Middle East, tension between China and Taiwan, could result in sanctions, regional market instability, increased energy and transportation costs, and other adverse regional financial and economic conditions, any of which can impact the demand for, or our ability to sell, our products and services in the impacted regions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new geopolitical flashpoints (Middle East conflict, China-Taiwan tension) to an already existing regional conflict risk."
+  },
+  {
+   "text": "Risk Related to Our Investments and Dispositions Our strategy requires us to execute and deliver disciplined capital allocation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic heading/introductory statement about capital allocation strategy."
+  },
+  {
+   "text": "At the same time, conflicting and opposing views on environmental topics, including commitments addressing climate issues, are becoming increasing political, subject to scrutiny from private sectors and government authorities, with such conflicting and opposing views potentially exposing us to environmental or political activist campaigns; and \u2022 we are also required to comply with ever changing labor and employment laws and regulations in multiple jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of exposure to environmental/political activist campaigns due to conflicting ESG views, which is a distinct and specific risk not previously described."
+  }
+ ]
+}

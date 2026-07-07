@@ -1,0 +1,218 @@
+{
+ "ticker": "CRM",
+ "sector": "Information Technology",
+ "filing_date": "2026-03-02",
+ "accession": "0001108524-26-000060",
+ "prior_accession": "0001108524-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 37,
+ "counts": {
+  "new_substantive_risk": 18,
+  "expanded_existing_risk": 19,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Risks Related to Owning Our Common Stock \u2022 Fluctuations in our quarterly results. \u2022 Volatility in our stock price and associated litigation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is just a bullet-point list of risk factor sub-headings (stock volatility, quarterly fluctuations), not a new specific risk."
+  },
+  {
+   "text": "As our market presence grows, we may face increased risks of cyberattacks and other security threats.",
+   "category": "expanded_existing_risk",
+   "rationale": "Generic statement that growing market presence increases cyberattack risk, expanding the existing cybersecurity risk discussion without new specifics."
+  },
+  {
+   "text": "Additionally, as AI technologies, including generative and agentic AI, continue to evolve, threat actors are using and exploiting these technologies to enhance the sophistication, scale, speed and effectiveness of security threats that may be more difficult to detect and defend against.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new threat vector: malicious actors using generative/agentic AI to enhance attack sophistication."
+  },
+  {
+   "text": "Any delay in detecting, containing, or remediating a cybersecurity incident may result in additional harm, and in certain cases the full scope and impact of any such incident may not be immediately apparent.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of delayed incident detection, building on existing cybersecurity risk language."
+  },
+  {
+   "text": "Assessing whether an incident is material or reportable may require complex judgment and investigation, and disclosure of an incident may itself adversely affect our reputation, customer relationships and exposure to legal or regulatory proceedings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a distinct new risk around the complexity/judgment involved in determining incident materiality and disclosure obligations."
+  },
+  {
+   "text": "Additionally, it may take considerable time for us to investigate and evaluate the full impact of cybersecurity attacks, particularly for sophisticated attacks, which may inhibit our ability to provide prompt, full and reliable information about the incident to our customers, regulators and the public.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on investigation timelines for cybersecurity incidents, an extension of the existing cyber risk."
+  },
+  {
+   "text": "Such outcomes could reduce future sales, increase in our allowance for doubtful accounts, increase collection cycles and expose us to litigation and related expenses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes downstream financial consequences (sales, receivables, litigation) that expand on an existing risk theme rather than introduce a new one."
+  },
+  {
+   "text": "There can be no assurance that such replacement technology would be available or implemented in a timely manner or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "General caveat about technology replacement availability, expanding existing technology/operational risk language."
+  },
+  {
+   "text": "For example, in connection with our acquisition of Informatica, we entered into the Informatica Credit Agreements on an unsecured basis.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific unsecured credit facility tied to the Informatica acquisition, a concrete new financial arrangement."
+  },
+  {
+   "text": "In November 2025, the Company borrowed the full $6.0 billion available under the Informatica Credit Agreements to finance a portion of the cash consideration for the acquisition, repay existing indebtedness of Informatica and its subsidiaries, and pay related fees, costs, and expenses.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new $6.0 billion borrowing event to fund the Informatica acquisition, a material new debt exposure."
+  },
+  {
+   "text": "For more information, see Note 9 \u201cDebt\u201d to the consolidated financial statements in Item 8 of Part 2.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to financial statement notes, not a risk statement."
+  },
+  {
+   "text": "For example, in the second quarter of fiscal 2026, we implemented a new enterprise resource planning system (\u201cERP\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new operational event: implementation of a new ERP system in fiscal 2026."
+  },
+  {
+   "text": "Among other things, our ERP is essential to our financial planning, reporting, and compliance programs, and any unforeseen problems with our new ERP or in migrating away from previous systems and processes could harm our ability to manage our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on risks tied to the newly introduced ERP implementation described in the prior sentence."
+  },
+  {
+   "text": "Furthermore, new AI offerings and technologies, which are integrated into our operations, may disrupt workforce needs and could adversely affect our operations if not managed properly.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific concern about AI offerings disrupting workforce needs if not managed properly."
+  },
+  {
+   "text": "17 Table of Contents We may face greater costs, longer sales cycles, greater competition and less predictability in completing some of our sales to large enterprise customers, including governmental entities and customers in regulated industries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes challenges selling to large enterprise/government customers, an elaboration of an existing sales-related risk theme."
+  },
+  {
+   "text": "Our decisions about whether to conduct business with potential customers, or whether to continue or expand relationships with existing customers, may also impact our stakeholder relationships and reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that customer selection decisions could affect stakeholder relationships and reputation."
+  },
+  {
+   "text": "Regulatory frameworks such as the EU Digital Services Act (\u201cDSA\u201d), the EU AI Act and other rapidly evolving and sometimes conflicting global laws and regulations related to AI, privacy and consumer protection could increase compliance costs, restrict features or data flows, delay launches and expose us to penalties or litigation.",
+   "category": "new_substantive_risk",
+   "rationale": "Names specific new regulatory frameworks (EU DSA, EU AI Act) that could increase compliance costs and restrict operations."
+  },
+  {
+   "text": "As we develop and deploy AI applications in our products and services, including in customer-facing contexts, the speed, scale and complexity of related data processing may increase.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding increased complexity of AI-driven data processing as AI is deployed in customer-facing contexts."
+  },
+  {
+   "text": "AI applications may be targeted or misused, or may perform in ways that are inaccurate, biased, unreliable or otherwise harmful, or that implicate personal or proprietary data in ways that may be difficult to anticipate, detect or control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on AI misuse and inaccuracy risks, expanding the AI risk theme introduced just before."
+  },
+  {
+   "text": "Such issues could result in regulatory scrutiny, litigation, contractual disputes, loss of customer trust or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequences (litigation, reputational harm) stemming from the AI risks already introduced."
+  },
+  {
+   "text": "Inadequate or ineffective AI development, testing, deployment, content labeling, governance, monitoring or oversight, whether by us or others, could result in our AI applications not operating as intended or with reduced functionality, reduced acceptance of our products and services or diminished confidence in the decisions, predictions, analysis or other content that our AI applications produce.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on governance/oversight failures related to AI, expanding the AI risk narrative already introduced."
+  },
+  {
+   "text": "Such risks may be heightened as AI applications are integrated into a broader range of our products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "States that AI risks may increase as AI is integrated further, an expansion of the existing AI risk discussion."
+  },
+  {
+   "text": "This could subject us to regulatory scrutiny, competitive harm, legal liability and reputational damage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential consequences (regulatory scrutiny, legal liability) of AI risks already discussed."
+  },
+  {
+   "text": "We may rely in part on third-party models, datasets, cloud infrastructure or other technologies in developing or offering certain AI applications.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific dependency risk on third-party AI models, datasets, and cloud infrastructure."
+  },
+  {
+   "text": "Our reliance on such third parties exposes us to risks relating to performance, availability, security vulnerabilities, intellectual property claims, licensing restrictions, cost increases or changes in terms of service.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific risks (IP, licensing, cost) stemming from the third-party reliance just introduced."
+  },
+  {
+   "text": "If a third-party provider modifies, suspends or terminates access to its models, data or infrastructure, or if such technologies fail to perform as expected, our ability to offer, scale or support certain AI applications may be adversely affected, and we may incur additional costs to mitigate such impacts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences if third-party AI providers modify or terminate access, expanding the third-party reliance risk."
+  },
+  {
+   "text": "The rapid evolution of AI technologies and related regulatory requirements will require the allocation of significant resources to develop, test, monitor and maintain our products and services in order to comply with applicable laws and regulations and to address concerns relating to accuracy, bias, transparency, explainability, security and data provenance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new resource-allocation risk tied to keeping pace with AI regulatory requirements and technical standards."
+  },
+  {
+   "text": "AI technologies may produce content that is inaccurate, misleading, biased, offensive or unsafe, and may implicate privacy, security or intellectual property rights, including through the generation of copyrighted or other protected material.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about AI-generated content being inaccurate, biased, or infringing intellectual property."
+  },
+  {
+   "text": "If our customers or others rely on such content to their detriment, or if regulators or rights holders assert claims relating to AI-generated content, we may be exposed to litigation, regulatory investigations, enforcement actions, indemnification obligations, monetary penalties or other liabilities, or reputational harm.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes legal/reputational consequences from reliance on AI-generated content, extending the previously introduced content risk."
+  },
+  {
+   "text": "The volume, complexity and scope of these regulatory requirements may continue to increase, including in response to heightened geopolitical tensions.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about increasing regulatory complexity, expanding on already-introduced regulatory risk themes."
+  },
+  {
+   "text": "As a result, we and our customers may become subject to additional regulatory burdens.",
+   "category": "expanded_existing_risk",
+   "rationale": "Follows directly from prior sentence about regulatory complexity, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "Historically, certain legal frameworks have provided safe harbors to companies that host or transmit content provided by others, including limitations on liability for monetary damages arising from copyright infringement or defamation based on customer-provided content.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific legal risk regarding erosion of safe harbor protections for hosted/transmitted content."
+  },
+  {
+   "text": "There is increasing legislative, regulatory and judicial scrutiny of these safe harbors, and ongoing legal efforts to repeal, narrow or limit these protections that were previously available to us.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the scrutiny and erosion of the safe harbor protections just introduced."
+  },
+  {
+   "text": "In addition, we may be subject to increased liability exposure or regulatory scrutiny related to the use of certain technologies associated with the collection, management or processing of data, including the use of cookies and similar technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific compliance risk tied to cookies and data processing technologies."
+  },
+  {
+   "text": "Additionally, recent governmental actions and geopolitical developments have increased the perceived risk that our services, particularly in the EU, could be disrupted, suspended or terminated.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new geopolitical risk of service disruption or termination, particularly in the EU."
+  },
+  {
+   "text": "Although the claims were initially dismissed, that decision was later reversed on appeal, and that matter remains pending before the Dutch Supreme Court.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new litigation development (Dutch Supreme Court appeal), a concrete new legal risk detail."
+  },
+  {
+   "text": "As these laws and regulations are implemented, interpreted and enforced, they may impose additional compliance obligations or restrictions on our products, services or business practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about evolving laws imposing new compliance obligations, expanding on already-introduced regulatory risk."
+  },
+  {
+   "text": "If this position becomes widely accepted, intellectual property ownership and license rights, including copyright, may be limited, or not available at all, for inventions or works developed in part or wholly by AI technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific IP risk regarding uncertain ownership/licensing of AI-generated works."
+  },
+  {
+   "text": "Furthermore, the use or adoption of AI technologies in our products and services may expose us to copyright infringement or other intellectual property misappropriation claims related to AI training or output.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of copyright infringement claims tied to AI training or output."
+  },
+  {
+   "text": "Our business depends, in part, on sales to government organizations, and significant changes in the contracting or fiscal policies of such government organizations could adversely affect our business and operating results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard risk factor language about dependence on government sales and fiscal policy changes, a common longstanding risk restated rather than newly introduced."
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "ticker": "EFX",
+ "sector": "Industrials",
+ "filing_date": "2026-02-19",
+ "accession": "0000033185-26-000010",
+ "prior_accession": "0000033185-25-000025",
+ "model": "claude-sonnet-5",
+ "n_added": 16,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 5
+ },
+ "items": [
+  {
+   "text": "For example, artificial intelligence can automate and hyper-personalize existing attack vectors like phishing and deepfakes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new threat vector: AI-enabled automation and hyper-personalization of phishing and deepfake attacks, which is a concrete new cybersecurity risk not previously described."
+  },
+  {
+   "text": "In addition, a significant portion of our revenue is derived from products and services that incorporate intellectual property licensed from third party business partners.",
+   "category": "reworded_same_meaning",
+   "rationale": "States a general dependency on third-party licensed IP; nearly identical in substance to sentence 6, appears to be a duplicate/rephrasing rather than a new distinct risk."
+  },
+  {
+   "text": "We remain in a period of economic uncertainty in the U.S. and the international markets in which we operate, including uncertainty regarding expectations for inflation and interest rates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about economic uncertainty and inflation/interest rate expectations, common cautionary language without specific new risk detail."
+  },
+  {
+   "text": "Our current planning for 2026 assumes that U.S. economic activity, as measured by GDP, will grow at a rate consistent with 2025, and that economic activity in the international markets in which we operate will grow at levels below those experienced in 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific forward-looking planning assumptions about 2026 GDP growth and international market growth rates, expanding on the general economic risk with more detail."
+  },
+  {
+   "text": "The direction of global economies, inflation and interest rates has an impact on the demand for our services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that economic conditions affect demand, a standard boilerplate risk framing."
+  },
+  {
+   "text": "Our markets are highly competitive.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple generic statement about competitive markets, no specific new detail."
+  },
+  {
+   "text": "In addition, a significant portion of our revenue is derived from products and services that incorporate intellectual property licensed from key business partners.",
+   "category": "reworded_same_meaning",
+   "rationale": "Essentially the same statement as sentence 1 with minor wording change ('key' vs 'third party'), restating the same IP licensing dependency."
+  },
+  {
+   "text": "Our existing license agreements have fixed terms and are subject to periodic renewal.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new detail about license agreements having fixed terms subject to periodic renewal, a concrete contractual risk not previously mentioned."
+  },
+  {
+   "text": "If these agreements expire or are not renewed on acceptable terms that allow us to continue to sell these products and services as currently provided, our customers could reduce their business with us in order to obtain these products and services from our competitors or directly from our business partners, which could have a material adverse effect on our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the renewal risk introduced in sentence 7 by detailing the adverse business consequences if agreements are not renewed."
+  },
+  {
+   "text": "Recently, we have accelerated our introduction of new products and services, which may increase pressure on our existing operational processes and increase the risks stated above.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk tied to accelerated product/service introduction increasing operational pressure, a concrete new business risk."
+  },
+  {
+   "text": "In addition, our investments in new technology, including artificial intelligence technology, may not yield the return on investment we anticipate and have a negative impact on our operating margins.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about AI technology investments not yielding expected returns and harming margins, a concrete new financial risk."
+  },
+  {
+   "text": "Congress has also enacted legislation to reform government benefit programs which may impact contracting with federal and state government agencies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk tied to Congressional legislation reforming government benefit programs affecting contracting."
+  },
+  {
+   "text": "Insourcing, or transitioning to domestic U.S.-based outsourcing vendors, could cause us to incur significant costs, result in unrealized efficiencies and adversely impact our results of operations and our financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding insourcing/domestic outsourcing transitions causing costs and inefficiencies."
+  },
+  {
+   "text": "The establishment of tariffs, changes in tax policy or other restrictions on commerce or business operations by the U.S. or other countries in which we have operations could increase our costs or limit our access to certain technology or services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about tariffs and trade/tax policy changes potentially increasing costs or limiting access to technology/services."
+  },
+  {
+   "text": "Compliance with these laws and regulations may cause us to incur significant expenses and change our business practices, and if we fail to maintain satisfactory compliance with certain laws and regulations, we could be subject to civil or criminal penalties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic compliance risk language about incurring expenses and potential penalties for regulatory non-compliance, a standard boilerplate statement."
+  },
+  {
+   "text": "Despite our efforts to protect our intellectual property rights, others may independently develop similar products, duplicate our products or design around our intellectual property rights.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic IP risk statement about competitors independently developing or duplicating products, common boilerplate language in IP risk sections."
+  }
+ ]
+}

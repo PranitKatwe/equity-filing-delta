@@ -1,0 +1,218 @@
+{
+ "ticker": "GPN",
+ "sector": "Financials",
+ "filing_date": "2026-02-20",
+ "accession": "0001123360-26-000008",
+ "prior_accession": "0001123360-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 25,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "In executing and delivering on our transformation initiatives, we have incurred and anticipate incurring incremental expenses related to this program through the first half of 2027, including but not limited to changes to the recoverability of assets and our estimates of remaining useful lives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific financial detail (expenses through 2027, asset recoverability) to the existing transformation initiative risk."
+  },
+  {
+   "text": "5 Table of Contents Recent Business Acquisitions and Dispositions Acquisition of Worldpay Holdco, LLC and Disposition of Issuer Solutions In January 2026, we acquired 100% of Worldpay Holdco, LLC (\u201cWorldpay\u201d) from Fidelity National Information Services, Inc.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a major new acquisition (Worldpay) and simultaneous disposition, a significant new business event not previously disclosed."
+  },
+  {
+   "text": "(\u201cFIS\u201d) and affiliates of GTCR LLC (\u201cGTCR\u201d) (\"Worldpay Acquisition\") and divested our Issuer Solutions business to FIS.",
+   "category": "new_substantive_risk",
+   "rationale": "Details the parties and structure of the new acquisition/divestiture transaction."
+  },
+  {
+   "text": "Worldpay is an industry-leading payments technology and solutions company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic descriptive statement about the acquired company with no risk content."
+  },
+  {
+   "text": "Consideration paid to GTCR for its ownership interest in Worldpay consisted of (1) approximately $6.2 billion in cash and (2) 43.3 million shares of Global Payments common stock.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific large financial consideration paid, a new material financial exposure."
+  },
+  {
+   "text": "Consideration received for the divestiture of our Issuer Solutions business consisted of (1) approximately $7.7 billion in cash and (2) FIS\u2019 ownership interest in Worldpay.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific large financial consideration received, a new material financial detail."
+  },
+  {
+   "text": "The acquisition of Worldpay and divestiture of our Issuer Solutions business occurred simultaneously.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about timing of transactions with no new risk."
+  },
+  {
+   "text": "Both transactions are subject to customary working capital and other adjustments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard boilerplate about customary adjustments in M&A deals."
+  },
+  {
+   "text": "We are providing certain transition services to support the Issuer Solutions business as it is integrated with FIS and are also receiving certain transition services from FIS in support of our integration of Worldpay.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about transition services related to the ongoing integration risk."
+  },
+  {
+   "text": "(\"Payroll Solutions\"), our payroll business included in our Merchant Solutions segment prior to disposition, to Acrisure, LLC (\"Acrisure\") for approximately $1.1 billion, including up to $75 million of contingent consideration.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific divestiture transaction with financial terms."
+  },
+  {
+   "text": "In connection with the transaction, we entered into a mutual referral agreement and long-term commercial partnership with Acrisure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a partnership agreement without introducing a specific risk."
+  },
+  {
+   "text": "Business Segments Beginning in the second quarter of 2025, the results of our Issuer Solutions business have been reported as discontinued operations and therefore, no longer presented as a reportable segment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Administrative reporting change, not a risk factor."
+  },
+  {
+   "text": "Segment information presented is based on our Merchant Solutions reportable segment prior to the acquisition of Worldpay.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifies basis of segment presentation, administrative in nature."
+  },
+  {
+   "text": "In connection with the acquisition of Worldpay in 2026, we will be revising our organizational structure and related internal management reporting.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes organizational restructuring plan, administrative not risk-specific."
+  },
+  {
+   "text": "Therefore, beginning in the first quarter of 2026, our reportable segments will align with that revised structure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further administrative detail on segment realignment timing."
+  },
+  {
+   "text": "We completed the development and commercial launches of our modernized client-facing applications in 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of completed technology development, not a risk."
+  },
+  {
+   "text": "We believe our robust technology solutions will continue to differentiate us in the marketplace and position us for continued growth. \u2022 Global Footprint and Distribution - Our worldwide presence allows us to focus our investments on markets with promising gross domestic product fundamentals and favorable secular trends, makes us more attractive to certain customers with international operations and exposes us to emerging innovations that we can adopt globally, while diversifying our economic risk.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General positive framing about global footprint, no new risk."
+  },
+  {
+   "text": "These team member statistics include Issuer Solutions, which is classified as a discontinued operation in our consolidated financial statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifies inclusion of discontinued operations in statistics, administrative note."
+  },
+  {
+   "text": "Consumer Protection The Federal Trade Commission (\u201cFTC\u201d) regulates non-bank businesses and, among other things, protects consumers against unfair and deceptive practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of FTC's regulatory role, standard boilerplate."
+  },
+  {
+   "text": "We provide payment processing services to businesses, but because our services enable consumer commerce and consumer spending, the FTC may regulate our business and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on how FTC regulation could apply to the company's existing business model."
+  },
+  {
+   "text": "The FTC may determine that our business engages in unfair or deceptive practices which harm consumers, that we have enabled merchant fraud by failing to establish sufficient fraud monitoring and fraud prevention policies, or that we deploy deceptive marketing strategies which fail to accurately describe our services, fees, pricing, or the allocation of risks to our customers and to consumers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific potential FTC findings of unfair/deceptive practices and merchant fraud enablement."
+  },
+  {
+   "text": "The FTC could bring an action against our business, which could result in monetary sanctions, mandates to terminate certain services, enhanced monitoring and compliance requirements, and reputational damage.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific consequences of FTC action, expanding on the regulatory risk already noted."
+  },
+  {
+   "text": "In January 2026, the Ninth Circuit Court of Appeals enjoined SB 261 for the time that appeals remain pending before the Ninth Circuit.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports a specific new legal development (Ninth Circuit injunction) affecting regulatory risk."
+  },
+  {
+   "text": "18 Table of Contents \u2022 Our balance sheet includes significant amounts of goodwill and other intangible assets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Heading-like statement about goodwill/intangibles with no new detail."
+  },
+  {
+   "text": "These threats may be facilitated and exacerbated by the use of AI technologies, which may increase system complexity, expand data usage, and introduce new attack surfaces or modes of exploitation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of AI technologies exacerbating cybersecurity threats and attack surfaces."
+  },
+  {
+   "text": "We may not be able to effectively mitigate these risks or to implement new technology to address these risks in a timely fashion.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about inability to mitigate risks, extending existing cybersecurity risk language."
+  },
+  {
+   "text": "The acquisition and integration of Worldpay involves a number of risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new integration risk specific to the Worldpay acquisition."
+  },
+  {
+   "text": "The combination of two independent businesses is complex, costly and time consuming, and we will be required to devote significant management attention and resources to integrating the business practices and operations of Worldpay.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on complexity and cost of integrating Worldpay, expanding the acquisition risk."
+  },
+  {
+   "text": "Worldpay provides services to 25 Table of Contents a large portfolio of high risk merchants who promise future delivery of goods and services, and upon our acquisition of Worldpay, we have increased exposure to merchants who present a heightened financial risk to our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new exposure to high-risk merchants from Worldpay acquisition."
+  },
+  {
+   "text": "These risk mitigation processes and policies do not guarantee that we will not experience losses in connection with merchant chargebacks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that risk mitigation doesn't guarantee no losses."
+  },
+  {
+   "text": "Events outside of our control and outside of a merchant\u2019s control, including macroeconomic trends, geopolitical developments, and natural disasters may increase the likelihood of chargebacks to certain merchants and, accordingly, losses to our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing chargeback risk with additional causal factors like macro trends and disasters."
+  },
+  {
+   "text": "Many merchants in our enterprise merchant segment have non-exclusive agreements with multiple providers of payment processing services and receive services simultaneously from multiple providers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new competitive risk regarding merchants using multiple payment providers."
+  },
+  {
+   "text": "These large merchants frequently have the contractual right and the technical capabilities to redirect and reallocate transaction volume between payment processors at any time and in their discretion.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details merchants' contractual ability to redirect volume, expanding competitive risk."
+  },
+  {
+   "text": "There are many reasons why an enterprise merchant may decide to direct transaction volume away from us including a failure by us to provide services in accordance with merchants\u2019 expectations and an offer for more competitive pricing by another provider.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further explains reasons for merchant attrition, expanding competitive risk detail."
+  },
+  {
+   "text": "For example, any direct or indirect use of AI and machine learning is subject to risks that algorithms and datasets are flawed or may be insufficient or contain biased information.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding flawed AI/ML algorithms and biased data."
+  },
+  {
+   "text": "In addition, the models and processes relating to AI and machine learning are not always transparent, which could increase the risk of unintended deficiencies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands AI risk discussion with transparency concerns."
+  },
+  {
+   "text": "These deficiencies could result in inaccurate and ineffective decisions, predictions or analysis, which could subject us to competitive harm, legal liability, increased regulatory scrutiny, reputational harm or other consequences that we may not be able to predict, any of which could adversely affect our business, financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential consequences of AI deficiencies, expanding existing AI risk narrative."
+  },
+  {
+   "text": "See \"\u2014Legal, Regulatory Compliance and Tax Risks\u2014Our business is subject to government regulation and oversight.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, no new risk content."
+  },
+  {
+   "text": "Any new implementation of or changes made to laws, regulations or other industry standards affecting our business in any of the geographic regions in which we operate may require significant development and compliance efforts or have an unfavorable effect on our ability to continue to offer certain services, which could adversely affect our business, financial condition, results of operations and cash flows \" for further information about the government regulation and oversight of AI technologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands regulatory risk to explicitly cover AI-related laws and standards."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act (\u201cOBBBA\u201d) was enacted in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Reports a new specific legislative change (OBBBA) that could affect tax and business operations."
+  }
+ ]
+}

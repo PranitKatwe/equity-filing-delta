@@ -1,0 +1,218 @@
+{
+ "ticker": "GDDY",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-25",
+ "accession": "0001609711-26-000010",
+ "prior_accession": "0001609711-25-000023",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 15
+ },
+ "items": [
+  {
+   "text": "For example, following the launch of Airo in 2023, we have continued to enhance our AI-powered experience, most recently transforming the platform into an agentic solution built to handle our customers fundamental jobs to be done, such as domain searches and naming, logo creation and building websites and applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a product feature launch (Airo/agentic AI) as business context, not a risk statement."
+  },
+  {
+   "text": "We also continue to expand our commerce offerings, for example, we recently launched GoDaddy Capital, a merchant cash advance program, and Same-Day Payouts, an option for customers to elect to receive their payouts on the same day as the payment is processed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new commerce product offerings; factual business context, not a risk."
+  },
+  {
+   "text": "Our use, development, adoption, deployment and maintenance of AI and other new and evolving technologies may present significant risks, which could result in increased costs, litigation, reputational harm and liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific risk that AI use/development could cause increased costs, litigation, reputational harm and liability."
+  },
+  {
+   "text": "We also are developing and deploying agentic AI systems that operate with greater autonomy, which presents additional risks, including unintended or unauthorized actions and increased difficulty in predicting, supervising and controlling agentic behavior.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk about autonomous agentic AI systems causing unintended/unauthorized actions."
+  },
+  {
+   "text": "Our use of AI could also pose other concerns.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague transitional sentence with no specific risk content."
+  },
+  {
+   "text": "For further information concerning the risks posed by our competitors' use of AI, please refer to the Risk Factor \"We face significant competition for our products, which we expect will continue to intensify, and we may not be able to maintain or improve our competitive position or market share.\" Evolving technologies, including AI-based technologies, and changes in customer behavior and practices with respect to the internet may impact the demand for and value of our products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor, not new substantive content."
+  },
+  {
+   "text": "Technologies related to our customers' Identity and Presence, including domain names, websites, website building, social media, search engines, apps, mobile devices and AI-powered tools and services have rapidly evolved and continue to evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General descriptive statement about technology evolution, contextual framing."
+  },
+  {
+   "text": "This evolution and continued evolution could negatively impact the demand for certain of our products and services, including domain names, aftermarket, websites and website building tools or email and productivity solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how technology evolution could reduce demand, expanding an existing risk theme."
+  },
+  {
+   "text": "Additionally, technological changes to web browsers or internet search could reduce demand for domain names.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies browser/search technology changes as a driver of reduced domain demand, expanding prior risk."
+  },
+  {
+   "text": "If internet users' preferences or practices shift away from recognizing and relying on web addresses or they were to significantly decrease their use of web browsers in favor of apps or AI-based tools to locate and access content, demand for domain names in the gTLDs we operate could be negatively affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk that AI-based tools could reduce reliance on web addresses/domain names, directly threatening core business."
+  },
+  {
+   "text": "26 Table of Contents Our customers and their businesses rely heavily on tools and solutions that help them manage and grow their Presence, including dedicated websites, online stores and social media channels, such as Meta, TikTok, Snapchat, X and WeChat.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists third-party platforms customers use; contextual, not a risk statement."
+  },
+  {
+   "text": "In addition, advances in AI, including tools that enable customers to create, modify, and deploy websites, applications or digital experiences using AI-powered platforms, including those that utilize natural language or other high-level inputs rather than traditional development workflows, may alter customer expectations and behavior with respect to website creation, hosting and management.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk that AI-powered platforms could alter customer behavior around website creation, a new competitive dynamic."
+  },
+  {
+   "text": "If customers increasingly rely on third-party AI platforms, closed ecosystems or other competing services, including those that offer automated or natural-language-driven website creation and hosting capabilities, demand for our website building tools, hosting products, domain names or related services could decline or pricing pressure could increase, which could materially and adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the AI platform competitive risk introduced just before, specifying pricing/demand impacts."
+  },
+  {
+   "text": "These and other evolving technologies, including AI, and changes in customer behavior may have an adverse effect on our business and growth prospects.",
+   "category": "reworded_same_meaning",
+   "rationale": "General summary statement restating that evolving tech/AI could adversely affect business, without new specifics."
+  },
+  {
+   "text": "If we fail to successfully and meaningfully develop, adopt, use, differentiate and maintain AI capabilities into our solutions and internal operations, effectively manage the related risks or if we are unable to translate AI adoption into tangible outcomes, such as improved productivity, enhanced customer experience or accelerated innovation, we may lag our competitors that are more effective at leveraging AI technologies and/or our growth and competitiveness could suffer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of falling behind competitors due to failure to effectively adopt AI internally."
+  },
+  {
+   "text": "In addition, we continue to expand our employee base in a number of international locations, including in India, Bulgaria and Serbia.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about expanding employee base in certain countries; contextual, not a risk."
+  },
+  {
+   "text": "Our international business and operations subject us to a variety of risks, including related to political, economic, social and other risks, some of which we may not generally encounter in the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about international business risks without specifics."
+  },
+  {
+   "text": "In addition, geopolitical changes, such as trade disruptions, including the imposition of tariffs by the U.S. on imports from certain countries and any resulting counter-tariffs, political unrest, warfare and military or armed conflict, including those involving China, Ukraine/Russia and the Middle East and the resulting macro-economic impacts from such geopolitical changes, could impair our growth prospects and adversely affect our business, operating results and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific geopolitical risk drivers (tariffs, China, Ukraine, Middle East) to existing international risk factor."
+  },
+  {
+   "text": "Although our business has not been materially negatively impacted to date by the conflicts between Russia and Ukraine and those in the Middle East, our business and operations could be materially negatively impacted by these or other conflicts or geopolitical changes in the future, and it is impossible to predict the extent of any such impacts, including over the long term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on impact disclaimer for existing geopolitical conflicts, expanding prior risk disclosure."
+  },
+  {
+   "text": "In addition, the migration of information and data can create additional exposure to cyber attacks and other cybersecurity incidents, including, but not limited to, improper access to our or our customers' websites and data (including personal data).",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific cybersecurity risk related to data migration, expanding existing cybersecurity risk factor."
+  },
+  {
+   "text": "Our monitoring and updates to our controls and oversight frameworks may be insufficient to mitigate impacts to our business as a result of emerging fraud trends.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding insufficient fraud monitoring controls against emerging fraud trends."
+  },
+  {
+   "text": "Our email offerings are a core component of many customers' productivity and daily operations and our ability to provide these services at scale depends, in significant part, on the continued availability, functionality and commercial terms of our partnerships, including with Microsoft and other email providers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific dependency risk on Microsoft and other email providers for core service delivery."
+  },
+  {
+   "text": "We also maintain partnerships to help provide other core services to our customers, including with Norton Small Business, a provider of device security, cloud backup and other security tools, LegalZoom.com, Inc. and ZenBusiness, Inc., providers of business formation services, and with other providers that assist our customers with e-signatures, insurance and bookkeeping.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists business partnerships as factual context, not a risk statement."
+  },
+  {
+   "text": "We also work to make certain of our products interoperable with services such as Yelp, Google, Amazon, WhatsApp and Instagram and, we provide various payment options for customers, including through our partnerships and technical integrations with providers such as PayPal, Stripe, Block and Mercado Libre.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists interoperability and payment partners as factual context."
+  },
+  {
+   "text": "The NIS2 Directive is in the process of being transposed into many E.U. member states' respective national laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes regulatory implementation status of NIS2 Directive, expanding existing regulatory compliance risk."
+  },
+  {
+   "text": "We have in the past and may in the future expand our solutions through acquisitions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about past and future acquisition activity, standard boilerplate."
+  },
+  {
+   "text": "We are subject to periodic examination of our domestic and foreign tax returns by the Internal Revenue Service, state, local and foreign tax authorities, some of whom are challenging our tax positions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure about tax authority examinations, common boilerplate risk language."
+  },
+  {
+   "text": "We regularly assess the likelihood of adverse outcomes from these examinations in determining the adequacy of our provision for income taxes and other tax liabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard process description for tax provision assessment, not a new risk."
+  },
+  {
+   "text": "If the ultimate determination of income and other tax liabilities differ from the amounts recorded or accrued, our business, financial condition or results of operations may be adversely impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic tax liability risk statement, standard boilerplate."
+  },
+  {
+   "text": "The Organization for Economic Co-operation and Development (OECD) has and continues to release guidance and certain countries have enacted legislation, with widespread implementation of the Pillar Two framework expected in the near future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on OECD Pillar Two guidance rollout, expanding existing tax regulatory risk."
+  },
+  {
+   "text": "The Pillar Two framework and associated laws, rules, regulations and guidance across jurisdictions have not yet been fully adopted, implemented or released.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes incomplete adoption of Pillar Two framework, expanding existing tax risk disclosure."
+  },
+  {
+   "text": "Although the U.S. has not enacted legislation to implement the Pillar Two framework, certain countries in which we operate have adopted legislation, and other countries are in the process of introducing legislation to implement the Pillar Two framework.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details jurisdictional adoption status of Pillar Two, expanding existing tax risk."
+  },
+  {
+   "text": "The OECD issued new administrative guidance on January 5, 2026, with respect to the Pillar Two framework which modifies key aspects of the framework for countries to enact their own laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific update on new OECD guidance modifying Pillar Two framework, expanding existing risk."
+  },
+  {
+   "text": "In addition to the above, courts and regulators in certain jurisdictions have adopted, and may continue to adopt, broad or evolving interpretations of the obligations of domain name registrars and registries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding broad regulatory interpretations of domain registrar/registry obligations."
+  },
+  {
+   "text": "Such interpretations may include, among other things, disclosure of registrant information, restrictions on the availability or promotion of certain domain names, limitations on privacy or proxy services, requirements to implement intellectual property protection or anti-fraud measures (including Know Your Customer requirements), and compliance with local court orders or enforcement requests, including in cross-border contexts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific types of regulatory interpretations, expanding the risk introduced just prior."
+  },
+  {
+   "text": "Compliance with such interpretations, or with inconsistent or conflicting legal requirements across jurisdictions, may increase our costs, require operational changes, limit certain product offerings or expose us to increased litigation, regulatory scrutiny, fines, penalties or enforcement actions, including restrictions on our ability to operate or offer services in certain markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential consequences (costs, litigation, restrictions) of compliance, expanding the newly introduced regulatory risk."
+  },
+  {
+   "text": "For more information, please refer to the Risk Factor \"Our business could be affected by new laws, rules, regulations or court orders regarding the internet.\" ICANN periodically authorizes the introduction of new TLDs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor and factual note about ICANN TLD process."
+  },
+  {
+   "text": "Pursuant to the settlement agreement and related order, GoDaddy is required to comply with specific requirements, including those related to the security of our hosting services, for at least 20 years.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new legal obligation from a settlement agreement requiring 20-year compliance on hosting security."
+  },
+  {
+   "text": "Various jurisdictions have enacted laws that impose requirements related to content moderation, transparency and advertising practices.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory risk regarding content moderation and advertising laws across jurisdictions."
+  },
+  {
+   "text": "For example, the European Union's Digital Services Act (DSA) includes provisions related to notice and takedown obligations, advertising restrictions, reporting obligations, and content moderation processes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific example (EU DSA) elaborating on the content moderation regulatory risk just introduced."
+  }
+ ]
+}

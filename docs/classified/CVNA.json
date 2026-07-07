@@ -1,0 +1,178 @@
+{
+ "ticker": "CVNA",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-18",
+ "accession": "0001690820-26-000009",
+ "prior_accession": "0001690820-25-000074",
+ "model": "claude-sonnet-5",
+ "n_added": 32,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "Further, elevated and volatile interest rates have pressured and may again pressure consumer affordability and monthly payments, which may reduce demand for used vehicles.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on existing interest rate risk by adding detail about consumer affordability impacts on used vehicle demand."
+  },
+  {
+   "text": "The extent and duration of these impacts are inherently uncertain and could vary materially across geographies and over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty and variability without specific new risk content."
+  },
+  {
+   "text": "Increased benchmark interest rates, widening credit spreads, reduced lender appetite for automotive or consumer-credit exposures, or rating downgrades could increase our borrowing costs or limit our access to capital.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing interest rate/credit market risk by specifying mechanisms that could raise borrowing costs or limit capital access."
+  },
+  {
+   "text": "For example, AI-driven automation and virtual assistants may streamline dealership operations, improve customer engagement, and increase efficiency in sourcing and managing used vehicles, which could significantly alter competitive dynamics and operational requirements in the automotive market.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive risk from AI-driven automation altering dealership operations and market dynamics."
+  },
+  {
+   "text": "Price volatility can also complicate pricing algorithms, appraisal accuracy, and residual value assumptions, potentially leading to increased return rates, inventory write-downs, or reduced financing proceeds.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing pricing/valuation risk by detailing how price volatility affects algorithms and residual values."
+  },
+  {
+   "text": "Our compliance obligations may vary by jurisdiction and change without advance notice.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic compliance statement with no specific new risk detail."
+  },
+  {
+   "text": "Consumer protection, insurance, and licensing requirements for ancillary products may also evolve in the future, increasing costs and limiting product design and attach rates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing regulatory risk to cover evolving consumer protection and licensing requirements for ancillary products."
+  },
+  {
+   "text": "Capacity constraints, labor shortages, and regulatory changes affecting hours-of-service and emissions may increase cost-to-deliver and extend cycle times.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new operational risks tied to capacity constraints, labor shortages, and hours-of-service/emissions regulations."
+  },
+  {
+   "text": "16 Our use of artificial intelligence may not perform as expected and could expose us to technological, operational, legal, and reputational risks that could adversely affect our business, financial condition, and results of operations We increasingly develop and deploy AI technology through third party generative AI platforms and internal software, in connection with our proprietary systems and customer experiences, including automated, self-service workflows, AI-enabled customer support tools, internal work efficiencies, and enhancement of our recruiting and hiring processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor concerning the company's use of AI technologies and associated operational/legal exposure."
+  },
+  {
+   "text": "These initiatives are complex, rapidly evolving, and inherently uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complexity and uncertainty without specific risk detail."
+  },
+  {
+   "text": "There is no assurance that our AI capabilities will function as intended, deliver anticipated benefits, or scale cost-effectively.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the newly introduced AI risk regarding uncertainty of performance."
+  },
+  {
+   "text": "The performance, quality, and impact of AI models depend on numerous factors, including the availability and integrity of training data, model design, computational resources, integration with our operations and technology stack, and ongoing monitoring and governance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail on factors affecting AI performance, expanding the AI risk topic."
+  },
+  {
+   "text": "If our AI systems or those third party platforms we utilize underperform, produce inaccurate, incomplete, or biased outputs, hallucinate or fail under edge cases, degrade customer experiences, inadvertently disclose or misuse intellectual property, or otherwise fail to meet expectations, we could experience decreased conversion, operational disruptions, increased costs, reduced margins, customer dissatisfaction, negative publicity, or harm to our brand and competitive position.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific negative consequences of AI underperformance, expanding on the AI risk already introduced."
+  },
+  {
+   "text": "Increased use of AI may additionally result in cybersecurity, data privacy, and labor and employment risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific risk categories (cybersecurity, privacy, labor) linked to AI use, expanding the AI risk factor."
+  },
+  {
+   "text": "The laws, rules, standards, and guidance relating to AI are developing rapidly and vary across jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes evolving AI-related regulation, expanding the previously introduced AI risk."
+  },
+  {
+   "text": "We may be subject to evolving requirements regarding transparency, fairness, explainability, safety, data usage and provenance, content integrity, consumer protection, and algorithmic accountability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies regulatory areas related to AI, expanding on the AI compliance risk."
+  },
+  {
+   "text": "If we use AI in ways that regulators view as unfair, deceptive, discriminatory, or otherwise noncompliant, we could face heightened scrutiny, investigations, enforcement actions, private litigation, or requirements to modify, suspend, or cease certain AI-enabled practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential regulatory enforcement actions related to AI use, expanding the AI risk."
+  },
+  {
+   "text": "To the extent AI touches areas implicating privacy, information security, intellectual property, credit and financing, or other regulated activities, we may incur additional compliance obligations and associated costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on compliance costs associated with AI use in regulated areas."
+  },
+  {
+   "text": "The development and deployment of AI requires ongoing investments in talent, infrastructure, data quality, tooling, and governance frameworks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes investment requirements for AI development, expanding on the AI risk factor."
+  },
+  {
+   "text": "These investments may be significant and may not result in improvements to growth, margins, or customer experience.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes potential lack of ROI from AI investments, expanding the AI risk factor."
+  },
+  {
+   "text": "We may need to devote additional resources to testing, monitoring, documentation, and controls to address emerging standards and mitigate model risks, including bias, fairness, and safety.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details additional resource needs for AI risk mitigation, expanding the AI risk factor."
+  },
+  {
+   "text": "If we are unable to develop, procure, integrate, or govern AI technologies effectively; if third-party AI providers or inputs are unavailable, unreliable, or more costly; if regulatory requirements materially constrain AI use; or if our AI initiatives otherwise fail to meet expectations, our business, financial condition, and results of operations could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes potential adverse effects if AI initiatives fail, consolidating the previously introduced AI risk."
+  },
+  {
+   "text": "We also rely on third\u2011party service providers and vendors that process information on our behalf.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces reliance on third-party vendors processing information, a new specific risk vector."
+  },
+  {
+   "text": "We have limited ability to control their security and privacy practices, and contractual protections and due diligence may not prevent all incidents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the third-party vendor risk by noting limited control over their security practices."
+  },
+  {
+   "text": "A security incident at a third party could have similar adverse effects on us as an incident on our own systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential impact of third-party security incidents, expanding the vendor risk."
+  },
+  {
+   "text": "In June 2025, we received a subpoena from the SEC requesting information that we believe primarily relates to allegations raised by a report published by a now-defunct short-selling firm.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new legal matter\u2014an SEC subpoena related to short-seller allegations."
+  },
+  {
+   "text": "We currently cannot predict the outcome of this matter.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes uncertainty about outcome of the newly disclosed SEC subpoena, expanding that risk."
+  },
+  {
+   "text": "For more information, see Item 3.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another section, not a substantive risk statement."
+  },
+  {
+   "text": "In addition, our ability to sell automotive finance receivables on acceptable terms depends on investor demand and liquidity in the asset-backed securities and whole-loan markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific liquidity risk tied to selling auto finance receivables in capital markets."
+  },
+  {
+   "text": "A reduction in investor demand, widening credit spreads, or changes in underwriting expectations could adversely affect execution, including required discounts, advance rates, and time to sale.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific negative effects on execution terms, expanding the newly introduced liquidity risk."
+  },
+  {
+   "text": "For example, changes in corporate tax rates or in the treatment of basis adjustments have reduced and may again reduce the value of such tax benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific tax risk regarding changes in corporate tax rates affecting basis adjustment benefits."
+  },
+  {
+   "text": "Sustained or significant declines in our stock price could also increase the likelihood of stockholder litigation, which could result in substantial costs and divert management attention.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific litigation risk tied to stock price declines."
+  }
+ ]
+}

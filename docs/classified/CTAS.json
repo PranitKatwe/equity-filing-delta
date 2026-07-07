@@ -1,0 +1,38 @@
+{
+ "ticker": "CTAS",
+ "sector": "Industrials",
+ "filing_date": "2025-07-28",
+ "accession": "0000723254-25-000017",
+ "prior_accession": "0000723254-24-000036",
+ "model": "claude-sonnet-5",
+ "n_added": 4,
+ "n_substantive": 3,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Emerging artificial intelligence technologies may intensify these cybersecurity risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor: AI technologies intensifying cybersecurity threats, which was not previously identified."
+  },
+  {
+   "text": "The rapid, ongoing evolution and increased adoption of emerging technologies such as artificial intelligence and machine learning may make it more difficult to anticipate and implement protective measures to recognize, detect, and prevent the occurrence of any of the cyber events.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing cybersecurity risk by specifying that emerging tech like AI/ML complicates detection and prevention, expanding on prior general cyber risk discussion."
+  },
+  {
+   "text": "However, there can be no assurance that we will not experience material cybersecurity incidents in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that no assurance can be given against future incidents, typical boilerplate language."
+  },
+  {
+   "text": "Additionally, we cannot be certain that any insurance coverage will be adequate for cybersecurity liabilities actually incurred, that insurance will continue to be available to us on economically reasonable terms, or at all, or that our insurer will not deny coverage as to any future claim.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about insurance coverage limitations for cybersecurity liabilities, expanding on existing risk discussion rather than introducing a new one."
+  }
+ ]
+}

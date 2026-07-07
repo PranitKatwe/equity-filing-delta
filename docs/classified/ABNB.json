@@ -1,0 +1,218 @@
+{
+ "ticker": "ABNB",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-12",
+ "accession": "0001559720-26-000004",
+ "prior_accession": "0001559720-25-000010",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 31
+ },
+ "items": [
+  {
+   "text": "We operate a global marketplace connecting guests with stays, experiences, and services, collectively in over 220 countries and regions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of business scope/geographic footprint, not a risk statement."
+  },
+  {
+   "text": "Our offerings have expanded to include services and redesigned experiences, which launched in May 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a product launch (services) with no risk implication stated."
+  },
+  {
+   "text": "Our commitment to making long-term decisions that benefit all these stakeholders is fundamental to our sustained success.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic stakeholder commitment language, purely aspirational framing."
+  },
+  {
+   "text": "In 2025, we continued to deliver host improvements, including updates to cancellation policies that make it easier for hosts to earn income, better pricing tools and price tips, and a refreshed messages tab.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive list of host feature improvements, no risk identified."
+  },
+  {
+   "text": "In 2025, we launched a redesigned app experience featuring unified search and booking for all offerings, artificial intelligence (\u201cAI\u201d)-powered personalization, and integrated social features that allow guests to connect with co-travelers or experience attendees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new app features, purely descriptive of product, not a risk."
+  },
+  {
+   "text": "Guests benefit from flexible payment options, including Pay Less Upfront and Reserve Now, Pay Later.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes payment options available to guests, no risk framing."
+  },
+  {
+   "text": "Additionally, guests can utilize enhanced search tools and improved maps to help find high-quality, reliable options that fit their preferences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about search/maps features, no risk content."
+  },
+  {
+   "text": "In 2025, we made further investments in technology and processes to enhance trust and safety across our platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about investment in trust and safety, no specific risk."
+  },
+  {
+   "text": "During 2025, we expanded the use of AI-powered customer service and support features to help more quickly and effectively resolve issues for both hosts and guests.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expansion of AI customer service, descriptive not risk-related."
+  },
+  {
+   "text": "AI capabilities now assist in risk assessment and rapid fraud and scam detection, supplementing our existing review, watchlist, and background check procedures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes AI use in fraud detection as a capability, not a risk statement."
+  },
+  {
+   "text": "We also enhanced automation in case management, supporting more timely response and resolution for urgent situations on the platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes automation improvements, purely descriptive."
+  },
+  {
+   "text": "In 2025, we substantially completed a rebuild of our technology stack, enhancing scalability, reliability, and the pace of innovation across the platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes completion of tech stack rebuild as a positive achievement, no risk noted."
+  },
+  {
+   "text": "This modern architecture enables us to move rapidly in responding to changing customer needs while maintaining stability and correctness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive statement about new architecture enabling agility, not a risk."
+  },
+  {
+   "text": "Our Marketing Our marketing strategy combines brand marketing, communications, performance marketing, and strategic partnerships to increase awareness among existing and potential hosts and guests, demonstrating what makes Airbnb distinct.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes marketing strategy components, purely descriptive."
+  },
+  {
+   "text": "In 2025, we focused on unified brand campaigns promoting our full suite of offerings: homes, experiences, and services, showcasing where guests can seamlessly book all three on Airbnb.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes marketing campaign focus, descriptive not risk."
+  },
+  {
+   "text": "We also leverage select sponsorships and co\u2011marketing collaborations with cultural institutions, sports and entertainment organizations, destinations, and media platforms to amplify our brand, align with key cultural moments, and engage our community globally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes marketing partnerships, descriptive not risk."
+  },
+  {
+   "text": "We continue to promote employee connection and alignment with our business priorities through regular collaboration, including in-person sessions at offices or off-site locations, reinforcing both our remote flexibility and our focus on team cohesion tied to our product roadmap.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee engagement practices, no risk content."
+  },
+  {
+   "text": "Alongside decarbonization in furtherance of our goal, we purchase carbon credits and we expect to continue to do so to ultimately achieve our goals in the long term.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes carbon credit purchasing plans, descriptive sustainability statement."
+  },
+  {
+   "text": "We aim to prioritize projects that meet our internal criteria and provide co-benefits, such as improved biodiversity, economic development, or improved community services and infrastructure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes project selection criteria for sustainability, no risk implication."
+  },
+  {
+   "text": "While many jurisdictions have enacted or updated legislation on short-term rentals, others may do so in the future.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the already-known risk of evolving short-term rental legislation without adding new specifics."
+  },
+  {
+   "text": "Beyond short-term rental regulations, we are also subject to a wide spectrum of laws, rules, regulations, policies, legal interpretations, and regulatory guidance governing our business practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens the scope of regulatory risk beyond short-term rental rules to a wide range of other laws and regulations."
+  },
+  {
+   "text": "Gross Booking Value (\u201cGBV\u201d) generally follows the same seasonal trends as Nights and Seats Booked.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes seasonal financial trend correlation, purely descriptive of business metrics."
+  },
+  {
+   "text": "Holiday timing, such as Easter, and other events can also shift quarterly performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about holiday timing affecting quarterly performance, generic."
+  },
+  {
+   "text": "Higher GBV in the first half of the year typically results in increased unearned fees and higher FCF.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive explanation of seasonal financial mechanics, not a new risk."
+  },
+  {
+   "text": "During the third quarter, GBV is typically lower and check-ins reach their peak, resulting in decreased unearned fees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes seasonal booking patterns, purely descriptive."
+  },
+  {
+   "text": "GBV and FCF are generally the lowest in the fourth quarter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes seasonal low point in GBV/FCF, descriptive financial pattern."
+  },
+  {
+   "text": "During 2025, we introduced new artificial intelligence (\u201cAI\u201d) features to help deliver customer support in certain countries and languages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new AI customer support feature rollout, descriptive not risk."
+  },
+  {
+   "text": "AI presents risks and challenges that could affect the expansion of these features, and therefore our business; for more information, see our risk factor titled \u201cOur use of artificial intelligence and machine learning gives risk to legal, business, and operational risks, which may result in diminished performance, regulatory scrutiny, social impacts, reputational harm, and liability arising from the use of this technology.\u201d In addition, as our global customer base expands, particularly outside of North America and Europe, we face increased pressure to provide efficient, multilingual support.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing AI risk factor by adding new context about multilingual support pressures from global expansion."
+  },
+  {
+   "text": "We operate a global marketplace connecting guests with stays, experiences, and services, collectively in over 220 countries and regions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate of the generic global marketplace description with no risk content."
+  },
+  {
+   "text": "Losses from covered claims have increased, resulting in increased premiums.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific financial risk: increased insurance premiums due to rising covered claims losses."
+  },
+  {
+   "text": "We maintain a contractual liability insurance policy to provide coverage to us for losses incurred by us under the Host Damage Protection program.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existence of a liability insurance policy, largely explanatory rather than a new risk."
+  },
+  {
+   "text": "Our business is seasonal, reflecting typical global travel patterns, with the peak travel season occurring in the third quarter across North America and EMEA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes seasonal travel pattern timing, descriptive business context."
+  },
+  {
+   "text": "We experience seasonality in our Nights and Seats Booked, GBV, Adjusted EBITDA and FCF.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about seasonality across financial metrics, descriptive."
+  },
+  {
+   "text": "Holiday timing and other events can also shift quarterly performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Repeats generic statement about holiday timing affecting performance."
+  },
+  {
+   "text": "In January 2025, Airbnb Ireland signed a similar agreement in settlement of the 2023 audit period for an aggregate payment of 179 million Euro ($186 million).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new tax settlement payment of 179 million Euro, a concrete new financial/legal risk event."
+  },
+  {
+   "text": "Airbnb Ireland commenced withholding on host payments related to Italian listings in 2024.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about withholding tax obligations for Italian listings, expanding on existing tax/regulatory risk."
+  },
+  {
+   "text": "The U.S. federal and state governments, countries in the European Union, and a number of other countries and organizations such as the Organization for Economic Cooperation and Development (the \u201cOECD\u201d), are actively considering changes to existing tax laws that could increase our tax obligations in jurisdictions where we do business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates the existing generic risk of governments considering tax law changes without new specifics."
+  },
+  {
+   "text": "For instance, the EU Short-Term Rental Regulation (\u201cEU STR Regulation\u201d), which intends to enhance and harmonize transparency, listing registration, and reporting requirements for short-term rental platforms, will enter into force in May 2026 and will require additional compliance efforts such as steps to enhance the transparency of certain host information on the platform, and reporting and data sharing to local authorities (e.g. host information; length of stay and number of guests), potentially discouraging and prohibiting current and potential hosts from listing properties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new EU regulation with concrete compliance requirements and potential to prohibit hosts from listing, a new tangible regulatory risk."
+  },
+  {
+   "text": "For example, in 2025, the Spanish Ministry of Consumer Affairs proposed to assess a fine of approximately 65 million Euro ($76 million) in connection with alleged non-compliance with short-term rental listing regulations in Spain.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new fine proposal of 65 million Euro from Spanish regulators, a concrete new legal/financial risk."
+  },
+  {
+   "text": "We cannot guarantee that our approach, either now or in future, will align with the expectations or preferences of any particular stakeholder or that certain disclosures will not be considered erroneous or subject to misinterpretation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about stakeholder expectations and disclosure interpretation, boilerplate risk framing."
+  }
+ ]
+}

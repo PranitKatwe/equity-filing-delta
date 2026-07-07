@@ -1,0 +1,153 @@
+{
+ "ticker": "MGM",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-11",
+ "accession": "0000789570-26-000018",
+ "prior_accession": "0000789570-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 27,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 20
+ },
+ "items": [
+  {
+   "text": "During 2025, the construction of the project progressed as anticipated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about construction progressing as anticipated; no risk content."
+  },
+  {
+   "text": "Additionally, we leverage data, analytics, and predictive modeling to personalize offers and create targeted upsell opportunities, which we expect will enhance customer acquisition, engagement, and value over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a business strategy (data/analytics for upsell) without identifying a risk."
+  },
+  {
+   "text": "Corporate Responsibility We have a longstanding commitment to Corporate Responsibility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General corporate responsibility framing, no specific risk."
+  },
+  {
+   "text": "Our corporate and people strategies and corporate responsibility approach center on uplifting our people and the communities in which we operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mission statement about corporate strategy, not a risk."
+  },
+  {
+   "text": "A comprehensive framework lays out four strategic pillars that guide our work: investing in environmental stewardship; fostering a culture of respect; supporting our communities; and demonstrating responsible business practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes strategic pillars, purely descriptive, no risk."
+  },
+  {
+   "text": "At MGM China, we strictly comply with all local laws and remain committed to expanding employee and community programs that foster a healthy and orderly society.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about compliance and community programs, not a risk."
+  },
+  {
+   "text": "Our streamlined recruitment processes result in faster sourcing and recruitment to meet the needs of the business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes recruitment efficiency, not a risk."
+  },
+  {
+   "text": "We support the long-term career aspirations of our employees through education and professional/personal development and skills-based learning.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee development programs, not a risk."
+  },
+  {
+   "text": "Fostering a Culture of Respect Externally, we strengthen communities and expand business opportunities through strategic partnerships, alignment with local service commitments, and investment in local and small business development.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes community partnership initiatives, not a risk."
+  },
+  {
+   "text": "In addition, we have successfully transitioned to a new Employee Assistance Program (EAP) provider who offers an enhanced mental health benefit to our employees and their loved ones.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new EAP provider benefit, not a risk."
+  },
+  {
+   "text": "Fritz 52 Chief Commercial Officer and President of MGM Digital Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive title listing, biographical, not a risk."
+  },
+  {
+   "text": "Previously, she served as Chief Public Affairs Officer and President and Chief Operating Officer of Aria and Vdara.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, not a risk."
+  },
+  {
+   "text": "Before moving into operations, she served as our Senior Vice President of Public Affairs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career history, not a risk."
+  },
+  {
+   "text": "Molino joined the Company in January 2017 from the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical detail about joining company, not a risk."
+  },
+  {
+   "text": "Senate, where from 2011 \u2013 2016 she served as first Counsel and later Chief Counsel to former Senate Majority and Democratic Leader Harry Reid (D-NV).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical Senate history, not a risk."
+  },
+  {
+   "text": "From 2007 \u2013 2011 she served as International Trade Counsel to the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical Senate history, not a risk."
+  },
+  {
+   "text": "Senate Finance Committee under then-Chairman Max Baucus (D-MT).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical Senate history, not a risk."
+  },
+  {
+   "text": "Prior to her time in the Senate, Ms.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical transition sentence, not a risk."
+  },
+  {
+   "text": "Molino served as an Attorney-Advisor in the Office of General Counsel at the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Biographical career detail, not a risk."
+  },
+  {
+   "text": "From January 2021 to November 2025, he served as Chief Financial Offer and Treasurer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive tenure dates, not a risk."
+  },
+  {
+   "text": "In addition, to the extent we no longer provide the shortfall guarantees, we would recognize certain tax gains related to our investments in Bellagio REIT Venture, the landlord of Bellagio, and VICI Properties OP LLC (\u201cVICI OP\u201d), the owner of the landlords of certain of our domestic properties, which may be significant.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new tax risk regarding recognition of significant tax gains tied to loss of shortfall guarantees on Bellagio REIT Venture and VICI OP investments."
+  },
+  {
+   "text": "Further, we entered into certain tax protection agreements related to these investments that will expire in 2029 and 2037.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific expiration dates for tax protection agreements, adding detail to the newly introduced tax gain risk."
+  },
+  {
+   "text": "Following the expiration of the agreements, to the extent Bellagio REIT Venture and VICI OP engage in certain transactions, we may realize taxable gains and such gains may be significant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the potential for significant taxable gains following expiration of the agreements, extending the prior point."
+  },
+  {
+   "text": "Changes in tax laws or regulations may also materially affect the amount and timing of recognizing taxable gains on these investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance that tax law changes could affect timing/amount of the previously described taxable gains risk."
+  },
+  {
+   "text": "Finally, in 2025, the New York Gaming Commission issued licenses for three integrated resorts projects that will include live-dealer table games, which we expect will increase competition in the Northeast corridor and may have a negative impact on our New York and New Jersey operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new competitive threat from newly licensed NY integrated resorts with live-dealer games impacting NY/NJ operations."
+  },
+  {
+   "text": "For instance, in 2025, we recorded a non-cash impairment charge of the full amount of the Empire City reporting unit\u2019s goodwill of $256 million.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific material financial impairment charge of $256 million tied to Empire City goodwill, a concrete new risk event."
+  },
+  {
+   "text": "20 A significant portion of our labor force is covered by collective bargaining agreements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific labor risk noting a significant portion of workforce is covered by collective bargaining agreements."
+  }
+ ]
+}

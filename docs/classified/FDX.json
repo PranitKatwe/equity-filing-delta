@@ -1,0 +1,218 @@
+{
+ "ticker": "FDX",
+ "sector": "Industrials",
+ "filing_date": "2025-07-21",
+ "accession": "0001048911-25-000011",
+ "prior_accession": "0000950170-24-083577",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 34,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 22,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "RISK FACTORS In addition to the other information set forth in this Annual Report, you should carefully consider the following factors, which could materially affect our business, results of operations, financial condition, and the price of our common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard introductory risk factor framing language."
+  },
+  {
+   "text": "Additional risks not currently known to us or that we currently deem to be immaterial also may materially affect our business, results of operations, financial condition, and the price of our common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unknown risks, common boilerplate."
+  },
+  {
+   "text": "Although the risks below are organized by headings and each risk is discussed separately, many are interrelated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Organizational/structural note about how risks are presented."
+  },
+  {
+   "text": "Macroeconomic and Market Risks We are directly affected by the state of the global economy and geopolitical developments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic topic sentence introducing macroeconomic risk category."
+  },
+  {
+   "text": "While macroeconomic risks apply to most companies, we are particularly vulnerable.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement of vulnerability without specific detail."
+  },
+  {
+   "text": "The transportation industry is highly cyclical and especially susceptible to trends in economic activity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates known cyclicality of transportation industry, an existing risk theme."
+  },
+  {
+   "text": "When individuals and companies purchase and produce fewer goods, we transport fewer goods, and as companies move manufacturing closer to consumer markets and expand the number of distribution centers, we transport goods shorter distances, which adversely affects our yields and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mechanism (shorter distances, nearshoring) to existing volume/yield risk."
+  },
+  {
+   "text": "Certain manufacturers and retailers are making investments to produce and store goods in closer proximity to supply chains and consumers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail on manufacturers/retailers relocating production, expanding existing risk."
+  },
+  {
+   "text": "Additionally, in 2025, we continued to see customer preference for slower, less costly shipping services and experienced lower fuel surcharges at FedEx Freight and reduced demand surcharges at Federal Express.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specific 2025 data point illustrating existing service-mix and surcharge risk."
+  },
+  {
+   "text": "We expect service mix to shift further toward deferred service offerings in 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Forward-looking continuation of existing service mix trend risk."
+  },
+  {
+   "text": "Further, the scale of our operations and our relatively high fixed-cost structure, particularly with respect to our air network, make it difficult to quickly adjust to match shifting volume levels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing fixed-cost structure risk with more specificity."
+  },
+  {
+   "text": "For more information, see \u201cOur businesses are capital intensive, and we must make capital decisions based upon projected volume levels.\u201d below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not a new risk."
+  },
+  {
+   "text": "The decline in U.S. imports of consumer goods that started in late 2022, along with slowed global industrial production, has contributed to continued weakened business conditions for the transportation industry, leading to lower freight and package volumes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific historical context (2022 import decline) to existing macro risk."
+  },
+  {
+   "text": "Additionally, recent changes in U.S. and international trade policy, along with continued uncertainty surrounding such policies, could lead to further weakened business conditions for the transportation industry.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk from uncertain trade policy changes affecting transportation demand."
+  },
+  {
+   "text": "We also continue to experience pressure on demand for our transportation services, particularly our priority services, from the impact of elevated inflation and interest rates on consumer and business spending.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details inflation/interest rate pressure on demand, expanding existing macro risk."
+  },
+  {
+   "text": "Moreover, given the nature of our business and our global operations, political, economic, and other conditions in foreign countries and regions, including international taxes, government-to-government relations, the typically more volatile economies of emerging markets, and geopolitical risks such as the ongoing conflicts between Russia and Ukraine and in the Middle East or escalations thereof, may adversely affect our business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific geopolitical examples to existing international risk factor."
+  },
+  {
+   "text": "For example, services in Ukraine remain limited, services in Belarus remain suspended, and we have exited our operations in Russia.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific operational impact (service limits in Ukraine/Belarus, exit from Russia) not previously disclosed with this specificity."
+  },
+  {
+   "text": "Geopolitical uncertainty negatively affected our results of operations in recent years.",
+   "category": "expanded_existing_risk",
+   "rationale": "States realized impact of geopolitical uncertainty, an extension of existing risk."
+  },
+  {
+   "text": "To the extent the continued conflicts between Russia and Ukraine and in the Middle East, or subsequent similar conflicts, adversely affect our business, they may also have the effect of heightening many other risks disclosed in this Annual Report, any of which could materially and adversely affect our business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains how existing conflicts could compound other disclosed risks."
+  },
+  {
+   "text": "The U.S. government has taken certain actions that have negatively affected U.S. trade, including imposing tariffs on many goods imported into the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific tariff actions by U.S. government as a new trade risk."
+  },
+  {
+   "text": "Additionally, many foreign governments have imposed, and others have threatened to impose, tariffs on certain goods imported from the United States.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces retaliatory tariffs by foreign governments, a new specific trade risk."
+  },
+  {
+   "text": "These actions have contributed to weakness in the global economy that has adversely affected our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects tariff actions to broader existing economic weakness risk."
+  },
+  {
+   "text": "Increased tariffs may lead to lower levels of trade or heightened political tensions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new potential consequence (reduced trade, political tension) from tariffs."
+  },
+  {
+   "text": "Additional changes to global trade policies could lead to increased tariffs, export controls, quotas, embargoes, or sanctions, which may lead to increased prices or trade limitations for goods transported globally, potentially reducing customer demand for our services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new categories of trade restrictions (export controls, sanctions) affecting demand."
+  },
+  {
+   "text": "Additionally, the U.S. government has taken action to limit the ability of domestic companies to engage in commerce with certain foreign entities under certain circumstances, and foreign governments may investigate our compliance with these restrictions.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk regarding U.S. restrictions on commerce with foreign entities and compliance investigations."
+  },
+  {
+   "text": "Furthermore, given the nature of our business and our global recognizability, foreign governments may target FedEx by limiting the ability of foreign entities to do business with us in certain instances, imposing monetary or other penalties or taking other retaliatory action, which could have an adverse effect on our business, results of operations, and financial condition, as well as on the price of our common stock.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk of foreign governments targeting FedEx with penalties or restrictions."
+  },
+  {
+   "text": "Our transportation businesses and their profitability are affected by the price and availability of jet and vehicle fuel, as well as our ability to collect fuel surcharges.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates existing fuel price/availability risk."
+  },
+  {
+   "text": "We must purchase large quantities of fuel to operate our aircraft and vehicles, and the price and availability of fuel is beyond our control and can be highly volatile.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details existing fuel purchase risk with more specificity."
+  },
+  {
+   "text": "In addition, our purchased transportation expense is affected by fuel costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on purchased transportation expense tied to fuel, part of existing risk."
+  },
+  {
+   "text": "To date, we have been mostly successful in mitigating over time the expense effect of higher fuel costs through our indexed fuel surcharges, as the amount of the surcharges is closely linked to the market prices for fuel.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains existing fuel surcharge mitigation strategy in more detail."
+  },
+  {
+   "text": "If we are unable to maintain or increase our fuel surcharges because of competitive pricing pressures or some other reason, fuel costs could adversely affect our operating results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing risk about inability to sustain fuel surcharges."
+  },
+  {
+   "text": "Lower fuel prices have negatively affected yields through lower fuel surcharges at each of our transportation segments in recent years.",
+   "category": "expanded_existing_risk",
+   "rationale": "States recent negative effect of lower fuel prices, expanding existing fuel risk."
+  },
+  {
+   "text": "As of May 31, 2025, we had no derivative financial instruments to reduce our exposure to fuel price fluctuations, and we currently have no plans to use derivative financial instruments for this purpose in the future.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds factual detail about lack of derivative hedging, extending existing fuel risk discussion."
+  },
+  {
+   "text": "Even if we are able to offset the cost of fuel with our surcharges, high fuel surcharges could move our customers away from our higher-yielding express services to our lower-yielding deferred or ground services or even reduce customer demand for our services altogether.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains customer behavior shift due to fuel surcharges, part of existing fuel risk."
+  },
+  {
+   "text": "In addition, disruptions in the supply of fuel could have a negative effect on our ability to operate our transportation networks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends fuel risk to include supply disruption effects on operations."
+  },
+  {
+   "text": "The following factors may affect fuel supply and could result in shortages and price increases in the future: weather-related events; natural disasters; political disruptions or wars involving oil-producing countries; economic sanctions imposed against oil-producing countries or specific industry participants; changes in governmental policy concerning fuel production, transportation, taxes, or marketing; changes in refining capacity; sustainability concerns; cyberattacks; and public and investor sentiment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific causes of fuel supply disruption, elaborating existing fuel risk."
+  },
+  {
+   "text": "Operating Risks The failure to successfully execute our DRIVE transformation, including Network 2.0 and Tricolor, in the expected time frame and at the expected cost may adversely affect our future results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new operational risk tied to execution of DRIVE transformation including Network 2.0 and Tricolor."
+  },
+  {
+   "text": "In 2023, FedEx announced DRIVE, a comprehensive program to improve long-term profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides background on DRIVE program as a new specific strategic initiative risk."
+  },
+  {
+   "text": "The program includes Network 2.0, the multi-year effort to improve the efficiency with which FedEx picks up, transports, and delivers packages in the U.S. and Canada, as well as Tricolor, the redesign of the Federal Express international air network to improve efficiency and asset utilization.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific components (Network 2.0, Tricolor) of new transformation risk."
+  },
+  {
+   "text": "There can be no assurance that the Federal Express and legacy FedEx Ground businesses and networks, which historically operated separately and independently, can successfully be fully integrated as planned.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding uncertain integration of Federal Express and FedEx Ground networks."
+  }
+ ]
+}

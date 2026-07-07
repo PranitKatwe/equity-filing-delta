@@ -1,0 +1,218 @@
+{
+ "ticker": "ULTA",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-26",
+ "accession": "0001104659-26-035243",
+ "prior_accession": "0001558370-25-003810",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 10,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 12,
+  "boilerplate_or_reorder": 18
+ },
+ "items": [
+  {
+   "text": "Risk Factors The risks described below reflect the Company\u2019s beliefs and opinions as to factors that could materially and adversely affect our business, financial condition, results of operations, or future growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic introductory framing language common to risk factor sections."
+  },
+  {
+   "text": "We could also be affected by additional risks that apply to all companies operating in the United States or our other markets, as well as other risks that are not presently known to us or that we currently consider to be immaterial.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary statement about unknown/immaterial risks, no specific content."
+  },
+  {
+   "text": "References to past events are provided only for example and are not intended to be a complete listing or a representation as to whether or not such factors have occurred in the past or their probability of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about historical references, not a substantive risk."
+  },
+  {
+   "text": "You should carefully consider the following risks and all of the other information contained in this Annual Report on Form 10-K before making an investment in our common stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard instruction to investors, boilerplate."
+  },
+  {
+   "text": "Economic, Market, and Other External Risks Macroeconomic conditions could have a material adverse impact on our business, financial condition, profitability, and cash flows. \u200b Macroeconomic conditions, including inflation and elevated interest rates, as well as labor, transportation, and shipping cost pressures, have had, and may continue to have, a negative impact on our business, financial condition, profitability, 13 Table of Contents and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Restates general macroeconomic risk but adds specific stressors like inflation, interest rates, labor and shipping costs, expanding on a previously existing macro risk."
+  },
+  {
+   "text": "Continuing dynamic global trade conditions and elevated tariff levels could contribute to increased input costs, supply chain disruption, pricing volatility, and heightened economic uncertainty, and it could be time-consuming and expensive for us to alter our operations in order to adapt to this environment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding tariffs and global trade disruption not previously described."
+  },
+  {
+   "text": "Additionally, we expect the impact of inflationary and macroeconomic pressures to continue in 2026, and we continue to closely monitor conditions, including guest behavior, and the impact of these factors on guest demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends the inflation/macro risk discussion with forward-looking commentary into 2026."
+  },
+  {
+   "text": "Continuing or worsening inflation and/or cost pressures may have a material adverse impact on our business, financial condition, profitability, and/or cash flows.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the general inflation/cost pressure risk already implied by macro risk factor."
+  },
+  {
+   "text": "As we expand internationally, the magnitude of the effects of geopolitical events, including the ongoing conflicts in Ukraine and the Middle East and cartel violence and related unrest in Mexico, on the Company\u2019s business, financial condition, profitability, and/or cash flow could be greater than when the Company\u2019s operations were solely U.S.-based.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new geopolitical risks (Ukraine, Middle East, Mexico cartel violence) tied to international expansion."
+  },
+  {
+   "text": "The health of the economy may affect consumer purchases of discretionary items such as beauty products and salon services, which could have a material adverse effect on our business, financial condition, profitability, and cash flows.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of economic impact on discretionary consumer spending."
+  },
+  {
+   "text": "Our results of operations may be materially affected by conditions in the capital markets and the U.S. or global economy generally.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about capital markets/economy affecting results, no new specifics."
+  },
+  {
+   "text": "We appeal to a wide demographic consumer profile and offer an extensive selection of beauty products sold directly to retail consumers as well as premium salon services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about business model, not a risk statement."
+  },
+  {
+   "text": "Uncertainty in the economy has adversely impacted, and could continue to adversely impact, consumer purchases of discretionary items across all of our product categories, including prestige beauty products and premium salon services.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about economic uncertainty affecting discretionary purchases."
+  },
+  {
+   "text": "Factors that could affect consumers\u2019 willingness to make such discretionary purchases include: general business conditions, inflationary pressures, levels of employment, interest rates, tax rates, the availability of consumer credit, consumer confidence in future economic conditions, tariffs or other trade restrictions (including uncertainty as to the scale and short- and long-term effects of currently proposed or future tariffs), risks related to epidemics or pandemics, geopolitical events, and recessionary concerns.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands list of factors affecting consumer spending to explicitly include tariffs and trade restrictions."
+  },
+  {
+   "text": "In the event of a prolonged period of inflation, an economic downturn, or a recession, consumer spending habits could be adversely affected, and we could experience lower than expected net sales.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of inflation/recession risk to consumer spending."
+  },
+  {
+   "text": "Reduced consumer spending could cause changes in guest order patterns and in the level of merchandise purchased by our guests, and may signify a reset of consumer spending habits, all of which could adversely affect our business, financial condition, profitability, and cash flows.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about reduced consumer spending affecting business."
+  },
+  {
+   "text": "In addition, a general deterioration in economic conditions could adversely affect our commercial partners, including our brand partners, as well as the real estate developers and landlords who we rely on to construct and operate commercial centers in which our stores are located.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of economic risk affecting commercial partners."
+  },
+  {
+   "text": "A bankruptcy or financial failure of a significant vendor or a number of significant real estate developers or shopping center landlords could have a material adverse effect on our business, financial condition, profitability, and cash flows.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard vendor/landlord bankruptcy risk language."
+  },
+  {
+   "text": "Adverse economic conditions could negatively affect our vendors\u2019 access to the capital and liquidity required to maintain their inventory, production levels, timeliness, and product quality and to operate their businesses, which could adversely affect our supply chain, or could reduce our vendors\u2019 offerings of trade credit, customer incentives, vendor allowances, cooperative marketing expenditures, and product promotions, which could adversely affect our results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of vendor financial risk affecting supply chain."
+  },
+  {
+   "text": "Adverse economic conditions could also make it difficult for both us and our vendors to accurately forecast future product demand trends, which could cause us to carry too much or too little merchandise in various product categories. \u200b We may be unable to compete effectively in our highly competitive markets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of demand forecasting risk."
+  },
+  {
+   "text": "The markets for beauty and wellness products and salon services are highly competitive with few barriers to entry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive market with low barriers, standard framing."
+  },
+  {
+   "text": "With regard to beauty and wellness products, we compete against a diverse group of retailers, both small and large, including mass merchandisers, specialty retailers, online capabilities of national retailers, pure-play e-commerce companies, online marketplaces (including those operated by social media platforms), and drug stores.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of competitor types, standard competitive landscape description."
+  },
+  {
+   "text": "In some regions or in connection with some products, we also compete against regional and national department stores, catalog retailers, local specialty retail stores, and direct response television, including television home shopping retailers and infomercials.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Additional competitor list, descriptive not substantive new risk."
+  },
+  {
+   "text": "With regard to salon services, we compete primarily against high-end and discount salon chains as well as locally owned salons.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes salon competition, standard descriptive content."
+  },
+  {
+   "text": "We believe the principal bases upon which we compete are the breadth of merchandise, our value proposition, the quality of our guests\u2019 shopping experience (including through our omnichannel offerings), and the convenience of our stores as one-stop destinations for beauty products and salon services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes competitive basis, informational not a new risk."
+  },
+  {
+   "text": "Many of our competitors are, and many of our potential competitors may be, larger and have greater financial, marketing, and other resources and therefore may be able to adapt 14 Table of Contents to changes in guest requirements more quickly, devote greater resources to the marketing and sale of their products, generate greater brand recognition, or adopt more aggressive pricing policies than we can.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about larger competitors' advantages."
+  },
+  {
+   "text": "As a result, we may lose market share, which could have a material adverse effect on our business, financial condition, profitability, and cash flows.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard conclusion about potential market share loss from competition."
+  },
+  {
+   "text": "Accordingly, if one or more epidemics, pandemics, natural disasters, and/or acts of violence or terrorism were to occur in the future, it could have a material adverse effect on our business, financial condition, profitability, and cash flows or may require us to incur increased costs. \u200b Climate change could adversely impact our business operations and/or our supply chain. \u200b Scientific consensus shows that carbon dioxide and other greenhouse gases in the atmosphere have caused and will in the future cause changes in weather patterns around the globe.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new distinct risk factor concerning climate change impacting operations and supply chain."
+  },
+  {
+   "text": "Climatologists predict these changes will result in the increased frequency of extreme weather events and natural disasters, which could disrupt our business operations or those of our suppliers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced climate change risk with specifics about extreme weather disrupting operations."
+  },
+  {
+   "text": "These weather events could also lead to an increased rate of temporary store closures and reduced guest traffic at our stores.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the climate change risk, specifying store closures and reduced traffic."
+  },
+  {
+   "text": "In addition, concern about climate change and greenhouse gases may result in new or additional legal, legislative, and/or regulatory requirements to reduce or mitigate the effects of climate change on the environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues climate change risk discussion, adding regulatory/legislative cost implications."
+  },
+  {
+   "text": "Any such new requirements could increase our operating costs for things like energy or packaging, as well as our product supply chain and distribution costs. \u200b There is also increased focus, including by investors, guests, and other stakeholders, on climate change and other environmental, social, governance, and sustainability matters, including single use plastic, energy, waste, and worker safety.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands climate/ESG risk discussion to include stakeholder focus on sustainability issues."
+  },
+  {
+   "text": "We have historically experienced and expect to continue to experience seasonal fluctuations in our net sales, operating income, and net income.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement about seasonal fluctuations, common risk factor language."
+  },
+  {
+   "text": "A significant portion of our net sales and profits is driven by holidays, such as Valentine\u2019s Day and Mother\u2019s Day in the first and second quarters and the November/December holiday season in the fourth quarter.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes holiday-driven sales pattern, standard informational content."
+  },
+  {
+   "text": "We must carry a significant amount of inventory, particularly before these selling periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about inventory carrying before selling periods."
+  },
+  {
+   "text": "If we miscalculate demand for our products generally or for our product mix during certain holiday seasons, our net sales could decline or we could accumulate excess inventory, which would harm our financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard risk about demand miscalculation, common retail risk language."
+  },
+  {
+   "text": "If we are not successful in selling our inventory during these periods, we may be forced to rely on markdowns or promotional sales to dispose of the excess inventory or may not be able to sell the inventory at all, which could have a material adverse effect on our business, financial condition, and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk about markdowns/promotions for excess inventory."
+  },
+  {
+   "text": "Additionally, our comparable sales and quarterly financial performance have historically been affected, and may continue to be affected, by any of the other types of risks and events described in these risk factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to other risk factors, standard boilerplate."
+  },
+  {
+   "text": "Accordingly, our results for any one fiscal quarter are not necessarily indicative of the results to be expected for any other quarter, and comparable sales for any particular future period may decrease.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement about quarterly result variability."
+  },
+  {
+   "text": "In that event, the price of our common stock may decline.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement about potential stock price decline."
+  }
+ ]
+}

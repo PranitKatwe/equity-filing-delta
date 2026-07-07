@@ -1,0 +1,218 @@
+{
+ "ticker": "QCOM",
+ "sector": "Information Technology",
+ "filing_date": "2025-11-05",
+ "accession": "0000804328-25-000085",
+ "prior_accession": "0000804328-24-000075",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 10,
+  "boilerplate_or_reorder": 24
+ },
+ "items": [
+  {
+   "text": "Industry momentum is driving the emergence of new personal AI devices, such as smart glasses, earbuds and other wearables, that allow new agentic AI and context-aware experiences.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General industry trend description about emerging AI devices, not a specific business risk."
+  },
+  {
+   "text": "These personal AI devices are expected to evolve independently of the smartphone ecosystem.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes market evolution expectation, not a risk statement."
+  },
+  {
+   "text": "At the same time, physical and industrial AI are beginning to reshape industries and provide new opportunities from robotics to manufacturing, logistics and energy, through embedded intelligence and enabling automation, real-time insights, autonomous systems and adaptive decision-making at the edge.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Industry background on physical/industrial AI opportunities, not a risk disclosure."
+  },
+  {
+   "text": "We also expect companies and regulators will continue to focus on responsible AI, data privacy and security to ensure the responsible development and deployment of these technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about regulatory focus on AI, lacks specific risk detail."
+  },
+  {
+   "text": "AI use in smartphones is increasing, and as we look forward, we expect on-device and agentic AI use cases will continue to expand and reshape the mobile industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General market trend statement about AI in smartphones."
+  },
+  {
+   "text": "Building on this foundation, AI is helping further transform the next generation of vehicles by embedding intelligence that enables vehicles to actively learn from their environments to support safety, optimize vehicle energy efficiency and provide features such as interactive in-vehicle assistance that personalize the driving and passenger experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes technology evolution in vehicles, industry overview language."
+  },
+  {
+   "text": "Additionally, smart glasses and wearables, such as smartwatches, earbuds and other form factors are being transformed into personal AI devices as they transition from simply extending smartphone experiences to providing new and unique personalized AI, connecting the user directly to the AI agent and model.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product category evolution, not a risk statement."
+  },
+  {
+   "text": "Fiber and 5G technologies continue to grow, delivering not only high speed broadband and infrastructure but also providing the flexibility to support fixed, mobile and fixed wireless users with the delivery of high-performance, low-latency connections.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General industry technology description about fiber/5G growth."
+  },
+  {
+   "text": "A key enabler of this shift is physical AI, which is reshaping industrial applications and creating new opportunities, particularly in areas like manufacturing and robotics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Industry background statement about physical AI trend."
+  },
+  {
+   "text": "We also intend to leverage our custom-designed CPU cores as we create our data center products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes business strategy detail, not a risk."
+  },
+  {
+   "text": "The majority of cellular connections today are OFDMA (Orthogonal Frequency Division Multiple Access)-based technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual technical background statement."
+  },
+  {
+   "text": "Many of our inventions at the core of 3G and 4G serve as the foundational technologies for 5G.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about patent portfolio continuity, not new risk."
+  },
+  {
+   "text": "We envision 6G will integrate advanced capabilities including AI, sensing, digital twinning, and a variety of new system features enabling higher levels of efficiency and performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Forward-looking technology vision statement, not risk-specific."
+  },
+  {
+   "text": "Our wireless connectivity products provide additional connectivity across mobile handsets, automotive and IoT products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description, factual context not risk."
+  },
+  {
+   "text": "Most of these competitors compete with us with respect to some, but not all, of our product lines.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing competitive landscape description."
+  },
+  {
+   "text": "Companies that provide on-device AI, high-performance and low-power computing and wireless connectivity-based integrated circuit products and/or software are generally competitors or potential competitors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens competitor description to include new AI and connectivity categories, expanding existing competitive risk scope."
+  },
+  {
+   "text": "Standards bodies have been informed that we hold patents and pending patent applications that might be essential for 3GPP standards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about patent disclosures to standards bodies."
+  },
+  {
+   "text": "QTL licensing revenues consist primarily of per-unit royalties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes revenue composition, factual not risk."
+  },
+  {
+   "text": "Our Data Center business is developing and commercializing next-generation solutions for data centers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business description of Data Center segment activities."
+  },
+  {
+   "text": "We are also investing in research and development of data center products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States R&D investment activity, not a risk."
+  },
+  {
+   "text": "Our Human Capital initiatives include: Health, Safety and Wellness.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists human capital initiative category, administrative not risk."
+  },
+  {
+   "text": "Additionally, employees can enhance their contributions to qualified charitable organizations of their choice by utilizing our charitable match program.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee benefit program, unrelated to risk."
+  },
+  {
+   "text": "We also publish on our website a variety of reports and resources related to our corporate responsibility policies, programs, goals and initiatives, including our most recent Qualcomm Corporate Responsibility Report and reports on sustainability, responsible sourcing, corporate citizenship and responsible AI, among others.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "References corporate responsibility reporting, boilerplate disclosure."
+  },
+  {
+   "text": "Investors and other stakeholders interested in these topics can access such reports and resources through the Corporate Responsibility section of our website (https://www.qualcomm.com/company/corporate-responsibility).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Website reference for reports, purely informational."
+  },
+  {
+   "text": "Achour served as Chief Technology Officer \u2013 Elect from December 2024 to February 2025, Deputy Chief Technology Officer from April 2023 to December 2024, and Senior Vice President, Engineering from July 2006 to April 2023.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk factor."
+  },
+  {
+   "text": "RISKS RELATED TO NEW INITIATIVES \u2022 Our growth depends in part on our ability to extend our technologies and products into new and expanded product areas, and industries and applications beyond mobile handsets.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about expanding into new product areas beyond mobile handsets."
+  },
+  {
+   "text": "Our research, development and other investments in these new and expanded product areas, industries and applications, and related technologies and products, as well as in our existing technologies and products, and new technologies, may not generate operating income or contribute to future results of operations that meet our expectations. \u2022 We may engage in acquisitions and other strategic transactions or make investments, or be unable to consummate planned strategic acquisitions, which could adversely affect our results of operations or fail to enhance stockholder value.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds new dimension about inability to consummate planned strategic acquisitions, expanding existing M&A risk."
+  },
+  {
+   "text": "If we fail to execute supply strategies that provide supply assurance, technology leadership and reasonable margins, our business and results of operations may be harmed.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing supply chain risk language."
+  },
+  {
+   "text": "We are also subject to order and shipment uncertainties that could negatively impact our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mention of order and shipment uncertainties affecting results, expanding supply-related risk."
+  },
+  {
+   "text": "RISKS RELATED TO HUMAN CAPITAL MANAGEMENT \u2022 We may not be able to attract or retain qualified employees.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing human capital retention risk."
+  },
+  {
+   "text": "Our success depends in part on our ability to adapt to such change and compete effectively; and such change and competition could result in decreased demand for our products and technologies or declining average selling prices for our products or those of our customers or licensees.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing risk about competitive change affecting demand and pricing."
+  },
+  {
+   "text": "RISKS RELATED TO PRODUCT DEFECTS OR SECURITY VULNERABILITIES \u2022 Failures in our products, or in the products of our customers or licensees, including those resulting from security vulnerabilities, defects or errors, could harm our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing product defect/security risk."
+  },
+  {
+   "text": "GENERAL RISK FACTORS \u2022 We operate in the highly cyclical semiconductor industry, which is subject to significant downturns.",
+   "category": "reworded_same_meaning",
+   "rationale": "Reiterates existing cyclical industry risk."
+  },
+  {
+   "text": "We are also susceptible to declines in global, regional and local economic conditions generally.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing macroeconomic risk exposure."
+  },
+  {
+   "text": "15 \u2022 Our business may suffer due to the impact of, or our failure to comply with, the various existing, new or amended laws, regulations, policies or standards to which we are subject. \u2022 There are risks associated with our debt. \u2022 Tax liabilities could adversely affect our results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Lists existing legal, debt, and tax risk categories without new substance."
+  },
+  {
+   "text": "The mobile industry has also from time to time experienced declines in sales or slowing growth in the premium-tier device segment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific historical detail about premium-tier device segment decline, expanding existing market risk."
+  },
+  {
+   "text": "We expect such customers will in the future utilize their own integrated circuit products in some or all of their devices, rather than our products.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates known risk of customers developing in-house chips."
+  },
+  {
+   "text": "In particular, we expect that Apple will increasingly use its own modem products, rather than our products, in its future devices, which will have a significant negative impact on our QCT revenues, results of operations and cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific, material new risk detail that Apple will increasingly use its own modem products, with explicit negative revenue impact."
+  },
+  {
+   "text": "For example, in May 2024, the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Incomplete fragment referencing a date/event without substantive risk content."
+  },
+  {
+   "text": "Accordingly, we do not expect to receive any further product revenues from Huawei, and to the extent that Huawei\u2019s devices take share from OEMs that utilize our products (in China or elsewhere), our results of operations and cash flows could be further impacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific update on Huawei revenue loss and potential further impact, expanding previously known competitive/geopolitical risk."
+  }
+ ]
+}

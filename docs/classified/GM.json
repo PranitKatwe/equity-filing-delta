@@ -1,0 +1,218 @@
+{
+ "ticker": "GM",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-01-27",
+ "accession": "0001467858-26-000013",
+ "prior_accession": "0001467858-25-000032",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 35
+ },
+ "items": [
+  {
+   "text": "Our strong product portfolio exemplifies our deep design and engineering expertise, iconic brands, award winning vehicles, and clear outlook for the future, leading the U.S. auto industry in sales.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing/promotional language about product portfolio strength, not a risk disclosure."
+  },
+  {
+   "text": "Building on a century of innovation, we are leveraging software, hardware, artificial intelligence (AI), and sensors to produce safer, smarter, and more fuel efficient vehicles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General business description of technology strategy, no specific risk identified."
+  },
+  {
+   "text": "We are developing advanced driver assistance and autonomous vehicle (AV) technology to help eliminate human driving error, save lives, and improve mobility for everyone.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about AV development goals, not a risk."
+  },
+  {
+   "text": "Vehicle Portfolio Our internal combustion engine (ICE) portfolio is a key driver of financial and market performance and customer loyalty led by our full-size trucks and sport utility vehicles (SUVs).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business overview of vehicle portfolio, not a risk statement."
+  },
+  {
+   "text": "We maintain a strong presence in both the mainstream and luxury categories of the auto industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General market positioning statement."
+  },
+  {
+   "text": "We serve the mainstream market with Chevrolet and GMC trucks, SUVs, and crossover utility vehicles, which are driving volume growth in premium-priced market segments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive market segment statement."
+  },
+  {
+   "text": "Our Cadillac brand, which continues to grow, services the global luxury segment, while also maintaining strong market presence in North America.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive brand positioning statement."
+  },
+  {
+   "text": "GM has made significant investments to build a broad portfolio of electric vehicles (EVs) including establishing manufacturing and supply chain capacity for EVs, batteries, and components, in North America.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investments made, factual business description not framed as risk."
+  },
+  {
+   "text": "Our EV portfolio has achieved significant market growth with strong positioning in the U.S. market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive marketing statement about EV market growth."
+  },
+  {
+   "text": "Our New Energy Vehicles (NEVs) in China have contributed to the turnaround in sales and business performance in China.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about NEV contribution to China turnaround."
+  },
+  {
+   "text": "EVs like the Chevrolet Equinox EV, Cadillac LYRIQ, Cadillac ESCALADE IQ, and the GMC Sierra EV have brought new customers to our brands and helped increase our EV market share.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Promotional description of new EV models and market share gains."
+  },
+  {
+   "text": "Despite our recent EV sales growth, U.S. regulatory and economic policy changes have impacted our expectations regarding the pace of EV growth and consumer demand.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new risk: regulatory and economic policy changes affecting EV growth pace and consumer demand."
+  },
+  {
+   "text": "We have taken actions to strategically realign our EV capacity and manufacturing footprint with the slowing in customer demand for EVs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on company's response to slowing EV demand, expanding on the EV demand risk already implied elsewhere."
+  },
+  {
+   "text": "Due to our broad and diversified portfolio of both ICE and electric vehicles, we believe we are well positioned to respond to changes in demand given our strong market position with ICE vehicles in the U.S. and the success of our Chevrolet, Cadillac, and GMC EVs with customers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement of confidence in diversified portfolio, framing rather than risk."
+  },
+  {
+   "text": "We are prioritizing an overall portfolio that successfully meets customer demand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic priority statement."
+  },
+  {
+   "text": "We continue to invest in ICE vehicles alongside our EVs and plan to introduce new battery chemistries and form factors that will deliver the EV range and performance our customers desire, with even lower pack costs and improved profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about ongoing product investment plans."
+  },
+  {
+   "text": "Our EV portfolio takes advantage of integrated supply chain development, including battery cell production from Ultium Cells Holdings LLC (a joint venture with LG Energy Solution) in plants in Warren, Ohio and Spring Hill, Tennessee.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of supply chain/joint venture arrangement."
+  },
+  {
+   "text": "We continue to build our vehicle portfolio on a foundation of extensive manufacturing capability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about manufacturing capability."
+  },
+  {
+   "text": "We have a network of 50 U.S. manufacturing plants and parts facilities in 19 states, which includes 11 vehicle assembly plants.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of manufacturing footprint."
+  },
+  {
+   "text": "In 2025, we announced 1 Table of Contents GENERAL MOTORS COMPANY AND SUBSIDIARIES our plan to spend approximately $4.0 billion in capital investments to onshore production at plants in Tennessee, Kansas, and Michigan over the next two years and nearly $1.0 billion to build a new generation of advanced, fuel-efficient V8 engines in New York.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive announcement of capital investment plans, not framed as a risk."
+  },
+  {
+   "text": "These investments in U.S. assembly and propulsion plants will enable us to strengthen domestic manufacturing and ensure flexibility for both ICE and electric vehicles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Positive framing of investment benefits, not a risk."
+  },
+  {
+   "text": "As government policies have evolved, we have acted with urgency and discipline to maintain strong positioning within the industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about adapting to policy changes, lacks specific risk detail."
+  },
+  {
+   "text": "In 2025, the U.S. and other governments implemented new import tariffs impacting GM and our suppliers, including tariffs on vehicles and parts imported into the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of newly implemented import tariffs affecting GM and suppliers."
+  },
+  {
+   "text": "The tariff environment is highly dynamic and the specific tariffs applicable to goods imported by GM and its suppliers into the U.S., including under the U.S.-Mexico-Canada Agreement, and other countries are likely to evolve further.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the tariff risk's dynamic and evolving nature, expanding on the tariff risk just introduced."
+  },
+  {
+   "text": "We will continue to adapt as appropriate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about continued adaptation, no new risk detail."
+  },
+  {
+   "text": "Government, and excludes vehicles sold by our joint ventures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifying exclusion detail, administrative in nature."
+  },
+  {
+   "text": "The work spans advanced driver assistance and autonomy, connected vehicle platforms, and OnStar\u2019s evolution into an intelligent, always-on services layer, combining software, AI, and vehicle platforms to continuously improve the customer experience over time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about technology development scope, not a risk."
+  },
+  {
+   "text": "Focusing on the principle of \"buy where we build\" will allow the team to work toward greater scalability and stability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic operational philosophy statement."
+  },
+  {
+   "text": "Our skilled teams are the heart of GM.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about workforce importance."
+  },
+  {
+   "text": "Our purpose, strategy, and culture point toward our vision of a world with zero crashes, zero emissions, and zero congestion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vision statement, purely aspirational."
+  },
+  {
+   "text": "Values Our values are the foundational beliefs that guide our actions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic values statement."
+  },
+  {
+   "text": "They define what we hold most important and inform how we interact with our customers, our partners, and each other.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic values description."
+  },
+  {
+   "text": "Customers Excellence We put customers at the center of everything we do-and every interaction matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic customer-focus statement."
+  },
+  {
+   "text": "Driven by ingenuity and innovation, we have the tenacity to win.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic culture/innovation statement."
+  },
+  {
+   "text": "Relationships Truth Our success depends on our relationships inside and outside the Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic relationship values statement."
+  },
+  {
+   "text": "We pursue facts and respectfully challenge assumptions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic values statement about truth and facts."
+  },
+  {
+   "text": "Our eight GM behaviors are the foundation of our culture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic culture statement."
+  },
+  {
+   "text": "Barra (64) Chair and Chief Executive Officer (2016) Grant M.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive bio listing, administrative detail."
+  },
+  {
+   "text": "Hatto (55) Vice President, Global Business Solutions and Chief Accounting Officer (2020) Paul A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive bio listing, administrative detail."
+  },
+  {
+   "text": "In March 2025, the EPA announced that it will reconsider the Tier 4 Multipollutant Rule.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk: EPA reconsideration of the Tier 4 Multipollutant Rule affecting emissions compliance."
+  }
+ ]
+}

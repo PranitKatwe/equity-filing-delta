@@ -1,0 +1,218 @@
+{
+ "ticker": "SYF",
+ "sector": "Financials",
+ "filing_date": "2018-02-22",
+ "accession": "0001601712-18-000107",
+ "prior_accession": "0001601712-17-000031",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 27
+ },
+ "items": [
+  {
+   "text": "In June 2017, the Company also elected financial holding company status under the Bank Holding Company Act.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual regulatory election with no risk framing."
+  },
+  {
+   "text": "8 PayPal transaction In November 2017, we announced our agreement to acquire approximately $6.8 billion of loans from PayPal Credit U.S. consumer credit receivables portfolio, including approximately $1.0 billion of interests held by other investors and chartered financial institutions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a large, specific $6.8B acquisition of a credit portfolio, a new material transaction with integration/regulatory exposure."
+  },
+  {
+   "text": "Synchrony Bank will become PayPal\u2019s exclusive issuing bank for the PayPal Credit point of sale financing program in the United States for the next 10 years.",
+   "category": "new_substantive_risk",
+   "rationale": "Creates a new 10-year exclusive arrangement with Synchrony Bank as issuing bank, a new concentration/dependency exposure."
+  },
+  {
+   "text": "PayPal has also agreed to extend its existing co-brand credit card relationship with Synchrony Financial through the same 10-year term.",
+   "category": "new_substantive_risk",
+   "rationale": "Extends a co-brand relationship for 10 years, creating a new long-term dependency risk."
+  },
+  {
+   "text": "Subject to regulatory approval and other customary conditions, these transactions (collectively, the \u201cPayPal transaction\u201d) are expected to close in the third quarter of 2018.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces regulatory approval contingency risk tied to a specific pending transaction."
+  },
+  {
+   "text": "New and Extended Partner Programs During the year ended December 31, 2017, we extended our Retail Card program agreements with Belk, Evine, Men's Wearhouse and QVC, and launched our new programs with At Home, Cathay Pacific, Nissan and Infiniti and zulily.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive list of partner program extensions/launches, not a risk statement."
+  },
+  {
+   "text": "(2) Existing partners as of December 31, 2017.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Footnote clarifying data as of a date; no risk content."
+  },
+  {
+   "text": "Does not reflect the announced PayPal transaction which we expect to close in the third quarter of 2018.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifying footnote about scope of data, not a risk statement."
+  },
+  {
+   "text": "The current expiration dates for these agreements range from 2019 through 2023.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific contract expiration dates, elaborating on existing partner renewal risk."
+  },
+  {
+   "text": "In addition to the above, we expect to close the PayPal transaction in the third quarter of 2018, subject to regulatory approval and other customary conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates the previously introduced PayPal transaction closing risk with additional context."
+  },
+  {
+   "text": "Following completion of this transaction we expect our combined credit and co-brand programs with PayPal to become one of our five largest partner programs.",
+   "category": "new_substantive_risk",
+   "rationale": "Indicates increased partner concentration risk from combined PayPal program becoming one of the largest partners."
+  },
+  {
+   "text": "During the year ended December 31, 2017, we launched our Synchrony Car Care program and our new Synchrony HOME credit card network, and extended our program agreements with BrandsMart U.S.A.; City Furniture; Home Furnishings Association; Husqvarna Viking; MEGA Group USA, subsequently merged with Nationwide Buying Group to form Nationwide Marketing Group; Midas; Nautilus; Sweetwater and Yamaha.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive list of new programs and extensions, no risk framing."
+  },
+  {
+   "text": "In addition, the Synchrony Car Care program allows for expanded use outside of the program network at certain related merchants, such as gas stations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expanded merchant use, purely descriptive."
+  },
+  {
+   "text": "Similarly, we launched the Synchrony HOME credit card network, accepted by retailers at more than 10,000 locations in industries such as home furnishing, flooring and electronics.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes network launch details, not a risk."
+  },
+  {
+   "text": "In October 2017, we also announced the launch of our CareCredit Dual Card offering.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Announces a product launch without risk implications."
+  },
+  {
+   "text": "During the year ended December 31, 2017 , we acquired the Citi Health Card portfolio and renewed Bosley, Mars Petcare, National Veterinary Associates and Sono Bello in our network of providers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an acquisition and renewals, purely descriptive."
+  },
+  {
+   "text": "The network expanded by over 10,000 provider locations and grew average active cardholder accounts by 9% .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides growth statistics, not a risk statement."
+  },
+  {
+   "text": "15 Enterprise Customer Engagement (\"ECE\") / Analytics After a customer obtains one of our products, our marketing programs encourage ongoing card usage by communicating the benefits of our products\u2019 value propositions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes marketing program mechanics, not a risk."
+  },
+  {
+   "text": "These programs are executed through our partners\u2019 and our own (direct to consumer) distribution channels.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes distribution channels, purely descriptive."
+  },
+  {
+   "text": "Through our ECE and data analytics teams, we optimize these programs through detailed test-and-learn tracking of cardholder responsiveness and subsequent behavior.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes analytics process, not a risk."
+  },
+  {
+   "text": "This data is leveraged by applying machine learning and other analytic techniques to create tools that allow for customized marketing messages and promotional offers to cardholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes data usage techniques, not a risk."
+  },
+  {
+   "text": "Our Dual Card and general purpose co-branded credit card programs are further enhanced by the collection and analysis of data on customers' spend patterns at both our partners and at other retailers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes data analysis enhancement, not a risk."
+  },
+  {
+   "text": "The objective of these efforts is to drive incremental volume for our programs while maximizing return on investment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a business objective, not a risk."
+  },
+  {
+   "text": "Digital and mobile capabilities We continued our focus and investment on enhancing our digital and data analytics capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ongoing investment focus, not a risk."
+  },
+  {
+   "text": "Our investments have spanned extensive customer research and enhancements to digital design and user experience to enhance existing processes and launch new digital platforms to reach our customers in unique ways.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investment areas, not a risk."
+  },
+  {
+   "text": "We enhanced our fully-responsive dApply application with features such as data pre-fill and instant provisioning of new accounts to retailer digital wallets to make the application process quick and secure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product feature enhancement, not a risk."
+  },
+  {
+   "text": "In addition, our Digital Buy product is an easy to install checkout button that transforms the purchasing process into a fully partner-branded experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new product, not a risk."
+  },
+  {
+   "text": "This gives customers a quick and easy way to pay on a retailer\u2019s website with their private label credit card, including promotional purchases, as well as lookup their account and request a credit line increase, all within the partner checkout experience.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer functionality, not a risk."
+  },
+  {
+   "text": "Additionally we continue to invest in our digital wallet capabilities including Apple Pay and Android Pay, as well as developing our own wallet capabilities within our CareCredit platform to allow customers to transact with our partners in a variety of ways.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes digital wallet investment, not a risk."
+  },
+  {
+   "text": "We acquired GPShopper, an innovative developer of mobile applications that offers retailers and brands a full suite of commerce, engagement and analytic tools, through which we expanded our SyPI application capabilities and saw significant adoption and growth in 2017.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an acquisition and its integration into products, purely descriptive."
+  },
+  {
+   "text": "For our web users, we introduced Pay Without Login, which enables customers to access their account through device authentication versus a password and make one-time payments online.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new authentication feature, not a risk."
+  },
+  {
+   "text": "We also introduced our MySynchrony iOS and Android apps to make it easier for our cardholders to access their accounts on their mobile devices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new mobile apps, not a risk."
+  },
+  {
+   "text": "16 Loyalty Programs The retail loyalty programs we manage typically provide cardholders with statement credit or cash back rewards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes loyalty program mechanics, not a risk."
+  },
+  {
+   "text": "Dual Cards and general purpose co-branded credit cards are primarily offered through our Retail Card platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes product platform structure, not a risk."
+  },
+  {
+   "text": "Savings and loan holding companies that have elected financial holding company status generally can engage in a broader range of financial activities than are otherwise permissible for savings and loan holding companies, including securities underwriting, dealing and making markets in securities, and making merchant banking investments in non-financial companies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory scope (financial holding company activities) that expands the company's exposure to broader financial regulation."
+  },
+  {
+   "text": "Synchrony made an election for financial holding company status in June 2017.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the same financial holding company election fact already noted elsewhere."
+  },
+  {
+   "text": "Federal regulations additionally provide that if any depository institution controlled by a financial holding company fails to maintain at least a \u201cSatisfactory\u201d rating under the Community Reinvestment Act (\u201cCRA\u201d), the financial holding company and its subsidiaries are prohibited from engaging in additional activities that are permissible only for financial holding companies .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific regulatory penalty risk tied to CRA rating that could restrict business activities."
+  },
+  {
+   "text": "The MLA became effective with respect to our credit card programs on October 3, 2017.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new regulatory compliance requirement (MLA) effective on a specific date affecting credit card programs."
+  },
+  {
+   "text": "The MLA applies to certain consumer loans, including credit extended pursuant to a credit card account, and extends specific protections if an accountholder, at the time of account opening, is a covered active duty member of the military or certain family members thereof (collectively, the \u201ccovered borrowers\u201d).",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the scope of the MLA risk introduced in the prior sentence, detailing covered borrowers."
+  },
+  {
+   "text": "These protections include, but are not limited to: a limit on the military annual percentage rate that can be charged to 36%, delivery of certain required disclosures and a prohibition on mandatory arbitration agreements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details specific compliance obligations under the MLA already introduced, expanding on the regulatory risk."
+  }
+ ]
+}

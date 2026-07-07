@@ -1,0 +1,218 @@
+{
+ "ticker": "PYPL",
+ "sector": "Financials",
+ "filing_date": "2026-02-03",
+ "accession": "0001633917-26-000024",
+ "prior_accession": "0001633917-25-000019",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 13
+ },
+ "items": [
+  {
+   "text": "We operate a global, two-sided network at scale that connects consumers and merchants with 439 million active accounts across approximately 200 markets as of December 31, 2025. \u2022 Consumers: We provide consumers with digital wallets and other solutions that allow them to shop and pay with PayPal and Venmo \u2014 both online and in-person \u2014 manage their finances (including saving and buying and selling cryptocurrencies), and send and receive money between friends and family.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes overall business scale/metrics, not a risk statement."
+  },
+  {
+   "text": "As of December 31, 2025, we had 439 million active accounts across approximately 200 markets 1 around the world. \u2022 Customer-back innovation \u2014we are orienting and transforming our culture towards innovating in ways that benefit our customers and drive profitable growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Repeats active account statistics and generic culture/innovation framing."
+  },
+  {
+   "text": "We continue to make multi-year investments in our technology infrastructure, including those associated with cloud-related initiatives, intended to support the scalability, resiliency, and efficiency of our payments platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ongoing infrastructure investment, no new specific risk."
+  },
+  {
+   "text": "In addition, we are investing in initiatives intended to modernize our infrastructure and support future enhancements to our products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about modernization initiatives, not a new risk."
+  },
+  {
+   "text": "Other states have enacted or are expected to enact licensing requirements relating to our cryptocurrency business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new state-level licensing requirements specifically for the cryptocurrency business."
+  },
+  {
+   "text": "Additionally, in July 2025, Congress enacted the Guiding and Establishing National Innovation for U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual context for a new law that expands existing regulatory risk discussion."
+  },
+  {
+   "text": "Stablecoins Act of 2025 (the \u201cGENIUS Act\u201d), establishing a federal framework for stablecoin regulation that includes requirements for cryptocurrency businesses, including PayPal.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new federal regulatory framework (GENIUS Act) directly affecting PayPal's crypto operations."
+  },
+  {
+   "text": "Congress may enact and federal agencies may adopt additional licensing or regulatory requirements relating to our cryptocurrency business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic forward-looking statement about possible future regulation, restates existing risk language."
+  },
+  {
+   "text": "In December 2025, we submitted applications to the Utah Department of Financial Institutions and the Federal Deposit Insurance Corporation to establish PayPal Bank, a proposed Utah-chartered industrial loan company.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new business initiative (bank charter application) not previously mentioned, introducing new regulatory exposure."
+  },
+  {
+   "text": "There is no assurance that our applications to establish PayPal Bank will receive regulatory approval.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty detail tied to the newly disclosed bank charter application."
+  },
+  {
+   "text": "This will change in the E.U. markets with the implementation of the revised Consumer Credit Directive which will take effect in November 2026 and result in formerly \u201cunregulated\u201d credit products being generally (and subject to the principle of proportionality in particular regarding underwriting obligations) subject to the same laws as fully regulated credit.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific EU regulatory change (Consumer Credit Directive) with concrete compliance implications."
+  },
+  {
+   "text": "In Canada, PayPal Canada Co. offers a consumer short-term, interest-free installment product pursuant to multiple provincial credit licenses and subject to other laws which cover consumer protection, debt collection and privacy.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about a regulated product in Canada, expanding existing regulatory risk discussion."
+  },
+  {
+   "text": "PayPal holds multiple state licenses to market and service this product.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about licensing, no new risk substance."
+  },
+  {
+   "text": "Artificial Intelligence regulation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading introducing topic, not itself a risk statement."
+  },
+  {
+   "text": "We use AI and machine learning technologies in various aspects of our business, including fraud prevention, risk management, product optimization and customer service.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing use of AI technology, factual not risk-specific."
+  },
+  {
+   "text": "Governments and regulators globally are increasingly focused on the oversight of AI technologies and have proposed or enacted laws aimed at ensuring transparency, fairness, and accountability.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies emerging global regulatory focus on AI, a new area of regulatory risk."
+  },
+  {
+   "text": "For example, the EU has adopted the Artificial Intelligence Act, which provides a comprehensive framework for regulating AI, and other jurisdictions are considering similar frameworks.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites specific new law (EU AI Act) creating concrete compliance risk not previously disclosed."
+  },
+  {
+   "text": "Compliance with existing and emerging AI regulations may require operational changes, increased costs, or limit the use of AI in our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on compliance cost/operational impact tied to the newly introduced AI regulation risk."
+  },
+  {
+   "text": "Evolving interpretations or enforcement of these regulations could also affect our ability to deploy certain AI-driven features and may subject us to additional regulatory scrutiny.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on consequences of AI regulatory uncertainty already introduced."
+  },
+  {
+   "text": "Additional regulatory developments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading, no substantive content."
+  },
+  {
+   "text": "In 2025, we invested in our employees\u2019 growth with programs to help employees take charge of their careers: a clear career framework, better development tools, and greater visibility into what growth looks like.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee development programs, unrelated to risk factors."
+  },
+  {
+   "text": "With our new leadership capabilities launched, we also introduced a refreshed leadership program for our VP+ population, a program that we will expand to Senior Directors in 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes leadership program expansion, not a risk statement."
+  },
+  {
+   "text": "FY 2025 FORM 10-K 13 Table of Contents ITEM 1A.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Table of contents/header text, not substantive."
+  },
+  {
+   "text": "For example, in August 2025, PayPal experienced a temporary service disruption triggered by a coding error in a system update, which primarily impacted a limited number of customers and partners in Germany.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new operational incident (service disruption) not previously disclosed."
+  },
+  {
+   "text": "In connection with this disruption, we experienced some fraudulent transaction activity for a limited time period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details a consequence (fraud) of the newly disclosed disruption, expanding on that new risk."
+  },
+  {
+   "text": "We have incurred transaction losses and other expenses as a result, including claims under our protection programs, and this or other disruptions may subject us to increased regulatory scrutiny, fines, penalties and litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details financial and regulatory consequences of the same disruption event."
+  },
+  {
+   "text": "Additionally, we are a digital asset service provider under the Guiding and Establishing National Innovation for U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Establishes PayPal's new legal classification and obligations under the GENIUS Act."
+  },
+  {
+   "text": "Stablecoins Act of 2025 (the \u201cGENIUS Act\u201d), which subjects us to obligations relating to our cryptocurrency business and may affect the competitive landscape for payment stablecoins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on competitive implications of the newly described GENIUS Act obligations."
+  },
+  {
+   "text": "The recently enacted GENIUS Act provides a regulatory framework that is in the process of being implemented.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates that the GENIUS Act framework is being implemented, echoing prior statements."
+  },
+  {
+   "text": "For example, there continues to be enforcement activity in connection with federal and state consumer protection laws, including suits which seek civil penalties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on ongoing enforcement activity within existing consumer protection risk area."
+  },
+  {
+   "text": "We have entered into agreements with third parties to sell various buy now, pay later loan receivables originated by PayPal entities.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new business arrangement (selling BNPL receivables) introducing new counterparty/regulatory risk."
+  },
+  {
+   "text": "There can be no assurance that our employees, contractors, or agents will not violate applicable laws or our policies, procedures and controls designed to help ensure compliance with these laws.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about employee/agent compliance, standard boilerplate."
+  },
+  {
+   "text": "In particular, recent tariffs and reciprocal trade measures enacted or threatened to be enacted by the U.S. and other countries have led to increased volatility and uncertainty in certain parts of the global economy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new macroeconomic risk from tariffs and trade measures."
+  },
+  {
+   "text": "We cannot predict the timing, strength or duration of any economic volatility, slowdown, instability or recovery, whether in the U.S. or globally, or within any particular industry.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty language about economic conditions, no new specifics."
+  },
+  {
+   "text": "These conditions could have a material adverse impact on the demand for our products and services which FY 2025 FORM 10-K 25 Table of Contents could adversely affect our results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates potential adverse impact on demand, consistent with existing economic risk framing."
+  },
+  {
+   "text": "Evolving laws, regulations and stakeholder expectations with respect to environmental, social and governance matters could harm our reputation and adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor topic concerning ESG law evolution and reputational harm."
+  },
+  {
+   "text": "Various jurisdictions both in the U.S. and internationally have adopted or are developing laws, regulations and policies relating to environmental, social and governance matters (e.g., environmental sustainability and climate change) which include disclosure, reporting and diligence requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on jurisdictions' ESG regulatory developments, expanding the newly introduced ESG risk."
+  },
+  {
+   "text": "Compliance with these requirements may involve significant costs, and any actual or perceived failure to comply with applicable (and potentially conflicting) federal, state, local or international laws or regulations concerning environmental, social, and governance matters could subject us to fines, penalties, regulatory or other enforcement actions, and adversely affect our business or financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details compliance costs and enforcement risk tied to the ESG risk topic."
+  },
+  {
+   "text": "In addition, various stakeholders, including investors, customers, employees, governmental authorities and regulators, may have differing expectations regarding environmental, social and governance matters related to us (including those supporting and opposing various environmental, social and governance matters), whose expectations and requirements are evolving and varied.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates stakeholder expectation risks within the same ESG topic."
+  },
+  {
+   "text": "Any initiatives, targets, data, or commitments we disclose with respect to these matters involve risks and uncertainties and could be difficult to achieve and costly to implement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds risk detail about difficulty achieving ESG commitments, continuing the same new risk theme."
+  }
+ ]
+}

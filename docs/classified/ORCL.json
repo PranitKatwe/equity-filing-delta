@@ -1,0 +1,218 @@
+{
+ "ticker": "ORCL",
+ "sector": "Information Technology",
+ "filing_date": "2022-06-21",
+ "accession": "0001564590-22-023675",
+ "prior_accession": "0001564590-21-033616",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 27
+ },
+ "items": [
+  {
+   "text": "Our NetSuite applications are generally marketed to small to medium-sized organizations; and \u2022 Oracle Advertising, which enables organizations to leverage their own data and consumer data to inform and measure marketing strategies and programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes existing product marketing segment and Oracle Advertising offering; purely descriptive, not a risk."
+  },
+  {
+   "text": "8 Table of Contents Index to Financial Statements Oracle Cloud Infrastructure (OCI) OCI offerings are based upon Oracle\u2019s Next-Generation Cloud Infrastructure and are designed to deliver our infrastructure technologies as a service including compute, storage and networking services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of OCI infrastructure offerings, not a risk statement."
+  },
+  {
+   "text": "OCI offerings include our Oracle Autonomous Database offerings, among others, that Oracle runs, manages, upgrades and supports on behalf of the customer.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes Autonomous Database service features, purely descriptive."
+  },
+  {
+   "text": "We typically charge a prepaid fee that is decremented as the OCI services are consumed by the customer over a stated time period.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes pricing model, no risk content."
+  },
+  {
+   "text": "In addition to the full suite of OCI offerings delivered by dozens of Oracle public cloud regions across the globe, we provide our customers with flexibility by offering certain OCI services within a customer\u2019s own data center to address customer latency requirements and address restrictions imposed upon customers that operate in certain regulated industries, entities or jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes flexibility of OCI deployment options, descriptive only."
+  },
+  {
+   "text": "Oracle Autonomous Database is designed to enable on-demand, automatic scaling of database resources combined with consumption-based pricing in order to help organizations lower costs by paying only for resources used.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product feature description, no risk."
+  },
+  {
+   "text": "We believe Oracle Autonomous Database\u2019s built-in developer capabilities and automation will enable organizations to: \u2022 quickly deploy new data marts and data warehouses; \u2022 move existing ones to the cloud; and \u2022 create data lake houses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing description of product capabilities."
+  },
+  {
+   "text": "For transaction processing workloads, Oracle Autonomous Database is designed to enable organizations to safely run a complex mix of high-performance transactions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product capability description."
+  },
+  {
+   "text": "It is also designed to enable organizations to efficiently support dynamic workloads, conduct real-time analysis of transactional data and lower administration costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product capability description."
+  },
+  {
+   "text": "None of our employees in the U.S. is represented by a labor union; however, in certain foreign subsidiaries, labor unions or workers\u2019 councils represent some of our employees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about labor union representation, standard disclosure not a new risk."
+  },
+  {
+   "text": "Our focus on diversity and inclusion is reflected throughout our organization, starting at the highest level.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General diversity statement, no specific risk."
+  },
+  {
+   "text": "Our Chief Executive Officer is a woman and forty percent of our Board members are women and/or come from a diverse background.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about leadership diversity, not a risk."
+  },
+  {
+   "text": "We are proud to be recognized for our progress and commitment to D&I, including being named a Best Place to Work for LGBTQ+ Equality in 2022 by the Human Rights Campaign Foundation, a 2021 Best Place to Work for Disability Inclusion by the Disability Equality Index, and a 2022 Top Supporter of Historically Black College and University Engineering Schools by Career Communications Group.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Award recognition, promotional not risk related."
+  },
+  {
+   "text": "The results of the survey are also discussed with our Board of Directors and Board committees.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal survey process, procedural not a risk."
+  },
+  {
+   "text": "Employee Experience Emerging from the COVID-19 pandemic, Oracle has further increased our focus on delivering a great employee experience, anchored by meaningful work, career opportunities and well-being, to continue to attract and retain high quality talent.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about employee experience focus, no specific risk."
+  },
+  {
+   "text": "We support employee well-being from multiple dimensions, including economic, health, development, and lifestyle with a comprehensive suite of compensation, benefits, learning and development, and flexible work options.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General description of employee benefits, not a risk."
+  },
+  {
+   "text": "Of particular note are the efforts made by employees to support colleagues impacted by the Russia-Ukraine conflict, above and beyond the direct support Oracle has provided.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes employee support efforts for Ukraine, not a business risk statement."
+  },
+  {
+   "text": "In addition to monetary donations by employees and by Oracle through its matching program to support humanitarian relief efforts in Ukraine and Oracle employees in need, many employees have offered direct assistance to Ukrainian coworkers and their families as they seek safety.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes charitable/employee support actions, not a risk."
+  },
+  {
+   "text": "Homeland Security Advisory Council.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing council membership, no risk content."
+  },
+  {
+   "text": "During fiscal 2022, we held many of our major customer events in a virtual format.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about virtual events during fiscal 2022, descriptive not risk."
+  },
+  {
+   "text": "As a part of our Oracle Cloud strategy, we plan our investment levels based on estimates of future revenues and future anticipated rates of growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about investment planning approach, not a specific new risk."
+  },
+  {
+   "text": "In recent periods, our cloud services and license support expenses have grown to meet current and expected demand for our cloud offerings, including investments to increase our existing data center capacity and to establish data centers in new geographic locations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing risk of rising cloud expenses due to capacity investments, expanding prior general risk discussion."
+  },
+  {
+   "text": "In connection with these investments, we entered, and expect to continue to enter, into long-term operating lease commitments with third party data center providers that generally require us to pay fees to early exit such obligations should our strategies change, which could adversely impact our profitability and cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new financial risk regarding early exit fees on long-term data center lease commitments impacting profitability and cash flow."
+  },
+  {
+   "text": "In addition, we outfit these data centers with equipment and improvements that we typically depreciate over their estimated useful lives, which could be shortened should our cloud strategies change, which could adversely affect our profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk about depreciation timelines being affected by strategy changes, impacting profitability."
+  },
+  {
+   "text": "Supply chain shortages have in some instances resulted in increases to the costs of production of our hardware products that we may not be able to pass on to our customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific supply chain cost risk affecting hardware production that cannot be passed to customers."
+  },
+  {
+   "text": "In addition, we have in some instances responded to such shortages by committing to higher inventory purchases and balances relative to our historical positions in order to secure manufacturing capacity, which has in some instances increased inventory excess and obsolescence risk and adversely impacted our operating cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on supply chain risk by detailing inventory excess/obsolescence and cash flow impacts."
+  },
+  {
+   "text": "We recently reopened certain of our offices around the globe and we intend to reopen other offices when it is safe to do so and local requirements allow.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes office reopening logistics, procedural not a risk."
+  },
+  {
+   "text": "Our employees continue to have flexibility to choose where and how to work.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes workplace flexibility policy, not a risk statement."
+  },
+  {
+   "text": "On June 8, 2022, we closed the acquisition of Cerner Corporation (\u201cCerner\u201d).",
+   "category": "new_substantive_risk",
+   "rationale": "Announces closing of a major acquisition (Cerner), introducing new business exposure not previously present."
+  },
+  {
+   "text": "We are a U.S. federal government contractor and are therefore subject to a federal executive order requiring our U.S.-based employees to be vaccinated unless they qualify for medical or religious exemptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk regarding federal vaccine mandate for government contractors."
+  },
+  {
+   "text": "The executive order has been challenged in court and has been enjoined from enforcement, but its ultimate status, and the impact on our business, is uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details uncertainty around the vaccine mandate's legal status, expanding the newly introduced mandate risk."
+  },
+  {
+   "text": "However, this requirement or other future vaccine mandates could adversely affect our workforce retention and hiring.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaboration of vaccine mandate risk's potential workforce impact."
+  },
+  {
+   "text": "In addition, customer vaccination requirements, as well as certain state and local vaccination mandates, may impact our staffing abilities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends vaccine mandate risk to customer and state/local requirements affecting staffing."
+  },
+  {
+   "text": "Additional impacts and risks that we are not currently aware of may arise.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unknown future impacts, typical boilerplate language."
+  },
+  {
+   "text": "We are similarly unable to predict the extent of the impact of the pandemic on our customers, partners, suppliers and other partners, but a material effect on these parties could also materially and adversely affect us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about pandemic's uncertain effect on business partners, standard boilerplate risk framing."
+  },
+  {
+   "text": "In addition, we have curtailed travel expenses since the beginning of the COVID-19 pandemic, and it may become necessary for us to increase such travel expenses prospectively in furtherance of our business initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Minor operational detail about travel expense fluctuations, not a substantive new risk."
+  },
+  {
+   "text": "Our recent acquisition of Cerner also subjects us to additional data privacy and other related regulations governing the healthcare industry and patient information, including but not limited to regulations governing electronic health data transmissions, the treatment of patient information, healthcare fraud and healthcare information sharing.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new regulatory exposure from Cerner acquisition related to healthcare data privacy laws, a specific new compliance risk."
+  },
+  {
+   "text": "Even a favorable judgment may be subject to appeals leading to protracted litigation, additional costs and the prospect that our desired outcome will be overturned.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic litigation risk language about appeals, standard legal boilerplate."
+  },
+  {
+   "text": "For example, in November 2021, the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "References specific new legislative development (Build Back Better Act) introducing potential tax law risk."
+  },
+  {
+   "text": "House of Representatives passed a bill titled the \u201cBuild Back Better Act\u201d under budget reconciliation procedures.",
+   "category": "new_substantive_risk",
+   "rationale": "Continuation of legislative risk discussion regarding potential tax law changes from the Build Back Better Act."
+  }
+ ]
+}

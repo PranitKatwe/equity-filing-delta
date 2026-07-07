@@ -1,0 +1,218 @@
+{
+ "ticker": "REG",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-13",
+ "accession": "0001193125-26-051668",
+ "prior_accession": "0000950170-25-021359",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 28,
+ "counts": {
+  "new_substantive_risk": 16,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 12
+ },
+ "items": [
+  {
+   "text": "These strategic priorities support our achievement of key financial and business objectives, while at the same time positively impacting environmental concerns such as climate change, resource scarcity and pollution (including GHG emissions reduction).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic strategic/ESG framing statement without a specific risk."
+  },
+  {
+   "text": "These targets reflect input from our investors and tenants.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about investor/tenant input, no specific risk."
+  },
+  {
+   "text": "We will be subject to regular U.S. federal corporate income tax to the extent that we distribute less than 100% of our net taxable income (including net capital gains) and will be subject to a 4% nondeductible excise tax on the amount by which our distributions in any calendar year are less than a minimum amount specified under U.S. federal income tax laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on standard REIT taxation mechanics (excise tax) which is part of the existing REIT qualification risk."
+  },
+  {
+   "text": "In addition, we may be subject to certain state and local income and franchise taxes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on state/local tax exposure to existing REIT tax risk."
+  },
+  {
+   "text": "If we fail to qualify as a REIT, distributions to stockholders will not be deductible by us, we will not be required to distribute any amounts to our stockholders, and all distributions to stockholders will be taxable as regular corporate dividends to the extent of our current and accumulated earnings and profits.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of REIT disqualification, elaborating on existing REIT risk."
+  },
+  {
+   "text": "7 The Pro-rata information is prepared on a basis consistent with the comparable consolidated amounts and is intended to more accurately reflect our proportionate economic interest in the assets, liabilities, and operating results of properties in our portfolio.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional/methodology explanation of a non-GAAP metric, not a risk."
+  },
+  {
+   "text": "It is calculated on a proportionate ownership basis for properties held during the comparable reporting periods, excluding revenue and expenses related to non-same properties during the applicable periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Further methodology detail for the Pro-rata NOI measure."
+  },
+  {
+   "text": "Management believes this measure provides investors with a useful and consistent comparison of the Company\u2019s operating performance and trends.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about usefulness of a metric, not a risk."
+  },
+  {
+   "text": "Management uses Pro-rata Same Property NOI as a supplemental measure to assess property-level performance, excluding the effects of corporate-level expenses, financing costs, and non-operating activities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explains how management uses a metric, not a risk disclosure."
+  },
+  {
+   "text": "This measure allows investors to evaluate trends in revenue and expense growth for properties that have been consistently operated during the periods.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about investor utility of a metric."
+  },
+  {
+   "text": "Risk Factors Related to the Current Economic and Geopolitical Environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header, no substantive content."
+  },
+  {
+   "text": "Macroeconomic, political, and geopolitical conditions and governmental policies may adversely impact consumer confidence and spending and the businesses of our tenants and could, in turn, adversely impact our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk framing around macroeconomic/geopolitical conditions impacting tenants and business."
+  },
+  {
+   "text": "A variety of macroeconomic, political, and geopolitical factors, driven in some cases by governmental policy decisions, individually or in the aggregate, could adversely affect the operating environment for retailers and service providers, including increasing the potential for a recession.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific macro factors including recession potential affecting retailers."
+  },
+  {
+   "text": "Federal Reserve\"), inflationary pressures, changes in interest rates, energy price changes, labor availability and shortages (including those influenced by governmental immigration policies), supply chain disruptions, tightening credit markets, decreases in consumer confidence and discretionary spending, increases in unemployment and broader uncertainty in the macroeconomic outlook and capital markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Lists specific new risk drivers: inflation, interest rates, labor shortages, supply chain disruptions, tightening credit."
+  },
+  {
+   "text": "Geopolitical events and United States governmental policies relating thereto could also impact our business and the businesses of our tenants.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces geopolitical/government policy risk to tenants and business."
+  },
+  {
+   "text": "These include, without limitation, changes in trade and tariff policies (as well as potential trade disputes and retaliatory actions by other countries), entry into and termination of treaties and trade agreements, and economic sanctions.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies trade/tariff policy and sanctions risk, a new concrete risk category."
+  },
+  {
+   "text": "In addition, geopolitical conflicts, including the war involving Russia and Ukraine, conflicts and instability in the Middle East and Venezuela, geopolitical conflicts in other regions, and economic or political tensions with trading partners including China (including any slowing of its economy), could adversely impact the businesses of our tenants and, hence, our business, It is unclear whether and when these geopolitical challenges and uncertainties will be mitigated or resolved, and what effect they may have on global political and economic conditions over the long term.",
+   "category": "new_substantive_risk",
+   "rationale": "Names specific geopolitical conflicts (Russia-Ukraine, Middle East, China tensions) as new risk sources."
+  },
+  {
+   "text": "The individual or aggregate impact of any or all of these events, conditions and policy decisions may reduce consumer spending, increase our tenants\u2019 operating costs, reduce demand for their products or services, impact their access to labor or credit, and impair their ability to meet their lease obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of the newly introduced macro risks on tenant operations."
+  },
+  {
+   "text": "In turn, this could negatively affect the overall market for retail space, resulting in decreased demand for space in our centers, which could result in reduced leasing activity, downward pressure on rents that we are able to charge to new or renewing tenants and higher vacancy levels, such that future rent collection and recovery of operating expenses could be adversely impacted and uncollectible rent income could increase.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details downstream effects on leasing and rents, expanding the macro risk narrative."
+  },
+  {
+   "text": "All of this, individually or in the aggregate, could adversely impact our results of operations, cash flows, and the financial condition of the Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic concluding statement summarizing potential adverse impact without new specifics."
+  },
+  {
+   "text": "Changes in interest rates may adversely impact our cost to borrow, real estate valuation, stock price, and ability to raise capital through issuance of debt and equity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates interest rate risk to cost of capital and valuation, likely an existing risk category being expanded."
+  },
+  {
+   "text": "Federal Reserve has changed its benchmark federal funds rate at different times since 2021.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific historical context about Fed rate changes since 2021."
+  },
+  {
+   "text": "Currently, the federal funds rate remains elevated as compared with the 2010-2020 period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides current specific data point on elevated federal funds rate."
+  },
+  {
+   "text": "The federal funds rate has historically been adjusted by the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General historical explanation of Fed rate-setting process."
+  },
+  {
+   "text": "Federal Reserve to address its perception of economic conditions, including inflation and the jobs market.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of Fed's mandate considerations."
+  },
+  {
+   "text": "Federal Reserve has more recently reduced the federal funds rate, the future direction, magnitude, and pace of interest rate changes as always remain uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes uncertainty in future rate direction, expanding existing interest rate risk discussion."
+  },
+  {
+   "text": "In addition to our exposure to variable-rate debt, we have approximately $348.3 million and $752.1 million of consolidated fixed rate debt maturing in 2026 and 2027 that we expect to refinance, in whole or part, by accessing the public and/or private debt markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific dollar amounts of fixed-rate debt maturing in 2026/2027 requiring refinancing, a concrete new disclosure."
+  },
+  {
+   "text": "If interest rates are elevated or volatile at the time these obligations are refinanced, the cost of issuing new debt could be materially higher than our maturing debt, which would increase our overall cost of capital and adversely affect our liquidity, results of operations, and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential cost impact of refinancing at higher rates, expanding interest rate risk."
+  },
+  {
+   "text": "9 Prolonged periods of high interest rates may also negatively impact the capitalization rates applied by investors when analyzing the valuation of our real estate asset portfolio.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on how prolonged high rates affect real estate valuation."
+  },
+  {
+   "text": "Autonomous delivery systems, drone deliveries, and robotic fulfillment centers could also reduce the need for strategically located retail space.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive threat from autonomous delivery and robotic fulfillment reducing need for retail space."
+  },
+  {
+   "text": "In addition, while our grocery tenants span a range of different formats, traditional grocers have seen, and may continue to see, loss of business to non-traditional grocers (such as Walmart, and Target), \"discount grocers\" (such as Aldi and Dollar General) and \"specialty grocers\" (such as Whole Foods, Trader Joe's and Fresh Market), which may also impact foot traffic at some of our centers.",
+   "category": "new_substantive_risk",
+   "rationale": "Names specific competitors and grocery format shifts as a new tenant competition risk."
+  },
+  {
+   "text": "For example, in recent years we have seen material increases in the cost of insurance for our properties.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new cost pressure: material increases in insurance costs for properties."
+  },
+  {
+   "text": "In addition, anti-climate change advocates, as well as certain state attorneys general, have also commenced investigations and brought legal challenges relating to corporate climate initiatives and commitments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new legal/regulatory risk from anti-climate change litigation and investigations."
+  },
+  {
+   "text": "Also, through one or more executive orders issued by the president and policy implementation by executive branch agencies, the federal government has implemented policy changes intended to de-emphasize climate change and initiatives relating to its mitigation.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new federal policy risk de-emphasizing climate initiatives, a specific regulatory change risk."
+  },
+  {
+   "text": "We may also face scrutiny by anti-ESG stakeholders for having such goals or targets, or for our participation in ESG rating or other systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of anti-ESG stakeholder scrutiny."
+  },
+  {
+   "text": "Moreover, we expect investor, lender and other stakeholder pressure to comply with these voluntary disclosure frameworks to continue, irrespective of climate-related policy decisions by the federal government.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing ESG/investor pressure risk by noting continuation despite policy shifts."
+  },
+  {
+   "text": "We have experienced cyberattacks and cybersecurity incidents in the past (although none had material adverse impacts on our business or results of operations) and expect to face similar ongoing threats in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific past cyberattack experience, a concrete new risk disclosure."
+  },
+  {
+   "text": "Remote and hybrid working arrangements at our company (and at many third-party providers) may also increase cybersecurity risks due to the challenges associated with managing remote computing assets and security vulnerabilities that are present in many non-corporate and home networks.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new cybersecurity risk stemming from remote/hybrid work arrangements."
+  },
+  {
+   "text": "Additionally, any integration of AI in our or any service providers\u2019 operations, products or services may pose new or unknown cybersecurity risks and challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk from AI integration creating unknown cybersecurity vulnerabilities."
+  },
+  {
+   "text": "There can be no assurance that our cybersecurity risk management program and processes, including our policies, controls and procedures, will be fully implemented, complied with or effective in protecting our systems and information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about effectiveness of cybersecurity program, standard cautionary language."
+  }
+ ]
+}

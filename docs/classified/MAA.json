@@ -1,0 +1,63 @@
+{
+ "ticker": "MAA",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-06",
+ "accession": "0001193125-26-041208",
+ "prior_accession": "0000950170-25-016287",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Further, we intend to continue to implement platform initiatives across our apartment communities as part of our business strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States an intention to continue implementing platform initiatives as part of strategy; it is descriptive context rather than itself identifying a specific risk."
+  },
+  {
+   "text": "Once implemented, platform initiatives may not perform as we expect.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that platform initiatives may fail to perform as expected, a concrete business risk not previously described."
+  },
+  {
+   "text": "We may also overestimate the revenue (or expense savings) that such platform initiatives may generate.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds a specific new risk of overestimating revenue or expense savings from platform initiatives, a distinct financial risk element."
+  },
+  {
+   "text": "In the last few years, we have transformed our executive team by elevating several internal candidates to key leadership positions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a factual/historical statement about executive succession, not a description of a risk to the business."
+  },
+  {
+   "text": "A failure to keep pace with developments in technology could impair our operations or competitive position.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a concrete new risk that failing to keep pace with technology could impair operations or competitive position."
+  },
+  {
+   "text": "Our business continues and will continue to demand the use of sophisticated systems, software and technology, including artificial intelligence.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically calls out reliance on sophisticated systems including artificial intelligence, adding a new and currently material risk dimension not previously mentioned."
+  },
+  {
+   "text": "These systems, software and technologies must be refined, updated and replaced on a regular basis in order for us to meet our business requirements, our residents\u2019 demands and expectations, and regulatory requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the technology risk by noting the need for continuous refinement and updates, expanding on the risk already introduced."
+  },
+  {
+   "text": "If we are unable to do so on a timely basis or at a reasonable cost, or fail to do so, our business could suffer.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the consequences of failing to update technology, extending the previously introduced technology risk."
+  },
+  {
+   "text": "Also, we may not achieve the benefits that we anticipate from any new system, software or technology, and a failure to do so could result in higher than anticipated costs or could adversely affect our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating on the technology risk by addressing potential failure to realize anticipated benefits and cost impacts."
+  }
+ ]
+}

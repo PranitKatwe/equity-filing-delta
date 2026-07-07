@@ -1,0 +1,218 @@
+{
+ "ticker": "FDS",
+ "sector": "Financials",
+ "filing_date": "2025-10-22",
+ "accession": "0001628280-25-045769",
+ "prior_accession": "0001013237-24-000141",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 12,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 14
+ },
+ "items": [
+  {
+   "text": "Our size, scale and role in the financial markets increases our risk for cyber-attacks and our exposure to other cyber-security risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about size/scale increasing cyber exposure is standard framing language common to large financial firms' cyber risk sections, not a specific new risk."
+  },
+  {
+   "text": "We use third-party service providers for certain critical functions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces reliance on third-party service providers for critical functions, a specific dependency risk not previously disclosed."
+  },
+  {
+   "text": "Cyber-security risks also may be derived from fraud or malice on the part of our employees or third-party service providers, or may result from human error, software bugs, server malfunctions, software or hardware failures or other technological failures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific sources of cyber risk (employee fraud, human error, software/hardware failures) that expand the existing cyber-security risk discussion."
+  },
+  {
+   "text": "In addition, failure by our clients or third-party service providers to notify us of system failures or security breaches in a timely manner could lead to unauthorized access to our systems and data, resulting in adverse effects on our business, operating results or financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific scenario (delayed breach notification by clients/vendors) that expands the existing cyber risk narrative."
+  },
+  {
+   "text": "Although we conduct due diligence during acquisition processes, acquired businesses may not have invested as heavily in security measures and technology, and this may introduce additional security risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk that acquired businesses may have weaker security investments, introducing M&A-related security exposure."
+  },
+  {
+   "text": "As these threats continually evolve, we are required to devote additional resources and investment to modify or enhance our systems and processes, including patch and vulnerability management, which we may not be able to do in a timely or complete manner, or without adversely impacting our business, financial condition or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on resource and investment needs to address evolving cyber threats, expanding existing cyber risk discussion."
+  },
+  {
+   "text": "We make a range of commitments to our clients regarding our security practices, processes and security posture.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement setting up context for the following risk, not itself a risk disclosure."
+  },
+  {
+   "text": "If we do not adequately implement and enforce these security practices to the satisfaction of our clients, we could be in violation of our commitments to our clients.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces contractual liability risk stemming from failure to meet client security commitments, a new specific exposure."
+  },
+  {
+   "text": "From time to time we have experienced outages across certain of our products and service providers, and we may still experience outages or other disruptions in the future, and such outages or disruptions may have a material adverse effect on the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses actual historical outages and potential future disruptions with material adverse effects, a new specific fact."
+  },
+  {
+   "text": "If our competitors or other third parties incorporate AI technologies, such as emerging generative and agentic AI, into their products and processes more quickly or more successfully than us, this could impair our ability to compete effectively.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new competitive risk specifically tied to AI technology adoption by competitors."
+  },
+  {
+   "text": "For example, AI technologies can lead to unintended consequences and errors, including generating content that appears correct but is factually inaccurate, misleading or otherwise flawed, or that results in unintended biases and discriminatory outcomes, which could harm our reputation and expose us to liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific AI-related harms (inaccurate content, bias) not previously disclosed, introducing new risk specifics."
+  },
+  {
+   "text": "These risks include the possibility of enhanced governmental or regulatory scrutiny, litigation or other legal liability, compliance issues, ethical concerns, negative client perceptions, confidentiality or security risks, as well as other factors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the AI risk by listing specific consequences like regulatory scrutiny and litigation."
+  },
+  {
+   "text": "AI technologies used in our products and processes may use or incorporate data from third-party sources, including information they input into the AI tools, which may expose us to risks associated with data rights and protection.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding third-party data used in AI tools and associated data rights/protection issues."
+  },
+  {
+   "text": "New and existing competitors are constantly developing innovative products or business models, including alternative data, analytics, technology-enabled platforms, and fintech solutions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitive innovation, standard competitive risk language."
+  },
+  {
+   "text": "Many of these competitors also have significant AI capabilities and funding.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically highlights competitors' AI capabilities and funding as a new competitive threat."
+  },
+  {
+   "text": "Some of these competitors may be able to introduce new technology, deliver products and services, or leverage data and analytics faster or more effectively than we can.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about competitors' speed/effectiveness, standard competitive risk phrasing."
+  },
+  {
+   "text": "The rapid pace of technological change, including advances in AI, cloud computing, and machine learning, along with evolving client demands, could cause our products and services to become outdated or less competitive.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing technology risk by specifically naming AI, cloud computing, and machine learning as drivers of change."
+  },
+  {
+   "text": "If we fail to keep pace with innovation, invest in developing new technology or data products, or successfully respond to disruptive competitors and emerging industry standards, our market position, revenues and operating results could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic risk of failing to innovate, standard boilerplate competitive risk language."
+  },
+  {
+   "text": "Clients are seeking additional contractual protections that may create additional liabilities for us Clients are increasingly looking to pass on contractual obligations to us, which may include service level, information and cyber-security requirements and audit rights.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of clients demanding additional contractual protections including cyber-security and audit rights."
+  },
+  {
+   "text": "There can be no assurance that we will be able to identify suitable candidates for successful acquisition at acceptable prices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard M&A risk language about inability to find suitable acquisition candidates, common boilerplate."
+  },
+  {
+   "text": "Increased scrutiny with respect to sustainability matters New laws, regulations, policies, and international agreements relating to environmental, social and governance (\u201cESG\u201d) matters are being developed and formalized in Europe and elsewhere globally, which requires us to comply with specific, target-driven frameworks, disclosure and other requirements in multiple jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory risk tied to ESG frameworks being developed in Europe and elsewhere."
+  },
+  {
+   "text": "Increased public, political or media scrutiny concerning ESG or climate matters may negatively affect our reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on reputational risk from ESG/climate scrutiny already introduced."
+  },
+  {
+   "text": "We may face criticism in respect of our climate and ESG products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on criticism risk related to climate/ESG products."
+  },
+  {
+   "text": "We may also face increased scrutiny from political leaders, organizations or groups criticizing ESG or climate-focused products, or our compliance with global ESG regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues to expand on political/regulatory scrutiny risk regarding ESG products and compliance."
+  },
+  {
+   "text": "Such scrutiny may impact demand for our products or limit our ability to attract and retain clients, resulting in adverse effects on our business, operating results or financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes business impact of ESG scrutiny, expanding the previously introduced risk."
+  },
+  {
+   "text": "Additionally, we use AI technologies from third party suppliers, which may include open-source software.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding use of third-party AI technologies including open-source software."
+  },
+  {
+   "text": "If we are unable to maintain rights to use these AI technologies on commercially reasonable terms, we may be forced to acquire or develop alternate AI technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk of losing rights to AI technology licenses and needing alternatives."
+  },
+  {
+   "text": "19 Table of Contents Inability to hire and retain key qualified personnel or navigate key management transitions The development, maintenance, sale and support of our products and services are dependent upon the knowledge, experience and ability of our highly skilled, educated and trained key personnel.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard statement about dependence on skilled personnel, common boilerplate for human capital risk section."
+  },
+  {
+   "text": "Accordingly, our business is dependent on successfully attracting, retaining and training talented employees and navigating key management transitions (including in our executive leadership team) in a highly competitive business environment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands personnel risk to explicitly include executive leadership transitions."
+  },
+  {
+   "text": "Our ability to attract and retain talented employees is dependent on a number of factors, including prevailing market conditions and compensation packages offered by companies competing for the same talent.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about talent retention depending on market conditions and compensation, standard language."
+  },
+  {
+   "text": "Key management transitions, such as our recent change in Chief Executive Officer, involve inherent risk, and such transition periods can be disruptive and may result in a loss of personnel with deep institutional or technical knowledge.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific recent CEO transition as a concrete new risk event."
+  },
+  {
+   "text": "If we fail to maintain proper and effective internal control and remediate any future control deficiencies, our ability or perceived ability to produce accurate and timely financial statements or reporting could be impaired, which could harm our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about internal control failures impairing financial reporting, standard risk factor language."
+  },
+  {
+   "text": "The Sarbanes-Oxley Act places certain requirements on public reporting companies with respect to internal controls for financial reporting and disclosure controls and procedures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes general Sarbanes-Oxley requirements, standard regulatory boilerplate."
+  },
+  {
+   "text": "As such, public reporting companies are required to furnish a report by management on, among other things, the effectiveness of internal control over financial reporting.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard reporting requirement for internal control effectiveness, boilerplate."
+  },
+  {
+   "text": "This assessment will include disclosure of any material weaknesses identified by management in a company\u2019s internal control over financial reporting.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard disclosure requirement for material weaknesses, boilerplate."
+  },
+  {
+   "text": "A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides generic definition of material weakness, standard boilerplate language."
+  },
+  {
+   "text": "As previously disclosed in our Annual Report on Form 10-K for the fiscal year ended August 31, 2024, we identified a material weakness in our internal control over financial reporting related to the design and operation of our information technology (\u201cIT\u201d) general controls that support our revenues, accounts receivable, and deferred revenues processes.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific previously identified material weakness in IT general controls, a concrete new fact."
+  },
+  {
+   "text": "We are still in the process of enhancing our internal controls related to the design and operation of our IT general controls that support our revenues, accounts receivable, and deferred revenues processes and expect to complete these remediation measures in fiscal 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on remediation timeline for the previously disclosed material weakness, expanding on that specific risk."
+  },
+  {
+   "text": "However, remediation efforts have placed, and will continue to place, a significant burden on management and add increased pressure to our financial and IT resources and processes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about the burden remediation places on management and resources, expanding the material weakness risk."
+  },
+  {
+   "text": "No system of controls, no matter how well designed and operated, can provide absolute assurance that the objectives of the system of controls will be met, and no evaluation of controls can provide absolute assurance that all control deficiencies or material weaknesses have been or will be detected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that no control system can guarantee detection of all deficiencies, standard boilerplate."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "FCX",
+ "sector": "Materials",
+ "filing_date": "2026-02-13",
+ "accession": "0000831259-26-000012",
+ "prior_accession": "0000831259-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 33,
+ "counts": {
+  "new_substantive_risk": 13,
+  "expanded_existing_risk": 20,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "For further discussion, refer to \u201cMarkets\u201d and \u201cU.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A simple cross-reference to another section, no risk content."
+  },
+  {
+   "text": "At December 31, 2025, our total consolidated debt was $9.4 billion, with $1.3 billion coming due in 2027 (see Note 6) and our total consolidated cash and cash equivalents was $3.8 billion.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates current debt and cash figures, a factual refresh of an existing liquidity/leverage risk rather than a new risk type."
+  },
+  {
+   "text": "Refer to Notes 1 and 10 for further discussion of our environmental obligations and AROs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to notes for environmental obligations, no new content."
+  },
+  {
+   "text": "\u201cLegal Proceedings.\u201d For example, we are currently subject to a securities class action and a shareholder derivative lawsuit following the September 2025 mud rush incident.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new litigation (securities class action and derivative lawsuit) tied to the mud rush incident, a specific new legal exposure."
+  },
+  {
+   "text": "Securities and Exchange Commission (SEC) and an information request from the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Indicates new regulatory scrutiny (SEC and information request), a specific new investigative risk."
+  },
+  {
+   "text": "However, changes in tax laws and regulations or interpretations of such laws and regulations may result in new limitations on our ability to benefit from our significant U.S.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about tax law changes affecting benefits, standard cautionary language."
+  },
+  {
+   "text": "As discussed in Note 9, based on current guidance, we have determined that the provisions of the Act did not impact our financial results for the three years ended December 31, 2025, but the proposed and interim guidance released by the Internal Revenue Service relating to the calculation of the CAMT is not final and is subject to change.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail on CAMT guidance status, elaborating on an already-known tax uncertainty."
+  },
+  {
+   "text": "Additionally, on July 4, 2025, the President signed into law H.R.1 (also referred to as the One Big Beautiful Bill Act), which includes a broad range of tax reform provisions affecting businesses, including extending and modifying certain provisions of the Tax Cuts & Jobs Act of 2017.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a newly enacted law (H.R.1) with broad tax reform implications, a new specific development."
+  },
+  {
+   "text": "H.R.1 did not have a material impact on our consolidated financial results for the year 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies immediate impact of the newly disclosed law, an extension of the same new tax development."
+  },
+  {
+   "text": "The aggregate impact of H.R.1, including how it will be interpreted and applied to us, remains uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty from the same newly introduced law rather than introducing a wholly separate risk."
+  },
+  {
+   "text": "In January 2026, the OECD published additional guidance on the framework, including safe harbor provisions that would minimize or eliminate application of the 15% global minimum income tax on domestic operations of U.S.-parent multinational companies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on OECD guidance related to the already-known global minimum tax issue."
+  },
+  {
+   "text": "The adoption and effective dates for such tax changes may vary by jurisdiction, could increase tax complexity and uncertainty, and may adversely affect our provision for income taxes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about varying adoption dates and complexity, standard cautionary language."
+  },
+  {
+   "text": "However, additional changes to these tax laws and regulations, including as a result of new guidance and interpretations, may occur and such changes could adversely affect our tax liability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic boilerplate about possible future tax law changes."
+  },
+  {
+   "text": "With the completion of its downstream processing facilities, PTFI is a fully integrated producer of refined copper and gold.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual descriptive statement about PTFI's integration status, not a risk."
+  },
+  {
+   "text": "Following the September 2025 mud rush incident, smelting operations in Indonesia at both PTFI\u2019s smelter and PT Smelting were temporarily suspended during fourth-quarter 2025 as a result of limited copper concentrate availability.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a major new operational disruption\u2014smelting suspension\u2014directly tied to the mud rush incident."
+  },
+  {
+   "text": "PT Smelting restarted operations in late December 2025 and is expected to operate at reduced rates pending the anticipated second-quarter 2026 restart of mining at the Grasberg Block Cave underground mine.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides operational timeline detail on the already-disclosed smelting suspension."
+  },
+  {
+   "text": "Shipments to PTFI\u2019s smelter are expected to recommence in the second half of 2026, pending the successful ramp up of mining operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further timeline detail on resumption of shipments related to the same incident."
+  },
+  {
+   "text": "We expect higher variability between PTFI\u2019s production and sales until its downstream processing facilities achieve normalized operating rates.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk of variability between production and sales due to downstream processing changes."
+  },
+  {
+   "text": "Following the expiration of its export license on September 16, 2025, PTFI expects all of its concentrate to be processed by its downstream processing facilities and does not have export licenses for copper concentrate or anode slimes.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses loss of export licenses, a new specific regulatory/operational constraint."
+  },
+  {
+   "text": "Effective March 1, 2025, the Indonesia government implemented a new regulation (March 2025 Regulation) for export proceeds that requires 100% of PTFI\u2019s export proceeds to be deposited into Indonesia banks for 12 months.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a new Indonesian government regulation requiring deposit of export proceeds, a new regulatory risk."
+  },
+  {
+   "text": "The March 2025 Regulation allows the use of funds for ongoing business requirements, including dividends to shareholders, payment of taxes and other obligations to the Indonesia government, payment for materials or capital expenditures that are not available domestically and repayment of loans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details permissible uses of funds under the same new regulation, elaborating on it."
+  },
+  {
+   "text": "The Indonesia government is considering additional changes to the March 2025 Regulation; however, the details of the modifications have not been finalized.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes potential further changes to the same newly disclosed regulation."
+  },
+  {
+   "text": "Refer to Note 10 for further discussion of the March 2025 Regulation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to notes, no substantive new content."
+  },
+  {
+   "text": "With the completion of PTFI\u2019s downstream processing facilities during 2025, FCX and PTFI have advanced discussions with the Indonesia government for a long-term extension of PTFI\u2019s operating rights beyond the current expiration in 2041.",
+   "category": "new_substantive_risk",
+   "rationale": "Reveals new strategic negotiations for a long-term extension of operating rights, a material new development."
+  },
+  {
+   "text": "PTFI is preparing its application for a long-term extension expected to cover the life of the resource, which is expected to be submitted during 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides procedural detail on the same extension application process."
+  },
+  {
+   "text": "In connection with the extension, PTFI would pursue additional exploration, conduct studies for future additional development and expand its social programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Additional detail on commitments tied to the same extension negotiation."
+  },
+  {
+   "text": "FCX expects to maintain its ownership interest in PTFI of approximately 49% through 2041 and hold approximately 37% beginning in 2042, following the transfer of an additional interest in PTFI to an Indonesia state-owned enterprise.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a material future change in ownership interest (from 49% to 37%), a new specific financial/strategic risk."
+  },
+  {
+   "text": "FCX expects the existing governance agreements would continue over the life of the resource.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies continuity of governance agreements tied to the same ownership change."
+  },
+  {
+   "text": "Operational risks The mud removal and other remediation activities, and the phased restart and ramp-up of the Grasberg Block Cave underground mine following the September 2025 mud rush incident may not be achieved as planned which could adversely impact our results of operations and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk heading concerning the mud rush incident's impact on restart and financial results."
+  },
+  {
+   "text": "On September 8, 2025, PTFI experienced an unprecedented mud rush incident, during which approximately 800,000 metric tons of wet material entered the Grasberg Block Cave underground mine from the former Grasberg open pit and traveled rapidly to multiple levels of the mine, including a service level where seven team members were later found deceased.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides detailed account of a major new safety incident causing fatalities and operational halt."
+  },
+  {
+   "text": "Mining operations were temporarily suspended to prioritize the recovery of the seven team members fatally injured during the incident and to conduct investigations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the operational suspension already introduced by the incident description."
+  },
+  {
+   "text": "Following the September 2025 mud rush incident, PTFI has been engaged in activities to address the incident and advance preparation for a safe and sustainable restart of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes ongoing remediation activities tied to the same disclosed incident."
+  },
+  {
+   "text": "In late October 2025, PTFI restarted operations at the unaffected Deep Mill Level Zone (DMLZ) and Big Gossan underground mines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides update on partial restart of unaffected mines, elaborating on incident recovery."
+  },
+  {
+   "text": "Investigations and remedial plans were completed in fourth-quarter 2025 and a phased restart and ramp-up of the Grasberg Block Cave underground mine is anticipated to begin in second-quarter 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further timeline detail on investigation completion and planned restart."
+  },
+  {
+   "text": "The incident impacted our results for the second half of 2025, and we expect the incident to have a significant impact on our 2026 operating and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Quantifies a significant expected financial impact on 2026 results, a material new risk disclosure."
+  },
+  {
+   "text": "We plan to implement enhanced operating procedures to address the conditions that led to the incident and use information from this unprecedented incident to further enhance risk management processes, including ongoing management and stabilization of conditions in the open pit.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes planned procedural improvements in response to the same incident."
+  },
+  {
+   "text": "Material changes to our operating plans could affect our mineral reserves.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk that operational plan changes could affect mineral reserves."
+  },
+  {
+   "text": "58 Table of Contents Mud removal is in process and other steps necessary for restart and ramp-up of operations, including implementation of enhanced operating procedures to address the conditions that led to the incident, development of updated cave management plans and draw protocols, and design, construction, repair and replacement of damaged infrastructure and equipment, are expected to begin in the near term.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further procedural detail on restart and remediation steps already described."
+  },
+  {
+   "text": "The timing of the phased restart and ramp-up of certain areas of the Grasberg Block Cave underground mine could be impacted by any delay in the removal and remediation activities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes potential delay risk tied to the same remediation process."
+  },
+  {
+   "text": "Further, new or additional operational challenges could arise as we progress mud removal and other remediation activities and the phased restart and ramp-up of the Grasberg Block Cave underground mine.",
+   "category": "expanded_existing_risk",
+   "rationale": "Acknowledges possibility of further operational challenges during the same ongoing remediation process."
+  }
+ ]
+}

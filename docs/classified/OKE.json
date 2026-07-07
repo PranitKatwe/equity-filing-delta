@@ -1,0 +1,108 @@
+{
+ "ticker": "OKE",
+ "sector": "Energy",
+ "filing_date": "2026-02-24",
+ "accession": "0001039684-26-000006",
+ "prior_accession": "0001039684-25-000036",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "In addition, future tariffs, trade restrictions or retaliatory measures could further increase our input costs, lengthen delivery schedules or disrupt the availability of key components, particularly if we are unable to manage lead times for materials and equipment used in constructing capital projects or to enter into procurement agreements for long\u2011lead items to mitigate such risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about how tariffs could affect lead times and procurement for capital projects, expanding on an existing tariff/trade risk rather than introducing a new type of risk."
+  },
+  {
+   "text": "Companies are subject to scrutiny from customers, investors, rating agencies, policymakers and other stakeholders regarding their management of ESG issues, including human capital and climate change.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about stakeholder scrutiny of ESG issues without specific new risk detail."
+  },
+  {
+   "text": "Certain capital providers could restrict or impose additional scrutiny on lending and investment in the energy sector, which could adversely impact the availability or cost of capital.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that capital providers may restrict lending/investment to the energy sector, affecting cost/availability of capital."
+  },
+  {
+   "text": "For example, while some policymakers (including certain states and the SEC under the previous administration) have adopted, or are considering adopting, requirements for the disclosure of climate risks or other information, other policymakers have sought to constrain companies\u2019 considerations of ESG matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General descriptive statement about the mixed policy landscape on ESG disclosure, not a specific new risk."
+  },
+  {
+   "text": "Any failure to successfully navigate stakeholder expectations, including regulatory developments, may result in reputational harm, increased costs or other adverse impacts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about reputational harm from failing to meet stakeholder expectations."
+  },
+  {
+   "text": "We engage in various efforts to respond to stakeholder expectations; however, such efforts may not have the desired effect.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that efforts to meet stakeholder expectations may not succeed; no specific new risk."
+  },
+  {
+   "text": "Many of these efforts rely on methodologies, assumptions and data (including third-party information) that are subject to varying interpretations or that continue to evolve, including in ways we cannot control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic caveat about methodology and data limitations, not a specific business risk."
+  },
+  {
+   "text": "Our approach may also continue to evolve, and we cannot guarantee that our approach will align with the expectations or preferences of any particular stakeholder.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving approach and stakeholder alignment, boilerplate in nature."
+  },
+  {
+   "text": "Various of our business partners and other stakeholders are subject to similar expectations on ESG matters, which may exacerbate or result in additional risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement that business partners face similar ESG expectations, without specific new risk detail."
+  },
+  {
+   "text": "The One Big Beautiful Bill Act, passed July 4, 2025, 38 Table of C ontents suspended the Methane Fee.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual regulatory update (suspension of Methane Fee) that is informational rather than describing a new or expanded risk."
+  },
+  {
+   "text": "Additionally, on February 12, 2026, the EPA issued a final rule eliminating the 2009 GHG endangerment finding, which underpins U.S. federal regulation of GHG emissions under the Clean Air Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new regulatory action (EPA eliminating the GHG endangerment finding) that introduces new regulatory uncertainty and potential litigation risk."
+  },
+  {
+   "text": "The final rule is expected to be subject to extensive litigation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the litigation risk stemming from the newly described EPA rule, expanding the risk just introduced."
+  },
+  {
+   "text": "Upon entering office, the new administration issued a series of executive orders that signal a shift in the United States\u2019 energy, environmental and climate change policy.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk factor: a shift in federal energy/environmental policy via executive orders that could materially affect operations."
+  },
+  {
+   "text": "Among other directives, such executive orders: (i) direct federal agencies to identify and exercise emergency authorities to facilitate conventional energy production, transportation and refining and call for the use of emergency regulations to expedite energy infrastructure projects; (ii) promote energy explorations and production on federal lands and waters; (iii) mandate a review of existing regulations that may burden domestic energy development; and (iv) rescission of funds and programs related to the IRA and Infrastructure Investment and Jobs Act.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific details of the executive orders' directives, expanding on the newly introduced policy shift risk."
+  },
+  {
+   "text": "We continue to assess the long-term impacts of such actions on our operations, if any.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing assessment of impacts, no new risk detail."
+  },
+  {
+   "text": "However, such actions may prompt various states and other policymakers to take more stringent action on such matters.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the regulatory uncertainty risk by noting potential state-level responses, expanding on the previously introduced policy shift risk."
+  },
+  {
+   "text": "Therefore, the net impact of any developments is difficult to predict with any certainty.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about difficulty predicting regulatory impact, standard cautionary language."
+  },
+  {
+   "text": "During the year ended December 31, 2025, we completed the EnLink Acquisition, the Delaware Basin JV Acquisition and the BridgeTex Additional Interest Acquisition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of completed acquisitions without elaboration on associated risks."
+  }
+ ]
+}

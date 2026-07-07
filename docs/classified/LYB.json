@@ -1,0 +1,203 @@
+{
+ "ticker": "LYB",
+ "sector": "Materials",
+ "filing_date": "2026-02-20",
+ "accession": "0001489393-26-000012",
+ "prior_accession": "0001489393-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 37,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 8,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 22
+ },
+ "items": [
+  {
+   "text": "Sustainability We continue to evolve our approach to sustainability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about evolving sustainability approach with no specific content."
+  },
+  {
+   "text": "In 2026, we updated our prior circularity and climate ambitions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement that goals were updated without specifics; framing language."
+  },
+  {
+   "text": "Production and marketing includes joint venture production we market plus our pro rata share of the remaining production produced and marketed by the joint venture, and production via third-party tolling arrangements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definitional clarification of terminology, not a risk."
+  },
+  {
+   "text": "Sustainability Actions in 2025 .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading with no substantive content."
+  },
+  {
+   "text": "We also completed the shutdown of refining operations at our Houston refinery in the first quarter of 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific factual detail (completed Houston refinery shutdown) that elaborates on an existing operational risk theme."
+  },
+  {
+   "text": "Additionally, we advocate for enabling policy support and government-backed frameworks to progress these initiatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic advocacy statement about policy support, no specific risk."
+  },
+  {
+   "text": "Our ambition to produce and market 800 thousand metric tons of recycled and renewable-based polymers annually by 2030 will require the successful completion of our MoReTec -1 plant, expansion of our recycling footprint through inorganic growth, increased demand for circular products and supportive regulatory frameworks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on dependencies and conditions tied to an existing sustainability ambition, adding specificity to prior risk."
+  },
+  {
+   "text": "Risk Factors for additional risks associated with each of our ambitions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another section, not substantive content."
+  },
+  {
+   "text": "While we continue to invest in our MoReTec- 1 plant as planned, we are delaying certain sustainability-related capital projects to preserve capital during the cycle downturn.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific action of delaying capital projects due to cycle downturn, a material business risk."
+  },
+  {
+   "text": "Stepping up Performance and Culture \u2014As part of our culture transformation, in 2025, we prioritized employee feedback and reinforced cultural attributes aligned with our strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic culture initiative narrative, not a risk."
+  },
+  {
+   "text": "One key initiative is the culture ambassador program, where employees serve as advocates for culture change and promote global understanding.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a culture program with no risk implication."
+  },
+  {
+   "text": "Ambassadors receive context, training, and information on company initiatives to support engagement and share feedback with leadership.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ambassador training, no risk content."
+  },
+  {
+   "text": "Insights from this program, along with our 2025 engagement survey, inform leadership actions to foster an environment that drives engagement, innovation and business results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes survey insights informing leadership, no risk."
+  },
+  {
+   "text": "Demographics \u2014As of December 31, 2025, we had approximately 18,970 employees, a decrease of approximately 7% when compared to 2024, driven by fixed cost reductions attributable to our cash improvement plan and Houston Refinery shutdown.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific quantitative disclosure of 7% workforce reduction tied to cost cutting and refinery shutdown, indicating operational restructuring risk."
+  },
+  {
+   "text": "In 2025, our networks continued to grow, and 24% of our employees are members of a network.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statistic about employee network membership, no risk."
+  },
+  {
+   "text": "Survey results also indicate members are more likely to participate in surveys and have a stronger strategic alignment to our organization compared to non-members.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Survey engagement statistic, no risk."
+  },
+  {
+   "text": "In 2025, we expanded access to our LYB University offerings by moving several of our formal programs and courses to open/self-enrollment, which allowed a greater number of employees the opportunity to enroll.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes training program changes, no risk."
+  },
+  {
+   "text": "Over 500 employees participated in our global leadership development programs, for people leaders and those who lead through influence.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Participation statistic in leadership program, no risk."
+  },
+  {
+   "text": "In addition, we offered a new series that focused on preparing people leaders to lead change and navigate through uncertainty and disruption, with 138 leaders in attendance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a new training series, no risk."
+  },
+  {
+   "text": "We are planning to continue this series into 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of future plan to continue a program, no risk."
+  },
+  {
+   "text": "Senior Vice President, Olefins & Polyolefins Americas and Refining from April 2024 to February 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "Vice President, Finance and Strategy, Intermediates & Derivatives from November 2022 to April 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "15 Table of Contents Name and Age Significant Experience Yvonne van der Laan, 54 Executive Vice President, Circular and Low Carbon Solutions since October 2022.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk."
+  },
+  {
+   "text": "We are currently constructing our first commercial-scale chemical recycling facility using our MoReTec technology, located at our site in Wesseling, Germany.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about facility construction location, contextual not risk itself."
+  },
+  {
+   "text": "Building a commercial-scale facility utilizing a new technology can face technical and other challenges resulting in increased costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific technical/cost risk associated with building a new commercial-scale facility using new technology."
+  },
+  {
+   "text": "In 2025, we announced the deferral of construction on our Flex-2 project in Channelview to preserve capital during the market downturn and also postponed the final investment decision on certain projects, such as MoReTec -2, which could result in increased costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific project deferrals (Flex-2, MoReTec-2) that could increase costs, a concrete new business risk."
+  },
+  {
+   "text": "For example, in the third quarter of 2025, a prolonged downturn in, and outlook for, the European petrochemical and global automotive industries, combined with the sustained decline in our market capitalization, resulted in non-cash impairment charges of $1,182 million, presented in both Goodwill impairments and Other impairments on the Consolidated Statements of Income (Loss).",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific $1,182 million impairment charge tied to market downturn, a material financial risk event."
+  },
+  {
+   "text": "For example, in March 2025, we announced the permanent closure of the PO/SM production unit at the Maasvlakte site in the Netherlands, a joint venture between us and Covestro, resulting in the recognition of $126 million in shutdown costs during the year ended December 31, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific plant closure and $126 million shutdown cost, a new material financial/operational event."
+  },
+  {
+   "text": "In 2025, we agreed to sell certain European olefins and polyolefins assets and the associated business.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a new divestiture of assets, introducing a new business risk regarding portfolio changes."
+  },
+  {
+   "text": "The sites to be sold are located in Berre l\u2019Etang (France), M\u00fcnchsm\u00fcnster (Germany), Carrington (United Kingdom), and Tarragona (Spain), and closing is expected in the second quarter of 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional specific details (locations, timing) about the divestiture risk already introduced."
+  },
+  {
+   "text": "There can be no assurance that announced dispositions - including our European divestiture - will be successfully completed on the expected timeline or at all, and transactions that are delayed or abandoned may cause additional disruption to the business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds risk language about uncertainty of completing announced dispositions, expanding on the divestiture risk."
+  },
+  {
+   "text": "Despite recent government actions to delay or decrease regulatory obligations in certain jurisdictions, we generally expect that these requirements may become more stringent over the longer term.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing regulatory risk expectation with updated context about government delays, same underlying risk."
+  },
+  {
+   "text": "In addition, it remains uncertain whether the EU will implement a carbon border adjustment mechanism for organic chemicals and polymers, and, if so, how such a mechanism would affect the competitiveness of our products and our exposure to higher carbon costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific uncertainty about EU carbon border adjustment mechanism and its competitive/cost impact."
+  },
+  {
+   "text": "While the negotiations ended in 2025 without reaching an agreement, they demonstrated significant interest globally in addressing these issues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds updated factual context about failed negotiations, expanding on existing regulatory/political risk discussion."
+  },
+  {
+   "text": "In 2026, we updated these goals.",
+   "category": "reworded_same_meaning",
+   "rationale": "Duplicate/rephrased statement that goals were updated, same as sentence about 2026 update."
+  },
+  {
+   "text": "We may need to further update our goals to address market changes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about possibly updating goals in future, no specific new risk."
+  },
+  {
+   "text": "We have set a 2030 circularity goal for producing and marketing recycled and renewable-based polymers annually by 2030.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates existing circularity goal already referenced elsewhere, no new specifics."
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "ticker": "DELL",
+ "sector": "Information Technology",
+ "filing_date": "2026-03-16",
+ "accession": "0001571996-26-000008",
+ "prior_accession": "0001571996-25-000034",
+ "model": "claude-sonnet-5",
+ "n_added": 35,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 30
+ },
+ "items": [
+  {
+   "text": "Our world-class supply chain operates at significant scale and provides us with the ability to remain agile in a variety of environments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic marketing language about supply chain scale and agility, not a risk statement."
+  },
+  {
+   "text": "While our supply chain operated efficiently at standard lead times, during both Fiscal 2025 and Fiscal 2026, increasing demand for our AI-optimized servers offerings continued to drive backlog growth.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing backlog/demand risk for AI servers with specific fiscal year details."
+  },
+  {
+   "text": "Given the scale of the AI opportunities, the varying stages of customer readiness, and the frequency of component part updates or transitions, there is inherent non-linearity in the timing of demand and subsequent shipments for our AI-optimized servers offerings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of non-linear timing in demand and shipments tied to AI opportunities and component transitions."
+  },
+  {
+   "text": "Additionally, during Fiscal 2026, demand for our traditional servers and networking offerings outpaced supply, resulting in incremental backlog growth as we exited the year.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing supply/demand imbalance risk to traditional servers and networking offerings."
+  },
+  {
+   "text": "Our commitments span the environment, our own workforce, and all of the people in our value chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic ESG commitment statement with no specific risk content."
+  },
+  {
+   "text": "Environment We embed circularity principles throughout our value chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic sustainability framing language, no specific risk."
+  },
+  {
+   "text": "We are committed to understanding the impact our business has on the environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic environmental commitment statement."
+  },
+  {
+   "text": "We are actively addressing climate-related risks by managing greenhouse gas emissions across our operations, supply chain, and product lifecycle.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic climate risk management framing without new specifics."
+  },
+  {
+   "text": "We seek to support our culture in the following key focus areas: Equal Employment Opportunity \u2014 We are committed to equal employment opportunity and maintaining an inclusive culture that gives all Dell Technologies employees an opportunity to thrive and succeed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic EEO/culture statement, not a risk disclosure."
+  },
+  {
+   "text": "Our programs reward performance as well as the behaviors and capabilities that enable it.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic compensation program description."
+  },
+  {
+   "text": "Through transparent, data-informed approaches, we build trust and align compensation with the priorities of our people and our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about compensation philosophy."
+  },
+  {
+   "text": "While a number of our programs are global, many benefits align with local requirements and market relevancy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about benefits alignment with local requirements."
+  },
+  {
+   "text": "Driving responsible manufacturing through robust assurance practices, including human rights due diligence and environmental stewardship, is fundamental to achieving our purpose of creating technologies that drive human progress, as well as building trust, driving innovation, and operating responsibly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic corporate responsibility framing language."
+  },
+  {
+   "text": "Our specialists work closely with suppliers to help identify the root causes of any concerns identified during audits and drive improvement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of supplier audit process, no new risk."
+  },
+  {
+   "text": "To proactively address risks, we provide resources to suppliers for skills building in areas such as forced labor and health and safety.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of supplier support programs."
+  },
+  {
+   "text": "By systematically assessing risks and adverse impacts, engaging directly with suppliers, and building workers\u2019 capabilities in our supply chain, we strive for accountability, transparency, and continuous improvement for ourselves and our business partners.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about supply chain risk management approach."
+  },
+  {
+   "text": "Kennedy serves as Chief Financial Officer of Dell Technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail, not a risk statement."
+  },
+  {
+   "text": "Kennedy served as Senior Vice President, Global Business Operations, Finance from February 2023 to September 2025 and, prior to that service, as Senior Vice President and Chief Operating Officer for Global Sales from February 2020 to February 2023, and as Senior Vice President and Chief Financial Officer of Dell Technologies\u2019 Client Solutions Group from April 2017 to February 2020.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography career history, not a risk."
+  },
+  {
+   "text": "He joined Dell in 1998 and has served in various leadership roles spanning key areas.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography detail."
+  },
+  {
+   "text": "In this role, which he has held since January 2026, Mr.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography role start date."
+  },
+  {
+   "text": "Scannell engages with customers and partners around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography description of role."
+  },
+  {
+   "text": "He brings extensive experience to guide customer strategy, advance high-value initiatives and deliver meaningful value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography description of experience."
+  },
+  {
+   "text": "Trizzino serves as President, Global Sales at Dell Technologies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography role description."
+  },
+  {
+   "text": "In this role, which he has held since January 2026, he oversees Sales, Presales, and Dell\u2019s global partner ecosystem to drive revenue growth and customer outcomes worldwide.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography role description."
+  },
+  {
+   "text": "Trizzino previously served as President of Global Sales Modernization & GTM from August 2025 to January 2026, where he championed new ways of working across Dell\u2019s sales organization by simplifying, standardizing and automating end-to-end sales motions to increase speed and customer engagement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography career history."
+  },
+  {
+   "text": "He also served as President, NA Sales, from February 2023 to August 2025, as President, DT Select from February 2021 to January 2023, and as Senior Vice President, DT Select from June 2020 to January 2021.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography career history."
+  },
+  {
+   "text": "Trizzino joined EMC in 2000, where he held various positions, including sales and leadership roles.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography career history."
+  },
+  {
+   "text": "Before joining Dell, he began his career at Xerox Corporation, a workplace technology company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Executive biography career history."
+  },
+  {
+   "text": "We also expect threat tactics leveraging AI to increase as AI technology availability and capability expand.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of increasing AI-driven threat tactics tied to expanding AI capability."
+  },
+  {
+   "text": "We are subject to various human rights laws, including provisions of the EU Forced Labor Regulations, U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new specific regulatory exposure to EU Forced Labor Regulations and related human rights laws."
+  },
+  {
+   "text": "Further, we rely on key personnel, including Jeffrey W.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mention of reliance on key personnel, common boilerplate risk language."
+  },
+  {
+   "text": "From January 31, 2026 to March 9, 2026, the SLP stockholders converted approximately 1 million shares of Class B Common Stock on a one-for-one basis into approximately 1 million shares of Class C Common Stock.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual disclosure of stock conversion activity, not a risk statement."
+  },
+  {
+   "text": "The amount and frequency of our share repurchases may fluctuate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about fluctuation in share repurchase amounts."
+  },
+  {
+   "text": "Although our Board of Directors has adopted a stock repurchase program, we are not obligated to repurchase any specific amount of shares of common stock, and the stock repurchase program may be suspended or terminated at any time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure about discretionary nature of stock repurchase program."
+  },
+  {
+   "text": "The amount, timing, and execution of our stock repurchase program may fluctuate, and changes in cash flows, tax laws, and our stock price could also impact our stock repurchase program.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors affecting repurchase program timing and amount."
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "ticker": "JNJ",
+ "sector": "Health Care",
+ "filing_date": "2026-02-11",
+ "accession": "0000200406-26-000016",
+ "prior_accession": "0000200406-25-000038",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "In addition, the U.S. government has imposed and/or announced the potential imposition of tariffs on products manufactured in other jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding U.S. government tariffs on products manufactured in other jurisdictions, which was not previously disclosed."
+  },
+  {
+   "text": "Risks related to the planned separation of our Orthopaedics business The planned separation of the Company's Orthopaedics business may not be completed on the terms or timeline currently contemplated, if at all, and may not achieve the expected results In October 2025, the Company announced its intention to separate the Company's Orthopaedics business.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a specific new corporate action\u2014the planned separation of the Orthopaedics business\u2014and flags risk that it may not be completed as planned, a wholly new material risk."
+  },
+  {
+   "text": "The Company is targeting completion of the planned separation in 18 to 24 months after initial announcement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional specific detail (timeline) about the newly disclosed separation risk introduced in the same filing."
+  },
+  {
+   "text": "Completion of the planned separation will be subject to the satisfaction of certain conditions, including, among others, consultations with works councils and other employee representative bodies, as may be required, final approval of the Company's Board of Directors, and receipt of other regulatory approvals.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific conditions required for completion of the separation, elaborating on the newly introduced risk."
+  },
+  {
+   "text": "There can be no assurance regarding the ultimate timing of the planned separation or that such separation will be completed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on uncertainty of timing/completion of the same new separation risk."
+  },
+  {
+   "text": "Unanticipated developments could delay, prevent or otherwise adversely affect the planned separation, including but not limited to disruptions in general or financial market conditions or potential problems or delays in obtaining various regulatory approvals or clearances.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factors that could delay or prevent the separation, expanding on the same new risk."
+  },
+  {
+   "text": "The costs to complete the planned separation will be significant.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific financial detail (significant costs) related to the new separation risk."
+  },
+  {
+   "text": "In addition, the Company may be unable to achieve some of the strategic and financial benefits that it expects to achieve from the planned separation of the Company's Orthopaedics business The Company will incur significant expenses in connection with the planned separation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands on expected costs and potential failure to achieve benefits from the same new separation risk."
+  },
+  {
+   "text": "In addition, the Company may not be able to achieve the full strategic and financial benefits that are expected to result from the planned separation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Repeats and slightly rephrases the risk of not achieving expected benefits from the separation, already covered."
+  },
+  {
+   "text": "The anticipated benefits of the planned separation are based on a number of assumptions, some of which may prove incorrect.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance that benefit assumptions may be incorrect, part of the same new separation risk theme."
+  },
+  {
+   "text": "Following the planned separation, the price of shares of the Company's common stock may fluctuate significantly The Company cannot predict the effect of the planned separation on the trading price of shares of its common stock, and market value of shares of its common stock may be less than, equal to or greater than the market value of shares of its common stock prior to the planned separation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Introduces specific stock price volatility concern tied to the new separation event, an elaboration of the same overarching new risk."
+  },
+  {
+   "text": "In addition, the price of the Company's common stock may be more volatile around the time of the planned separation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on stock price volatility around the separation, continuing the same new risk theme."
+  }
+ ]
+}

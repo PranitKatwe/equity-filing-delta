@@ -1,0 +1,218 @@
+{
+ "ticker": "TPL",
+ "sector": "Energy",
+ "filing_date": "2026-02-18",
+ "accession": "0001811074-26-000018",
+ "prior_accession": "0001811074-25-000044",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 39,
+ "counts": {
+  "new_substantive_risk": 10,
+  "expanded_existing_risk": 29,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "\u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations,\u201d are not the only ones facing us.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing sentence referencing other risk sections, no new risk content."
+  },
+  {
+   "text": "The market in which TPWR operates is highly competitive and includes numerous companies capable of competing effectively on a local basis.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk describing the market TPWR operates in."
+  },
+  {
+   "text": "TPWR competes with landowners, water supply and transfer companies, and companies who engage in the sale or treatment of produced water.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific types of competitors, elaborating on the competition risk just introduced."
+  },
+  {
+   "text": "Some of our larger diversified competitors have a broad geographic scope and have benefits of scale, while others focus on specific areas only and may have locally competitive cost efficiencies as a result.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on competitor characteristics within the same competitive risk theme."
+  },
+  {
+   "text": "11 Table of Contents Additionally, there may be new companies that enter the water solutions business, or our existing and potential customers may develop their own water management solutions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about potential new entrants and customer self-sufficiency, expanding the competition risk."
+  },
+  {
+   "text": "Our ability to maintain current revenue and cash flows, and our ability to expand our operations, could be adversely affected by the activities of our competitors and our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains the financial impact of competitive activities, continuing the same risk theme."
+  },
+  {
+   "text": "Some state and local governmental authorities have begun to monitor or restrict the use of water to ensure adequate local water supply.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory risk regarding government restriction of water use."
+  },
+  {
+   "text": "For example, in January 2024, the Railroad Commission of Texas indefinitely suspended all deep oil and gas produced water injections in Culberson and Reeves counties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete example supporting the previously introduced regulatory water-restriction risk."
+  },
+  {
+   "text": "Our produced water desalination project creates risks related to invested capital, environmental exposure and our reputation.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category related to the produced water desalination project."
+  },
+  {
+   "text": "Through Transmissive, we are developing a proprietary produced water desalination technology and advancing the beneficial reuse process.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes the new Transmissive desalination technology venture, establishing the basis for a new risk exposure."
+  },
+  {
+   "text": "Development of a produced water treatment facility requires substantial capital and may result in total project costs exceeding initial estimates due to inflation, supply chain constraints, labor and equipment availability, design changes, regulatory requirements or technical challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of capital cost overruns for the treatment facility."
+  },
+  {
+   "text": "Delays in permitting, produced water sourcing, waste disposal arrangements, construction or commissioning could defer or reduce expected cash flows and impair the anticipated return on our investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on delay-related risks tied to the same facility development risk."
+  },
+  {
+   "text": "Actual throughput, pricing, operating costs and utilization may also differ from forecasts because they depend on competing treatment or disposal options, and changes in environmental or water\u2011handling regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details factors affecting forecast accuracy for the same project risk."
+  },
+  {
+   "text": "As a result, Transmissive may fail to achieve targeted returns or require additional unplanned capital, which could lead to impairments of invested capital and have a material adverse effect on our business, financial condition, results of operations and liquidity.",
+   "category": "expanded_existing_risk",
+   "rationale": "States the financial consequence of the previously described project risks."
+  },
+  {
+   "text": "We are exposed to the risk that discharges of treated water and treatment\u2011related waste, including those made in compliance with permitted limits, may have unforeseen adverse environmental effects.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new environmental risk regarding treated water discharge effects."
+  },
+  {
+   "text": "Material failures to properly treat, handle or transport produced water or discharge treated water, including leaks, spills or non\u2011compliance with discharge permits and performance standards, could risk contaminating surface waters, groundwater or navigable waters or damage natural resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the environmental discharge risk with specific failure scenarios."
+  },
+  {
+   "text": "Such material failures could also trigger enforcement actions, require remediation or corrective measures, lead to operational restrictions or permit suspension or revocation, harm our reputation or result in third\u2011party claims for personal injury, property damage and other losses, any of which could materially and adversely affect our business, financial condition, results of operations and liquidity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequences of the previously described environmental failures."
+  },
+  {
+   "text": "Negative public opinion or adverse perceptions of Transmissive\u2019s operations or reputation could materially affect our business, results of operations, or prospects over time.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new reputational risk category tied to public perception."
+  },
+  {
+   "text": "Negative sentiment may arise from unfavorable portrayals of produced water, water treatment operations or discharge locations by the media, special interest groups, political leaders, stakeholders, or other parties, including organized opposition to specific projects or the energy industry in general.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on sources of negative sentiment introduced in the prior sentence."
+  },
+  {
+   "text": "Potential impacts of such sentiment include operational delays or interruptions, legal or regulatory challenges, blockades, increased regulatory oversight, reduced public or governmental support, and the delay, challenge, or revocation of regulatory approvals, permits, or licenses, each of which may increase costs or cause cost overruns.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential impacts of the negative sentiment risk already introduced."
+  },
+  {
+   "text": "Our Credit Facility may limit our operating flexibility or otherwise adversely affect our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk related to the Credit Facility limiting operating flexibility."
+  },
+  {
+   "text": "The Credit Facility contains customary affirmative and negative covenants that, among other things, limit our ability to grant liens, incur debt, make investments, effect certain mergers, dispose of assets, make certain payments, pay dividends or distributions on our capital stock, change the nature of our business, enter into certain transactions with affiliates, enter into certain burdensome agreements, enter into swap agreements and enter into sale and leaseback transactions, in each case subject to customary exceptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific covenants under the Credit Facility, expanding the newly introduced risk."
+  },
+  {
+   "text": "We therefore may not be able to engage in any of the foregoing transactions unless we obtain the consent of the required lenders and administrative agent under the Credit Facility or terminate the Credit Facility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues explaining consequences of covenant restrictions."
+  },
+  {
+   "text": "Our inability to engage in such actions could limit our operating flexibility and prohibit us from taking certain actions that might be beneficial to our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on operational limitations from the same Credit Facility risk."
+  },
+  {
+   "text": "Additionally, we are required to maintain as of the end of each fiscal quarter a consolidated interest coverage ratio of not less than 3.0 to 1.0 and a consolidated total leverage ratio of not greater than 3.50 to 1.0.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific numeric covenant details expanding the Credit Facility risk."
+  },
+  {
+   "text": "Borrowings under the Credit Facility are initially unsecured, with a springing senior security interest in substantially all of the equity securities of our subsidiaries in the event our consolidated total leverage ratio exceeds 2.50 to 1.0.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on security interest terms tied to the same credit risk."
+  },
+  {
+   "text": "There is no guarantee that we will be able to generate sufficient cash flow to comply with these financial covenants or pay the principal and interest on any debt we incur under the Credit Facility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussing risk of covenant compliance and cash flow sufficiency."
+  },
+  {
+   "text": "Furthermore, there is no guarantee that future working capital, borrowings or equity financing will be available to repay or refinance any such debt.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further extends the same financing risk theme."
+  },
+  {
+   "text": "Any inability to make scheduled payments or comply with the covenants in our Credit Facility could result in the acceleration of the obligations thereunder and could adversely affect our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes consequences of default, continuing the Credit Facility risk discussion."
+  },
+  {
+   "text": "The events of default under the Credit Facility include, among others, payment defaults, breaches of covenants, defaults under the related loan documents, material misrepresentations, cross defaults with certain other material indebtedness, bankruptcy and insolvency events, judgment defaults, certain events related to plans subject to the Employee Retirement Income Security Act of 1974, as amended, invalidity of the Credit Facility or the related loan documents and change in control events.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific events of default, detailing the same credit risk."
+  },
+  {
+   "text": "If an event of default occurs, the lenders under the Credit Facility may be entitled to terminate the commitments and letter of credit extensions, accelerate any outstanding indebtedness under the Credit Facility, require us to post cash collateral with respect to any letters of credit and exercise any additional rights and remedies under the Credit Facility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details lender remedies upon default, part of the same risk."
+  },
+  {
+   "text": "If our indebtedness is accelerated, we may not have sufficient funds available to pay the accelerated indebtedness or that we will have the ability to refinance the accelerated indebtedness on terms favorable to us or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues explaining potential consequences of indebtedness acceleration."
+  },
+  {
+   "text": "We may make minority investments, engage in joint ventures or make other strategic alliances with third parties that subject us to risks and uncertainties outside of our control.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category concerning minority investments and joint ventures."
+  },
+  {
+   "text": "As part of our business strategy, from time to time, we may make minority investments in the equity securities of companies, engage in joint ventures or make other strategic alliances with third parties that we do not control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the nature of minority investments introduced above."
+  },
+  {
+   "text": "For example, in December 2025, we made a minority investment of $50.0 million in Bolt pursuant to a strategic agreement to develop and enable large scale data center campuses and supporting infrastructure across our land.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new transaction (Bolt investment) with concrete financial exposure."
+  },
+  {
+   "text": "In connection with our investment, we received an equity interest, warrants, and a right of first refusal to supply water to Bolt-affiliated projects and related infrastructure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details terms of the Bolt investment, expanding the previously introduced transaction risk."
+  },
+  {
+   "text": "We may contribute land and receive additional equity that may or may not increase in value or be liquid.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further describes potential land contribution risk tied to the same investment."
+  },
+  {
+   "text": "Minority investments inherently involve a lesser degree of control over business operations, thereby potentially increasing the financial, legal, operational and/or compliance risks associated with the minority investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands on control-related risks of minority investments."
+  },
+  {
+   "text": "13 Table of Contents To the extent we hold only a minority equity interest in a company, we may lack affirmative control rights, which may diminish our ability to influence the company\u2019s affairs in a manner intended to enhance the value of our investment in the company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details lack of control rights, expanding on the minority investment risk."
+  },
+  {
+   "text": "Our investment could become impaired if the majority stakeholders or the management of the company take risks or otherwise act in a manner that does not serve our interests.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential impairment risk from majority stakeholder actions, continuing the same investment risk theme."
+  }
+ ]
+}

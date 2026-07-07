@@ -1,0 +1,78 @@
+{
+ "ticker": "LVS",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-06",
+ "accession": "0001300514-26-000013",
+ "prior_accession": "0001300514-25-000040",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 5,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "19 Table of Conte n ts \u2022 Because we own real property, we are subject to environmental regulation. \u2022 We are subject to risks from litigation, investigations, enforcement actions and other disputes. \u2022 We could be negatively impacted by environmental, social and governance and sustainability matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is just a table-of-contents style list of risk factor headings (environmental, litigation, ESG) without new substantive detail."
+  },
+  {
+   "text": "While we make strategic changes and take steps from time to time to maintain or improve our market share in Macao, including making changes to the incentives that we provide to certain of our patrons, there can be no assurances that these efforts will be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about specific strategic efforts (incentive changes) to maintain Macao market share, expanding on an existing competitive risk rather than introducing a new one."
+  },
+  {
+   "text": "On January 19, 2026, we requested this tax agreement to be extended through December 31, 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a factual update on the status/extension of an existing tax agreement risk, not a new risk category."
+  },
+  {
+   "text": "While our Macao operations have implemented certain measures to comply with the cyber and privacy obligations contemplated in PIPL and related laws, regulations and measures, to the extent that they could apply to our operations, there are still uncertainties in relation to the implementation and enforcement of the extraterritorial application of PIPL and related laws and regulations, with respect to cross-border data transfers and cyber incident reporting requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about PIPL cross-border data transfer and cyber incident reporting uncertainties, expanding an existing privacy/cyber compliance risk."
+  },
+  {
+   "text": "If we do not retain our key personnel or attract and retain other highly qualified employees, our business will suffer.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic boilerplate statement about retaining key personnel, a standard risk factor framing."
+  },
+  {
+   "text": "Our success also depends, in part, upon our continuing ability to attract, hire, develop and retain other key personnel.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the standard risk of needing to attract and retain key personnel."
+  },
+  {
+   "text": "As competition for highly qualified personnel in our industry continues to grow, we may not be able to hire or retain the services of key personnel.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic boilerplate about competition for qualified personnel, no new specifics."
+  },
+  {
+   "text": "The loss of key personnel could have a material adverse effect on our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard boilerplate conclusion about loss of key personnel harming the business."
+  },
+  {
+   "text": "Cyber-attacks can occur more quickly and evolve more rapidly when artificial intelligence is used by threat actors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk factor: AI being used by threat actors to accelerate and evolve cyber-attacks, which is a distinct and material new concern."
+  },
+  {
+   "text": "A significant theft, destruction, loss or other fraudulent use of information maintained by us or by a third-party service provider could have an adverse effect on our reputation or cause a material disruption to our operations and management team.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about data theft/loss impacting reputation and operations, with minor wording changes."
+  },
+  {
+   "text": "We have licensed the \u201cVenetian\u201d and \u201cPalazzo\u201d brands and certain other trademarks related to the Las Vegas Operations pursuant to the agreements effecting the Las Vegas Sale.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific arrangement\u2014licensing 'Venetian' and 'Palazzo' brands to Las Vegas Operations post-sale\u2014introducing a new brand/licensing exposure not previously disclosed."
+  },
+  {
+   "text": "If the Las Vegas Operations do not continue to operate in accordance with our high standards and applicable laws as required under the agreements, such conduct could result in reputational harm to our businesses that continue to operate under these brands.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the new brand licensing disclosure by detailing reputational harm risk if licensee standards aren't met, extending the newly introduced licensing risk."
+  }
+ ]
+}

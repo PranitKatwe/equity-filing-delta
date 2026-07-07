@@ -1,0 +1,218 @@
+{
+ "ticker": "MSCI",
+ "sector": "Financials",
+ "filing_date": "2026-02-06",
+ "accession": "0001408198-26-000011",
+ "prior_accession": "0001408198-25-000053",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 36,
+ "counts": {
+  "new_substantive_risk": 23,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "In addition, certain of our most significant data and technology agreements are subject to periodic renewal or re-pricing, and we may be required to accept significantly higher fees or other less favorable commercial or legal terms in order to maintain access to key Vendor Products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of higher fees/less favorable terms on renewal of key data/technology agreements."
+  },
+  {
+   "text": "Certain Vendor Products are concentrated among a small number of suppliers, and we also rely on major cloud and infrastructure providers to host and deliver certain products and services, so an adverse negotiation, dispute or renewal outcome with, or our inability to replace, a key supplier or to obtain comparable data or services on acceptable terms could affect our costs or ability to deliver products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies concentration risk among a small number of suppliers and cloud providers, a specific new vulnerability."
+  },
+  {
+   "text": "In addition, as our business has grown and evolved over time, we have incurred technical debt resulting from, among other things, legacy code and system architectures, deferred maintenance and upgrades, short-term workarounds, unremediated issues, rapid product development, acquisitions, and the integration of new technologies into existing platforms.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the concept of accumulated technical debt from legacy systems and rapid growth, a specific operational risk not previously described."
+  },
+  {
+   "text": "Such technical debt can exacerbate these risks by increasing the potential for system outages, performance degradation, defects, cybersecurity vulnerabilities, and testing and remediation limitations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced technical debt concept by detailing its consequences, expanding the risk just introduced."
+  },
+  {
+   "text": "In addition, defects or flawed outputs in regulated products, including indexes and ESG ratings, may prompt regulatory inquiries, supervisory actions or enforcement proceedings that could require changes to products or controls and impose significant fines or other remediation costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies regulatory enforcement risk tied to defects in regulated products like indexes and ESG ratings."
+  },
+  {
+   "text": "Reputational damage could prompt clients or vendors to reduce use of our products, or terminate or renegotiate contracts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reputational damage affecting client/vendor relationships without new specifics."
+  },
+  {
+   "text": "Advances in AI and cloud platforms have also lowered the barriers for clients to build capabilities internally.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific competitive threat from AI lowering barriers for in-house client development."
+  },
+  {
+   "text": "In addition, accumulated design, implementation, or architectural decisions in our technology environment, which may have been appropriate at the time they were made, may require incremental investment over time to maintain, enhance, or modernize our systems.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates the technical debt theme already introduced, adding detail on causes."
+  },
+  {
+   "text": "This \u201ctechnical debt\u201d can increase the risk of outages, disruptions, performance degradation, defects, and cybersecurity incidents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands the technical debt risk with specific consequences like outages and cybersecurity incidents."
+  },
+  {
+   "text": "In addition, such incidents may trigger notification and reporting obligations to regulators, clients and other stakeholders.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new compliance obligation around incident notification and reporting to regulators/clients."
+  },
+  {
+   "text": "Failure to meet those obligations or to effectively communicate during an incident could exacerbate reputational harm and regulatory exposure, including the risk of enforcement actions and fines.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the incident notification risk by describing consequences of failure to comply."
+  },
+  {
+   "text": "Advanced, persistent and state-sponsored threat actors with significant resources and capabilities could also attempt to penetrate our or our vendors\u2019 systems.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically calls out advanced/state-sponsored threat actors as a new distinct cybersecurity risk."
+  },
+  {
+   "text": "Future migrations may result in outages, latency or degraded functionality, or data loss or corruption despite backup and recovery plans.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about migration-related risks like data loss, building on existing system risk disclosures."
+  },
+  {
+   "text": "Open source code may also contain security vulnerabilities or malicious code (including backdoors), which could impair our products or systems, reduce client confidence, harm our reputation and expose us to litigation or other liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk from open source code vulnerabilities and malicious backdoors."
+  },
+  {
+   "text": "Competitors and new market entrants may use AI to develop products that compete with our offerings at lower price points, with faster time-to-market or with additional or better capabilities, which could impair our ability to compete effectively and put pressure on our revenues and subscriptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new competitive risk from AI-enabled competitors offering cheaper/faster alternatives."
+  },
+  {
+   "text": "Additionally, AI-enabled tools may allow clients, including asset managers, asset owners, banks, hedge funds and others, to develop in-house capabilities to replace our products such as custom indexes, risk analytics, and sustainability and climate data.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies risk that AI enables clients to build in-house replacements for core products."
+  },
+  {
+   "text": "Large-scale data scraping and generative AI models trained on publicly available information could also diminish the perceived uniqueness and commercial value of our proprietary content.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces risk that AI/data scraping could erode value of proprietary content."
+  },
+  {
+   "text": "Further, third-party AI tools and model providers may change their model behavior, pricing or terms, which could adversely affect our offerings, increase our costs or disrupt our operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new dependency risk on third-party AI providers changing pricing or terms."
+  },
+  {
+   "text": "AI technologies, including generative AI, can produce outputs that appear authoritative but contain factual errors, \u201challucinations,\u201d or unintended biases.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific AI risk of hallucinations and biased outputs."
+  },
+  {
+   "text": "If AI-generated content in our products contains such errors, we could face client losses, reputational damage and potential legal liability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the AI error risk just introduced by detailing business consequences."
+  },
+  {
+   "text": "Failure to maintain appropriate oversight, governance frameworks, testing, documentation and monitoring could exacerbate these risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on AI risk management failures already being discussed."
+  },
+  {
+   "text": "We have adopted principles and governance frameworks designed to support responsible use, data protection and risk management, but these may prove insufficient to prevent harmful outcomes or may not keep pace with the rapid evolution of AI capabilities and risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes existing governance frameworks and acknowledges their possible insufficiency, expanding on AI risk topic."
+  },
+  {
+   "text": "AI technologies are subject to an evolving and fragmented legal and regulatory landscape.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk factor regarding evolving AI-specific legal/regulatory landscape."
+  },
+  {
+   "text": "Such shifts may increase demand for certain of our products while reducing demand for others, and may reduce client budgets, delay purchasing decisions or cause clients to defer or cancel subscriptions, any of which could materially reduce demand for our offerings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about demand fluctuations without specific new risk detail."
+  },
+  {
+   "text": "Expansion into new product and service offerings and client types also increases the complexity of our go-to-market, product development, operational and regulatory requirements and may require substantial additional investment.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing expansion-related risks by adding complexity and investment needs."
+  },
+  {
+   "text": "In particular, serving new client types may require new capabilities, additional product features and use cases, specialized distribution and implementation, and different contractual and licensing arrangements, all of which can increase time to market and execution risk.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details specific challenges of serving new client types, expanding prior expansion risk."
+  },
+  {
+   "text": "The increased presence of AI in the market could also lead to increased expectations from clients and market participants regarding the quality, features, timeliness and use cases of our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces risk of heightened client expectations due to AI market presence, a new competitive pressure."
+  },
+  {
+   "text": "Our global presence and operations and our ability to deliver our products and services to our clients also expose us to political, economic, legal, regulatory, operational, reputational, franchise and other risks resulting from operating and selling in many countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about global operations exposing to various risks, standard boilerplate."
+  },
+  {
+   "text": "These include the risk that geopolitical tensions, trade policy changes and related policy responses may restrict or limit our ability to offer certain products, services or content in particular jurisdictions, affect our access to the technology on which our operations depend, or reduce client demand for our products and services in affected markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies concrete geopolitical and trade policy risks affecting product/service delivery."
+  },
+  {
+   "text": "Beginning January 1, 2026, most of our indexes fall outside EU supervision and remain under UK oversight.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new regulatory fact about index supervision changes effective 2026."
+  },
+  {
+   "text": "The UK BMR transition period for non-UK administrators continues until December 31, 2030.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new regulatory timeline detail regarding UK BMR transition period."
+  },
+  {
+   "text": "In December 2025, the UK HM Treasury launched a consultation on proposals to amend the scope of the UK BMR.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory development (UK Treasury consultation) that could affect operations."
+  },
+  {
+   "text": "Depending on the outcome, these changes could affect the regulatory status of certain of our benchmarks, alter our compliance obligations or impact our ability to offer certain products to UK-regulated clients.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the newly introduced UK BMR consultation risk by describing potential impacts."
+  },
+  {
+   "text": "For example, in the past we have made changes or announced proposed changes to our index methodologies that have triggered media and policymaker attention.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General historical reference to past media attention, not a new specific risk."
+  },
+  {
+   "text": "The regulation becomes effective in July 2026 and imposes requirements relating to governance, conflicts of interest, transparency of methodologies and ongoing supervisory obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulation with concrete effective date and compliance requirements."
+  },
+  {
+   "text": "Certain of our Sustainability and Climate products are expected to be in scope.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies that certain existing product lines will be subject to the newly described regulation."
+  },
+  {
+   "text": "We may incur significant costs to achieve and maintain authorization, modify our operations or product offerings and comply with ongoing supervisory requirements. \u2022 The UK has adopted separate legislation to regulate ESG ratings providers beginning in June 2028, the requirements of which are still being developed.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new compliance cost risk and a separate new UK ESG ratings regulatory regime."
+  },
+  {
+   "text": "Regulators have examined the role of various types of third-party information providers, including index and model providers and proxy advisors, in the asset-management ecosystem.",
+   "category": "new_substantive_risk",
+   "rationale": "Highlights new regulatory scrutiny on third-party information providers, a new specific concern."
+  },
+  {
+   "text": "Regulatory or legislative developments that expand or alter the definition of investment advice, proxy advice, or that subject index providers, model providers or ESG ratings providers to fiduciary or adviser-style obligations, could affect our businesses.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of regulatory reclassification as investment/proxy advisors."
+  },
+  {
+   "text": "If any of our businesses were deemed to be providing investment advice or otherwise to have fiduciary or adviser-style obligations, this could significantly increase the costs and complexity of our business and potentially conflict with obligations under other regulations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the fiduciary/adviser risk just introduced by describing potential cost and compliance conflicts."
+  }
+ ]
+}

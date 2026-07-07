@@ -1,0 +1,218 @@
+{
+ "ticker": "HCA",
+ "sector": "Health Care",
+ "filing_date": "2026-02-10",
+ "accession": "0001193125-26-044769",
+ "prior_accession": "0000950170-25-020134",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 19,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "As of December 31, 2025, we had availability of $5.779 billion under our senior unsecured credit facility (after giving effect to all issued and outstanding letters of credit and our intention to maintain a minimum available borrowing capacity equal to the aggregate amount outstanding under the commercial paper program ($2.207 billion as of December 31, 2025)).",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides updated specific figures on credit facility availability and commercial paper balance, adding detail to existing liquidity risk disclosure."
+  },
+  {
+   "text": "Downgrades in our credit ratings may also negatively affect availability of debt financing and the rates at which such financing is available.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about credit rating downgrades affecting financing availability, typical standard risk language."
+  },
+  {
+   "text": "New limitations on federal loan eligibility, other student loan changes imposed pursuant to the FBA and changes to immigration policies may also impact health care personnel shortages.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that federal loan eligibility changes and immigration policy could worsen healthcare personnel shortages."
+  },
+  {
+   "text": "Moreover, changes in immigration policies could reduce the availability of international physicians.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk that immigration policy changes could reduce availability of international physicians."
+  },
+  {
+   "text": "Nevertheless, there can be no assurance that our business continuity, technology change and information security response plans will effectively mitigate our operational risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary disclaimer about effectiveness of response plans, no new specific risk."
+  },
+  {
+   "text": "We may also use AI in health care-related administrative tasks, including in the collection of patient accounts receivable.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a new specific use of AI in administrative tasks including accounts receivable collection, introducing a new operational risk area."
+  },
+  {
+   "text": "Failure to effectively manage change associated with our technology, resiliency and other initiatives, including with respect to the implementation of a new EHR platform, may adversely affect our business, services and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk tied to implementation of a new EHR platform affecting business operations."
+  },
+  {
+   "text": "We utilize multiple integrated software and hardware operating systems across our operations, including in our hospitals.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual/background statement about use of integrated systems, no new risk introduced."
+  },
+  {
+   "text": "Although we continually monitor these systems and strive to design our policies, programs and processes to preserve or manage these systems, such processes may not be effective and are subject to weaknesses and failures, including human error, data limitations, process delays, system outages, cybersecurity incidents or failed controls.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about monitoring and potential weaknesses in systems, standard cautionary language."
+  },
+  {
+   "text": "Failure to effectively preserve or manage data accurately, timely and completely may adversely affect its quality and reliability and impair our ability to manage business needs, the provision of care, strategic decision-making and operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on data management risk consequences, expanding existing technology/data risk discussion."
+  },
+  {
+   "text": "We employ change management methodologies to plan, test and execute system upgrades and improvements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard change management methodology, procedural description not a risk."
+  },
+  {
+   "text": "However, we cannot guarantee that our systems will operate as designed or that the implementation of new systems or upgrades will not be subject to excessive costs or disruptions to our operations or business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about system upgrades not guaranteed to work as designed."
+  },
+  {
+   "text": "We are implementing a new EHR platform across our facilities, which is complex and time-intensive.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new initiative (EHR platform implementation) as a source of operational risk."
+  },
+  {
+   "text": "Significant internal and external resources have been, and will continue to be, required for successful implementation, including resources to train colleagues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on resource requirements for the EHR implementation risk already introduced."
+  },
+  {
+   "text": "Complexity or delay in implementation may require substantial additional time and expense and divert management\u2019s attention from other strategic priorities, which, in turn, could adversely affect our business, results of operations or financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates potential adverse effects of EHR implementation delays, building on the newly introduced EHR risk."
+  },
+  {
+   "text": "While we have taken steps intended to mitigate implementation risks, including staged deployments in certain facilities, there is no guarantee these mitigation efforts will be effective.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic mitigation disclaimer stating no guarantee mitigation efforts will work."
+  },
+  {
+   "text": "Further, we are executing financial resiliency initiatives designed to generate efficiencies and cost reductions that we expect will offset in part the adverse effects on our business from recent health care policy reforms, including the expiration of the enhanced premium tax credits and changes resulting from the FBA.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific financial resiliency initiatives tied to named policy changes (premium tax credit expiration, FBA) affecting business."
+  },
+  {
+   "text": "Our ability to realize the benefits from these financial resiliency initiatives is subject to known and unknown risks and uncertainties, and failure to realize the expected benefits may have an adverse effect on our business and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about uncertainty of realizing benefits from initiatives."
+  },
+  {
+   "text": "Several executive orders have been issued 39 that impact or may impact the health care industry, including measures aimed at restructuring government agencies and eliminating government expenditures and resulting in holds on or cancellations of congressionally authorized spending.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific executive orders restructuring government agencies and cutting spending as a new regulatory risk."
+  },
+  {
+   "text": "In March 2025, HHS announced a significant agency restructuring intended to reduce the HHS workforce and consolidate divisions of the agency.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new regulatory development (HHS restructuring) introduced as a risk factor."
+  },
+  {
+   "text": "HHS also announced a change in its policy on public participation in rulemaking that may negatively affect the ability of industry participants to receive advance notice of and offer feedback on some policy changes.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk regarding reduced transparency in HHS rulemaking process."
+  },
+  {
+   "text": "In addition, the FBA includes several health care policy changes that are expected to impact insurance coverage obtained through the Exchanges, and a final rule issued by CMS in June 2025 makes other changes intended to address affordability, consumer protections and integrity of the Exchanges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific FBA and CMS rule changes affecting Exchange coverage, a new regulatory risk detail."
+  },
+  {
+   "text": "The June 2025 rule is the subject of legal challenges and, in August 2025, a federal district court issued a nationwide stay of several provisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides litigation status update related to the newly introduced CMS rule risk."
+  },
+  {
+   "text": "For example, the FBA includes significant health care policy reforms that are expected to result in Medicaid spending reductions and changes in administration of state Medicaid programs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific Medicaid spending reduction risk from the FBA."
+  },
+  {
+   "text": "Among other changes, the law limits eligibility for Medicaid by imposing work or community engagement requirements for adults under age 65 in Medicaid expansion states, including states with waiver-based expansions, subject to limited exceptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new Medicaid work/community engagement eligibility requirements, a concrete new risk."
+  },
+  {
+   "text": "The law also makes significant changes to Medicaid financing mechanisms, including restrictions intended to reduce the federal matching funds received by state Medicaid programs, with greater restrictions in states that have expanded Medicaid.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details Medicaid financing changes, expanding on already introduced Medicaid risk."
+  },
+  {
+   "text": "It is difficult to predict the ultimate effects of the FBA, as it is a complex law that mandates various changes over time and we expect additional rulemaking and guidance from federal agencies regarding implementation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty statement about predicting effects of the law."
+  },
+  {
+   "text": "However, reductions in federal matching funds and increased state obligations and administrative burden could result in state limitations on Medicaid eligibility or coverage, among other effects, particularly if states are unable to offset reductions in federal funding.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates potential state-level effects stemming from the previously introduced Medicaid funding risk."
+  },
+  {
+   "text": "Although most of these trigger laws are not directly implicated by the FBA, some states may nonetheless consider or make changes to Medicaid expansion programs due to related budgetary pressures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaboration on potential state responses to Medicaid budget pressures."
+  },
+  {
+   "text": "For example, the FBA includes significant health care policy reforms that are expected to result in Medicaid spending reductions and changes in administration of state Medicaid programs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Duplicate repetition of sentence 23 appearing elsewhere in the filing."
+  },
+  {
+   "text": "Among other changes, the law makes significant changes to Medicaid financing mechanisms, including restrictions intended to reduce the federal matching funds received by state Medicaid programs, such as limitations on provider tax arrangements and SDP arrangements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new financing restrictions on provider tax and SDP arrangements."
+  },
+  {
+   "text": "The FBA requires HHS to revise regulations governing SDP arrangements to cap total payment rates paid by Medicaid managed care organizations for specified services, tying caps to Medicare payment rates instead of average commercial rates, a change that we anticipate will impact payment rates in many states in which we operate, including Texas.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a specific new payment cap methodology tied to Medicare rates impacting operations in states like Texas."
+  },
+  {
+   "text": "It is difficult to anticipate the ultimate effects of the FBA, as it is a complex law that mandates various changes over time and, in many cases, the details of implementation are not yet clear.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic uncertainty language similar to sentence 26, cautionary boilerplate."
+  },
+  {
+   "text": "Further, CMS administrators may make other changes to Medicaid payment models and may impose new restrictions or grant states additional 41 flexibilities in the administration of state Medicaid programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on potential CMS actions affecting Medicaid payment models, building on prior Medicaid risk."
+  },
+  {
+   "text": "For example, structural and other changes to Medicaid supplemental payment programs and SDP arrangements, both of which are subject to CMS approval, could result in our revenues from such payments being reduced or eliminated.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of revenue reduction from changes to supplemental payment programs."
+  },
+  {
+   "text": "Among other measures, states may divert funding for SDP arrangements from other payment programs or direct payments to a specific subset of providers, and we may not satisfy applicable criteria.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details how states might redirect SDP funding, expanding the previously introduced revenue risk."
+  },
+  {
+   "text": "The FBA is expected to further adversely affect the uninsured rate, including by requiring pre-enrollment verification of eligibility in a plan with premium tax credits and restricting subsidized marketplace coverage, effectively ending automatic renewals of coverage, and by limiting Medicare and Medicaid eligibility based on immigration status and other factors, among other measures.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific mechanisms by which FBA will increase uninsured rate, a new detailed risk."
+  },
+  {
+   "text": "For example, to address anticipated increases in health insurance premiums for consumers, CMS announced in September 2025 that it would expand eligibility for high-deductible catastrophic health insurance plans.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new CMS policy expanding catastrophic plan eligibility as a new development affecting the business."
+  },
+  {
+   "text": "We anticipate that several recent developments may adversely affect our revenues by contributing to potential future declines in our volume of patients with private health insurance coverage, including the expiration of enhanced premium tax credits, provisions of the FBA that are expected to impact coverage obtained through the Exchanges, and a final rule issued by CMS in June 2025 focused on affordability, consumer protections and integrity of the Exchanges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific combination of factors expected to reduce privately insured patient volume, a new revenue risk."
+  },
+  {
+   "text": "Additionally, our operations may be impacted by expansion of in-home acute care models.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new competitive risk from expansion of in-home acute care models."
+  }
+ ]
+}

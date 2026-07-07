@@ -1,0 +1,23 @@
+{
+ "ticker": "LIN",
+ "sector": "Materials",
+ "filing_date": "2026-02-25",
+ "accession": "0001628280-26-011430",
+ "prior_accession": "0001628280-25-007990",
+ "model": "claude-sonnet-5",
+ "n_added": 1,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "Linde's operations are exposed to physical risks associated with the occurrence of natural disasters linked to climate change, such as extreme weather events including hurricanes and floods, as well as catastrophic events such as health epidemics; pandemics; and acts of war or terrorism.",
+   "category": "expanded_existing_risk",
+   "rationale": "This sentence adds specific detail about physical climate-related risks (extreme weather, hurricanes, floods) and catastrophic events (pandemics, war, terrorism) that likely elaborates on a pre-existing general risk category (operational or climate risk) rather than introducing an entirely new type of risk not previously disclosed. Without seeing prior year's text, the specificity suggests an expansion of existing risk disclosure around operational disruptions rather than a wholly novel risk category."
+  }
+ ]
+}

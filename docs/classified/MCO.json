@@ -1,0 +1,143 @@
+{
+ "ticker": "MCO",
+ "sector": "Financials",
+ "filing_date": "2026-02-18",
+ "accession": "0001628280-26-009136",
+ "prior_accession": "0001059556-25-000025",
+ "model": "claude-sonnet-5",
+ "n_added": 25,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 2,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Some of the factors, events and contingencies discussed below may have occurred in the past, but the disclosures below are not representations as to whether or not the factors, events or contingencies have occurred in the past and instead reflect our beliefs and opinions as to the factors, events or contingencies that could materially and adversely affect us in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing about the nature of disclosures, not a substantive risk."
+  },
+  {
+   "text": "Certain products currently offered by MIS may fall into scope of the EU Regulation on ESG Rating Activities, which could impose new substantive and procedural requirements on MIS relating to those products similar to those applicable to credit ratings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory regime (EU ESG Rating Regulation) that could impose new requirements on certain products."
+  },
+  {
+   "text": "In addition, EU CRAs are also subject to DORA, which imposes a range of requirements in relation to the management of ICT risk, regulatory reporting, testing and the management of risks related to ICT services provided by third-parties. \u2013 In Hong Kong, applicable rules include liability for the intentional or negligent dissemination of false and misleading information and procedural requirements for the notification of certain matters to regulators.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory obligations under DORA and Hong Kong rules not previously disclosed."
+  },
+  {
+   "text": "Compliance with the regulation, in its current form, could increase the Company\u2019s costs and expose it to the risk of penalties or fines for noncompliance; however, the ultimate impact of the EU AI Act on the Company remains uncertain, as the European Commission has proposed measures intended to reduce the regulatory burden on businesses.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific compliance costs and penalty risk from the EU AI Act."
+  },
+  {
+   "text": "In addition, numerous other foreign jurisdictions and U.S. states have proposed or enacted legislation relating to the development and use of GenAI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens existing AI regulatory risk to additional jurisdictions without new specifics."
+  },
+  {
+   "text": "Moody's may face additional government investigations and inquiries related to the private credit 22 MOODY'S 2025 10-K Table of Contents market, where there has been increased regulatory attention relating to the rapid growth of private credit, new financing structures, and CRA ratings for private credit-related instruments, issuers, and credit facilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of government investigations tied to private credit market growth."
+  },
+  {
+   "text": "Additionally Moody\u2019s development of new technologies, including Gen AI and agentic AI product offerings may introduce new risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new risks stemming from development of Gen AI and agentic AI products."
+  },
+  {
+   "text": "Large language models, agentic workflows and related AI-technologies licensed by or developed by the Company, and the data used to train or power them may be incomplete or inadequate, our Gen AI or agentic AI products or platforms may result in adverse impacts to our business operations or reputation and increased regulatory scrutiny and exposure to litigation.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific operational, reputational, regulatory and litigation risks from AI model limitations."
+  },
+  {
+   "text": "We also incorporate third-party software, including open-source software components, in certain of our products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement setting up the following risk, not itself a risk."
+  },
+  {
+   "text": "Our reliance on third-party and open-source software exposes us to risks of non-compliance, including potential audits, litigation, injunctions, and the forced disclosure of our proprietary intellectual property, which could materially impact our financial results and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risks from third-party/open-source software including litigation and IP disclosure."
+  },
+  {
+   "text": "On July 4, 2025, President Trump signed into law the legislation commonly referred to as the OBBBA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely factual statement about legislation being signed, no risk described."
+  },
+  {
+   "text": "The OBBBA includes various provisions, such as the permanent extension of certain expiring provisions of the Tax Act of 2017, modifications to the international tax framework and the restoration of favorable tax treatment for certain business provisions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specifics on tax law changes that build on existing tax risk disclosures."
+  },
+  {
+   "text": "Additionally, refer to the risk factor below entitled \" The Company Is Exposed to Risks Related to Cybersecurity and Protection of Confidential Information.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor section, no new content."
+  },
+  {
+   "text": "Several regulatory oversight regimes for ESG ratings providers which may impose new regulatory requirements on Moody\u2019s include the EU regulation on the transparency and integrity of ESG rating activities, adopted by the European Parliament and Council in November 2024 and published in the Official Journal of the EU in December 2024, or draft legislation published by the United Kingdom in 2024 to empower the FCA to supervise ESG rating providers.",
+   "category": "new_substantive_risk",
+   "rationale": "Names specific new regulatory regimes (EU and UK) targeting ESG ratings providers."
+  },
+  {
+   "text": "In addition, there has been a recent increase in \u201canti-ESG\u201d sentiment in the United States by certain activists, institutions and governmental entities criticizing ESG or climate-focused products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new external pressure (anti-ESG sentiment) not previously disclosed."
+  },
+  {
+   "text": "We may face scrutiny, reputational risk, lawsuits or heightened scrutiny from these parties regarding our sustainability initiatives, goals and commitments, even where such initiatives, goals and commitments are expected or required in other jurisdictions outside the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the anti-ESG sentiment risk by detailing potential scrutiny and litigation consequences."
+  },
+  {
+   "text": "To the extent we continue to make disclosures about our sustainability initiatives, goals and commitments, we could be criticized for such matters, which could negatively impact our reputation or otherwise materially harm our business.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the reputational harm risk from sustainability disclosures already covered."
+  },
+  {
+   "text": "Our business could be negatively impacted by physical and transitional climate risks .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about climate risk impact without specific detail."
+  },
+  {
+   "text": "We are also subject to changes in policies, technologies, or market preferences that are intended to address the effects of climate related risks, as well as ongoing legislative and regulatory uncertainties and changes regarding climate risk management and practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on regulatory and policy uncertainty related to climate risk management."
+  },
+  {
+   "text": "These considerations could impact us and our customers and result in increased regulatory, compliance or operational costs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic follow-on statement about increased costs without new specifics."
+  },
+  {
+   "text": "Furthermore, a number of states in which we operate have enacted or proposed statutes and regulations addressing climate and sustainability issues, while certain other states and governments in non-U.S. countries where we operate have enacted, or have proposed to enact, divergent and sometimes conflicting statutes, regulations or policies.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific state and international regulatory actions on climate/sustainability creating compliance complexity."
+  },
+  {
+   "text": "Our products and services may fail to meet the needs and expectations of our customers in response to future changes in policies, technologies or market preferences, which could adversely impact our business, operating results and financial condition.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of risk that products may not meet evolving market/policy expectations."
+  },
+  {
+   "text": "As Gen AI technologies continue to advance, threat actors will develop increasingly sophisticated methods as well as technology and tools to facilitate the commission of cyber-attacks and develop new cyber-crime business models such as Ransomware-as-a-Service (RaaS) or Vulnerabilities-as-a-Service (VaaS).",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new cyber threat vectors enabled by Gen AI, including named attack models (RaaS, VaaS)."
+  },
+  {
+   "text": "This may include the use of Gen AI to automate and enhance phishing schemes, advance malware, carry out more effective cyber-attacks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific methods (phishing, malware) that expand on the newly introduced Gen AI cyber threat risk."
+  },
+  {
+   "text": "As Gen AI technologies advance, these cyber threats will increase in number and may also become more difficult to detect and stop.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about increasing difficulty of detection, reiterating prior point without new substance."
+  }
+ ]
+}

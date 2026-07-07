@@ -1,0 +1,218 @@
+{
+ "ticker": "SBUX",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2025-11-14",
+ "accession": "0000829224-25-000114",
+ "prior_accession": "0000829224-24-000057",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 21,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 10,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "The following risks, some of which have occurred and any of which may occur in the future, could materially and adversely affect our current and future business and financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing sentence introducing the risk factors section."
+  },
+  {
+   "text": "Various factors, events, or conditions may result in a diminution or erosion of trust in our brand value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic abstract statement about brand trust erosion without specific detail."
+  },
+  {
+   "text": "Adverse developments pertaining to the matters discussed elsewhere in this risk factors section may negatively impact the value of our brands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cross-reference framing statement about brand value."
+  },
+  {
+   "text": "Such developments may include difficulties executing strategic initiatives, adapting to shifting consumer preferences, or managing global operations, and challenges stemming from macroeconomic volatility, supply chain pressures and disruptions, or an evolving competitive, regulatory, social, and geopolitical landscape.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific contributing factors (macro volatility, supply chain, geopolitical) to the existing brand risk."
+  },
+  {
+   "text": "The value of our brands may be affected by actual or perceived developments, whether isolated or recurring, whether the result of actions by us or our business partners or the result of external developments, and whether such developments are in our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about factors affecting brand value without new specifics."
+  },
+  {
+   "text": "Negative commentary about Starbucks, even if inaccurate or malicious, has in the past, and could in the future, damage the value of our brand, and adverse impacts may be compounded by social media, video-sharing, and messaging platforms that could dramatically increase the speed with which negative publicity may be disseminated, often before we have a meaningful opportunity to investigate, respond to, and address an issue.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing negative publicity risk with detail on social media amplification speed."
+  },
+  {
+   "text": "Because brand value is based in part on consumer perceptions on a variety of subjective qualities, it may be difficult to address developments negatively impacting the value of our brands in a timely and effective manner to mitigate harm.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about subjective nature of brand perception."
+  },
+  {
+   "text": "The diminution of, or erosion of trust in, our brand value may have negative consequences for the Company.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement with no new specifics."
+  },
+  {
+   "text": "To the extent third parties object to actions or positions taken or perceived to have been taken by us, it may generate negative sentiment around our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk of negative sentiment from third-party objections to company actions/positions."
+  },
+  {
+   "text": "Developments affecting the value of our brands have in the past, and may in the future, trigger boycotts of our stores, products, and brand.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly introduces boycott risk tied to brand developments, a specific new risk not previously disclosed."
+  },
+  {
+   "text": "Each of these consequences, individually and collectively, could have potentially material impacts on our brand value, business performance, and financial results.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic summary statement about cumulative impacts."
+  },
+  {
+   "text": "Decisions to collaborate or refrain from collaborating with certain parties may impact our brand image and, consequently, our financial performance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk related to collaboration/partnership decisions affecting brand image and financial performance."
+  },
+  {
+   "text": "Our programs may not always reach consumers as intended, particularly given the wide range of generational, geographical, cultural, and socioeconomic characteristics and channels of communication used by our customers, and effective resource allocation across channels, including digital, is critical.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing marketing risk with detail on demographic diversity and channel allocation challenges."
+  },
+  {
+   "text": "Additionally, factors such as operating costs, competitor strategies, and inflation may affect our pricing decisions, which could impact demand.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factors (operating costs, competitor strategy, inflation) influencing existing pricing risk."
+  },
+  {
+   "text": "For example, there is no guarantee future cost increases will be absorbed by customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides a concrete example illustrating the existing pricing/cost risk."
+  },
+  {
+   "text": "Likewise, if we do not continuously strengthen our capabilities in marketing, data analytics (including artificial intelligence and machine learning) and innovation to understand and maintain or grow consumer interest, brand loyalty, and market share while strategically expanding into other profitable categories of the commercial beverage industry, our business could be negatively affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk tied to AI/machine learning capability gaps affecting competitiveness, not previously mentioned."
+  },
+  {
+   "text": "In conjunction with our broader Back to Starbucks plan, these strategic initiatives are designed to create growth, improve our results of operations, and drive long-term shareholder value.",
+   "category": "expanded_existing_risk",
+   "rationale": "Names a specific new strategic plan ('Back to Starbucks') within existing strategic initiative risk discussion."
+  },
+  {
+   "text": "Such initiatives include improving our service model, and further transforming our non-retail support organization; enhancing partner investment to improve customer experience; closing, renovating, and redesigning coffeehouses; strengthening our leadership in coffee; expanding digital engagement through mobile, loyalty, delivery, and international platforms; simplifying store operations; and responsibly growing our global footprint.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detailed list of specific initiatives under existing strategic initiative risk."
+  },
+  {
+   "text": "We have in the past and may in the future undertake restructuring initiatives, which have resulted, and may continue to result, in the incurrence of significant additional costs, and our ability to achieve the anticipated cost savings and other benefits from these actions is subject to many estimates and assumptions, which are subject to uncertainties.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates existing restructuring cost risk with more specific language about uncertainty of savings."
+  },
+  {
+   "text": "Such initiatives may be disruptive both internally and to our customers and may be viewed negatively by our stakeholders.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk that initiatives may be disruptive, without new substance."
+  },
+  {
+   "text": "We undertake these initiatives in the context of ongoing efforts to adapt to shifting consumer behaviors amid economic volatility, optimize our mix of licensed and company-operated stores, expand relevant product offerings across dayparts, and drive growth in cold beverages and Channel Development partnerships, while also advancing appropriate sustainability efforts, managing climate-related risks, and reducing operating costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific operational and sustainability details to existing initiative-related risk."
+  },
+  {
+   "text": "Risks to successful and timely implementation of these initiatives include delays or cancellations of store openings due to labor or material shortages, permit procurement issues, or lack of suitable real estate; supply chain scalability and sustainability challenges; underperformance or delays in product innovation; remodel disruptions or cost overruns; coordination and execution challenges; failure to realize cost savings; increased taxation; regulatory constraints, including public health mandates; credit rating deterioration; and geopolitical instability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides an extensive detailed list of specific implementation risks building on existing initiative risk."
+  },
+  {
+   "text": "Additionally, prioritizing these efforts over other organizational needs or misallocating resources could materially impact our business and operating results.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing resource allocation risk without new specifics."
+  },
+  {
+   "text": "Ineffectively balancing these imperatives could materially harm our business results and financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about balancing imperatives."
+  },
+  {
+   "text": "If we are unable to complete such transactions or successfully integrate and develop acquired businesses, including the effective management of integration activities, we could fail to achieve the expected increases in revenues and operating results or the anticipated synergies and cost savings.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing M&A integration risk."
+  },
+  {
+   "text": "In the past we have been, and in the future we may be, unable to realize the expected benefits of strategic transactions, or it may also take longer than expected to realize the expected benefits.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about realizing benefits of strategic transactions."
+  },
+  {
+   "text": "This has in the past required, and may in the future require, us to assess potential impairment of assets, including goodwill and intangibles.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing impairment assessment risk."
+  },
+  {
+   "text": "Financial performance may be adversely affected by reduced discretionary spending, lack of acceptance of new products, brands, or platforms, or declining demand for existing offerings.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about discretionary spending and product acceptance."
+  },
+  {
+   "text": "This has 12 Table of Contents resulted, and may in the future result, in insufficient or excess inventory, increased inventory markdowns, and higher costs.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing inventory management risk."
+  },
+  {
+   "text": "Additionally, health concerns related to ingredients such as caffeine, dairy, sugar, or allergens\u2014whether accurate or not\u2014along with increased litigation, regulation and regulatory scrutiny, or taxes on certain food components, ingredients, or additives, could reduce demand and harm our results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing health/ingredient risk with additional detail on litigation, regulation, and taxation."
+  },
+  {
+   "text": "Shifts in consumer behavior, including dietary changes or use of weight-loss drugs, may also impact sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding weight-loss drugs affecting consumer demand, not previously disclosed."
+  },
+  {
+   "text": "To maintain consistent customer experience, we provide training and oversight to certain partners; however, factors beyond our control\u2014such as financial instability, labor shortages, or noncompliance with sanitation protocols\u2014may affect the quality of their service and products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing partner quality control risk with specific causes like financial instability and sanitation noncompliance."
+  },
+  {
+   "text": "We may experience food or beverage-safety incidents such as contamination, mislabeling, or adulteration during any stage of production or preparation.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing food-safety incident risk."
+  },
+  {
+   "text": "A failure to meet quality standards\u2014even if due to factors beyond our control\u2014could result in public exposure, regulatory scrutiny or action, litigation (including product liability claims and class actions), or temporary store closures, which could materially harm our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing quality risk with specific consequences like litigation and store closures."
+  },
+  {
+   "text": "Additionally, clean water is essential for beverage preparation, and access may be limited in certain international markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding limited access to clean water in international markets."
+  },
+  {
+   "text": "As we expand our offerings requiring temperature control, the risk of food-safety incidents increases if proper conditions are not maintained due to mechanical failure or human error.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk tied to expanding temperature-controlled offerings and associated safety incidents."
+  },
+  {
+   "text": "Such incidents may harm our brand and reputation and could negatively impact our business and financial performance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reputational and financial harm from incidents."
+  },
+  {
+   "text": "Reports\u2014whether accurate or not\u2014of food- or beverage-safety issues such as contamination, mislabeling, or adulteration during any stage of production or preparation have historically harmed the reputations of companies in our industry.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing industry-wide food safety reputational risk."
+  },
+  {
+   "text": "Any perceived association with such incidents, even if unfounded, could harm our reputation and materially impact our business and financial performance.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about perceived association with safety incidents."
+  },
+  {
+   "text": "Food-safety incidents involving competitors or shared suppliers, even if unrelated to Starbucks, could generate negative publicity and impact our sales regionally or globally.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing food-safety reputational risk to include competitor/shared supplier incidents."
+  }
+ ]
+}

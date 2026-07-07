@@ -1,0 +1,218 @@
+{
+ "ticker": "RMD",
+ "sector": "Health Care",
+ "filing_date": "2025-08-08",
+ "accession": "0000943819-25-000035",
+ "prior_accession": "0000943819-24-000013",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 30,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 23,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 10
+ },
+ "items": [
+  {
+   "text": "The temporary ban against sales of Philips flow generators has provided an opportunity for smaller companies to compete for customers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new competitive threat: smaller companies gaining opportunity due to Philips flow generator ban."
+  },
+  {
+   "text": "AND SUBSIDIARIES revenue, lower prices for our products, or reduced reimbursement rates by third-party payors, while increasing the cost of operating our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary text that appears to be a header/formatting artifact rather than a substantive risk statement."
+  },
+  {
+   "text": "We sell our products in many countries, and we also source many components and materials for our products from and manufacture our products in various countries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about selling and sourcing globally, serving as context rather than a specific risk."
+  },
+  {
+   "text": "Recently, the U.S. government imposed significant tariffs, as well as increases to existing tariffs, impacting a wide variety of goods across multiple countries and indicated that additional tariffs may be imposed in the near future.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding U.S. government tariffs impacting the company's products."
+  },
+  {
+   "text": "In response to the tariffs announced by the U.S., other countries have imposed, are considering imposing, and may in the future impose new or increased tariffs on certain exports from the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on retaliatory tariffs from other countries, expanding the newly introduced tariff risk."
+  },
+  {
+   "text": "The extent to which these threats will be enacted and the duration for which enacted tariffs will be in place remain uncertain and could lead to economic decline, which could negatively impact demand for our products and adversely affect our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the uncertainty and economic impact of the newly introduced tariff risk."
+  },
+  {
+   "text": "Tariffs or trade restrictions that may be implemented by the U.S. or retaliatory trade measures or tariffs implemented by other countries could result in reduced economic activity, increased costs in operating our business, reduced demand and changes in purchasing behaviors for our customers, limits on trade with the U.S. or other potentially adverse economic outcomes.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues to detail potential effects of tariffs and trade restrictions already introduced."
+  },
+  {
+   "text": "Additionally, specific legislative and regulatory proposals may be introduced to change international trade law, regulations or interpretations thereof (possibly with retroactive effect) of various jurisdictions or limit trade relief benefits that, if enacted, could materially increase the cost of our goods to export internationally, increase our effective tax rate, or have a material adverse impact on our financial condition and results of operation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds further detail about legislative/regulatory trade risks tied to the new tariff risk topic."
+  },
+  {
+   "text": "We cannot predict whether our own or industry initiatives to maintain, extend or create tariff relief for our products and manufacturing will be successful.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating uncertainty around tariff relief efforts, part of same new risk."
+  },
+  {
+   "text": "We also cannot predict the effect, if any, of the imposition of new or increased tariffs by one country and retaliatory responses by other countries who are trade partners.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies unpredictability of tariff impacts, expanding the same new risk."
+  },
+  {
+   "text": "It is possible that these changes could adversely affect our business beyond the resilience of our current supply chain and investment in manufacturing flexibility.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds nuance about supply chain resilience limits related to the new tariff risk."
+  },
+  {
+   "text": "Further, actions we take to adapt to new tariffs or trade restrictions may increase our costs or risks or may cause us to modify our operations, which could be time-consuming and expensive; impact pricing of our products, which could impact our sales, profitability, and our reputation; or cause us to forgo new business opportunities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential operational and cost impacts from tariff adaptation, expanding the same risk."
+  },
+  {
+   "text": "While tariffs and other retaliatory trade measures imposed by other countries on U.S. goods and services have not yet had a significant impact on our business or results of operations, we cannot predict further developments, and such existing or future tariffs could have a material adverse effect on results of our operations, financial position and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Summarizes cumulative tariff risk impact, still part of the same newly introduced topic."
+  },
+  {
+   "text": "AND SUBSIDIARIES years ended June 30, 2025 and June 30, 2024, respectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Formatting fragment listing fiscal years, not a substantive risk statement."
+  },
+  {
+   "text": "The conflict between Israel and Iran may lead to fluctuations in oil prices and global economic instability, resulting in higher supply and transportation costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new geopolitical risk (Israel-Iran conflict) affecting oil prices and costs."
+  },
+  {
+   "text": "Clinical trials are very expensive and difficult to design and implement, in part because they are subject to rigorous regulatory requirements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about clinical trial cost and complexity, standard boilerplate risk language."
+  },
+  {
+   "text": "The clinical trial process is also time consuming.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about time-consuming nature of clinical trials, boilerplate language."
+  },
+  {
+   "text": "Furthermore, failure can occur at any stage of the trials, and we could encounter problems that cause us to abandon or repeat clinical trials.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about possible failure at any stage of trials, standard boilerplate risk wording."
+  },
+  {
+   "text": "We are subject to new areas of direct healthcare oversight by federal government agencies due to our acquisition of VirtuOx.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory oversight risk arising from the VirtuOx acquisition."
+  },
+  {
+   "text": "In May 2025, we acquired VirtuOx, a software-enabled IDTF and provider of technology solutions to facilitate in-home and remote testing services for sleep, respiratory, cardiac, and other health conditions across the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of the VirtuOx acquisition, providing context rather than stating a risk."
+  },
+  {
+   "text": "As a Medicare-enrolled IDTF, VirtuOx is subject to laws, regulations and policy pertaining to its Medicare enrollment, state Medicaid participation, and direct billing of both governmental and commercial insurance programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific laws applicable to VirtuOx, expanding the newly introduced regulatory risk."
+  },
+  {
+   "text": "These laws include but are not limited to the federal Anti-Kickback Statute, the federal civil and criminal False Claims Acts, the Civil Monetary Penalty Law\u2019s beneficiary inducement prohibition, and their state law equivalents.",
+   "category": "expanded_existing_risk",
+   "rationale": "Lists specific statutes, further expanding the new VirtuOx regulatory risk."
+  },
+  {
+   "text": "VirtuOx is also subject to HIPAA as a covered entity, which requires additional compliance efforts to meet all provisions under the HIPAA Privacy Rule and applicable requirements under the Electronic Standard Transactions Rule.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds HIPAA compliance details, expanding the same new regulatory risk."
+  },
+  {
+   "text": "As Resmed has historically only been subject to HIPAA as a business associate, these additional compliance requirements will require new policies, procedures, and data processing protocols, as well as the dedication of additional privacy, security and compliance personnel to ensure compliance with HIPAA.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains new compliance burdens due to acquisition, expanding the same risk."
+  },
+  {
+   "text": "Further, VirtuOx\u2019s direct billing status increases its risk relative to Resmed under the healthcare fraud and abuse laws and false claims laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Highlights increased fraud/abuse risk due to direct billing, expanding the same risk."
+  },
+  {
+   "text": "IDTFs, in particular, have extensive Medicare participation, billing and documentation requirements that will require additional compliance and legal resources to ensure that ongoing operations comply with applicable laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds IDTF-specific compliance requirements, expanding the same new risk."
+  },
+  {
+   "text": "If we become the subject of a government investigation, payor audit, or whistleblower lawsuit based on an allegation of noncompliance with one or more of these requirements, we risk potential refund of overpayments, financial penalties for violations, potential removal of participation in federal, state, and/or commercial payor programs, negative publicity, loss of public trust, and diversion of management\u2019s time, attention and resources.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details potential consequences of noncompliance, expanding the same new regulatory risk."
+  },
+  {
+   "text": "Many of these risks exist even if we are able to successfully defend against such allegations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about risk persisting despite successful defense, standard boilerplate."
+  },
+  {
+   "text": "In the event that a violation is found, or we are forced to resolve a dispute with a governmental entity, our revenue, reputation, strategic goals, and business operations could suffer. -31- Table of Contents PART I Item 1A RESMED INC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Contains formatting artifacts and restates general consequence language rather than new specifics."
+  },
+  {
+   "text": "In particular, export controls and other trade restrictions on rare earth materials from China could limit the availability and increase the cost of key inputs in our supply chain.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific supply chain risk related to Chinese export controls on rare earth materials."
+  },
+  {
+   "text": "Recently, China\u2019s Ministry of Commerce introduced license requirements and volume caps covering these materials and certain finished magnet products, while reserving the right to suspend or reinstate them at any time.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific regulatory detail expanding the new rare earth materials risk."
+  },
+  {
+   "text": "Such controls, combined with other geopolitical tensions, retaliatory tariffs or logistics disruptions may result in our suppliers being impacted by supply shortages or sharp price increases for the magnets on which many components depend.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on supply shortages and price increases stemming from the new risk."
+  },
+  {
+   "text": "Because these magnets are integral to various assemblies used in our products, any sustained disruption could require us to absorb higher costs, qualify alternative sources or materials, redesign components, build strategic inventory, or adjust production schedules, each of which could delay deliveries, compress margins, and erode our competitive position.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific operational impacts (cost, redesign, delays) expanding the same new risk."
+  },
+  {
+   "text": "Prolonged or repeated interruptions could also lead to accelerated capital expenditures on supply-chain diversification, or necessitate contractual concessions, any of which could have a material adverse effect on our business, financial condition, and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds further potential financial consequences, expanding the same newly introduced risk."
+  },
+  {
+   "text": "Failed, substandard or delayed efforts to improve our IT System infrastructure may result in disruption to our business or materially increased costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds a specific consequence (business disruption, increased costs) to the existing IT infrastructure risk."
+  },
+  {
+   "text": "Such cyberattacks increasingly exploit AI and machine-learning techniques\u2014ranging from generative-AI phishing and deep-fake impersonations to automated vulnerability discovery, adaptive malware and large-scale credential-stuffing campaigns\u2014each of which can evolve rapidly to evade traditional security controls.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific threat vector\u2014AI-enabled cyberattacks\u2014expanding cybersecurity risk with material new detail."
+  },
+  {
+   "text": "As noted above, our acquisition of VirtuOx involves the undertaking of additional risk areas and the investment of additional resources and personnel to manage that risk.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Restates previously described VirtuOx risk without adding new information."
+  },
+  {
+   "text": "On November 1, 2024, CMS issued a rule finalizing changes for Medicare payments under the PFS and other Medicare Part B policies, effective on or after January 1, 2025.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific regulatory/reimbursement risk from a CMS rule change affecting Medicare payments."
+  },
+  {
+   "text": "Under this final rule, the average payment rates under the PFS would be reduced by 2.93% in CY 2025, removing the temporary increase in payment for CY 2024.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific percentage detail expanding the newly introduced CMS payment risk."
+  },
+  {
+   "text": "This amounts to an estimated CY 2025 PFS conversion factor of $32.35, resulting in lower Medicare payments to Part B suppliers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific dollar figure detail further expanding the same new reimbursement risk."
+  }
+ ]
+}

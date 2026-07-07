@@ -1,0 +1,218 @@
+{
+ "ticker": "MNST",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-27",
+ "accession": "0001104659-26-020831",
+ "prior_accession": "0001410578-25-000248",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 18,
+  "expanded_existing_risk": 13,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 8
+ },
+ "items": [
+  {
+   "text": "We offer the following flavors under the Blinder Lemon TM brand family: Original Lemonade and Strawberry Lemonade.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple listing of product flavors, a factual product description with no risk content."
+  },
+  {
+   "text": "Cigar City\u00ae \u2013 a line of craft beers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Listing of a product line (craft beers) without any risk framing."
+  },
+  {
+   "text": "We offer the following flavors under the Beast\u00ae Tea brand family: Green Tea, Original, Peach and Tea + Lemonade.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Listing of product flavors, purely descriptive."
+  },
+  {
+   "text": "AFF is our primary flavor supplier.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual supplier relationship without elaborating on a risk of dependence."
+  },
+  {
+   "text": "Our products compete with all liquid refreshments, including TCCC, PepsiCo, Inc.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates the existing competitive risk (competition from major beverage companies) in slightly different terms."
+  },
+  {
+   "text": "Domestically, our energy drinks compete directly with Red Bull, CELSIUS, Alani Nu, C4, Ghost, 5-Hour Energy, Rockstar, Bloom, V8 + Energy, Venom, and many other brands.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new competitor names to the already-existing competitive risk disclosure."
+  },
+  {
+   "text": "More generally, officials in the current U.S. presidential administration (the \u201cU.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory phrase referencing the administration, no substantive content."
+  },
+  {
+   "text": "Administration released the latest Dietary Guidelines for Americans in January 2026, which urge the consumption of whole foods and the avoidance of highly processed foods, and recommended limiting beverages such as soda, fruit drinks, and energy drinks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new regulatory development (2026 Dietary Guidelines) recommending limiting energy drinks, a specific new risk to product demand."
+  },
+  {
+   "text": "Bills that would change the GRAS process have also been introduced in the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new legislative bills that could change the GRAS ingredient approval process, a new regulatory risk."
+  },
+  {
+   "text": "Congress and some state legislatures.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation clause listing legislative bodies, no new substantive content."
+  },
+  {
+   "text": "If implemented, changes to the GRAS process could affect the way Monster assesses the GRAS status of ingredients we use in our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how GRAS process changes could affect the company, expanding the risk introduced in the prior sentence."
+  },
+  {
+   "text": "Some states have passed laws and 14 Table of Contents regulations that would prohibit certain food ingredients or require notices or warnings on food labels about the presence of certain ingredients.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes new state laws restricting or requiring warnings on food ingredients, a concrete new regulatory risk."
+  },
+  {
+   "text": "For example, West Virginia enacted legislation in 2025 that includes a ban on seven color additives and two preservatives products marketed to the general public; however, such portion of the law was challenged, and the court has granted a preliminary injunction, staying the ban pending the outcome of the legal challenge.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new West Virginia legislation banning certain additives, a concrete new legal risk."
+  },
+  {
+   "text": "Texas also enacted legislation in 2025 to require warnings for products containing any of approximately 44 ingredients enumerated in the law; a legal challenge against that law has also been filed.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new Texas legislation requiring ingredient warnings, a concrete new legal risk."
+  },
+  {
+   "text": "The Ninth Circuit recently ruled that certain aspects of the USDA\u2019s regulations failed to implement the statutory mandate, and the issue will be remanded to the USDA to revise the rule in a manner that may require bioengineering disclosures on a broader range of foods and in a more explicit manner.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new court ruling requiring potential expansion of bioengineering disclosure rules, a new compliance risk."
+  },
+  {
+   "text": "Latvia announced the introduction of an excise tax rate for energy drinks in December 2025, which is due to take effect on January 1, 2028.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific tax measure (Latvia excise tax) affecting energy drink sales."
+  },
+  {
+   "text": "Hungary has an excise tax in place to which our products are subject.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure of an existing excise tax in Hungary applicable to the company's products, adding a specific financial risk."
+  },
+  {
+   "text": "Saudi Arabia and the United Arab Emirates have imposed sugar-sweetened beverage taxes that are lower than the 100% rate imposed on energy drinks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific tax rates in Saudi Arabia and UAE that disadvantage energy drinks."
+  },
+  {
+   "text": "Both jurisdictions exclude energy drinks from this more favorable rate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Clarifies and expands on the prior sentence about tax treatment of energy drinks in those jurisdictions."
+  },
+  {
+   "text": "Certain other jurisdictions are also considering UPF taxes that may ultimately impact the sales and/or formulation of certain of our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new potential UPF taxes in other jurisdictions that could affect sales or formulation."
+  },
+  {
+   "text": "The nature and scope of evolving U.S. tariff measures, some of which have been challenged in litigation, are difficult to predict.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about unpredictability of tariff measures, expanding on existing tariff risk discussion."
+  },
+  {
+   "text": "If we are unable to maintain good relationships with our existing bottlers and distributors and/or secure such bottlers and distributors, our business could suffer.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding maintaining relationships with bottlers and distributors."
+  },
+  {
+   "text": "Additionally, competition in the alcohol beverage space\u2014including from craft brewers and craft distilleries, ready-to-drink spirits and similar products\u2014continues to evolve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing competitive risk in alcohol beverages to include new competitor types like craft distilleries and RTD spirits."
+  },
+  {
+   "text": "Market dynamics have been influenced by broader competitive trends and regulatory focus on market structure, including analyses and recommendations contained in the February 2022 U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds regulatory context (FTC report) to the existing competitive market structure risk."
+  },
+  {
+   "text": "Actual growth in specific segments, such as hard seltzers, craft products, and other beverage categories, varies over time and may be affected by changing consumer preferences, regulatory developments and economic conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about growth variability, generic framing without new specific risk."
+  },
+  {
+   "text": "Moreover, artificial intelligence shopping agents may autonomously recommend products that are not ours and, in some cases, directly compete with our products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk from AI shopping agents recommending competitor products."
+  },
+  {
+   "text": "Administration and any responsive and/or retaliatory tariffs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation phrase about tariffs, no new substantive detail."
+  },
+  {
+   "text": "Moreover, we rely upon trucks for the transportation of our products, which makes us susceptible to increases in the cost of fuel.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific operational risk related to reliance on trucking and fuel cost increases."
+  },
+  {
+   "text": "After imposing tariffs on steel and aluminum imports, in recent years, the United States has recently increased those tariffs and expanded the scope of their application.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing tariff risk with specifics about increased steel and aluminum tariffs."
+  },
+  {
+   "text": "Administration has also imposed tariffs more broadly on most imported goods and has also proposed additional tariffs on certain countries and sectors.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further expands tariff risk to broader imported goods and additional countries/sectors."
+  },
+  {
+   "text": "Our use of artificial intelligence technologies in our operations may expose us to risks.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk category related to AI usage in operations."
+  },
+  {
+   "text": "We rely on artificial intelligence (\u201cAI\u201d) technologies to support and enhance various aspects of our products, services, and internal operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses new reliance on AI technologies across products and operations, a new risk exposure."
+  },
+  {
+   "text": "These systems may not perform as intended and expose us to risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the AI risk introduced, detailing potential performance failures."
+  },
+  {
+   "text": "In particular, AI models can generate inaccurate, biased, or unpredictable outputs, and failures in data quality, system design, or oversight could result in operational disruptions, security or privacy incidents, reputational challenges, and other harms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details specific AI failure modes (bias, inaccuracy) expanding the AI risk."
+  },
+  {
+   "text": "Because AI systems can be complex and difficult to fully evaluate or 27 Table of Contents audit, we may be unable to detect errors or vulnerabilities in a timely manner.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about difficulty auditing AI systems, expanding the AI risk discussion."
+  },
+  {
+   "text": "If we are unable to effectively implement, monitor, and manage these technologies, our business, financial condition, and results of operations could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Concludes the AI risk section with potential business impact, expanding prior AI risk statements."
+  },
+  {
+   "text": "There has also been heightened focus on the caffeine and ingredient content in beverages.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces heightened regulatory focus on caffeine/ingredient content as a new risk factor."
+  },
+  {
+   "text": "In the past year alone, certain states, including Texas and West Virginia, have enacted laws, mandating food label warnings regarding certain ingredients contained in products and/or banning certain additives.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides new specific examples of state laws (Texas, WV) enacting ingredient warning/ban requirements."
+  },
+  {
+   "text": "Changes in the regulation of artificial intelligence could result in enforcement actions, fines, or other adverse consequences.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk of AI regulatory changes leading to enforcement actions or fines."
+  },
+  {
+   "text": "We operate in a global market, and our use of AI is subject to different levels of regulations in different markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands the AI risk discussion to address varying global regulatory environments."
+  }
+ ]
+}

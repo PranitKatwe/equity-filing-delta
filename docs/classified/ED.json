@@ -1,0 +1,68 @@
+{
+ "ticker": "ED",
+ "sector": "Utilities",
+ "filing_date": "2026-02-19",
+ "accession": "0001047862-26-000031",
+ "prior_accession": "0001047862-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 10,
+ "n_substantive": 7,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "44 CON EDISON ANNUAL REPORT 2025 AI is an emerging area of technology that has the potential to impact various aspects of the Companies\u2019 business operations and customer interactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces AI as a new emerging risk area affecting business operations and customer interactions, a topic not previously disclosed."
+  },
+  {
+   "text": "Generative AI technologies are still in their early stages of development and deployment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic framing statement about the early stage of generative AI technology without specific risk detail."
+  },
+  {
+   "text": "Ineffective or inadequate AI development or deployment practices by the Companies or third-party vendors could result in unintended consequences.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk that ineffective AI development/deployment practices could cause unintended consequences."
+  },
+  {
+   "text": "While the Companies seek contractual protections with third-party vendors regarding the use of AI technology, the Companies may not have full awareness of, or control or visibility over, the quality, performance, security or compliance of the products and services that incorporate AI-related technology used by such vendors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding lack of visibility/control over third-party vendors' AI-related products and compliance."
+  },
+  {
+   "text": "AI algorithms that the Companies or their third-party vendors use may be flawed or may be based on datasets that are biased or insufficient.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk that AI algorithms or datasets used may be flawed, biased, or insufficient."
+  },
+  {
+   "text": "These limitations or failures, or inaccurate results generated as a result of the Companies\u2019 employees\u2019, contractors\u2019 or vendors\u2019 use or misuse of AI technologies could lead to operational interruptions or otherwise adversely affect the Companies\u2019 businesses, reputation or financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Details concrete potential business impacts (operational interruptions, reputational and financial harm) from AI misuse or failure."
+  },
+  {
+   "text": "Developing, testing, and deploying resource-intensive AI systems may require additional investment and increase the Companies\u2019 costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new financial/operational risk regarding increased costs from developing and deploying AI systems."
+  },
+  {
+   "text": "In addition, the rapidly evolving nature of AI technologies may cause new laws and regulations to be enacted which could dramatically affect business practices, including the costs to comply with such new laws and regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new regulatory risk tied to evolving AI laws and compliance costs."
+  },
+  {
+   "text": "The future development of AI technologies and the nature of any related new laws and regulations, and their costs and consequences, cannot be reasonably predicted at this time.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unpredictability of future AI developments, lacking specific new risk content."
+  },
+  {
+   "text": "See \"Energy Affordability\" in Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A cross-reference to another section of the report, not a substantive risk disclosure."
+  }
+ ]
+}

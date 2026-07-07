@@ -1,0 +1,58 @@
+{
+ "ticker": "ABT",
+ "sector": "Health Care",
+ "filing_date": "2026-02-20",
+ "accession": "0001628280-26-010185",
+ "prior_accession": "0001628280-25-007110",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Abbott plans to fund the Exact Sciences acquisition with approximately $20 billion of borrowings.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financing risk: funding a $20 billion acquisition with borrowings, which is a concrete new leverage/debt risk not previously disclosed."
+  },
+  {
+   "text": "As a global healthcare company with sales outside of the U.S. making up approximately 61 percent of Abbott\u2019s net sales in 2025, Abbott\u2019s business is subject to geopolitical and macroeconomic risks that are beyond its control.",
+   "category": "reworded_same_meaning",
+   "rationale": "Standard boilerplate framing about international sales exposure and geopolitical/macroeconomic risk, updated with a new percentage but not introducing a new risk."
+  },
+  {
+   "text": "These risks include the enactment of trade protection measures such as tariffs, import or export licensing requirements, other governmental restrictions such as trade sanctions, and changes to international trade agreements; government actions such as price controls, limitations on participation in local enterprises, expropriation, and nationalization; restrictions on local currency conversion and/or cash extraction; changes in inflation (including the cost of raw materials, labor, commodities, and supplies) and interest rates; and fluctuations in foreign currency exchange rates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of trade and macroeconomic risk factors commonly disclosed by multinational companies; no new specific risk introduced."
+  },
+  {
+   "text": "Abbott is also subject to other geopolitical risks, such as war, political and geopolitical instability, terrorist attacks and related military action.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic reference to war, political instability, and terrorism risks, typical cautionary language without new specifics."
+  },
+  {
+   "text": "12 Table of Contents For example, the global economy has been impacted by geopolitical tensions focused on trade, which has increased uncertainty for global businesses such as Abbott.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about geopolitical tensions affecting the global economy, lacking specific new risk detail."
+  },
+  {
+   "text": "The U.S. government has imposed tariffs on imports into the U.S., and it may impose additional tariffs in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically identifies actual U.S. government tariffs imposed on imports and potential for more, introducing a concrete new trade policy risk."
+  },
+  {
+   "text": "Some countries may retaliate with trade protection measures, including reciprocal tariffs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the tariff risk just introduced by adding the possibility of retaliatory tariffs from other countries."
+  },
+  {
+   "text": "These tariffs or other trade protection measures could have a negative impact on macroeconomic conditions, including inflation rates, foreign currency exchange rates, and interest rates, as well as causing potential disruptions to Abbott\u2019s global supply chain, which could adversely affect its business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the potential downstream effects of tariffs (inflation, currency, supply chain), expanding on the newly introduced tariff risk rather than introducing a wholly new one."
+  }
+ ]
+}

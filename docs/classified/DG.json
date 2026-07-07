@@ -1,0 +1,63 @@
+{
+ "ticker": "DG",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-03-20",
+ "accession": "0001104659-26-032325",
+ "prior_accession": "0001558370-25-003413",
+ "model": "claude-sonnet-5",
+ "n_added": 9,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "However, the risks that we face are not limited to those described below and those set forth in our SEC filings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer that risks are not limited to those listed; standard cautionary language."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether such factors have occurred in the past or their likelihood of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing statement about how past events are referenced, not a substantive risk."
+  },
+  {
+   "text": "While we saw slight improvement in our sales mix in 2025 as compared to the prior year, our sales mix remains heavily weighted towards consumables, and there is no guarantee that these initiatives will continue to improve our sales mix.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and slightly updates the existing risk about sales mix being heavily weighted toward consumables, noting incremental improvement but no guarantee of continuation."
+  },
+  {
+   "text": "Furthermore, if our competitors or third parties incorporate artificial intelligence into their businesses more quickly or more successfully than us, it could impair our ability to compete effectively and adversely affect our results of operations, or if our use of artificial intelligence is inaccurate or ineffective, our competitive position could be adversely affected.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific competitive risk related to competitors' faster or more effective use of artificial intelligence impacting the company's competitive position."
+  },
+  {
+   "text": "Further, we pay interchange and other processing fees related to our acceptance of debit and credit card payments, and these fee amounts could continue to increase over time, as a result of customers shifting their payments from cash to credit/debit card and/or our fee rates rising, thereby raising our operating costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financial risk regarding rising interchange and processing fees from debit/credit card payments increasing operating costs."
+  },
+  {
+   "text": "There are also risks associated with our continued integration of artificial intelligence and machine learning within our technology systems (for example, if the types of information that applications with embedded artificial intelligence assist in producing are or are alleged to be deficient, inaccurate, or biased, our business, financial condition, and results of operations may be adversely affected).",
+   "category": "new_substantive_risk",
+   "rationale": "Details a specific new risk regarding inaccuracies or biases in AI/ML systems affecting business operations and financial results."
+  },
+  {
+   "text": "In 2025, the U.S. administration imposed additional tariffs across many of our global trading partners, including China, the European Union, Canada, India, and various countries located in Southeast Asia.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific, concrete new risk regarding newly imposed tariffs on major global trading partners in 2025."
+  },
+  {
+   "text": "These events may also exacerbate the economic impacts to our business and our customers as discussed above.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague, non-specific statement referencing prior discussion without adding new risk detail."
+  },
+  {
+   "text": "The WOTC expired at the end of the 2025 calendar year, and, if not renewed, the expiration is expected to have a significant negative impact on our future earnings per share.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific tax credit (WOTC) expiration with a concrete expected negative impact on future earnings per share."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "ticker": "BSX",
+ "sector": "Health Care",
+ "filing_date": "2026-02-17",
+ "accession": "0000885725-26-000010",
+ "prior_accession": "0000885725-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 35
+ },
+ "items": [
+  {
+   "text": "BUSINESS Our Company Boston Scientific Corporation is a global developer, manufacturer and marketer of medical devices that are used in a broad range of interventional medical specialties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic company description, no risk content."
+  },
+  {
+   "text": "Our mission is to transform lives through innovative medical solutions that improve the health of patients around the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Mission statement, not a risk."
+  },
+  {
+   "text": "As a medical technology leader for more than 45 years, we have advanced the practice of less-invasive medicine by helping physicians and other medical professionals diagnose and treat a wide range of diseases and medical conditions and improve patients\u2019 quality of life by providing alternatives to surgery and other medical procedures that are typically traumatic to the body.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical/company background, not a risk."
+  },
+  {
+   "text": "We advance science for life by providing a broad range of high-performance solutions to address unmet patient needs and reduce the cost of health care.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Marketing language about mission, no risk."
+  },
+  {
+   "text": "When used in this report, the terms \"we,\" \"us,\" \"our\" and \"the Company\" mean Boston Scientific Corporation and its divisions and subsidiaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Definition of terms used in the report."
+  },
+  {
+   "text": "Business Strategy We operate pursuant to five strategic imperatives.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement of strategic imperatives, not a risk."
+  },
+  {
+   "text": "We aim to: Strengthen Category Leadership, Expand into High Growth Adjacencies, Drive Global Expansion, Fund the Journey to Fuel Growth and Develop Key Capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of strategic goals, no specific risk."
+  },
+  {
+   "text": "We believe that our 3 execution of these strategic imperatives will help us deliver on our mission, drive innovation and increase value for our customers and employees, while strengthening our leadership position in the medical device industry and delivering profitable revenue growth.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General aspirational statement about strategy execution."
+  },
+  {
+   "text": "We expect to continue to invest in our core businesses and pursue opportunities to diversify and further expand our presence in strategic, high-growth adjacencies and new global markets, including growth within the countries we define as emerging markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Growth strategy description, not risk-specific."
+  },
+  {
+   "text": "Maintaining and expanding our international presence is an important component of our long-term growth strategy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about international expansion strategy."
+  },
+  {
+   "text": "Through our international presence, we seek to increase net sales and market share, leverage our relationships with leading physicians and their clinical research programs, accelerate the time to bring new products to market and gain access to worldwide technological developments that we can implement across our product lines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Explanation of benefits of international presence, not a risk."
+  },
+  {
+   "text": "Our research and development efforts are focused largely on the development of next-generation and novel technology offerings across multiple programs and all divisions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General R&D focus description."
+  },
+  {
+   "text": "In the past several years, we have completed numerous acquisitions in support of our growth strategy, both strengthening our core businesses and expanding into high growth adjacent markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Historical statement about past acquisitions, not a new risk."
+  },
+  {
+   "text": "We continue to develop digital tools and technologies that enable us to compete more effectively and deliver first class remote physician education, drive deeper patient engagement and increase digitally-enabled sales force productivity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Description of digital initiatives, no risk implied."
+  },
+  {
+   "text": "We have a firm commitment to corporate social responsibility and living our values as a global business and global corporate citizen.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Corporate social responsibility statement."
+  },
+  {
+   "text": "This includes taking actions to drive innovative care, contribute to the communities where we live and work, protect the environment, invest in our employees' health and well-being, and many other initiatives that we believe ultimately help us create value responsibly.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "CSR initiatives description, no risk."
+  },
+  {
+   "text": "Refer to Corporate Responsibility below for additional information regarding measures we are undertaking.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to another section, no risk content."
+  },
+  {
+   "text": "Product Offerings Our portfolio of devices and therapies helps physicians diagnose and treat complex cardiovascular, respiratory, digestive, oncological, neurological and urological diseases and conditions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product portfolio overview, not a risk."
+  },
+  {
+   "text": "Our core businesses are organized into two reportable segments: MedSurg and Cardiovascular.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment structure description."
+  },
+  {
+   "text": "In the fourth quarter of 2025, an organizational change combined our legacy Cardiology and Peripheral Interventions businesses into a single Cardiovascular business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Organizational restructuring note, factual not risk-specific."
+  },
+  {
+   "text": "The change had no impact on our reportable segments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifies no impact on reportable segments, non-risk."
+  },
+  {
+   "text": "The following describes our key product offerings and new product innovations by reportable segment and business unit.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory sentence to product listing."
+  },
+  {
+   "text": "MedSurg Endoscopy Our Endoscopy business unit develops and manufactures minimally invasive devices for diagnosing and treating gastrointestinal and pancreaticobiliary conditions and for supporting weight loss in patients with obesity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business unit description, not a risk."
+  },
+  {
+   "text": "Urology Our Urology business unit develops and manufactures devices to treat various urological conditions for both male and female anatomies, including kidney stones, benign prostatic hyperplasia (BPH), prostate cancer, erectile dysfunction and male incontinence, over active bladder and pelvic floor disorders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business unit description, not a risk."
+  },
+  {
+   "text": "4 Neuromodulation Our Neuromodulation business unit develops and manufactures devices to treat various neurological movement disorders and manage chronic pain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business unit description, not a risk."
+  },
+  {
+   "text": "Our product offerings include our WaveWriter Alpha\u2122 Spinal Cord Stimulator (SCS) System, designed to provide improved pain relief to a wide range of patients who suffer from chronic pain, our Intracept\u2122 Intraosseous Nerve Ablation System, the only U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description, not a risk."
+  },
+  {
+   "text": "Food and Drug Administration (FDA)-cleared system to treat vertebrogenic pain, a form of chronic low back pain, our G4\u2122 Generator and consumable portfolio in Radiofrequency Ablation (RFA) for pain management and our Vercise Genus\u2122 Deep Brain Stimulation (DBS) System for the treatment of Parkinson's disease, tremor and intractable primary and secondary dystonia.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description, not a risk."
+  },
+  {
+   "text": "Cardiovascular Interventional Cardiology and Vascular Therapies (ICVT) Our Interventional Cardiology and Vascular Therapies business unit develops and manufactures technologies to diagnose and treat complex coronary, peripheral and venous diseases, including calcific and obstructive arterial disease, thromboembolic conditions and venous insufficiency.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Business unit description, not a risk."
+  },
+  {
+   "text": "In addition, the portfolio comprises minimally invasive therapies to remove or dissolve blood clots in deep veins and pulmonary arteries (AngioJet\u2122 Thrombectomy Systems and EKOS\u2122 Ultrasound Assisted Thrombolysis) and injectable treatments that improve symptoms associated with superficial venous reflux and varicose veins (Varithena\u2122 Polidocanol Injectable Foam).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Product description, not a risk."
+  },
+  {
+   "text": "In the second quarter of 2025, we completed our acquisition of the remaining shares of Bolt Medical, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual acquisition completion note, not framed as a risk."
+  },
+  {
+   "text": "(Bolt Medical), the developer of an intravascular lithotripsy advanced laser-based platform for the treatment of coronary and peripheral artery disease.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes acquired technology, not a risk."
+  },
+  {
+   "text": "In addition, we completed the acquisition of the remaining shares of SoniVie Ltd.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual acquisition completion note."
+  },
+  {
+   "text": "(SoniVie), a privately held medical device company that has developed the TIVUS\u2122 Intravascular Ultrasound System.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes acquired technology, not a risk."
+  },
+  {
+   "text": "An investigational technology, the TIVUS System is designed to denervate nerves surrounding blood vessels to treat a variety of hypertensive disorders, including renal artery denervation for hypertension.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes investigational technology, not a risk."
+  },
+  {
+   "text": "On January 15, 2026, we announced our entry into a definitive agreement to acquire 100 percent of Penumbra, Inc.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a major pending acquisition (Penumbra) that introduces new integration, regulatory, and financial risk not previously disclosed."
+  },
+  {
+   "text": "(Penumbra), a publicly traded medical technology company primarily focused on innovative medical thrombectomy products for use in peripheral vascular procedures in the removal of blood clots and blockages.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the target company's business, expanding on the scope of the pending acquisition risk."
+  },
+  {
+   "text": "The Penumbra portfolio includes the Lightning Bolt\u2122 and Lightning Flash\u2122 Computer Assisted Vacuum Thrombectomy (CAVT\u2122) Systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes acquired product line, factual detail."
+  },
+  {
+   "text": "The purchase price is valued at $374 per share, or approximately $14.500 billion.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a large specific purchase price (~$14.5B), introducing financial and valuation risk exposure not previously present."
+  },
+  {
+   "text": "The transaction is expected to close during 2026, subject to customary closing conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes closing conditions and timing, expanding on the uncertainty risk of the pending acquisition."
+  },
+  {
+   "text": "We plan to fund the transaction consideration through a combination of cash on hand and newly issued debt in an aggregate amount equal to approximately $11.000 billion, and the remaining portion of the transaction consideration will be paid in shares of our common stock.",
+   "category": "new_substantive_risk",
+   "rationale": "Details new debt issuance (~$11B) and stock issuance to fund the acquisition, introducing new leverage and dilution risk."
+  }
+ ]
+}

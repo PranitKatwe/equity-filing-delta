@@ -1,0 +1,53 @@
+{
+ "ticker": "ERIE",
+ "sector": "Financials",
+ "filing_date": "2026-02-23",
+ "accession": "0001628280-26-010666",
+ "prior_accession": "0000922621-25-000004",
+ "model": "claude-sonnet-5",
+ "n_added": 7,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Regulatory or other third-party action affecting the management fee rate could also materially adversely affect our revenues and profitability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that regulatory or third-party action on the management fee rate could hurt revenues and profitability, which is a distinct, concrete concern not previously described."
+  },
+  {
+   "text": "Additional perils that the Exchange is exposed to through its assumed property reinsurance portfolio include wildfires, tsunamis, and floods.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new perils (wildfires, tsunamis, floods) to the existing risk about assumed property reinsurance exposure, expanding detail on an already-disclosed risk category."
+  },
+  {
+   "text": "Any significant decrease in claims frequency and loss expenses could improve the profitability component, resulting in increased agent compensation costs.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific new mechanism\u2014decreased claims frequency improving profitability leading to higher agent compensation costs\u2014that is a concrete new business/cost risk."
+  },
+  {
+   "text": "Additionally, our executives and other key management may be subject to physical or cyber threats, which if realized, could adversely affect our business operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk concerning physical or cyber threats to executives and key management personnel, not previously disclosed."
+  },
+  {
+   "text": "While we also maintain business interruption insurance to mitigate the financial risk around disruptions to our core business operations, such insurance may not cover all costs associated with a disruption, and such insurance may become prohibitively expensive to maintain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the pre-existing mitigation (business interruption insurance) by adding specifics about coverage gaps and rising costs, expanding rather than introducing a new risk."
+  },
+  {
+   "text": "For example, recent changes in the U.S. regulatory environment relating to ESG matters has increased scrutiny of corporate ESG practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Provides general contextual framing about increased regulatory scrutiny on ESG without specifying a new concrete business risk."
+  },
+  {
+   "text": "Failure to effectively address current and future ESG regulatory developments and stakeholder expectations may expose our business to litigation, fines, penalties, and damage to our reputation, which, if material could adversely affect our financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk pathway\u2014failure to address ESG regulatory and stakeholder expectations leading to litigation, fines, and reputational damage\u2014materially expanding risk disclosure."
+  }
+ ]
+}

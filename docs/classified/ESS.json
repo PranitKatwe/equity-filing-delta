@@ -1,0 +1,58 @@
+{
+ "ticker": "ESS",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-20",
+ "accession": "0000920522-26-000003",
+ "prior_accession": "0000920522-25-000024",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Following the COVID-19 pandemic, governments have demonstrated a greater interest in eviction moratoria and strict housing controls.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory risk regarding eviction moratoria and housing controls following COVID-19, which is a concrete and material risk not previously mentioned."
+  },
+  {
+   "text": "We may be legally required to, or otherwise agree to, restructure tenants\u2019 rent obligations on less favorable terms than those currently in place.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk that the company may be forced to restructure tenant rent obligations unfavorably, a concrete business impact."
+  },
+  {
+   "text": "This could lead to lower profitability and market fluctuations that may affect our ability to obtain necessary funds for our business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is a vague, generic statement about lower profitability and market fluctuations without specific new risk detail, functioning as boilerplate consequence language."
+  },
+  {
+   "text": "Some employment claims such as California private attorney general actions (\u201cPAGA\u201d) or class actions are also not insurable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific legal risk category (PAGA and class actions) that is explicitly uninsurable, a concrete new exposure."
+  },
+  {
+   "text": "Additionally, remote and hybrid working arrangements at our company (and at many third-party providers) also increase cybersecurity risks due to the challenges associated with managing remote computing assets and security vulnerabilities that are present in many non-corporate and home networks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on an existing cybersecurity risk by adding specific detail about remote/hybrid work increasing vulnerabilities, expanding rather than introducing a wholly new risk."
+  },
+  {
+   "text": "Furthermore, we use artificial intelligence technologies in our business and there are significant information technology risks involved in maintaining and deploying these technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk related to the use of artificial intelligence technologies and associated IT risks."
+  },
+  {
+   "text": "There can be no assurance that our investments in such technologies will always enhance our services or be beneficial to our business, including our efficiency or profitability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement that technology investments may not always be beneficial, lacking specific new risk content."
+  },
+  {
+   "text": "Anti-ESG advocates, including certain state attorneys general outside of the Company\u2019s current geographic locations, have also brought legal challenges regarding corporate climate initiatives and commitments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal/political risk from anti-ESG advocates and attorneys general challenging climate commitments."
+  }
+ ]
+}

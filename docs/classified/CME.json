@@ -1,0 +1,218 @@
+{
+ "ticker": "CME",
+ "sector": "Financials",
+ "filing_date": "2026-02-26",
+ "accession": "0001156375-26-000009",
+ "prior_accession": "0001156375-25-000021",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 26,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 3,
+  "boilerplate_or_reorder": 11
+ },
+ "items": [
+  {
+   "text": "We also face competition from new entrants into the marketplace, including newly launched FMX Futures Exchange, as well as digital asset platforms and emerging prediction markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific new competitors (FMX, digital asset platforms, prediction markets) to existing competition risk."
+  },
+  {
+   "text": "Several new derivatives clearing operators have gained approval in the U.S. in the last decade.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing competitive landscape with new entrants detail."
+  },
+  {
+   "text": "Competition in our Securities Clearing Business We plan to launch our securities clearing business later in 2026 beginning with cash U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a wholly new business line (securities clearing) creating new risk exposure."
+  },
+  {
+   "text": "Treasury and repo transactions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment continuation of prior sentence, no new content."
+  },
+  {
+   "text": "FICC, a subsidiary of DTCC, is the primary player in the U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes competitive landscape detail for new business segment."
+  },
+  {
+   "text": "Treasury clearing market with new entrants, including ICE Clear Credit\u2019s Treasury Clearing Service.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific competitor detail to Treasury clearing competition."
+  },
+  {
+   "text": "We believe competition in securities clearing will be based upon principles similar to the derivatives clearing business.",
+   "category": "reworded_same_meaning",
+   "rationale": "General belief statement paralleling existing competitive risk framing."
+  },
+  {
+   "text": "11 Table of Contents In the fixed income space, there are also multiple providers of U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on fixed income competitive providers."
+  },
+  {
+   "text": "This strategy aims to draw customers away from our markets, thereby shifting market share.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic restatement of competitive strategy impact."
+  },
+  {
+   "text": "FanDuel Prediction Markets LLC, which is part of our joint venture with FanDuel, is a registered FCM.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new regulated entity (FanDuel Prediction Markets LLC) creating new regulatory exposure."
+  },
+  {
+   "text": "As an FCM, it is subject to the CEA and the related CFTC regulations and the applicable rules and provisions of the National Futures Association.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard regulatory compliance statement."
+  },
+  {
+   "text": "It is also subject to our applicable exchange rulebooks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about rulebook applicability."
+  },
+  {
+   "text": "Regulation of our Securities Clearing Business Our operation of CMESC subjects us to regulation by the SEC as a securities clearing agency under the Securities Exchange Act and its related rules and regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new regulatory oversight (SEC as securities clearing agency) for new business."
+  },
+  {
+   "text": "Our key areas of focus in the regulatory environment are: \u2022 The approach to digital assets regulation and market structure legislation, which may affect our existing offerings or our ability to provide future offerings. \u2022 The outcome of both litigation and regulatory consideration of issues relating to prediction markets, which could impact our existing and future offerings through our joint venture with FanDuel. \u2022 The implementation of rules resulting in negative treatment of the liquidity profile of U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific regulatory risk areas: digital assets, prediction market litigation, Treasury clearing mandates."
+  },
+  {
+   "text": "Treasury securities as collateral could result in increased costs to us and our clearing firms. \u2022 The implementation of the SEC's mandate for central clearing of U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details cost impact from Treasury collateral treatment, expanding existing regulatory risk."
+  },
+  {
+   "text": "We plan to launch clearing services under CMESC later in 2026 to help market participants comply with the mandate for U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates planned launch of CMESC clearing services, expanding on new business risk already noted."
+  },
+  {
+   "text": "Treasury transactions (as of December 31, 2026) and repo transactions (as of June 30, 2027). \u2022 Basel III Endgame rules.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces Basel III Endgame as a new regulatory risk factor."
+  },
+  {
+   "text": "Legislation regarding the regulatory market structure applicable to the trading and clearing of spot digital assets is currently being considered in Congress.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new legislative risk regarding digital asset market structure."
+  },
+  {
+   "text": "It is not yet certain whether the legislation will be signed into law or whether it will have any impact on listed derivatives regulation.",
+   "category": "reworded_same_meaning",
+   "rationale": "General uncertainty statement about legislation impact, restating known ambiguity."
+  },
+  {
+   "text": "The legal status of certain event-based contracts, most notably those based on sports events, is the subject of litigation in various jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific litigation risk regarding legality of sports event contracts."
+  },
+  {
+   "text": "The outcome of these cases, new laws or regulations, or changes in the interpretation of existing laws or regulations could immediately or subsequently impact our ability to offer certain event contracts and could subject us to additional litigation or regulatory scrutiny.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential impacts of litigation outcomes already introduced."
+  },
+  {
+   "text": "It is impossible to accurately predict the likelihood or impact of any terrorist attack against us or our third-party service providers, or on our industry generally.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about unpredictability of terrorist attacks."
+  },
+  {
+   "text": "Failure to continuously improve our electronic trading systems and technology offerings could materially impact our financial condition or results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reinforces existing technology risk about system improvement failures."
+  },
+  {
+   "text": "This includes, but is not limited to, the successful development and migration of our markets and supporting operational and business functions to the Google Cloud in the new private Google Cloud region.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new dependency on migration to Google Cloud infrastructure."
+  },
+  {
+   "text": "Our business is subject to the impact of financial markets volatility, which is caused by conditions that are beyond our control.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic market volatility framing."
+  },
+  {
+   "text": "Trading volume in our markets and products is largely driven by the degree of volatility - the magnitude and frequency of fluctuations - in prices and levels of the underlying commodities, securities, indices, financial benchmarks or other instruments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard explanation of volatility-driven trading volume."
+  },
+  {
+   "text": "Volatility increases the need to hedge price risk and creates opportunities for investment and speculative or arbitrage trading.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about volatility and hedging."
+  },
+  {
+   "text": "Were there to be a sustained period of stability in the prices or levels of the underlying commodities, securities, indices, benchmarks or other instruments of our products, we could experience lower trading volumes, slower growth or declines in revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequence of low volatility on revenue, expanding existing volatility risk."
+  },
+  {
+   "text": "Because our cost structure is largely fixed, if demand for our current products and services declines for any reason, we may not be able to adjust our cost structure to counteract the associated decline in revenues, which would cause our net income to decline.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reiterates known fixed cost structure risk."
+  },
+  {
+   "text": "On November 27, 2025, our largest data center owned and operated by CyrusOne experienced a critical cooling failure caused by human error.",
+   "category": "new_substantive_risk",
+   "rationale": "Describes a specific, real operational incident (CyrusOne cooling failure) not previously disclosed."
+  },
+  {
+   "text": "In response to the critical cooling failure, we made the decision to temporarily halt our markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details response to the new incident already introduced."
+  },
+  {
+   "text": "Our markets opened the following day on a delayed basis.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further detail on the same incident's timeline."
+  },
+  {
+   "text": "Although the impact to our business from the event was limited and not material, we cannot make assurances that we will not experience future events that may be material.",
+   "category": "expanded_existing_risk",
+   "rationale": "Assesses materiality and future risk implications of the same incident."
+  },
+  {
+   "text": "As discussed above in \u201cIf we experience system failures or capacity constraints, our ability to conduct our operations and execute our business strategy could be materially harmed, and we could be subject to significant costs and liabilities,\u201d in November 2025, CyrusOne, the owner and operator of our largest data center, experienced a critical cooling failure, which resulted in our decision to temporarily halt our markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference restating the same CyrusOne incident already described."
+  },
+  {
+   "text": "During 2025, the clearing house transferred an average of approximately $ 6.7 billion a day through the clearing system for settlement from clearing firms whose positions had lost value to clearing firms whose positions had gained value.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides quantitative detail on clearing house risk transfer, expanding existing clearing risk discussion."
+  },
+  {
+   "text": "Later in 2026, we expect to launch clearing services for U.S.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates planned launch of Treasury clearing services, same as prior new business risk."
+  },
+  {
+   "text": "Treasury cash and repo transactions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment continuation of prior sentence about repo transactions."
+  },
+  {
+   "text": "While we have a long history in, and deep understanding of, risk 22 Table of Contents management from the operation of our derivatives clearing house, the operation of a securities clearing house is new to our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicitly states operation of a securities clearing house is new to the business, introducing novel operational risk."
+  },
+  {
+   "text": "The processes for calculating and setting margins and financial safeguards is complex and there is no guarantee that our risk models that are utilized to calculate margin and our financial safeguard procedures will adequately protect us in all circumstances.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about complexity and uncertainty of risk models, similar to standard clearing risk disclosures."
+  },
+  {
+   "text": "Additionally, the emergence of increasingly sophisticated and widely accessible generative artificial intelligence and its ability to create believable yet fabricated content may elevate our risk and susceptibility to fraudulent activities which could result in the wrongful transferring of funds, divulging of sensitive information or other unintended consequences.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk from generative AI enabling fraudulent activity."
+  }
+ ]
+}

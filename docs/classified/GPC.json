@@ -1,0 +1,173 @@
+{
+ "ticker": "GPC",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-02-20",
+ "accession": "0000040987-26-000003",
+ "prior_accession": "0000040987-25-000026",
+ "model": "claude-sonnet-5",
+ "n_added": 31,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 22,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "Forward-looking statements may relate, for example, to the company's view of business and economic trends for the coming year and the company's expectations regarding its ability to capitalize on these business and economic trends; the company's full-year 2026 outlook and the company's ability to successfully execute on its strategic priorities, including the company's anticipated separation of Global Automotive and Global Industrial into two independent, publicly traded companies.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is standard forward-looking statement framing language, only updated to reference the planned separation; it does not itself describe a risk."
+  },
+  {
+   "text": "Our results of operations, revenue, and supply chain could be materially affected as a result of a bankruptcy, insolvency or other credit failures of a significant customer or vendor.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk that a customer or vendor bankruptcy/insolvency could materially affect operations, revenue, and supply chain."
+  },
+  {
+   "text": "Our operations depend on relationships with various customers and vendors, and we may be exposed to risks if any customer or vendor declares bankruptcy, becomes insolvent, or otherwise fails to meet its financial or contractual obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the same newly introduced customer/vendor bankruptcy risk by describing the general dependency on these relationships."
+  },
+  {
+   "text": "For example, in September 2025, one of the key vendors for our North America Automotive segment filed for Chapter 11 bankruptcy.",
+   "category": "new_substantive_risk",
+   "rationale": "Cites a specific real-world event (a key vendor's Chapter 11 filing) that materially grounds and expands the bankruptcy risk into a concrete occurrence."
+  },
+  {
+   "text": "In the event a key customer or vendor files for bankruptcy or ceases operations, we may face significant disruptions including, but not limited to, delays in our supply chain, inability to source replacement goods at comparable costs, increased operating expenses, and such events may negatively impact our ability to collect outstanding receivables or ability to generate future sales and cash flow.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the specific operational consequences of the bankruptcy risk already introduced, expanding on it rather than introducing a new risk."
+  },
+  {
+   "text": "Credit and financial difficulties of our customers and vendors may also lead to a reduction in sales, price reductions, increased returns of our products, and could adversely affect our brand, revenue, operating results, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on financial consequences of customer/vendor credit difficulties, continuing the same risk theme."
+  },
+  {
+   "text": "For further information about our cybersecurity strategy, risk assessment and management processes, see \"Item 1C.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple cross-reference to another Item in the filing, not a substantive risk statement."
+  },
+  {
+   "text": "PROPOSED SEPARATION RISKS The proposed separation of our Automotive and Industrial businesses may not be completed on the terms or timeline currently contemplated, if at all, and there is no guarantee that the separation, if completed, will achieve the intended financial, strategic and operational benefits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new major corporate risk regarding the proposed separation of the company into two entities."
+  },
+  {
+   "text": "On February 17, 2026, following a comprehensive strategic and operational review by our Board of Directors and management team, we announced our intention to separate the Company into two independent, publicly traded companies: Global Automotive and Global Industrial.",
+   "category": "new_substantive_risk",
+   "rationale": "Announces a specific new corporate event (the separation announcement) not previously disclosed."
+  },
+  {
+   "text": "The proposed separation is intended to be tax-free for U.S. federal income tax purposes for the Company\u2019s shareholders and is expected to be completed in the first quarter of 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides additional detail (tax treatment, timing) about the newly disclosed separation risk."
+  },
+  {
+   "text": "Completion of the proposed separation is subject to, among other things, the final approval of our Board of Directors, receipt of requisite regulatory clearances and compliance with applicable SEC requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details conditions for completion of the newly introduced separation risk."
+  },
+  {
+   "text": "The proposed separation is complex in nature, and unanticipated changes or developments could delay or prevent the completion of the separation or cause the separation to occur on terms or conditions that are different or less favorable than expected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on uncertainties and complexity of the separation risk already introduced."
+  },
+  {
+   "text": "There can be no assurance that the separation, if completed, will achieve the intended financial, strategic and operational benefits (which are based on a number of assumptions, some or all of which may prove to be incorrect) or provide greater value to our shareholders than that reflected in the current price of our common stock, or that the dis-synergies of the separation will not exceed the anticipated amounts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential failure to realize benefits from the separation, continuing the same risk topic."
+  },
+  {
+   "text": "The market price of our common stock could be subject to significant fluctuation or otherwise be adversely affected by the uncertainties described above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes stock price impact stemming from the same separation-related uncertainty."
+  },
+  {
+   "text": "If the proposed separation occurs, Global Automotive and Global Industrial will each be less diversified companies with more concentrated areas of focus.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues discussing consequences of the separation, specifically reduced diversification."
+  },
+  {
+   "text": "As a result, Global Automotive and Global Industrial may become more vulnerable to changing macroeconomic and market conditions; the results of operations, cash flows, effective tax rate, and other financial and operating metrics of each company may be subject to increased volatility; and the ability of each company to fund capital expenditures and investments, pay dividends, and service debt may be diminished.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details the financial and operational impacts of reduced diversification following the separation, same risk theme."
+  },
+  {
+   "text": "To the extent challenges related to the proposed separation adversely affect our business, they may also have the effect of heightening other risks disclosed in this Form 10-K, any of which could materially and adversely affect our business, results of operations, and the price of our common stock.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes that separation-related challenges could amplify other existing risks, extending the same newly introduced risk factor."
+  },
+  {
+   "text": "Additionally, in the first half of 2025, the United States imposed increased tariffs on foreign imports into the United States, including an additional 20% tariff on all product imports from China, an additional 25% tar iff on all product imports from Mexico and Canada, as well as additional proposed tariffs on other countries.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new factual detail about 2025 tariff increases materially affecting the business."
+  },
+  {
+   "text": "The tariff policy environment has been and is expected to continue to be dynamic, and we cannot predict what additional actions may ultimately be taken by the United States or other governments with respect to tariffs or trade relations, including retaliatory trade measures taken by other countries in response to existing or future United States tariffs or other measures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on the tariff risk by describing ongoing policy uncertainty, continuing the same theme."
+  },
+  {
+   "text": "While we have taken steps to mitigate the impact of tariffs on our businesses, including through price increases and supply chain enhancements, tariffs and related inflationary pressures have impacted our SG&A expenses and gross margins.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific financial impacts (SG&A, margins) from tariffs, expanding the newly introduced tariff risk."
+  },
+  {
+   "text": "If these pressures continue or worsen, we may be required to take additional steps to mitigate the impact on our business, which could adversely affect our business and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further describes potential future actions and impacts tied to the same tariff risk."
+  },
+  {
+   "text": "As a global business, we are also subject to many laws governing international relations and our international operations, including laws such as the U.S.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new category of risk related to compliance with international laws governing global operations."
+  },
+  {
+   "text": "Foreign Corrupt Practices Act that prohibit improper payments to government officials and commercial customers and that restrict where we can do business, what information or products we can import and export to and from certain countries and what information we can provide to a non-U.S. government.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides specific detail (FCPA) supporting the newly introduced international law compliance risk."
+  },
+  {
+   "text": "We have internal policies and procedures relating to compliance with these and other international laws; however, there is a risk that such policies and procedures will not always protect us from the improper acts of employees, agents, business partners or representatives.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on limitations of internal compliance policies, continuing the same risk theme."
+  },
+  {
+   "text": "Violations of international laws, which are complex, may result in criminal penalties, sanctions and/or fines, and may also result in costly and time-consuming governmental investigations, any or all of which could have an adverse effect on our business, financial condition and results of operations and reputation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential penalties from violations, extending the same international law compliance risk."
+  },
+  {
+   "text": "Further, we are exposed to accounts receivable risk and, thus, any significant deterioration in our customer's credit quality could lead to increased credit losses, reduced cash flow, and could have an adverse material effect on our financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk related to accounts receivable and customer credit quality deterioration."
+  },
+  {
+   "text": "Accordingly, maintaining an investment grade rating is important, as it helps reduce our borrowing costs and facilitates financing programs important to our business operations, including our supply chain finance program.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues existing discussion of credit ratings by explaining their importance to financing, not a new risk."
+  },
+  {
+   "text": "Any deterioration or uncertainty in these credit ratings, or placement on \"review\" or \"watch\" status, could increase our borrowing costs under our unsecured revolving credit facility and limit access to favorable financing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details consequences of credit rating changes, expanding the existing credit rating risk."
+  },
+  {
+   "text": "Additionally, if these programs or underlying customer or supplier terms do not continue and we are unable to secure alternative programs, our cash and working capital may be negatively affected and we may have to utilize our various financing arrangements or increase our long-term borrowings for short- and long-term liquidity requirements.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes liquidity impacts if financing programs are unavailable, extending the same credit/financing risk."
+  },
+  {
+   "text": "Such outcomes could materially increase interest expense and adversely affect the terms and cost of any future debt.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential interest expense impacts tied to the same credit/financing risk."
+  },
+  {
+   "text": "In many cases, these requirements differ and may conflict from country to country, increasing our costs or requiring significant management time and attention.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about varying international regulatory requirements, extending the existing international operations risk."
+  }
+ ]
+}

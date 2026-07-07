@@ -1,0 +1,93 @@
+{
+ "ticker": "JKHY",
+ "sector": "Financials",
+ "filing_date": "2025-08-25",
+ "accession": "0000779152-25-000055",
+ "prior_accession": "0000779152-24-000079",
+ "model": "claude-sonnet-5",
+ "n_added": 15,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 7,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 1,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "Such incidents could adversely affect our ability to operate our business, damage our reputation and business, adversely affect our results of operations and financial condition, and expose us to liability.",
+   "category": "reworded_same_meaning",
+   "rationale": "Generic statement about consequences of security incidents, restates existing risk framing without new specifics."
+  },
+  {
+   "text": "The use of artificial intelligence increasingly enabling their sophistication and accelerating their evolution, including through automated phishing and the rapid development of new malware, which continue to evolve and can be difficult to detect.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new threat vector: AI-enabled phishing and malware sophistication, a concrete new risk detail."
+  },
+  {
+   "text": "These risks are further heightened by the fact that a significant portion of our associates and contractors work remotely outside of Company-controlled facilities using networks and devices that are not physically controlled by the Company, potentially limiting the effectiveness of our security controls.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new vulnerability regarding remote workforce using uncontrolled networks/devices weakening security controls."
+  },
+  {
+   "text": "Certain of our renewals have resulted in price compression between the former and renegotiated contracts.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a concrete new business impact: price compression in contract renewals."
+  },
+  {
+   "text": "If that trend accelerates or becomes more pronounced, it could negatively impact our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "References an existing trend and elaborates on potential acceleration impacting results, building on prior risk."
+  },
+  {
+   "text": "Our business currently utilizes AI and ML and we continue to evaluate and expand their use, including generative AI, to augment our products and services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual context statement about AI/ML usage without describing a specific risk."
+  },
+  {
+   "text": "From an operational standpoint, AI algorithms and training methodologies may create accuracy issues, unintended biases, factual errors, misrepresentations, offensive language, inappropriate statements, or other unexpected outcomes that could undermine product and service quality or lead to errors in our decision-making and solution development.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific operational risks from AI algorithms such as bias, errors, and unexpected outcomes."
+  },
+  {
+   "text": "Ineffective or inadequate AI development, testing, evaluation, deployment, content labeling, or governance may impair public acceptance or cause harm, resulting in offerings not working as intended, and we also face explainability risk from our potential inability to interpret or justify AI model decisions, which may lead to concerns about trust, regulatory compliance, and accountability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risks of inadequate AI governance and explainability issues affecting trust and compliance."
+  },
+  {
+   "text": "Additionally, the use of AI tools by associates\u2014whether authorized or not\u2014for internal functions or business operations may result in unintended or unreliable outputs, which could negatively impact the quality, accuracy, or consistency of work product and decision-making.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new risk of unauthorized or unreliable AI tool use by employees affecting work quality."
+  },
+  {
+   "text": "These laws often include industry-specific requirements and board consumer data protection obligations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about industry-specific legal requirements, no new specific risk."
+  },
+  {
+   "text": "While many of these frameworks share common principles each jurisdiction imposes unique compliance standards, definitions, and obligations that may not align with one another.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing multi-jurisdictional compliance complexity risk with more detail."
+  },
+  {
+   "text": "This lack of uniformity, combined with frequent legislative updates and regulatory amendments, creates ongoing challenges for organizations seeking to maintain consistent and compliant data governance practices across multiple jurisdictions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on existing regulatory fragmentation risk, adding detail on legislative changes."
+  },
+  {
+   "text": "Further, the FTC and state attorneys general may interpret federal and state consumer protection laws as imposing standards for the collection, use, dissemination, and security of data.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic legal boilerplate about regulatory interpretation authority, not a new specific risk."
+  },
+  {
+   "text": "These challenges are further compounded by the fact that a substantial portion of our workforce operate in hybrid or fully remote arrangements, which introduces additional complexities related to employee engagement, collaboration, training, and the preservation of corporate culture.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about remote/hybrid workforce affecting engagement, training, and culture."
+  },
+  {
+   "text": "Conversely, if interest rates substantially decrease, we would collect less interest income on settlement accounts.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds complementary detail to existing interest rate risk disclosure regarding decreased rates."
+  }
+ ]
+}

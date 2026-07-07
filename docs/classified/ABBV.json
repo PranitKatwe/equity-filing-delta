@@ -1,0 +1,138 @@
+{
+ "ticker": "ABBV",
+ "sector": "Health Care",
+ "filing_date": "2026-02-20",
+ "accession": "0001551152-26-000008",
+ "prior_accession": "0001551152-25-000020",
+ "model": "claude-sonnet-5",
+ "n_added": 24,
+ "n_substantive": 20,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 14,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "In addition to the pricing mechanisms established under the IRA, governments and other payers may pursue or implement additional approaches intended to reduce pharmaceutical costs, including arrangements or frameworks that reference international prices, most-favored-nation (MFN) concepts, or other comparative pricing methodologies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing pricing-pressure risk by adding new comparative pricing mechanisms like MFN, building on the IRA pricing risk already disclosed."
+  },
+  {
+   "text": "Such approaches may be implemented through legislation, regulation, administrative action, negotiated arrangements, or other means, and their scope, structure, and application may continue to evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about how policies may be implemented and evolve, without specific new risk content."
+  },
+  {
+   "text": "In January 2026, AbbVie entered into a voluntary agreement with the United States government to provide certain pricing concessions and U.S.-based research and development and capital investments in exchange for exemptions from tariffs and future pricing mandates during the three-year agreement period.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new voluntary agreement with the U.S. government involving pricing concessions and investment commitments, a concrete new fact not previously disclosed."
+  },
+  {
+   "text": "In addition, our pricing concessions and expansion of direct-to-patient offerings may subject AbbVie to new pricing or reimbursement policies that could affect our commercial performance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes a consequence of the newly disclosed agreement, extending the existing pricing/reimbursement risk discussion."
+  },
+  {
+   "text": "Where pricing arrangements incorporate MFN, reference pricing, or similar concepts, AbbVie\u2019s realized pricing, revenues, or commercial flexibility could be affected by factors outside of AbbVie\u2019s control, including changes in applicable policies, methodologies, guidance, or related pricing regimes, as well as interactions with other governmental or private-sector pricing and reimbursement programs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on MFN/reference pricing risk introduced in sentence 0, adding detail on potential impacts."
+  },
+  {
+   "text": "Such arrangements could also influence pricing expectations or negotiations in other markets or with other payers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about cross-market influence, adds no new specific risk."
+  },
+  {
+   "text": "For further discussion of PBM formulary practices and their impact on pricing and patient access, see \"Pharmacy benefit managers and other supply chain intermediaries exert significant influence over pricing and patient access to our products\" below.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another risk factor section, purely structural."
+  },
+  {
+   "text": "Pharmacy benefit managers and other supply chain intermediaries exert significant influence over pricing and patient access to our products, which could adversely affect our revenues and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor topic about PBMs and supply chain intermediaries influencing pricing and access, not previously identified as a standalone risk."
+  },
+  {
+   "text": "Consolidation and vertical integration among PBMs, managed care organizations and other supply chain intermediaries has increased their purchasing power and ability to influence formulary placement and reimbursement levels.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific new factual claim about PBM consolidation and increased purchasing power affecting formulary placement."
+  },
+  {
+   "text": "A limited number of these entities negotiate pricing, rebates and patient access terms on behalf of health plans and government programs that cover a significant portion of insured patients in the United States.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the newly introduced PBM risk by detailing negotiation power of a limited number of entities."
+  },
+  {
+   "text": "17 | 2025 Form 10-K These entities employ formulary management and utilization tools, including formulary exclusions, step therapy requirements, prior authorization protocols and tiered placement decisions, that could limit or delay patient access to our products, potentially increase patient cost-sharing and/or shift utilization to competing therapies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mechanisms (formulary exclusions, prior authorization) that expand on the PBM risk already introduced."
+  },
+  {
+   "text": "Unfavorable formulary decisions and increased utilization management restrictions could reduce prescription volumes and adversely affect our revenues.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates and expands the potential revenue impact of PBM formulary decisions already described."
+  },
+  {
+   "text": "Further changes in formulary placement or access restrictions implemented by these intermediaries could occur with limited advance notice and may be difficult to predict or mitigate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details unpredictability of PBM-driven access changes, expanding on the PBM risk theme."
+  },
+  {
+   "text": "PBM business practices, rebate structures and pricing arrangements are also subject to change as a result of enforcement actions, regulatory settlements, legislation or other government actions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds regulatory/legal context to the PBM risk already being expanded upon."
+  },
+  {
+   "text": "Government-mandated changes to PBM rebate methodologies, formulary design or pricing transparency practices could affect our contractual arrangements with PBMs, alter manufacturer-PBM economic relationships or shift costs to manufacturers.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding government-mandated changes to PBM rebate and pricing practices affecting manufacturer economics."
+  },
+  {
+   "text": "Additionally, these entities may negotiate higher or additional rebates, discounts, administrative fees or other price concessions that could adversely affect our revenues and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues detailing potential financial impact from PBM negotiations, extending existing risk discussion."
+  },
+  {
+   "text": "Trade restrictions, tariffs, and other changes in global trade policy could increase costs, disrupt supply chains, and adversely affect AbbVie\u2019s business and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new risk factor topic on trade restrictions and tariffs impacting supply chains and costs."
+  },
+  {
+   "text": "AbbVie operates in a global environment and relies on complex international supply chains for the development, manufacture, and distribution of its products, including the sourcing of active pharmaceutical ingredients and key materials.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides supporting detail on global supply chain reliance underlying the new trade/tariff risk."
+  },
+  {
+   "text": "Changes in global trade policy, including the potential imposition of import or export tariffs, trade restrictions, or other measures affecting pharmaceutical products or related inputs, could increase manufacturing and procurement costs, reduce margins or disrupt supply continuity.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on how trade policy changes could specifically affect costs and margins, expanding the new tariff risk."
+  },
+  {
+   "text": "If AbbVie is unable to substantially mitigate or offset increased costs or disruptions resulting from such measures through pricing adjustments, operational changes, or alternative sourcing arrangements, it may have an adverse effect on AbbVie\u2019s business and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential adverse outcome if mitigation fails, extending the tariff/trade risk already introduced."
+  },
+  {
+   "text": "The 340B Drug Pricing Program requires participating manufacturers to offer discounts to covered entities and growth in entities claiming entitlement to 340B pricing has increased the portion of our sales subject to such discounts.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk regarding growth in 340B-eligible entities increasing discount exposure."
+  },
+  {
+   "text": "Manufacturer policies designed to improve program integrity have been subject to enforcement actions and legal challenges under federal and state laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds legal/enforcement context to the newly introduced 340B risk."
+  },
+  {
+   "text": "Adverse outcomes in 340B-related litigation or significant changes to our 340B approach could adversely affect our revenues and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential financial impact from 340B litigation, expanding on the risk already introduced."
+  },
+  {
+   "text": "The healthcare and biopharmaceutical industries remain targets of cybersecurity threats due to the value and sensitivity of the data they hold.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic industry-wide statement about cybersecurity threats without specific new detail."
+  }
+ ]
+}

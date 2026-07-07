@@ -1,0 +1,168 @@
+{
+ "ticker": "NRG",
+ "sector": "Utilities",
+ "filing_date": "2026-02-24",
+ "accession": "0001013871-26-000004",
+ "prior_accession": "0001013871-25-000006",
+ "model": "claude-sonnet-5",
+ "n_added": 30,
+ "n_substantive": 24,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Risks Related to the Acquisition of the LSP Portfolio The integration of NRG and the LSP Portfolio may disrupt or have a negative impact on the Company\u2019s business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk topic regarding integration of the newly acquired LSP Portfolio, a specific, material business risk not previously disclosed."
+  },
+  {
+   "text": "The LSP Portfolio is comprised of 13 GW of natural gas-fired generation and dual fuel assets and a demand response platform.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Purely descriptive factual detail about the size/composition of the LSP Portfolio, not itself a risk statement."
+  },
+  {
+   "text": "The acquisition significantly increases NRG\u2019s owned generation capacity and operational footprint.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about increased capacity/footprint, contextual rather than a distinct risk."
+  },
+  {
+   "text": "The acquisition is large and complex, and the Company will need to devote significant time and resources to integrating the plants, equipment, personnel, operations, and fuel arrangements with NRG\u2019s existing generation, retail and commercial businesses.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the complexity and resource demands of the integration risk already introduced in the new section."
+  },
+  {
+   "text": "If the Company is not successful in addressing these risks effectively, the business could be impacted.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about impact if risks aren't managed, adds no new substance."
+  },
+  {
+   "text": "Many of these factors will be outside of the Company\u2019s control, and any one of them could result in delays, increased costs, decreases in the amount of expected revenues and diversion of management\u2019s time and energy, which could materially affect NRG\u2019s business, results of operations and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on potential negative consequences of the integration risk already introduced."
+  },
+  {
+   "text": "Similar risks may apply to any future acquisitions or dispositions the Company may undertake.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic extension applying the same risk to any future acquisitions, no new specifics."
+  },
+  {
+   "text": "Inflation and customer affordability concerns may limit the Company\u2019s ability to recover costs, constrain its pricing and reduce market demand for its products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk about inflation and customer affordability constraining pricing and demand, not previously present."
+  },
+  {
+   "text": "The Company\u2019s electricity, natural gas, and smart home businesses are exposed to the risk that sustained inflation, commodity price volatility and other macroeconomic pressures will increase its costs and adversely affect the affordability of its products and services.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on how inflation and macro pressures affect specific business segments, expanding the newly introduced inflation risk."
+  },
+  {
+   "text": "The cost of fuel, natural gas, purchased power, labor, construction materials, equipment and financing have risen in recent years and may continue to rise.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies particular cost categories rising, elaborating on the inflation risk."
+  },
+  {
+   "text": "Such cost increases may continue to put upward pressure on the overall affordability of the Company\u2019s products and services for its residential, commercial and industrial customers, which may impair the Company\u2019s customers\u2019 ability to pay their bills and/or subscriptions, cause some customers to reduce usage, and increase disconnections and bad debt expenses, all of which could negatively impact the Company.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific customer impacts (bad debt, disconnections) stemming from the inflation/affordability risk."
+  },
+  {
+   "text": "In the markets in which the Company operates, the Company\u2019s retail electric providers charge end-use customers a price for electricity that includes pass through charges assessed by the local utility.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive/contextual statement about pass-through charge mechanics, not a new risk itself."
+  },
+  {
+   "text": "Capital intensive transmission and distribution projects by utility companies recently approved by certain state utility commissions have resulted in increases to such pass-through charges and raised public concerns about overall consumer affordability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Gives specific detail about utility rate increases contributing to the affordability risk already introduced."
+  },
+  {
+   "text": "If these concerns persist, the Company could be subject to heightened political and regulatory scrutiny, increased participation by consumer advocates and other stakeholders in regulatory proceedings, and create reputational risks associated with a perceived lack of affordability.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on regulatory/reputational consequences tied to the affordability risk."
+  },
+  {
+   "text": "Therefore, the Company\u2019s financial performance could be negatively affected if it is unable to recover increased costs or if cost recovery is limited by regulation or market conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues elaborating financial impact of the affordability/cost recovery risk."
+  },
+  {
+   "text": "Furthermore, the risk of significant cost overruns may be exacerbated in the current environment of elevated inflation, supply chain disruption and changing tariff and trade policies, which may cause actual construction costs to be significantly higher than initial estimates, and the Company may be unable to pass these increased costs through to its customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific factors (tariffs, supply chain) exacerbating cost overrun risk already covered under inflation risk."
+  },
+  {
+   "text": "In addition, the Company\u2019s failure to meet project-specific financing requirements under its TEF Loans could result in default or acceleration of debt repayment.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new financing risk tied to TEF Loans default/acceleration, not previously disclosed."
+  },
+  {
+   "text": "28 The Company\u2019s consumer product and home services offerings expose it to installation-related damage claims, product liability, insurance limitations, and reputational risk.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk category around consumer product/home services liability and insurance limitations."
+  },
+  {
+   "text": "Furthermore, NRG\u2019s operations can be additionally impaired by disruptions or security failures of third-party vendors and suppliers over which NRG lacks direct control or oversight.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk to include third-party vendor/supplier vulnerabilities."
+  },
+  {
+   "text": "Although the Company takes precautions and has adopted procedures to protect its infrastructure, the effectiveness of such measures may be limited by insufficient employee awareness or their noncompliance with established protocols.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on limitations of cybersecurity precautions due to employee behavior, expanding existing risk."
+  },
+  {
+   "text": "As a result, the Company could incur substantial losses in connection with a cybersecurity incident.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential losses from a cybersecurity incident, standard cautionary language."
+  },
+  {
+   "text": "30 The Company\u2019s use of, or failure to effectively adopt, AI systems in its operations, services and products poses operational, competitive, cybersecurity, legal and compliance risks that could adversely affect the Company.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces an entirely new risk category regarding AI adoption and associated operational, legal, and competitive risks."
+  },
+  {
+   "text": "The Company\u2019s usage of third-party AI models, platforms, or cloud services introduces additional risks, including performance failures, service outages, and insufficient indemnities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific risks from third-party AI tools, expanding the newly introduced AI risk."
+  },
+  {
+   "text": "The Company may also face claims that training data or model outputs infringe intellectual property rights or misappropriate trade secrets, and AI use may increase the risk of inadvertent disclosure or improper processing of confidential, personal, or commercially sensitive information.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies IP and data privacy risks tied to AI use, expanding the AI risk topic."
+  },
+  {
+   "text": "Conversely, any failure by the Company to effectively and timely develop and implement AI technologies, or to attract and retain AI talent, could impair the Company\u2019s ability to compete, particularly if competitors incorporate AI more quickly or more successfully to lower costs, improve customer experience, and accelerate innovation.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discusses competitive disadvantage risk from failure to adopt AI, part of the broader AI risk expansion."
+  },
+  {
+   "text": "The regulatory landscape surrounding AI, including GenAI, is evolving, and the use of such technologies may become subject to regulation under new laws or new applications of existing laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes evolving regulatory landscape for AI, expanding on the AI risk topic."
+  },
+  {
+   "text": "Compliance with applicable AI laws and regulations may also require the Company to incur significant costs to modify and maintain its business practices.",
+   "category": "expanded_existing_risk",
+   "rationale": "Discusses compliance costs related to AI regulation, continuing the AI risk expansion."
+  },
+  {
+   "text": "Negative publicity may result in changes in consumer preferences, increased costs in countering the narrative, or undue scrutiny.",
+   "category": "expanded_existing_risk",
+   "rationale": "Addresses reputational/publicity risk likely tied to AI or affordability topics already being expanded."
+  },
+  {
+   "text": "For example, in July 2025, the One Big Beautiful Bill Act was signed into law.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new legal/regulatory development (the One Big Beautiful Bill Act) not previously mentioned."
+  },
+  {
+   "text": "To date, the law has not had a materially adverse effect on the Company\u2019s operations; however, revisions or new interpretations of the law may impact its future financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on potential future impact of the newly mentioned law, expanding that new risk."
+  }
+ ]
+}

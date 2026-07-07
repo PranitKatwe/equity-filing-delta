@@ -1,0 +1,163 @@
+{
+ "ticker": "ACGL",
+ "sector": "Financials",
+ "filing_date": "2026-02-26",
+ "accession": "0000947484-26-000017",
+ "prior_accession": "0000947484-25-000017",
+ "model": "claude-sonnet-5",
+ "n_added": 29,
+ "n_substantive": 22,
+ "counts": {
+  "new_substantive_risk": 12,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 7
+ },
+ "items": [
+  {
+   "text": "Examples include disclosure requirements relating to climate change and sustainability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic example of disclosure requirement categories, not a specific risk."
+  },
+  {
+   "text": "In addition, climate\u2011related regulatory changes or our own strategic responses to climate risks could increase our operating costs or reduce premiums in certain business lines.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific business impact: climate regulation could increase operating costs or reduce premiums in certain lines."
+  },
+  {
+   "text": "Proposed changes by the European Commission may further affect our obligations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Vague continuation of climate/regulatory risk theme without new specific mechanism."
+  },
+  {
+   "text": "Certain U.S. policies and actions have created geopolitical risks which are not possible to manage or predict, some of which may result in uncertainty in the global markets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new category of risk (unpredictable U.S. policy-driven geopolitical risk) not previously disclosed."
+  },
+  {
+   "text": "Recent U.S. policies and actions, such as actions relating to Venezuela and Greenland, may jeopardize certain global alliances and create geopolitical uncertainty.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides concrete new examples (Venezuela, Greenland) of geopolitical risk affecting alliances, adding specific new risk detail."
+  },
+  {
+   "text": "While the long-term impact of these policies is currently unknown, these policies and other geopolitical tensions have resulted in, or could result in, volatile global capital markets, sanctions, trade restrictions and harm countries\u2019 relationships.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the geopolitical risk already introduced with additional consequences like sanctions and trade restrictions."
+  },
+  {
+   "text": "While we believe AI presents significant opportunities to support our strategic goals, we may not be successful in implementing AI technologies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk area: potential failure to successfully implement AI technologies."
+  },
+  {
+   "text": "It is possible that any AI we use does not perform as anticipated, suffers from \u201challucinations\u201d or that its outputs may not be as expected or may result in unlawful discrimination, which may put us at a competitive disadvantage, result in reputational damage and regulatory fines and actions.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risks from AI errors/hallucinations leading to competitive disadvantage and regulatory fines."
+  },
+  {
+   "text": "Additionally, the regulatory landscape surrounding traditional AI and generative AI is evolving, and the expanded use of these technologies may become subject to regulatory scrutiny under new or existing laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on evolving AI regulatory risk already introduced."
+  },
+  {
+   "text": "Moreover, the intellectual property and ownership rights associated with both forms of artificial intelligence have not been fully addressed by courts in the U.S. or in other jurisdictions that we operate in.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new legal uncertainty regarding AI intellectual property rights."
+  },
+  {
+   "text": "We established the Artificial Intelligence Governance and Oversight Committee (\u201cAIGOC\u201d) to evaluate and approve new AI use cases and issue and oversee our Company\u2019s Artificial Intelligence Policy.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes governance structure (AIGOC) rather than a risk itself."
+  },
+  {
+   "text": "While we believe the AIGOC and our larger AI governance framework is responsive to new risks and regulations, failure to comply with the applicable AI-related regulations could result in fines, penalties, litigation, or restrictions on our business operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on AI compliance risk with potential penalties, extending prior AI risk discussion."
+  },
+  {
+   "text": "These outcomes may have a materially adverse effect on our business or financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary statement about material adverse effect."
+  },
+  {
+   "text": "Our operational risks include the ongoing obligation to comply with applicable laws, regulations, regulatory expectations, and legal standards across all jurisdictions where Arch conducts business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about ongoing regulatory compliance obligations."
+  },
+  {
+   "text": "Changes in underwriting standards, loan terms or credit evaluation methodologies (including those driven by the GSEs, regulators or market competition) could result in a higher \u2011 risk mortgage insurance portfolio and increase the frequency and severity of claims, which could have a material adverse effect on our business, results of operation and financial condition.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new risk regarding underwriting standard changes increasing claims frequency/severity."
+  },
+  {
+   "text": "Intense competition within the private mortgage insurance industry and the potential for new entrants could result in lower premiums and/or negatively impact our level of NIW .",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific competitive risk from new entrants lowering premiums and NIW."
+  },
+  {
+   "text": "Changes to credit scoring models, data inputs or evaluation frameworks could result in borrowers being assessed as lower risk than their actual performance ultimately reflect, increasing uncertainty in default and claim performance due to model changes.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of credit scoring model changes misclassifying borrower risk."
+  },
+  {
+   "text": "In September 2025, Federal Reserve Vice Chair for Supervision, Michelle Bowman, stated that the U.S. bank regulators are working toward unveiling a revised Basel III Endgame by early 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides regulatory timeline detail on existing Basel III Endgame risk."
+  },
+  {
+   "text": "She indicated that the revised proposal would be more \u201cindustry friendly\u201d than prior versions, though the timing, requirements, and implementation of the reproposed rule remain uncertain.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on regulatory uncertainty already noted regarding Basel III Endgame."
+  },
+  {
+   "text": "While some countries outside of the EU have begun implementing the Basel III Endgame, both the U.K. and the EU have announced that the start of implementation will be delayed until January 1, 2027.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds timeline detail to existing Basel III implementation risk."
+  },
+  {
+   "text": "In addition, the U.K. is considering applying different rules for smaller banks, and the EU is consulting on proposals to amend the EU Securitization Regulation (\u201cSECR\u201d) and Capital Requirements Regulation (\u201cCRR\u201d), which implement the Basel III Endgame.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further regulatory detail on existing Basel III related risk without new substantive threat."
+  },
+  {
+   "text": "The proposed SECR and CRR amendments improve the capital relief EU banks receive from insurance-based SRT transactions in which the Company participates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes proposed regulatory change affecting existing capital relief risk, an elaboration rather than new risk."
+  },
+  {
+   "text": "The timing, requirements, and implementation of the final rules remain uncertain and subject to continued debate, which could negatively impact the capital relief afforded by the protection we provide and the volume of insurance-based SRT transactions in the EU.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of uncertain final rules negatively impacting capital relief and SRT transaction volume."
+  },
+  {
+   "text": "The OECD has released additional administrative guidance on the global minimum tax in February, July and December of 2023, June of 2024, January of 2025 and January of 2026 (the Side-by-Side package).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual recitation of OECD guidance release dates, no new risk substance."
+  },
+  {
+   "text": "The 2025 guidance introduced a new interpretation (with retroactive effect) for determining the treatment of Deferred Tax Items, which may affect the effective tax rate calculations of an in-scope entity following a grace period including a potential write-off of a portion of the net deferred tax asset related to the economic transition adjustment established upon the enactment of the Bermuda CIT Act in 2023.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tax risk: retroactive interpretation causing potential deferred tax asset write-off."
+  },
+  {
+   "text": "Thus, with effect from January 1, 2025, Arch Capital is subject to tax on income or profits under the Bermuda CIT Act.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new tax liability under Bermuda CIT Act effective 2025."
+  },
+  {
+   "text": "In addition, the Tax Credits Act 2025 (the \u201cCredits Act\u201d) was enacted in Bermuda on December 11, 2025, and is effective for tax years beginning on or after January 1, 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual statement about enactment of new tax law, no risk analysis."
+  },
+  {
+   "text": "The tax credits under the Credits Act are intended to qualify as qualified refundable tax credits for purposes of the Pillar II rules.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Factual description of tax credit qualification under Pillar II rules."
+  },
+  {
+   "text": "Arch Capital currently expects to receive a material tax benefit as a result of such tax credits, but the extent of such tax benefit may be impacted by any further revisions to the implementation of Pillar II.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds uncertainty about the magnitude of an already anticipated tax benefit due to regulatory changes."
+  }
+ ]
+}

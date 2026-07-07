@@ -1,0 +1,128 @@
+{
+ "ticker": "TEL",
+ "sector": "Information Technology",
+ "filing_date": "2025-11-10",
+ "accession": "0001104659-25-109150",
+ "prior_accession": "0001558370-24-015227",
+ "model": "claude-sonnet-5",
+ "n_added": 22,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 16
+ },
+ "items": [
+  {
+   "text": "The merger was completed on September 30, 2024, thereby changing our jurisdiction of incorporation from Switzerland to Ireland.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual corporate event (merger completion, change of jurisdiction) without describing an associated risk."
+  },
+  {
+   "text": "We acquired Richard Manufacturing Co.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Simple factual statement about an acquisition, no risk described."
+  },
+  {
+   "text": "(\u201cRichards Manufacturing\u201d) in fiscal 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Continuation of the acquisition naming, purely factual."
+  },
+  {
+   "text": "Prior period segment results have been recast to conform to the new segment structure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Administrative note about segment recasting, not a risk statement."
+  },
+  {
+   "text": "See additional information regarding our segments in Notes 1 and 20 to the Consolidated Financial Statements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to financial statement notes, not substantive risk content."
+  },
+  {
+   "text": "Our rail products are used in high-speed trains, metros, light rail vehicles, locomotives, and signaling switching equipment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive product application list, not a risk."
+  },
+  {
+   "text": "2 Table of Contents \u25cf Medical (9% of segment\u2019s net sales)\u2014 Our products are used in imaging, diagnostic, surgical, and minimally invasive interventional applications.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment description of product applications, purely descriptive."
+  },
+  {
+   "text": "Our ERGs welcome any employee interested in supporting their mission and participation is optional.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes ERG participation policy, HR-related boilerplate."
+  },
+  {
+   "text": "Employee Engagement Our annual employee engagement survey explores how employees feel about their experience at our company and enables us to develop tailored actions to enhance the working environment.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes an employee engagement survey process, not a risk."
+  },
+  {
+   "text": "Focused on measuring engagement, inclusion, well-being, and leadership effectiveness, this fully digital, enterprise-wide survey is available to all employees in 22 languages.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Details about survey scope and languages, descriptive HR content."
+  },
+  {
+   "text": "We are focused on recruiting top candidates, developing employees at all levels, and providing opportunities for career advancement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about talent recruitment and development, no specific risk."
+  },
+  {
+   "text": "Risk Factors.\u201d Health, Safety, and Well-being We are committed to the health, safety, well-being, and human rights of our employees, ensuring that all of our people can thrive both at work and beyond.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General commitment statement to health and safety, no specific risk described."
+  },
+  {
+   "text": "Our approach goes beyond compliance.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Vague statement about exceeding compliance, no substantive risk."
+  },
+  {
+   "text": "We strive to create an environment where everyone feels safe, respected, and supported, while providing the tools and resources needed to balance work and personal lives and take ownership of their well-being.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Aspirational statement about workplace culture, not a risk."
+  },
+  {
+   "text": "Our environmental, health, and safety teams continuously seek ways to raise the standards of safety, health, well-being, and human rights across our organization.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about EHS teams' goals, no specific risk."
+  },
+  {
+   "text": "We continue to closely monitor the evolving global minimum tax framework and assess the implications in the jurisdictions in which we operate. \u00b7 EU, U.S., and other countries\u2019 initiatives to promote tax transparency and to prevent aggressive tax planning.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on monitoring global tax transparency initiatives, expanding existing tax-related risk disclosure."
+  },
+  {
+   "text": "Under recently enacted legislation, the current attribution rules cease to apply for tax years of foreign corporations beginning after December 31, 2025, and, as a result, based on our current ownership structure, our non-U.S. subsidiaries will not be treated as CFCs as of our tax year beginning September 26, 2026.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new information about changes to CFC attribution rules and their effect on the company's tax structure, a concrete new tax risk detail."
+  },
+  {
+   "text": "During fiscal 2025, approximately 13% of our net sales were to customers in the digital data networks end market, approximately 12% of our net sales were to customers in the automation and connected living end market, and approximately 9% of our net sales were to customers in the aerospace, defense, and marine end market.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides new specific percentage breakdowns of sales by end market, expanding the existing market concentration/demand risk disclosure."
+  },
+  {
+   "text": "Demand in the digital data networks market can fluctuate significantly, depending on the underlying demand in the networking, data center, and wireless infrastructure industries.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on volatility in a specific end market (digital data networks) linked to existing demand risk."
+  },
+  {
+   "text": "The overall market trends of increased data connectivity and continued movement to artificial intelligence (\u201cAI\u201d) and cloud applications have had a favorable impact on demand.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a favorable market trend, not a risk."
+  },
+  {
+   "text": "The aerospace and defense industry has undergone significant fluctuations in demand as a result of economic and political conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing risk about aerospace/defense demand fluctuations due to economic and political conditions."
+  },
+  {
+   "text": "Meeting evolving industry requirements, including the increasing use of AI and machine learning technologies (including the need to run complex AI-based applications on devices), and introducing new products to the market in a timely manner and at prices that are acceptable to our customers are important factors in determining our competitiveness and success.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific competitive risk factor tied to AI/machine learning adoption and its impact on product development and pricing."
+  }
+ ]
+}

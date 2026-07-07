@@ -1,0 +1,28 @@
+{
+ "ticker": "CPRT",
+ "sector": "Industrials",
+ "filing_date": "2025-09-26",
+ "accession": "0001628280-25-042946",
+ "prior_accession": "0000900075-24-000024",
+ "model": "claude-sonnet-5",
+ "n_added": 2,
+ "n_substantive": 1,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Historically, the acquisition and development of new facilities has both enabled and resulted from market share gains in our core salvage vehicle remarketing business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This sentence provides historical context about facility acquisition and market share gains without introducing or expanding any specific risk to the business; it's descriptive background framing rather than a risk statement."
+  },
+  {
+   "text": "If such attacks are not detected immediately, their effect could be compounded.",
+   "category": "expanded_existing_risk",
+   "rationale": "This sentence adds a specific detail to an existing cybersecurity/attack risk by noting that delayed detection could compound the effects, which is an elaboration on the severity/consequences of an already-recognized risk rather than a brand-new risk category."
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "ticker": "EA",
+ "sector": "Communication Services",
+ "filing_date": "2026-05-11",
+ "accession": "0001628280-26-033617",
+ "prior_accession": "0000712515-25-000022",
+ "model": "claude-sonnet-5",
+ "n_added": 16,
+ "n_substantive": 16,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 11,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 0
+ },
+ "items": [
+  {
+   "text": "MERGER RISKS If our proposed Merger does not close, or is delayed, we may experience financial and operational disruptions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk about the proposed Merger not closing or being delayed, causing financial/operational disruption."
+  },
+  {
+   "text": "In addition, our stock price may decline if the Merger is perceived as uncertain to close.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on stock price impact tied to the newly disclosed Merger uncertainty."
+  },
+  {
+   "text": "On September 28, 2025, we entered into a Merger Agreement to be acquired by an investor Consortium comprised of the Public Investment Fund, private investment funds affiliated with Silver Lake Group, L.L.C., and private investment funds affiliated with Affinity Partners.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new material event: entry into a Merger Agreement with a named investor Consortium."
+  },
+  {
+   "text": "The closing of the Merger is subject to the satisfaction or waiver of certain conditions, many of which are not within our full control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details closing conditions of the newly disclosed Merger, expanding on the risk introduced in [0]/[2]."
+  },
+  {
+   "text": "There are a limited number of regulatory reviews outstanding, and the parties are working diligently to complete these remaining reviews.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides status update on regulatory review process related to the Merger risk."
+  },
+  {
+   "text": "However, we may be unable to obtain and satisfy, or experience delays in obtaining and satisfying, required regulatory approvals and other closing conditions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on regulatory approval risk within the Merger context."
+  },
+  {
+   "text": "In addition, both we and the Consortium may terminate the Merger Agreement for reasons specified therein.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details termination rights under the Merger Agreement, expanding on Merger-related risk."
+  },
+  {
+   "text": "These restrictions may prevent us from pursuing otherwise attractive business opportunities and taking other actions with respect to our business that we may consider advantageous. \u2022 We have incurred, and will continue to incur, significant costs, expenses, and fees for professional services and other transaction costs in connection with the Merger.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risks: operational restrictions preventing pursuit of business opportunities and incurring significant transaction costs."
+  },
+  {
+   "text": "Many of the fees and costs will be payable by us even if the Merger is not completed.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further specifies that fees are payable even if Merger fails, expanding cost risk already introduced."
+  },
+  {
+   "text": "In addition, we may be required to pay a termination fee of up to $1.0 billion to the Consortium and reimburse certain out-of-pocket expenses if the Merger Agreement is terminated for certain specified reasons. \u2022 The Merger may not occur on the expected timeline because of a delay in receiving required regulatory approvals or other reasons.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses a specific new financial risk: potential termination fee up to $1.0 billion and expense reimbursement."
+  },
+  {
+   "text": "Any delay or inability to close the Merger may cause the market price of our common stock to decline.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates stock price decline risk tied to Merger delay, expanding on prior point."
+  },
+  {
+   "text": "Lawsuits have been or may be filed against us and the members of our Board of Directors arising out of the proposed Merger, which may delay or prevent the proposed Merger or otherwise negatively affect our business and operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific litigation risk related to lawsuits against the company and board over the Merger."
+  },
+  {
+   "text": "Putative stockholder complaints, including stockholder class action complaints, and other complaints have been or in the future may be filed against us, our Board of Directors and others in connection with the transactions contemplated by the Merger Agreement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides detail on the nature of litigation (stockholder class actions) introduced in [11]."
+  },
+  {
+   "text": "Certain complaints asserted in connection with the transaction contemplated by the Merger Agreement have been mooted, however, the outcome of any additional litigation is uncertain, and we may not be successful in defending against any such future claims.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates status of litigation, noting some claims mooted but risk of future claims remains."
+  },
+  {
+   "text": "Lawsuits that have been or may be filed against us, our Board of Directors or others could delay or prevent the Merger from being completed, divert the attention of our management and employees away from our day-to-day business, and otherwise adversely affect our business, results of operations, and financial condition.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details potential adverse effects of litigation on the Merger and business operations."
+  },
+  {
+   "text": "If the Merger is not consummated for any reason, litigation could be filed in connection with the failure to consummate the Merger.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends litigation risk to scenario where Merger fails to close."
+  }
+ ]
+}

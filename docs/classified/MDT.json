@@ -1,0 +1,218 @@
+{
+ "ticker": "MDT",
+ "sector": "Health Care",
+ "filing_date": "2026-06-18",
+ "accession": "0001628280-26-044354",
+ "prior_accession": "0001613103-25-000091",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 23,
+ "counts": {
+  "new_substantive_risk": 14,
+  "expanded_existing_risk": 9,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 17
+ },
+ "items": [
+  {
+   "text": "In addition to our primary website, we maintain a newsroom at https://news.medtronic.com and an investor relations website at https://investorrelations.medtronic.com .",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Disclosure of additional website/investor relations URLs is administrative, not a risk."
+  },
+  {
+   "text": "We also use certain social media channels, including Facebook ( https://www.facebook.com/Medtronic ), X ( https://x.com/Medtronic ), and LinkedIn ( https://www.linkedin.com/company/medtronic/ ).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Listing social media channels is administrative disclosure, not a risk statement."
+  },
+  {
+   "text": "These websites and social media channels contain a significant amount of information about the Company, including financial and other information for investors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that websites contain company information."
+  },
+  {
+   "text": "We encourage investors to review the information we make available on these websites and social media channels, as information is frequently updated.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Encouragement to review investor information is standard disclosure language."
+  },
+  {
+   "text": "13 Table of Conten ts In addition to competition from individual products or companies, rapid technological change may drive shifts in standards of care, physician preferences, purchasing decisions, or site of service dynamics more quickly than anticipated, including the growth of ASCs.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of rapid technological change and growth of ASCs disrupting standards of care and purchasing decisions."
+  },
+  {
+   "text": "New or alternative technologies, therapies, or treatment modalities may disrupt existing procedures or reduce demand for device\u2011based therapies, including in markets where we currently have leading positions.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies new/alternative technologies disrupting existing procedures, a specific competitive threat not previously described."
+  },
+  {
+   "text": "Our ability to compete effectively will depend on our ability to anticipate, respond to, and successfully navigate these market transitions while continuing to support and grow our existing product lines.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about ability to compete effectively, restates existing competitive risk framing."
+  },
+  {
+   "text": "Government\u2011driven pricing and procurement mechanisms, including national and provincial tender pricing programs such as volume\u2011based procurement initiatives in China, may require significant price concessions and constrain our ability to compete on factors other than price.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk of government-driven pricing programs like China's volume-based procurement affecting competitiveness."
+  },
+  {
+   "text": "In addition, in some markets, pricing control mechanisms may also include retrospective payment adjustments or clawback arrangements, which could require us to refund previously received amounts or reduce future payments.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk of retrospective payment adjustments and clawback arrangements requiring refunds."
+  },
+  {
+   "text": "These factors could adversely affect revenue, margins, and competitive positioning in impacted markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement summarizing prior points without new detail."
+  },
+  {
+   "text": "Our ability to compete effectively also depends on our ability to successfully execute the development, regulatory approval process, manufacturing scale\u2011up, and market adoption of multiple differentiated products and technology platforms concurrently across different therapeutic, diagnostic, and geographic markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing competition risk by detailing execution across multiple product platforms and markets."
+  },
+  {
+   "text": "The scope, complexity, and timing of executing these initiatives increase the risk of delays, cost overruns, supply chain readiness challenges, resource constraints, or inconsistencies in execution.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on execution risks (delays, cost overruns, supply chain) tied to previously mentioned competitive challenges."
+  },
+  {
+   "text": "If we are unable to execute effectively across these initiatives, or if one or more major product launches underperforms expectations, our growth, competitive position, and financial results could be materially adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic consequence statement about failure to execute, restates known risk impact."
+  },
+  {
+   "text": "If we are unable to effectively integrate, scale, or apply AI and digital technologies across our products and operations at a pace comparable to competitors or new market entrants, we could experience reduced competitiveness, slower growth, or loss of market share.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk regarding failure to integrate AI and digital technologies affecting competitiveness."
+  },
+  {
+   "text": "In addition, the cumulative effect of simultaneously executing multiple transactions may increase operational complexity, strain management and organizational resources, and heighten execution and timing risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on complexity risk from executing multiple transactions simultaneously, building on existing M&A risk discussion."
+  },
+  {
+   "text": "Our ability to realize the anticipated benefits of acquisitions depends not only on the successful integration of acquired businesses, but also on our ability to identify appropriate acquisition targets, evaluate their strategic fit and long\u2011term value, accurately assess risks and liabilities, and negotiate and complete transactions on acceptable terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details additional factors (target identification, valuation, negotiation) expanding existing acquisition integration risk."
+  },
+  {
+   "text": "These effects, combined with transaction costs, separation\u2011related expenses, and potential delays in realizing anticipated synergies or strategic benefits, may place pressure on earnings or cash flows and limit our ability to allocate capital as planned.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific financial pressures (transaction costs, delayed synergies) to existing M&A risk."
+  },
+  {
+   "text": "Alleged or actual violations of such laws in any jurisdiction could result in investigations, litigation, fines, damages, injunctions, or required changes to our business practices.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consequences of legal violations, standard boilerplate language."
+  },
+  {
+   "text": "FDA\u2019s Form 483, warning letters, or other forms of enforcement, such as a consent decree, issued to us or to third parties on which we rely for the development, manufacture, sterilization, or supply of our products or materials.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific regulatory enforcement mechanisms (Form 483, warning letters, consent decree) as new risk detail."
+  },
+  {
+   "text": "Regulatory enforcement actions directed at such third parties may limit or disrupt our ability to manufacture, distribute, or sell affected products, even if Medtronic is not the direct subject of the enforcement action.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk that third-party regulatory enforcement can disrupt supply even without direct company involvement."
+  },
+  {
+   "text": "Coverage decisions, utilization management programs (e.g., prior authorization), and variability in payment policies may affect physician adoption, hospital purchasing decisions, procedure volumes, and patient access, even where reimbursement is available.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific reimbursement-related risks like prior authorization affecting adoption and access."
+  },
+  {
+   "text": "Additionally, differences in coverage, payment rates, or site of service incentives across payors or geographies may result in uneven or delayed adoption of our devices, products, and therapies.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on reimbursement risk by detailing geographic/payor variability effects on adoption."
+  },
+  {
+   "text": "We are, and may in the future be, involved in litigation, claims, disputes, and regulatory or administrative proceedings arising out of the ordinary course of our business, including product liability claims, commercial and contractual disputes, intellectual property disputes, tax litigation, securities and shareholder litigation, employment\u2011related matters, environmental matters, competition matters, and other legal matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic list of litigation types typical of standard legal risk boilerplate."
+  },
+  {
+   "text": "We are also subject to potential governmental investigations and enforcement actions, including civil, criminal, or administrative proceedings, in the U.S. and other jurisdictions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential government investigations, standard legal risk language."
+  },
+  {
+   "text": "Such matters are inherently uncertain and may be protracted, costly, complex, and disruptive to our operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic characterization of litigation uncertainty and cost, standard boilerplate."
+  },
+  {
+   "text": "Moreover, the environment in which litigation arises continues to evolve, including through the increased availability of third\u2011party litigation funding and other mechanisms that may facilitate or incentivize the initiation or continuation of claims.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new factor of third-party litigation funding influencing claims frequency."
+  },
+  {
+   "text": "These developments may contribute to an increase in 19 Table of Conten ts the frequency, scope, or duration of litigation, including claims that may lack merit, and could result in higher defense costs and greater uncertainty, regardless of the ultimate outcome.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on litigation funding risk by describing increased frequency and costs of claims."
+  },
+  {
+   "text": "The outcome of any particular matter is difficult to predict, and adverse outcomes remain possible even where we believe we have meritorious defenses.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about unpredictability of litigation outcomes."
+  },
+  {
+   "text": "The defense and resolution of legal matters may also divert management time and resources, increase costs, harm our reputation, or impair relationships with customers, suppliers, healthcare professionals, or regulators.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of litigation's operational and reputational effects."
+  },
+  {
+   "text": "In addition, claims may be asserted against us in the future based on new theories of liability or changes in applicable laws or regulations, including as a result of evolving interpretations by courts or regulators.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic forward-looking statement about future claims based on new legal theories."
+  },
+  {
+   "text": "Legal Proceedings\u201d for additional information regarding certain pending legal matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to Legal Proceedings section, purely administrative."
+  },
+  {
+   "text": "Although we expect to be able to rely on applicable tax treaties with the U.S., Ireland, and other jurisdictions in which we have operations, legislative or other action could be taken to override or amend one or more such treaties in a manner that would limit or eliminate our ability to rely on them.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of legislative action overriding tax treaties affecting tax reliance."
+  },
+  {
+   "text": "This could subject us to increased taxation, potentially significant expense, and/or other adverse tax consequences.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details consequence of tax treaty risk, expanding on the newly introduced treaty risk."
+  },
+  {
+   "text": "If our estimate of tax liabilities proves to be less than the amount for which we are ultimately liable, we would incur additional charges, and such charges could have a material adverse effect on our business, results of operations, financial condition, and cash flows.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about tax liability estimation risk, standard boilerplate."
+  },
+  {
+   "text": "In September 2025, the Appellate Court remanded the case back to the Tax Court for additional proceedings.",
+   "category": "new_substantive_risk",
+   "rationale": "Provides specific factual update on ongoing tax litigation (Appellate Court remand), a concrete new development."
+  },
+  {
+   "text": "The techniques used to obtain unauthorized access to, or disrupt, information technology systems continue to evolve and may be further amplified by the use of AI and other emerging technologies by malicious actors.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of AI amplifying cybersecurity attack techniques."
+  },
+  {
+   "text": "Cybersecurity incidents affecting third-party service providers, or systems on which we rely, may adversely impact our operations even if our own systems are not directly compromised.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk from third-party service provider cybersecurity incidents impacting operations."
+  },
+  {
+   "text": "Advances in cybersecurity technologies, including AI-enabled tools, may increase the volume, scope, speed, and depth with which potential vulnerabilities are identified, and may also result in vulnerabilities or issues that are difficult to detect promptly.",
+   "category": "new_substantive_risk",
+   "rationale": "Details specific new risk of AI-enabled tools complicating vulnerability detection and management."
+  },
+  {
+   "text": "These advances may require significant additional investment to assess, remediate, and manage identified risks, even in the absence of a cybersecurity incident.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on cybersecurity risk by noting need for significant investment even absent an incident."
+  },
+  {
+   "text": "The failure to comply with anti-corruption laws could materially adversely affect our business and result in civil and/or criminal sanctions.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about anti-corruption law compliance consequences, standard boilerplate."
+  }
+ ]
+}

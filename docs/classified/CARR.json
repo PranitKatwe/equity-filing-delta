@@ -1,0 +1,23 @@
+{
+ "ticker": "CARR",
+ "sector": "Industrials",
+ "filing_date": "2026-02-05",
+ "accession": "0001783180-26-000008",
+ "prior_accession": "0001783180-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 1,
+ "n_substantive": 0,
+ "counts": {
+  "new_substantive_risk": 0,
+  "expanded_existing_risk": 0,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Significant changes in these factors have in the past and may in the future have materially adverse impacts on our results of operations or financial condition.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "This is generic cautionary language referencing unspecified 'these factors' and their potential adverse impact, without identifying any new or specific risk to the business. It reads as standard boilerplate risk framing rather than a substantive or expanded risk disclosure."
+  }
+ ]
+}

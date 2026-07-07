@@ -1,0 +1,218 @@
+{
+ "ticker": "BG",
+ "sector": "Consumer Staples",
+ "filing_date": "2026-02-19",
+ "accession": "0001628280-26-009842",
+ "prior_accession": "0001996862-25-000008",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 4,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 36
+ },
+ "items": [
+  {
+   "text": "Business Overview We are a premier agribusiness solutions company, connecting farmers to consumers and delivering essential food, feed and fuel to the world.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic business overview description, not risk-specific."
+  },
+  {
+   "text": "Our dedicated employees, integrated operations and global footprint give us access to key markets and a diverse agricultural network covering major crops.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive statement about operations and footprint, no risk introduced."
+  },
+  {
+   "text": "These capabilities help us manage seasonal cycles, weather variability and other risks as we partner with farmers to move crops from where they are grown to where they are needed.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General framing about managing seasonal/weather risk as part of business capability, not a new specific risk disclosure."
+  },
+  {
+   "text": "We also provide financial, risk management and logistics services to support our customers and enhance our value chains.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes services offered, purely descriptive."
+  },
+  {
+   "text": "The commodities we source and markets we serve are essential to everyday life\u2014 from the grains and oilseeds that are part of the food supply chain, to the cotton used in clothing, to the energy products that power industries and transportation.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes commodities and their uses, descriptive business content."
+  },
+  {
+   "text": "The following summarizes the key characteristics of each of our operating segments.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Transitional sentence introducing segment summaries."
+  },
+  {
+   "text": "Our transformative acquisition (the \"Acquisition\") of Viterra, which is discussed below, impacts the Soybean Processing and Refining, Softseed Processing and Refining, and Grain Merchandising and Milling segments.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a major transformative acquisition (Viterra) impacting multiple segments, signaling new integration and scale-related business risk not previously disclosed."
+  },
+  {
+   "text": "Soybean Processing and Refining Segment Our Soybean Processing and Refining segment is a globally integrated business principally involved in the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of soybeans and soybean related products, as well as biodiesel and fertilizer production and distribution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard segment description."
+  },
+  {
+   "text": "Key Commodities Soybean, Soybean Meal, Soybean Oil Key Regions and Processing Capacity 47% in South America, 25% in North America, 15% in Asia-Pacific, and 13% in Europe Customers Animal feed manufacturers, Livestock producers, Biofuel companies, Other oilseed processors, and a variety of customers that purchase our refined oil products Raw Materials Globally sourced directly from farmers or indirectly through intermediaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive listing of commodities, regions, customers, raw materials."
+  },
+  {
+   "text": "(\u201cLouis Dreyfus\u201d), Wilmar International Limited (\"Wilmar\"), and COFCO International, as well as a variety of regional players in each region Financial Services and Activities To secure our annual supply of raw materials, particularly in Brazil, we provide financing services to farmers from whom we purchase soybeans and other agricultural commodities.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details financing provided to farmers to secure supply, expanding on existing counterparty/credit exposure risk in Brazil."
+  },
+  {
+   "text": "Recent Acquisitions/ Dispositions On March 4, 2025, we completed the divestment of 40% of our Spanish operating subsidiary, Bunge Iberica SA (\"BISA\"), which operates three industrial facilities in Spain, to Repsol SA.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a completed divestment transaction, factual business update."
+  },
+  {
+   "text": "We maintain a controlling financial interest in BISA and continue to consolidate the entity.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Clarifies continued consolidation of BISA, factual/administrative."
+  },
+  {
+   "text": "Softseed Processing and Refining Segment Our Softseed Processing and Refining segment is a globally integrated business principally involved in the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of softseeds (canola/rapeseed and sunflower seed) and softseed related products, as well as biodiesel production and distribution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment description, descriptive."
+  },
+  {
+   "text": "Key Commodities Canola/Rapeseed, Sunflower Seed, Canola/Rapeseed Meal, Sunflower Meal, Canola/Rapeseed Oil, Sunflower Oil Key Regions and Processing Capacity 53% in Europe, 30% in North America, 13% in South America, and 4% in Asia-Pacific Customers Animal feed manufacturers, Livestock producers, Biofuel companies, Other oilseed processors, and a variety of customers that purchase our refined oil products Raw Materials Globally sourced directly from farmers or indirectly through intermediaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive listing of commodities/regions/customers."
+  },
+  {
+   "text": "Competition Due to the commodity nature, markets for our softseeds, softseed meal, and crude softseed oil are highly competitive and subject to product substitution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive risk language typical of commodity businesses."
+  },
+  {
+   "text": "Competition is principally based on price, quality, product and service offerings, and geographic location.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competition factors, boilerplate."
+  },
+  {
+   "text": "Key Competitors ADM, Cargill, Louis Dreyfus, and Wilmar, as well as a variety of regional players in each region Recent Acquisitions/ Dispositions In 2025, Bunge acquired an oilseed crush operation in western Ukraine from Varthomio (\"ViOil\").",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a specific acquisition, factual business update."
+  },
+  {
+   "text": "Other Oilseeds Processing and Refining Segment Our Other Oilseeds Processing and Refining segment is a globally integrated business principally involved in products of a specialty nature, including the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of these related products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment description, descriptive."
+  },
+  {
+   "text": "Key Commodities Palm Oil, Palm Kernel Oil, Shea Butter, Coconut Oil, various other Seed Oils, Soy Protein Concentrates, and Textured Soy Flour Key Regions We have processing, refining, and packaging facilities in North America, Europe, Asia-Pacific, and Africa.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Listing of commodities and regions, descriptive."
+  },
+  {
+   "text": "We also have tolling operations in South America.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive detail about tolling operations location."
+  },
+  {
+   "text": "Our soy protein concentrate business is primarily located in North America.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive detail about business location."
+  },
+  {
+   "text": "Competition Competition is based on a number of factors, including price, raw material procurement, distribution capability, cost structure, brand recognition, product quality, product innovation, technical support, composition and nutritional value, and advertising and promotion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive factors description."
+  },
+  {
+   "text": "Key Competitors ADM, AAK AB, Cargill, Fuji Oil Co.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "List of competitors, factual."
+  },
+  {
+   "text": "Ltd., and Wilmar, as well as a variety of regional players in each region Recent Acquisitions/ Dispositions On August 5, 2025, we entered into an asset purchase agreement with Solae, L.L.C. to acquire substantially all assets related to the lecithin, soy protein concentrate and crush businesses of International Flavors and Fragrances, Inc.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a specific asset purchase agreement, factual business update."
+  },
+  {
+   "text": "On March 21, 2025, we entered into an agreement to sell our European margarines and spreads business.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes agreement to sell a business unit, factual."
+  },
+  {
+   "text": "Completion of the sale is subject to customary closing conditions, including regulatory approval, and is expected to close in 2026.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard closing-condition language for a transaction."
+  },
+  {
+   "text": "Grain Merchandising and Milling Segment Our Grain Merchandising and Milling segment involves the purchase, storage, transportation, distribution, and marketing of certain commodities primarily consisting of corn, wheat, barley, cotton, pulses, and sugar; activities also include the milling of wheat and sugar; and related services including ocean freight and financial services.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Segment description, descriptive."
+  },
+  {
+   "text": "Key Commodities Corn, Wheat, Barley, Cotton, Pulses, Sugar Key Regions The operations and assets of our merchandising operations are located throughout the world; milling operations and assets are primarily located in South America.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Listing of commodities and regions, descriptive."
+  },
+  {
+   "text": "Raw Materials Globally sourced directly from farmers or indirectly through intermediaries.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive raw material sourcing statement."
+  },
+  {
+   "text": "For the sugar milling business, a portion is sourced from our own production through leased land arrangements in Brazil.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive detail on sugar sourcing arrangement."
+  },
+  {
+   "text": "5 Table of Contents Competition Due to the commodity nature of grain products, markets for our products are highly competitive and subject to product substitution.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive risk language, commodity substitution."
+  },
+  {
+   "text": "Competition is principally based on price, quality, product and service offerings, and geographic location.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competition factors, boilerplate."
+  },
+  {
+   "text": "Competition for milling is based on a number of factors, including price, raw material procurement, distribution capability, cost structure, brand recognition, product quality, product innovation, technical support, composition and nutritional value, and advertising and promotion.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic competitive factors for milling business."
+  },
+  {
+   "text": "Corporate and Other Our remaining operations, forming Corporate and Other, which are not considered a reportable segment, consist of salaries and overhead for corporate functions, including acquisition and integration costs related to our acquisition of Viterra (discussed below), that are not allocated to one of our four reporting segments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Mentions integration costs tied to the Viterra acquisition, expanding on financial burden risk associated with the acquisition."
+  },
+  {
+   "text": "It also includes Bunge Ventures activity, our captive insurance activities, accounts receivable securitization activities, and certain income tax assets and liabilities, as well as the historical results of our former sugar and bioenergy segment, which was primarily comprised of our 50% interest in the BP Bunge Bioenergia joint venture, that we sold in October 2024.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Descriptive listing of corporate activities and historical JV sale, factual."
+  },
+  {
+   "text": "For more information on the Acquisition, see \"Item 7.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Cross-reference to another filing section, administrative."
+  },
+  {
+   "text": "All Board committees regularly report on their activities to the full Board to promote effective coordination and to ensure that the entire Board is aware of and considering major risks, how those risks may interrelate, and how management addresses those risks.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic corporate governance description of board risk oversight."
+  },
+  {
+   "text": "Finally, Bunge has management teams responsible for risk, including a Chief Risk Officer (\u201cCRO\u201d), a Management Risk Committee (\u201cMRC\u201d) and an internal audit team to assist with the implementation, governance and monitoring of risk management strategies and risk mitigation efforts.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes standard risk management organizational structure, boilerplate."
+  },
+  {
+   "text": "The CRO is the 6 Table of Contents management lead of the ERMC and oversees our enterprise risk management (\u201cERM\u201d) framework, policies and systems.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes CRO's role in ERM framework, boilerplate governance detail."
+  },
+  {
+   "text": "The EUDR's implementation date was first extended to December 2025 and has now been extended again until December 2026.",
+   "category": "expanded_existing_risk",
+   "rationale": "Updates the timeline for EUDR regulatory implementation, expanding on an existing regulatory compliance risk with new specific details."
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "ticker": "BXP",
+ "sector": "Real Estate",
+ "filing_date": "2026-02-27",
+ "accession": "0001037540-26-000006",
+ "prior_accession": "0001656423-25-000009",
+ "model": "claude-sonnet-5",
+ "n_added": 18,
+ "n_substantive": 12,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 7,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 6
+ },
+ "items": [
+  {
+   "text": "Supplemental United States Federal Income Tax Considerations The following discussion supplements and updates the disclosures under the heading \u201cUnited States Federal Income Tax Considerations\u201d in the prospectus dated May 17, 2023, contained in our Registration Statements on Form S-3 (File Nos.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Introductory boilerplate referencing prior prospectus disclosure, no risk content."
+  },
+  {
+   "text": "333-272012, 333-272012-01) filed with the Securities and Exchange Commission on May 17, 2023 (the \u201cExisting Tax Disclosure\u201d).",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to filing details, purely procedural."
+  },
+  {
+   "text": "Capitalized terms herein that are not otherwise defined shall have the same meaning as when used in the Existing Tax Disclosure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines capitalized terms by reference, no substantive content."
+  },
+  {
+   "text": "On July 4, 2025, the One Big Beautiful Bill Act (the \u201cOBBB\u201d), was enacted.",
+   "category": "expanded_existing_risk",
+   "rationale": "Notes enactment of new tax legislation that could affect existing REIT tax risk factor."
+  },
+  {
+   "text": "The OBBB makes major changes to the Code, including some provisions of the Code that affect the taxation of REITs and their investors.",
+   "category": "expanded_existing_risk",
+   "rationale": "States the new law affects REIT taxation, expanding the existing tax risk discussion."
+  },
+  {
+   "text": "In particular, \u2022 For taxable years beginning on or after January 1, 2026, the OBBB relaxed the REIT asset test requirement with respect to taxable REIT subsidiaries, providing that not more than 25% (relaxed from 20%) of the gross value of a REIT\u2019s assets may be represented by securities of one or more taxable REIT subsidiaries. \u2022 The OBBB permanently extended the pass-through qualified business income deduction, generally allowing individuals to deduct 20% of the aggregate amount of ordinary REIT dividends distributed by a REIT.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific REIT asset test and deduction changes that modify the scope of the existing tax risk factor."
+  },
+  {
+   "text": "This deduction was due to expire for tax years beginning after December 31, 2025. \u2022 The OBBB provides that the highest individual marginal tax rate will not revert from 37% to 39.6% for taxable years beginning after December 31, 2025.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further details on tax rate provisions extending the existing tax risk discussion, mostly favorable but still expands context."
+  },
+  {
+   "text": "The 37% rate is made permanent.",
+   "category": "expanded_existing_risk",
+   "rationale": "Confirms permanence of tax rate, continuing the expanded tax law discussion."
+  },
+  {
+   "text": "18 Table of Contents To the extent the information set forth in the Existing Tax Disclosure is inconsistent with this supplemental information, this supplemental information supersedes the information in the Existing Tax Disclosure.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard legal language about supersession of prior disclosure."
+  },
+  {
+   "text": "This supplemental information is provided on the same basis and subject to the same qualifications as are set forth in the first four paragraphs of the Existing Tax Disclosure as if those paragraphs were set forth in this Annual Report on Form 10-K.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reiterates existing qualifications, no new substantive risk."
+  },
+  {
+   "text": "For example, in connection with our offering of 2.00% Exchangeable Senior Notes due 2030 in September 2025, we entered into capped call transactions with certain option counterparties.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new financial instrument (capped call transactions) not previously disclosed, creating new counterparty exposure."
+  },
+  {
+   "text": "The option counterparties are financial institutions, and we are subject to the risk that any or all of them might default under the capped call transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifically identifies risk of default by option counterparties, a new distinct risk."
+  },
+  {
+   "text": "Our exposure to the credit risk of the option counterparties is not secured by any collateral.",
+   "category": "new_substantive_risk",
+   "rationale": "States exposure is unsecured, adding a specific new financial risk detail."
+  },
+  {
+   "text": "Further, global economic conditions have resulted in the actual or perceived failure or financial difficulties of certain financial institutions and could adversely impact the option counterparties\u2019 performance under the capped call transactions.",
+   "category": "new_substantive_risk",
+   "rationale": "Links macroeconomic financial institution failures to a new specific counterparty risk not previously mentioned."
+  },
+  {
+   "text": "We can provide no assurances as to the financial stability or viability of the option counterparties.",
+   "category": "new_substantive_risk",
+   "rationale": "Explicit statement of uncertainty about counterparties' financial stability, a new specific risk."
+  },
+  {
+   "text": "Properties like the ones that we own could be difficult to sell due to adverse economic conditions, a lack of available buyers and other conditions outside of our control.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about difficulty selling properties, expanding a general real estate market risk."
+  },
+  {
+   "text": "Any such inability to dispose of certain assets on the timelines we anticipate or on terms that are favorable to us, or at all, could negatively impact the proceeds we expect the multi-year asset sales program to generate, and accordingly, could adversely affect our financial condition and results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Connects asset sale difficulties to a specific multi-year program, expanding the existing risk about liquidity and asset sales."
+  },
+  {
+   "text": "We have implemented guidelines and policies specifically governing the use of AI tools in the workplace.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Brief statement about having AI usage guidelines, a policy note rather than a specific risk description."
+  }
+ ]
+}

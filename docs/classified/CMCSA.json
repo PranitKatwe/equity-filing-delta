@@ -1,0 +1,58 @@
+{
+ "ticker": "CMCSA",
+ "sector": "Communication Services",
+ "filing_date": "2026-02-03",
+ "accession": "0001628280-26-004994",
+ "prior_accession": "0001166691-25-000011",
+ "model": "claude-sonnet-5",
+ "n_added": 8,
+ "n_substantive": 6,
+ "counts": {
+  "new_substantive_risk": 4,
+  "expanded_existing_risk": 2,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "The popularity of many of these content distribution platforms has changed, and we expect will continue to change, consumers\u2019 expectations of video content, video aggregation services and the value of our video services, their willingness to pay for such content and services, their perception of quality entertainment and their tolerance for commercial interruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing competitive/market risk regarding changing consumer viewing habits and platform preferences, which is a continuation of known industry dynamics rather than a wholly new risk."
+  },
+  {
+   "text": "If our networks do not attract sufficient viewers, both new and existing multichannel video providers may be reluctant to distribute our networks or may decide to distribute our networks with significantly less favorable terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail to the pre-existing risk of network distribution challenges by specifying that low viewership could worsen distribution terms, expanding on an already recognized business risk."
+  },
+  {
+   "text": "25 Comcast 2025 Annual Report on Form 10-K Table of Contents If the Separation does not qualify as non-taxable, we and/or holders of our common stock could be subject to significant tax liability.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new, specific risk regarding potential tax liability if the Separation (spin-off) fails to qualify as tax-free, a topic not previously covered."
+  },
+  {
+   "text": "We have received an opinion of Davis Polk & Wardwell LLP that the Separation qualified as non-taxable for U.S. federal income tax purposes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States a factual legal opinion received about the Separation's tax treatment; it is disclosure context rather than an articulation of risk."
+  },
+  {
+   "text": "Notwithstanding the opinion, the IRS or a court could determine that the Separation should be treated as taxable.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces the specific possibility that the IRS or a court could override the opinion and deem the Separation taxable, a new and concrete risk."
+  },
+  {
+   "text": "If the Separation does not qualify as non-taxable, we and/or holders of our common stock could be subject to substantial U.S. and/or applicable non-U.S. taxes as a result, and we could incur significant liabilities under applicable law.",
+   "category": "new_substantive_risk",
+   "rationale": "Specifies substantial tax and legal liability consequences if the Separation is taxable, detailing a new financial risk tied to the spin-off."
+  },
+  {
+   "text": "If the failure to qualify is caused by any action taken by Versant, Versant is required to indemnify us for any resulting tax liabilities.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new contractual indemnification provision tied to the Separation's tax risk, adding a specific new business/legal detail."
+  },
+  {
+   "text": "In addition, regardless of the ultimate merit or outcome of such lawsuits, investigations or claims, these proceedings may have an adverse impact on our business as a result of legal costs, diversion of the attention of management and other personnel, harm to our reputation and other factors.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary language about litigation impact on reputation and costs, typical boilerplate risk disclosure without new specific facts."
+  }
+ ]
+}

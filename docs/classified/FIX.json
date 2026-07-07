@@ -1,0 +1,78 @@
+{
+ "ticker": "FIX",
+ "sector": "Industrials",
+ "filing_date": "2026-02-19",
+ "accession": "0001104659-26-017530",
+ "prior_accession": "0001558370-25-001222",
+ "model": "claude-sonnet-5",
+ "n_added": 12,
+ "n_substantive": 11,
+ "counts": {
+  "new_substantive_risk": 6,
+  "expanded_existing_risk": 5,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 1
+ },
+ "items": [
+  {
+   "text": "Moreover, if we do not employ new technologies as quickly or efficiently as our competitors, or if our competitors develop or utilize more cost-effective or customer-preferred technologies (such as data analytics, artificial intelligence and other new and emerging technologies) that give them a competitive advantage in the proposal bidding and selection process, it could have a material adverse effect on our ability to win and retain business from customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mention of AI and data analytics to an existing competitive/technology risk about winning and retaining business."
+  },
+  {
+   "text": "Operating in a number of jurisdictions could make our compliance with laws relating to climate change rules more complex and expensive and potentially expose us to greater levels of legal risks associated with our compliance.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding complexity and cost of complying with climate change laws across jurisdictions."
+  },
+  {
+   "text": "Our failure to comply with any applicable laws could lead to penalties and adversely impact our reputation, customer attraction and retention, access to capital and employee retention.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about consequences of non-compliance with laws, no specific new risk detail."
+  },
+  {
+   "text": "Because we make extensive use of third-party suppliers and service providers, such as cloud services that support our internal and customer-facing operations, successful cyberattacks that disrupt or result in unauthorized access to third party IT Systems can materially impact our operations and financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing cybersecurity risk disclosure to explicitly include third-party/cloud service provider vulnerabilities."
+  },
+  {
+   "text": "Remote and hybrid working arrangements at the Company (and at many third-party providers) also increase cybersecurity risks due to the challenges associated with managing remote computing assets and security vulnerabilities that are present in many non-corporate and home networks.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a specific new risk factor: remote/hybrid work arrangements increasing cybersecurity vulnerabilities."
+  },
+  {
+   "text": "Additionally, any integration of artificial intelligence in our or any service providers\u2019 operations, products or services is expected to pose new or unknown cybersecurity risks and challenges.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk of AI integration creating unknown cybersecurity risks."
+  },
+  {
+   "text": "Any circumvention or failure of our cybersecurity defenses or measures could compromise the confidentiality, integrity, and availability of our customers\u2019 own IT Systems and/or Confidential Information as well.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing cybersecurity risk to cover compromise of customers' own IT systems and confidential information."
+  },
+  {
+   "text": "Moreover, cyberattacks are expected to accelerate on a global basis in frequency and magnitude as threat actors are becoming increasingly sophisticated in using techniques and tools\u2014including artificial intelligence to engage in automated, targeted, and coordinated attacks\u2014that circumvent security controls, evade detection and remove forensic evidence.",
+   "category": "new_substantive_risk",
+   "rationale": "Adds specific new risk detail about AI-driven, automated and coordinated cyberattacks increasing in sophistication."
+  },
+  {
+   "text": "In addition, our IT Systems could be damaged or interrupted by natural disasters, power loss, or telecommunications failures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific causes (natural disasters, power loss, telecom failures) to existing IT systems disruption risk."
+  },
+  {
+   "text": "We also may be required to indemnify third parties for litigation brought against such third parties, even if we are not a defendant.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific litigation risk regarding indemnification obligations for third parties."
+  },
+  {
+   "text": "Our accounting for income taxes requires significant judgments and may be impacted by changes to our assessment of our projected tax liability, including our ability to realize deductions or credits in various tax jurisdictions.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific risk regarding judgment-based income tax accounting and its impact on liabilities."
+  },
+  {
+   "text": "Moreover, we may be affected by our ability to utilize, or in the valuation of, our deferred tax assets that are based on estimates of our future results, the prudence and feasibility of possible tax planning strategies, and the economic and political environments in which we do business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Builds on the newly introduced tax risk by adding detail about deferred tax asset valuation and tax planning strategies."
+  }
+ ]
+}

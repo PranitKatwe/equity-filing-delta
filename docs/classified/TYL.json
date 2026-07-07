@@ -1,0 +1,43 @@
+{
+ "ticker": "TYL",
+ "sector": "Information Technology",
+ "filing_date": "2026-02-18",
+ "accession": "0000860731-26-000016",
+ "prior_accession": "0000860731-25-000007",
+ "model": "claude-sonnet-5",
+ "n_added": 5,
+ "n_substantive": 2,
+ "counts": {
+  "new_substantive_risk": 1,
+  "expanded_existing_risk": 1,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 3
+ },
+ "items": [
+  {
+   "text": "These disclosures reflect the Company\u2019s beliefs and opinions as to factors that could materially and adversely affect the Company and its securities in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about disclosures reflecting beliefs/opinions; standard risk factor preamble language with no specific risk content."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such factors have occurred in the past or their likelihood of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about examples and past events not indicating future likelihood; standard cautionary boilerplate."
+  },
+  {
+   "text": "AI technology is rapidly evolving.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "A vague, generic statement that AI technology is evolving, with no specific risk to the business described."
+  },
+  {
+   "text": "There has also been a recent change in the legal standards and regulations that courts and the U.S. patent office may apply in favorably evaluating software patent rights (see the United States Patent and Trademark Office Memorandum dated December 5, 2025 to the Patent Examining Corp from Charles Kim, Deputy Commissioner for Patents regarding the advance notice of change to the Manual of Patent Examining Procedure in light of Ex Parte Desjardins, Appeal No.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding changes in legal standards/USPTO guidance affecting the viability of software patent rights, citing a specific memorandum and case."
+  },
+  {
+   "text": "2024-000567 (PTAB September 26, 2025, Appeals Review Panel Decision)).",
+   "category": "expanded_existing_risk",
+   "rationale": "Continuation of the citation details supporting the newly introduced patent law risk described in the prior sentence."
+  }
+ ]
+}

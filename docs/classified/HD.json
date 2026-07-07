@@ -1,0 +1,218 @@
+{
+ "ticker": "HD",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-03-18",
+ "accession": "0001628280-26-019436",
+ "prior_accession": "0000354950-25-000085",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 5,
+ "counts": {
+  "new_substantive_risk": 2,
+  "expanded_existing_risk": 3,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 35
+ },
+ "items": [
+  {
+   "text": "In fiscal 2025, SRS completed the acquisition of GMS, a leading distributor of specialty building products, including drywall, ceilings, steel framing and other complementary construction products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a completed acquisition (GMS) factually; no risk articulated."
+  },
+  {
+   "text": "OUR BUSINESS OUR STRATEGY The Home Depot is focused on leveraging its distinct competitive advantages \u2013 our brand, excellent customer service, product authority in home improvement, knowledgeable associates and culture, scale, premier real estate portfolio, digital and interconnected experience, supply chain network, and our deep relationships with Pros \u2013 to take advantage of the significant growth opportunities in the highly fragmented markets in which we operate.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General strategic overview of competitive advantages, not a risk statement."
+  },
+  {
+   "text": "In fiscal 2025, we strategically invested across our business to advance our growth strategy: \u2022 Drive our core and culture by supporting our associates so that they can deliver the best customer experience in home improvement; \u2022 Deliver a frictionless interconnected customer experience, regardless of whether our customers choose to engage and shop with us in-store or through our digital properties; and \u2022 Win with Pros through our differentiated value proposition and ecosystem of capabilities.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists strategic priorities/investments, purely descriptive."
+  },
+  {
+   "text": "Driven by our core values, our Inverted Pyramid model reminds us who matters most \u2013 our customers and our associates.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company culture/values, no risk content."
+  },
+  {
+   "text": "These values, embedded in our culture since the Company\u2019s founding, continue to guide us as our business evolves.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Statement about enduring values guiding the business; not a risk."
+  },
+  {
+   "text": "In fiscal 2025, we invested $3.7 billion in capital expenditures across initiatives supporting our strategy of driving our core and culture, including building new stores and maintaining existing stores, delivering a frictionless, interconnected experience, and winning with Pros.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports capital expenditure figures and strategic initiatives, factual disclosure."
+  },
+  {
+   "text": "SRS also acquired GMS to accelerate the vision of becoming a leading, multi-category building materials distributor.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes rationale for acquisition, business description not risk."
+  },
+  {
+   "text": "We continue to focus on driving productivity throughout the business, including by leveraging technology to drive efficiency in freight flow management, supply chain optimization, and streamlining central processes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about productivity focus, not risk-specific."
+  },
+  {
+   "text": "In fiscal 2025, we returned $9.2 billion to shareholders in the form of cash dividends, following a 2.2% increase in our quarterly cash dividend from $2.25 per share to $2.30 per share announced in February 2025.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reports dividend and shareholder return figures, factual disclosure."
+  },
+  {
+   "text": "The acquisition of GMS by SRS in fiscal 2025 further expanded our ability to serve Pros by adding specialty interior building products such as wallboard, ceilings, steel framing and complementary products for residential and commercial projects.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes expanded product offerings from acquisition, business description."
+  },
+  {
+   "text": "We believe these investments in differentiated capabilities support our goal to serve as the preferred partner for our Pros across their entire project, giving them the choice to streamline their purchasing to optimize efficiency and complete their jobs on time and on budget.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Belief statement about serving Pros, no risk element."
+  },
+  {
+   "text": "The strong strategic relationships that our merchandising organization builds with our vendors position us to deliver on our goals for our customers and offer a compelling business proposition for these market-leading suppliers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes vendor relationships positively, not a risk."
+  },
+  {
+   "text": "As part of our focus on product differentiation, we have formed strategic alliances and exclusive relationships with certain suppliers to market products under a variety of well-recognized brand names.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes supplier alliances for branding, business description."
+  },
+  {
+   "text": "For many years, we have worked to diversify our global supply chain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States ongoing supply chain diversification effort, no new risk."
+  },
+  {
+   "text": "When we discuss the \u201cinterconnected experience,\u201d we are referring to our customers\u2019 many touchpoints across our physical and digital assets throughout their entire shopping journey.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Defines a term used in business strategy, purely descriptive."
+  },
+  {
+   "text": "Home Depot is primarily a project retailer, and it is our goal to help customers solve problems across their entire project.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes company's retail model, not a risk."
+  },
+  {
+   "text": "We aim to provide the best experience across our physical and digital assets, throughout the entire shopping journey from inspiration to post-purchase support, and we believe that engagement with customers across different touchpoints has driven increases in sales.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes customer experience goals and belief in sales impact, not risk."
+  },
+  {
+   "text": "In addition, we are leveraging AI tools to improve our search, recommendations, and chat features, and offering new AI-powered customer-facing tools such as Magic Apron TM , which supports customers and associates with online product and project inquiries, and our AI-powered Blueprint Takeoffs Tool and Material List Builder, which generate project-specific materials lists and quotes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new AI-powered tools as business initiatives, not risk."
+  },
+  {
+   "text": "We also recognize that another critical part of delivering an excellent customer experience in the store is having products on our shelves, and we have enhanced our use of technology such as Computer Vision, which provides greater visibility into where product is located, including both on shelves and in the overhead space, enabling us to drive higher on-shelf availability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes technology use for inventory visibility, business description."
+  },
+  {
+   "text": "We expect to complete this goal of approximately 80 new stores in fiscal 2027, after which point we plan to open approximately 15 to 20 new stores per year.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States store expansion plans, factual business info."
+  },
+  {
+   "text": "Our Fiscal 2025 Form 10-K 5 Table of Contents hdPhones also give our U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragmentary reference to phone technology, page header text."
+  },
+  {
+   "text": "In addition, we are using labor model tools to better align associate activity with customer needs.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes labor model tools for staffing, business description."
+  },
+  {
+   "text": "This includes transitioning more of our store tasking to our merchandising execution team (MET), leveraging MET associates\u2019 expertise to reinforce in-aisle associates\u2019 focus on excellent customer service.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes internal task reallocation, operational detail not risk."
+  },
+  {
+   "text": "With that investment now largely complete, our supply chain initiatives have positioned us to operate effectively and meet our customers\u2019 needs for product availability and fast, reliable delivery.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "States supply chain investment is complete and effective, positive business claim."
+  },
+  {
+   "text": "Our 'ship from best location' initiative seeks to optimize delivery speed, reliability, cost, and capacity by leveraging machine learning algorithms to route orders to the optimal fulfillment node.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes a delivery optimization initiative, business description."
+  },
+  {
+   "text": "We are deploying a new delivery method called FDC Relay, which leverages our existing FDCs to enhance our performance in our current FDC markets and broadens our reach across a greater number of markets.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes new delivery method, business description."
+  },
+  {
+   "text": "Fiscal 2025 Form 10-K 7 Table of Contents Our Workforce.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section header for workforce discussion, no content."
+  },
+  {
+   "text": "(1) Includes associates in our sourcing organization located in India, Italy, Poland, T\u00fcrkiye, Taiwan, Vietnam and China.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Lists sourcing locations, factual detail."
+  },
+  {
+   "text": "Additional information regarding our workforce, including the demographic data for our U.S. associates, can be found in our Fiscal 2024 Living Our Values Report, available on our investor relations website at https://ir.homedepot.com/sustainability.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Reference to external report for workforce data, administrative note."
+  },
+  {
+   "text": "For instance, in Fiscal 2025, we made a significant investment in our people by increasing equity awards to our field leadership, including store managers and assistant store managers.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes compensation investment in leadership, business description."
+  },
+  {
+   "text": "We make available on the Investor Relations section of our website, free of charge, our filings with the SEC.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard disclosure about availability of SEC filings, boilerplate."
+  },
+  {
+   "text": "These disclosures reflect the Company\u2019s beliefs and opinions as to factors that could materially and adversely affect the Company and its securities in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing about beliefs/opinions, standard risk factor preamble."
+  },
+  {
+   "text": "References to past events are provided by way of example only and are not intended to be a complete listing or a representation as to whether or not such factors have occurred in the past or their likelihood of occurring in the future.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic disclaimer about past events, boilerplate language."
+  },
+  {
+   "text": "These trends include those driven by changes in the macroeconomic or political environment, geopolitical tensions or conflicts, military conflicts, or civil unrest, as well as unexpected weather conditions, natural disasters, or public health issues (including pandemics or quarantines and related impacts) that impact our customers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Broadens the macroeconomic/external risk factor to explicitly include geopolitical tensions, military conflicts, and civil unrest, expanding scope of an existing risk category."
+  },
+  {
+   "text": "New channels and tools to enhance the customer experience appear and change rapidly, and some of those technologies, such as generative and agentic AI tools, may dramatically change customer shopping and buying habits.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that generative and agentic AI tools could dramatically alter customer shopping/buying habits, a novel competitive threat not previously described."
+  },
+  {
+   "text": "We have also developed relationships with certain suppliers to allow us to offer proprietary products that are comparable to national brands.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes supplier relationships for proprietary products, business description."
+  },
+  {
+   "text": "These proprietary products help differentiate us from other retailers and generally carry higher margins than national brand products.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Describes benefits of proprietary products (differentiation, margins), not a risk."
+  },
+  {
+   "text": "Despite our efforts, our cybersecurity risk management processes may not be fully implemented, complied with or effective in preventing or mitigating future cybersecurity risks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on the existing cybersecurity risk by specifying that risk management processes may not be fully effective, deepening an already disclosed risk area."
+  },
+  {
+   "text": "The availability of AI may enable new types of threat actors who may not otherwise have had the capabilities to engage in malicious activity to do so, or may enhance the capabilities of nation-state actors or organizing or coordinating groups to carry out attacks, or may generally enable novel types of attacks to be developed and deployed.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies a new, specific threat vector\u2014AI enabling new or enhanced malicious actors and novel attack types\u2014not previously articulated."
+  },
+  {
+   "text": "Complying with current or contemplated information security, cybersecurity, data privacy, data protection, and data processing laws and regulations (including reporting and disclosure regimes), or any failure to comply, could cause us to incur substantial costs.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing data privacy/cybersecurity compliance risk by noting potential substantial costs from evolving legal requirements."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "ticker": "UNH",
+ "sector": "Health Care",
+ "filing_date": "2026-03-02",
+ "accession": "0000731766-26-000062",
+ "prior_accession": "0000731766-25-000063",
+ "model": "claude-sonnet-5",
+ "n_added": 11,
+ "n_substantive": 9,
+ "counts": {
+  "new_substantive_risk": 5,
+  "expanded_existing_risk": 4,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 2
+ },
+ "items": [
+  {
+   "text": "The risks and uncertainties discussed below are not the only risks we may face.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic cautionary framing about unlisted risks, no substantive content."
+  },
+  {
+   "text": "Threat actors and hackers have previously been, and may in the future be, able to negatively affect our operations by penetrating our security controls and causing system and operational disruptions or shutdowns.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity that cybersecurity incidents have previously occurred and may recur, expanding an existing cybersecurity risk with historical detail."
+  },
+  {
+   "text": "14 Table of Contents Our increasing use of AI presents legal, regulatory and business risks to our operations, reputation and financial results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk category around AI usage affecting operations, reputation and financial results."
+  },
+  {
+   "text": "While these technologies present opportunities to improve efficiency, enhance customer experience, and optimize clinical and administrative processes, they also entail risks and uncertainties.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about technology opportunities and risks without specific detail."
+  },
+  {
+   "text": "However, to the extent an AI system does not operate as intended or produces an inaccurate, incomplete or biased output, the system could impact operations, customer service or other functions and could have an adverse effect on our business, reputation, results of operations, financial position and cash flows.",
+   "category": "new_substantive_risk",
+   "rationale": "Details a specific mechanism by which AI system failure or bias could adversely affect the business, a new concrete risk."
+  },
+  {
+   "text": "Further, the increased availability of hybrid or remote working arrangements has expanded the pool of companies that can compete for qualified employees and executive candidates.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail about remote work expanding competitive labor pool, expanding existing talent competition risk."
+  },
+  {
+   "text": "Such litigation and misappropriation of our proprietary information could hinder our ability to market and sell products and services, which could materially and adversely affect our results of operations, financial position and cash flows.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on consequences of litigation/misappropriation of proprietary information, expanding existing IP risk."
+  },
+  {
+   "text": "We have been the subject of downgrades and other negative credit rating actions in past periods, and may not be able to maintain our current credit ratings in future periods.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific past credit rating downgrades and risk of inability to maintain ratings, a new concrete financial risk."
+  },
+  {
+   "text": "We increasingly rely on new and evolving technologies, including those powered by or incorporating AI, as part of our internal operations and in the delivery of our products and services.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces reliance on new AI-powered technologies as a specific operational risk area not previously described."
+  },
+  {
+   "text": "AI technologies are subject to evolving and uncertain U.S. federal, state, and international laws and regulations.",
+   "category": "new_substantive_risk",
+   "rationale": "Identifies specific new regulatory risk regarding evolving AI laws across jurisdictions."
+  },
+  {
+   "text": "Emerging requirements may impose new compliance obligations, increase operating costs, or limit certain uses of AI.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the AI regulatory risk introduced, detailing potential compliance cost impacts."
+  }
+ ]
+}

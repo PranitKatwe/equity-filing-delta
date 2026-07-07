@@ -1,0 +1,218 @@
+{
+ "ticker": "META",
+ "sector": "Communication Services",
+ "filing_date": "2026-01-29",
+ "accession": "0001628280-26-003942",
+ "prior_accession": "0001326801-25-000017",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 31,
+ "counts": {
+  "new_substantive_risk": 16,
+  "expanded_existing_risk": 15,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 9
+ },
+ "items": [
+  {
+   "text": "In April 2025, the European Commission issued a final decision that our \"subscription for no ads\" model does not comply with such requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new regulatory action: the EC's final decision against Meta's subscription-for-no-ads model."
+  },
+  {
+   "text": "We made significant modifications to LPA since the European Commission issued its final decision.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes company's response (modifications to LPA) as part of the same newly disclosed EC decision matter."
+  },
+  {
+   "text": "We have appealed the European Commission's decision but further modifications to our model may be imposed during the appeal process, which could result in a materially worse user experience for European users and a significant impact to our European business and revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses appeal and potential further forced modifications with material business/revenue impact in Europe, a concrete new risk."
+  },
+  {
+   "text": "For example, we have been the subject of media and government scrutiny relating to AI and AI chatbots, including inquiries and investigations by the FTC, members of Congress and state attorneys general.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new disclosure of FTC, Congressional, and state AG scrutiny/investigations into AI chatbots."
+  },
+  {
+   "text": "Further, we face significant competition from other companies that are developing their own AI features and technologies, including competition from AI features and technologies that may be similar or superior to our technologies or more cost-effective to develop and deploy, or that otherwise achieve more timely or successful market acceptance.",
+   "category": "expanded_existing_risk",
+   "rationale": "General competitive risk from AI, elaborating on existing competition risk without new specifics."
+  },
+  {
+   "text": "Our AI initiatives also depend on our access to data to effectively train our models, which is subject to risks related to the availability or costs of data, regulatory or other legal developments, or other factors, as well as our ability to attract and retain specialized personnel in a limited and competitive talent market.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on data access risks for AI training, expanding existing AI risk discussion."
+  },
+  {
+   "text": "In addition, AI may not develop in accordance with our expectations, and market acceptance of features, products, or services we build is uncertain.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about uncertainty of AI development and market acceptance."
+  },
+  {
+   "text": "We regularly evaluate our product roadmaps and make significant changes as our understanding of the technological challenges and market landscape of AI, as well as our product ideas and designs, continue to evolve.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about evolving product roadmaps, no specific new risk."
+  },
+  {
+   "text": "20 Table of Contents As a result of these or other factors, our Reality Labs strategy and investments may not be successful in the foreseeable future, or at all, which could adversely affect our business, reputation, or financial results.",
+   "category": "expanded_existing_risk",
+   "rationale": "Reiterates known Reality Labs risk with cautionary framing, no new specifics."
+  },
+  {
+   "text": "From time to time we make product changes and offer tools to promote creative content on our platform, but we may not be successful in obtaining or attracting engaging third-party content.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about content strategy success uncertainty."
+  },
+  {
+   "text": "We have also been, and expect to continue to be, subject to media coverage in connection with litigation matters.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about media coverage of litigation, not a new specific risk."
+  },
+  {
+   "text": "For example, several bellwether trials in our youth-related litigation matters are scheduled for 2026 and beyond.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new fact: bellwether youth litigation trials scheduled for 2026 and beyond."
+  },
+  {
+   "text": "We have made significant investments in AI initiatives, including investments in infrastructure and headcount, including specialized technical personnel, to support our efforts to enhance our products, features, and advertising tools, as well as to develop and train our AI models, and expect to continue to increase these investments.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on existing AI investment risk with more detail on infrastructure and headcount spending."
+  },
+  {
+   "text": "Our ability to support these investments is dependent on generating sufficient profits from other areas of our business.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure tying AI investment sustainability to profitability from other business areas, a specific financial dependency risk."
+  },
+  {
+   "text": "From time to time we may also seek to raise additional capital through debt, equity, or other financing arrangements to support our business operations, strategic initiatives, or other corporate purposes.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about potential future financing activities."
+  },
+  {
+   "text": "Such financings may not be available on favorable terms or at all.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard cautionary language about financing availability."
+  },
+  {
+   "text": "The incurrence of additional debt also results in increased fixed obligations and interest expense, while the issuance of additional equity securities results in dilution to our stockholders.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic description of debt/equity financing consequences."
+  },
+  {
+   "text": "If we are unable to obtain adequate financing when needed, our ability to finance our business operations and initiatives could be adversely affected.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard risk language about inability to obtain financing."
+  },
+  {
+   "text": "In the fourth quarter of 2025, we made certain updates to the methodology we use for this estimation, including to incorporate updated data signals as a result of improvements in our ability to identify activity we believe to be violating our policies, as well as to focus on the most recent account activity when determining whether to include a person in our violating accounts estimation.",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific methodology change in Q4 2025 for estimating violating accounts, a concrete operational/disclosure change."
+  },
+  {
+   "text": "We believe the increase compared to our prior estimation was a result of the methodology update described above.",
+   "category": "expanded_existing_risk",
+   "rationale": "Explains cause of metric increase tied to the newly disclosed methodology change."
+  },
+  {
+   "text": "We have seen an increase in litigation and threatened claims related to the provision of our services to younger users, and expect to face similar litigation in the future, including as global youth-related regulation continues to evolve.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on existing youth-related litigation risk noting increased claims and future expectation."
+  },
+  {
+   "text": "Certain jurisdictions have applied novel or aggressive interpretations of their laws in an effort to raise additional tax revenue from companies such as Meta, and we may experience similar developments in the future.",
+   "category": "new_substantive_risk",
+   "rationale": "New specific risk of aggressive tax interpretations targeting companies like Meta."
+  },
+  {
+   "text": "In the absence of active OECD discussions, countries may continue imposing unilateral tax measures, such as digital services taxes, outside existing treaty frameworks.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on unilateral tax measure risk already implied by OECD discussion context."
+  },
+  {
+   "text": "These measures may proliferate in the absence of bilateral or multilateral agreement.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about proliferation of tax measures without new specifics."
+  },
+  {
+   "text": "In addition, ongoing volatility due to international trade may prompt foreign governments to expand regulatory authority or adopt new measures, increasing compliance risks, taxes, and operational complexities.",
+   "category": "new_substantive_risk",
+   "rationale": "New link between international trade volatility and expanded regulatory/tax complexity."
+  },
+  {
+   "text": "Following the enactment of OBBBA, excess tax benefits from share-based compensation may not be realizable as a result of the Corporate Alternative Minimum Tax (CAMT).",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new tax law (OBBBA/CAMT) risk regarding realizability of tax benefits."
+  },
+  {
+   "text": "In future periods, the tax effects of share-based compensation are dependent on our stock price, which we do not control, the CAMT system, and future changes in tax laws.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on tax risk by adding CAMT and stock price dependency details."
+  },
+  {
+   "text": "As our company continues to evolve, the incentives to attract, retain, and motivate employees provided by our equity awards or by future arrangements may not be as effective as in the past.",
+   "category": "expanded_existing_risk",
+   "rationale": "Extends existing equity compensation risk to future effectiveness of incentives."
+  },
+  {
+   "text": "We have also implemented steps to comply with the above corrective orders and are pending the IDPC's confirmation that these address the corrective orders.",
+   "category": "new_substantive_risk",
+   "rationale": "New disclosure of specific compliance steps and pending confirmation from IDPC regarding corrective orders."
+  },
+  {
+   "text": "In April 2025, the European Commission issued a final decision that our \"subscription for no ads\" model does not comply with such requirements.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate of EC decision disclosure, same new substantive risk."
+  },
+  {
+   "text": "We made significant modifications to LPA since the European Commission issued its final decision.",
+   "category": "expanded_existing_risk",
+   "rationale": "Duplicate describing LPA modifications in response to EC decision."
+  },
+  {
+   "text": "We have appealed the European Commission's decision but further modifications to our model may be imposed during the appeal process, which could result in a materially worse user experience for European users and a significant impact to our European business and revenue.",
+   "category": "new_substantive_risk",
+   "rationale": "Duplicate of appeal risk with material business impact."
+  },
+  {
+   "text": "In the UK, the OSA establishes similar types of obligations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new regulatory framework (UK OSA) imposing similar obligations."
+  },
+  {
+   "text": "We are facing similar challenges in other jurisdictions, including Europe, Latin America, and Asia-Pacific.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement extending regulatory challenges to other jurisdictions without new specifics."
+  },
+  {
+   "text": "For example, various EU member states are currently considering a range of legislation from mandatory age verification requirements to banning minor access to social media services.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new legislative developments in EU member states on age verification and minor access."
+  },
+  {
+   "text": "Additionally, in June 2025, the Brazilian Supreme Court partially invalidated the country's intermediary liability framework, which previously limited platform responsibility for third-party content.",
+   "category": "new_substantive_risk",
+   "rationale": "Specific new court ruling (Brazilian Supreme Court) altering intermediary liability framework."
+  },
+  {
+   "text": "The new court-established liability framework requires platforms to remove unlawful content upon private notice and to implement adequate measures to prevent and remove illegal ads and content related to certain crimes under local law, resulting in civil liability in case of non-compliance.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides further detail on the new Brazilian liability framework introduced in prior sentence."
+  },
+  {
+   "text": "As a result, we anticipate making product and operational changes to our content reporting processes in Brazil and may face increased litigation and/or regulatory enforcement.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes anticipated operational response to the newly disclosed Brazil ruling."
+  },
+  {
+   "text": "Our AI initiatives and other efforts to develop and launch new features, products, and services in a timely manner may introduce additional risks and vulnerabilities that are not fully mitigated.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about AI-related risks and vulnerabilities, building on existing AI risk section."
+  },
+  {
+   "text": "In particular, our efforts to develop and deploy AI models, internal and third-party AI tools, and other AI applications expose us to increased and novel risks and vulnerabilities, including prompt injection, errors, and other issues related to AI agents, as well as compromise of valuable intellectual property including source code, model weights, and other assets.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new AI risk types like prompt injection and compromise of model weights/IP."
+  }
+ ]
+}

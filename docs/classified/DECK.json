@@ -1,0 +1,218 @@
+{
+ "ticker": "DECK",
+ "sector": "Consumer Discretionary",
+ "filing_date": "2026-05-22",
+ "accession": "0001628280-26-037664",
+ "prior_accession": "0000910521-25-000017",
+ "model": "claude-sonnet-5",
+ "n_added": 40,
+ "n_substantive": 29,
+ "counts": {
+  "new_substantive_risk": 11,
+  "expanded_existing_risk": 18,
+  "reworded_same_meaning": 7,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "New products may not achieve market acceptance, including due to pricing that consumers are unwilling to bear, or our brands may fall out of favor, which could impede our ability to maintain or grow sales, adversely affect brand perception, and negatively impact our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific detail about pricing tolerance and brand favor affecting sales, expanding the existing product/brand acceptance risk."
+  },
+  {
+   "text": "If we do not effectively respond to these changes, we could experience reduced sales and pressure on our gross profit as a percentage of net sales ( gross margin ), including as a result of reduced pricing power and increased reliance on promotional activity .",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specifics about reduced pricing power and promotional reliance to existing gross margin risk discussion."
+  },
+  {
+   "text": "The value of our brands is also driven by evolving consumer perceptions, including shifting ethical, political, or social standards.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "General statement about brand value being driven by consumer perception, largely framing language."
+  },
+  {
+   "text": "Concerns related to product pricing, quality, design, technical performance, components or materials (including sustainability), customer service, or the effectiveness of our brand loyalty initiatives, including loyalty programs, could result in negative perceptions, diminished consumer engagement, and a loss of brand loyalty or value.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing brand perception risk with additional factors like loyalty programs and sustainability."
+  },
+  {
+   "text": "These risks may be amplified by adverse publicity concerning us or our products, brands, marketing campaigns, partners, or endorsers, particularly where social media and digital marketing channels accelerate the dissemination, amplification, or persistence of negative claims, regardless of their accuracy, which could harm our reputation and sales and have a material adverse effect on our business.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specific mechanism (social media amplification) to existing reputational risk from adverse publicity."
+  },
+  {
+   "text": "In addition, actions or statements by third\u2011party partners, collaborators, or organizations with which we are associated, including in connection with social or political issues, could lead to consumer backlash, operational disruptions, or reputational harm.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a new specific risk regarding third-party partners' social/political statements causing backlash."
+  },
+  {
+   "text": "If our brand- related initiatives, including loyalty programs, fail to drive sustained consumer engagement or incremental demand, or involve increased costs or operational complexity that negatively affect customer perceptions, we could experience reduced sales and pressure on our gross margin , adversely affecting our results of operations.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands on loyalty program risk already covered, adding operational complexity angle."
+  },
+  {
+   "text": "A significant portion of our HOKA brand and UGG brand products are premium, discretionary purchases, and demand for these products is sensitive to macroeconomic factors, including inflation , wages and employment, consumer debt, declines in net worth driven by market conditions, interest rates, tariffs, and public health issues such as a pandemic.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds tariffs and interest rates as new macroeconomic factors to existing discretionary spending risk."
+  },
+  {
+   "text": "During periods of economic uncertainty, consumers may reduce discretionary purchases, trade down to lower-priced alternatives, or delay buying decisions, which could require us to increase promotional activity or reduce prices, adversely affecting our sales and profitability .",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing risk about consumers reducing discretionary spending and price sensitivity."
+  },
+  {
+   "text": "Financial difficulties among our customers could negatively affect our credit exposure, reserves, and relationships with key customers, and could reduce orders or increase the risk of delayed payments or defaults.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific credit risk exposure tied to customer financial difficulties."
+  },
+  {
+   "text": "Competition in our markets is influenced by factors such as Table of Contents 14 brand recognition, product innovation and performance, pricing, speed\u2011to\u2011market, marketing effectiveness, use of data analytics and AI , access to manufacturing capacity, and control of distribution channels.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds AI and data analytics as new competitive factors to existing competition risk."
+  },
+  {
+   "text": "Our competitors include both established global brands and newer market entrants, including competitors whose broader product assortments and higher sales volumes may be more important to certain customers.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement about competitors having broader assortments, minor expansion."
+  },
+  {
+   "text": "We believe that the growth and visibility of our HOKA brand and UGG brand have attracted competitors specifically targeting the categories in which we operate.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies that HOKA and UGG growth has attracted targeted competitors, expanding competition risk."
+  },
+  {
+   "text": "Barriers to entry have been reduced by access to offshore manufacturing and evolving technologies, allowing competitors to develop and scale products more quickly and at lower cost.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds detail on how offshore manufacturing lowers barriers to entry, expanding competitive risk."
+  },
+  {
+   "text": "As a result, we face ongoing competition for customer relationships and distribution channels, including competition for preferred access to key retail accounts, shelf space, and digital visibility.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates competition for distribution channels already implied."
+  },
+  {
+   "text": "Consistent with these dynamics, we have experienced, and expect to continue to experience, pricing and promotional pressure across our brands and channels, particularly during periods of elevated industry inventory levels or inflationary pressure.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity about pricing pressure during inventory/inflation periods to existing competitive pricing risk."
+  },
+  {
+   "text": "Increased discounting or promotional activity by competitors may require us to reduce prices or increase promotions to remain competitive, negatively affecting our gross margin and results of operations, and could cause consumers to shift purchases to competing products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details competitor discounting impact on margins, expanding existing pricing pressure risk."
+  },
+  {
+   "text": "As a result , these liquidity and working capital demands may limit our ability to adjust inventory levels and respond efficiently to changes in consumer demand, particularly during periods of macroeconomic uncertainty.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds liquidity/working capital angle to existing inventory management risk."
+  },
+  {
+   "text": "Our forecasting processes rely on assumptions, data, and systems that may not accurately reflect future consumer or customer demand, or supply chain conditions, including manufacturing capacity, raw material availability, and logistics constraints.",
+   "category": "reworded_same_meaning",
+   "rationale": "General restatement of forecasting risk with added supply chain factors."
+  },
+  {
+   "text": "Our distribution operations depend on the effective functioning of global transportation and logistics networks, including ports, carriers, and third-party service providers.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds specificity about reliance on logistics networks to existing supply chain risk."
+  },
+  {
+   "text": "Disruptions to these networks, including labor shortages or disputes, capacity constraints, fuel and freight cost volatility, routing inefficiencies, or infrastructure limitations could increase delivery times, delay inbound or outbound shipments, strain distribution capacity, increase fulfillment and other costs, and impair our ability to efficiently receive, store, and distribute products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details specific disruption causes (labor, fuel costs) expanding logistics risk."
+  },
+  {
+   "text": "Any significant disruption to our domestic warehouse or DC operations could a dversely affect our ability to fulfill customer orders .",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates warehouse disruption risk already covered."
+  },
+  {
+   "text": "In addition, increased reliance on automation, data analytics, and system integrations within our warehouse operations, including to address outdated or no longer supported software, systems and equipment, may increase the risk of system failures, data inaccuracies, or operational disruptions if such systems are not implemented or maintained effectively, which could similarly have a material adverse effect on our business.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific risk from automation/data system failures and outdated software in warehouse operations."
+  },
+  {
+   "text": "The ability of our independent manufacturers to meet these expectations may be adversely affected by liquidity constraints or limitations in their access to third-party financing arrangements supporting their supply chains or working capital needs, which could reduce available production capacity, delay shipments, or result in lost sales.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk regarding manufacturers' liquidity constraints and financing access affecting production."
+  },
+  {
+   "text": "Disruptions arising from these geographic concentrations, our limited control over independent manufacturers and their suppliers, or our manufacturers\u2019 inability to meet these expectations could adversely affect our ability to manufacture products or fulfill customer orders, which could negatively affect our results of operations.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates existing manufacturing disruption risk from geographic concentration."
+  },
+  {
+   "text": "Our dependence on a limited number of key manufacturing partners may increase our exposure to disruptions, pricing changes, or capacity constraints.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands existing manufacturing dependency risk with specifics on pricing and capacity constraints."
+  },
+  {
+   "text": "These relationships are typically governed by contractual arrangements.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement that relationships are contractual, no substantive risk."
+  },
+  {
+   "text": "In addition, disputes under these arrangements could result in litigation, arbitration, settlement costs, or operational disruptions.",
+   "category": "expanded_existing_risk",
+   "rationale": "Adds litigation/arbitration risk from manufacturer disputes, expanding existing relationship risk."
+  },
+  {
+   "text": "We may also be adversely affected by our customers\u2019 actions or omissions, including failures to comply with applicable laws, regulatory requirements, labor or employment standards, or our policies.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new risk from customer non-compliance with laws or standards affecting the company."
+  },
+  {
+   "text": "Such conduct could harm our reputation, subject us to regulatory scrutiny or liability, disrupt our relationships with other customers and business partners, and adversely affect demand for our products.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues and expands the customer conduct risk introduced in the prior sentence."
+  },
+  {
+   "text": "Transitioning away from an existing customer, whether due to performance or compliance concerns, may result in lost sales, significant transition costs, and operational disruption as we identify, onboard, and integrate replacement distribution or retail partners, and there can be no assurance that a replacement will generate comparable or improved results.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk about costs and disruption from transitioning away from customers."
+  },
+  {
+   "text": "As of March 31, 2026 , one customer represents 18.5% of trade accounts receivable, net, which is generally unsecured and exposes us to collection risk that could affect our results of operations and liquidity .",
+   "category": "new_substantive_risk",
+   "rationale": "Discloses specific new concentration risk with quantified customer receivable exposure."
+  },
+  {
+   "text": "W e rely on customer purchase orders and delivery schedules for forecasting sales and results of operations.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about reliance on customer purchase orders for forecasting."
+  },
+  {
+   "text": "If customers postpone, cancel, reduce, or discontinue orders, we may fail to meet our forecasts.",
+   "category": "reworded_same_meaning",
+   "rationale": "Restates risk of order cancellations affecting forecasts."
+  },
+  {
+   "text": "In addition, a key customer may liquidate excess inventory through discounted channels, including unauthorized sellers, which could negatively impact brand perception and divert demand from our authorized distribution channels.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new risk of customer liquidating inventory through unauthorized channels harming brand."
+  },
+  {
+   "text": "If our overall employment proposition, including compensation, benefits, culture, work model, or career development opportunities, is not perceived as favorable relative to other employers, our ability to attract, hire, and retain qualified personnel could be adversely affected.",
+   "category": "expanded_existing_risk",
+   "rationale": "Expands talent attraction risk with specific factors like work model and career development."
+  },
+  {
+   "text": "Accordingly, volatility in our stock price may adversely affect our ability to recruit and retain qualified talent.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces new specific link between stock price volatility and talent retention risk."
+  },
+  {
+   "text": "Any inability to attract, retain, or motivate executive officers, key employees, or other skilled personnel could adversely affect our ability to achieve our long-term strategic objectives, harm our results of operations, and impair our ability to compete effectively.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about inability to retain executives affecting business, standard boilerplate."
+  },
+  {
+   "text": "We purchase raw materials and components that are subject to supplier and geographic concentration, most significantly sheepskin, which is used in a substantial portion of our UGG brand products.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new supply concentration risk regarding sheepskin sourcing."
+  },
+  {
+   "text": "Sh eepskin is in high demand and sourced primarily from Australia and processed largely by two tanneries in China capable of meeting our quality, volume, and animal welfare standards .",
+   "category": "new_substantive_risk",
+   "rationale": "Adds highly specific new risk detail about sourcing from limited tanneries in China, a concrete supply chain vulnerability."
+  }
+ ]
+}

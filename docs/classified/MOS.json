@@ -1,0 +1,103 @@
+{
+ "ticker": "MOS",
+ "sector": "Materials",
+ "filing_date": "2026-02-27",
+ "accession": "0001285785-26-000017",
+ "prior_accession": "0001618034-25-000003",
+ "model": "claude-sonnet-5",
+ "n_added": 17,
+ "n_substantive": 13,
+ "counts": {
+  "new_substantive_risk": 3,
+  "expanded_existing_risk": 10,
+  "reworded_same_meaning": 0,
+  "boilerplate_or_reorder": 4
+ },
+ "items": [
+  {
+   "text": "This tariff went into effect on March 4, 2025, but beginning March 7, 2025, the U.S. exempted from this tariff goods that qualify as wholly originating in Canada under the United States\u2011Mexico\u2011Canada Agreement, including potash from Mosaic\u2019s Canadian operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces specific new tariff development on Canadian potash imports and a USMCA exemption, a concrete new business risk not previously disclosed."
+  },
+  {
+   "text": "The U.S. continues to assess the imposition of tariffs on Canadian potash.",
+   "category": "expanded_existing_risk",
+   "rationale": "Continues the tariff narrative introduced just above, elaborating on the same newly disclosed tariff risk rather than introducing a distinct one."
+  },
+  {
+   "text": "There is a risk that such tariffs may be imposed and sustained for an extended period.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further elaborates on the duration/persistence of the tariff risk already described in the prior sentences."
+  },
+  {
+   "text": "In addition, our investment in Ma\u2019aden is subject to stock\u2011market volatility, and declines in the market value of its publicly traded shares could reduce the value of our investment and negatively impact our results of operations and liquidity.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk that stock-market volatility in Ma'aden's shares could reduce investment value and hurt results/liquidity."
+  },
+  {
+   "text": "Following legal challenges consolidated in the U.S.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Fragment referencing a court name, part of a factual procedural narrative rather than a risk statement itself."
+  },
+  {
+   "text": "Court of Appeals for the Eighth Circuit, the SEC issued a voluntary stay of the climate rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Provides factual update on litigation status regarding existing climate disclosure regulatory risk, expanding known regulatory uncertainty rather than introducing a new risk category."
+  },
+  {
+   "text": "In March 2025, the SEC announced that it would end its defense of the climate-related disclosures.",
+   "category": "expanded_existing_risk",
+   "rationale": "Further factual update on SEC's regulatory stance regarding climate rules, part of ongoing regulatory risk narrative."
+  },
+  {
+   "text": "In September 2025, the Eight Circuit continued to hold the litigation in abeyance, pending definitive action by the SEC on the climate rules.",
+   "category": "expanded_existing_risk",
+   "rationale": "Additional procedural update on the same climate rule litigation, continuing to describe regulatory uncertainty already disclosed."
+  },
+  {
+   "text": "We carry our inventories at net realizable value.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Standard accounting policy statement about inventory valuation, not a risk disclosure."
+  },
+  {
+   "text": "Capital markets access, liquidity and credit ratings.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Section heading with no substantive content."
+  },
+  {
+   "text": "Our ability to fund operations, meet obligations, and pursue strategic initiatives depends on maintaining sufficient liquidity and access to capital markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "General statement about liquidity and capital market dependence, expanding on a standard financial risk theme."
+  },
+  {
+   "text": "We rely on cash generated from operations, committed credit facilities, and debt financing.",
+   "category": "boilerplate_or_reorder",
+   "rationale": "Generic statement about funding sources, standard descriptive language rather than a new risk."
+  },
+  {
+   "text": "Adverse conditions in global credit markets, disruptions in banking systems, or a deterioration in our financial performance could limit our ability to obtain financing on acceptable terms or at all.",
+   "category": "expanded_existing_risk",
+   "rationale": "Elaborates on how adverse credit market conditions could limit financing, expanding the existing liquidity/credit risk discussion."
+  },
+  {
+   "text": "Our credit ratings significantly affect our cost of borrowing and access to financing.",
+   "category": "expanded_existing_risk",
+   "rationale": "Details the importance of credit ratings to borrowing costs, expanding existing financial risk disclosure."
+  },
+  {
+   "text": "A downgrade by any major rating agency\u2014whether due to industry conditions, commodity price volatility, or company-specific factors\u2014could increase our borrowing costs and restrict access to credit markets.",
+   "category": "expanded_existing_risk",
+   "rationale": "Specifies consequences of a credit rating downgrade, further elaborating the same liquidity/credit risk theme."
+  },
+  {
+   "text": "If we are unable to maintain adequate liquidity or favorable credit ratings, we may be forced to reduce capital expenditures, delay strategic projects, or seek alternative financing under unfavorable terms.",
+   "category": "expanded_existing_risk",
+   "rationale": "Describes potential business impacts from liquidity or credit rating issues, continuing the expanded financial risk narrative."
+  },
+  {
+   "text": "Significant defaults by our customers, have in the past, and may in the future adversely affect our financial condition and results of operations.",
+   "category": "new_substantive_risk",
+   "rationale": "Introduces a specific new risk regarding past and potential future customer defaults affecting financial condition and results."
+  }
+ ]
+}
