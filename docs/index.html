@@ -93,6 +93,19 @@
   text { fill: var(--text-secondary); font-size: 12px; }
   ul { padding-left: 20px; } li { margin: 6px 0; }
   details { margin: 8px 0 0; } summary { cursor: pointer; color: var(--text-muted); font-size: 13px; }
+
+  /* collapsible plain-English explainer for non-technical visitors */
+  .explainer { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; box-shadow: var(--shadow); margin: 0 0 22px; }
+  .explainer > summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; padding: 15px 18px; font-weight: 600; font-size: 15px; color: var(--text-primary); }
+  .explainer > summary:hover { color: var(--holdout); }
+  .explainer > summary::-webkit-details-marker { display: none; }
+  .explainer > summary::before { content: "\25B8"; color: var(--holdout); transition: transform .15s; }
+  .explainer[open] > summary::before { transform: rotate(90deg); }
+  .explainer .body { padding: 2px 18px 18px; }
+  .explainer .body p { margin: 13px 0; }
+  .explainer .rules { margin: 12px 0 0; padding-left: 0; list-style: none; }
+  .explainer .rules li { margin: 10px 0; padding-left: 22px; position: relative; }
+  .explainer .rules li::before { content: "\2713"; position: absolute; left: 0; top: 0; color: var(--good); font-weight: 700; }
   table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 14px; }
   th, td { text-align: right; padding: 6px 10px; border-bottom: 1px solid var(--border); }
   th:first-child, td:first-child { text-align: left; }
@@ -155,6 +168,31 @@
   <!-- ============== FINDINGS (bottom) ============== -->
 
   <div class="divider"><span>What we found</span></div>
+
+  <details class="explainer">
+    <summary>New here? Read the plain-English version (about a minute)</summary>
+    <div class="body">
+      <p><strong>The question.</strong> Every US public company files a yearly report with the SEC (a "10-K") that
+      includes a "Risk Factors" section listing what could go wrong for the business. Companies reword that section a
+      little every year. We test whether large changes in that language predict how the stock moves over the following
+      weeks. There is a known finding (nicknamed "Lazy Prices") that the changes companies do make tend to carry real
+      news, often bad news, that the market is slow to price in.</p>
+      <p><strong>How we keep it honest.</strong> Four rules do the heavy lifting, and they are the real point of the
+      project:</p>
+      <ul class="rules">
+        <li><strong>Abnormal returns, not raw.</strong> If a stock rose 3% but the whole market rose 3% that week, it
+        did nothing special. We subtract what it would have done anyway, to isolate the part that might be tied to the filing.</li>
+        <li><strong>No lookahead.</strong> We only allow trading from the first market open after a filing becomes
+        public, never before it existed. This is the most common way people accidentally produce fake results.</li>
+        <li><strong>Costs included.</strong> An edge that disappears once you pay to buy and sell is not a real edge.</li>
+        <li><strong>Look-once holdout.</strong> We test on data we did not tune on, exactly once, so we are not just
+        memorizing noise.</li>
+      </ul>
+      <p><strong>What we found.</strong> The effect is real but weak, and it does not survive trading costs. That honest
+      "no" is the valuable result: a system you can trust to tell you when something does not hold up matters more than
+      a flashy signal that falls apart in practice.</p>
+    </div>
+  </details>
 
   <section style="margin-top:20px">
     <div class="card pad verdict">
