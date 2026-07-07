@@ -110,6 +110,27 @@
   th, td { text-align: right; padding: 6px 10px; border-bottom: 1px solid var(--border); }
   th:first-child, td:first-child { text-align: left; }
   footer { margin-top: 52px; padding-top: 20px; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 13px; }
+
+  /* system-design pipeline diagram */
+  .pipe { display: flex; flex-direction: column; margin: 18px 0 6px; }
+  .stage { display: flex; gap: 13px; align-items: flex-start; background: var(--surface-1);
+    border: 1px solid var(--border); border-radius: 12px; padding: 13px 16px; box-shadow: var(--shadow); }
+  .stage .chip { flex: none; width: 26px; height: 26px; border-radius: 8px; background: var(--holdout);
+    color: #fff; font-weight: 700; font-size: 13px; display: flex; align-items: center; justify-content: center; margin-top: 1px; }
+  .stage h3 { margin: 0 0 3px; font-size: 15px; }
+  .stage p { margin: 0; font-size: 14px; color: var(--text-secondary); }
+  .stage .mod { margin-top: 7px; font-size: 12px; color: var(--text-muted);
+    font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  .gate { display: inline-block; margin-left: 8px; vertical-align: 1px; font-size: 10px; font-weight: 700;
+    letter-spacing: .05em; text-transform: uppercase; color: var(--warn); border: 1px solid var(--warn);
+    border-radius: 999px; padding: 1px 8px; }
+  .flow-arrow { align-self: center; color: var(--text-muted); font-size: 15px; line-height: 1; padding: 5px 0; }
+  .sources, .endpoints { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .source { background: var(--surface-1); border: 1px dashed var(--border); border-radius: 12px;
+    padding: 11px 14px; font-size: 14px; }
+  .source strong { display: block; font-size: 14px; }
+  .source span { color: var(--text-muted); font-size: 12.5px; }
+  @media (max-width: 560px) { .sources, .endpoints { grid-template-columns: 1fr; } }
 </style>
 </head>
 <body>
@@ -262,6 +283,119 @@
     </ul>
     <p class="muted">Not claimed: <code>net_added</code> is a blunt mechanical count. A diff-grounded LLM classifier
     sharpens it into "substantive new risks vs boilerplate." Whether that survives is an open, documented next step.</p>
+  </section>
+
+  <section>
+    <h2>How it's built</h2>
+    <p class="lead">Free public data goes in one end; a calibrated verdict and two grounded tools come out the other.
+    The research pipeline runs offline and is fully reproducible from the repo; the serving layer runs on Vercel.</p>
+
+    <div class="pipe" aria-label="Research pipeline, data sources through verdict">
+      <div class="sources">
+        <div class="source"><strong>SEC EDGAR</strong><span>10-K filings + exact public timestamps (the event clock). Rate-limited, cached.</span></div>
+        <div class="source"><strong>Yahoo Finance</strong><span>Daily adjusted prices: each stock, the market benchmark, sector ETFs.</span></div>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8595;</div>
+
+      <div class="stage">
+        <div class="chip">1</div>
+        <div>
+          <h3>Event clock <span class="gate">no-lookahead gate</span></h3>
+          <p>Each filing's acceptance instant maps to the first market open strictly after it. No feature may use
+          data from after that instant, enforced in code and checked by a pre-event placebo window.</p>
+          <div class="mod">eventtime.py &middot; 18 tests</div>
+        </div>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8595;</div>
+
+      <div class="stage">
+        <div class="chip">2</div>
+        <div>
+          <h3>Extract and diff the text</h3>
+          <p>Pull Item 1A (Risk Factors) out of the filing HTML, then sentence-diff it against last year's:
+          added, removed, reworded. The diff grounds everything downstream; a model can label a change it is
+          shown, but it can never invent one.</p>
+          <div class="mod">ingest/sections.py &middot; delta/diff.py (rapidfuzz reconciliation)</div>
+        </div>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8595;</div>
+
+      <div class="stage">
+        <div class="chip">3</div>
+        <div>
+          <h3>Point-in-time feature panel</h3>
+          <p>One row per filing event: net added risk language, document similarity, tone deltas. Every feature is
+          computable from information available at the event instant, by construction.</p>
+          <div class="mod">delta/panel.py &middot; delta/tone.py (Loughran-McDonald)</div>
+        </div>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8595;</div>
+
+      <div class="stage">
+        <div class="chip">4</div>
+        <div>
+          <h3>Event study</h3>
+          <p>Abnormal returns against three expected-return models (market, sector, market-model beta), CAR windows
+          of 1, 5, and 21 days, plus the placebo window and momentum and beta controls.</p>
+          <div class="mod">study/abnormal.py &middot; study/car.py</div>
+        </div>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8595;</div>
+
+      <div class="stage">
+        <div class="chip">5</div>
+        <div>
+          <h3>Honest test</h3>
+          <p>Cross-sections with filing-date-clustered errors, an in-sample/holdout split examined once, and a
+          net-of-cost long-short spread. Output: the verdict at the top of this page.</p>
+          <div class="mod">study/crosssection.py &middot; study/portfolio.py &middot; study/costs.py</div>
+        </div>
+      </div>
+    </div>
+
+    <p class="lead" style="margin-top:26px"><strong>Serving layer.</strong> The pipeline's outputs are baked into the
+    deployment as fixed, server-side data. The browser only ever sends an event ID or a question:</p>
+
+    <div class="pipe" aria-label="Serving layer, this page through the model">
+      <div class="stage">
+        <div class="chip">A</div>
+        <div>
+          <h3>This page</h3>
+          <p>A single static file on Vercel. The company search reads a small pre-built index; no framework, no build step.</p>
+          <div class="mod">docs/index.html &middot; panel_index.json</div>
+        </div>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8595;</div>
+      <div class="endpoints">
+        <div class="stage">
+          <div class="chip">B</div>
+          <div>
+            <h3>/api/narrate</h3>
+            <p>Looks up one real event's pre-computed numbers server-side and turns them into a cited memo.</p>
+            <div class="mod">api/narrate.py &middot; _panel.py (4,697 events)</div>
+          </div>
+        </div>
+        <div class="stage">
+          <div class="chip">C</div>
+          <div>
+            <h3>/api/ask</h3>
+            <p>Answers a question strictly from the real added, removed, and reworded sentences of one filing.</p>
+            <div class="mod">api/ask.py &middot; _passages.py (480 companies)</div>
+          </div>
+        </div>
+      </div>
+      <div class="flow-arrow" aria-hidden="true">&#8595;</div>
+      <div class="stage">
+        <div class="chip">D</div>
+        <div>
+          <h3>GLM 5.2 <span class="gate">grounded</span></h3>
+          <p>Free via NVIDIA's endpoint. The model restates and cites what the pipeline computed. It never computes a
+          figure, never predicts, never advises. Unknown IDs are rejected before any model call; requests are
+          rate-limited and cached.</p>
+          <div class="mod">integrate.api.nvidia.com &middot; z-ai/glm-5.2</div>
+        </div>
+      </div>
+    </div>
   </section>
 
   <footer>
