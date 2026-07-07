@@ -6,6 +6,25 @@ The pipeline extracts *structured deltas* from consecutive 10-K filings (new / r
 
 ---
 
+## In plain English (for non-technical readers)
+
+**The question.** Every public US company files a yearly report with the SEC called a "10-K." It includes a "Risk Factors" section listing what could go wrong for the business. Companies reword that section a little every year: they add new risks, drop old ones, and rephrase others. We test a simple idea: **when a company changes that language a lot, does its stock move in a predictable way in the weeks afterward?**
+
+**Why it might.** There is a well-known finding (nicknamed "Lazy Prices") that companies usually reuse last year's wording, so the changes they *do* make tend to carry real news, often bad news, that the market is slow to react to.
+
+**How we measure it honestly.** A few disciplines separate real analysis from wishful thinking, and they are the whole point of this project:
+
+- **We use "abnormal" returns, not raw returns.** If a stock rose 3% but the whole market rose 3% that week, the stock did nothing special. We always subtract what the stock would have done anyway, so we isolate the part that might be tied to the filing.
+- **We never use information before it existed (no "lookahead").** Each filing has an exact public timestamp, and we only allow trading from the first market open *after* it. This sounds obvious, but it is the most common way people accidentally produce fake results.
+- **We include trading costs.** An edge that vanishes once you pay to buy and sell is not a real edge.
+- **We test on data we did not tune on (a "holdout"), and we look at it only once.** That is the honest final exam. If you keep tweaking until the numbers look good, you are just memorizing noise.
+
+**What we found.** The effect is real but weak, and **it does not survive trading costs.** It leaned the expected direction only slightly, and it was not consistent across time periods.
+
+**Why a "no" is the valuable result.** Anyone can produce an exciting "yes" by peeking at the answer, ignoring costs, and tuning until the data looks good. The hard and credible thing is a system that can honestly say "this does not hold up." That trustworthy machinery, not a magic trading signal, is what this project delivers. The two live tools at the top of the site let you see the underlying filing changes and the returns for any S&P 500 company.
+
+---
+
 ## The one thing to understand about this project
 
 **The harness is the crown jewel, not the signal.** In equities, anyone can fit something that looks like alpha in-sample. Credibility lives entirely in the methodology: point-in-time data, no lookahead, transaction costs, a real benchmark, and a holdout that is looked at once. So the headline here is *not* "a model that predicts returns" — it's **"a harness that says, honestly, whether a signal survives."** A weak-but-honest result beats a strong-but-fake one, every time.
