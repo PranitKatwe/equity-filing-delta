@@ -8,7 +8,7 @@ from eqd.delta.embed import chunk_text, embed_delta, section_vector
 class FakeModel:
     """Deterministic stand-in: same text -> same vector, different -> different."""
 
-    def embed(self, chunks):
+    def embed(self, chunks, batch_size=None):
         for c in chunks:
             yield np.array([len(c) % 97 + 1.0, c.count("a") + 1.0, c.count("risk") + 1.0])
 

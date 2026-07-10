@@ -30,6 +30,7 @@ import numpy as np
 
 MODEL_NAME = os.getenv("EQD_EMBED_MODEL", "BAAI/bge-large-en-v1.5")
 CHUNK_CHARS = 1800  # ~450 tokens, safely inside the model's 512-token window
+EMBED_BATCH = 32    # fastembed's default of 256 blows past a 6GB laptop GPU
 
 _SENT_SPLIT = re.compile(r"(?<=[.!?])\s+")
 
@@ -76,7 +77,7 @@ def section_vector(text: str, model) -> np.ndarray | None:
     chunks = chunk_text(text)
     if not chunks:
         return None
-    vecs = np.asarray(list(model.embed(chunks)), dtype=np.float64)
+    vecs = np.asarray(list(model.embed(chunks, batch_size=EMBED_BATCH)), dtype=np.float64)
     v = vecs.mean(axis=0)
     n = np.linalg.norm(v)
     return v / n if n > 0 else None
