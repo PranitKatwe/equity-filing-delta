@@ -389,6 +389,29 @@
   </section>
 
   <section>
+    <h2>Signal #2: measuring meaning change, not counting sentences</h2>
+    <p class="muted">Motivated by Didisheim, Kelly, Pourmohammadi and Tian's "The Inefficient Pricing of News"
+    (NBER w35093): represent text as an embedding vector and treat only the part not explained by firm
+    characteristics as news. Here, each Item 1A is embedded locally (bge-large, chunked and mean-pooled) and the
+    signal is the cosine distance between consecutive years, plus a residualized version that strips what sector
+    and section size predict, fit on prior years only so nothing leaks backward.</p>
+    <table>
+      <thead><tr><th>Test (in-sample, 2,529 events)</th><th>emb_delta</th><th>residualized</th></tr></thead>
+      <tbody>
+        <tr><td>Placebo [-5,-1] (want insignificant)</td><td>p=0.34, clean</td><td>p=0.82, clean</td></tr>
+        <tr><td>CAR[0,+5] coef per 1 SD</td><td>-0.10%, p=0.56</td><td>-0.10%, p=0.63</td></tr>
+        <tr><td>CAR[0,+21] coef per 1 SD</td><td>+0.30%, p=0.19 (wrong sign)</td><td>+0.40%, p=0.13 (wrong sign)</td></tr>
+        <tr><td>Long-short spread, net of costs</td><td colspan="2">-0.43% (p=0.47)</td></tr>
+      </tbody>
+    </table>
+    <p class="muted" style="margin-top:14px">Same verdict as the mechanical count: nothing significant, the sign
+    flips across horizons, and the spread is negative after costs. That is informative. The paper's version works on
+    monthly news across thousands of names; at one filing per company per year there are too few independent bets
+    for a faint text effect to clear costs. In-sample only, stated plainly: the holdout was spent on the original
+    signal, and judging this one honestly would need a fresh out-of-time window, looked at once.</p>
+  </section>
+
+  <section>
     <h2>Why this is the credible outcome</h2>
     <p>A 30-name subsample showed a <em>strong, significant</em> holdout effect. The full 500 washes it out, a
     textbook demonstration of why out-of-sample, full-universe, net-of-cost discipline exists. The methodology is
