@@ -14,6 +14,7 @@ dependencies = [
     "statsmodels>=0.14",     # market model + cross-sectional inference
     "openai>=1.30",          # grounded narrator via GLM 5.2 (NVIDIA OpenAI-compatible endpoint)
     "anthropic>=0.40",       # diff-grounded LLM risk-factor classifier (structured outputs)
+    "fastembed>=0.3",        # local CPU embeddings (bge-small) for the embedding-change signal
 ]
 
 [project.optional-dependencies]
